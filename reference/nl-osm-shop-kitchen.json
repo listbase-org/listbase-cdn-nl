@@ -1,0 +1,4601 @@
+{
+  "id": "nl-osm-shop-kitchen",
+  "name": "Netherlands OSM: kitchen (shop=kitchen)",
+  "title": "Netherlands OSM: kitchen (shop=kitchen)",
+  "description": "Named OpenStreetMap features tagged shop=kitchen in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 650,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "1-2-3 Keukenapparatuur",
+      "latitude": 52.424999,
+      "longitude": 4.951957,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 2,
+      "name": "123apparatuur.nl",
+      "latitude": 52.012078,
+      "longitude": 5.559717,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 3,
+      "name": "ACP Keukenrenovaties",
+      "latitude": 51.262737,
+      "longitude": 5.909669,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 4,
+      "name": "ASWA Keukens Uden",
+      "latitude": 51.671144,
+      "longitude": 5.607201,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 5,
+      "name": "AV Keukens",
+      "latitude": 52.256232,
+      "longitude": 5.613341,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 6,
+      "name": "Abitare",
+      "latitude": 50.99163,
+      "longitude": 5.819226,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 7,
+      "name": "Accénto Keukens",
+      "latitude": 53.290961,
+      "longitude": 6.011769,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 8,
+      "name": "Adee Keukens",
+      "latitude": 52.316084,
+      "longitude": 6.50044,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 9,
+      "name": "Alexx",
+      "latitude": 51.824839,
+      "longitude": 5.810323,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 10,
+      "name": "Algatron",
+      "latitude": 52.078349,
+      "longitude": 4.286143,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 11,
+      "name": "All Inn Keukens",
+      "latitude": 52.510047,
+      "longitude": 5.004898,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 12,
+      "name": "Altis Keukens",
+      "latitude": 51.756235,
+      "longitude": 5.555046,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 13,
+      "name": "AnCor Design",
+      "latitude": 51.906424,
+      "longitude": 4.096232,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 14,
+      "name": "Annemarijn at Home",
+      "latitude": 52.140363,
+      "longitude": 6.196868,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 15,
+      "name": "Anovi Keukens",
+      "latitude": 51.989957,
+      "longitude": 4.475837,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 16,
+      "name": "Ardi Keukens",
+      "latitude": 51.595475,
+      "longitude": 4.109639,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 17,
+      "name": "Arma Keukens",
+      "latitude": 52.390585,
+      "longitude": 5.809575,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 18,
+      "name": "Art Design",
+      "latitude": 51.924611,
+      "longitude": 4.489493,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 19,
+      "name": "Arte Vita Italiaanse Keukens",
+      "latitude": 52.141361,
+      "longitude": 6.196169,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 20,
+      "name": "Artic Keukens",
+      "latitude": 52.129412,
+      "longitude": 5.083775,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 21,
+      "name": "Assos Keukens & Badkamers",
+      "latitude": 52.167683,
+      "longitude": 5.363303,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 22,
+      "name": "Asto Keukens",
+      "latitude": 51.864009,
+      "longitude": 4.460415,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 23,
+      "name": "Aswa Keukens",
+      "latitude": 51.792948,
+      "longitude": 4.647759,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 24,
+      "name": "Avance Keukenstudio",
+      "latitude": 52.662663,
+      "longitude": 5.062649,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 25,
+      "name": "Avanti Keukens",
+      "latitude": 51.93543,
+      "longitude": 5.593886,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 26,
+      "name": "BSH Inspiratiehuis 20|20",
+      "latitude": 52.289972,
+      "longitude": 4.704293,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 27,
+      "name": "Baboon",
+      "latitude": 52.377031,
+      "longitude": 4.883819,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 28,
+      "name": "Bael Keukens",
+      "latitude": 52.481231,
+      "longitude": 4.657585,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 29,
+      "name": "Beerens Roggel BV",
+      "latitude": 51.259863,
+      "longitude": 5.906616,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 30,
+      "name": "Bellizzo",
+      "latitude": 52.514088,
+      "longitude": 6.099583,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 31,
+      "name": "Belmar Keukens en Badkamers",
+      "latitude": 51.78434,
+      "longitude": 4.691132,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 32,
+      "name": "Bemmel & Kroon Keukens",
+      "latitude": 52.332625,
+      "longitude": 4.628027,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 33,
+      "name": "Bert van Vlijmen Keukenarchitectuur",
+      "latitude": 51.705281,
+      "longitude": 5.458567,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 34,
+      "name": "Beta Keukens",
+      "latitude": 52.397981,
+      "longitude": 4.940013,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 35,
+      "name": "Bij de Heren",
+      "latitude": 52.378226,
+      "longitude": 4.631275,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 36,
+      "name": "Bij ons in de keuken",
+      "latitude": 52.034979,
+      "longitude": 5.16915,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 37,
+      "name": "Boco Keukens",
+      "latitude": 52.139351,
+      "longitude": 6.203294,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 38,
+      "name": "Bours",
+      "latitude": 50.949054,
+      "longitude": 5.785416,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 39,
+      "name": "BouwToe BV",
+      "latitude": 51.511353,
+      "longitude": 5.052337,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 40,
+      "name": "Bouwtotaal Keukens",
+      "latitude": 51.754638,
+      "longitude": 5.262944,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 41,
+      "name": "Brasserie de cuyper",
+      "latitude": 52.959941,
+      "longitude": 5.922861,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 42,
+      "name": "Brink Keukens",
+      "latitude": 52.012158,
+      "longitude": 5.559785,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 43,
+      "name": "Brugman",
+      "latitude": 50.90048,
+      "longitude": 5.942427,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 44,
+      "name": "Brugman",
+      "latitude": 51.192921,
+      "longitude": 5.982995,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 45,
+      "name": "Brugman",
+      "latitude": 51.273252,
+      "longitude": 4.041919,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 46,
+      "name": "Brugman",
+      "latitude": 51.382185,
+      "longitude": 6.184075,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 47,
+      "name": "Brugman",
+      "latitude": 51.498938,
+      "longitude": 3.88054,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 48,
+      "name": "Brugman",
+      "latitude": 51.499417,
+      "longitude": 5.469923,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 49,
+      "name": "Brugman",
+      "latitude": 51.535993,
+      "longitude": 4.486208,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 50,
+      "name": "Brugman",
+      "latitude": 51.543121,
+      "longitude": 5.084358,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 51,
+      "name": "Brugman",
+      "latitude": 51.581182,
+      "longitude": 4.733342,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 52,
+      "name": "Brugman",
+      "latitude": 51.71067,
+      "longitude": 5.337767,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 53,
+      "name": "Brugman",
+      "latitude": 51.824979,
+      "longitude": 5.799716,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 54,
+      "name": "Brugman",
+      "latitude": 51.871532,
+      "longitude": 4.546964,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 55,
+      "name": "Brugman",
+      "latitude": 51.950097,
+      "longitude": 5.873514,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 56,
+      "name": "Brugman",
+      "latitude": 51.957834,
+      "longitude": 4.580696,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 57,
+      "name": "Brugman",
+      "latitude": 52.01444,
+      "longitude": 4.279301,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 58,
+      "name": "Brugman",
+      "latitude": 52.029551,
+      "longitude": 5.622181,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 59,
+      "name": "Brugman",
+      "latitude": 52.061778,
+      "longitude": 5.103991,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 60,
+      "name": "Brugman",
+      "latitude": 52.070787,
+      "longitude": 4.334768,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 61,
+      "name": "Brugman",
+      "latitude": 52.140219,
+      "longitude": 4.53718,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 62,
+      "name": "Brugman",
+      "latitude": 52.150478,
+      "longitude": 6.191917,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 63,
+      "name": "Brugman",
+      "latitude": 52.187805,
+      "longitude": 5.41456,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 64,
+      "name": "Brugman",
+      "latitude": 52.222822,
+      "longitude": 5.151108,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 65,
+      "name": "Brugman",
+      "latitude": 52.281232,
+      "longitude": 6.77712,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 66,
+      "name": "Brugman",
+      "latitude": 52.297992,
+      "longitude": 4.710531,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 67,
+      "name": "Brugman",
+      "latitude": 52.312215,
+      "longitude": 4.939086,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 68,
+      "name": "Brugman",
+      "latitude": 52.392922,
+      "longitude": 5.272356,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 69,
+      "name": "Brugman",
+      "latitude": 52.427172,
+      "longitude": 4.82522,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 70,
+      "name": "Brugman",
+      "latitude": 52.493999,
+      "longitude": 6.118347,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 71,
+      "name": "Brugman",
+      "latitude": 52.513418,
+      "longitude": 4.999309,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 72,
+      "name": "Brugman",
+      "latitude": 52.636179,
+      "longitude": 4.749911,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 73,
+      "name": "Brugman",
+      "latitude": 52.763754,
+      "longitude": 6.902344,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 74,
+      "name": "Brugman",
+      "latitude": 53.012832,
+      "longitude": 6.571613,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 75,
+      "name": "Brugman",
+      "latitude": 53.202141,
+      "longitude": 5.819727,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 76,
+      "name": "Brugman",
+      "latitude": 53.209544,
+      "longitude": 6.547502,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 77,
+      "name": "Bruynzeel Keukens",
+      "latitude": 50.899713,
+      "longitude": 5.942268,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 78,
+      "name": "Bruynzeel Keukens",
+      "latitude": 51.481592,
+      "longitude": 3.625497,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 79,
+      "name": "Bruynzeel Keukens",
+      "latitude": 51.493435,
+      "longitude": 4.277299,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 80,
+      "name": "Bruynzeel Keukens",
+      "latitude": 51.499794,
+      "longitude": 5.470716,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 81,
+      "name": "Bruynzeel Keukens",
+      "latitude": 51.581498,
+      "longitude": 4.731981,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 82,
+      "name": "Bruynzeel Keukens",
+      "latitude": 51.709218,
+      "longitude": 5.336666,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 83,
+      "name": "Bruynzeel Keukens",
+      "latitude": 51.793561,
+      "longitude": 4.647974,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 84,
+      "name": "Bruynzeel Keukens",
+      "latitude": 51.854777,
+      "longitude": 4.305368,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 85,
+      "name": "Bruynzeel Keukens",
+      "latitude": 51.871753,
+      "longitude": 4.546126,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 86,
+      "name": "Bruynzeel Keukens",
+      "latitude": 51.95129,
+      "longitude": 4.562196,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 87,
+      "name": "Bruynzeel Keukens",
+      "latitude": 51.965701,
+      "longitude": 5.990355,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 88,
+      "name": "Bruynzeel Keukens",
+      "latitude": 52.000039,
+      "longitude": 4.361196,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 89,
+      "name": "Bruynzeel Keukens",
+      "latitude": 52.061944,
+      "longitude": 5.10272,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 90,
+      "name": "Bruynzeel Keukens",
+      "latitude": 52.083255,
+      "longitude": 4.303508,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 91,
+      "name": "Bruynzeel Keukens",
+      "latitude": 52.157941,
+      "longitude": 4.546855,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 92,
+      "name": "Bruynzeel Keukens",
+      "latitude": 52.312043,
+      "longitude": 4.939065,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 93,
+      "name": "Bruynzeel Keukens",
+      "latitude": 52.331616,
+      "longitude": 4.627967,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 94,
+      "name": "Bruynzeel Keukens",
+      "latitude": 52.394371,
+      "longitude": 5.274284,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 95,
+      "name": "Bruynzeel Keukens",
+      "latitude": 52.427631,
+      "longitude": 4.826082,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 96,
+      "name": "Bruynzeel Keukens",
+      "latitude": 52.496843,
+      "longitude": 6.124181,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 97,
+      "name": "Bruynzeel Keukens",
+      "latitude": 52.626747,
+      "longitude": 4.772119,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 98,
+      "name": "Bruynzeel Keukens",
+      "latitude": 53.214406,
+      "longitude": 6.534923,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 99,
+      "name": "Budget Select Keukens",
+      "latitude": 52.229509,
+      "longitude": 5.972541,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 100,
+      "name": "Bulthaup",
+      "latitude": 51.209979,
+      "longitude": 6.015134,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 101,
+      "name": "Bulthaup",
+      "latitude": 52.062536,
+      "longitude": 4.343803,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 102,
+      "name": "Bulthaup Keukenmontage",
+      "latitude": 52.155788,
+      "longitude": 4.468919,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 103,
+      "name": "Bulthaup keukens",
+      "latitude": 52.515124,
+      "longitude": 6.097485,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 104,
+      "name": "CVT Keukens & Interieur",
+      "latitude": 51.587818,
+      "longitude": 5.031945,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 105,
+      "name": "Cheap Keukens",
+      "latitude": 52.479274,
+      "longitude": 4.661078,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 106,
+      "name": "Clear Kitchen",
+      "latitude": 52.304599,
+      "longitude": 4.861191,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 107,
+      "name": "Clear kitchen",
+      "latitude": 51.588221,
+      "longitude": 4.772506,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 108,
+      "name": "Combi Keukens",
+      "latitude": 52.208241,
+      "longitude": 6.872823,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 109,
+      "name": "Comprex Amsterdam",
+      "latitude": 52.326529,
+      "longitude": 4.868375,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 110,
+      "name": "Cucina Madali",
+      "latitude": 52.300245,
+      "longitude": 5.626211,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 111,
+      "name": "Culemborgs keukenhuis",
+      "latitude": 51.943693,
+      "longitude": 5.212498,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 112,
+      "name": "De Graaf",
+      "latitude": 51.917142,
+      "longitude": 4.335976,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 113,
+      "name": "De Keukenbaas",
+      "latitude": 52.301167,
+      "longitude": 6.754173,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 114,
+      "name": "De Keukenhaven",
+      "latitude": 51.59118,
+      "longitude": 4.525345,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 115,
+      "name": "De Koning Keukens",
+      "latitude": 53.010688,
+      "longitude": 6.578748,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 116,
+      "name": "De Porseleinkast",
+      "latitude": 52.203354,
+      "longitude": 4.398688,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 117,
+      "name": "De Struker",
+      "latitude": 51.927004,
+      "longitude": 6.5817,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 118,
+      "name": "De Woonkeuken van Wouter",
+      "latitude": 52.018261,
+      "longitude": 5.042858,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 119,
+      "name": "De leuke keuken",
+      "latitude": 52.512556,
+      "longitude": 5.047896,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 120,
+      "name": "Dekkers Keukencentrum",
+      "latitude": 52.056094,
+      "longitude": 4.33625,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 121,
+      "name": "Deksels!",
+      "latitude": 52.383568,
+      "longitude": 4.88576,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 122,
+      "name": "Duikelman",
+      "latitude": 52.355155,
+      "longitude": 4.889457,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 123,
+      "name": "Eco Keukens",
+      "latitude": 52.996406,
+      "longitude": 6.767404,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 124,
+      "name": "Eigenhuis Keukens",
+      "latitude": 52.16804,
+      "longitude": 5.464447,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 125,
+      "name": "Eigenhuis Keukens",
+      "latitude": 52.317445,
+      "longitude": 4.669395,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 126,
+      "name": "Eigenhuis Keukens",
+      "latitude": 53.236533,
+      "longitude": 6.592208,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 127,
+      "name": "Eigenhuis keukens en badkamers",
+      "latitude": 52.195946,
+      "longitude": 5.386736,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 128,
+      "name": "Electro Lemmens",
+      "latitude": 50.939016,
+      "longitude": 5.796591,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 129,
+      "name": "Ergo Form",
+      "latitude": 51.509385,
+      "longitude": 5.049684,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 130,
+      "name": "Erwin De Bruyn",
+      "latitude": 51.446161,
+      "longitude": 4.940571,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 131,
+      "name": "Etagère",
+      "latitude": 51.44332,
+      "longitude": 4.928747,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 132,
+      "name": "Even Kijken",
+      "latitude": 51.338694,
+      "longitude": 3.453664,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 133,
+      "name": "Evindie Keukens",
+      "latitude": 52.020356,
+      "longitude": 5.044758,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 134,
+      "name": "Floris Keukens",
+      "latitude": 52.504046,
+      "longitude": 4.783607,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 135,
+      "name": "Fred Constant",
+      "latitude": 52.492311,
+      "longitude": 4.766208,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 136,
+      "name": "Freerk Feddema-Keukenkeus",
+      "latitude": 53.213836,
+      "longitude": 5.942844,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 137,
+      "name": "GH Keukens",
+      "latitude": 51.50953,
+      "longitude": 5.052811,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 138,
+      "name": "Garnier Keukencentrum",
+      "latitude": 52.381886,
+      "longitude": 4.865938,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 139,
+      "name": "Gastro Loods",
+      "latitude": 52.519215,
+      "longitude": 6.058338,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 140,
+      "name": "Gemar",
+      "latitude": 51.731172,
+      "longitude": 5.865161,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 141,
+      "name": "Gijsberts",
+      "latitude": 52.230543,
+      "longitude": 5.973151,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 142,
+      "name": "Gorissen Bedrijfkeukens",
+      "latitude": 50.843873,
+      "longitude": 5.720776,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 143,
+      "name": "Grando",
+      "latitude": 52.000382,
+      "longitude": 4.363664,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 144,
+      "name": "Grando",
+      "latitude": 52.061181,
+      "longitude": 5.103229,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 145,
+      "name": "Grando",
+      "latitude": 52.187943,
+      "longitude": 5.414382,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 146,
+      "name": "Grando",
+      "latitude": 52.205898,
+      "longitude": 4.874843,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 147,
+      "name": "Grando",
+      "latitude": 52.34575,
+      "longitude": 5.983648,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 148,
+      "name": "Grando",
+      "latitude": 52.497358,
+      "longitude": 6.123966,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 149,
+      "name": "Grando",
+      "latitude": 52.752215,
+      "longitude": 6.920904,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 150,
+      "name": "Grando",
+      "latitude": 52.963394,
+      "longitude": 5.903718,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 151,
+      "name": "Grando",
+      "latitude": 53.213622,
+      "longitude": 6.537144,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 152,
+      "name": "Grando Keuken & Bad",
+      "latitude": 52.942746,
+      "longitude": 4.772455,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 153,
+      "name": "Grando Keukens",
+      "latitude": 51.479749,
+      "longitude": 3.625678,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 154,
+      "name": "Grando Keukens",
+      "latitude": 52.004294,
+      "longitude": 4.209945,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 155,
+      "name": "Grando Keukens",
+      "latitude": 52.426994,
+      "longitude": 4.826623,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 156,
+      "name": "Grando Keukens & Bad",
+      "latitude": 52.491721,
+      "longitude": 5.483877,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 157,
+      "name": "Grando Keukens & Bad",
+      "latitude": 52.504663,
+      "longitude": 4.779905,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 158,
+      "name": "Groeneveld Keukens Twente",
+      "latitude": 52.381152,
+      "longitude": 7.018266,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 159,
+      "name": "H.M. Pierrot – servieswinkel",
+      "latitude": 52.158522,
+      "longitude": 4.49036,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 160,
+      "name": "HTC",
+      "latitude": 52.349352,
+      "longitude": 5.615226,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 161,
+      "name": "Hanegraaf Keukens",
+      "latitude": 51.735575,
+      "longitude": 5.527775,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 162,
+      "name": "Hans van der Helm Keukens",
+      "latitude": 52.075049,
+      "longitude": 4.279342,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 163,
+      "name": "Hel's Kitchen",
+      "latitude": 52.308332,
+      "longitude": 5.042381,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 164,
+      "name": "Hello Kitchen",
+      "latitude": 50.900251,
+      "longitude": 5.939851,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 165,
+      "name": "Henk Bovee Horst",
+      "latitude": 51.437688,
+      "longitude": 6.051811,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 166,
+      "name": "Herder Keukens",
+      "latitude": 52.130045,
+      "longitude": 5.425726,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 167,
+      "name": "Het Bakhuis",
+      "latitude": 51.825601,
+      "longitude": 4.833819,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 168,
+      "name": "Het Keukenhuys Hoorn",
+      "latitude": 52.641163,
+      "longitude": 5.059794,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 169,
+      "name": "Het hof der keukens",
+      "latitude": 51.910751,
+      "longitude": 4.34285,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 170,
+      "name": "High Level Keukens",
+      "latitude": 51.898094,
+      "longitude": 5.906999,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 171,
+      "name": "Hopmann Keukens",
+      "latitude": 53.174095,
+      "longitude": 6.363558,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 172,
+      "name": "Huizenga Keukens",
+      "latitude": 53.128772,
+      "longitude": 6.078229,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 173,
+      "name": "I-KOOK",
+      "latitude": 50.985455,
+      "longitude": 5.849387,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 174,
+      "name": "I-KOOK",
+      "latitude": 51.435012,
+      "longitude": 5.505917,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 175,
+      "name": "I-KOOK",
+      "latitude": 51.499001,
+      "longitude": 3.880718,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 176,
+      "name": "I-KOOK",
+      "latitude": 51.507366,
+      "longitude": 4.299693,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 177,
+      "name": "I-KOOK",
+      "latitude": 51.558648,
+      "longitude": 4.613444,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 178,
+      "name": "I-KOOK",
+      "latitude": 51.709507,
+      "longitude": 5.333514,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 179,
+      "name": "I-KOOK",
+      "latitude": 51.824741,
+      "longitude": 4.437398,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 180,
+      "name": "I-KOOK",
+      "latitude": 51.832347,
+      "longitude": 4.749556,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 181,
+      "name": "I-KOOK",
+      "latitude": 51.87126,
+      "longitude": 4.549767,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 182,
+      "name": "I-KOOK",
+      "latitude": 51.913139,
+      "longitude": 5.917562,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 183,
+      "name": "I-KOOK",
+      "latitude": 51.953948,
+      "longitude": 4.565912,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 184,
+      "name": "I-KOOK",
+      "latitude": 52.0136,
+      "longitude": 5.560933,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 185,
+      "name": "I-KOOK",
+      "latitude": 52.033155,
+      "longitude": 4.495932,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 186,
+      "name": "I-KOOK",
+      "latitude": 52.048294,
+      "longitude": 4.250222,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 187,
+      "name": "I-KOOK",
+      "latitude": 52.06196,
+      "longitude": 5.104681,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 188,
+      "name": "I-KOOK",
+      "latitude": 52.163041,
+      "longitude": 5.371481,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 189,
+      "name": "I-KOOK",
+      "latitude": 52.163784,
+      "longitude": 4.516303,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 190,
+      "name": "I-KOOK",
+      "latitude": 52.195025,
+      "longitude": 5.939542,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 191,
+      "name": "I-KOOK",
+      "latitude": 52.277006,
+      "longitude": 6.780524,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 192,
+      "name": "I-KOOK",
+      "latitude": 52.312294,
+      "longitude": 4.93909,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 193,
+      "name": "I-KOOK",
+      "latitude": 52.395778,
+      "longitude": 5.268536,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 194,
+      "name": "I-KOOK",
+      "latitude": 52.426002,
+      "longitude": 4.826924,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 195,
+      "name": "I-KOOK",
+      "latitude": 52.465699,
+      "longitude": 6.072764,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 196,
+      "name": "I-KOOK",
+      "latitude": 52.636201,
+      "longitude": 4.75014,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 197,
+      "name": "I-KOOK",
+      "latitude": 52.942789,
+      "longitude": 4.772737,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 198,
+      "name": "I-KOOK",
+      "latitude": 52.958079,
+      "longitude": 5.87248,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 199,
+      "name": "I-KOOK",
+      "latitude": 53.009363,
+      "longitude": 6.581627,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 200,
+      "name": "I-KOOK",
+      "latitude": 53.111097,
+      "longitude": 6.890956,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 201,
+      "name": "Iemms",
+      "latitude": 51.916758,
+      "longitude": 4.335477,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 202,
+      "name": "Iittala outlet",
+      "latitude": 51.918949,
+      "longitude": 4.476013,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 203,
+      "name": "Ilyade",
+      "latitude": 51.813298,
+      "longitude": 5.247987,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 204,
+      "name": "Image Keukens",
+      "latitude": 51.824968,
+      "longitude": 4.437969,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 205,
+      "name": "Instakeukens",
+      "latitude": 51.916868,
+      "longitude": 4.33556,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 206,
+      "name": "Intréal",
+      "latitude": 53.409836,
+      "longitude": 6.676784,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 207,
+      "name": "Janssen & Ko",
+      "latitude": 51.65182,
+      "longitude": 5.643313,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 208,
+      "name": "Jeroen Buist Keukens",
+      "latitude": 53.091952,
+      "longitude": 6.679047,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 209,
+      "name": "John de Laat",
+      "latitude": 51.574864,
+      "longitude": 5.139111,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 210,
+      "name": "K14",
+      "latitude": 52.515305,
+      "longitude": 6.101305,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 211,
+      "name": "Kaatjes Cakekunst",
+      "latitude": 52.262425,
+      "longitude": 4.491923,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 212,
+      "name": "Keuken Concurrent",
+      "latitude": 52.027231,
+      "longitude": 4.677695,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 213,
+      "name": "Keuken Kampioen",
+      "latitude": 50.899616,
+      "longitude": 5.94217,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 214,
+      "name": "Keuken Kampioen",
+      "latitude": 51.247701,
+      "longitude": 5.733885,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 215,
+      "name": "Keuken Kampioen",
+      "latitude": 51.273613,
+      "longitude": 4.041394,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 216,
+      "name": "Keuken Kampioen",
+      "latitude": 51.473579,
+      "longitude": 5.675069,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 217,
+      "name": "Keuken Kampioen",
+      "latitude": 51.481675,
+      "longitude": 3.625278,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 218,
+      "name": "Keuken Kampioen",
+      "latitude": 51.491839,
+      "longitude": 4.276823,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 219,
+      "name": "Keuken Kampioen",
+      "latitude": 51.498881,
+      "longitude": 5.467125,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 220,
+      "name": "Keuken Kampioen",
+      "latitude": 51.499052,
+      "longitude": 3.881123,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 221,
+      "name": "Keuken Kampioen",
+      "latitude": 51.536073,
+      "longitude": 4.485981,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 222,
+      "name": "Keuken Kampioen",
+      "latitude": 51.597585,
+      "longitude": 4.74546,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 223,
+      "name": "Keuken Kampioen",
+      "latitude": 51.663414,
+      "longitude": 5.040969,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 224,
+      "name": "Keuken Kampioen",
+      "latitude": 51.710039,
+      "longitude": 5.335862,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 225,
+      "name": "Keuken Kampioen",
+      "latitude": 51.793408,
+      "longitude": 4.647962,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 226,
+      "name": "Keuken Kampioen",
+      "latitude": 51.824835,
+      "longitude": 5.798327,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 227,
+      "name": "Keuken Kampioen",
+      "latitude": 51.854394,
+      "longitude": 4.305696,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 228,
+      "name": "Keuken Kampioen",
+      "latitude": 51.89583,
+      "longitude": 4.533802,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 229,
+      "name": "Keuken Kampioen",
+      "latitude": 51.899889,
+      "longitude": 5.448705,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 230,
+      "name": "Keuken Kampioen",
+      "latitude": 51.951174,
+      "longitude": 4.562244,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 231,
+      "name": "Keuken Kampioen",
+      "latitude": 51.963317,
+      "longitude": 5.998111,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 232,
+      "name": "Keuken Kampioen",
+      "latitude": 52.000033,
+      "longitude": 4.360857,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 233,
+      "name": "Keuken Kampioen",
+      "latitude": 52.024095,
+      "longitude": 5.144435,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 234,
+      "name": "Keuken Kampioen",
+      "latitude": 52.029679,
+      "longitude": 5.622192,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 235,
+      "name": "Keuken Kampioen",
+      "latitude": 52.056182,
+      "longitude": 4.727193,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 236,
+      "name": "Keuken Kampioen",
+      "latitude": 52.062558,
+      "longitude": 5.101295,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 237,
+      "name": "Keuken Kampioen",
+      "latitude": 52.063178,
+      "longitude": 4.345095,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 238,
+      "name": "Keuken Kampioen",
+      "latitude": 52.076917,
+      "longitude": 4.90373,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 239,
+      "name": "Keuken Kampioen",
+      "latitude": 52.134752,
+      "longitude": 4.647959,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 240,
+      "name": "Keuken Kampioen",
+      "latitude": 52.18803,
+      "longitude": 5.414267,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 241,
+      "name": "Keuken Kampioen",
+      "latitude": 52.206117,
+      "longitude": 4.874242,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 242,
+      "name": "Keuken Kampioen",
+      "latitude": 52.225324,
+      "longitude": 6.882223,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 243,
+      "name": "Keuken Kampioen",
+      "latitude": 52.290276,
+      "longitude": 4.841295,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 244,
+      "name": "Keuken Kampioen",
+      "latitude": 52.294877,
+      "longitude": 4.942546,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 245,
+      "name": "Keuken Kampioen",
+      "latitude": 52.311981,
+      "longitude": 4.939043,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 246,
+      "name": "Keuken Kampioen",
+      "latitude": 52.332591,
+      "longitude": 4.627861,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 247,
+      "name": "Keuken Kampioen",
+      "latitude": 52.340374,
+      "longitude": 6.643228,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 248,
+      "name": "Keuken Kampioen",
+      "latitude": 52.349611,
+      "longitude": 5.182181,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 249,
+      "name": "Keuken Kampioen",
+      "latitude": 52.390701,
+      "longitude": 4.80591,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 250,
+      "name": "Keuken Kampioen",
+      "latitude": 52.425695,
+      "longitude": 4.826944,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 251,
+      "name": "Keuken Kampioen",
+      "latitude": 52.47952,
+      "longitude": 4.661766,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 252,
+      "name": "Keuken Kampioen",
+      "latitude": 52.491647,
+      "longitude": 5.484051,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 253,
+      "name": "Keuken Kampioen",
+      "latitude": 52.49662,
+      "longitude": 6.124755,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 254,
+      "name": "Keuken Kampioen",
+      "latitude": 52.513288,
+      "longitude": 4.999158,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 255,
+      "name": "Keuken Kampioen",
+      "latitude": 52.662371,
+      "longitude": 4.810403,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 256,
+      "name": "Keuken Kampioen",
+      "latitude": 52.671878,
+      "longitude": 5.062279,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 257,
+      "name": "Keuken Kampioen",
+      "latitude": 52.751921,
+      "longitude": 6.92101,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 258,
+      "name": "Keuken Kampioen",
+      "latitude": 53.036257,
+      "longitude": 5.637709,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 259,
+      "name": "Keuken Kampioen",
+      "latitude": 53.095279,
+      "longitude": 6.102901,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 260,
+      "name": "Keuken Kampioen",
+      "latitude": 53.195174,
+      "longitude": 5.766059,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 261,
+      "name": "Keuken Kampioen",
+      "latitude": 53.214225,
+      "longitude": 6.587086,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 262,
+      "name": "Keuken Vision",
+      "latitude": 52.005198,
+      "longitude": 4.210161,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 263,
+      "name": "Keuken-Arena",
+      "latitude": 52.359457,
+      "longitude": 4.782581,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 264,
+      "name": "Keuken-Line",
+      "latitude": 51.822287,
+      "longitude": 4.639786,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 265,
+      "name": "KeukenCoach",
+      "latitude": 51.500253,
+      "longitude": 5.472913,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 266,
+      "name": "KeukenConcurrent",
+      "latitude": 50.900022,
+      "longitude": 5.942551,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 267,
+      "name": "KeukenConcurrent",
+      "latitude": 51.272979,
+      "longitude": 4.042317,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 268,
+      "name": "KeukenConcurrent",
+      "latitude": 51.382374,
+      "longitude": 6.183845,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 269,
+      "name": "KeukenConcurrent",
+      "latitude": 51.473631,
+      "longitude": 5.674776,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 270,
+      "name": "KeukenConcurrent",
+      "latitude": 51.498875,
+      "longitude": 5.46793,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 271,
+      "name": "KeukenConcurrent",
+      "latitude": 51.536164,
+      "longitude": 4.485744,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 272,
+      "name": "KeukenConcurrent",
+      "latitude": 51.597694,
+      "longitude": 4.745201,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 273,
+      "name": "KeukenConcurrent",
+      "latitude": 51.663641,
+      "longitude": 5.039994,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 274,
+      "name": "KeukenConcurrent",
+      "latitude": 51.710056,
+      "longitude": 5.334443,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 275,
+      "name": "KeukenConcurrent",
+      "latitude": 51.756979,
+      "longitude": 5.554084,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 276,
+      "name": "KeukenConcurrent",
+      "latitude": 51.83146,
+      "longitude": 4.762947,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 277,
+      "name": "KeukenConcurrent",
+      "latitude": 51.854492,
+      "longitude": 5.750895,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 278,
+      "name": "KeukenConcurrent",
+      "latitude": 51.855345,
+      "longitude": 4.305006,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 279,
+      "name": "KeukenConcurrent",
+      "latitude": 51.871413,
+      "longitude": 4.547422,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 280,
+      "name": "KeukenConcurrent",
+      "latitude": 51.949383,
+      "longitude": 6.275307,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 281,
+      "name": "KeukenConcurrent",
+      "latitude": 51.950414,
+      "longitude": 5.873863,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 282,
+      "name": "KeukenConcurrent",
+      "latitude": 51.951654,
+      "longitude": 4.560162,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 283,
+      "name": "KeukenConcurrent",
+      "latitude": 51.968223,
+      "longitude": 5.994614,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 284,
+      "name": "KeukenConcurrent",
+      "latitude": 52.014694,
+      "longitude": 4.278803,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 285,
+      "name": "KeukenConcurrent",
+      "latitude": 52.01502,
+      "longitude": 5.56175,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 286,
+      "name": "KeukenConcurrent",
+      "latitude": 52.024135,
+      "longitude": 5.144694,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 287,
+      "name": "KeukenConcurrent",
+      "latitude": 52.024913,
+      "longitude": 4.676389,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 288,
+      "name": "KeukenConcurrent",
+      "latitude": 52.062612,
+      "longitude": 5.101447,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 289,
+      "name": "KeukenConcurrent",
+      "latitude": 52.064072,
+      "longitude": 4.491797,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 290,
+      "name": "KeukenConcurrent",
+      "latitude": 52.065695,
+      "longitude": 4.316661,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 291,
+      "name": "KeukenConcurrent",
+      "latitude": 52.158297,
+      "longitude": 4.5459,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 292,
+      "name": "KeukenConcurrent",
+      "latitude": 52.187944,
+      "longitude": 5.413958,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 293,
+      "name": "KeukenConcurrent",
+      "latitude": 52.212606,
+      "longitude": 5.998442,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 294,
+      "name": "KeukenConcurrent",
+      "latitude": 52.246832,
+      "longitude": 6.201488,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 295,
+      "name": "KeukenConcurrent",
+      "latitude": 52.281146,
+      "longitude": 6.777215,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 296,
+      "name": "KeukenConcurrent",
+      "latitude": 52.290785,
+      "longitude": 4.841003,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 297,
+      "name": "KeukenConcurrent",
+      "latitude": 52.312132,
+      "longitude": 4.939073,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 298,
+      "name": "KeukenConcurrent",
+      "latitude": 52.33194,
+      "longitude": 4.627462,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 299,
+      "name": "KeukenConcurrent",
+      "latitude": 52.390614,
+      "longitude": 4.805908,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 300,
+      "name": "KeukenConcurrent",
+      "latitude": 52.393418,
+      "longitude": 5.272817,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 301,
+      "name": "KeukenConcurrent",
+      "latitude": 52.42738,
+      "longitude": 4.826124,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 302,
+      "name": "KeukenConcurrent",
+      "latitude": 52.479602,
+      "longitude": 4.661965,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 303,
+      "name": "KeukenConcurrent",
+      "latitude": 52.496675,
+      "longitude": 6.125119,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 304,
+      "name": "KeukenConcurrent",
+      "latitude": 52.513704,
+      "longitude": 4.99775,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 305,
+      "name": "KeukenConcurrent",
+      "latitude": 52.63622,
+      "longitude": 4.75032,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 306,
+      "name": "KeukenConcurrent",
+      "latitude": 52.667951,
+      "longitude": 5.064433,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 307,
+      "name": "KeukenConcurrent",
+      "latitude": 52.721145,
+      "longitude": 6.467948,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 308,
+      "name": "KeukenConcurrent",
+      "latitude": 52.752043,
+      "longitude": 6.920974,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 309,
+      "name": "KeukenConcurrent",
+      "latitude": 52.963621,
+      "longitude": 5.903685,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 310,
+      "name": "KeukenConcurrent",
+      "latitude": 53.194961,
+      "longitude": 5.766064,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 311,
+      "name": "KeukenConcurrent",
+      "latitude": 53.214389,
+      "longitude": 6.587361,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 312,
+      "name": "KeukenHal",
+      "latitude": 51.543165,
+      "longitude": 5.084067,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 313,
+      "name": "KeukenStudio Heemskerk",
+      "latitude": 52.511263,
+      "longitude": 4.674037,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 314,
+      "name": "KeukenVision",
+      "latitude": 51.786009,
+      "longitude": 4.647523,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 315,
+      "name": "Keukenadvies Specialist",
+      "latitude": 52.996663,
+      "longitude": 6.560627,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 316,
+      "name": "Keukencentrum Axi",
+      "latitude": 52.033206,
+      "longitude": 5.640092,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 317,
+      "name": "Keukencentrum Barkmeijer",
+      "latitude": 53.283204,
+      "longitude": 6.155911,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 318,
+      "name": "Keukencentrum Marssum",
+      "latitude": 53.208573,
+      "longitude": 5.73088,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 319,
+      "name": "Keukencentrum Snip",
+      "latitude": 53.215075,
+      "longitude": 6.264297,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 320,
+      "name": "Keukencentrum Ypenburg",
+      "latitude": 52.040704,
+      "longitude": 4.359799,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 321,
+      "name": "Keukencentrum de Graafschap BV",
+      "latitude": 51.92746,
+      "longitude": 6.564479,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 322,
+      "name": "Keukendepot",
+      "latitude": 51.436872,
+      "longitude": 5.496333,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 323,
+      "name": "Keukendepot",
+      "latitude": 51.550324,
+      "longitude": 4.144134,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 324,
+      "name": "Keukendepot",
+      "latitude": 51.551261,
+      "longitude": 5.104149,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 325,
+      "name": "Keukendepot",
+      "latitude": 51.867982,
+      "longitude": 4.989835,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 326,
+      "name": "Keukendepot",
+      "latitude": 51.884968,
+      "longitude": 5.577724,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 327,
+      "name": "Keukendepot",
+      "latitude": 51.921457,
+      "longitude": 6.364643,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 328,
+      "name": "Keukendepot",
+      "latitude": 51.924865,
+      "longitude": 5.93217,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 329,
+      "name": "Keukendepot",
+      "latitude": 51.954431,
+      "longitude": 4.565709,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 330,
+      "name": "Keukendepot",
+      "latitude": 52.160435,
+      "longitude": 5.375548,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 331,
+      "name": "Keukendepot",
+      "latitude": 52.886339,
+      "longitude": 5.993065,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 332,
+      "name": "Keukendepot",
+      "latitude": 53.201194,
+      "longitude": 5.764687,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 333,
+      "name": "Keukendepot",
+      "latitude": 53.212993,
+      "longitude": 6.536333,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 334,
+      "name": "Keukendepot",
+      "latitude": 53.253179,
+      "longitude": 6.139812,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 335,
+      "name": "Keukenhof van Twente",
+      "latitude": 52.275366,
+      "longitude": 6.391106,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 336,
+      "name": "Keukenhuis Heerlen",
+      "latitude": 50.897413,
+      "longitude": 5.951526,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 337,
+      "name": "Keukenhuiz",
+      "latitude": 53.261077,
+      "longitude": 6.040926,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 338,
+      "name": "Keukenhuysch",
+      "latitude": 52.514944,
+      "longitude": 4.997892,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 339,
+      "name": "Keukeninbouwcenter B.V.",
+      "latitude": 51.439235,
+      "longitude": 5.448267,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 340,
+      "name": "Keukenloods",
+      "latitude": 51.695509,
+      "longitude": 5.158752,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 341,
+      "name": "Keukenloods",
+      "latitude": 52.063342,
+      "longitude": 5.106726,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 342,
+      "name": "Keukenloods",
+      "latitude": 52.427602,
+      "longitude": 4.824615,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 343,
+      "name": "Keukenloods",
+      "latitude": 52.637489,
+      "longitude": 4.754754,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 344,
+      "name": "Keukenloods.nl",
+      "latitude": 52.393733,
+      "longitude": 5.273927,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 345,
+      "name": "Keukenmaxx",
+      "latitude": 51.871458,
+      "longitude": 4.546985,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 346,
+      "name": "Keukennet",
+      "latitude": 51.813471,
+      "longitude": 4.661839,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 347,
+      "name": "Keukenpoint",
+      "latitude": 52.212268,
+      "longitude": 5.96192,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 348,
+      "name": "Keukenpunt",
+      "latitude": 53.194122,
+      "longitude": 5.842811,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 349,
+      "name": "Keukens Bodegraven",
+      "latitude": 52.086849,
+      "longitude": 4.737089,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 350,
+      "name": "Keukensale",
+      "latitude": 50.897526,
+      "longitude": 5.949684,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 351,
+      "name": "Keukensale",
+      "latitude": 51.537299,
+      "longitude": 4.486808,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 352,
+      "name": "Keukensale",
+      "latitude": 51.982054,
+      "longitude": 4.372797,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 353,
+      "name": "Keukensale",
+      "latitude": 52.166034,
+      "longitude": 5.370274,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 354,
+      "name": "Keukensale",
+      "latitude": 52.944119,
+      "longitude": 4.772049,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 355,
+      "name": "Keukensale",
+      "latitude": 53.1961,
+      "longitude": 5.769352,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 356,
+      "name": "Keukensale Sanisale",
+      "latitude": 51.581991,
+      "longitude": 4.731722,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 357,
+      "name": "Keukensale.com",
+      "latitude": 51.710482,
+      "longitude": 5.334948,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 358,
+      "name": "Keukensale.com",
+      "latitude": 51.955344,
+      "longitude": 4.568877,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 359,
+      "name": "Keukensale.com",
+      "latitude": 52.401383,
+      "longitude": 5.262047,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 360,
+      "name": "Keukensale.com",
+      "latitude": 52.649272,
+      "longitude": 5.048041,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 361,
+      "name": "Keukenskopen",
+      "latitude": 51.772786,
+      "longitude": 5.340404,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 362,
+      "name": "Keukenstudio Dordrecht",
+      "latitude": 51.792408,
+      "longitude": 4.647225,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 363,
+      "name": "Keukenstudio Klazienaveen",
+      "latitude": 52.733343,
+      "longitude": 6.981341,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 364,
+      "name": "Keukenstudio Stoof",
+      "latitude": 51.796501,
+      "longitude": 5.259456,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 365,
+      "name": "Keukenstunter",
+      "latitude": 51.499913,
+      "longitude": 5.468519,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 366,
+      "name": "Keukenstunter",
+      "latitude": 51.835969,
+      "longitude": 4.980611,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 367,
+      "name": "Keukenstunter",
+      "latitude": 51.854924,
+      "longitude": 4.305201,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 368,
+      "name": "Keukenstunter",
+      "latitude": 51.869923,
+      "longitude": 4.546115,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 369,
+      "name": "Keukenstunter",
+      "latitude": 51.963772,
+      "longitude": 5.99932,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 370,
+      "name": "Keukenstunter",
+      "latitude": 52.000503,
+      "longitude": 4.363313,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 371,
+      "name": "Keukenstunter",
+      "latitude": 52.003643,
+      "longitude": 4.209423,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 372,
+      "name": "Keukenstunter",
+      "latitude": 52.064617,
+      "longitude": 4.491239,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 373,
+      "name": "Keukenstunter",
+      "latitude": 52.07893,
+      "longitude": 4.898404,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 374,
+      "name": "Keukenstunter",
+      "latitude": 52.158363,
+      "longitude": 4.545673,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 375,
+      "name": "Keukenstunter",
+      "latitude": 52.2072,
+      "longitude": 4.877402,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 376,
+      "name": "Keukenstunter",
+      "latitude": 52.390612,
+      "longitude": 4.805621,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 377,
+      "name": "Keukenstunter",
+      "latitude": 52.428912,
+      "longitude": 4.822261,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 378,
+      "name": "Keukenstunter",
+      "latitude": 52.514684,
+      "longitude": 4.998553,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 379,
+      "name": "Keukenstunter",
+      "latitude": 52.637256,
+      "longitude": 4.748553,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 380,
+      "name": "Keukenvakhandel A.J. Kuijpers",
+      "latitude": 51.916734,
+      "longitude": 4.336344,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 381,
+      "name": "Keukenwarenhuis.nl",
+      "latitude": 51.777156,
+      "longitude": 4.636276,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 382,
+      "name": "Keukenwarenhuis.nl",
+      "latitude": 52.178583,
+      "longitude": 4.70777,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 383,
+      "name": "Keukenwinkel in Vinkel",
+      "latitude": 51.70587,
+      "longitude": 5.46544,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 384,
+      "name": "Keur Keukens",
+      "latitude": 52.392999,
+      "longitude": 4.654593,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 385,
+      "name": "Kitchen Corner",
+      "latitude": 52.25376,
+      "longitude": 6.158168,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 386,
+      "name": "Kitchen Floor and More",
+      "latitude": 52.206052,
+      "longitude": 5.969128,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 387,
+      "name": "Kitchen4All",
+      "latitude": 51.853046,
+      "longitude": 5.751312,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 388,
+      "name": "Kitchen4All",
+      "latitude": 51.96624,
+      "longitude": 6.29349,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 389,
+      "name": "Kitchen4All",
+      "latitude": 51.989858,
+      "longitude": 5.103623,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 390,
+      "name": "Kloosterman Keukens & Badkamers",
+      "latitude": 52.304702,
+      "longitude": 5.244778,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 391,
+      "name": "Kook & Stoof",
+      "latitude": 51.933107,
+      "longitude": 4.783437,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 392,
+      "name": "Kookpodium",
+      "latitude": 50.938122,
+      "longitude": 5.795791,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 393,
+      "name": "Kookstudio",
+      "latitude": 52.515266,
+      "longitude": 6.102121,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 394,
+      "name": "Kookwinkel Divine & Delicious",
+      "latitude": 52.351745,
+      "longitude": 4.850615,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 395,
+      "name": "Kookwinkel Oldenhof",
+      "latitude": 50.851529,
+      "longitude": 5.689952,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 396,
+      "name": "Kookx",
+      "latitude": 52.236397,
+      "longitude": 6.101466,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 397,
+      "name": "Koolschijn",
+      "latitude": 51.993685,
+      "longitude": 4.371688,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 398,
+      "name": "Koos Buis Keukens",
+      "latitude": 52.93744,
+      "longitude": 4.74949,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 399,
+      "name": "Kvik",
+      "latitude": 50.876479,
+      "longitude": 5.71684,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 400,
+      "name": "Kvik",
+      "latitude": 51.467556,
+      "longitude": 5.537308,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 401,
+      "name": "Kvik",
+      "latitude": 51.562076,
+      "longitude": 5.07506,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 402,
+      "name": "Kvik",
+      "latitude": 51.578649,
+      "longitude": 4.719409,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 403,
+      "name": "Kvik",
+      "latitude": 51.711382,
+      "longitude": 5.336993,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 404,
+      "name": "Kvik",
+      "latitude": 51.824914,
+      "longitude": 5.799013,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 405,
+      "name": "Kvik",
+      "latitude": 51.832713,
+      "longitude": 4.75205,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 406,
+      "name": "Kvik",
+      "latitude": 51.871779,
+      "longitude": 4.546012,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 407,
+      "name": "Kvik",
+      "latitude": 51.951147,
+      "longitude": 4.56203,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 408,
+      "name": "Kvik",
+      "latitude": 52.011182,
+      "longitude": 4.286905,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 409,
+      "name": "Kvik",
+      "latitude": 52.028075,
+      "longitude": 5.558582,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 410,
+      "name": "Kvik",
+      "latitude": 52.063632,
+      "longitude": 5.10684,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 411,
+      "name": "Kvik",
+      "latitude": 52.06442,
+      "longitude": 4.493199,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 412,
+      "name": "Kvik",
+      "latitude": 52.077136,
+      "longitude": 4.902677,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 413,
+      "name": "Kvik",
+      "latitude": 52.085407,
+      "longitude": 4.312335,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 414,
+      "name": "Kvik",
+      "latitude": 52.156736,
+      "longitude": 4.544497,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 415,
+      "name": "Kvik",
+      "latitude": 52.16382,
+      "longitude": 5.369299,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 416,
+      "name": "Kvik",
+      "latitude": 52.212326,
+      "longitude": 5.998051,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 417,
+      "name": "Kvik",
+      "latitude": 52.222913,
+      "longitude": 6.879276,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 418,
+      "name": "Kvik",
+      "latitude": 52.22625,
+      "longitude": 5.179438,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 419,
+      "name": "Kvik",
+      "latitude": 52.312443,
+      "longitude": 4.939099,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 420,
+      "name": "Kvik",
+      "latitude": 52.333186,
+      "longitude": 4.629113,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 421,
+      "name": "Kvik",
+      "latitude": 52.36917,
+      "longitude": 5.219973,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 422,
+      "name": "Kvik",
+      "latitude": 52.382344,
+      "longitude": 4.633025,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 423,
+      "name": "Kvik",
+      "latitude": 52.390893,
+      "longitude": 4.80397,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 424,
+      "name": "Kvik",
+      "latitude": 52.392815,
+      "longitude": 5.271988,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 425,
+      "name": "Kvik",
+      "latitude": 52.422812,
+      "longitude": 4.826596,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 426,
+      "name": "Kvik",
+      "latitude": 52.515477,
+      "longitude": 6.100191,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 427,
+      "name": "Kvik",
+      "latitude": 52.666867,
+      "longitude": 4.817506,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 428,
+      "name": "Kvik",
+      "latitude": 52.668637,
+      "longitude": 5.062798,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 429,
+      "name": "Kvik",
+      "latitude": 52.788169,
+      "longitude": 6.893108,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 430,
+      "name": "Kvik",
+      "latitude": 53.196053,
+      "longitude": 5.797963,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 431,
+      "name": "Kvik",
+      "latitude": 53.235607,
+      "longitude": 6.523752,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 432,
+      "name": "Küchen-Dump",
+      "latitude": 52.515245,
+      "longitude": 5.001604,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 433,
+      "name": "KüchenTreff",
+      "latitude": 52.053385,
+      "longitude": 6.108014,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 434,
+      "name": "KüchenTreff",
+      "latitude": 52.468152,
+      "longitude": 5.991441,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 435,
+      "name": "Lamesa",
+      "latitude": 52.081648,
+      "longitude": 4.283222,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 436,
+      "name": "Lansink Keukens",
+      "latitude": 52.319946,
+      "longitude": 6.930749,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 437,
+      "name": "Lauwers Keuken & Interieur",
+      "latitude": 51.666074,
+      "longitude": 5.030398,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 438,
+      "name": "Leicht Kitchens Showroom",
+      "latitude": 52.338739,
+      "longitude": 4.920864,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 439,
+      "name": "Lentjes Droomkeukens",
+      "latitude": 51.912518,
+      "longitude": 5.918665,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 440,
+      "name": "Leo van den Berg",
+      "latitude": 51.838554,
+      "longitude": 4.169536,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 441,
+      "name": "Lodder Keukens",
+      "latitude": 52.127462,
+      "longitude": 5.565921,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 442,
+      "name": "Logus-De Hoop",
+      "latitude": 51.330096,
+      "longitude": 3.827619,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 443,
+      "name": "Logus-De Hoop",
+      "latitude": 51.459201,
+      "longitude": 3.607261,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 444,
+      "name": "Logus-De Hoop",
+      "latitude": 51.493002,
+      "longitude": 4.274133,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 445,
+      "name": "Loomans",
+      "latitude": 51.42468,
+      "longitude": 5.486072,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 446,
+      "name": "Lunova Keukens",
+      "latitude": 52.019126,
+      "longitude": 4.432222,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 447,
+      "name": "Lusing Keukens",
+      "latitude": 52.220204,
+      "longitude": 5.970004,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 448,
+      "name": "M&M Keukens",
+      "latitude": 51.550814,
+      "longitude": 5.087608,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 449,
+      "name": "ME Kitchen",
+      "latitude": 52.394018,
+      "longitude": 5.274561,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 450,
+      "name": "Maatwerk Keukens",
+      "latitude": 52.512481,
+      "longitude": 6.088853,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 451,
+      "name": "Maatwerk Keukens en Kozijnen",
+      "latitude": 52.390996,
+      "longitude": 4.640843,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 452,
+      "name": "Mandemakers",
+      "latitude": 51.662065,
+      "longitude": 5.012764,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 453,
+      "name": "Mandemakers",
+      "latitude": 51.853366,
+      "longitude": 5.7495,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 454,
+      "name": "Mandemakers",
+      "latitude": 51.871977,
+      "longitude": 4.54733,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 455,
+      "name": "Mandemakers",
+      "latitude": 52.014268,
+      "longitude": 4.279639,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 456,
+      "name": "Mandemakers",
+      "latitude": 52.077686,
+      "longitude": 4.905338,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 457,
+      "name": "Mandemakers",
+      "latitude": 52.149722,
+      "longitude": 6.191685,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 458,
+      "name": "Mandemakers",
+      "latitude": 52.187871,
+      "longitude": 5.404594,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 459,
+      "name": "Mandemakers",
+      "latitude": 52.312646,
+      "longitude": 4.939587,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 460,
+      "name": "Mandemakers",
+      "latitude": 52.496575,
+      "longitude": 6.124305,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 461,
+      "name": "Mandemakers",
+      "latitude": 53.214032,
+      "longitude": 6.586729,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 462,
+      "name": "Marquadt Küchen",
+      "latitude": 50.856055,
+      "longitude": 5.68073,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 463,
+      "name": "Marquardt Küchen",
+      "latitude": 51.272436,
+      "longitude": 4.043274,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 464,
+      "name": "Marquardt Küchen",
+      "latitude": 51.548359,
+      "longitude": 4.085995,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 465,
+      "name": "Marquardt Küchen",
+      "latitude": 51.581016,
+      "longitude": 4.732556,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 466,
+      "name": "Marquardt Küchen",
+      "latitude": 51.587064,
+      "longitude": 5.195913,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 467,
+      "name": "Marquardt Küchen",
+      "latitude": 51.664467,
+      "longitude": 5.036992,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 468,
+      "name": "Marquardt Küchen",
+      "latitude": 51.793512,
+      "longitude": 4.647972,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 469,
+      "name": "Marquardt Küchen",
+      "latitude": 51.836274,
+      "longitude": 4.981293,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 470,
+      "name": "Marquardt Küchen",
+      "latitude": 51.951275,
+      "longitude": 4.561424,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 471,
+      "name": "Marquardt Küchen",
+      "latitude": 51.963712,
+      "longitude": 5.999492,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 472,
+      "name": "Marquardt Küchen",
+      "latitude": 52.062477,
+      "longitude": 5.101015,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 473,
+      "name": "Marquardt Küchen",
+      "latitude": 52.137794,
+      "longitude": 4.549687,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 474,
+      "name": "Marquardt Küchen",
+      "latitude": 52.164368,
+      "longitude": 5.365871,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 475,
+      "name": "Marquardt Küchen",
+      "latitude": 52.367884,
+      "longitude": 5.216643,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 476,
+      "name": "Mega tegels en badkamers",
+      "latitude": 52.964417,
+      "longitude": 5.906529,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 477,
+      "name": "Megastore Rijssen Keukens",
+      "latitude": 52.321973,
+      "longitude": 6.499656,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 478,
+      "name": "Middelkoop Culemborg BV",
+      "latitude": 51.940876,
+      "longitude": 5.225763,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 479,
+      "name": "Mimi Koken en Tafelen",
+      "latitude": 51.522671,
+      "longitude": 5.066272,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 480,
+      "name": "Moodkeukens",
+      "latitude": 52.220614,
+      "longitude": 5.97017,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 481,
+      "name": "NDR Keukens",
+      "latitude": 52.088479,
+      "longitude": 5.618657,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 482,
+      "name": "NiVo Keuken",
+      "latitude": 52.024961,
+      "longitude": 4.436007,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 483,
+      "name": "Niemeijer",
+      "latitude": 52.38974,
+      "longitude": 4.849814,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 484,
+      "name": "Nieuwenhuis Keukens",
+      "latitude": 52.696288,
+      "longitude": 6.201035,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 485,
+      "name": "Nieuwenhuis Keukens",
+      "latitude": 53.012243,
+      "longitude": 6.57571,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 486,
+      "name": "Nieuwenhuis keukens",
+      "latitude": 52.964019,
+      "longitude": 5.905222,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 487,
+      "name": "Nijhuis Keukens",
+      "latitude": 52.272048,
+      "longitude": 6.812409,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 488,
+      "name": "Nolte Keukens",
+      "latitude": 52.223664,
+      "longitude": 6.880291,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 489,
+      "name": "Nolte Keukens",
+      "latitude": 52.489607,
+      "longitude": 5.490314,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 490,
+      "name": "Nolte Küchen",
+      "latitude": 52.212379,
+      "longitude": 5.999917,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 491,
+      "name": "Nolte Küchen",
+      "latitude": 52.39318,
+      "longitude": 5.272481,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 492,
+      "name": "Nove Keukens",
+      "latitude": 53.217293,
+      "longitude": 6.569903,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 493,
+      "name": "Nuva Keukens",
+      "latitude": 50.899924,
+      "longitude": 5.942479,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 494,
+      "name": "Nuva Keukens",
+      "latitude": 51.360432,
+      "longitude": 5.734095,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 495,
+      "name": "Nuva Keukens",
+      "latitude": 51.58684,
+      "longitude": 5.030098,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 496,
+      "name": "Oldenhof",
+      "latitude": 52.155811,
+      "longitude": 5.390292,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 497,
+      "name": "Oudman Keukens",
+      "latitude": 52.996321,
+      "longitude": 6.527854,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 498,
+      "name": "Pelma Keukens",
+      "latitude": 51.487584,
+      "longitude": 3.876013,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 499,
+      "name": "Peter Trieling Keukendesign",
+      "latitude": 52.47627,
+      "longitude": 4.656928,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 500,
+      "name": "Peters Keukeninterieurs",
+      "latitude": 51.821173,
+      "longitude": 5.850382,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 501,
+      "name": "Piet de Wit",
+      "latitude": 52.078717,
+      "longitude": 5.228546,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 502,
+      "name": "Pieters",
+      "latitude": 51.817931,
+      "longitude": 4.673351,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 503,
+      "name": "Plan Keukens",
+      "latitude": 50.814954,
+      "longitude": 5.891801,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 504,
+      "name": "Poggenpohl",
+      "latitude": 53.213213,
+      "longitude": 6.578786,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 505,
+      "name": "Poggenpohl Kitchen",
+      "latitude": 51.685742,
+      "longitude": 5.297582,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 506,
+      "name": "Primo Keukens",
+      "latitude": 52.351331,
+      "longitude": 6.665879,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 507,
+      "name": "Primo Keukens",
+      "latitude": 52.544346,
+      "longitude": 5.706903,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 508,
+      "name": "Primo Keukens",
+      "latitude": 52.557688,
+      "longitude": 5.882731,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 509,
+      "name": "Primo Keukens",
+      "latitude": 52.577191,
+      "longitude": 6.596588,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 510,
+      "name": "Primo Keukens",
+      "latitude": 52.701858,
+      "longitude": 6.181221,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 511,
+      "name": "Primo Keukens",
+      "latitude": 52.751329,
+      "longitude": 6.918298,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 512,
+      "name": "Primo Keukens",
+      "latitude": 52.963389,
+      "longitude": 5.899703,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 513,
+      "name": "Primo Keukens",
+      "latitude": 53.138316,
+      "longitude": 6.431821,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 514,
+      "name": "Projectkeukens",
+      "latitude": 53.08299,
+      "longitude": 6.597918,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 515,
+      "name": "QBTEC",
+      "latitude": 52.074924,
+      "longitude": 4.908214,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 516,
+      "name": "RBH Roermond",
+      "latitude": 51.208294,
+      "longitude": 6.015152,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 517,
+      "name": "REDDY Keukens",
+      "latitude": 52.347123,
+      "longitude": 5.515644,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 518,
+      "name": "REDDY Keukens",
+      "latitude": 52.492639,
+      "longitude": 5.48474,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 519,
+      "name": "Reddy",
+      "latitude": 52.637333,
+      "longitude": 4.752807,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 520,
+      "name": "Reddy Keukens",
+      "latitude": 51.472009,
+      "longitude": 5.683001,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 521,
+      "name": "Reddy Keukens",
+      "latitude": 51.989757,
+      "longitude": 5.104121,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 522,
+      "name": "Reddy Keukens",
+      "latitude": 52.06463,
+      "longitude": 4.491544,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 523,
+      "name": "Rhedens Keukenhuys",
+      "latitude": 52.006073,
+      "longitude": 6.034237,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 524,
+      "name": "RhijnArt Keukens",
+      "latitude": 51.926145,
+      "longitude": 5.571665,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 525,
+      "name": "Rikken Keukens",
+      "latitude": 51.843992,
+      "longitude": 5.867512,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 526,
+      "name": "Rob Woud Keukens Inbouwapparatuur",
+      "latitude": 52.387479,
+      "longitude": 4.622341,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 527,
+      "name": "SKK Keukenstudio",
+      "latitude": 51.467863,
+      "longitude": 3.976158,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 528,
+      "name": "Samen in de Keuken",
+      "latitude": 52.630238,
+      "longitude": 4.751047,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 529,
+      "name": "Satink",
+      "latitude": 52.495736,
+      "longitude": 6.117863,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 530,
+      "name": "Scheffer Keukens",
+      "latitude": 51.998339,
+      "longitude": 6.350056,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 531,
+      "name": "Scherpplaats",
+      "latitude": 52.305614,
+      "longitude": 5.04194,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 532,
+      "name": "Sense Keukens",
+      "latitude": 52.651008,
+      "longitude": 5.053373,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 533,
+      "name": "Sijben Keukens",
+      "latitude": 51.200227,
+      "longitude": 6.003182,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 534,
+      "name": "Sjartec",
+      "latitude": 52.173747,
+      "longitude": 4.498445,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 535,
+      "name": "Smaak keukens",
+      "latitude": 52.162082,
+      "longitude": 5.316087,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 536,
+      "name": "Smeding",
+      "latitude": 53.165681,
+      "longitude": 6.38109,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 537,
+      "name": "Smeg Store Eindhoven",
+      "latitude": 51.439304,
+      "longitude": 5.448295,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 538,
+      "name": "So Low",
+      "latitude": 51.688979,
+      "longitude": 5.3066,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 539,
+      "name": "Staats Keukens",
+      "latitude": 51.590102,
+      "longitude": 5.142184,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 540,
+      "name": "Star Keukencenter",
+      "latitude": 51.928735,
+      "longitude": 4.402979,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 541,
+      "name": "Star Keukencenter",
+      "latitude": 52.046057,
+      "longitude": 4.250691,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 542,
+      "name": "Steenbeek keukens",
+      "latitude": 52.138986,
+      "longitude": 5.41801,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 543,
+      "name": "Stijlkeukens",
+      "latitude": 50.972434,
+      "longitude": 5.761258,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 544,
+      "name": "Stoop Keukens V.O.F.",
+      "latitude": 51.566006,
+      "longitude": 4.471414,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 545,
+      "name": "Studio Senses",
+      "latitude": 52.519011,
+      "longitude": 6.058483,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 546,
+      "name": "Stupin Keukens",
+      "latitude": 52.517997,
+      "longitude": 5.01276,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 547,
+      "name": "Superkeukens",
+      "latitude": 51.208383,
+      "longitude": 6.016392,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 548,
+      "name": "Superkeukens",
+      "latitude": 51.436901,
+      "longitude": 5.496345,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 549,
+      "name": "Superkeukens",
+      "latitude": 51.445566,
+      "longitude": 6.074647,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 550,
+      "name": "Superkeukens",
+      "latitude": 51.474262,
+      "longitude": 5.671294,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 551,
+      "name": "Superkeukens",
+      "latitude": 51.481914,
+      "longitude": 3.624298,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 552,
+      "name": "Superkeukens",
+      "latitude": 51.493301,
+      "longitude": 4.280267,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 553,
+      "name": "Superkeukens",
+      "latitude": 51.586664,
+      "longitude": 5.028678,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 554,
+      "name": "Superkeukens",
+      "latitude": 51.597804,
+      "longitude": 4.744931,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 555,
+      "name": "Superkeukens",
+      "latitude": 51.652714,
+      "longitude": 5.643754,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 556,
+      "name": "Superkeukens",
+      "latitude": 51.673712,
+      "longitude": 5.801248,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 557,
+      "name": "Superkeukens",
+      "latitude": 51.709968,
+      "longitude": 5.337809,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 558,
+      "name": "Superkeukens",
+      "latitude": 51.754123,
+      "longitude": 4.553726,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 559,
+      "name": "Superkeukens",
+      "latitude": 51.756322,
+      "longitude": 5.553277,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 560,
+      "name": "Superkeukens",
+      "latitude": 51.838106,
+      "longitude": 4.136465,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 561,
+      "name": "Superkeukens",
+      "latitude": 51.838221,
+      "longitude": 4.134543,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 562,
+      "name": "Superkeukens",
+      "latitude": 51.854198,
+      "longitude": 5.750589,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 563,
+      "name": "Superkeukens",
+      "latitude": 51.868042,
+      "longitude": 4.989719,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 564,
+      "name": "Superkeukens",
+      "latitude": 51.900259,
+      "longitude": 5.448482,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 565,
+      "name": "Superkeukens",
+      "latitude": 51.91365,
+      "longitude": 5.920753,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 566,
+      "name": "Superkeukens",
+      "latitude": 51.921386,
+      "longitude": 6.364767,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 567,
+      "name": "Superkeukens",
+      "latitude": 51.953939,
+      "longitude": 4.568886,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 568,
+      "name": "Superkeukens",
+      "latitude": 52.004396,
+      "longitude": 5.57148,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 569,
+      "name": "Superkeukens",
+      "latitude": 52.011399,
+      "longitude": 4.287192,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 570,
+      "name": "Superkeukens",
+      "latitude": 52.025498,
+      "longitude": 4.677064,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 571,
+      "name": "Superkeukens",
+      "latitude": 52.063026,
+      "longitude": 5.102623,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 572,
+      "name": "Superkeukens",
+      "latitude": 52.138576,
+      "longitude": 4.548852,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 573,
+      "name": "Superkeukens",
+      "latitude": 52.152583,
+      "longitude": 6.201691,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 574,
+      "name": "Superkeukens",
+      "latitude": 52.166913,
+      "longitude": 5.367898,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 575,
+      "name": "Superkeukens",
+      "latitude": 52.21222,
+      "longitude": 5.997584,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 576,
+      "name": "Superkeukens",
+      "latitude": 52.295604,
+      "longitude": 6.922853,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 577,
+      "name": "Superkeukens",
+      "latitude": 52.312632,
+      "longitude": 4.939101,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 578,
+      "name": "Superkeukens",
+      "latitude": 52.333248,
+      "longitude": 4.631553,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 579,
+      "name": "Superkeukens",
+      "latitude": 52.394258,
+      "longitude": 5.274917,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 580,
+      "name": "Superkeukens",
+      "latitude": 52.404984,
+      "longitude": 6.600957,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 581,
+      "name": "Superkeukens",
+      "latitude": 52.441466,
+      "longitude": 5.86479,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 582,
+      "name": "Superkeukens",
+      "latitude": 52.510926,
+      "longitude": 6.065968,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 583,
+      "name": "Superkeukens",
+      "latitude": 52.6486,
+      "longitude": 5.047845,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 584,
+      "name": "Superkeukens",
+      "latitude": 52.676329,
+      "longitude": 4.798697,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 585,
+      "name": "Superkeukens",
+      "latitude": 52.763151,
+      "longitude": 6.902657,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 586,
+      "name": "Superkeukens",
+      "latitude": 52.886201,
+      "longitude": 5.993175,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 587,
+      "name": "Superkeukens",
+      "latitude": 53.010734,
+      "longitude": 6.578407,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 588,
+      "name": "Superkeukens",
+      "latitude": 53.171134,
+      "longitude": 6.755176,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 589,
+      "name": "Superkeukens",
+      "latitude": 53.201283,
+      "longitude": 5.765067,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 590,
+      "name": "Superkeukens",
+      "latitude": 53.213054,
+      "longitude": 6.53612,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 591,
+      "name": "Superkeukens",
+      "latitude": 53.253244,
+      "longitude": 6.140021,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 592,
+      "name": "Svea",
+      "latitude": 51.499585,
+      "longitude": 5.467084,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 593,
+      "name": "TWA Keukens",
+      "latitude": 53.155045,
+      "longitude": 6.489473,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 594,
+      "name": "Tabak Keukens",
+      "latitude": 53.108665,
+      "longitude": 6.098337,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 595,
+      "name": "Tafelwerk",
+      "latitude": 52.156291,
+      "longitude": 4.493689,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 596,
+      "name": "Tibosch Afbouwcentrum B.V.",
+      "latitude": 51.670845,
+      "longitude": 5.410392,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 597,
+      "name": "Tieleman Keukens",
+      "latitude": 51.75022,
+      "longitude": 4.164141,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 598,
+      "name": "Tolkamp Design",
+      "latitude": 51.972126,
+      "longitude": 6.703678,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 599,
+      "name": "Trend Keukens",
+      "latitude": 53.113152,
+      "longitude": 6.09657,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 600,
+      "name": "Tulp",
+      "latitude": 51.481886,
+      "longitude": 3.624722,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 601,
+      "name": "Tulp Keukens",
+      "latitude": 51.581415,
+      "longitude": 4.732285,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 602,
+      "name": "Tulp Keukens",
+      "latitude": 52.013728,
+      "longitude": 5.561122,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 603,
+      "name": "Tulp Keukens",
+      "latitude": 52.160701,
+      "longitude": 5.377719,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 604,
+      "name": "Tulp Keukens",
+      "latitude": 52.224035,
+      "longitude": 6.88073,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 605,
+      "name": "Tulp Keukens",
+      "latitude": 52.664901,
+      "longitude": 4.813093,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 606,
+      "name": "Tulp Rijssen",
+      "latitude": 52.319699,
+      "longitude": 6.502418,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 607,
+      "name": "Tulp keukens",
+      "latitude": 52.077544,
+      "longitude": 4.899557,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 608,
+      "name": "Undici Keukens",
+      "latitude": 51.552776,
+      "longitude": 5.094518,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 609,
+      "name": "Uniek keukens",
+      "latitude": 51.211345,
+      "longitude": 6.014744,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 610,
+      "name": "Van Bemmel & Kroon",
+      "latitude": 52.070548,
+      "longitude": 4.390373,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 611,
+      "name": "Van Der Stad",
+      "latitude": 51.849618,
+      "longitude": 5.831104,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 612,
+      "name": "Van Galen keukens",
+      "latitude": 52.514752,
+      "longitude": 6.097169,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 613,
+      "name": "Van der Veen Keukens en Sanitair",
+      "latitude": 52.978612,
+      "longitude": 6.295795,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 614,
+      "name": "Van der Velden Keukens",
+      "latitude": 52.299203,
+      "longitude": 5.632,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 615,
+      "name": "Van der Voet Keukens",
+      "latitude": 52.216375,
+      "longitude": 4.514686,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 616,
+      "name": "VastgoedKeukens",
+      "latitude": 53.215097,
+      "longitude": 6.569104,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 617,
+      "name": "Veldkamp",
+      "latitude": 52.448495,
+      "longitude": 5.900478,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 618,
+      "name": "Veneman",
+      "latitude": 52.435505,
+      "longitude": 6.536688,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 619,
+      "name": "Verdonk Keukens",
+      "latitude": 52.130654,
+      "longitude": 5.036948,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 620,
+      "name": "Verhaegen Keukens",
+      "latitude": 51.291452,
+      "longitude": 6.058031,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 621,
+      "name": "Verhoef",
+      "latitude": 52.204122,
+      "longitude": 4.395045,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 622,
+      "name": "Verhoeks",
+      "latitude": 51.967426,
+      "longitude": 5.66679,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 623,
+      "name": "Verhoeven-van Erp BV",
+      "latitude": 51.547918,
+      "longitude": 4.474051,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 624,
+      "name": "Voortman Keukens",
+      "latitude": 52.232866,
+      "longitude": 5.973953,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 625,
+      "name": "WST Keukens",
+      "latitude": 52.495629,
+      "longitude": 4.766448,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 626,
+      "name": "Waterink Keukens",
+      "latitude": 52.569769,
+      "longitude": 6.643061,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 627,
+      "name": "Westland keukens",
+      "latitude": 51.960399,
+      "longitude": 4.210592,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 628,
+      "name": "Wibegro",
+      "latitude": 51.960952,
+      "longitude": 5.980644,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 629,
+      "name": "Wijnand",
+      "latitude": 52.514742,
+      "longitude": 6.097282,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 630,
+      "name": "Wijnand Keukens",
+      "latitude": 53.182187,
+      "longitude": 6.379584,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 631,
+      "name": "Wilms",
+      "latitude": 52.943138,
+      "longitude": 4.776205,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 632,
+      "name": "Wim van der Ham keukens",
+      "latitude": 52.061018,
+      "longitude": 4.526544,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 633,
+      "name": "Wim van der Ham keukens",
+      "latitude": 52.085844,
+      "longitude": 4.335923,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 634,
+      "name": "Woerdman",
+      "latitude": 52.128084,
+      "longitude": 4.661721,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 635,
+      "name": "Wood4",
+      "latitude": 52.396076,
+      "longitude": 6.042181,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 636,
+      "name": "Wooning Bergschenhoek",
+      "latitude": 51.979589,
+      "longitude": 4.50019,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 637,
+      "name": "World of Cooking",
+      "latitude": 52.680098,
+      "longitude": 5.076893,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 638,
+      "name": "Wouters",
+      "latitude": 51.445518,
+      "longitude": 4.937704,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 639,
+      "name": "Your Kitchen",
+      "latitude": 51.551179,
+      "longitude": 5.102247,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 640,
+      "name": "Zeer Mooi Keukens",
+      "latitude": 51.936385,
+      "longitude": 6.129845,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 641,
+      "name": "Zenner Keukens",
+      "latitude": 52.014593,
+      "longitude": 5.056377,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 642,
+      "name": "Zuyd Outdoor Kitchen",
+      "latitude": 52.510026,
+      "longitude": 5.004964,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 643,
+      "name": "Zwennes",
+      "latitude": 52.072676,
+      "longitude": 4.30184,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 644,
+      "name": "b&d keuken atelier",
+      "latitude": 52.331848,
+      "longitude": 5.541834,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 645,
+      "name": "bulthaup",
+      "latitude": 50.848399,
+      "longitude": 5.698301,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 646,
+      "name": "bulthaup",
+      "latitude": 52.38277,
+      "longitude": 4.628631,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 647,
+      "name": "de Gruijter",
+      "latitude": 51.822844,
+      "longitude": 4.777332,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 648,
+      "name": "kopjethee",
+      "latitude": 52.370522,
+      "longitude": 4.882405,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 649,
+      "name": "van Leerzem Italiaanse keukens",
+      "latitude": 51.57281,
+      "longitude": 4.783145,
+      "osm_klasse": "shop=kitchen"
+    },
+    {
+      "id": 650,
+      "name": "van Wanrooij Warenhuys",
+      "latitude": 51.832243,
+      "longitude": 5.250161,
+      "osm_klasse": "shop=kitchen"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: kitchen (shop=kitchen) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=kitchen in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 650 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: kitchen (shop=kitchen) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: kitchen (shop=kitchen) — 650 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 650 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

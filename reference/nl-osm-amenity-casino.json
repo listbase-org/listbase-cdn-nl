@@ -1,0 +1,1255 @@
+{
+  "id": "nl-osm-amenity-casino",
+  "name": "Netherlands OSM: casino (amenity=casino)",
+  "title": "Netherlands OSM: casino (amenity=casino)",
+  "description": "Named OpenStreetMap features tagged amenity=casino in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 172,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Admiral Casino",
+      "latitude": 52.960275,
+      "longitude": 4.768407,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 2,
+      "name": "Admiral Casino Vaals",
+      "latitude": 50.772112,
+      "longitude": 6.020491,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 3,
+      "name": "Be One",
+      "latitude": 51.920399,
+      "longitude": 4.489733,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 4,
+      "name": "Big Apple",
+      "latitude": 51.886291,
+      "longitude": 5.438288,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 5,
+      "name": "Big Apple",
+      "latitude": 51.930874,
+      "longitude": 6.077346,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 6,
+      "name": "Big Apple",
+      "latitude": 51.981976,
+      "longitude": 5.903791,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 7,
+      "name": "Cashino",
+      "latitude": 52.198287,
+      "longitude": 5.965298,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 8,
+      "name": "Casino",
+      "latitude": 51.502891,
+      "longitude": 3.888684,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 9,
+      "name": "Casino",
+      "latitude": 52.37408,
+      "longitude": 4.531513,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 10,
+      "name": "Casino Admiral",
+      "latitude": 51.280636,
+      "longitude": 4.054819,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 11,
+      "name": "Casino Avifauna",
+      "latitude": 52.140487,
+      "longitude": 4.647843,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 12,
+      "name": "Casino City",
+      "latitude": 52.352693,
+      "longitude": 4.891642,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 13,
+      "name": "Casino De Wereld",
+      "latitude": 52.475957,
+      "longitude": 4.672952,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 14,
+      "name": "Casino Ruyven by Queens",
+      "latitude": 51.984486,
+      "longitude": 4.395534,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 15,
+      "name": "Casino Sevens",
+      "latitude": 52.479868,
+      "longitude": 4.655416,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 16,
+      "name": "Circus Gran Casino",
+      "latitude": 52.143729,
+      "longitude": 5.41811,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 17,
+      "name": "Copacabana",
+      "latitude": 50.864073,
+      "longitude": 5.832113,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 18,
+      "name": "Corso Casino by Queens",
+      "latitude": 51.922691,
+      "longitude": 4.476476,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 19,
+      "name": "Fair Play",
+      "latitude": 50.86227,
+      "longitude": 5.831901,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 20,
+      "name": "Fair Play Casino",
+      "latitude": 50.812183,
+      "longitude": 5.721629,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 21,
+      "name": "Fair Play Casino",
+      "latitude": 50.849739,
+      "longitude": 5.702494,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 22,
+      "name": "Fair Play Casino",
+      "latitude": 50.852146,
+      "longitude": 5.692162,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 23,
+      "name": "Fair Play Casino",
+      "latitude": 50.856667,
+      "longitude": 6.00459,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 24,
+      "name": "Fair Play Casino",
+      "latitude": 50.8639,
+      "longitude": 6.067681,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 25,
+      "name": "Fair Play Casino",
+      "latitude": 50.889177,
+      "longitude": 5.980593,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 26,
+      "name": "Fair Play Casino",
+      "latitude": 50.971271,
+      "longitude": 5.826353,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 27,
+      "name": "Fair Play Casino",
+      "latitude": 51.192269,
+      "longitude": 5.992136,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 28,
+      "name": "Fair Play Casino",
+      "latitude": 51.251362,
+      "longitude": 5.704754,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 29,
+      "name": "Fair Play Casino",
+      "latitude": 51.344134,
+      "longitude": 6.137693,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 30,
+      "name": "Fair Play Casino",
+      "latitude": 51.422767,
+      "longitude": 5.558421,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 31,
+      "name": "Fair Play Casino",
+      "latitude": 51.429674,
+      "longitude": 5.736593,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 32,
+      "name": "Fair Play Casino",
+      "latitude": 51.44055,
+      "longitude": 5.479347,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 33,
+      "name": "Fair Play Casino",
+      "latitude": 51.450118,
+      "longitude": 5.473402,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 34,
+      "name": "Fair Play Casino",
+      "latitude": 51.493317,
+      "longitude": 4.290026,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 35,
+      "name": "Fair Play Casino",
+      "latitude": 51.532944,
+      "longitude": 4.455586,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 36,
+      "name": "Fair Play Casino",
+      "latitude": 51.65721,
+      "longitude": 5.616195,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 37,
+      "name": "Fair Play Casino",
+      "latitude": 51.66149,
+      "longitude": 5.609415,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 38,
+      "name": "Fair Play Casino",
+      "latitude": 51.808301,
+      "longitude": 4.650889,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 39,
+      "name": "Fair Play Casino",
+      "latitude": 51.911114,
+      "longitude": 4.242218,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 40,
+      "name": "Fair Play Casino",
+      "latitude": 51.918712,
+      "longitude": 4.479914,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 41,
+      "name": "Fair Play Casino",
+      "latitude": 51.924196,
+      "longitude": 4.405982,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 42,
+      "name": "Fair Play Casino",
+      "latitude": 52.093693,
+      "longitude": 5.119123,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 43,
+      "name": "Fair Play Casino",
+      "latitude": 52.141646,
+      "longitude": 5.039797,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 44,
+      "name": "Fair Play Casino",
+      "latitude": 52.216714,
+      "longitude": 5.958207,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 45,
+      "name": "Fair Play Casino",
+      "latitude": 52.333625,
+      "longitude": 5.218397,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 46,
+      "name": "Fair Play Casino",
+      "latitude": 52.369726,
+      "longitude": 5.216198,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 47,
+      "name": "Fair Play Casino",
+      "latitude": 52.385425,
+      "longitude": 4.746341,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 48,
+      "name": "Fair Play Casino",
+      "latitude": 52.456622,
+      "longitude": 4.560237,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 49,
+      "name": "Fair Play Casino",
+      "latitude": 52.500454,
+      "longitude": 5.471531,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 50,
+      "name": "Fair Play Casino",
+      "latitude": 52.711501,
+      "longitude": 5.753621,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 51,
+      "name": "Fair Play Casino",
+      "latitude": 53.206926,
+      "longitude": 6.592013,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 52,
+      "name": "Five Stars",
+      "latitude": 51.954334,
+      "longitude": 5.224572,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 53,
+      "name": "Five Stars Casino's",
+      "latitude": 51.689719,
+      "longitude": 5.301219,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 54,
+      "name": "Flag-in",
+      "latitude": 52.378145,
+      "longitude": 4.895705,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 55,
+      "name": "Flamingo Casino",
+      "latitude": 52.251763,
+      "longitude": 4.474795,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 56,
+      "name": "Flamingo Casino",
+      "latitude": 52.439734,
+      "longitude": 4.823889,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 57,
+      "name": "Flamingo Casino",
+      "latitude": 52.48123,
+      "longitude": 4.653981,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 58,
+      "name": "Flamingo Casino",
+      "latitude": 52.511341,
+      "longitude": 4.945732,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 59,
+      "name": "Flamingo Casino",
+      "latitude": 52.617772,
+      "longitude": 4.622672,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 60,
+      "name": "Flamingo Casino",
+      "latitude": 52.638169,
+      "longitude": 4.747549,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 61,
+      "name": "Flamingo Casino",
+      "latitude": 52.67105,
+      "longitude": 4.699235,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 62,
+      "name": "Flamingo Casino",
+      "latitude": 52.725956,
+      "longitude": 6.479486,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 63,
+      "name": "Flamingo Casino",
+      "latitude": 52.782478,
+      "longitude": 6.897194,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 64,
+      "name": "Flamingo Casino",
+      "latitude": 52.957661,
+      "longitude": 4.763095,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 65,
+      "name": "Flamingo Casino",
+      "latitude": 52.959324,
+      "longitude": 5.922353,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 66,
+      "name": "Flash",
+      "latitude": 52.200322,
+      "longitude": 5.959431,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 67,
+      "name": "Flash",
+      "latitude": 52.38637,
+      "longitude": 4.636338,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 68,
+      "name": "Flash",
+      "latitude": 52.631892,
+      "longitude": 4.747942,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 69,
+      "name": "Flash Casino",
+      "latitude": 51.340664,
+      "longitude": 6.134521,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 70,
+      "name": "Flash Casino",
+      "latitude": 51.345997,
+      "longitude": 5.883033,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 71,
+      "name": "Flash Casino",
+      "latitude": 51.454062,
+      "longitude": 6.050884,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 72,
+      "name": "Flash Casino",
+      "latitude": 51.523801,
+      "longitude": 5.974816,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 73,
+      "name": "Flash Casino",
+      "latitude": 51.616371,
+      "longitude": 5.547003,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 74,
+      "name": "Flash Casino",
+      "latitude": 51.688616,
+      "longitude": 5.302166,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 75,
+      "name": "Flash Casino",
+      "latitude": 51.689616,
+      "longitude": 5.315488,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 76,
+      "name": "Flash Casino",
+      "latitude": 51.690442,
+      "longitude": 5.300996,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 77,
+      "name": "Flash Casino",
+      "latitude": 51.729851,
+      "longitude": 5.881144,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 78,
+      "name": "Flash Casino",
+      "latitude": 52.289862,
+      "longitude": 4.722592,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 79,
+      "name": "Flash Casino",
+      "latitude": 52.350343,
+      "longitude": 5.616056,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 80,
+      "name": "Flash Casino",
+      "latitude": 52.366832,
+      "longitude": 4.894186,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 81,
+      "name": "Flash Casino",
+      "latitude": 52.387684,
+      "longitude": 4.636285,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 82,
+      "name": "Flash Casino",
+      "latitude": 52.45962,
+      "longitude": 4.623992,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 83,
+      "name": "Flash Casino",
+      "latitude": 52.995532,
+      "longitude": 6.563382,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 84,
+      "name": "Flash Casino",
+      "latitude": 53.106181,
+      "longitude": 6.872763,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 85,
+      "name": "Flash Casino's",
+      "latitude": 51.957739,
+      "longitude": 5.563457,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 86,
+      "name": "Funtastic",
+      "latitude": 51.441284,
+      "longitude": 3.577901,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 87,
+      "name": "Funtastic",
+      "latitude": 51.497477,
+      "longitude": 3.610748,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 88,
+      "name": "Funtastic casino",
+      "latitude": 51.731755,
+      "longitude": 3.772503,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 89,
+      "name": "Gambling Hall",
+      "latitude": 52.379822,
+      "longitude": 4.632182,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 90,
+      "name": "Game Palace",
+      "latitude": 52.546417,
+      "longitude": 4.661531,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 91,
+      "name": "Gouden Leeuw Casino",
+      "latitude": 53.094089,
+      "longitude": 6.687723,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 92,
+      "name": "Holland Casino",
+      "latitude": 50.86237,
+      "longitude": 5.823885,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 93,
+      "name": "Holland Casino",
+      "latitude": 51.39592,
+      "longitude": 6.135331,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 94,
+      "name": "Holland Casino",
+      "latitude": 51.43904,
+      "longitude": 5.479051,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 95,
+      "name": "Holland Casino",
+      "latitude": 51.5875,
+      "longitude": 4.781069,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 96,
+      "name": "Holland Casino",
+      "latitude": 51.84876,
+      "longitude": 5.868076,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 97,
+      "name": "Holland Casino",
+      "latitude": 51.922954,
+      "longitude": 4.472472,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 98,
+      "name": "Holland Casino",
+      "latitude": 52.060392,
+      "longitude": 5.11033,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 99,
+      "name": "Holland Casino",
+      "latitude": 52.112148,
+      "longitude": 4.283115,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 100,
+      "name": "Holland Casino",
+      "latitude": 52.218009,
+      "longitude": 6.89447,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 101,
+      "name": "Holland Casino",
+      "latitude": 52.362327,
+      "longitude": 4.882194,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 102,
+      "name": "Holland Casino",
+      "latitude": 52.390042,
+      "longitude": 4.842412,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 103,
+      "name": "Holland Casino",
+      "latitude": 53.199803,
+      "longitude": 5.772079,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 104,
+      "name": "Holland Casino",
+      "latitude": 53.21323,
+      "longitude": 6.586907,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 105,
+      "name": "Hommerson",
+      "latitude": 52.010761,
+      "longitude": 4.710039,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 106,
+      "name": "Hommerson",
+      "latitude": 52.062095,
+      "longitude": 4.493524,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 107,
+      "name": "Hommerson Casino",
+      "latitude": 52.029258,
+      "longitude": 5.083703,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 108,
+      "name": "Hommerson Casino",
+      "latitude": 52.077053,
+      "longitude": 4.314379,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 109,
+      "name": "Hommerson Casino's",
+      "latitude": 52.077224,
+      "longitude": 4.308575,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 110,
+      "name": "Jack's Casino",
+      "latitude": 51.481186,
+      "longitude": 5.655514,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 111,
+      "name": "Jack's Casino",
+      "latitude": 51.557976,
+      "longitude": 5.090083,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 112,
+      "name": "Jack's Casino",
+      "latitude": 51.822572,
+      "longitude": 5.793975,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 113,
+      "name": "Jack's Casino",
+      "latitude": 51.920884,
+      "longitude": 4.473521,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 114,
+      "name": "Jack's Casino",
+      "latitude": 51.950726,
+      "longitude": 4.552553,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 115,
+      "name": "Jack's Casino",
+      "latitude": 51.968533,
+      "longitude": 6.287211,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 116,
+      "name": "Jack's Casino",
+      "latitude": 52.043364,
+      "longitude": 4.504252,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 117,
+      "name": "Jack's Casino",
+      "latitude": 52.09181,
+      "longitude": 5.118048,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 118,
+      "name": "Jack's Casino",
+      "latitude": 52.157624,
+      "longitude": 5.394884,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 119,
+      "name": "Jack's Casino",
+      "latitude": 52.212202,
+      "longitude": 4.50375,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 120,
+      "name": "Jack's Casino",
+      "latitude": 52.548853,
+      "longitude": 4.722386,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 121,
+      "name": "Jack's Casino",
+      "latitude": 52.662872,
+      "longitude": 4.828095,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 122,
+      "name": "Jack's Casino",
+      "latitude": 52.723685,
+      "longitude": 6.886036,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 123,
+      "name": "Jack's Casino",
+      "latitude": 53.218256,
+      "longitude": 6.56983,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 124,
+      "name": "Jack's Casino Hoorn",
+      "latitude": 52.651773,
+      "longitude": 5.039278,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 125,
+      "name": "Jack's Casino Roosendaal",
+      "latitude": 51.533205,
+      "longitude": 4.457882,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 126,
+      "name": "Jack's Casino Zwolle",
+      "latitude": 52.517694,
+      "longitude": 6.11967,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 127,
+      "name": "Jack's casino",
+      "latitude": 51.84685,
+      "longitude": 5.861955,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 128,
+      "name": "Jack's casino",
+      "latitude": 52.966094,
+      "longitude": 5.798447,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 129,
+      "name": "Jackpotgames & Fun",
+      "latitude": 52.382519,
+      "longitude": 4.531764,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 130,
+      "name": "Jacks Casino",
+      "latitude": 51.958688,
+      "longitude": 5.898613,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 131,
+      "name": "Krijco Casino",
+      "latitude": 51.198013,
+      "longitude": 5.985529,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 132,
+      "name": "Las Vegas",
+      "latitude": 51.901869,
+      "longitude": 4.490939,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 133,
+      "name": "Las Vegas",
+      "latitude": 53.20148,
+      "longitude": 5.797596,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 134,
+      "name": "Lucky Jack",
+      "latitude": 52.371974,
+      "longitude": 4.875585,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 135,
+      "name": "Lucky Jack",
+      "latitude": 52.510643,
+      "longitude": 4.669648,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 136,
+      "name": "Lucky Jack Casino",
+      "latitude": 52.397349,
+      "longitude": 4.940661,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 137,
+      "name": "Lucky Star Casino",
+      "latitude": 53.002562,
+      "longitude": 6.763726,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 138,
+      "name": "Lucky24 Casino",
+      "latitude": 52.281751,
+      "longitude": 4.668745,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 139,
+      "name": "Magic Cherry",
+      "latitude": 52.024851,
+      "longitude": 5.555345,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 140,
+      "name": "Merkur",
+      "latitude": 51.917782,
+      "longitude": 4.478758,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 141,
+      "name": "Merkur Casino",
+      "latitude": 52.077315,
+      "longitude": 4.647713,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 142,
+      "name": "Merkur Casino",
+      "latitude": 52.303758,
+      "longitude": 4.691384,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 143,
+      "name": "Merkur Casino",
+      "latitude": 52.366628,
+      "longitude": 4.895003,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 144,
+      "name": "Merkur Casino",
+      "latitude": 52.367468,
+      "longitude": 5.216438,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 145,
+      "name": "Noord Casino Sneek",
+      "latitude": 53.032845,
+      "longitude": 5.659924,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 146,
+      "name": "Novoplay",
+      "latitude": 52.091493,
+      "longitude": 5.103911,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 147,
+      "name": "Pierre de Jonge Casino",
+      "latitude": 51.568955,
+      "longitude": 4.638789,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 148,
+      "name": "Pierre de Jonge Casino",
+      "latitude": 51.585971,
+      "longitude": 4.921793,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 149,
+      "name": "Pierre de Jonge Casino",
+      "latitude": 51.58917,
+      "longitude": 4.773369,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 150,
+      "name": "Play World",
+      "latitude": 51.814286,
+      "longitude": 4.666946,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 151,
+      "name": "Play World",
+      "latitude": 52.244371,
+      "longitude": 4.430497,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 152,
+      "name": "Play World Casino",
+      "latitude": 51.68091,
+      "longitude": 4.794347,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 153,
+      "name": "Play-In Casino",
+      "latitude": 52.378254,
+      "longitude": 4.896664,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 154,
+      "name": "Play-In Zandvoort",
+      "latitude": 52.372294,
+      "longitude": 4.527304,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 155,
+      "name": "PlayWorld",
+      "latitude": 52.371551,
+      "longitude": 5.217521,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 156,
+      "name": "Players Casino",
+      "latitude": 51.576631,
+      "longitude": 4.781681,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 157,
+      "name": "Players Casino",
+      "latitude": 51.590542,
+      "longitude": 4.526744,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 158,
+      "name": "Queens Casino",
+      "latitude": 51.917779,
+      "longitude": 4.475795,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 159,
+      "name": "Queens Casino",
+      "latitude": 51.918629,
+      "longitude": 4.459677,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 160,
+      "name": "Queens Casino",
+      "latitude": 51.923293,
+      "longitude": 4.486137,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 161,
+      "name": "Queens Casino",
+      "latitude": 52.027313,
+      "longitude": 4.36112,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 162,
+      "name": "Queens Casino",
+      "latitude": 52.037642,
+      "longitude": 4.323916,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 163,
+      "name": "Queens Casino",
+      "latitude": 52.062417,
+      "longitude": 4.495029,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 164,
+      "name": "Queens Casino",
+      "latitude": 52.077923,
+      "longitude": 4.314071,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 165,
+      "name": "Speelhal",
+      "latitude": 53.444914,
+      "longitude": 5.771167,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 166,
+      "name": "SuperGame",
+      "latitude": 51.192953,
+      "longitude": 5.985924,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 167,
+      "name": "The Jagger Casino",
+      "latitude": 51.851242,
+      "longitude": 4.331449,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 168,
+      "name": "The Strip",
+      "latitude": 52.633629,
+      "longitude": 4.748159,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 169,
+      "name": "Triple Seven Casino",
+      "latitude": 51.69269,
+      "longitude": 5.301128,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 170,
+      "name": "Van der Valk - Hotel Gilze Rijen",
+      "latitude": 51.553093,
+      "longitude": 4.943954,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 171,
+      "name": "WIN Casino",
+      "latitude": 51.278122,
+      "longitude": 5.739228,
+      "osm_klasse": "amenity=casino"
+    },
+    {
+      "id": 172,
+      "name": "WIN Casino",
+      "latitude": 52.855787,
+      "longitude": 6.497698,
+      "osm_klasse": "amenity=casino"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: casino (amenity=casino) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=casino in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 172 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: casino (amenity=casino) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: casino (amenity=casino) — 172 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 172 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

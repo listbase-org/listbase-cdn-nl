@@ -1,0 +1,2298 @@
+{
+  "id": "nl-osm-amenity-events-venue",
+  "name": "Netherlands OSM: events venue (amenity=events_venue)",
+  "title": "Netherlands OSM: events venue (amenity=events_venue)",
+  "description": "Named OpenStreetMap features tagged amenity=events_venue in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 321,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Barbarazaelke",
+      "latitude": 50.98092,
+      "longitude": 5.81071,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 2,
+      "name": "'t Kruis Heerhugowaard",
+      "latitude": 52.650696,
+      "longitude": 4.845218,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 3,
+      "name": "'t Singelhuys",
+      "latitude": 52.156702,
+      "longitude": 5.393561,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 4,
+      "name": "'t Trefpunt",
+      "latitude": 52.113678,
+      "longitude": 5.40491,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 5,
+      "name": "'t Volkshoes",
+      "latitude": 50.983315,
+      "longitude": 5.81646,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 6,
+      "name": ".nico",
+      "latitude": 51.982869,
+      "longitude": 5.901867,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 7,
+      "name": "033 Vergaderen",
+      "latitude": 52.13898,
+      "longitude": 5.417396,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 8,
+      "name": "ADM Noord",
+      "latitude": 52.409343,
+      "longitude": 4.936242,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 9,
+      "name": "ALPHA",
+      "latitude": 52.785586,
+      "longitude": 4.795128,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 10,
+      "name": "Aan de Overkant",
+      "latitude": 51.331653,
+      "longitude": 5.401722,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 11,
+      "name": "Activiteitencentrum Dunea",
+      "latitude": 52.128664,
+      "longitude": 4.333088,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 12,
+      "name": "Akerk",
+      "latitude": 53.216466,
+      "longitude": 6.562282,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 13,
+      "name": "Almere Underground",
+      "latitude": 52.368185,
+      "longitude": 5.218276,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 14,
+      "name": "Amersfoortvergaderen.nl",
+      "latitude": 52.160949,
+      "longitude": 5.379318,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 15,
+      "name": "Anna's Hoeve",
+      "latitude": 52.262915,
+      "longitude": 4.709764,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 16,
+      "name": "Autotron Rosmalen",
+      "latitude": 51.71199,
+      "longitude": 5.418226,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 17,
+      "name": "Azijnfabriek",
+      "latitude": 51.190449,
+      "longitude": 5.987492,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 18,
+      "name": "BUNKR Events",
+      "latitude": 51.446641,
+      "longitude": 5.479707,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 19,
+      "name": "Bar 't Ruime Sop",
+      "latitude": 52.143406,
+      "longitude": 4.403667,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 20,
+      "name": "Betahuis",
+      "latitude": 50.888511,
+      "longitude": 5.98127,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 21,
+      "name": "Bij Aaltje aan de Linie",
+      "latitude": 52.089733,
+      "longitude": 5.447698,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 22,
+      "name": "Bij Jacques | De Drie Pilaren",
+      "latitude": 52.933716,
+      "longitude": 5.956793,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 23,
+      "name": "Bij Lampe",
+      "latitude": 52.383299,
+      "longitude": 6.280322,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 24,
+      "name": "Bij de Tol",
+      "latitude": 52.060361,
+      "longitude": 4.917535,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 25,
+      "name": "Bijhuub",
+      "latitude": 52.601254,
+      "longitude": 4.736882,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 26,
+      "name": "Black Horse Zalencentrum",
+      "latitude": 51.53659,
+      "longitude": 4.464318,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 27,
+      "name": "Blauwalg Festival",
+      "latitude": 51.888167,
+      "longitude": 4.896934,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 28,
+      "name": "Boerderij Mereveld",
+      "latitude": 52.062602,
+      "longitude": 5.150323,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 29,
+      "name": "Boerengoed",
+      "latitude": 51.858696,
+      "longitude": 5.219424,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 30,
+      "name": "Bollee Events",
+      "latitude": 51.956746,
+      "longitude": 5.583751,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 31,
+      "name": "Bondsgebouw",
+      "latitude": 52.130054,
+      "longitude": 4.456116,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 32,
+      "name": "Broeder Liplap",
+      "latitude": 51.523966,
+      "longitude": 5.065702,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 33,
+      "name": "Broere",
+      "latitude": 52.019518,
+      "longitude": 5.045131,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 34,
+      "name": "Buitenplaats Brienenoord",
+      "latitude": 51.899679,
+      "longitude": 4.53504,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 35,
+      "name": "Buitenplaats Land van Es",
+      "latitude": 51.722645,
+      "longitude": 4.541651,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 36,
+      "name": "Buitenplaats Sparrendaal",
+      "latitude": 52.054251,
+      "longitude": 5.280023,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 37,
+      "name": "Buitenplaats de Burgwal",
+      "latitude": 52.109817,
+      "longitude": 5.409261,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 38,
+      "name": "Buitenplek Más Mik",
+      "latitude": 52.000338,
+      "longitude": 4.927892,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 39,
+      "name": "By Kirby",
+      "latitude": 51.989284,
+      "longitude": 4.192998,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 40,
+      "name": "Café \"De Veestallen\"",
+      "latitude": 51.53362,
+      "longitude": 4.448708,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 41,
+      "name": "Café De Vriendschap",
+      "latitude": 52.129478,
+      "longitude": 4.497247,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 42,
+      "name": "Café au Let",
+      "latitude": 52.265133,
+      "longitude": 6.791275,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 43,
+      "name": "Centrum Pacha Mama",
+      "latitude": 53.223798,
+      "longitude": 5.815602,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 44,
+      "name": "Circa",
+      "latitude": 52.390835,
+      "longitude": 4.817211,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 45,
+      "name": "Cocody",
+      "latitude": 51.408426,
+      "longitude": 5.550978,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 46,
+      "name": "Concordia Zalencentrum",
+      "latitude": 52.508497,
+      "longitude": 4.950562,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 47,
+      "name": "Corona beach",
+      "latitude": 52.2654,
+      "longitude": 5.205123,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 48,
+      "name": "Cultureel Terras De Kaaij",
+      "latitude": 51.849027,
+      "longitude": 5.872056,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 49,
+      "name": "Cultureel centrum t Manneke",
+      "latitude": 51.995,
+      "longitude": 4.455119,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 50,
+      "name": "Cultuurboerderij",
+      "latitude": 51.444113,
+      "longitude": 5.223199,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 51,
+      "name": "De Aker, zalen- en congrescentrum",
+      "latitude": 52.261658,
+      "longitude": 5.606378,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 52,
+      "name": "De Betuwepoort",
+      "latitude": 51.881139,
+      "longitude": 5.150789,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 53,
+      "name": "De Bongerd",
+      "latitude": 51.9552,
+      "longitude": 5.756758,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 54,
+      "name": "De Brandmeester",
+      "latitude": 52.156869,
+      "longitude": 4.491045,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 55,
+      "name": "De Brink Pub",
+      "latitude": 52.763232,
+      "longitude": 6.360611,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 56,
+      "name": "De Brinkhoeve",
+      "latitude": 51.857276,
+      "longitude": 4.389142,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 57,
+      "name": "De Brug Zalencentrum",
+      "latitude": 52.045863,
+      "longitude": 4.724065,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 58,
+      "name": "De BuitenSociëteit",
+      "latitude": 53.160719,
+      "longitude": 6.57125,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 59,
+      "name": "De Distel",
+      "latitude": 51.533736,
+      "longitude": 4.448501,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 60,
+      "name": "De Dorpskring",
+      "latitude": 51.884926,
+      "longitude": 5.196702,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 61,
+      "name": "De Engel",
+      "latitude": 52.027496,
+      "longitude": 5.160706,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 62,
+      "name": "De Fundatie van Renswoude",
+      "latitude": 52.08408,
+      "longitude": 5.126594,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 63,
+      "name": "De GAS!Fabriek",
+      "latitude": 52.642419,
+      "longitude": 4.742489,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 64,
+      "name": "De Gasfabriek",
+      "latitude": 52.24313,
+      "longitude": 6.16907,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 65,
+      "name": "De Gasfabriek",
+      "latitude": 52.642446,
+      "longitude": 4.742428,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 66,
+      "name": "De Glazen Ruimte",
+      "latitude": 52.1304,
+      "longitude": 5.048545,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 67,
+      "name": "De Gouwe Sleutel",
+      "latitude": 51.691894,
+      "longitude": 5.296325,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 68,
+      "name": "De Heeren van Driebergen",
+      "latitude": 52.054394,
+      "longitude": 5.290027,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 69,
+      "name": "De Heeren van Lust",
+      "latitude": 51.856025,
+      "longitude": 4.537113,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 70,
+      "name": "De Hooischuur",
+      "latitude": 52.388686,
+      "longitude": 4.988618,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 71,
+      "name": "De Horster Fabriek",
+      "latitude": 51.466289,
+      "longitude": 6.055014,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 72,
+      "name": "De Jongens van",
+      "latitude": 51.851137,
+      "longitude": 4.327257,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 73,
+      "name": "De Kaap",
+      "latitude": 51.926755,
+      "longitude": 5.432165,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 74,
+      "name": "De Kalkovens",
+      "latitude": 52.309201,
+      "longitude": 5.243886,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 75,
+      "name": "De Kanselarij",
+      "latitude": 53.202842,
+      "longitude": 5.801476,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 76,
+      "name": "De Kas",
+      "latitude": 52.078808,
+      "longitude": 4.885655,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 77,
+      "name": "De Kerk",
+      "latitude": 51.471376,
+      "longitude": 5.269792,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 78,
+      "name": "De Kompaszaal",
+      "latitude": 52.377235,
+      "longitude": 4.940069,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 79,
+      "name": "De Koningshof",
+      "latitude": 52.669355,
+      "longitude": 5.601899,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 80,
+      "name": "De Kookfabriek",
+      "latitude": 52.097497,
+      "longitude": 5.102608,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 81,
+      "name": "De Lantearne",
+      "latitude": 53.180172,
+      "longitude": 6.168502,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 82,
+      "name": "De Lasloods",
+      "latitude": 51.446929,
+      "longitude": 3.587848,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 83,
+      "name": "De Loods",
+      "latitude": 52.35893,
+      "longitude": 4.95742,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 84,
+      "name": "De Loods",
+      "latitude": 53.217134,
+      "longitude": 6.537075,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 85,
+      "name": "De Medialoods",
+      "latitude": 52.237661,
+      "longitude": 5.469815,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 86,
+      "name": "De Ontmoeting",
+      "latitude": 51.88354,
+      "longitude": 5.287766,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 87,
+      "name": "De Oude Meester",
+      "latitude": 52.917312,
+      "longitude": 6.26277,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 88,
+      "name": "De Oude Melkfabriek",
+      "latitude": 51.863173,
+      "longitude": 4.995059,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 89,
+      "name": "De Partner",
+      "latitude": 52.039099,
+      "longitude": 5.073072,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 90,
+      "name": "De Poelewei",
+      "latitude": 51.589906,
+      "longitude": 4.803387,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 91,
+      "name": "De Polderij",
+      "latitude": 51.912806,
+      "longitude": 4.263507,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 92,
+      "name": "De Puddingfabriek",
+      "latitude": 53.210218,
+      "longitude": 6.570509,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 93,
+      "name": "De Reuselhoeve",
+      "latitude": 51.519789,
+      "longitude": 5.18378,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 94,
+      "name": "De Ritskampen",
+      "latitude": 51.673732,
+      "longitude": 5.176364,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 95,
+      "name": "De Schaapskooi",
+      "latitude": 52.01675,
+      "longitude": 4.375913,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 96,
+      "name": "De Schoudermantel",
+      "latitude": 52.055825,
+      "longitude": 5.226033,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 97,
+      "name": "De Spil",
+      "latitude": 51.870602,
+      "longitude": 4.784758,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 98,
+      "name": "De Stad Klundert (RK Kerk)",
+      "latitude": 51.662955,
+      "longitude": 4.535446,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 99,
+      "name": "De Steenfabriek",
+      "latitude": 51.60833,
+      "longitude": 5.170779,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 100,
+      "name": "De Stelp",
+      "latitude": 53.193544,
+      "longitude": 5.802175,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 101,
+      "name": "De Tinfabriek",
+      "latitude": 52.299792,
+      "longitude": 5.154526,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 102,
+      "name": "De Tuinderij",
+      "latitude": 51.98156,
+      "longitude": 4.296974,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 103,
+      "name": "De Tuinkas",
+      "latitude": 52.358323,
+      "longitude": 4.955662,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 104,
+      "name": "De Vagant",
+      "latitude": 52.087319,
+      "longitude": 5.168217,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 105,
+      "name": "De Veenderhoeve",
+      "latitude": 52.04723,
+      "longitude": 5.574595,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 106,
+      "name": "De Verzameling",
+      "latitude": 51.964515,
+      "longitude": 5.972056,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 107,
+      "name": "De Weidehoeve",
+      "latitude": 51.519607,
+      "longitude": 5.183956,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 108,
+      "name": "De Witte Kater",
+      "latitude": 53.086571,
+      "longitude": 6.65613,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 109,
+      "name": "De Workshop Groningen",
+      "latitude": 53.224792,
+      "longitude": 6.536352,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 110,
+      "name": "Deniz Dügün Salonu Evenementencentrum",
+      "latitude": 51.477323,
+      "longitude": 5.483091,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 111,
+      "name": "Diamant",
+      "latitude": 52.342315,
+      "longitude": 4.794596,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 112,
+      "name": "Domus Dela",
+      "latitude": 51.438258,
+      "longitude": 5.483674,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 113,
+      "name": "Doopsgezind Kerkje",
+      "latitude": 51.971954,
+      "longitude": 6.719483,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 114,
+      "name": "Dorpskerk",
+      "latitude": 53.191261,
+      "longitude": 5.811311,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 115,
+      "name": "Dus",
+      "latitude": 52.112689,
+      "longitude": 5.074642,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 116,
+      "name": "Dwingelderheem",
+      "latitude": 52.865671,
+      "longitude": 6.389799,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 117,
+      "name": "EXPO Greater Amsterdam",
+      "latitude": 52.341813,
+      "longitude": 4.678391,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 118,
+      "name": "Eemlandhoeve",
+      "latitude": 52.227197,
+      "longitude": 5.35619,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 119,
+      "name": "Erve Hondeborg",
+      "latitude": 52.307586,
+      "longitude": 6.718584,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 120,
+      "name": "Escape Room 076",
+      "latitude": 51.585949,
+      "longitude": 4.776217,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 121,
+      "name": "EuroHal",
+      "latitude": 53.171064,
+      "longitude": 6.853044,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 122,
+      "name": "Evenementen Studio Gala",
+      "latitude": 52.71081,
+      "longitude": 6.199671,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 123,
+      "name": "Evenementenhal Hardenberg",
+      "latitude": 52.558531,
+      "longitude": 6.627261,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 124,
+      "name": "Evenementenlocatie Zandberg58",
+      "latitude": 51.578674,
+      "longitude": 4.788202,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 125,
+      "name": "Evenemententerrein",
+      "latitude": 52.50972,
+      "longitude": 5.473127,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 126,
+      "name": "Evenemententerrein Breepark",
+      "latitude": 51.58263,
+      "longitude": 4.834998,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 127,
+      "name": "Evenemententerrein Oudleusen",
+      "latitude": 52.536741,
+      "longitude": 6.311665,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 128,
+      "name": "Event Center Beekse Bergen",
+      "latitude": 51.52723,
+      "longitude": 5.123555,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 129,
+      "name": "Event Plaza",
+      "latitude": 52.031585,
+      "longitude": 4.330942,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 130,
+      "name": "Expo Assen",
+      "latitude": 52.961966,
+      "longitude": 6.533677,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 131,
+      "name": "Fata Morgana Paleis",
+      "latitude": 51.64685,
+      "longitude": 5.046545,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 132,
+      "name": "Feel the vibe",
+      "latitude": 51.443005,
+      "longitude": 5.475974,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 133,
+      "name": "Feesterij 't Vunderke",
+      "latitude": 51.803772,
+      "longitude": 5.54486,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 134,
+      "name": "Flex427",
+      "latitude": 52.363298,
+      "longitude": 4.900463,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 135,
+      "name": "Folkk",
+      "latitude": 52.845764,
+      "longitude": 5.706946,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 136,
+      "name": "Fort Lent",
+      "latitude": 51.86448,
+      "longitude": 5.880421,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 137,
+      "name": "Four Seasons",
+      "latitude": 52.140036,
+      "longitude": 5.421777,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 138,
+      "name": "Fransje",
+      "latitude": 52.353946,
+      "longitude": 4.911702,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 139,
+      "name": "Fundustry Harderwijk",
+      "latitude": 52.307321,
+      "longitude": 5.557642,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 140,
+      "name": "Funghi Factory",
+      "latitude": 52.090306,
+      "longitude": 5.172218,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 141,
+      "name": "Gambora Partycentrum",
+      "latitude": 51.798353,
+      "longitude": 5.210747,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 142,
+      "name": "Gashouder Westergasfabriek",
+      "latitude": 52.386757,
+      "longitude": 4.86924,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 143,
+      "name": "Gebouw 055",
+      "latitude": 52.206832,
+      "longitude": 5.975551,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 144,
+      "name": "Graanfabriek",
+      "latitude": 53.214645,
+      "longitude": 6.597436,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 145,
+      "name": "Groate Kerk",
+      "latitude": 53.272912,
+      "longitude": 5.603383,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 146,
+      "name": "HAL25",
+      "latitude": 52.637713,
+      "longitude": 4.750469,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 147,
+      "name": "HP events",
+      "latitude": 53.17418,
+      "longitude": 6.14432,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 148,
+      "name": "Hal 1",
+      "latitude": 51.882174,
+      "longitude": 4.488276,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 149,
+      "name": "Hal 2",
+      "latitude": 51.882347,
+      "longitude": 4.486269,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 150,
+      "name": "Hal 3",
+      "latitude": 51.883187,
+      "longitude": 4.486312,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 151,
+      "name": "Hal 4",
+      "latitude": 51.88235,
+      "longitude": 4.485303,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 152,
+      "name": "Hal 5",
+      "latitude": 51.883277,
+      "longitude": 4.485371,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 153,
+      "name": "Hal 6",
+      "latitude": 51.882799,
+      "longitude": 4.484763,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 154,
+      "name": "Hangaar2",
+      "latitude": 52.172237,
+      "longitude": 4.412251,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 155,
+      "name": "Hart van Holland",
+      "latitude": 52.2335,
+      "longitude": 5.484716,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 156,
+      "name": "Heerlijkheid Mariënwaerdt",
+      "latitude": 51.889183,
+      "longitude": 5.218613,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 157,
+      "name": "Herenboerderij De Hucht",
+      "latitude": 51.915692,
+      "longitude": 5.851115,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 158,
+      "name": "Het Beloken Land",
+      "latitude": 52.023016,
+      "longitude": 4.944783,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 159,
+      "name": "Het Boothuis",
+      "latitude": 52.359137,
+      "longitude": 4.95515,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 160,
+      "name": "Het Coachhuis",
+      "latitude": 52.128819,
+      "longitude": 5.371358,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 161,
+      "name": "Het Dek",
+      "latitude": 52.209028,
+      "longitude": 4.439147,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 162,
+      "name": "Het Forum",
+      "latitude": 51.203207,
+      "longitude": 6.022376,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 163,
+      "name": "Het Hagen",
+      "latitude": 52.146524,
+      "longitude": 6.72686,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 164,
+      "name": "Het Huis Verloren",
+      "latitude": 52.639961,
+      "longitude": 5.059641,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 165,
+      "name": "Het Noasman",
+      "latitude": 52.077585,
+      "longitude": 6.586965,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 166,
+      "name": "Het Paleis",
+      "latitude": 51.928534,
+      "longitude": 4.407176,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 167,
+      "name": "Het Paleisje",
+      "latitude": 51.92855,
+      "longitude": 4.407363,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 168,
+      "name": "Hilvaria Studio's",
+      "latitude": 51.509129,
+      "longitude": 5.108123,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 169,
+      "name": "HoogtIJ",
+      "latitude": 52.385575,
+      "longitude": 4.928033,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 170,
+      "name": "Hoppe Schiedam",
+      "latitude": 51.911229,
+      "longitude": 4.400197,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 171,
+      "name": "Huize Molenaar",
+      "latitude": 52.089455,
+      "longitude": 5.122336,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 172,
+      "name": "Hulstkamp",
+      "latitude": 51.912679,
+      "longitude": 4.492188,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 173,
+      "name": "Hét Kasteel",
+      "latitude": 53.21766,
+      "longitude": 6.55493,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 174,
+      "name": "IJverig",
+      "latitude": 52.356023,
+      "longitude": 4.994324,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 175,
+      "name": "In 't Witte Paard",
+      "latitude": 51.967025,
+      "longitude": 4.90169,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 176,
+      "name": "In de Houtzagerij",
+      "latitude": 51.830958,
+      "longitude": 4.911878,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 177,
+      "name": "In de Tonne",
+      "latitude": 52.391936,
+      "longitude": 6.450142,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 178,
+      "name": "In de driehoek",
+      "latitude": 52.08884,
+      "longitude": 5.116351,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 179,
+      "name": "Jagdish Cultural Centre",
+      "latitude": 52.096072,
+      "longitude": 5.082751,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 180,
+      "name": "Jori Hermsen Producties",
+      "latitude": 52.145976,
+      "longitude": 5.405015,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 181,
+      "name": "KAS",
+      "latitude": 52.139744,
+      "longitude": 5.416908,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 182,
+      "name": "Kartfabrique",
+      "latitude": 52.127668,
+      "longitude": 5.048631,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 183,
+      "name": "Kasteel Woerden",
+      "latitude": 52.085169,
+      "longitude": 4.887821,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 184,
+      "name": "Kids Club",
+      "latitude": 51.456625,
+      "longitude": 5.952085,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 185,
+      "name": "Klein Canvas",
+      "latitude": 52.353622,
+      "longitude": 4.911982,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 186,
+      "name": "Koepelgevangenis Arnhem",
+      "latitude": 51.985397,
+      "longitude": 5.879247,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 187,
+      "name": "LOFT",
+      "latitude": 53.17748,
+      "longitude": 5.729456,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 188,
+      "name": "Landgoed Brakkesteyn",
+      "latitude": 51.818295,
+      "longitude": 5.870972,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 189,
+      "name": "Langverwacht",
+      "latitude": 52.738608,
+      "longitude": 6.3432,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 190,
+      "name": "Larik's Hoeve",
+      "latitude": 52.11298,
+      "longitude": 5.440241,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 191,
+      "name": "Lief Amsterdam",
+      "latitude": 52.391255,
+      "longitude": 4.824222,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 192,
+      "name": "Locatie 78",
+      "latitude": 52.066455,
+      "longitude": 5.205692,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 193,
+      "name": "Lommerrijk",
+      "latitude": 51.94769,
+      "longitude": 4.484816,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 194,
+      "name": "Luilakterrein",
+      "latitude": 52.07611,
+      "longitude": 4.630096,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 195,
+      "name": "Lumen Events",
+      "latitude": 52.516281,
+      "longitude": 6.121132,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 196,
+      "name": "M&M Plaza",
+      "latitude": 52.400134,
+      "longitude": 4.909449,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 197,
+      "name": "M22 Exclusief Vergaderen",
+      "latitude": 51.794577,
+      "longitude": 4.488336,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 198,
+      "name": "MAAS",
+      "latitude": 53.216666,
+      "longitude": 6.564584,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 199,
+      "name": "ME Productions",
+      "latitude": 52.698936,
+      "longitude": 6.204204,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 200,
+      "name": "MFC Boerderij de Schooten",
+      "latitude": 52.93519,
+      "longitude": 4.768832,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 201,
+      "name": "MaDo Entertainment",
+      "latitude": 52.385178,
+      "longitude": 5.218205,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 202,
+      "name": "Maassilo",
+      "latitude": 51.897699,
+      "longitude": 4.494644,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 203,
+      "name": "Magische Medina",
+      "latitude": 51.396122,
+      "longitude": 5.987162,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 204,
+      "name": "Majestic Venues",
+      "latitude": 52.5049,
+      "longitude": 4.77968,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 205,
+      "name": "Maksim Partycentrum",
+      "latitude": 51.963926,
+      "longitude": 5.968359,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 206,
+      "name": "Mariënhof",
+      "latitude": 52.153391,
+      "longitude": 5.390492,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 207,
+      "name": "Markthal",
+      "latitude": 52.507978,
+      "longitude": 4.949685,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 208,
+      "name": "Masal Party & Eventcenter",
+      "latitude": 52.1678,
+      "longitude": 5.367421,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 209,
+      "name": "Mauritshof",
+      "latitude": 51.328299,
+      "longitude": 3.61271,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 210,
+      "name": "Meeting Venue Singel80",
+      "latitude": 52.37723,
+      "longitude": 4.891809,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 211,
+      "name": "Mini Captain",
+      "latitude": 52.322471,
+      "longitude": 4.827211,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 212,
+      "name": "Moira",
+      "latitude": 52.097018,
+      "longitude": 5.123808,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 213,
+      "name": "Molen van West",
+      "latitude": 52.376087,
+      "longitude": 4.871188,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 214,
+      "name": "Mosseldag Yerseke",
+      "latitude": 51.49553,
+      "longitude": 4.051646,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 215,
+      "name": "Moustaqbel",
+      "latitude": 52.375152,
+      "longitude": 4.882035,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 216,
+      "name": "Mr.Green Boutique Office",
+      "latitude": 51.862669,
+      "longitude": 4.319794,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 217,
+      "name": "Music Meeting Lounge",
+      "latitude": 52.302358,
+      "longitude": 4.846057,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 218,
+      "name": "NAVO-top",
+      "latitude": 52.092869,
+      "longitude": 4.284081,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 219,
+      "name": "Natuurlijk Kloof",
+      "latitude": 51.47793,
+      "longitude": 4.353256,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 220,
+      "name": "NedPho Koepel",
+      "latitude": 52.359697,
+      "longitude": 4.938556,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 221,
+      "name": "Norman Building",
+      "latitude": 53.217163,
+      "longitude": 6.561372,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 222,
+      "name": "North Sea Venue",
+      "latitude": 52.422283,
+      "longitude": 4.81924,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 223,
+      "name": "Onder de Toren",
+      "latitude": 51.920088,
+      "longitude": 5.848817,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 224,
+      "name": "Ontmoetingstuin Rietmeen",
+      "latitude": 52.332589,
+      "longitude": 5.604672,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 225,
+      "name": "Onze Ambassade",
+      "latitude": 52.08252,
+      "longitude": 4.315006,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 226,
+      "name": "Opera Zalencentrum",
+      "latitude": 52.058486,
+      "longitude": 4.306165,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 227,
+      "name": "Otterlo Events",
+      "latitude": 52.093447,
+      "longitude": 5.768198,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 228,
+      "name": "Paradiso",
+      "latitude": 52.362185,
+      "longitude": 4.88382,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 229,
+      "name": "Party Dream",
+      "latitude": 51.935422,
+      "longitude": 4.602824,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 230,
+      "name": "Partycentrum De Mof",
+      "latitude": 52.106705,
+      "longitude": 5.414935,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 231,
+      "name": "Partycentrum De Zwerfkei",
+      "latitude": 52.745993,
+      "longitude": 6.688543,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 232,
+      "name": "Partycentrum Meereboer",
+      "latitude": 52.635789,
+      "longitude": 4.774372,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 233,
+      "name": "Partycentrum Number Four",
+      "latitude": 52.078002,
+      "longitude": 5.147192,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 234,
+      "name": "Partycentrum Zichtenburg",
+      "latitude": 52.046603,
+      "longitude": 4.251919,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 235,
+      "name": "Partyherberg Het Blesse Paard",
+      "latitude": 52.095607,
+      "longitude": 4.470947,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 236,
+      "name": "Partyhoeve Het Uilenbos",
+      "latitude": 52.094318,
+      "longitude": 5.643482,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 237,
+      "name": "Partyrestaurant Hijdra",
+      "latitude": 52.073291,
+      "longitude": 4.39029,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 238,
+      "name": "Perla",
+      "latitude": 51.393492,
+      "longitude": 4.314862,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 239,
+      "name": "Perron E",
+      "latitude": 52.097344,
+      "longitude": 5.099687,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 240,
+      "name": "Picknickplek Eetbaar Eiland",
+      "latitude": 52.358426,
+      "longitude": 4.955554,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 241,
+      "name": "Plaza",
+      "latitude": 52.983689,
+      "longitude": 6.541835,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 242,
+      "name": "Plok",
+      "latitude": 51.926144,
+      "longitude": 6.133013,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 243,
+      "name": "Poppodium De Klomp",
+      "latitude": 51.429339,
+      "longitude": 3.821275,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 244,
+      "name": "Prodentfabriek",
+      "latitude": 52.160739,
+      "longitude": 5.378941,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 245,
+      "name": "Proeflokaal Katendrecht",
+      "latitude": 51.900229,
+      "longitude": 4.484252,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 246,
+      "name": "Radius Center for Contemporary Art and Ecology",
+      "latitude": 52.016773,
+      "longitude": 4.351096,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 247,
+      "name": "Rare Jongens",
+      "latitude": 52.087372,
+      "longitude": 5.042993,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 248,
+      "name": "Rent & Event",
+      "latitude": 52.492136,
+      "longitude": 5.073615,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 249,
+      "name": "Riet",
+      "latitude": 52.353788,
+      "longitude": 4.911694,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 250,
+      "name": "Rietland",
+      "latitude": 53.253145,
+      "longitude": 6.624884,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 251,
+      "name": "Royal",
+      "latitude": 51.85129,
+      "longitude": 4.331252,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 252,
+      "name": "SSP-hal",
+      "latitude": 51.895662,
+      "longitude": 6.382111,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 253,
+      "name": "SallandTrail",
+      "latitude": 52.368115,
+      "longitude": 6.448448,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 254,
+      "name": "Schalmei Dugun Salonu",
+      "latitude": 51.867979,
+      "longitude": 4.465795,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 255,
+      "name": "Shelter 611",
+      "latitude": 52.131615,
+      "longitude": 5.258073,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 256,
+      "name": "Sins",
+      "latitude": 50.853714,
+      "longitude": 5.690708,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 257,
+      "name": "Slotkapel Oud-Zuilen",
+      "latitude": 52.126921,
+      "longitude": 5.071394,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 258,
+      "name": "Snackbox-To-Go",
+      "latitude": 51.541239,
+      "longitude": 4.455051,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 259,
+      "name": "Space to Create",
+      "latitude": 52.089935,
+      "longitude": 5.112156,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 260,
+      "name": "Spinola",
+      "latitude": 51.590147,
+      "longitude": 4.77325,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 261,
+      "name": "Spoorhuis",
+      "latitude": 52.207984,
+      "longitude": 4.933377,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 262,
+      "name": "Stal Den Eijck",
+      "latitude": 52.101807,
+      "longitude": 5.210699,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 263,
+      "name": "Stand 365",
+      "latitude": 51.399299,
+      "longitude": 5.400589,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 264,
+      "name": "Stek in de Polder",
+      "latitude": 52.184295,
+      "longitude": 4.538597,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 265,
+      "name": "Stoom",
+      "latitude": 52.225384,
+      "longitude": 5.971887,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 266,
+      "name": "TESSLOO",
+      "latitude": 51.575928,
+      "longitude": 5.218217,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 267,
+      "name": "The Boathouse Kralingen",
+      "latitude": 51.936906,
+      "longitude": 4.507219,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 268,
+      "name": "The Field",
+      "latitude": 52.16402,
+      "longitude": 4.4799,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 269,
+      "name": "The Grey Space in the Middle",
+      "latitude": 52.074552,
+      "longitude": 4.312313,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 270,
+      "name": "The HillTop",
+      "latitude": 52.137034,
+      "longitude": 6.442204,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 271,
+      "name": "The Lake House",
+      "latitude": 52.192117,
+      "longitude": 5.420721,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 272,
+      "name": "The Location",
+      "latitude": 52.363199,
+      "longitude": 4.899981,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 273,
+      "name": "The Maxx",
+      "latitude": 52.041557,
+      "longitude": 5.541888,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 274,
+      "name": "Theater Broedplaats",
+      "latitude": 52.145934,
+      "longitude": 5.405019,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 275,
+      "name": "Thuishaven",
+      "latitude": 52.396782,
+      "longitude": 4.856255,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 276,
+      "name": "Toermalijn",
+      "latitude": 52.14036,
+      "longitude": 6.575996,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 277,
+      "name": "Trai Works",
+      "latitude": 52.095396,
+      "longitude": 5.064952,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 278,
+      "name": "Truus",
+      "latitude": 52.353968,
+      "longitude": 4.911804,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 279,
+      "name": "Tsjerke",
+      "latitude": 53.039993,
+      "longitude": 5.783854,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 280,
+      "name": "Uilenkatten",
+      "latitude": 52.320259,
+      "longitude": 4.87769,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 281,
+      "name": "Uitkijktafel a/d Waterkant",
+      "latitude": 52.35935,
+      "longitude": 4.955662,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 282,
+      "name": "Undercurrent",
+      "latitude": 52.411098,
+      "longitude": 4.877169,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 283,
+      "name": "VRIJ",
+      "latitude": 51.971115,
+      "longitude": 5.250409,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 284,
+      "name": "Van Zantenhal",
+      "latitude": 52.286022,
+      "longitude": 4.623866,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 285,
+      "name": "Vanouds het Dorpshuys",
+      "latitude": 52.407786,
+      "longitude": 4.619895,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 286,
+      "name": "Veerhuis aan het IJ",
+      "latitude": 52.38316,
+      "longitude": 4.92689,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 287,
+      "name": "Venlona",
+      "latitude": 51.373697,
+      "longitude": 6.173393,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 288,
+      "name": "Venue13",
+      "latitude": 51.994329,
+      "longitude": 5.98027,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 289,
+      "name": "Vereinsheim der evangelischen Kirche",
+      "latitude": 51.528742,
+      "longitude": 3.44508,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 290,
+      "name": "Vergaderlocatie Levert-Brand Praktijk",
+      "latitude": 52.056095,
+      "longitude": 4.398427,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 291,
+      "name": "Vidaa",
+      "latitude": 51.974521,
+      "longitude": 4.527895,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 292,
+      "name": "Villa Maasdonk",
+      "latitude": 51.730196,
+      "longitude": 5.433307,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 293,
+      "name": "Volta",
+      "latitude": 52.386052,
+      "longitude": 4.881871,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 294,
+      "name": "Voorhuis",
+      "latitude": 52.014664,
+      "longitude": 4.355272,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 295,
+      "name": "Vossenberg",
+      "latitude": 52.340937,
+      "longitude": 5.93766,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 296,
+      "name": "Watermusic",
+      "latitude": 52.699686,
+      "longitude": 5.290127,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 297,
+      "name": "Werkplaats 13",
+      "latitude": 52.512308,
+      "longitude": 6.096092,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 298,
+      "name": "WiSH Outdoor",
+      "latitude": 51.540053,
+      "longitude": 5.639134,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 299,
+      "name": "Wickenburgh",
+      "latitude": 52.005165,
+      "longitude": 5.200237,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 300,
+      "name": "Wijkboerderij De Schellerhoeve",
+      "latitude": 52.492961,
+      "longitude": 6.093253,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 301,
+      "name": "Wijkkamer De Deel",
+      "latitude": 52.1316,
+      "longitude": 5.425643,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 302,
+      "name": "Wunderbar",
+      "latitude": 51.397411,
+      "longitude": 5.98569,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 303,
+      "name": "Yerseke at Sea",
+      "latitude": 51.502633,
+      "longitude": 4.052349,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 304,
+      "name": "Younity",
+      "latitude": 52.11225,
+      "longitude": 5.110082,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 305,
+      "name": "Zaal De Mulderije",
+      "latitude": 51.892216,
+      "longitude": 6.384349,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 306,
+      "name": "Zaal Friends",
+      "latitude": 51.403458,
+      "longitude": 5.396279,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 307,
+      "name": "Zaal de Havelaar",
+      "latitude": 51.938799,
+      "longitude": 4.524766,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 308,
+      "name": "Zaal de Mander",
+      "latitude": 51.643596,
+      "longitude": 5.704796,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 309,
+      "name": "Zaalverhuur Aaras",
+      "latitude": 51.964139,
+      "longitude": 5.654849,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 310,
+      "name": "Zalen- en partycentrum De Til",
+      "latitude": 51.851883,
+      "longitude": 4.88991,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 311,
+      "name": "Zalencentrum De Rank",
+      "latitude": 52.877825,
+      "longitude": 5.99546,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 312,
+      "name": "Zalencentrum Kristal",
+      "latitude": 52.070393,
+      "longitude": 4.345947,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 313,
+      "name": "Zalencentrum Schuttershof",
+      "latitude": 51.541985,
+      "longitude": 4.473375,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 314,
+      "name": "Zalencentrum de Vaart",
+      "latitude": 52.063842,
+      "longitude": 4.918146,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 315,
+      "name": "Zeelandhallen",
+      "latitude": 51.491116,
+      "longitude": 3.873194,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 316,
+      "name": "Zidewinde",
+      "latitude": 51.673501,
+      "longitude": 5.013154,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 317,
+      "name": "Zinaaz",
+      "latitude": 52.066857,
+      "longitude": 4.250844,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 318,
+      "name": "de Kruimel",
+      "latitude": 52.97183,
+      "longitude": 6.788785,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 319,
+      "name": "feestzaal De Vonkel",
+      "latitude": 51.418276,
+      "longitude": 6.149719,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 320,
+      "name": "kerk Klein Wetsinge",
+      "latitude": 53.299916,
+      "longitude": 6.529719,
+      "osm_klasse": "amenity=events_venue"
+    },
+    {
+      "id": 321,
+      "name": "kerk Leegkerk",
+      "latitude": 53.229883,
+      "longitude": 6.490417,
+      "osm_klasse": "amenity=events_venue"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: events venue (amenity=events_venue) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=events_venue in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 321 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: events venue (amenity=events_venue) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: events venue (amenity=events_venue) — 321 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 321 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

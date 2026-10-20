@@ -1,0 +1,1605 @@
+{
+  "id": "nl-osm-natural-heath",
+  "name": "Netherlands OSM: heath (natural=heath)",
+  "title": "Netherlands OSM: heath (natural=heath)",
+  "description": "Named OpenStreetMap features tagged natural=heath in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 222,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Groote Ganzenveld",
+      "latitude": 52.684213,
+      "longitude": 4.653425,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 2,
+      "name": "'t Heitje",
+      "latitude": 52.246165,
+      "longitude": 5.151721,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 3,
+      "name": "'t Kleine Ganzenveld",
+      "latitude": 52.69966,
+      "longitude": 4.663838,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 4,
+      "name": "'t Rieselo",
+      "latitude": 52.097782,
+      "longitude": 5.797388,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 5,
+      "name": "Aalderinksveld",
+      "latitude": 52.037897,
+      "longitude": 5.830649,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 6,
+      "name": "Achterste Steenberg",
+      "latitude": 52.182507,
+      "longitude": 5.837882,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 7,
+      "name": "Achterste Veld",
+      "latitude": 52.773134,
+      "longitude": 6.607148,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 8,
+      "name": "Aekingerbroek",
+      "latitude": 52.927348,
+      "longitude": 6.312499,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 9,
+      "name": "Alpherveld",
+      "latitude": 53.050995,
+      "longitude": 6.11309,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 10,
+      "name": "Appelsche Heide",
+      "latitude": 52.203627,
+      "longitude": 5.581384,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 11,
+      "name": "Asselsche heide",
+      "latitude": 52.212869,
+      "longitude": 5.852142,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 12,
+      "name": "Balingerzand",
+      "latitude": 52.791078,
+      "longitude": 6.622769,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 13,
+      "name": "Benderse Heide",
+      "latitude": 52.785957,
+      "longitude": 6.394023,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 14,
+      "name": "Besthemerberg",
+      "latitude": 52.498926,
+      "longitude": 6.435453,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 15,
+      "name": "Boeschoterheide",
+      "latitude": 52.213691,
+      "longitude": 5.682324,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 16,
+      "name": "Boetelerveld",
+      "latitude": 52.368119,
+      "longitude": 6.316681,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 17,
+      "name": "Bouwersveld - Koelingsveld",
+      "latitude": 52.873419,
+      "longitude": 6.234266,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 18,
+      "name": "Breeveen",
+      "latitude": 52.030941,
+      "longitude": 5.422977,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 19,
+      "name": "Buffer Noord",
+      "latitude": 52.711962,
+      "longitude": 7.037556,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 20,
+      "name": "Buffer Noord",
+      "latitude": 52.712055,
+      "longitude": 7.03486,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 21,
+      "name": "Buurserzand",
+      "latitude": 52.159286,
+      "longitude": 6.784008,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 22,
+      "name": "Caitwickerzand",
+      "latitude": 52.205592,
+      "longitude": 5.759527,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 23,
+      "name": "Celtic Fields",
+      "latitude": 52.012207,
+      "longitude": 5.725101,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 24,
+      "name": "Cyriasische Veld",
+      "latitude": 52.315125,
+      "longitude": 5.678948,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 25,
+      "name": "De Bieze",
+      "latitude": 52.231871,
+      "longitude": 5.796908,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 26,
+      "name": "De Bunt",
+      "latitude": 52.106515,
+      "longitude": 5.842968,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 27,
+      "name": "De Kleine Staarman",
+      "latitude": 52.683789,
+      "longitude": 6.639853,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 28,
+      "name": "De Lokker",
+      "latitude": 51.517177,
+      "longitude": 4.631932,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 29,
+      "name": "De Moraine",
+      "latitude": 52.830033,
+      "longitude": 6.489008,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 30,
+      "name": "De Slenk",
+      "latitude": 52.053232,
+      "longitude": 6.085803,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 31,
+      "name": "De Sprengenberg",
+      "latitude": 52.339545,
+      "longitude": 6.397204,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 32,
+      "name": "De Straal",
+      "latitude": 52.063417,
+      "longitude": 5.779309,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 33,
+      "name": "De Stulp",
+      "latitude": 52.183875,
+      "longitude": 5.243975,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 34,
+      "name": "De Valenberg",
+      "latitude": 52.08655,
+      "longitude": 5.989091,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 35,
+      "name": "De Vier Bergen",
+      "latitude": 52.632928,
+      "longitude": 6.278658,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 36,
+      "name": "De Wijde Blik",
+      "latitude": 52.906149,
+      "longitude": 6.56202,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 37,
+      "name": "Deelensche Veld",
+      "latitude": 52.087506,
+      "longitude": 5.856406,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 38,
+      "name": "Deelense Straal",
+      "latitude": 52.066397,
+      "longitude": 5.841859,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 39,
+      "name": "Doktersveen",
+      "latitude": 53.085568,
+      "longitude": 6.517996,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 40,
+      "name": "Doldersummerveld",
+      "latitude": 52.903152,
+      "longitude": 6.254865,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 41,
+      "name": "Donderstein",
+      "latitude": 52.020768,
+      "longitude": 5.43767,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 42,
+      "name": "Doornspijkse Heide",
+      "latitude": 52.379087,
+      "longitude": 5.856579,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 43,
+      "name": "Doorwertsche heide",
+      "latitude": 51.995106,
+      "longitude": 5.777208,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 44,
+      "name": "Duurswouderheide",
+      "latitude": 53.057082,
+      "longitude": 6.237426,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 45,
+      "name": "Dwingeloosche Heide",
+      "latitude": 52.799244,
+      "longitude": 6.375909,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 46,
+      "name": "Ecoduct Boele Staal",
+      "latitude": 52.132157,
+      "longitude": 5.326024,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 47,
+      "name": "Ecoduct Groote Heide",
+      "latitude": 51.376943,
+      "longitude": 5.517335,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 48,
+      "name": "Ecoduct Hoog Buurlo",
+      "latitude": 52.187843,
+      "longitude": 5.856185,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 49,
+      "name": "Ecoduct Hulshorst",
+      "latitude": 52.346185,
+      "longitude": 5.714731,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 50,
+      "name": "Ecoduct Klavertje 4",
+      "latitude": 51.411124,
+      "longitude": 6.108131,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 51,
+      "name": "Ecoduct Leusderheide",
+      "latitude": 52.122161,
+      "longitude": 5.337958,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 52,
+      "name": "Ecoduct Oud Reemst",
+      "latitude": 52.052905,
+      "longitude": 5.802754,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 53,
+      "name": "Eerderveld",
+      "latitude": 52.496185,
+      "longitude": 6.463368,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 54,
+      "name": "Eikelkamp",
+      "latitude": 52.113266,
+      "longitude": 5.845534,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 55,
+      "name": "Elper Westerveld",
+      "latitude": 52.885722,
+      "longitude": 6.625779,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 56,
+      "name": "Elspeetsche Heide",
+      "latitude": 52.315955,
+      "longitude": 5.762862,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 57,
+      "name": "Ermelose Heide",
+      "latitude": 52.284238,
+      "longitude": 5.666298,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 58,
+      "name": "Fazantenpark",
+      "latitude": 52.107733,
+      "longitude": 5.832662,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 59,
+      "name": "Filosche Peel",
+      "latitude": 51.350467,
+      "longitude": 5.826332,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 60,
+      "name": "Frederiksveld",
+      "latitude": 52.688198,
+      "longitude": 4.653677,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 61,
+      "name": "Galgenbelt",
+      "latitude": 52.408987,
+      "longitude": 6.543366,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 62,
+      "name": "Galgenhei",
+      "latitude": 51.786819,
+      "longitude": 5.928369,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 63,
+      "name": "Gijsselterkoelen",
+      "latitude": 52.742218,
+      "longitude": 6.404128,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 64,
+      "name": "Gletsjerkuil",
+      "latitude": 52.85078,
+      "longitude": 6.743286,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 65,
+      "name": "Gletsjerkuil",
+      "latitude": 52.989596,
+      "longitude": 6.732296,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 66,
+      "name": "Gortelse Heide",
+      "latitude": 52.321133,
+      "longitude": 5.886285,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 67,
+      "name": "Groot Heidestein",
+      "latitude": 52.072388,
+      "longitude": 5.284619,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 68,
+      "name": "Groote Ark",
+      "latitude": 52.233435,
+      "longitude": 5.638727,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 69,
+      "name": "Grote Heide",
+      "latitude": 52.066268,
+      "longitude": 5.910361,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 70,
+      "name": "Grote Zand",
+      "latitude": 52.929895,
+      "longitude": 6.560473,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 71,
+      "name": "Grote heide",
+      "latitude": 52.079763,
+      "longitude": 5.272685,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 72,
+      "name": "Haarlerberg",
+      "latitude": 52.347444,
+      "longitude": 6.421874,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 73,
+      "name": "Haarlergrafveld",
+      "latitude": 52.408602,
+      "longitude": 6.854959,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 74,
+      "name": "Hamveld",
+      "latitude": 52.819306,
+      "longitude": 6.544255,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 75,
+      "name": "Hazenwater",
+      "latitude": 52.125947,
+      "longitude": 5.384361,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 76,
+      "name": "Heide",
+      "latitude": 51.827469,
+      "longitude": 5.838803,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 77,
+      "name": "Heidebloem",
+      "latitude": 52.110003,
+      "longitude": 5.838197,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 78,
+      "name": "Heideflaeche Druellerberg",
+      "latitude": 51.769394,
+      "longitude": 5.99513,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 79,
+      "name": "Hemrikkerscharren",
+      "latitude": 53.04632,
+      "longitude": 6.122403,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 80,
+      "name": "Hendrik Mouwenveld",
+      "latitude": 52.337362,
+      "longitude": 5.857759,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 81,
+      "name": "Herikhuizerveld",
+      "latitude": 52.029983,
+      "longitude": 5.99596,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 82,
+      "name": "Herkenbosscherheide",
+      "latitude": 51.178592,
+      "longitude": 6.129395,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 83,
+      "name": "Het Eeuwig leven",
+      "latitude": 51.349069,
+      "longitude": 5.840825,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 84,
+      "name": "Het Greveld",
+      "latitude": 52.328202,
+      "longitude": 5.881821,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 85,
+      "name": "Het Koeverzand",
+      "latitude": 52.09249,
+      "longitude": 5.84559,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 86,
+      "name": "Hildenberg",
+      "latitude": 52.931261,
+      "longitude": 6.346857,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 87,
+      "name": "Hoekenbrink",
+      "latitude": 52.885987,
+      "longitude": 6.3244,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 88,
+      "name": "Hogeveldheide",
+      "latitude": 52.953434,
+      "longitude": 6.679752,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 89,
+      "name": "Holtherzand",
+      "latitude": 52.837336,
+      "longitude": 6.559653,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 90,
+      "name": "Hondsflesch",
+      "latitude": 52.167008,
+      "longitude": 5.822147,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 91,
+      "name": "Hoog Buurlose Heide",
+      "latitude": 52.168576,
+      "longitude": 5.851205,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 92,
+      "name": "Hoog Soerensche Veld",
+      "latitude": 52.249387,
+      "longitude": 5.839185,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 93,
+      "name": "Hooge Heide",
+      "latitude": 51.882929,
+      "longitude": 6.188431,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 94,
+      "name": "Hooge Stoep",
+      "latitude": 52.750908,
+      "longitude": 6.631616,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 95,
+      "name": "Houtdorperveld",
+      "latitude": 52.256517,
+      "longitude": 5.715452,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 96,
+      "name": "Hullenzand",
+      "latitude": 52.781229,
+      "longitude": 6.584672,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 97,
+      "name": "Hulshorsterheide",
+      "latitude": 52.340899,
+      "longitude": 5.715428,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 98,
+      "name": "Hunnenkloosterberg",
+      "latitude": 52.736553,
+      "longitude": 6.364355,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 99,
+      "name": "It Mandefjild",
+      "latitude": 53.083511,
+      "longitude": 6.27641,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 100,
+      "name": "Jan Roepeheide",
+      "latitude": 53.45314,
+      "longitude": 5.646355,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 101,
+      "name": "Jilt Dijksheide",
+      "latitude": 53.153358,
+      "longitude": 6.215858,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 102,
+      "name": "Kampmanskuiltjes",
+      "latitude": 52.556598,
+      "longitude": 6.548714,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 103,
+      "name": "Kelderbosch",
+      "latitude": 52.100373,
+      "longitude": 5.36483,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 104,
+      "name": "Ketliker Heide",
+      "latitude": 52.944178,
+      "longitude": 6.029841,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 105,
+      "name": "Ketliker Heide",
+      "latitude": 52.945042,
+      "longitude": 6.037063,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 106,
+      "name": "Kleine Heide",
+      "latitude": 52.077371,
+      "longitude": 5.927269,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 107,
+      "name": "Kleine heide",
+      "latitude": 52.081405,
+      "longitude": 5.272866,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 108,
+      "name": "Klenckerveld",
+      "latitude": 52.755057,
+      "longitude": 6.74479,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 109,
+      "name": "Klenckerveld",
+      "latitude": 52.755817,
+      "longitude": 6.738521,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 110,
+      "name": "Klenckerveld",
+      "latitude": 52.75828,
+      "longitude": 6.737164,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 111,
+      "name": "Koeflesch",
+      "latitude": 52.166859,
+      "longitude": 5.828827,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 112,
+      "name": "Koelberg",
+      "latitude": 52.192937,
+      "longitude": 5.834683,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 113,
+      "name": "Konijnenkolk",
+      "latitude": 52.188375,
+      "longitude": 5.737556,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 114,
+      "name": "Kootwijksche Veld",
+      "latitude": 52.189774,
+      "longitude": 5.718996,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 115,
+      "name": "Kraanvense Heide",
+      "latitude": 51.64008,
+      "longitude": 5.069003,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 116,
+      "name": "Krakeling",
+      "latitude": 52.097712,
+      "longitude": 5.287377,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 117,
+      "name": "Kraloër Heide",
+      "latitude": 52.794322,
+      "longitude": 6.422605,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 118,
+      "name": "Kruishaarsche Heide",
+      "latitude": 52.221074,
+      "longitude": 5.542929,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 119,
+      "name": "Lage Veld",
+      "latitude": 52.244616,
+      "longitude": 5.775671,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 120,
+      "name": "Leersumse Veld",
+      "latitude": 52.036588,
+      "longitude": 5.427269,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 121,
+      "name": "Leggelderveld",
+      "latitude": 52.874896,
+      "longitude": 6.401229,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 122,
+      "name": "Lentsche Veen",
+      "latitude": 52.772395,
+      "longitude": 6.572545,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 123,
+      "name": "Looier Heide",
+      "latitude": 51.529854,
+      "longitude": 6.167116,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 124,
+      "name": "Maalberg",
+      "latitude": 52.186399,
+      "longitude": 5.825034,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 125,
+      "name": "Mandergrafveld",
+      "latitude": 52.455507,
+      "longitude": 6.827833,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 126,
+      "name": "Mandergrafveld",
+      "latitude": 52.458816,
+      "longitude": 6.843803,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 127,
+      "name": "Manderveen",
+      "latitude": 52.950076,
+      "longitude": 6.508364,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 128,
+      "name": "Mantingerzand",
+      "latitude": 52.788675,
+      "longitude": 6.613175,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 129,
+      "name": "Mariavlakte",
+      "latitude": 52.693129,
+      "longitude": 4.649374,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 130,
+      "name": "Meelberg",
+      "latitude": 51.399186,
+      "longitude": 5.459873,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 131,
+      "name": "Meerheide",
+      "latitude": 51.401124,
+      "longitude": 5.451936,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 132,
+      "name": "Meindersveen",
+      "latitude": 52.934813,
+      "longitude": 6.728189,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 133,
+      "name": "Merskenheide",
+      "latitude": 53.081875,
+      "longitude": 6.192227,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 134,
+      "name": "Molenveld",
+      "latitude": 52.873324,
+      "longitude": 6.850677,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 135,
+      "name": "Molenveld",
+      "latitude": 53.05709,
+      "longitude": 6.642913,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 136,
+      "name": "Moltmakersstuk",
+      "latitude": 53.117458,
+      "longitude": 6.435092,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 137,
+      "name": "Mosselse Bergen",
+      "latitude": 52.062789,
+      "longitude": 5.769405,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 138,
+      "name": "Naturgebiet Mariental",
+      "latitude": 50.923323,
+      "longitude": 6.082093,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 139,
+      "name": "Neterselse Heide",
+      "latitude": 51.422777,
+      "longitude": 5.207808,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 140,
+      "name": "Neterselse Heide",
+      "latitude": 51.423285,
+      "longitude": 5.19937,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 141,
+      "name": "Neterselse Heide",
+      "latitude": 51.426398,
+      "longitude": 5.186664,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 142,
+      "name": "Neterselsel Heide",
+      "latitude": 51.421625,
+      "longitude": 5.199948,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 143,
+      "name": "Nieuw Milligsche Zand",
+      "latitude": 52.202119,
+      "longitude": 5.786815,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 144,
+      "name": "Nieuw-Reemsterveld",
+      "latitude": 52.052106,
+      "longitude": 5.791434,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 145,
+      "name": "Noordenveld",
+      "latitude": 52.808892,
+      "longitude": 6.415619,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 146,
+      "name": "Noorderheide",
+      "latitude": 52.309637,
+      "longitude": 5.815234,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 147,
+      "name": "Noorderheide Tonnetjesdelle",
+      "latitude": 52.302917,
+      "longitude": 5.815046,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 148,
+      "name": "Noordsche Veld",
+      "latitude": 53.067232,
+      "longitude": 6.515635,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 149,
+      "name": "Noordsveen",
+      "latitude": 52.892621,
+      "longitude": 6.299896,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 150,
+      "name": "Oldebroeksche Heide",
+      "latitude": 52.41803,
+      "longitude": 5.947309,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 151,
+      "name": "Oosteindse Heide",
+      "latitude": 52.377621,
+      "longitude": 5.812977,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 152,
+      "name": "Oosterheide",
+      "latitude": 52.1427,
+      "longitude": 5.835688,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 153,
+      "name": "Otterlose Zand",
+      "latitude": 52.114591,
+      "longitude": 5.797751,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 154,
+      "name": "Oud-Reemsterhei",
+      "latitude": 52.040177,
+      "longitude": 5.784444,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 155,
+      "name": "Oud-Reemsterveld",
+      "latitude": 52.047475,
+      "longitude": 5.81817,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 156,
+      "name": "Oud-Reemsterzand",
+      "latitude": 52.063707,
+      "longitude": 5.821886,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 157,
+      "name": "Over Heide",
+      "latitude": 51.478775,
+      "longitude": 5.049927,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 158,
+      "name": "Paardenslenkte",
+      "latitude": 52.444023,
+      "longitude": 6.876465,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 159,
+      "name": "Pampelse Zand",
+      "latitude": 52.092524,
+      "longitude": 5.826512,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 160,
+      "name": "Polsdel",
+      "latitude": 52.160198,
+      "longitude": 5.832997,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 161,
+      "name": "Polsdel",
+      "latitude": 52.160264,
+      "longitude": 5.832172,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 162,
+      "name": "Rauwe Vennen",
+      "latitude": 51.607822,
+      "longitude": 5.023178,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 163,
+      "name": "Rederijk",
+      "latitude": 51.413322,
+      "longitude": 5.608538,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 164,
+      "name": "Reijntjesveld",
+      "latitude": 52.844825,
+      "longitude": 6.639773,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 165,
+      "name": "Remmerdense Heide",
+      "latitude": 51.983579,
+      "longitude": 5.527805,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 166,
+      "name": "Renderklippen",
+      "latitude": 52.391046,
+      "longitude": 5.983212,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 167,
+      "name": "Ringheuvels",
+      "latitude": 52.113605,
+      "longitude": 5.375115,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 168,
+      "name": "Rozendaalsche Veld",
+      "latitude": 52.045033,
+      "longitude": 5.966201,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 169,
+      "name": "Rucphense Heide",
+      "latitude": 51.513997,
+      "longitude": 4.546279,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 170,
+      "name": "Schapenpark",
+      "latitude": 52.860791,
+      "longitude": 6.805588,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 171,
+      "name": "Schapenpark",
+      "latitude": 52.861556,
+      "longitude": 6.806279,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 172,
+      "name": "Schotkamp",
+      "latitude": 52.305743,
+      "longitude": 5.761759,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 173,
+      "name": "Schotkamp",
+      "latitude": 52.308,
+      "longitude": 5.758229,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 174,
+      "name": "Schottersveld",
+      "latitude": 52.65266,
+      "longitude": 6.457755,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 175,
+      "name": "Schottersveld",
+      "latitude": 52.653182,
+      "longitude": 6.455234,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 176,
+      "name": "Sekmaatsvlakte",
+      "latitude": 52.156407,
+      "longitude": 6.801686,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 177,
+      "name": "Smitsveen",
+      "latitude": 52.33933,
+      "longitude": 5.901976,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 178,
+      "name": "Speulderveld",
+      "latitude": 52.270333,
+      "longitude": 5.728995,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 179,
+      "name": "Stevensheide",
+      "latitude": 52.445027,
+      "longitude": 6.652062,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 180,
+      "name": "Stijfveen of Hooge Veen",
+      "latitude": 53.093984,
+      "longitude": 6.571416,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 181,
+      "name": "Stikkebelt",
+      "latitude": 52.490119,
+      "longitude": 6.349077,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 182,
+      "name": "Stroese Heide",
+      "latitude": 52.181104,
+      "longitude": 5.720458,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 183,
+      "name": "Stuifgat",
+      "latitude": 53.106524,
+      "longitude": 6.495111,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 184,
+      "name": "Terletse Heide",
+      "latitude": 52.056073,
+      "longitude": 5.948906,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 185,
+      "name": "Tongerense Heide",
+      "latitude": 52.330552,
+      "longitude": 5.904696,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 186,
+      "name": "Treekerpunt",
+      "latitude": 52.096116,
+      "longitude": 5.369689,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 187,
+      "name": "Treekerpunt",
+      "latitude": 52.096834,
+      "longitude": 5.367884,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 188,
+      "name": "Uddelsche Buurtveld",
+      "latitude": 52.246512,
+      "longitude": 5.782022,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 189,
+      "name": "Usselerveen",
+      "latitude": 52.169633,
+      "longitude": 6.84479,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 190,
+      "name": "Vassergrafveld",
+      "latitude": 52.416991,
+      "longitude": 6.848932,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 191,
+      "name": "Veld van Sandberg",
+      "latitude": 52.326323,
+      "longitude": 5.743648,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 192,
+      "name": "Veld van Sandberg",
+      "latitude": 52.32925,
+      "longitude": 5.73979,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 193,
+      "name": "Vilsterse Veld",
+      "latitude": 52.492755,
+      "longitude": 6.352655,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 194,
+      "name": "Visdonk",
+      "latitude": 51.498388,
+      "longitude": 4.493304,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 195,
+      "name": "Vlinderparadijs",
+      "latitude": 51.506785,
+      "longitude": 4.33293,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 196,
+      "name": "Voorste Steenberg",
+      "latitude": 52.181628,
+      "longitude": 5.829532,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 197,
+      "name": "Voorste Veen",
+      "latitude": 53.03991,
+      "longitude": 6.658239,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 198,
+      "name": "Vosselt",
+      "latitude": 52.251461,
+      "longitude": 5.81429,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 199,
+      "name": "Vreeburg",
+      "latitude": 53.060466,
+      "longitude": 6.592298,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 200,
+      "name": "Wapserveld",
+      "latitude": 52.884551,
+      "longitude": 6.283356,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 201,
+      "name": "Welterberg",
+      "latitude": 53.081039,
+      "longitude": 6.559494,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 202,
+      "name": "Welterberg",
+      "latitude": 53.081102,
+      "longitude": 6.560463,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 203,
+      "name": "Westeindsche Heide",
+      "latitude": 52.325156,
+      "longitude": 5.764357,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 204,
+      "name": "Westerbergen",
+      "latitude": 52.709353,
+      "longitude": 6.378611,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 205,
+      "name": "Westerflier",
+      "latitude": 52.117012,
+      "longitude": 5.850759,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 206,
+      "name": "Wijsbersche Hooge",
+      "latitude": 52.746307,
+      "longitude": 6.473078,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 207,
+      "name": "Wilhelminadal",
+      "latitude": 52.234072,
+      "longitude": 5.904796,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 208,
+      "name": "Windmolenveld",
+      "latitude": 52.073402,
+      "longitude": 6.423731,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 209,
+      "name": "Witte zand",
+      "latitude": 52.925408,
+      "longitude": 6.537537,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 210,
+      "name": "Woldberg",
+      "latitude": 52.412824,
+      "longitude": 5.972258,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 211,
+      "name": "Wolfsdel",
+      "latitude": 52.058906,
+      "longitude": 5.956907,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 212,
+      "name": "Zandslagen",
+      "latitude": 52.783401,
+      "longitude": 6.608809,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 213,
+      "name": "Zeegser Duinen",
+      "latitude": 53.070777,
+      "longitude": 6.655835,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 214,
+      "name": "Zeven Bergjes",
+      "latitude": 52.891668,
+      "longitude": 6.82581,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 215,
+      "name": "Zilvense Heide",
+      "latitude": 52.079173,
+      "longitude": 6.004073,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 216,
+      "name": "Zuiderheide",
+      "latitude": 52.12723,
+      "longitude": 5.768742,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 217,
+      "name": "Zwarte Veld",
+      "latitude": 52.110049,
+      "longitude": 5.855484,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 218,
+      "name": "eindeloze kapvlakte",
+      "latitude": 53.068417,
+      "longitude": 6.111038,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 219,
+      "name": "gletsjerkuil",
+      "latitude": 52.834367,
+      "longitude": 6.869757,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 220,
+      "name": "grootschar",
+      "latitude": 53.02719,
+      "longitude": 6.064463,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 221,
+      "name": "grootschar",
+      "latitude": 53.03546,
+      "longitude": 6.065869,
+      "osm_klasse": "natural=heath"
+    },
+    {
+      "id": 222,
+      "name": "natuurontwikkeling",
+      "latitude": 51.425402,
+      "longitude": 5.202114,
+      "osm_klasse": "natural=heath"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: heath (natural=heath) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged natural=heath in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 222 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: heath (natural=heath) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: heath (natural=heath) — 222 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 222 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

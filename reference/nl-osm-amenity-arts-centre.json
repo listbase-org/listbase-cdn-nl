@@ -1,0 +1,2774 @@
+{
+  "id": "nl-osm-amenity-arts-centre",
+  "name": "Netherlands OSM: arts centre (amenity=arts_centre)",
+  "title": "Netherlands OSM: arts centre (amenity=arts_centre)",
+  "description": "Named OpenStreetMap features tagged amenity=arts_centre in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 389,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Brakenkerkje",
+      "latitude": 52.670714,
+      "longitude": 4.90038,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 2,
+      "name": "'t Kerkje van Ellesdiek",
+      "latitude": 51.389553,
+      "longitude": 3.815933,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 3,
+      "name": "'t Venster",
+      "latitude": 51.966718,
+      "longitude": 5.672665,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 4,
+      "name": "'t Waarhuis",
+      "latitude": 53.319631,
+      "longitude": 6.467814,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 5,
+      "name": "'t Zwolse Kunsthuis",
+      "latitude": 52.511055,
+      "longitude": 6.0922,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 6,
+      "name": ".zip",
+      "latitude": 51.934743,
+      "longitude": 4.481666,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 7,
+      "name": "1646",
+      "latitude": 52.072789,
+      "longitude": 4.310584,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 8,
+      "name": "37PK",
+      "latitude": 52.377271,
+      "longitude": 4.634098,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 9,
+      "name": "@Robert's",
+      "latitude": 52.449207,
+      "longitude": 5.834438,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 10,
+      "name": "AB4",
+      "latitude": 52.064055,
+      "longitude": 4.306352,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 11,
+      "name": "ABZ",
+      "latitude": 51.65804,
+      "longitude": 5.297719,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 12,
+      "name": "AINSI",
+      "latitude": 50.823623,
+      "longitude": 5.695317,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 13,
+      "name": "Academie Galerie",
+      "latitude": 52.092634,
+      "longitude": 5.121009,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 14,
+      "name": "Akoesticum",
+      "latitude": 52.028343,
+      "longitude": 5.674813,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 15,
+      "name": "Amare",
+      "latitude": 52.077489,
+      "longitude": 4.318351,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 16,
+      "name": "Amati Art Center",
+      "latitude": 52.058628,
+      "longitude": 5.213951,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 17,
+      "name": "Amfoor",
+      "latitude": 52.384652,
+      "longitude": 4.928151,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 18,
+      "name": "Anders Bekeken",
+      "latitude": 52.072585,
+      "longitude": 4.306629,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 19,
+      "name": "Antropia",
+      "latitude": 52.064395,
+      "longitude": 5.261186,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 20,
+      "name": "Arnhems Keramiek Atelier",
+      "latitude": 51.985139,
+      "longitude": 5.914098,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 21,
+      "name": "Ars Aemula Naturae",
+      "latitude": 52.158915,
+      "longitude": 4.487182,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 22,
+      "name": "Art Centre Delft",
+      "latitude": 51.980128,
+      "longitude": 4.386937,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 23,
+      "name": "Art Gallery Salon West",
+      "latitude": 52.370215,
+      "longitude": 4.864246,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 24,
+      "name": "Art-s Cool",
+      "latitude": 52.063532,
+      "longitude": 4.308315,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 25,
+      "name": "Artishock",
+      "latitude": 52.180677,
+      "longitude": 5.304125,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 26,
+      "name": "Artist in Residence",
+      "latitude": 51.959024,
+      "longitude": 5.190364,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 27,
+      "name": "Artstudio Andrea Janssens",
+      "latitude": 51.336821,
+      "longitude": 3.82745,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 28,
+      "name": "Atelier De Ganzebos",
+      "latitude": 52.203361,
+      "longitude": 6.775912,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 29,
+      "name": "Atelier Dorine de Soet",
+      "latitude": 52.137624,
+      "longitude": 6.200918,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 30,
+      "name": "Atelier Evangelos",
+      "latitude": 52.079952,
+      "longitude": 4.294181,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 31,
+      "name": "Atelier Harry JolinG",
+      "latitude": 52.249924,
+      "longitude": 6.140256,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 32,
+      "name": "Atelier Mauve",
+      "latitude": 52.083461,
+      "longitude": 4.297068,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 33,
+      "name": "Atelier Potvis",
+      "latitude": 52.078356,
+      "longitude": 4.315122,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 34,
+      "name": "Atelier Risselada",
+      "latitude": 52.080324,
+      "longitude": 4.297472,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 35,
+      "name": "Atelier Vera Zegerman",
+      "latitude": 52.05795,
+      "longitude": 4.510686,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 36,
+      "name": "Atelier Westeinde",
+      "latitude": 52.076257,
+      "longitude": 4.302888,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 37,
+      "name": "Atelier de Hichte",
+      "latitude": 52.005884,
+      "longitude": 4.474108,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 38,
+      "name": "Ateliers 99a",
+      "latitude": 52.055273,
+      "longitude": 4.497562,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 39,
+      "name": "Ateliers Buijsmangebouw",
+      "latitude": 52.641637,
+      "longitude": 5.060705,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 40,
+      "name": "Ateliers Koewegje",
+      "latitude": 52.514096,
+      "longitude": 6.102821,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 41,
+      "name": "Ateliers Majeur De Rinkelbom",
+      "latitude": 52.949685,
+      "longitude": 5.916244,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 42,
+      "name": "Ateliers de Steiger 206",
+      "latitude": 52.347825,
+      "longitude": 5.222925,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 43,
+      "name": "B93",
+      "latitude": 52.222748,
+      "longitude": 6.909177,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 44,
+      "name": "BHAMD!",
+      "latitude": 52.37816,
+      "longitude": 4.632064,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 45,
+      "name": "Bacinol 2",
+      "latitude": 52.004389,
+      "longitude": 4.359732,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 46,
+      "name": "Balletschool La Coppelia",
+      "latitude": 52.357517,
+      "longitude": 5.283729,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 47,
+      "name": "Barthkapel",
+      "latitude": 52.073907,
+      "longitude": 4.306481,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 48,
+      "name": "Batavierhuis",
+      "latitude": 51.907668,
+      "longitude": 4.459316,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 49,
+      "name": "Beeldende kunst & educatie",
+      "latitude": 52.894193,
+      "longitude": 5.998455,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 50,
+      "name": "Bibelebon Kinderatelier",
+      "latitude": 52.214097,
+      "longitude": 5.167726,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 51,
+      "name": "Binnenpret",
+      "latitude": 52.354228,
+      "longitude": 4.854643,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 52,
+      "name": "BioArt Laboratories",
+      "latitude": 51.463408,
+      "longitude": 5.4292,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 53,
+      "name": "Bluessociëteit L'Esprit",
+      "latitude": 51.873424,
+      "longitude": 4.544899,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 54,
+      "name": "Boeiende Kunst",
+      "latitude": 51.446992,
+      "longitude": 5.475184,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 55,
+      "name": "Bonenrank",
+      "latitude": 52.080846,
+      "longitude": 4.288533,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 56,
+      "name": "Borneo Architectuur Centrum Amsterdam",
+      "latitude": 52.372063,
+      "longitude": 4.946594,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 57,
+      "name": "Broedplaats HW10",
+      "latitude": 52.360433,
+      "longitude": 4.823571,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 58,
+      "name": "Buro in Hout",
+      "latitude": 52.078729,
+      "longitude": 4.301871,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 59,
+      "name": "Buurtatelier Koch",
+      "latitude": 52.347901,
+      "longitude": 4.937196,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 60,
+      "name": "Buurtcentrum De Geus",
+      "latitude": 52.229371,
+      "longitude": 5.183728,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 61,
+      "name": "C. Nieuw-Vennep",
+      "latitude": 52.265439,
+      "longitude": 4.628494,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 62,
+      "name": "CKC",
+      "latitude": 52.057368,
+      "longitude": 4.497924,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 63,
+      "name": "CKE Eindhoven: Muziekschool, Dansschool",
+      "latitude": 51.445098,
+      "longitude": 5.474662,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 64,
+      "name": "Carrera's Muziekatelier",
+      "latitude": 52.077963,
+      "longitude": 4.285369,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 65,
+      "name": "Centrum voor beeldende kunst",
+      "latitude": 51.501464,
+      "longitude": 3.613888,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 66,
+      "name": "Chabotgroep",
+      "latitude": 51.900877,
+      "longitude": 4.549021,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 67,
+      "name": "Cinetol",
+      "latitude": 52.352776,
+      "longitude": 4.90663,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 68,
+      "name": "Circusschool",
+      "latitude": 51.639791,
+      "longitude": 4.864478,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 69,
+      "name": "Circuswerkplaats Boost",
+      "latitude": 52.351451,
+      "longitude": 4.912549,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 70,
+      "name": "Concordia",
+      "latitude": 52.220107,
+      "longitude": 6.895861,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 71,
+      "name": "Concordia CC",
+      "latitude": 52.073201,
+      "longitude": 4.307474,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 72,
+      "name": "Create Wise",
+      "latitude": 51.99621,
+      "longitude": 5.673817,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 73,
+      "name": "Creatief Centrum Sliedrecht",
+      "latitude": 51.826963,
+      "longitude": 4.76543,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 74,
+      "name": "Creative Artlabs Almere",
+      "latitude": 52.335198,
+      "longitude": 5.217645,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 75,
+      "name": "Cultureel Centrum 'De Schattelijn'",
+      "latitude": 51.701271,
+      "longitude": 4.861742,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 76,
+      "name": "Cultureel Centrum Bullekerk",
+      "latitude": 52.444557,
+      "longitude": 4.818861,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 77,
+      "name": "Cultureel Centrum De Borenburg",
+      "latitude": 50.882153,
+      "longitude": 5.926775,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 78,
+      "name": "Cultureel Podium Lutherse Kerk",
+      "latitude": 50.847295,
+      "longitude": 5.691302,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 79,
+      "name": "Cultuur historisch centrum Oldambt",
+      "latitude": 53.176109,
+      "longitude": 6.971896,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 80,
+      "name": "CultuurSchakel",
+      "latitude": 52.074908,
+      "longitude": 4.306761,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 81,
+      "name": "Cultuurcampus Vleuterweide",
+      "latitude": 52.093867,
+      "longitude": 5.011039,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 82,
+      "name": "Cultuurcentrum Baarle",
+      "latitude": 51.441597,
+      "longitude": 4.925886,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 83,
+      "name": "Cultuurdome",
+      "latitude": 52.392004,
+      "longitude": 5.273235,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 84,
+      "name": "Cultuurhuis Diamantslijperij",
+      "latitude": 52.353126,
+      "longitude": 4.90609,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 85,
+      "name": "Cultuurhuis Wherelant",
+      "latitude": 52.517141,
+      "longitude": 4.981267,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 86,
+      "name": "Cultuurkoepel Heiloo",
+      "latitude": 52.596167,
+      "longitude": 4.709578,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 87,
+      "name": "Cultuurlab",
+      "latitude": 52.008776,
+      "longitude": 4.361115,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 88,
+      "name": "Cultuurpodium De Boerderij",
+      "latitude": 52.06333,
+      "longitude": 4.469462,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 89,
+      "name": "D'n Hook",
+      "latitude": 51.065832,
+      "longitude": 5.860083,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 90,
+      "name": "DAP Muziekcentrum",
+      "latitude": 52.236199,
+      "longitude": 5.982485,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 91,
+      "name": "DEIK Delftse Eigentijdse Kunst",
+      "latitude": 52.013291,
+      "longitude": 4.364154,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 92,
+      "name": "DOOR Dordrecht",
+      "latitude": 51.816342,
+      "longitude": 4.669909,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 93,
+      "name": "DUNAatelier",
+      "latitude": 52.20084,
+      "longitude": 4.390091,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 94,
+      "name": "Dat Bolwerck",
+      "latitude": 52.139465,
+      "longitude": 6.197241,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 95,
+      "name": "De Bernardus",
+      "latitude": 51.68028,
+      "longitude": 4.794342,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 96,
+      "name": "De Besturing",
+      "latitude": 52.066007,
+      "longitude": 4.345286,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 97,
+      "name": "De Blauwe Reiger",
+      "latitude": 52.35224,
+      "longitude": 5.221785,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 98,
+      "name": "De Boodschap Filmhuis en Theater",
+      "latitude": 51.540214,
+      "longitude": 4.941384,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 99,
+      "name": "De Burgwal",
+      "latitude": 52.55665,
+      "longitude": 5.91554,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 100,
+      "name": "De CultuurHoek",
+      "latitude": 52.051363,
+      "longitude": 5.280325,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 101,
+      "name": "De Cultuurschuur",
+      "latitude": 52.85487,
+      "longitude": 5.026969,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 102,
+      "name": "De Halle",
+      "latitude": 51.264505,
+      "longitude": 3.902984,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 103,
+      "name": "De Hangar",
+      "latitude": 52.038374,
+      "longitude": 5.876003,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 104,
+      "name": "De Klinker",
+      "latitude": 53.147389,
+      "longitude": 7.033799,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 105,
+      "name": "De Krakeling",
+      "latitude": 52.386123,
+      "longitude": 4.873556,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 106,
+      "name": "De Kubus",
+      "latitude": 52.512934,
+      "longitude": 5.476701,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 107,
+      "name": "De Kunstpraktijk",
+      "latitude": 51.402553,
+      "longitude": 5.397496,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 108,
+      "name": "De Kunststudio",
+      "latitude": 52.212107,
+      "longitude": 5.291747,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 109,
+      "name": "De Mallemolen",
+      "latitude": 51.775767,
+      "longitude": 5.935317,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 110,
+      "name": "De Mattelier",
+      "latitude": 52.041613,
+      "longitude": 6.618664,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 111,
+      "name": "De Muzerije",
+      "latitude": 51.688826,
+      "longitude": 5.30842,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 112,
+      "name": "De Nieuwe Liefde",
+      "latitude": 52.369787,
+      "longitude": 4.87148,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 113,
+      "name": "De Nieuwe Stad Paviljoens",
+      "latitude": 52.160275,
+      "longitude": 5.380784,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 114,
+      "name": "De Nobelaer",
+      "latitude": 51.568261,
+      "longitude": 4.641756,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 115,
+      "name": "De Nollen",
+      "latitude": 52.934687,
+      "longitude": 4.76103,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 116,
+      "name": "De Ogtent",
+      "latitude": 51.949087,
+      "longitude": 6.02246,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 117,
+      "name": "De Pas",
+      "latitude": 51.734429,
+      "longitude": 5.528126,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 118,
+      "name": "De Perifeer",
+      "latitude": 52.247143,
+      "longitude": 6.168895,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 119,
+      "name": "De Poort",
+      "latitude": 52.053725,
+      "longitude": 4.317118,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 120,
+      "name": "De Rode Hoed",
+      "latitude": 52.377344,
+      "longitude": 4.88726,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 121,
+      "name": "De Spin",
+      "latitude": 51.976803,
+      "longitude": 4.252147,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 122,
+      "name": "De Stag",
+      "latitude": 53.478683,
+      "longitude": 6.15789,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 123,
+      "name": "De Stoelendans",
+      "latitude": 51.505163,
+      "longitude": 5.313234,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 124,
+      "name": "De Tempelhof",
+      "latitude": 51.883915,
+      "longitude": 5.700727,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 125,
+      "name": "De Turmac Cultuurfabriek",
+      "latitude": 51.924428,
+      "longitude": 6.075736,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 126,
+      "name": "De Vlugt",
+      "latitude": 52.380102,
+      "longitude": 4.827154,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 127,
+      "name": "De Voetnoot",
+      "latitude": 52.37213,
+      "longitude": 5.221614,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 128,
+      "name": "De Volharding",
+      "latitude": 52.391781,
+      "longitude": 4.648579,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 129,
+      "name": "De Vrije Academie",
+      "latitude": 52.368502,
+      "longitude": 4.886331,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 130,
+      "name": "De Vrijstaat",
+      "latitude": 52.095012,
+      "longitude": 5.0666,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 131,
+      "name": "De Weijer",
+      "latitude": 51.64943,
+      "longitude": 5.950668,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 132,
+      "name": "Designhuis Eindhoven",
+      "latitude": 51.435531,
+      "longitude": 5.482141,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 133,
+      "name": "Domusica",
+      "latitude": 52.521915,
+      "longitude": 6.10975,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 134,
+      "name": "Dorpshuis De Spil",
+      "latitude": 51.481836,
+      "longitude": 4.38953,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 135,
+      "name": "Dorsphuis De Zwaan",
+      "latitude": 52.528765,
+      "longitude": 4.714039,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 136,
+      "name": "Dürst Britt & Mayhew",
+      "latitude": 52.071824,
+      "longitude": 4.318618,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 137,
+      "name": "El Centro Español La Haya",
+      "latitude": 52.075597,
+      "longitude": 4.303994,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 138,
+      "name": "Electriciteitsfabriek",
+      "latitude": 52.076805,
+      "longitude": 4.290338,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 139,
+      "name": "Esther Vijftigschild",
+      "latitude": 52.073395,
+      "longitude": 5.139129,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 140,
+      "name": "FORT33",
+      "latitude": 52.131527,
+      "longitude": 5.414994,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 141,
+      "name": "Fa Fa Star Academy",
+      "latitude": 52.057879,
+      "longitude": 4.269421,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 142,
+      "name": "Faizul Islam",
+      "latitude": 52.070193,
+      "longitude": 4.279386,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 143,
+      "name": "Fenix Art & Performance",
+      "latitude": 51.695741,
+      "longitude": 5.30012,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 144,
+      "name": "Fiberations kunstgalerie",
+      "latitude": 53.140113,
+      "longitude": 6.508945,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 145,
+      "name": "Flipside",
+      "latitude": 51.47699,
+      "longitude": 5.494235,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 146,
+      "name": "Fluxus",
+      "latitude": 52.455374,
+      "longitude": 4.818224,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 147,
+      "name": "Fotoschool Den Haag",
+      "latitude": 52.082767,
+      "longitude": 4.300472,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 148,
+      "name": "Framer Framed",
+      "latitude": 52.356921,
+      "longitude": 4.932197,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 149,
+      "name": "GR8",
+      "latitude": 52.074851,
+      "longitude": 4.307988,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 150,
+      "name": "GROND",
+      "latitude": 52.335878,
+      "longitude": 4.926613,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 151,
+      "name": "Galerie & Beeldentuin Laerken",
+      "latitude": 52.104072,
+      "longitude": 4.555572,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 152,
+      "name": "Galerie Alphen Art",
+      "latitude": 52.129717,
+      "longitude": 4.664815,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 153,
+      "name": "Galerie De Bun",
+      "latitude": 53.115768,
+      "longitude": 6.539249,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 154,
+      "name": "Galerie De Zaal",
+      "latitude": 52.008141,
+      "longitude": 4.360314,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 155,
+      "name": "Galerie Ei",
+      "latitude": 52.374268,
+      "longitude": 4.858993,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 156,
+      "name": "Galerie Het Raadhuis",
+      "latitude": 53.363794,
+      "longitude": 6.457786,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 157,
+      "name": "Galerie Korsman",
+      "latitude": 52.177731,
+      "longitude": 4.471992,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 158,
+      "name": "Galerie Maurits van de Laar",
+      "latitude": 52.074311,
+      "longitude": 4.310385,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 159,
+      "name": "Galerie Maurits van de Laar",
+      "latitude": 52.081696,
+      "longitude": 4.301735,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 160,
+      "name": "Galerie Mooi Man",
+      "latitude": 53.228916,
+      "longitude": 6.558846,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 161,
+      "name": "Galerie Ramakers",
+      "latitude": 52.081834,
+      "longitude": 4.301593,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 162,
+      "name": "Galerie Sophie",
+      "latitude": 52.073418,
+      "longitude": 4.313931,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 163,
+      "name": "Galerie Zuid",
+      "latitude": 52.120046,
+      "longitude": 5.754823,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 164,
+      "name": "Galerie de Pomp",
+      "latitude": 52.196839,
+      "longitude": 4.503579,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 165,
+      "name": "Gallerie De Rooy - Taen",
+      "latitude": 51.429888,
+      "longitude": 5.584538,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 166,
+      "name": "Gate 51 Ateliers",
+      "latitude": 52.194725,
+      "longitude": 5.151617,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 167,
+      "name": "Gele Pomp",
+      "latitude": 52.39355,
+      "longitude": 4.924029,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 168,
+      "name": "Gemak",
+      "latitude": 52.074409,
+      "longitude": 4.312197,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 169,
+      "name": "Gemeentelijke ateliers A19Ateliers",
+      "latitude": 52.639379,
+      "longitude": 5.057225,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 170,
+      "name": "Gezondheidsplein",
+      "latitude": 51.799796,
+      "longitude": 5.24215,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 171,
+      "name": "Gheijn Studio's",
+      "latitude": 52.072545,
+      "longitude": 4.284906,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 172,
+      "name": "Glinstra State",
+      "latitude": 53.194089,
+      "longitude": 5.995827,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 173,
+      "name": "Globe",
+      "latitude": 52.224254,
+      "longitude": 5.173037,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 174,
+      "name": "Goretti",
+      "latitude": 51.56583,
+      "longitude": 5.079256,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 175,
+      "name": "Grafisch Centrum Groningen",
+      "latitude": 53.211339,
+      "longitude": 6.577632,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 176,
+      "name": "Grafische Werkplaats",
+      "latitude": 52.074556,
+      "longitude": 4.307125,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 177,
+      "name": "Grote Kerk",
+      "latitude": 52.485897,
+      "longitude": 4.658486,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 178,
+      "name": "H19 Centrum voor de kunst",
+      "latitude": 51.642764,
+      "longitude": 4.856092,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 179,
+      "name": "Haags Hiphop Centrum",
+      "latitude": 52.065355,
+      "longitude": 4.3202,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 180,
+      "name": "Haags Kunstatelier",
+      "latitude": 52.082164,
+      "longitude": 4.290718,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 181,
+      "name": "Haags Popcentrum",
+      "latitude": 52.053857,
+      "longitude": 4.242362,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 182,
+      "name": "Haagsche Kunstkring",
+      "latitude": 52.085026,
+      "longitude": 4.312462,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 183,
+      "name": "Helder",
+      "latitude": 52.08247,
+      "longitude": 4.290775,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 184,
+      "name": "Het Cultuurhuis",
+      "latitude": 52.086646,
+      "longitude": 5.122283,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 185,
+      "name": "Het Huis van Betekenis",
+      "latitude": 52.100219,
+      "longitude": 5.112656,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 186,
+      "name": "Het Nutshuis",
+      "latitude": 52.07672,
+      "longitude": 4.306813,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 187,
+      "name": "Het Salon",
+      "latitude": 52.389845,
+      "longitude": 4.851465,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 188,
+      "name": "Het Viadukt",
+      "latitude": 53.219434,
+      "longitude": 6.600105,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 189,
+      "name": "Hetruim",
+      "latitude": 52.334576,
+      "longitude": 4.794161,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 190,
+      "name": "Heuvellaan Hilversum",
+      "latitude": 52.232722,
+      "longitude": 5.164012,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 191,
+      "name": "Hoeve Rijlaarsdam",
+      "latitude": 52.166322,
+      "longitude": 4.774827,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 192,
+      "name": "Hofmanheide Creatief - Beeldhouw Paradijs",
+      "latitude": 51.273999,
+      "longitude": 5.391185,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 193,
+      "name": "Hoorns Harmonie Orkest",
+      "latitude": 52.643373,
+      "longitude": 5.05944,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 194,
+      "name": "Horeca de Jansheeren",
+      "latitude": 52.510153,
+      "longitude": 4.668494,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 195,
+      "name": "Huis De Pinto",
+      "latitude": 52.370096,
+      "longitude": 4.900857,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 196,
+      "name": "Huis van Waalwijk",
+      "latitude": 51.691035,
+      "longitude": 5.066464,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 197,
+      "name": "IAC",
+      "latitude": 52.07832,
+      "longitude": 4.285601,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 198,
+      "name": "IKC Sabah Nijmegen",
+      "latitude": 51.812913,
+      "longitude": 5.844307,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 199,
+      "name": "In kannen en kruiken",
+      "latitude": 52.082843,
+      "longitude": 4.277418,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 200,
+      "name": "Institut français in Groningen",
+      "latitude": 53.219089,
+      "longitude": 6.561978,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 201,
+      "name": "Institut français in Nederland",
+      "latitude": 52.086204,
+      "longitude": 4.298146,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 202,
+      "name": "It Maskelyn",
+      "latitude": 53.213941,
+      "longitude": 5.943381,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 203,
+      "name": "JJ Music House",
+      "latitude": 52.048125,
+      "longitude": 4.528861,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 204,
+      "name": "Jan van Eyck Academie",
+      "latitude": 50.845749,
+      "longitude": 5.686681,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 205,
+      "name": "Jerusalem",
+      "latitude": 51.52971,
+      "longitude": 5.975171,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 206,
+      "name": "Jouetta's Danscentrum",
+      "latitude": 52.38389,
+      "longitude": 5.192404,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 207,
+      "name": "KCA Maassluis",
+      "latitude": 51.927045,
+      "longitude": 4.23914,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 208,
+      "name": "KOO",
+      "latitude": 52.074829,
+      "longitude": 4.305637,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 209,
+      "name": "KWA",
+      "latitude": 52.03108,
+      "longitude": 5.870182,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 210,
+      "name": "Kaboomm",
+      "latitude": 52.073611,
+      "longitude": 4.309706,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 211,
+      "name": "Kadmium",
+      "latitude": 52.011585,
+      "longitude": 4.354083,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 212,
+      "name": "Kaliber Kunstenschool",
+      "latitude": 52.222467,
+      "longitude": 6.895066,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 213,
+      "name": "Katoenhuis Rotterdam",
+      "latitude": 51.907365,
+      "longitude": 4.431325,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 214,
+      "name": "Keramiek Atelier",
+      "latitude": 52.075958,
+      "longitude": 4.302348,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 215,
+      "name": "Keramiek Galerie & Atelier \"Groot Welsden\"",
+      "latitude": 50.830544,
+      "longitude": 5.816596,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 216,
+      "name": "Keramiekatelier Pauline Hoeboer",
+      "latitude": 52.077418,
+      "longitude": 4.287548,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 217,
+      "name": "Keramoz Studio",
+      "latitude": 52.075301,
+      "longitude": 4.301004,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 218,
+      "name": "KijkesAAN",
+      "latitude": 51.862909,
+      "longitude": 4.661047,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 219,
+      "name": "Klassieke Academie",
+      "latitude": 53.231284,
+      "longitude": 6.58375,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 220,
+      "name": "Klassieke Academie voor Beeldende Kunst",
+      "latitude": 53.216861,
+      "longitude": 6.561749,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 221,
+      "name": "Koelhuis",
+      "latitude": 51.433346,
+      "longitude": 5.501494,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 222,
+      "name": "Koninklijke Harmonie \"De Adelaar\"",
+      "latitude": 52.31642,
+      "longitude": 5.032606,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 223,
+      "name": "Koorenhuis",
+      "latitude": 52.074967,
+      "longitude": 4.306449,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 224,
+      "name": "Kultuureiland",
+      "latitude": 53.267906,
+      "longitude": 6.847637,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 225,
+      "name": "Kunst & Co",
+      "latitude": 51.659063,
+      "longitude": 5.61677,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 226,
+      "name": "Kunst en Ontspanning Katwijk",
+      "latitude": 52.205929,
+      "longitude": 4.398613,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 227,
+      "name": "Kunst is Leuk",
+      "latitude": 52.369754,
+      "longitude": 5.21811,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 228,
+      "name": "KunstKerk Hogeland",
+      "latitude": 53.391223,
+      "longitude": 6.563101,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 229,
+      "name": "Kunstatelier Het Kruithuis",
+      "latitude": 51.828832,
+      "longitude": 4.131803,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 230,
+      "name": "Kunstcentrum De Ploeg",
+      "latitude": 53.35801,
+      "longitude": 6.42768,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 231,
+      "name": "Kunstcentrum Haagweg",
+      "latitude": 52.159403,
+      "longitude": 4.479121,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 232,
+      "name": "Kunstcircuit Deventer",
+      "latitude": 52.255432,
+      "longitude": 6.161281,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 233,
+      "name": "Kunstcircuit Deventer (dependance)",
+      "latitude": 52.254418,
+      "longitude": 6.207815,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 234,
+      "name": "Kunstencentrum van C.",
+      "latitude": 52.301426,
+      "longitude": 4.697195,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 235,
+      "name": "Kunstfort bij Vijfhuizen",
+      "latitude": 52.347407,
+      "longitude": 4.670797,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 236,
+      "name": "Kunsthal KAdE",
+      "latitude": 52.159106,
+      "longitude": 5.38309,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 237,
+      "name": "Kunsthuis Leiden",
+      "latitude": 52.157327,
+      "longitude": 4.494127,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 238,
+      "name": "Kunsthuis Oal Eer",
+      "latitude": 53.372952,
+      "longitude": 6.815536,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 239,
+      "name": "Kunstkerk",
+      "latitude": 52.385414,
+      "longitude": 4.886739,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 240,
+      "name": "Kunstkwartier",
+      "latitude": 51.478725,
+      "longitude": 5.649655,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 241,
+      "name": "Kunstlicht",
+      "latitude": 52.384841,
+      "longitude": 4.919307,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 242,
+      "name": "Kunstliefde",
+      "latitude": 52.093112,
+      "longitude": 5.125095,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 243,
+      "name": "Kunstlokaal Zout",
+      "latitude": 53.061292,
+      "longitude": 4.802287,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 244,
+      "name": "Kunstpodium T",
+      "latitude": 51.557978,
+      "longitude": 5.080788,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 245,
+      "name": "Kunstpost",
+      "latitude": 52.085554,
+      "longitude": 4.34678,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 246,
+      "name": "Kunstuitleen Rotterdam",
+      "latitude": 51.924135,
+      "longitude": 4.489782,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 247,
+      "name": "Kunstwerf",
+      "latitude": 53.223954,
+      "longitude": 6.568221,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 248,
+      "name": "Kunstwerk-t",
+      "latitude": 51.972453,
+      "longitude": 5.730838,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 249,
+      "name": "Kunstwerkplaats Quinta Essentia",
+      "latitude": 52.323159,
+      "longitude": 4.638137,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 250,
+      "name": "L'Échappée Belle",
+      "latitude": 52.364698,
+      "longitude": 4.889238,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 251,
+      "name": "LAB 111",
+      "latitude": 52.363671,
+      "longitude": 4.867365,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 252,
+      "name": "Landgoedtheater de Kapschuur",
+      "latitude": 52.137357,
+      "longitude": 5.282201,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 253,
+      "name": "Landvast",
+      "latitude": 51.860986,
+      "longitude": 4.657587,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 254,
+      "name": "Liefhertje en De Grote Witte Reus",
+      "latitude": 52.070933,
+      "longitude": 4.320796,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 255,
+      "name": "Lindenberg Aldenhof",
+      "latitude": 51.805912,
+      "longitude": 5.798206,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 256,
+      "name": "Locatie Z",
+      "latitude": 52.04394,
+      "longitude": 4.283473,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 257,
+      "name": "Lumina",
+      "latitude": 52.02383,
+      "longitude": 4.70847,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 258,
+      "name": "MFA De Snoeck",
+      "latitude": 51.806321,
+      "longitude": 5.439814,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 259,
+      "name": "MK24",
+      "latitude": 52.361223,
+      "longitude": 4.914837,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 260,
+      "name": "Marcanto Muziekcentrum",
+      "latitude": 52.064261,
+      "longitude": 4.372022,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 261,
+      "name": "Marcello's",
+      "latitude": 52.081212,
+      "longitude": 4.288031,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 262,
+      "name": "Marit Törnqvist",
+      "latitude": 52.375878,
+      "longitude": 4.885043,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 263,
+      "name": "Mediamatic Biotoop Dijkspark",
+      "latitude": 52.37655,
+      "longitude": 4.913047,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 264,
+      "name": "Mee in Zee Atelier",
+      "latitude": 52.073547,
+      "longitude": 4.265096,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 265,
+      "name": "Michael and Caja",
+      "latitude": 52.07175,
+      "longitude": 4.318834,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 266,
+      "name": "Moezeum",
+      "latitude": 51.928953,
+      "longitude": 4.477651,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 267,
+      "name": "Monument Jan Abrahamse",
+      "latitude": 53.480562,
+      "longitude": 6.210227,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 268,
+      "name": "Mozart",
+      "latitude": 51.488842,
+      "longitude": 4.041094,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 269,
+      "name": "Muzelinck",
+      "latitude": 51.763295,
+      "longitude": 5.521091,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 270,
+      "name": "Muziekcentrum Eiwerk",
+      "latitude": 52.337612,
+      "longitude": 4.927495,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 271,
+      "name": "Muziekcentrum Zoeterwoude",
+      "latitude": 52.117407,
+      "longitude": 4.499421,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 272,
+      "name": "Muziekpodium Estrado",
+      "latitude": 52.343205,
+      "longitude": 5.628562,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 273,
+      "name": "Myllesweerd",
+      "latitude": 51.686783,
+      "longitude": 5.782785,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 274,
+      "name": "NDSM-loods",
+      "latitude": 52.401153,
+      "longitude": 4.895875,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 275,
+      "name": "NEST",
+      "latitude": 52.076361,
+      "longitude": 4.29134,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 276,
+      "name": "NS16",
+      "latitude": 51.560489,
+      "longitude": 5.092272,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 277,
+      "name": "Nieuw en Meer",
+      "latitude": 52.330109,
+      "longitude": 4.811921,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 278,
+      "name": "Nieuwe Instituut",
+      "latitude": 51.914708,
+      "longitude": 4.471158,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 279,
+      "name": "Nieuwe Vide",
+      "latitude": 52.386294,
+      "longitude": 4.651448,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 280,
+      "name": "Nirwana",
+      "latitude": 52.523333,
+      "longitude": 5.704721,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 281,
+      "name": "Noorderlicht",
+      "latitude": 53.21645,
+      "longitude": 6.563216,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 282,
+      "name": "Noordwal",
+      "latitude": 52.078479,
+      "longitude": 4.300246,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 283,
+      "name": "Nora Bogers",
+      "latitude": 52.084428,
+      "longitude": 4.312413,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 284,
+      "name": "Odelein Atelier",
+      "latitude": 52.336504,
+      "longitude": 5.221163,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 285,
+      "name": "Odeon Cultuurhuis",
+      "latitude": 52.909395,
+      "longitude": 6.93596,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 286,
+      "name": "Onderbuik",
+      "latitude": 52.076066,
+      "longitude": 5.142457,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 287,
+      "name": "Onderneming Op Kunstgebied",
+      "latitude": 53.170232,
+      "longitude": 6.61943,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 288,
+      "name": "Onderneming op Kunstgebied",
+      "latitude": 53.2115,
+      "longitude": 6.611716,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 289,
+      "name": "Op Hodenpijl",
+      "latitude": 51.98679,
+      "longitude": 4.320945,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 290,
+      "name": "Orangery Art Room",
+      "latitude": 52.484328,
+      "longitude": 6.451841,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 291,
+      "name": "Orgelzaal Booy",
+      "latitude": 52.668679,
+      "longitude": 4.771876,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 292,
+      "name": "Oud Woelwijck creativiteitscentrum",
+      "latitude": 52.119328,
+      "longitude": 4.442881,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 293,
+      "name": "Oude Raadhuis",
+      "latitude": 52.196719,
+      "longitude": 4.503655,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 294,
+      "name": "Outsider Art Gallery",
+      "latitude": 52.365935,
+      "longitude": 4.903343,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 295,
+      "name": "Paard",
+      "latitude": 52.074726,
+      "longitude": 4.307657,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 296,
+      "name": "Pandora Studio",
+      "latitude": 52.076758,
+      "longitude": 4.293533,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 297,
+      "name": "Paraplufabrieken",
+      "latitude": 51.841369,
+      "longitude": 5.854452,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 298,
+      "name": "Perdu",
+      "latitude": 52.368872,
+      "longitude": 4.896248,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 299,
+      "name": "Pied-à-terre",
+      "latitude": 52.080545,
+      "longitude": 4.290471,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 300,
+      "name": "Podium 34",
+      "latitude": 52.924455,
+      "longitude": 6.790773,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 301,
+      "name": "Podium Zuidhaege",
+      "latitude": 52.991462,
+      "longitude": 6.565431,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 302,
+      "name": "Professor Loep",
+      "latitude": 52.103863,
+      "longitude": 5.08766,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 303,
+      "name": "Pulchri Studio",
+      "latitude": 52.081947,
+      "longitude": 4.311853,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 304,
+      "name": "Q-factory",
+      "latitude": 52.357585,
+      "longitude": 4.930462,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 305,
+      "name": "RAUM",
+      "latitude": 52.096076,
+      "longitude": 5.068051,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 306,
+      "name": "Retort",
+      "latitude": 52.347796,
+      "longitude": 4.847875,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 307,
+      "name": "Roodkapje",
+      "latitude": 51.924858,
+      "longitude": 4.474509,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 308,
+      "name": "Ruimtevaart",
+      "latitude": 52.073755,
+      "longitude": 4.294823,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 309,
+      "name": "Russian School of Arts",
+      "latitude": 51.932718,
+      "longitude": 4.430053,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 310,
+      "name": "SBK / Galerie59",
+      "latitude": 52.357428,
+      "longitude": 4.874034,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 311,
+      "name": "SETUP",
+      "latitude": 52.100329,
+      "longitude": 5.083802,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 312,
+      "name": "Salty",
+      "latitude": 52.369945,
+      "longitude": 5.218087,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 313,
+      "name": "Scala Meppel",
+      "latitude": 52.697841,
+      "longitude": 6.194226,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 314,
+      "name": "Scheltema",
+      "latitude": 52.163191,
+      "longitude": 4.488848,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 315,
+      "name": "Scwo",
+      "latitude": 52.499384,
+      "longitude": 4.81233,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 316,
+      "name": "Sherpa-activiteitencentrum Zonnewijzer",
+      "latitude": 52.216606,
+      "longitude": 5.137706,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 317,
+      "name": "Showroom Mama",
+      "latitude": 51.915913,
+      "longitude": 4.477831,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 318,
+      "name": "Sickhouse",
+      "latitude": 52.224776,
+      "longitude": 6.899948,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 319,
+      "name": "Singer Laren",
+      "latitude": 52.25918,
+      "longitude": 5.22174,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 320,
+      "name": "Sint-Gertrudiskerk",
+      "latitude": 52.410246,
+      "longitude": 4.748875,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 321,
+      "name": "Sociaal Cultureel Centrum De Bolder",
+      "latitude": 52.449996,
+      "longitude": 5.035697,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 322,
+      "name": "Sophies Kunstprojecten",
+      "latitude": 52.074101,
+      "longitude": 5.111483,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 323,
+      "name": "Sound Dog",
+      "latitude": 51.606393,
+      "longitude": 4.775419,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 324,
+      "name": "Splotzs",
+      "latitude": 52.204858,
+      "longitude": 4.633773,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 325,
+      "name": "Sport en Cultuur centrum - De Binder",
+      "latitude": 52.010365,
+      "longitude": 5.424786,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 326,
+      "name": "Station West",
+      "latitude": 52.383229,
+      "longitude": 4.888363,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 327,
+      "name": "Stichting Dwaalhaas",
+      "latitude": 51.454209,
+      "longitude": 5.456653,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 328,
+      "name": "Stichting Geerteschool",
+      "latitude": 52.07996,
+      "longitude": 5.125192,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 329,
+      "name": "Stichting Ruimtevaart",
+      "latitude": 52.072557,
+      "longitude": 4.308669,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 330,
+      "name": "Stichting de 4 elementen",
+      "latitude": 52.351278,
+      "longitude": 5.222648,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 331,
+      "name": "Stijn Smissaert Huisgalerie",
+      "latitude": 52.084022,
+      "longitude": 4.283601,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 332,
+      "name": "StrandLAB",
+      "latitude": 52.332918,
+      "longitude": 5.144626,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 333,
+      "name": "Stroom Den Haag",
+      "latitude": 52.083409,
+      "longitude": 4.303853,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 334,
+      "name": "Studio 5 | de Doelen Kids Corner",
+      "latitude": 51.921855,
+      "longitude": 4.473651,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 335,
+      "name": "Studio Borgerstraat",
+      "latitude": 52.364783,
+      "longitude": 4.864889,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 336,
+      "name": "Studio LOOS",
+      "latitude": 52.076566,
+      "longitude": 4.291425,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 337,
+      "name": "Studio Nelson Carrilho",
+      "latitude": 52.377092,
+      "longitude": 4.882312,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 338,
+      "name": "Studio TekenIng",
+      "latitude": 52.336382,
+      "longitude": 5.228867,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 339,
+      "name": "Sylvia's Jazz",
+      "latitude": 51.983546,
+      "longitude": 5.100119,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 340,
+      "name": "TalentenTheater",
+      "latitude": 52.642084,
+      "longitude": 5.060322,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 341,
+      "name": "Tante Nino",
+      "latitude": 51.914042,
+      "longitude": 4.496476,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 342,
+      "name": "Tempel / de Appel",
+      "latitude": 52.352608,
+      "longitude": 4.906353,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 343,
+      "name": "The Art Lab",
+      "latitude": 52.084641,
+      "longitude": 4.279324,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 344,
+      "name": "The Blue Port House",
+      "latitude": 52.381866,
+      "longitude": 4.531351,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 345,
+      "name": "The Hague Street Art",
+      "latitude": 52.065302,
+      "longitude": 4.320217,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 346,
+      "name": "The nextdoor Window",
+      "latitude": 52.073115,
+      "longitude": 4.313524,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 347,
+      "name": "Theater De Luifel",
+      "latitude": 52.352671,
+      "longitude": 4.613028,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 348,
+      "name": "Theaterschool Utrecht",
+      "latitude": 52.091097,
+      "longitude": 5.121487,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 349,
+      "name": "Theothorne",
+      "latitude": 52.05112,
+      "longitude": 6.10112,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 350,
+      "name": "Torenlaan Theater",
+      "latitude": 52.087843,
+      "longitude": 5.244441,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 351,
+      "name": "Trapnotov",
+      "latitude": 52.335133,
+      "longitude": 5.220424,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 352,
+      "name": "TweeTalier",
+      "latitude": 52.057896,
+      "longitude": 4.510599,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 353,
+      "name": "Uitvindfabriek",
+      "latitude": 51.597277,
+      "longitude": 4.782186,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 354,
+      "name": "Universiteit Utrecht - Parnassos Cultuurcentrum",
+      "latitude": 52.094149,
+      "longitude": 5.130351,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 355,
+      "name": "V2_",
+      "latitude": 51.915672,
+      "longitude": 4.476023,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 356,
+      "name": "VRIJDAG",
+      "latitude": 53.219408,
+      "longitude": 6.570261,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 357,
+      "name": "VRIJDAG kunstencentrum",
+      "latitude": 53.222188,
+      "longitude": 6.57156,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 358,
+      "name": "VU Griffioen",
+      "latitude": 52.334747,
+      "longitude": 4.864993,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 359,
+      "name": "Vernissage",
+      "latitude": 52.271386,
+      "longitude": 5.175201,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 360,
+      "name": "Very Goods studio",
+      "latitude": 52.38381,
+      "longitude": 4.88724,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 361,
+      "name": "Vetro Colorito glasatelier",
+      "latitude": 52.07774,
+      "longitude": 4.290339,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 362,
+      "name": "Vlaams Cultuurhuis de Brakke Grond",
+      "latitude": 52.371102,
+      "longitude": 4.893948,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 363,
+      "name": "Vleeshal",
+      "latitude": 51.499038,
+      "longitude": 3.610486,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 364,
+      "name": "Vogelfrei",
+      "latitude": 52.100668,
+      "longitude": 5.082479,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 365,
+      "name": "Vondel & Co",
+      "latitude": 52.558525,
+      "longitude": 5.916137,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 366,
+      "name": "Vonkel",
+      "latitude": 52.076069,
+      "longitude": 4.304139,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 367,
+      "name": "Voorste Venne",
+      "latitude": 51.685847,
+      "longitude": 5.126237,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 368,
+      "name": "Vreedehuis",
+      "latitude": 52.090708,
+      "longitude": 4.296477,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 369,
+      "name": "WG Kunst",
+      "latitude": 52.363334,
+      "longitude": 4.870446,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 370,
+      "name": "Wapiti Mozaiek Atelier",
+      "latitude": 52.073311,
+      "longitude": 4.276324,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 371,
+      "name": "Werkplaats Formaat",
+      "latitude": 51.904255,
+      "longitude": 4.455087,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 372,
+      "name": "Westergasfabriek",
+      "latitude": 52.386359,
+      "longitude": 4.868807,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 373,
+      "name": "Wibar Leiden",
+      "latitude": 52.160392,
+      "longitude": 4.509959,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 374,
+      "name": "Wiets Kunstatelier",
+      "latitude": 52.141401,
+      "longitude": 6.198985,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 375,
+      "name": "Wim Van Hassel, Beeldend Kunstenaar",
+      "latitude": 51.707777,
+      "longitude": 5.307047,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 376,
+      "name": "Winkeltheater",
+      "latitude": 52.053827,
+      "longitude": 5.287654,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 377,
+      "name": "Workshoptoko",
+      "latitude": 52.661809,
+      "longitude": 5.063959,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 378,
+      "name": "X TU Delft",
+      "latitude": 51.995253,
+      "longitude": 4.377001,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 379,
+      "name": "Y2",
+      "latitude": 53.222337,
+      "longitude": 6.590593,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 380,
+      "name": "ZINiN",
+      "latitude": 52.373664,
+      "longitude": 6.459295,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 381,
+      "name": "Zaal 100",
+      "latitude": 52.383029,
+      "longitude": 4.878155,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 382,
+      "name": "Zone2Source",
+      "latitude": 52.328656,
+      "longitude": 4.892893,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 383,
+      "name": "Zuiveringsgebouw",
+      "latitude": 52.385966,
+      "longitude": 4.872844,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 384,
+      "name": "de Appel",
+      "latitude": 52.364803,
+      "longitude": 4.889718,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 385,
+      "name": "de Levante",
+      "latitude": 52.358606,
+      "longitude": 4.886149,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 386,
+      "name": "de Notenkraker",
+      "latitude": 53.143009,
+      "longitude": 6.567653,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 387,
+      "name": "dé Beeldhouwschool",
+      "latitude": 52.383602,
+      "longitude": 4.887622,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 388,
+      "name": "janssen",
+      "latitude": 51.55854,
+      "longitude": 3.496767,
+      "osm_klasse": "amenity=arts_centre"
+    },
+    {
+      "id": 389,
+      "name": "vanBeresteyn",
+      "latitude": 53.107469,
+      "longitude": 6.876508,
+      "osm_klasse": "amenity=arts_centre"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: arts centre (amenity=arts_centre) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=arts_centre in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 389 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: arts centre (amenity=arts_centre) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: arts centre (amenity=arts_centre) — 389 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 389 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

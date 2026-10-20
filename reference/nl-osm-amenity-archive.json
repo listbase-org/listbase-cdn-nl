@@ -1,0 +1,1157 @@
+{
+  "id": "nl-osm-amenity-archive",
+  "name": "Netherlands OSM: archive (amenity=archive)",
+  "title": "Netherlands OSM: archive (amenity=archive)",
+  "description": "Named OpenStreetMap features tagged amenity=archive in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 158,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Archief Eemland",
+      "latitude": 52.159064,
+      "longitude": 5.382941,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 2,
+      "name": "Archief Gooi en Vechtstreek",
+      "latitude": 52.229084,
+      "longitude": 5.171007,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 3,
+      "name": "Brabants Historisch Informatie Centrum",
+      "latitude": 51.695122,
+      "longitude": 5.303075,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 4,
+      "name": "CODA Archief",
+      "latitude": 52.215352,
+      "longitude": 5.958365,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 5,
+      "name": "Collectie Overijssel",
+      "latitude": 52.253338,
+      "longitude": 6.152633,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 6,
+      "name": "Collectie Overijssel",
+      "latitude": 52.512943,
+      "longitude": 6.090791,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 7,
+      "name": "Collectie Overijssel",
+      "latitude": 52.518069,
+      "longitude": 6.09991,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 8,
+      "name": "Drents Archief",
+      "latitude": 52.993481,
+      "longitude": 6.564518,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 9,
+      "name": "EYE Collectiecentrum",
+      "latitude": 52.39194,
+      "longitude": 4.903661,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 10,
+      "name": "Erfgoed 's-Hertogenbosch",
+      "latitude": 51.687059,
+      "longitude": 5.312931,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 11,
+      "name": "Erfgoed 's-Hertogenbosch",
+      "latitude": 51.691979,
+      "longitude": 5.303769,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 12,
+      "name": "Erfgoed Leiden en Omsterken",
+      "latitude": 52.154217,
+      "longitude": 4.487638,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 13,
+      "name": "Erfgoedcentrum Achterhoek en Liemers",
+      "latitude": 51.962837,
+      "longitude": 6.289011,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 14,
+      "name": "Erfgoedcentrum Zutphen",
+      "latitude": 52.142091,
+      "longitude": 6.194093,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 15,
+      "name": "Gelders Archief",
+      "latitude": 51.971831,
+      "longitude": 5.929445,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 16,
+      "name": "Gemeentearchief Aa en Hunze",
+      "latitude": 53.005012,
+      "longitude": 6.760312,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 17,
+      "name": "Gemeentearchief Achtkarspelen",
+      "latitude": 53.255699,
+      "longitude": 6.143499,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 18,
+      "name": "Gemeentearchief Alphen aan den Rijn",
+      "latitude": 52.130435,
+      "longitude": 4.665345,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 19,
+      "name": "Gemeentearchief Ameland",
+      "latitude": 53.441575,
+      "longitude": 5.687589,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 20,
+      "name": "Gemeentearchief Barneveld",
+      "latitude": 52.139966,
+      "longitude": 5.58666,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 21,
+      "name": "Gemeentearchief Beek",
+      "latitude": 50.939069,
+      "longitude": 5.794408,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 22,
+      "name": "Gemeentearchief Beesel",
+      "latitude": 51.28364,
+      "longitude": 6.077583,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 23,
+      "name": "Gemeentearchief Bergen",
+      "latitude": 51.7019,
+      "longitude": 5.968449,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 24,
+      "name": "Gemeentearchief Borger-Odoorn",
+      "latitude": 52.882984,
+      "longitude": 6.863809,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 25,
+      "name": "Gemeentearchief Borne",
+      "latitude": 52.299902,
+      "longitude": 6.757305,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 26,
+      "name": "Gemeentearchief Borsele",
+      "latitude": 51.472104,
+      "longitude": 3.821245,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 27,
+      "name": "Gemeentearchief Coevorden",
+      "latitude": 52.661704,
+      "longitude": 6.741177,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 28,
+      "name": "Gemeentearchief De Fryske Marren",
+      "latitude": 52.970452,
+      "longitude": 5.79054,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 29,
+      "name": "Gemeentearchief De Wolden",
+      "latitude": 52.675006,
+      "longitude": 6.430891,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 30,
+      "name": "Gemeentearchief Dinkelland",
+      "latitude": 52.374011,
+      "longitude": 7.005032,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 31,
+      "name": "Gemeentearchief Echt-Susteren",
+      "latitude": 51.102597,
+      "longitude": 5.872439,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 32,
+      "name": "Gemeentearchief Ede en Scherpenzeel",
+      "latitude": 52.045675,
+      "longitude": 5.675019,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 33,
+      "name": "Gemeentearchief Eemsdelta",
+      "latitude": 53.320052,
+      "longitude": 6.857598,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 34,
+      "name": "Gemeentearchief Eemsdelta",
+      "latitude": 53.332243,
+      "longitude": 6.92348,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 35,
+      "name": "Gemeentearchief Eemsdelta",
+      "latitude": 53.333663,
+      "longitude": 6.746065,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 36,
+      "name": "Gemeentearchief Emmen",
+      "latitude": 52.784537,
+      "longitude": 6.892766,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 37,
+      "name": "Gemeentearchief Gemert-Bakel",
+      "latitude": 51.556364,
+      "longitude": 5.680572,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 38,
+      "name": "Gemeentearchief Gennep",
+      "latitude": 51.701981,
+      "longitude": 5.968308,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 39,
+      "name": "Gemeentearchief Goes",
+      "latitude": 51.499407,
+      "longitude": 3.886082,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 40,
+      "name": "Gemeentearchief Gooise Meren en Huizen",
+      "latitude": 52.296458,
+      "longitude": 5.16171,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 41,
+      "name": "Gemeentearchief Haaksbergen",
+      "latitude": 52.155223,
+      "longitude": 6.742599,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 42,
+      "name": "Gemeentearchief Hardenberg",
+      "latitude": 52.573461,
+      "longitude": 6.618868,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 43,
+      "name": "Gemeentearchief Harlingen",
+      "latitude": 53.174541,
+      "longitude": 5.419229,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 44,
+      "name": "Gemeentearchief Heerenveen",
+      "latitude": 52.96176,
+      "longitude": 5.92126,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 45,
+      "name": "Gemeentearchief Hellendoorn",
+      "latitude": 52.364102,
+      "longitude": 6.461498,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 46,
+      "name": "Gemeentearchief Hengelo",
+      "latitude": 52.266668,
+      "longitude": 6.791614,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 47,
+      "name": "Gemeentearchief Het Hogeland",
+      "latitude": 53.300694,
+      "longitude": 6.600921,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 48,
+      "name": "Gemeentearchief Het Hogeland",
+      "latitude": 53.327708,
+      "longitude": 6.515498,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 49,
+      "name": "Gemeentearchief Het Hogeland",
+      "latitude": 53.361817,
+      "longitude": 6.37619,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 50,
+      "name": "Gemeentearchief Het Hogeland",
+      "latitude": 53.407313,
+      "longitude": 6.672845,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 51,
+      "name": "Gemeentearchief Hof van Twente",
+      "latitude": 52.233177,
+      "longitude": 6.58497,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 52,
+      "name": "Gemeentearchief Hoogeveen",
+      "latitude": 52.72616,
+      "longitude": 6.474721,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 53,
+      "name": "Gemeentearchief Horst aan de Maas",
+      "latitude": 51.454361,
+      "longitude": 6.052104,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 54,
+      "name": "Gemeentearchief Hulst",
+      "latitude": 51.279485,
+      "longitude": 4.054307,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 55,
+      "name": "Gemeentearchief Kerkrade",
+      "latitude": 50.865136,
+      "longitude": 6.06295,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 56,
+      "name": "Gemeentearchief Meppel",
+      "latitude": 52.699267,
+      "longitude": 6.188042,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 57,
+      "name": "Gemeentearchief Midden-Drenthe",
+      "latitude": 52.860385,
+      "longitude": 6.514871,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 58,
+      "name": "Gemeentearchief Nederweert",
+      "latitude": 51.283269,
+      "longitude": 5.747026,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 59,
+      "name": "Gemeentearchief Nijkerk",
+      "latitude": 52.22643,
+      "longitude": 5.483116,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 60,
+      "name": "Gemeentearchief Noord-Beveland",
+      "latitude": 51.585075,
+      "longitude": 3.747063,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 61,
+      "name": "Gemeentearchief Noordenveld",
+      "latitude": 53.136869,
+      "longitude": 6.433643,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 62,
+      "name": "Gemeentearchief Noordoostpolder",
+      "latitude": 52.709693,
+      "longitude": 5.747417,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 63,
+      "name": "Gemeentearchief Oldambt",
+      "latitude": 53.144206,
+      "longitude": 7.039284,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 64,
+      "name": "Gemeentearchief Oldambt",
+      "latitude": 53.176195,
+      "longitude": 6.971939,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 65,
+      "name": "Gemeentearchief Ommen",
+      "latitude": 52.573458,
+      "longitude": 6.619056,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 66,
+      "name": "Gemeentearchief Ooststellingwerf",
+      "latitude": 52.994771,
+      "longitude": 6.294006,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 67,
+      "name": "Gemeentearchief Opsterland",
+      "latitude": 53.058716,
+      "longitude": 6.079805,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 68,
+      "name": "Gemeentearchief Peel en Mas",
+      "latitude": 51.329905,
+      "longitude": 5.978726,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 69,
+      "name": "Gemeentearchief Pekela",
+      "latitude": 53.104395,
+      "longitude": 7.00828,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 70,
+      "name": "Gemeentearchief Putten",
+      "latitude": 52.261621,
+      "longitude": 5.607609,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 71,
+      "name": "Gemeentearchief Raalte",
+      "latitude": 52.388153,
+      "longitude": 6.272261,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 72,
+      "name": "Gemeentearchief Reimerswaal",
+      "latitude": 51.450088,
+      "longitude": 4.033233,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 73,
+      "name": "Gemeentearchief Rijssen-Holten",
+      "latitude": 52.307258,
+      "longitude": 6.522239,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 74,
+      "name": "Gemeentearchief Roermond",
+      "latitude": 51.196305,
+      "longitude": 5.986622,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 75,
+      "name": "Gemeentearchief Schiedam",
+      "latitude": 51.918276,
+      "longitude": 4.403612,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 76,
+      "name": "Gemeentearchief Sluis",
+      "latitude": 51.326124,
+      "longitude": 3.486859,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 77,
+      "name": "Gemeentearchief Smallingerland",
+      "latitude": 53.103703,
+      "longitude": 6.097052,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 78,
+      "name": "Gemeentearchief Stadskanaal",
+      "latitude": 52.98961,
+      "longitude": 6.95477,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 79,
+      "name": "Gemeentearchief Staphorst",
+      "latitude": 52.643932,
+      "longitude": 6.210724,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 80,
+      "name": "Gemeentearchief Steenwijkerland",
+      "latitude": 52.782945,
+      "longitude": 6.117047,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 81,
+      "name": "Gemeentearchief Súdwest-Fryslân",
+      "latitude": 53.062023,
+      "longitude": 5.523189,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 82,
+      "name": "Gemeentearchief Terschelling",
+      "latitude": 53.364275,
+      "longitude": 5.216954,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 83,
+      "name": "Gemeentearchief Tholen",
+      "latitude": 51.532322,
+      "longitude": 4.205062,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 84,
+      "name": "Gemeentearchief Tubbergen",
+      "latitude": 52.408153,
+      "longitude": 6.780563,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 85,
+      "name": "Gemeentearchief Twenterand",
+      "latitude": 52.408906,
+      "longitude": 6.62495,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 86,
+      "name": "Gemeentearchief Tynaarlo",
+      "latitude": 53.079238,
+      "longitude": 6.58301,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 87,
+      "name": "Gemeentearchief Tytsjerksteradiel",
+      "latitude": 53.188547,
+      "longitude": 5.989786,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 88,
+      "name": "Gemeentearchief Veendam",
+      "latitude": 53.104315,
+      "longitude": 6.877858,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 89,
+      "name": "Gemeentearchief Venlo",
+      "latitude": 51.378373,
+      "longitude": 6.174317,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 90,
+      "name": "Gemeentearchief Venray",
+      "latitude": 51.528935,
+      "longitude": 5.97574,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 91,
+      "name": "Gemeentearchief Vlieland",
+      "latitude": 53.29495,
+      "longitude": 5.06566,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 92,
+      "name": "Gemeentearchief Voorst",
+      "latitude": 52.236588,
+      "longitude": 6.109572,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 93,
+      "name": "Gemeentearchief Waadhoeke",
+      "latitude": 53.18488,
+      "longitude": 5.53177,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 94,
+      "name": "Gemeentearchief Wageningen",
+      "latitude": 51.964454,
+      "longitude": 5.663432,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 95,
+      "name": "Gemeentearchief Wassenaar en Voorschoten",
+      "latitude": 52.135809,
+      "longitude": 4.398431,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 96,
+      "name": "Gemeentearchief Weert",
+      "latitude": 51.25501,
+      "longitude": 5.70413,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 97,
+      "name": "Gemeentearchief Westerkwartier",
+      "latitude": 53.146124,
+      "longitude": 6.26722,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 98,
+      "name": "Gemeentearchief Westerkwartier",
+      "latitude": 53.166242,
+      "longitude": 6.386469,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 99,
+      "name": "Gemeentearchief Westerkwartier",
+      "latitude": 53.213594,
+      "longitude": 6.278153,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 100,
+      "name": "Gemeentearchief Westerkwartier",
+      "latitude": 53.249001,
+      "longitude": 6.407027,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 101,
+      "name": "Gemeentearchief Westerveld",
+      "latitude": 52.858808,
+      "longitude": 6.309857,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 102,
+      "name": "Gemeentearchief Westerwolde",
+      "latitude": 52.946875,
+      "longitude": 7.145946,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 103,
+      "name": "Gemeentearchief Weststellingwerf",
+      "latitude": 52.876165,
+      "longitude": 6.006157,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 104,
+      "name": "Gemeentearchief Wierden",
+      "latitude": 52.355793,
+      "longitude": 6.592894,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 105,
+      "name": "Gemeentearchief Zaanstad",
+      "latitude": 52.438492,
+      "longitude": 4.814596,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 106,
+      "name": "Gemeentearchief Zeist",
+      "latitude": 52.082417,
+      "longitude": 5.238905,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 107,
+      "name": "Groninger Archieven",
+      "latitude": 53.211599,
+      "longitude": 6.560494,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 108,
+      "name": "Haags Gemeentearchief",
+      "latitude": 52.077977,
+      "longitude": 4.316908,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 109,
+      "name": "Het Flevolands Archief",
+      "latitude": 52.521211,
+      "longitude": 5.436958,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 110,
+      "name": "Het Utrechts Archief",
+      "latitude": 52.100936,
+      "longitude": 5.131603,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 111,
+      "name": "Historisch Archief Midden-Groningen",
+      "latitude": 53.153398,
+      "longitude": 6.75683,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 112,
+      "name": "Historisch Archief Westland",
+      "latitude": 51.99386,
+      "longitude": 4.211107,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 113,
+      "name": "Historisch Centrum Leeuwarden",
+      "latitude": 53.203938,
+      "longitude": 5.791559,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 114,
+      "name": "Historisch Centrum Limburg",
+      "latitude": 50.845786,
+      "longitude": 5.692711,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 115,
+      "name": "Historisch Centrum Limburg",
+      "latitude": 50.922038,
+      "longitude": 5.965372,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 116,
+      "name": "IHLIA",
+      "latitude": 52.376036,
+      "longitude": 4.908208,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 117,
+      "name": "Nationaal Archief",
+      "latitude": 52.081057,
+      "longitude": 4.326225,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 118,
+      "name": "Nationaal Archief Emmen",
+      "latitude": 52.795433,
+      "longitude": 6.900559,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 119,
+      "name": "Regioarchief Sittard-Geleen",
+      "latitude": 50.999176,
+      "longitude": 5.868371,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 120,
+      "name": "Regionaal Archief Alkmaar",
+      "latitude": 52.635738,
+      "longitude": 4.73719,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 121,
+      "name": "Regionaal Archief Dordrecht",
+      "latitude": 51.815636,
+      "longitude": 4.670111,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 122,
+      "name": "Regionaal Archief Gorinchem",
+      "latitude": 51.832468,
+      "longitude": 4.964659,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 123,
+      "name": "Regionaal Archief Nijmegen",
+      "latitude": 51.845424,
+      "longitude": 5.866862,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 124,
+      "name": "Regionaal Archief Rivierenland",
+      "latitude": 51.885812,
+      "longitude": 5.419496,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 125,
+      "name": "Regionaal Archief Tilburg",
+      "latitude": 51.555985,
+      "longitude": 5.09402,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 126,
+      "name": "Regionaal Archief Zuid-Utrecht",
+      "latitude": 51.975308,
+      "longitude": 5.341274,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 127,
+      "name": "Regionaal Historisch Centrum Eindhoven",
+      "latitude": 51.440785,
+      "longitude": 5.481717,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 128,
+      "name": "Regionaal Historisch Centrum Rijnstreek en Lopikerwaard",
+      "latitude": 52.078887,
+      "longitude": 4.888774,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 129,
+      "name": "Regionaal Historisch Centrum Vecht en Venen",
+      "latitude": 52.177839,
+      "longitude": 4.997503,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 130,
+      "name": "Stadsarchief Almere",
+      "latitude": 52.371216,
+      "longitude": 5.220835,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 131,
+      "name": "Stadsarchief Amsterdam",
+      "latitude": 52.36456,
+      "longitude": 4.892391,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 132,
+      "name": "Stadsarchief Breda",
+      "latitude": 51.58481,
+      "longitude": 4.780068,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 133,
+      "name": "Stadsarchief Delft",
+      "latitude": 52.006454,
+      "longitude": 4.321054,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 134,
+      "name": "Stadsarchief Enschede",
+      "latitude": 52.219411,
+      "longitude": 6.896984,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 135,
+      "name": "Stadsarchief Kampen",
+      "latitude": 52.561012,
+      "longitude": 5.914358,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 136,
+      "name": "Stadsarchief Oldenzaal",
+      "latitude": 52.312399,
+      "longitude": 6.930449,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 137,
+      "name": "Stadsarchief Rotterdam",
+      "latitude": 51.92737,
+      "longitude": 4.480835,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 138,
+      "name": "Stadsarchief Vlaardingen",
+      "latitude": 51.917337,
+      "longitude": 4.347326,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 139,
+      "name": "Stadsarchief Zoetermeer",
+      "latitude": 52.060714,
+      "longitude": 4.492917,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 140,
+      "name": "Streekarchief Epe, Hattem en Heerde",
+      "latitude": 52.349505,
+      "longitude": 5.985885,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 141,
+      "name": "Streekarchief Goeree-Overflakkee",
+      "latitude": 51.756108,
+      "longitude": 4.178362,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 142,
+      "name": "Streekarchief Langstraat Heusden Altena",
+      "latitude": 51.733806,
+      "longitude": 5.137903,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 143,
+      "name": "Streekarchief Midden-Holland",
+      "latitude": 52.012153,
+      "longitude": 4.716424,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 144,
+      "name": "Streekarchief Voorne-Putten",
+      "latitude": 51.894855,
+      "longitude": 4.157413,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 145,
+      "name": "Streekarchivariaat Noordwest-Veluwe",
+      "latitude": 52.300734,
+      "longitude": 5.617727,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 146,
+      "name": "Streekarchivariaat Noordwest-Veluwe",
+      "latitude": 52.351708,
+      "longitude": 5.623188,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 147,
+      "name": "Streekarchivariaat Noordwest-Veluwe",
+      "latitude": 52.376814,
+      "longitude": 5.784032,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 148,
+      "name": "Streekarchivariaat Noordwest-Veluwe",
+      "latitude": 52.441864,
+      "longitude": 5.855642,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 149,
+      "name": "Streekarchivariaat Noordwest-Veluwe",
+      "latitude": 52.445948,
+      "longitude": 5.89987,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 150,
+      "name": "Streekarchivariaat de Liemers en Doesburg",
+      "latitude": 51.924149,
+      "longitude": 6.076161,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 151,
+      "name": "Streekarchivariaat de Liemers en Doesburg",
+      "latitude": 51.948571,
+      "longitude": 6.024715,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 152,
+      "name": "Streekarchivariaat de Liemers en Doesburg",
+      "latitude": 52.016669,
+      "longitude": 6.135714,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 153,
+      "name": "Streekargyf Noardeast-Fryslân",
+      "latitude": 53.327862,
+      "longitude": 6.009167,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 154,
+      "name": "Tresoar",
+      "latitude": 53.203643,
+      "longitude": 5.78972,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 155,
+      "name": "Waterlands Archief",
+      "latitude": 52.504927,
+      "longitude": 4.956818,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 156,
+      "name": "West-Brabants Archief",
+      "latitude": 51.496252,
+      "longitude": 4.285802,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 157,
+      "name": "Westfries Archief",
+      "latitude": 52.647475,
+      "longitude": 5.042743,
+      "osm_klasse": "amenity=archive"
+    },
+    {
+      "id": 158,
+      "name": "Zeeuws Archief",
+      "latitude": 51.50138,
+      "longitude": 3.612673,
+      "osm_klasse": "amenity=archive"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: archive (amenity=archive) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=archive in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 158 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: archive (amenity=archive) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: archive (amenity=archive) — 158 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 158 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

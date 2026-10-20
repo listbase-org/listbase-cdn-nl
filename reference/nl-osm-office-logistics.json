@@ -1,0 +1,1997 @@
+{
+  "id": "nl-osm-office-logistics",
+  "name": "Netherlands OSM: logistics (office=logistics)",
+  "title": "Netherlands OSM: logistics (office=logistics)",
+  "description": "Named OpenStreetMap features tagged office=logistics in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 278,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "2 Sisters Storteboom",
+      "latitude": 52.247273,
+      "longitude": 5.607995,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 2,
+      "name": "ALDI",
+      "latitude": 53.113877,
+      "longitude": 6.066464,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 3,
+      "name": "ALDI Distributiecentrum",
+      "latitude": 51.937793,
+      "longitude": 5.201449,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 4,
+      "name": "ALDI distributiecentrum",
+      "latitude": 51.170259,
+      "longitude": 6.03003,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 5,
+      "name": "ARAS Security Logistiek",
+      "latitude": 51.695059,
+      "longitude": 5.159415,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 6,
+      "name": "Abrona Post & Papier",
+      "latitude": 52.11484,
+      "longitude": 5.272928,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 7,
+      "name": "Achteres",
+      "latitude": 52.431092,
+      "longitude": 6.554436,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 8,
+      "name": "Albert Heijn Distributiecentrum",
+      "latitude": 52.495275,
+      "longitude": 6.135777,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 9,
+      "name": "Albert Heijn Distributiecentrum",
+      "latitude": 52.496374,
+      "longitude": 6.134363,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 10,
+      "name": "Albert Heijn Distributiecentrum",
+      "latitude": 52.640557,
+      "longitude": 5.098512,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 11,
+      "name": "Albert Heijn Distributiecentrum",
+      "latitude": 52.641846,
+      "longitude": 5.098246,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 12,
+      "name": "Albert Heijn Distributiecentrum Pijnacker",
+      "latitude": 51.994661,
+      "longitude": 4.397748,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 13,
+      "name": "Albert Heijn Online Vlissingen",
+      "latitude": 51.471635,
+      "longitude": 3.59311,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 14,
+      "name": "Alblas",
+      "latitude": 51.787564,
+      "longitude": 4.611783,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 15,
+      "name": "Alloga",
+      "latitude": 51.593684,
+      "longitude": 5.522003,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 16,
+      "name": "Anton Raamsman",
+      "latitude": 52.367659,
+      "longitude": 6.377639,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 17,
+      "name": "Arthrex, distributiecentrum Europa",
+      "latitude": 51.38523,
+      "longitude": 6.137428,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 18,
+      "name": "Arvato Netherlands B.V.",
+      "latitude": 51.812704,
+      "longitude": 4.557517,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 19,
+      "name": "BBG Logistics",
+      "latitude": 53.172264,
+      "longitude": 5.451476,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 20,
+      "name": "BF Global Logistics",
+      "latitude": 51.60028,
+      "longitude": 5.009282,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 21,
+      "name": "Bakker Groep",
+      "latitude": 51.537054,
+      "longitude": 5.037507,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 22,
+      "name": "Bakker Groep Mainfreight",
+      "latitude": 51.535292,
+      "longitude": 5.03425,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 23,
+      "name": "Bakker Logistiek",
+      "latitude": 52.357124,
+      "longitude": 5.512387,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 24,
+      "name": "Baks Logistiek",
+      "latitude": 52.123757,
+      "longitude": 6.533164,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 25,
+      "name": "Balikbayan-Nederland",
+      "latitude": 52.007959,
+      "longitude": 4.350896,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 26,
+      "name": "Bay6 Logistics",
+      "latitude": 52.167209,
+      "longitude": 5.359058,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 27,
+      "name": "Bea Nederland",
+      "latitude": 51.822337,
+      "longitude": 4.438329,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 28,
+      "name": "Beaufort",
+      "latitude": 51.813602,
+      "longitude": 4.656733,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 29,
+      "name": "Beekman Transport",
+      "latitude": 52.195624,
+      "longitude": 5.940699,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 30,
+      "name": "Beko Groothandel",
+      "latitude": 52.709065,
+      "longitude": 6.194815,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 31,
+      "name": "Bertschi BV",
+      "latitude": 51.34172,
+      "longitude": 3.748776,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 32,
+      "name": "Boodschappenonline",
+      "latitude": 52.713094,
+      "longitude": 6.194403,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 33,
+      "name": "Boom Laboratoriumleverancier",
+      "latitude": 52.712399,
+      "longitude": 6.202273,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 34,
+      "name": "Bosma Transport & Opslag B.V.",
+      "latitude": 52.973519,
+      "longitude": 5.886704,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 35,
+      "name": "Broekman Logistics Weert BV",
+      "latitude": 51.274549,
+      "longitude": 5.722222,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 36,
+      "name": "Burgler Transport",
+      "latitude": 53.253842,
+      "longitude": 6.390019,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 37,
+      "name": "Burko",
+      "latitude": 52.353787,
+      "longitude": 5.49701,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 38,
+      "name": "Busser Logistiek bv",
+      "latitude": 52.002852,
+      "longitude": 5.659166,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 39,
+      "name": "CEVA Logistics Netherlands",
+      "latitude": 51.517136,
+      "longitude": 6.013636,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 40,
+      "name": "CEVA Logistics Netherlands",
+      "latitude": 51.517312,
+      "longitude": 6.008919,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 41,
+      "name": "CSE Warehousing",
+      "latitude": 51.063252,
+      "longitude": 5.82153,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 42,
+      "name": "CSE Warehousing",
+      "latitude": 51.271443,
+      "longitude": 5.720312,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 43,
+      "name": "CTU",
+      "latitude": 52.110825,
+      "longitude": 5.074727,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 44,
+      "name": "Cabooter Logistics",
+      "latitude": 51.384656,
+      "longitude": 6.145202,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 45,
+      "name": "Cargo Service Europe",
+      "latitude": 51.787197,
+      "longitude": 5.545553,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 46,
+      "name": "Cargoplanner - Koerier Limburg",
+      "latitude": 50.851773,
+      "longitude": 6.014523,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 47,
+      "name": "Certa Logistics",
+      "latitude": 52.080897,
+      "longitude": 5.06145,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 48,
+      "name": "City Hub",
+      "latitude": 52.146869,
+      "longitude": 4.483076,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 49,
+      "name": "Cold Chain Technologies",
+      "latitude": 51.613114,
+      "longitude": 4.764306,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 50,
+      "name": "Cromstrijen Warehousing",
+      "latitude": 51.747975,
+      "longitude": 4.447362,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 51,
+      "name": "Cuppen Logistics BV",
+      "latitude": 51.477519,
+      "longitude": 6.043741,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 52,
+      "name": "DB Schenker",
+      "latitude": 51.41081,
+      "longitude": 6.098217,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 53,
+      "name": "DB Schenker",
+      "latitude": 51.535321,
+      "longitude": 5.044735,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 54,
+      "name": "DB Schenker",
+      "latitude": 51.538044,
+      "longitude": 5.040504,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 55,
+      "name": "DB Schenker Ede",
+      "latitude": 52.030714,
+      "longitude": 5.622278,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 56,
+      "name": "DHG",
+      "latitude": 51.871509,
+      "longitude": 4.557729,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 57,
+      "name": "DHL",
+      "latitude": 51.470922,
+      "longitude": 5.421805,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 58,
+      "name": "DHL",
+      "latitude": 51.94822,
+      "longitude": 5.88415,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 59,
+      "name": "DHL",
+      "latitude": 52.008344,
+      "longitude": 4.312894,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 60,
+      "name": "DHL Distributiecentrum Leek",
+      "latitude": 53.152942,
+      "longitude": 6.366407,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 61,
+      "name": "DHL ServicePoint",
+      "latitude": 52.408753,
+      "longitude": 4.735294,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 62,
+      "name": "DHL Supply Chain Wijchen 1",
+      "latitude": 51.820996,
+      "longitude": 5.769852,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 63,
+      "name": "DHL Supply Chain Wijchen 2",
+      "latitude": 51.821382,
+      "longitude": 5.772113,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 64,
+      "name": "DPD",
+      "latitude": 51.978399,
+      "longitude": 4.452946,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 65,
+      "name": "DSV",
+      "latitude": 50.915848,
+      "longitude": 5.795764,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 66,
+      "name": "DSV",
+      "latitude": 51.404769,
+      "longitude": 6.090216,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 67,
+      "name": "DSV",
+      "latitude": 51.408581,
+      "longitude": 6.092087,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 68,
+      "name": "DSV",
+      "latitude": 51.408687,
+      "longitude": 6.089846,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 69,
+      "name": "DSV",
+      "latitude": 51.410943,
+      "longitude": 6.094164,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 70,
+      "name": "DSV",
+      "latitude": 51.414686,
+      "longitude": 6.07583,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 71,
+      "name": "DSV",
+      "latitude": 51.508698,
+      "longitude": 4.265811,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 72,
+      "name": "DSV",
+      "latitude": 51.520901,
+      "longitude": 6.027331,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 73,
+      "name": "DSV",
+      "latitude": 51.544685,
+      "longitude": 4.21634,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 74,
+      "name": "DSV",
+      "latitude": 51.688014,
+      "longitude": 4.641624,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 75,
+      "name": "DSV",
+      "latitude": 51.693645,
+      "longitude": 5.877736,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 76,
+      "name": "DSV",
+      "latitude": 51.872209,
+      "longitude": 6.293272,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 77,
+      "name": "DSV",
+      "latitude": 52.406119,
+      "longitude": 4.73779,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 78,
+      "name": "DSV Solutions Moerdijk",
+      "latitude": 51.656785,
+      "longitude": 4.565988,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 79,
+      "name": "DTm Services",
+      "latitude": 52.362093,
+      "longitude": 6.502017,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 80,
+      "name": "Dasko",
+      "latitude": 52.442861,
+      "longitude": 6.57891,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 81,
+      "name": "De Geus Transport",
+      "latitude": 51.789173,
+      "longitude": 4.611722,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 82,
+      "name": "De Haas Transport",
+      "latitude": 52.092819,
+      "longitude": 4.470045,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 83,
+      "name": "De Jonge Internationale Berging en Transport",
+      "latitude": 52.735693,
+      "longitude": 6.512905,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 84,
+      "name": "De Klok Logistics",
+      "latitude": 51.853278,
+      "longitude": 5.831394,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 85,
+      "name": "De Rooy Logistics Oud Gastel B.V.",
+      "latitude": 51.578456,
+      "longitude": 4.465332,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 86,
+      "name": "Deen Shipping",
+      "latitude": 51.817807,
+      "longitude": 4.657212,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 87,
+      "name": "Diepvries Distributiecentrum Jumbo",
+      "latitude": 52.375954,
+      "longitude": 6.289328,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 88,
+      "name": "Distributiecentrum Gall & Gall",
+      "latitude": 51.992977,
+      "longitude": 4.393362,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 89,
+      "name": "Distributiecentrum PLUS",
+      "latitude": 51.738083,
+      "longitude": 5.565381,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 90,
+      "name": "Distributiecentrum Picnic",
+      "latitude": 51.872928,
+      "longitude": 5.318913,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 91,
+      "name": "Diversi Foods",
+      "latitude": 52.710182,
+      "longitude": 6.197245,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 92,
+      "name": "Duineveld Transport",
+      "latitude": 52.435421,
+      "longitude": 4.650614,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 93,
+      "name": "Dynalogic",
+      "latitude": 50.925678,
+      "longitude": 5.882248,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 94,
+      "name": "Dynalogic",
+      "latitude": 51.602465,
+      "longitude": 4.774432,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 95,
+      "name": "Dynalogic",
+      "latitude": 52.034705,
+      "longitude": 4.529376,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 96,
+      "name": "Dynalogic",
+      "latitude": 52.490128,
+      "longitude": 6.123297,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 97,
+      "name": "E-fulfilment center Jumbo",
+      "latitude": 52.034334,
+      "longitude": 4.53557,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 98,
+      "name": "Elka Pieterman",
+      "latitude": 51.613795,
+      "longitude": 4.764568,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 99,
+      "name": "Enzerink Transport",
+      "latitude": 52.182884,
+      "longitude": 5.99409,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 100,
+      "name": "Enzerink Transport",
+      "latitude": 52.301408,
+      "longitude": 5.993918,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 101,
+      "name": "Erasmus Koeriers",
+      "latitude": 51.922335,
+      "longitude": 4.50394,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 102,
+      "name": "FOOX",
+      "latitude": 52.031222,
+      "longitude": 4.650651,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 103,
+      "name": "Fair Trade Solutions",
+      "latitude": 52.02828,
+      "longitude": 4.578433,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 104,
+      "name": "Fair Trade Solutions",
+      "latitude": 52.290446,
+      "longitude": 4.765809,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 105,
+      "name": "FedEx Express",
+      "latitude": 51.762924,
+      "longitude": 4.631816,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 106,
+      "name": "Fedex",
+      "latitude": 51.393357,
+      "longitude": 6.065589,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 107,
+      "name": "Fedex Express",
+      "latitude": 51.912335,
+      "longitude": 5.869206,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 108,
+      "name": "Fetim Group",
+      "latitude": 52.406687,
+      "longitude": 4.73262,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 109,
+      "name": "Flextronics Global Services",
+      "latitude": 51.518131,
+      "longitude": 6.017081,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 110,
+      "name": "FrieslandCampina",
+      "latitude": 52.719614,
+      "longitude": 6.197687,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 111,
+      "name": "G&C De Bot Logistics",
+      "latitude": 51.533837,
+      "longitude": 4.449177,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 112,
+      "name": "G.I.L.S Worldwide Netherlands",
+      "latitude": 51.878257,
+      "longitude": 4.589395,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 113,
+      "name": "GC Continental",
+      "latitude": 52.474102,
+      "longitude": 4.676569,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 114,
+      "name": "GXO",
+      "latitude": 51.534199,
+      "longitude": 5.034451,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 115,
+      "name": "Gebr. Versteijnen Transport & Logistics B.V.",
+      "latitude": 51.599866,
+      "longitude": 5.013069,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 116,
+      "name": "Greenery Breda Distributiecentrum Zachtfruit",
+      "latitude": 51.588713,
+      "longitude": 4.728316,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 117,
+      "name": "Greving Transport",
+      "latitude": 52.735662,
+      "longitude": 6.51708,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 118,
+      "name": "Grolleman Coldstore",
+      "latitude": 52.199688,
+      "longitude": 6.02947,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 119,
+      "name": "HEMA Distributiecentrum",
+      "latitude": 52.110394,
+      "longitude": 5.062216,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 120,
+      "name": "Havep Logistics",
+      "latitude": 51.514505,
+      "longitude": 5.058271,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 121,
+      "name": "HealthLink Europe",
+      "latitude": 51.700011,
+      "longitude": 5.063816,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 122,
+      "name": "Heitink Transport",
+      "latitude": 52.509157,
+      "longitude": 5.959277,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 123,
+      "name": "Heveck VriesVers B.V.",
+      "latitude": 52.02192,
+      "longitude": 5.103552,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 124,
+      "name": "Holtrop & van der Vlist",
+      "latitude": 52.994173,
+      "longitude": 6.520791,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 125,
+      "name": "Hoogvliet Distributiecentrum",
+      "latitude": 52.039184,
+      "longitude": 4.533758,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 126,
+      "name": "Hooymeijer Container Transport",
+      "latitude": 51.934458,
+      "longitude": 3.980097,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 127,
+      "name": "Huibers Transport",
+      "latitude": 51.916005,
+      "longitude": 5.640064,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 128,
+      "name": "Huisman Transport",
+      "latitude": 51.883501,
+      "longitude": 5.579534,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 129,
+      "name": "Hulster Transport en Containerservice BV",
+      "latitude": 52.373274,
+      "longitude": 4.702021,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 130,
+      "name": "Huuskes",
+      "latitude": 51.856147,
+      "longitude": 5.736677,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 131,
+      "name": "Huuskes",
+      "latitude": 52.23046,
+      "longitude": 5.464062,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 132,
+      "name": "Huuskes",
+      "latitude": 52.23472,
+      "longitude": 6.834212,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 133,
+      "name": "Huuskes",
+      "latitude": 52.236493,
+      "longitude": 6.831043,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 134,
+      "name": "I&L Logistiek",
+      "latitude": 51.575854,
+      "longitude": 5.127856,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 135,
+      "name": "ID Logistics",
+      "latitude": 52.197054,
+      "longitude": 6.03353,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 136,
+      "name": "Inmark Europe B.V.",
+      "latitude": 51.534473,
+      "longitude": 5.040689,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 137,
+      "name": "Intergamma",
+      "latitude": 51.91247,
+      "longitude": 5.44393,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 138,
+      "name": "Interloop",
+      "latitude": 52.359665,
+      "longitude": 6.498118,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 139,
+      "name": "Internationaal Transport van Veluw",
+      "latitude": 52.164588,
+      "longitude": 5.567594,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 140,
+      "name": "Intertrans Airfreight",
+      "latitude": 52.290406,
+      "longitude": 4.767072,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 141,
+      "name": "Intertrans Oceanfreight",
+      "latitude": 51.87829,
+      "longitude": 4.589336,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 142,
+      "name": "Intertrans Roadfreight",
+      "latitude": 51.553365,
+      "longitude": 4.461247,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 143,
+      "name": "J&R Trucking",
+      "latitude": 51.580021,
+      "longitude": 5.127433,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 144,
+      "name": "J. Verhoeven Melktransport",
+      "latitude": 51.512184,
+      "longitude": 4.992922,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 145,
+      "name": "JC Geerligs Transport",
+      "latitude": 52.703297,
+      "longitude": 4.779488,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 146,
+      "name": "JCL Logistics",
+      "latitude": 51.875511,
+      "longitude": 6.277351,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 147,
+      "name": "JPB Logistics B.V. Winschoten",
+      "latitude": 53.135474,
+      "longitude": 7.057522,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 148,
+      "name": "Jan Bakker",
+      "latitude": 52.482959,
+      "longitude": 6.01861,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 149,
+      "name": "Jan De Lely",
+      "latitude": 51.888111,
+      "longitude": 5.298843,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 150,
+      "name": "Jan de Rijk Logistics",
+      "latitude": 51.548206,
+      "longitude": 4.497007,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 151,
+      "name": "Jumbo NDC",
+      "latitude": 52.053543,
+      "longitude": 5.119043,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 152,
+      "name": "Jumbo distributiecentrum",
+      "latitude": 52.076622,
+      "longitude": 4.91015,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 153,
+      "name": "K. Overdevest Transport",
+      "latitude": 51.577932,
+      "longitude": 4.456596,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 154,
+      "name": "Kamar",
+      "latitude": 51.814602,
+      "longitude": 4.652013,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 155,
+      "name": "Kappa Koerier",
+      "latitude": 51.940709,
+      "longitude": 4.406049,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 156,
+      "name": "Koninklijke van der Wees",
+      "latitude": 51.802596,
+      "longitude": 4.646245,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 157,
+      "name": "Koopman TransMission",
+      "latitude": 53.254136,
+      "longitude": 6.392827,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 158,
+      "name": "Kotra Logistics",
+      "latitude": 51.47721,
+      "longitude": 4.055754,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 159,
+      "name": "Kotra Logistics",
+      "latitude": 51.478869,
+      "longitude": 4.0552,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 160,
+      "name": "Kramp Transport Numansdorp",
+      "latitude": 51.749167,
+      "longitude": 4.45302,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 161,
+      "name": "Kuehne+Nagel",
+      "latitude": 52.429491,
+      "longitude": 4.775627,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 162,
+      "name": "Kwantum Logistics",
+      "latitude": 51.538728,
+      "longitude": 5.035141,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 163,
+      "name": "LCW Groningen",
+      "latitude": 53.207091,
+      "longitude": 6.480107,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 164,
+      "name": "LV Logistics Nederland",
+      "latitude": 51.933938,
+      "longitude": 3.983252,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 165,
+      "name": "Lehmann & Troost",
+      "latitude": 52.016266,
+      "longitude": 4.628495,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 166,
+      "name": "Lidl Distibutiecentrum",
+      "latitude": 52.977214,
+      "longitude": 5.950333,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 167,
+      "name": "Lineage",
+      "latitude": 52.461783,
+      "longitude": 4.582048,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 168,
+      "name": "Lohuis Nijverdal",
+      "latitude": 52.355491,
+      "longitude": 6.492628,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 169,
+      "name": "M&D Logistics",
+      "latitude": 51.291244,
+      "longitude": 6.092218,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 170,
+      "name": "MST Martijn Schellekens Transport",
+      "latitude": 51.521833,
+      "longitude": 5.013797,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 171,
+      "name": "Maaskade",
+      "latitude": 51.81519,
+      "longitude": 4.652913,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 172,
+      "name": "Mailboxes Etc.",
+      "latitude": 51.367551,
+      "longitude": 6.170691,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 173,
+      "name": "Mainfreight",
+      "latitude": 51.873045,
+      "longitude": 6.287866,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 174,
+      "name": "Mammoet Ferry Transport BV",
+      "latitude": 51.923559,
+      "longitude": 4.176418,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 175,
+      "name": "Mandersloot",
+      "latitude": 52.085038,
+      "longitude": 5.468716,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 176,
+      "name": "Mantrans bv",
+      "latitude": 52.064373,
+      "longitude": 5.511391,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 177,
+      "name": "Middendorp Logistiek",
+      "latitude": 52.097318,
+      "longitude": 4.460735,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 178,
+      "name": "Naeye Logistics",
+      "latitude": 51.279905,
+      "longitude": 3.90367,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 179,
+      "name": "Nassau Sneltransport",
+      "latitude": 51.591061,
+      "longitude": 4.728259,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 180,
+      "name": "Nature & More",
+      "latitude": 52.022821,
+      "longitude": 4.619153,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 181,
+      "name": "Nautica",
+      "latitude": 51.814099,
+      "longitude": 4.651115,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 182,
+      "name": "Nedcargo Logistics Group - Tiel",
+      "latitude": 51.907427,
+      "longitude": 5.455233,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 183,
+      "name": "Nunner Logistics",
+      "latitude": 51.694768,
+      "longitude": 5.147212,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 184,
+      "name": "Olde Kalter Transport",
+      "latitude": 52.28126,
+      "longitude": 6.805857,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 185,
+      "name": "Opslag3.nl",
+      "latitude": 52.241769,
+      "longitude": 5.109006,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 186,
+      "name": "Overmeer Transport B.V.",
+      "latitude": 51.803018,
+      "longitude": 4.434535,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 187,
+      "name": "PHC Europe B.V.",
+      "latitude": 51.614369,
+      "longitude": 4.764937,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 188,
+      "name": "PLUS Distributiecentrum",
+      "latitude": 52.1524,
+      "longitude": 6.721675,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 189,
+      "name": "Pak Food B.V.",
+      "latitude": 52.283117,
+      "longitude": 6.84856,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 190,
+      "name": "Parts Express Meppel",
+      "latitude": 52.715052,
+      "longitude": 6.201043,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 191,
+      "name": "Pas Reform",
+      "latitude": 51.945638,
+      "longitude": 6.277116,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 192,
+      "name": "Pense Logistics Europe",
+      "latitude": 51.540448,
+      "longitude": 4.49441,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 193,
+      "name": "Picnic - Hub Nieuwegein",
+      "latitude": 52.021345,
+      "longitude": 5.105627,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 194,
+      "name": "Picnic Fulfilment Center Dordrecht",
+      "latitude": 51.756467,
+      "longitude": 4.633468,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 195,
+      "name": "Picnic Fulfilmentcentrum NL-FCA",
+      "latitude": 52.116591,
+      "longitude": 5.051596,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 196,
+      "name": "Pol Transport",
+      "latitude": 52.703737,
+      "longitude": 6.475746,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 197,
+      "name": "PostNL",
+      "latitude": 51.408915,
+      "longitude": 6.099453,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 198,
+      "name": "PostNL",
+      "latitude": 52.030903,
+      "longitude": 4.554771,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 199,
+      "name": "PostNL",
+      "latitude": 52.323526,
+      "longitude": 4.927058,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 200,
+      "name": "PostNL Crossdock Tiel",
+      "latitude": 51.907948,
+      "longitude": 5.454875,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 201,
+      "name": "Pratt & Whitney",
+      "latitude": 51.403565,
+      "longitude": 6.074449,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 202,
+      "name": "Prins Transport",
+      "latitude": 52.584622,
+      "longitude": 6.088839,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 203,
+      "name": "Prologis",
+      "latitude": 51.700078,
+      "longitude": 5.066585,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 204,
+      "name": "Prologis",
+      "latitude": 51.700806,
+      "longitude": 5.066507,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 205,
+      "name": "Prologis Park Venlo DC1",
+      "latitude": 51.399828,
+      "longitude": 6.077526,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 206,
+      "name": "QLS Fulfilment",
+      "latitude": 51.821375,
+      "longitude": 4.706761,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 207,
+      "name": "RK Logistiek",
+      "latitude": 52.435007,
+      "longitude": 6.485429,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 208,
+      "name": "Rabelink Logistics",
+      "latitude": 51.946408,
+      "longitude": 6.226564,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 209,
+      "name": "Radial",
+      "latitude": 53.204456,
+      "longitude": 6.476343,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 210,
+      "name": "Rail Terminal Eindhoven",
+      "latitude": 51.468145,
+      "longitude": 5.425908,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 211,
+      "name": "Rhenus Logistic",
+      "latitude": 51.476576,
+      "longitude": 5.383139,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 212,
+      "name": "Rhenus Logistics",
+      "latitude": 51.540315,
+      "longitude": 5.060787,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 213,
+      "name": "Rhenus Logistics",
+      "latitude": 51.582371,
+      "longitude": 5.111277,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 214,
+      "name": "Rietveld Logistics Group",
+      "latitude": 51.666058,
+      "longitude": 4.847915,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 215,
+      "name": "Riveira Maison",
+      "latitude": 52.405611,
+      "longitude": 4.741479,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 216,
+      "name": "Rotra Forwarding",
+      "latitude": 52.018899,
+      "longitude": 6.138155,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 217,
+      "name": "Round@bout B.V.",
+      "latitude": 52.71441,
+      "longitude": 6.198881,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 218,
+      "name": "Rovers",
+      "latitude": 52.434636,
+      "longitude": 6.539633,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 219,
+      "name": "SILS",
+      "latitude": 52.197267,
+      "longitude": 6.036861,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 220,
+      "name": "Samsung SDS",
+      "latitude": 51.930032,
+      "longitude": 3.983017,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 221,
+      "name": "Scandia Terminal",
+      "latitude": 52.397183,
+      "longitude": 4.832962,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 222,
+      "name": "Schenker Logistics",
+      "latitude": 52.292706,
+      "longitude": 4.787762,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 223,
+      "name": "Schippers Group",
+      "latitude": 51.35389,
+      "longitude": 5.27398,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 224,
+      "name": "Schlechter",
+      "latitude": 51.946276,
+      "longitude": 6.222422,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 225,
+      "name": "Schut Koeriers- en vervoersbedrijf",
+      "latitude": 52.766084,
+      "longitude": 6.807292,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 226,
+      "name": "Shortcut fietskoeriers",
+      "latitude": 51.702525,
+      "longitude": 5.295935,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 227,
+      "name": "Simon Loos",
+      "latitude": 51.874736,
+      "longitude": 5.311299,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 228,
+      "name": "Simon Loos Logistiek",
+      "latitude": 51.875166,
+      "longitude": 5.308321,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 229,
+      "name": "Sligro",
+      "latitude": 52.396253,
+      "longitude": 4.780974,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 230,
+      "name": "Sligro Bezorgservice",
+      "latitude": 51.521463,
+      "longitude": 6.014407,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 231,
+      "name": "Slokkers",
+      "latitude": 51.81772,
+      "longitude": 4.656915,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 232,
+      "name": "Sluyter Logistics Assen",
+      "latitude": 53.007132,
+      "longitude": 6.596236,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 233,
+      "name": "Soetens Warehousing & Logistics",
+      "latitude": 51.509284,
+      "longitude": 5.054858,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 234,
+      "name": "Subito Servicies",
+      "latitude": 52.516633,
+      "longitude": 4.996462,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 235,
+      "name": "TCZ",
+      "latitude": 52.513816,
+      "longitude": 6.052586,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 236,
+      "name": "TGN | Fritom",
+      "latitude": 52.514125,
+      "longitude": 6.057321,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 237,
+      "name": "TNT",
+      "latitude": 52.053768,
+      "longitude": 5.111737,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 238,
+      "name": "TTS Quality Logistics",
+      "latitude": 52.105683,
+      "longitude": 6.322802,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 239,
+      "name": "Technische Unie",
+      "latitude": 51.755962,
+      "longitude": 4.556157,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 240,
+      "name": "Technische Unie",
+      "latitude": 52.131818,
+      "longitude": 4.628989,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 241,
+      "name": "Technische Unie",
+      "latitude": 52.136719,
+      "longitude": 4.639392,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 242,
+      "name": "Ten Brinke",
+      "latitude": 52.316999,
+      "longitude": 6.512714,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 243,
+      "name": "Ter Linden Transport",
+      "latitude": 51.947686,
+      "longitude": 6.277622,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 244,
+      "name": "The Sting",
+      "latitude": 51.532466,
+      "longitude": 5.042674,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 245,
+      "name": "The Sting Companies",
+      "latitude": 51.531977,
+      "longitude": 5.038739,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 246,
+      "name": "Thuisbezorgd Hub Amsterdam",
+      "latitude": 52.383404,
+      "longitude": 4.864336,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 247,
+      "name": "Tielbeke",
+      "latitude": 52.513183,
+      "longitude": 6.05428,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 248,
+      "name": "Trans Line B.V.",
+      "latitude": 52.404796,
+      "longitude": 4.801734,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 249,
+      "name": "Transportbedrijf H. Nab",
+      "latitude": 52.10963,
+      "longitude": 6.326824,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 250,
+      "name": "U-Freight",
+      "latitude": 52.290906,
+      "longitude": 4.766525,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 251,
+      "name": "UPS",
+      "latitude": 51.406239,
+      "longitude": 6.090481,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 252,
+      "name": "UPS SCS",
+      "latitude": 51.168759,
+      "longitude": 6.038381,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 253,
+      "name": "Universe Shipping",
+      "latitude": 51.813738,
+      "longitude": 4.650501,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 254,
+      "name": "Van Alphen Int. Transport BV",
+      "latitude": 51.793683,
+      "longitude": 4.626211,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 255,
+      "name": "Van Berkel Logistics",
+      "latitude": 51.617996,
+      "longitude": 5.509125,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 256,
+      "name": "Van Buren",
+      "latitude": 52.356758,
+      "longitude": 6.493614,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 257,
+      "name": "Van Driel Vervoersservice",
+      "latitude": 51.764041,
+      "longitude": 5.55521,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 258,
+      "name": "Van Heugten Transport",
+      "latitude": 52.084606,
+      "longitude": 5.47613,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 259,
+      "name": "Van Rooijen Logistiek",
+      "latitude": 51.469117,
+      "longitude": 5.428709,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 260,
+      "name": "Van Wanrooy Transport BV",
+      "latitude": 51.666223,
+      "longitude": 4.83538,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 261,
+      "name": "Van der Sluis Transport",
+      "latitude": 52.628538,
+      "longitude": 6.21584,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 262,
+      "name": "Visbeen Transport",
+      "latitude": 51.721893,
+      "longitude": 4.173416,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 263,
+      "name": "Vopak Terminal",
+      "latitude": 51.459868,
+      "longitude": 3.717457,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 264,
+      "name": "Vriesoord",
+      "latitude": 51.730222,
+      "longitude": 5.281538,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 265,
+      "name": "Walinga Transport B.V.",
+      "latitude": 53.017764,
+      "longitude": 5.686182,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 266,
+      "name": "Wasco",
+      "latitude": 52.197204,
+      "longitude": 6.029091,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 267,
+      "name": "Waterland Terminal",
+      "latitude": 52.414597,
+      "longitude": 4.809521,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 268,
+      "name": "Wetemans Transport",
+      "latitude": 52.067588,
+      "longitude": 4.394101,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 269,
+      "name": "Wetron Logistics",
+      "latitude": 51.414446,
+      "longitude": 6.081092,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 270,
+      "name": "Wiersma Verhuizingen",
+      "latitude": 53.186684,
+      "longitude": 5.754891,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 271,
+      "name": "Wijgaart",
+      "latitude": 51.817805,
+      "longitude": 4.656748,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 272,
+      "name": "Willems verspreiding",
+      "latitude": 51.942179,
+      "longitude": 6.025414,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 273,
+      "name": "Wim Bosman",
+      "latitude": 51.87594,
+      "longitude": 6.268802,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 274,
+      "name": "Wolter Koops",
+      "latitude": 51.406879,
+      "longitude": 6.133619,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 275,
+      "name": "XPO Logistics",
+      "latitude": 51.405457,
+      "longitude": 6.072472,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 276,
+      "name": "Zalando Distributiecentrum",
+      "latitude": 52.029326,
+      "longitude": 4.541891,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 277,
+      "name": "eWarehousing",
+      "latitude": 51.814438,
+      "longitude": 4.524401,
+      "osm_klasse": "office=logistics"
+    },
+    {
+      "id": 278,
+      "name": "fonQ Distributiecentrum",
+      "latitude": 52.108599,
+      "longitude": 5.063993,
+      "osm_klasse": "office=logistics"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: logistics (office=logistics) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=logistics in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 278 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: logistics (office=logistics) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: logistics (office=logistics) — 278 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 278 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

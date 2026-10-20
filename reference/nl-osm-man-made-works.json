@@ -1,0 +1,5546 @@
+{
+  "id": "nl-osm-man-made-works",
+  "name": "Netherlands OSM: works (man_made=works)",
+  "title": "Netherlands OSM: works (man_made=works)",
+  "description": "Named OpenStreetMap features tagged man_made=works in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 785,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "2K Kozijnen van Kunstof",
+      "latitude": 51.972095,
+      "longitude": 6.267373,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 2,
+      "name": "A-Booth",
+      "latitude": 52.430942,
+      "longitude": 4.872473,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 3,
+      "name": "A-ware Cheese",
+      "latitude": 52.42996,
+      "longitude": 4.786662,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 4,
+      "name": "A-ware Cheese Production",
+      "latitude": 52.98153,
+      "longitude": 5.946928,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 5,
+      "name": "A-ware Mozzarella & Cream",
+      "latitude": 52.981355,
+      "longitude": 5.946007,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 6,
+      "name": "A50 Electrificatie",
+      "latitude": 51.432111,
+      "longitude": 5.506624,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 7,
+      "name": "AFB International",
+      "latitude": 51.74178,
+      "longitude": 5.561121,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 8,
+      "name": "AFMI Verspanende Industrie",
+      "latitude": 52.261299,
+      "longitude": 6.783955,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 9,
+      "name": "AFP",
+      "latitude": 52.191134,
+      "longitude": 5.941084,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 10,
+      "name": "AGRO Merchants Maasvlakte",
+      "latitude": 51.937571,
+      "longitude": 4.014519,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 11,
+      "name": "AGU",
+      "latitude": 52.611842,
+      "longitude": 4.748243,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 12,
+      "name": "AHC",
+      "latitude": 51.874677,
+      "longitude": 4.293776,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 13,
+      "name": "ASM Europe SP&R",
+      "latitude": 52.348699,
+      "longitude": 5.186703,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 14,
+      "name": "ASML",
+      "latitude": 51.403769,
+      "longitude": 5.412218,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 15,
+      "name": "ASML Building 4",
+      "latitude": 51.405678,
+      "longitude": 5.415084,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 16,
+      "name": "ASML building 6KLM",
+      "latitude": 51.402074,
+      "longitude": 5.409005,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 17,
+      "name": "AWL - Techniek",
+      "latitude": 52.364926,
+      "longitude": 5.649313,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 18,
+      "name": "Abbott Laboratories",
+      "latitude": 52.516243,
+      "longitude": 6.072203,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 19,
+      "name": "Abuco",
+      "latitude": 52.814731,
+      "longitude": 4.997922,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 20,
+      "name": "Achterbosch Machinebouw",
+      "latitude": 52.383202,
+      "longitude": 7.018348,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 21,
+      "name": "Additive Industries",
+      "latitude": 51.450327,
+      "longitude": 5.452394,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 22,
+      "name": "Advuca koeltechniek en airconditioning",
+      "latitude": 52.145911,
+      "longitude": 4.505429,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 23,
+      "name": "Afvalenergiecentrale Westpoort",
+      "latitude": 52.401166,
+      "longitude": 4.793835,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 24,
+      "name": "Agrifirm",
+      "latitude": 52.516536,
+      "longitude": 6.060136,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 25,
+      "name": "Agro Innovations",
+      "latitude": 52.678784,
+      "longitude": 5.134964,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 26,
+      "name": "Agu Keramiek Bv H-O Keraflor",
+      "latitude": 51.280028,
+      "longitude": 6.080385,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 27,
+      "name": "Ahold Delhaize Coffee Company",
+      "latitude": 52.42694,
+      "longitude": 4.801082,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 28,
+      "name": "Al Nour",
+      "latitude": 53.166496,
+      "longitude": 6.356637,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 29,
+      "name": "Alabastine",
+      "latitude": 51.751342,
+      "longitude": 5.215854,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 30,
+      "name": "Alcomex",
+      "latitude": 52.708465,
+      "longitude": 4.954372,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 31,
+      "name": "Alfa brouwerij",
+      "latitude": 50.93614,
+      "longitude": 5.892967,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 32,
+      "name": "Aliaxis Nederland B.V.",
+      "latitude": 51.334436,
+      "longitude": 5.981992,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 33,
+      "name": "Almetaal",
+      "latitude": 52.427937,
+      "longitude": 4.878688,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 34,
+      "name": "Alpuro",
+      "latitude": 52.263183,
+      "longitude": 5.785045,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 35,
+      "name": "Altrex B.V.",
+      "latitude": 52.533102,
+      "longitude": 6.172453,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 36,
+      "name": "Altus-Escon-Company",
+      "latitude": 52.255622,
+      "longitude": 4.623729,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 37,
+      "name": "AluArt Aluminium B.V.",
+      "latitude": 52.014223,
+      "longitude": 5.101584,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 38,
+      "name": "Aludon",
+      "latitude": 53.115788,
+      "longitude": 6.121015,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 39,
+      "name": "Aluvo",
+      "latitude": 52.591526,
+      "longitude": 6.259538,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 40,
+      "name": "Ambachtelijke Graanmaalderij Molen \"Prins van Oranje\"",
+      "latitude": 51.941867,
+      "longitude": 6.617753,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 41,
+      "name": "Americold Logistics",
+      "latitude": 52.164115,
+      "longitude": 5.574951,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 42,
+      "name": "Ames Europe",
+      "latitude": 52.222815,
+      "longitude": 6.869282,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 43,
+      "name": "Ammeraal Beltech",
+      "latitude": 52.687211,
+      "longitude": 4.842965,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 44,
+      "name": "Ampco Flashlight Group",
+      "latitude": 52.11205,
+      "longitude": 5.041156,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 45,
+      "name": "Ankerpoort",
+      "latitude": 50.885172,
+      "longitude": 5.706388,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 46,
+      "name": "Apollo Vredestein",
+      "latitude": 52.227619,
+      "longitude": 6.841518,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 47,
+      "name": "Asfalt Centrale Bovenveld",
+      "latitude": 52.552844,
+      "longitude": 6.523922,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 48,
+      "name": "Asfalt Centrale Over Betuwe",
+      "latitude": 51.937407,
+      "longitude": 5.956952,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 49,
+      "name": "Asfalt Centrale Twente",
+      "latitude": 52.250103,
+      "longitude": 6.785538,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 50,
+      "name": "Asfalt Productie Amsterdam",
+      "latitude": 52.406022,
+      "longitude": 4.782431,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 51,
+      "name": "Asfalt Productie Rotterdam Rijnmond",
+      "latitude": 51.889139,
+      "longitude": 4.326704,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 52,
+      "name": "Asfalt Productie Tiel",
+      "latitude": 51.911035,
+      "longitude": 5.433619,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 53,
+      "name": "Asfalt Productie Westerbroek",
+      "latitude": 53.172076,
+      "longitude": 6.690964,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 54,
+      "name": "Asfalt Productie Westerbroek",
+      "latitude": 53.173126,
+      "longitude": 6.691493,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 55,
+      "name": "Asfalt Productie de Eem",
+      "latitude": 52.22392,
+      "longitude": 5.31211,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 56,
+      "name": "AsfaltNu 's-Hertogenbosch",
+      "latitude": 51.702703,
+      "longitude": 5.284586,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 57,
+      "name": "AsfaltNu Amsterdam l",
+      "latitude": 52.403042,
+      "longitude": 4.830787,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 58,
+      "name": "AsfaltNu Amsterdam ll",
+      "latitude": 52.399781,
+      "longitude": 4.781782,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 59,
+      "name": "AsfaltNu Bergen op Zoom",
+      "latitude": 51.501708,
+      "longitude": 4.26567,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 60,
+      "name": "AsfaltNu Deventer",
+      "latitude": 52.247914,
+      "longitude": 6.180398,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 61,
+      "name": "AsfaltNu Kootstertille",
+      "latitude": 53.20557,
+      "longitude": 6.088619,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 62,
+      "name": "AsfaltNu Stein",
+      "latitude": 50.979571,
+      "longitude": 5.780514,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 63,
+      "name": "AsfaltNu Zwijndrecht",
+      "latitude": 51.80451,
+      "longitude": 4.615009,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 64,
+      "name": "Asfaltcentrale Eindhoven",
+      "latitude": 51.435481,
+      "longitude": 5.432029,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 65,
+      "name": "Asfaltcentrale Gebr. Van der Lee",
+      "latitude": 52.533699,
+      "longitude": 5.522073,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 66,
+      "name": "Asfaltcentrale Nijkerk",
+      "latitude": 52.239818,
+      "longitude": 5.474066,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 67,
+      "name": "Asfaltcentrale Roermond",
+      "latitude": 51.203367,
+      "longitude": 5.991074,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 68,
+      "name": "Asfaltcentrale Rotterdam",
+      "latitude": 51.868531,
+      "longitude": 4.322963,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 69,
+      "name": "Asfaltproductie Hoogblokland",
+      "latitude": 51.890254,
+      "longitude": 4.994889,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 70,
+      "name": "Asfaltproductie Regio Amsterdam",
+      "latitude": 52.399769,
+      "longitude": 4.781032,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 71,
+      "name": "Asfaltproductie Regio Amsterdam",
+      "latitude": 52.400985,
+      "longitude": 4.780881,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 72,
+      "name": "Aspen Pharma Nederland",
+      "latitude": 51.78482,
+      "longitude": 5.555888,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 73,
+      "name": "Atlanta Injection Moulding Bv",
+      "latitude": 51.279815,
+      "longitude": 6.079572,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 74,
+      "name": "Audion Elektro BV",
+      "latitude": 52.318925,
+      "longitude": 5.028797,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 75,
+      "name": "Ausnutria",
+      "latitude": 52.978999,
+      "longitude": 5.940115,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 76,
+      "name": "Avantium FDCA Flagship Plant",
+      "latitude": 53.311158,
+      "longitude": 6.970457,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 77,
+      "name": "Avebe",
+      "latitude": 52.986811,
+      "longitude": 6.87161,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 78,
+      "name": "Avebe",
+      "latitude": 53.168263,
+      "longitude": 6.712299,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 79,
+      "name": "Avebe Ter Apelkanaal",
+      "latitude": 52.923252,
+      "longitude": 7.051143,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 80,
+      "name": "Avek",
+      "latitude": 53.178969,
+      "longitude": 6.174781,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 81,
+      "name": "Aviko Rixona",
+      "latitude": 53.394943,
+      "longitude": 6.526313,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 82,
+      "name": "Ayal Kaas BV",
+      "latitude": 52.431198,
+      "longitude": 4.770135,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 83,
+      "name": "Azor Bike",
+      "latitude": 52.734243,
+      "longitude": 6.491176,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 84,
+      "name": "BACU",
+      "latitude": 52.498418,
+      "longitude": 6.130598,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 85,
+      "name": "BASF",
+      "latitude": 52.970905,
+      "longitude": 5.887702,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 86,
+      "name": "BASF Antwerpen nv",
+      "latitude": 51.363382,
+      "longitude": 4.275306,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 87,
+      "name": "BBS Systeembouw",
+      "latitude": 51.813683,
+      "longitude": 4.44287,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 88,
+      "name": "BYK Netherlands B.V.",
+      "latitude": 52.387974,
+      "longitude": 7.012778,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 89,
+      "name": "Baaijens Metaal",
+      "latitude": 51.774943,
+      "longitude": 5.548737,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 90,
+      "name": "Baan",
+      "latitude": 52.320957,
+      "longitude": 6.513606,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 91,
+      "name": "Bakker Vakkeuken",
+      "latitude": 53.239962,
+      "longitude": 5.668216,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 92,
+      "name": "Bakkerij",
+      "latitude": 52.696067,
+      "longitude": 4.707583,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 93,
+      "name": "Bakkerij 't Zand",
+      "latitude": 51.482607,
+      "longitude": 3.817923,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 94,
+      "name": "Bakkerij Bas Boender B.V.",
+      "latitude": 51.813732,
+      "longitude": 4.417099,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 95,
+      "name": "Bakkerij Beerse",
+      "latitude": 52.657667,
+      "longitude": 4.798026,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 96,
+      "name": "Bakkerij Bouman",
+      "latitude": 51.875458,
+      "longitude": 5.30167,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 97,
+      "name": "Bakkerij Dam",
+      "latitude": 51.814202,
+      "longitude": 4.342489,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 98,
+      "name": "Bakkerij Faber",
+      "latitude": 52.720762,
+      "longitude": 6.482311,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 99,
+      "name": "Bakkerij Holland",
+      "latitude": 51.543501,
+      "longitude": 4.490141,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 100,
+      "name": "Bakkerij Holland",
+      "latitude": 52.406928,
+      "longitude": 6.636789,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 101,
+      "name": "Balck BV Scheepsreparatiebedrijf",
+      "latitude": 51.889759,
+      "longitude": 4.452925,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 102,
+      "name": "Bandall Productie",
+      "latitude": 52.504216,
+      "longitude": 4.699647,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 103,
+      "name": "Barla Food",
+      "latitude": 51.425153,
+      "longitude": 5.431924,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 104,
+      "name": "Bayer Kipproducten",
+      "latitude": 52.155521,
+      "longitude": 4.446885,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 105,
+      "name": "Beckmann",
+      "latitude": 52.189923,
+      "longitude": 5.94021,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 106,
+      "name": "Beesha",
+      "latitude": 52.46871,
+      "longitude": 4.665008,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 107,
+      "name": "Beimer Meat",
+      "latitude": 52.224565,
+      "longitude": 6.946207,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 108,
+      "name": "Benecom B.V.",
+      "latitude": 51.902281,
+      "longitude": 4.692787,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 109,
+      "name": "Benegas",
+      "latitude": 52.265673,
+      "longitude": 5.575089,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 110,
+      "name": "Bestronics",
+      "latitude": 51.407431,
+      "longitude": 5.421961,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 111,
+      "name": "Betech Mass Turning",
+      "latitude": 52.735755,
+      "longitude": 6.515823,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 112,
+      "name": "Betoncentrale Haringman",
+      "latitude": 51.513194,
+      "longitude": 3.893417,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 113,
+      "name": "Betoncentrale Hasselt",
+      "latitude": 52.582732,
+      "longitude": 6.095849,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 114,
+      "name": "Betoncentrale Terschelling",
+      "latitude": 53.369079,
+      "longitude": 5.239382,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 115,
+      "name": "Betoncentrale Van der Kamp",
+      "latitude": 51.691446,
+      "longitude": 4.599391,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 116,
+      "name": "Betonfabriek De Hamert",
+      "latitude": 51.523592,
+      "longitude": 6.188271,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 117,
+      "name": "Betonmortel Centrale Groningen",
+      "latitude": 53.198915,
+      "longitude": 6.609966,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 118,
+      "name": "Bierbrouwerij Hertog Jan",
+      "latitude": 51.486066,
+      "longitude": 6.173372,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 119,
+      "name": "Binthout",
+      "latitude": 52.508592,
+      "longitude": 6.137146,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 120,
+      "name": "Bio Energy Coevorden",
+      "latitude": 52.646951,
+      "longitude": 6.745096,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 121,
+      "name": "Bio Energy Netherlands",
+      "latitude": 52.401692,
+      "longitude": 4.788576,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 122,
+      "name": "BioEnergie Twente",
+      "latitude": 52.24968,
+      "longitude": 6.603527,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 123,
+      "name": "Biobased Experts B.V",
+      "latitude": 51.543976,
+      "longitude": 4.45534,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 124,
+      "name": "Biomassacentrale",
+      "latitude": 52.454429,
+      "longitude": 4.829792,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 125,
+      "name": "Bizerba Nederland B.V.",
+      "latitude": 52.220081,
+      "longitude": 6.842763,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 126,
+      "name": "Blankendaal Coldstores B.V.",
+      "latitude": 52.469473,
+      "longitude": 4.665348,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 127,
+      "name": "Blister Centrum Nederland",
+      "latitude": 52.661796,
+      "longitude": 4.828523,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 128,
+      "name": "Blue Marine Offshore Yard Services",
+      "latitude": 51.887088,
+      "longitude": 4.438721,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 129,
+      "name": "Bobeldijk Food Group",
+      "latitude": 52.251262,
+      "longitude": 6.18562,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 130,
+      "name": "Bolletje",
+      "latitude": 52.39702,
+      "longitude": 6.048187,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 131,
+      "name": "Bolscher",
+      "latitude": 52.22143,
+      "longitude": 6.835069,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 132,
+      "name": "Bonbon Du Ton",
+      "latitude": 52.655273,
+      "longitude": 5.023251,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 133,
+      "name": "Bonfait",
+      "latitude": 52.382475,
+      "longitude": 7.020229,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 134,
+      "name": "Boomsma",
+      "latitude": 53.192973,
+      "longitude": 5.772969,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 135,
+      "name": "Boon Edam",
+      "latitude": 52.512469,
+      "longitude": 5.042271,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 136,
+      "name": "Boonstra",
+      "latitude": 53.153992,
+      "longitude": 6.487164,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 137,
+      "name": "Bosch Beton",
+      "latitude": 52.168422,
+      "longitude": 5.617804,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 138,
+      "name": "Bosch Transmission Technology",
+      "latitude": 51.54019,
+      "longitude": 5.054592,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 139,
+      "name": "Bouwcenter Swinkels",
+      "latitude": 51.512344,
+      "longitude": 5.581966,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 140,
+      "name": "Bouwma Bouwmachines",
+      "latitude": 52.472339,
+      "longitude": 4.676888,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 141,
+      "name": "Brenntag Nederland B.V.",
+      "latitude": 51.81126,
+      "longitude": 4.646642,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 142,
+      "name": "Bribus B.V.",
+      "latitude": 51.859919,
+      "longitude": 6.481812,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 143,
+      "name": "Brink",
+      "latitude": 52.359439,
+      "longitude": 6.513684,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 144,
+      "name": "Brink Mould Service",
+      "latitude": 51.99859,
+      "longitude": 6.354797,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 145,
+      "name": "Brocacef Groothandel",
+      "latitude": 51.73787,
+      "longitude": 5.561654,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 146,
+      "name": "Brood en banketbakkerij Jan Schrieks",
+      "latitude": 51.472031,
+      "longitude": 3.587754,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 147,
+      "name": "Bruil Beton & Mix",
+      "latitude": 51.960266,
+      "longitude": 5.658132,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 148,
+      "name": "Bruil Beton & Mix",
+      "latitude": 52.00357,
+      "longitude": 5.5716,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 149,
+      "name": "Bruil Beton & Mix",
+      "latitude": 52.042401,
+      "longitude": 5.616334,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 150,
+      "name": "Bruil Beton & Mix",
+      "latitude": 52.166853,
+      "longitude": 6.410988,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 151,
+      "name": "Bruil Beton & Mix",
+      "latitude": 52.182792,
+      "longitude": 5.987825,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 152,
+      "name": "Bruil Beton & Mix",
+      "latitude": 52.247926,
+      "longitude": 6.187374,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 153,
+      "name": "Bruil EBM Beton",
+      "latitude": 52.003918,
+      "longitude": 5.572734,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 154,
+      "name": "Bruil Prefab",
+      "latitude": 51.696761,
+      "longitude": 4.851356,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 155,
+      "name": "Bruil Prefab printing",
+      "latitude": 52.009368,
+      "longitude": 5.574596,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 156,
+      "name": "Buig Centrale Steenbergen",
+      "latitude": 52.729057,
+      "longitude": 6.493557,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 157,
+      "name": "Bunge Loders Croklaan",
+      "latitude": 52.48425,
+      "longitude": 4.809311,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 158,
+      "name": "Burg Machinefabriek",
+      "latitude": 51.463213,
+      "longitude": 4.030398,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 159,
+      "name": "Burton",
+      "latitude": 52.156177,
+      "longitude": 6.208163,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 160,
+      "name": "C. Hollander aannemers-en timmerbedrijf",
+      "latitude": 52.898613,
+      "longitude": 4.751705,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 161,
+      "name": "C. Rossen B.V.",
+      "latitude": 51.833605,
+      "longitude": 4.558757,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 162,
+      "name": "CAPE Holland",
+      "latitude": 52.861885,
+      "longitude": 6.491624,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 163,
+      "name": "CAV Agrotheek Products B.V.",
+      "latitude": 52.753467,
+      "longitude": 6.931551,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 164,
+      "name": "CCI",
+      "latitude": 53.114855,
+      "longitude": 6.069708,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 165,
+      "name": "CHEMELOT Sekisui-S-Lec B.V.",
+      "latitude": 51.169746,
+      "longitude": 6.049577,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 166,
+      "name": "CSK Food Enrichment",
+      "latitude": 53.200195,
+      "longitude": 5.849282,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 167,
+      "name": "CSM",
+      "latitude": 51.497642,
+      "longitude": 3.896489,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 168,
+      "name": "Cabot-Norit Nederland",
+      "latitude": 52.422508,
+      "longitude": 4.824927,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 169,
+      "name": "Calduran Kalkzandsteen",
+      "latitude": 52.893604,
+      "longitude": 6.388833,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 170,
+      "name": "Car Cleaning Woerden",
+      "latitude": 52.077149,
+      "longitude": 4.907281,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 171,
+      "name": "Carbogen Amcis B.V.",
+      "latitude": 52.03008,
+      "longitude": 5.557391,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 172,
+      "name": "Cargo Network",
+      "latitude": 51.823752,
+      "longitude": 4.432196,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 173,
+      "name": "Celsis",
+      "latitude": 52.182046,
+      "longitude": 5.985904,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 174,
+      "name": "Centraal Beheer",
+      "latitude": 52.176684,
+      "longitude": 5.964782,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 175,
+      "name": "Centraalstaal",
+      "latitude": 53.215283,
+      "longitude": 6.602209,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 176,
+      "name": "Centrale Lage Weide",
+      "latitude": 52.101637,
+      "longitude": 5.072874,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 177,
+      "name": "Cerabel",
+      "latitude": 51.278666,
+      "longitude": 6.079254,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 178,
+      "name": "ChemCom",
+      "latitude": 53.314992,
+      "longitude": 6.964967,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 179,
+      "name": "Chocolatemakers",
+      "latitude": 52.398454,
+      "longitude": 4.835762,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 180,
+      "name": "Cirkeldis Zorgcirkel",
+      "latitude": 52.519824,
+      "longitude": 5.001123,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 181,
+      "name": "Coca Cola",
+      "latitude": 51.608724,
+      "longitude": 4.998614,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 182,
+      "name": "Coes",
+      "latitude": 52.41248,
+      "longitude": 6.594345,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 183,
+      "name": "Colall",
+      "latitude": 52.973587,
+      "longitude": 6.969537,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 184,
+      "name": "Companjen",
+      "latitude": 52.473507,
+      "longitude": 6.005192,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 185,
+      "name": "Conpax",
+      "latitude": 51.885348,
+      "longitude": 5.817365,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 186,
+      "name": "CoreDux Netherlands B.V.",
+      "latitude": 51.53012,
+      "longitude": 5.050992,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 187,
+      "name": "Corex Nederland B.V.",
+      "latitude": 52.363147,
+      "longitude": 6.596033,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 188,
+      "name": "Cosun Beet Company",
+      "latitude": 51.536541,
+      "longitude": 4.452737,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 189,
+      "name": "Cosun Beet Company",
+      "latitude": 51.617914,
+      "longitude": 4.431938,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 190,
+      "name": "Cosun Beet Company",
+      "latitude": 51.62793,
+      "longitude": 4.417887,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 191,
+      "name": "Cosun Beet Company",
+      "latitude": 53.214006,
+      "longitude": 6.49548,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 192,
+      "name": "Covermaster B.V.",
+      "latitude": 51.731946,
+      "longitude": 4.531107,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 193,
+      "name": "Craft Dairy",
+      "latitude": 52.905711,
+      "longitude": 6.914845,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 194,
+      "name": "Crop Alliance",
+      "latitude": 51.405513,
+      "longitude": 3.90075,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 195,
+      "name": "Crown van Gelder",
+      "latitude": 52.465812,
+      "longitude": 4.637282,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 196,
+      "name": "Crystal Company",
+      "latitude": 51.817395,
+      "longitude": 4.521667,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 197,
+      "name": "CuliVers",
+      "latitude": 51.428689,
+      "longitude": 5.436417,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 198,
+      "name": "Custom Built Machinery B.V",
+      "latitude": 52.010961,
+      "longitude": 4.998279,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 199,
+      "name": "D'Olde Zwarver Koffie",
+      "latitude": 52.566654,
+      "longitude": 5.900249,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 200,
+      "name": "D08 DAF Motorenfabriek",
+      "latitude": 51.430605,
+      "longitude": 5.517719,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 201,
+      "name": "DAF",
+      "latitude": 51.431315,
+      "longitude": 5.516276,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 202,
+      "name": "DBR B.V.",
+      "latitude": 51.830478,
+      "longitude": 4.769104,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 203,
+      "name": "DD Productie",
+      "latitude": 53.321878,
+      "longitude": 6.013594,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 204,
+      "name": "DWO Techniek",
+      "latitude": 52.176264,
+      "longitude": 4.496215,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 205,
+      "name": "Daelmans Banket",
+      "latitude": 51.6947,
+      "longitude": 5.178691,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 206,
+      "name": "Daelmans webshop",
+      "latitude": 51.738625,
+      "longitude": 5.55976,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 207,
+      "name": "Daemen's Houtwarenfabriek",
+      "latitude": 50.85072,
+      "longitude": 5.949303,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 208,
+      "name": "Daling Melk & Installatietechniek",
+      "latitude": 53.292242,
+      "longitude": 6.595178,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 209,
+      "name": "Dalli De Klok BV",
+      "latitude": 52.39004,
+      "longitude": 6.037663,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 210,
+      "name": "Dam Brood en Banket",
+      "latitude": 51.812869,
+      "longitude": 4.025559,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 211,
+      "name": "Danish Crown Foods",
+      "latitude": 52.383908,
+      "longitude": 4.656306,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 212,
+      "name": "Danpak",
+      "latitude": 52.189204,
+      "longitude": 5.939527,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 213,
+      "name": "De Graafstroom",
+      "latitude": 51.869897,
+      "longitude": 4.776637,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 214,
+      "name": "De Jong DUKE",
+      "latitude": 51.832457,
+      "longitude": 4.757073,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 215,
+      "name": "De Jong Technics",
+      "latitude": 51.83134,
+      "longitude": 4.764875,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 216,
+      "name": "De Laser Freezer",
+      "latitude": 52.733202,
+      "longitude": 6.503464,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 217,
+      "name": "De Markiezenfabriek Noord-Holland",
+      "latitude": 52.487471,
+      "longitude": 4.667039,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 218,
+      "name": "De Pauw",
+      "latitude": 52.023964,
+      "longitude": 4.347758,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 219,
+      "name": "De Pere",
+      "latitude": 51.464523,
+      "longitude": 3.597119,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 220,
+      "name": "De Vries Horeca Slagerij",
+      "latitude": 53.023009,
+      "longitude": 5.673678,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 221,
+      "name": "Delamine",
+      "latitude": 53.31436,
+      "longitude": 6.957413,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 222,
+      "name": "Deli Harmony",
+      "latitude": 51.756012,
+      "longitude": 5.262226,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 223,
+      "name": "Demach Zaagtechniek",
+      "latitude": 52.472242,
+      "longitude": 4.661829,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 224,
+      "name": "Detailresult Productie Bakkerijen",
+      "latitude": 52.473432,
+      "longitude": 4.659022,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 225,
+      "name": "Dezet Plastics B.V.",
+      "latitude": 52.002374,
+      "longitude": 4.783172,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 226,
+      "name": "Dieseko Group B.V.",
+      "latitude": 51.830208,
+      "longitude": 4.770942,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 227,
+      "name": "Digitron Engineering",
+      "latitude": 52.686518,
+      "longitude": 4.843559,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 228,
+      "name": "Dolphin",
+      "latitude": 51.44805,
+      "longitude": 5.615856,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 229,
+      "name": "Dr. Oetker",
+      "latitude": 53.200647,
+      "longitude": 5.826583,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 230,
+      "name": "Drenth",
+      "latitude": 53.092852,
+      "longitude": 6.988899,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 231,
+      "name": "Drukkerij Gerlach",
+      "latitude": 53.230816,
+      "longitude": 6.59051,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 232,
+      "name": "Drukkerij Willems",
+      "latitude": 52.10431,
+      "longitude": 6.068136,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 233,
+      "name": "Dunlop",
+      "latitude": 53.106971,
+      "longitude": 6.091576,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 234,
+      "name": "Dutch Pinball",
+      "latitude": 51.166824,
+      "longitude": 6.070684,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 235,
+      "name": "Dutch Process Technology",
+      "latitude": 51.997594,
+      "longitude": 6.351438,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 236,
+      "name": "Döhler B.V.",
+      "latitude": 51.279499,
+      "longitude": 5.921515,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 237,
+      "name": "E45 DAF Truckfabriek",
+      "latitude": 51.430115,
+      "longitude": 5.521599,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 238,
+      "name": "ECW geothermie Andijk",
+      "latitude": 52.724946,
+      "longitude": 5.192777,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 239,
+      "name": "ESD-SIC",
+      "latitude": 53.297984,
+      "longitude": 6.967019,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 240,
+      "name": "Eco Fuels",
+      "latitude": 53.452892,
+      "longitude": 6.826931,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 241,
+      "name": "Ekro",
+      "latitude": 52.178352,
+      "longitude": 5.974908,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 242,
+      "name": "Elders Bouwchemie",
+      "latitude": 52.729475,
+      "longitude": 6.502338,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 243,
+      "name": "Electrisol BV",
+      "latitude": 52.492781,
+      "longitude": 4.765268,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 244,
+      "name": "Engiro",
+      "latitude": 50.830993,
+      "longitude": 6.021896,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 245,
+      "name": "Ennatuurlijk Warmtekrachtcentrale Helmond",
+      "latitude": 51.463562,
+      "longitude": 5.688643,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 246,
+      "name": "Equans",
+      "latitude": 52.431764,
+      "longitude": 4.768199,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 247,
+      "name": "Equinix Zwolle ZW1",
+      "latitude": 52.488569,
+      "longitude": 6.14263,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 248,
+      "name": "EromesMarko",
+      "latitude": 51.815869,
+      "longitude": 5.763769,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 249,
+      "name": "Eska",
+      "latitude": 53.161889,
+      "longitude": 6.748183,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 250,
+      "name": "Eska",
+      "latitude": 53.163066,
+      "longitude": 6.805169,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 251,
+      "name": "Etex",
+      "latitude": 53.304894,
+      "longitude": 6.984461,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 252,
+      "name": "Eurofill B.V.",
+      "latitude": 52.428763,
+      "longitude": 4.808101,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 253,
+      "name": "Eurofrigo B.V",
+      "latitude": 51.940342,
+      "longitude": 4.013889,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 254,
+      "name": "Europe Grass",
+      "latitude": 52.614976,
+      "longitude": 6.061333,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 255,
+      "name": "Evers Specials",
+      "latitude": 51.889568,
+      "longitude": 5.847695,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 256,
+      "name": "Evolve Productions BV",
+      "latitude": 53.083537,
+      "longitude": 6.601594,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 257,
+      "name": "Evonik",
+      "latitude": 53.311384,
+      "longitude": 6.966477,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 258,
+      "name": "Expice",
+      "latitude": 52.669336,
+      "longitude": 5.069163,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 259,
+      "name": "Farm Frites",
+      "latitude": 51.822921,
+      "longitude": 4.164395,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 260,
+      "name": "FibrXL Performance",
+      "latitude": 50.949883,
+      "longitude": 5.79259,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 261,
+      "name": "Fiege Nederland",
+      "latitude": 52.426155,
+      "longitude": 4.793951,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 262,
+      "name": "Fijnmetaal Bv Lenssen",
+      "latitude": 51.280303,
+      "longitude": 6.086603,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 263,
+      "name": "Flenx BV",
+      "latitude": 52.434868,
+      "longitude": 4.862468,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 264,
+      "name": "Floor Haastrecht B.V.",
+      "latitude": 52.002033,
+      "longitude": 4.782559,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 265,
+      "name": "Floorteq",
+      "latitude": 51.892932,
+      "longitude": 4.58725,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 266,
+      "name": "Floramedia Groep",
+      "latitude": 52.428561,
+      "longitude": 4.77289,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 267,
+      "name": "Florian Zeilmakerij",
+      "latitude": 51.495267,
+      "longitude": 3.885312,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 268,
+      "name": "Fluidics Instruments BV",
+      "latitude": 51.425855,
+      "longitude": 5.433141,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 269,
+      "name": "Fokker Aerostructures",
+      "latitude": 52.734233,
+      "longitude": 6.506527,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 270,
+      "name": "Fonterra",
+      "latitude": 52.982237,
+      "longitude": 5.950904,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 271,
+      "name": "Food Encore B.V.",
+      "latitude": 51.425899,
+      "longitude": 5.433506,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 272,
+      "name": "Foodmate",
+      "latitude": 51.74953,
+      "longitude": 4.445393,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 273,
+      "name": "Foodmate",
+      "latitude": 51.826627,
+      "longitude": 4.427465,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 274,
+      "name": "Forbo - Eurocol",
+      "latitude": 52.497788,
+      "longitude": 4.775713,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 275,
+      "name": "Forbo Flooring",
+      "latitude": 52.49046,
+      "longitude": 4.768283,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 276,
+      "name": "Foresco Assen",
+      "latitude": 52.99846,
+      "longitude": 6.529029,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 277,
+      "name": "Forto Group",
+      "latitude": 51.280808,
+      "longitude": 6.085548,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 278,
+      "name": "Framo Plastics B.V.",
+      "latitude": 52.384837,
+      "longitude": 7.011247,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 279,
+      "name": "Frees Verhuur Ommen",
+      "latitude": 52.531991,
+      "longitude": 6.417509,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 280,
+      "name": "Frelu Kunststoffen",
+      "latitude": 52.142575,
+      "longitude": 5.412767,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 281,
+      "name": "Friesland Campina",
+      "latitude": 52.692568,
+      "longitude": 6.171988,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 282,
+      "name": "Friesland Campina",
+      "latitude": 53.238725,
+      "longitude": 6.197139,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 283,
+      "name": "Friesland Foods",
+      "latitude": 52.974227,
+      "longitude": 5.453898,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 284,
+      "name": "FrieslandCampina",
+      "latitude": 51.685382,
+      "longitude": 5.328662,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 285,
+      "name": "FrieslandCampina",
+      "latitude": 52.764721,
+      "longitude": 4.882273,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 286,
+      "name": "FrieslandCampina",
+      "latitude": 53.199773,
+      "longitude": 5.818619,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 287,
+      "name": "FrieslandCampina DOMO",
+      "latitude": 52.855162,
+      "longitude": 6.51883,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 288,
+      "name": "Frisia",
+      "latitude": 53.17815,
+      "longitude": 5.437432,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 289,
+      "name": "Frisia Zout",
+      "latitude": 53.187412,
+      "longitude": 5.425647,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 290,
+      "name": "Frites uit Zuyd",
+      "latitude": 52.421712,
+      "longitude": 4.829846,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 291,
+      "name": "Frumarco",
+      "latitude": 51.27632,
+      "longitude": 6.04258,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 292,
+      "name": "Fuite",
+      "latitude": 52.228318,
+      "longitude": 5.972431,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 293,
+      "name": "G. van Harten B.V.",
+      "latitude": 52.009258,
+      "longitude": 5.572436,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 294,
+      "name": "GAVO",
+      "latitude": 52.161172,
+      "longitude": 5.997314,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 295,
+      "name": "GBS Promould",
+      "latitude": 51.81193,
+      "longitude": 4.523641,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 296,
+      "name": "GINAF Trucks Nederland B.V.",
+      "latitude": 52.009682,
+      "longitude": 5.558915,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 297,
+      "name": "GKB Nederland",
+      "latitude": 53.362905,
+      "longitude": 6.520122,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 298,
+      "name": "GMM Luchttechniek",
+      "latitude": 52.301146,
+      "longitude": 5.996337,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 299,
+      "name": "GNT International",
+      "latitude": 51.448161,
+      "longitude": 5.622599,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 300,
+      "name": "GOVU Metaalbewerking",
+      "latitude": 52.205214,
+      "longitude": 6.068975,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 301,
+      "name": "Gasunie Transport Services B.V. Zuidbroek",
+      "latitude": 53.156386,
+      "longitude": 6.889219,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 302,
+      "name": "Gb Plange",
+      "latitude": 51.787551,
+      "longitude": 4.648348,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 303,
+      "name": "Gebouw TZ",
+      "latitude": 51.452864,
+      "longitude": 5.449028,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 304,
+      "name": "Gebr. Drenth",
+      "latitude": 52.171601,
+      "longitude": 5.356926,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 305,
+      "name": "Gebr. Opdam Autosloperij",
+      "latitude": 52.164941,
+      "longitude": 4.445315,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 306,
+      "name": "Gebr. Steneker",
+      "latitude": 53.118963,
+      "longitude": 6.07188,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 307,
+      "name": "Gebr.Heijs",
+      "latitude": 53.151334,
+      "longitude": 6.363399,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 308,
+      "name": "Gemeentewerf",
+      "latitude": 51.90299,
+      "longitude": 6.35782,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 309,
+      "name": "Gepo Vleeswaren",
+      "latitude": 52.253957,
+      "longitude": 4.634739,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 310,
+      "name": "Gerko Tribunes & Afbouw",
+      "latitude": 53.181545,
+      "longitude": 5.460123,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 311,
+      "name": "Gewo Ambachtelijk Timmerbedrijf",
+      "latitude": 52.110228,
+      "longitude": 6.221168,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 312,
+      "name": "Givaudan Nederland BV",
+      "latitude": 52.166629,
+      "longitude": 5.578834,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 313,
+      "name": "Glashandel Jan Bos",
+      "latitude": 52.19722,
+      "longitude": 4.752502,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 314,
+      "name": "Goglio North Europe",
+      "latitude": 52.44422,
+      "longitude": 4.812021,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 315,
+      "name": "Graf Holland",
+      "latitude": 52.232597,
+      "longitude": 6.845292,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 316,
+      "name": "Grainplastics B.V.",
+      "latitude": 52.732274,
+      "longitude": 6.496917,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 317,
+      "name": "Greijn Form Technics Bv Vacu",
+      "latitude": 51.280499,
+      "longitude": 6.0861,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 318,
+      "name": "Grevelingen Betonmortel",
+      "latitude": 51.81921,
+      "longitude": 4.048122,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 319,
+      "name": "Grondbank de Bree",
+      "latitude": 52.228562,
+      "longitude": 6.611807,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 320,
+      "name": "H. Meijerink B.V.",
+      "latitude": 52.229321,
+      "longitude": 6.036427,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 321,
+      "name": "HANSA-FLEX Beilen",
+      "latitude": 52.86259,
+      "longitude": 6.493397,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 322,
+      "name": "HCE Houtprodukten",
+      "latitude": 51.997911,
+      "longitude": 6.355389,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 323,
+      "name": "HP Valves",
+      "latitude": 52.248318,
+      "longitude": 6.768568,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 324,
+      "name": "HSE",
+      "latitude": 52.297925,
+      "longitude": 5.992012,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 325,
+      "name": "HSS Torbo",
+      "latitude": 52.057056,
+      "longitude": 5.265987,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 326,
+      "name": "HSV Packaging & Insulation NL N.V.",
+      "latitude": 52.033997,
+      "longitude": 5.633998,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 327,
+      "name": "HSV Technical Moulded Parts N.V.",
+      "latitude": 52.032775,
+      "longitude": 5.633816,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 328,
+      "name": "HVN Straaltechniek b.v.",
+      "latitude": 51.738486,
+      "longitude": 5.558204,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 329,
+      "name": "Haceka",
+      "latitude": 52.166934,
+      "longitude": 5.362492,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 330,
+      "name": "Harcotom Verpakkingen BV",
+      "latitude": 52.519226,
+      "longitude": 5.012866,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 331,
+      "name": "Harcotom Verpakkingen BV",
+      "latitude": 52.520837,
+      "longitude": 5.01236,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 332,
+      "name": "Havecon Kassenbouw B.V.",
+      "latitude": 52.014714,
+      "longitude": 4.542511,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 333,
+      "name": "Hawema",
+      "latitude": 51.684426,
+      "longitude": 5.358725,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 334,
+      "name": "Heemskerk",
+      "latitude": 52.197745,
+      "longitude": 4.453431,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 335,
+      "name": "Heeren Groenten & Fruit B.V.",
+      "latitude": 51.42608,
+      "longitude": 5.434137,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 336,
+      "name": "Heineken",
+      "latitude": 51.735022,
+      "longitude": 5.561976,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 337,
+      "name": "Helden van Staal",
+      "latitude": 52.644209,
+      "longitude": 5.093928,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 338,
+      "name": "Hems b.v. - Fortuna b.v.",
+      "latitude": 51.740504,
+      "longitude": 5.558553,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 339,
+      "name": "Henk Bennink",
+      "latitude": 52.427619,
+      "longitude": 6.48049,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 340,
+      "name": "Hertog Jan Bierbrouwerij & Winkel",
+      "latitude": 51.486281,
+      "longitude": 6.173375,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 341,
+      "name": "Het Pasta Gilde",
+      "latitude": 52.066136,
+      "longitude": 4.318625,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 342,
+      "name": "Heurkens & Van Veluw",
+      "latitude": 51.738658,
+      "longitude": 5.558159,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 343,
+      "name": "Hexion",
+      "latitude": 51.883298,
+      "longitude": 4.352633,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 344,
+      "name": "Highlight International",
+      "latitude": 50.884877,
+      "longitude": 6.041344,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 345,
+      "name": "Hill's Pet Nutrition Manufacturing B.V.",
+      "latitude": 51.626547,
+      "longitude": 4.637098,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 346,
+      "name": "Hobre Instruments",
+      "latitude": 52.511264,
+      "longitude": 5.003279,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 347,
+      "name": "Hodes Huisvesting",
+      "latitude": 52.249185,
+      "longitude": 6.59732,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 348,
+      "name": "Hoekman",
+      "latitude": 52.590622,
+      "longitude": 6.253667,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 349,
+      "name": "Holga Metaaltechniek",
+      "latitude": 51.949403,
+      "longitude": 6.302758,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 350,
+      "name": "Holland Colours",
+      "latitude": 52.240483,
+      "longitude": 5.97673,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 351,
+      "name": "Holland Papier Groep",
+      "latitude": 52.491974,
+      "longitude": 4.766921,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 352,
+      "name": "Hollandse Cement Maatschappij",
+      "latitude": 51.690158,
+      "longitude": 4.59777,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 353,
+      "name": "Hollandse Cement Maatschappij",
+      "latitude": 51.690362,
+      "longitude": 4.598535,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 354,
+      "name": "Honicel Nederland B.V.",
+      "latitude": 52.001691,
+      "longitude": 6.347326,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 355,
+      "name": "Hordijk",
+      "latitude": 51.998517,
+      "longitude": 4.366863,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 356,
+      "name": "Hordijk",
+      "latitude": 52.009298,
+      "longitude": 4.591841,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 357,
+      "name": "Hordijk",
+      "latitude": 52.426735,
+      "longitude": 4.790572,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 358,
+      "name": "Hordijk Verpakkingsindustrie",
+      "latitude": 52.428201,
+      "longitude": 4.792753,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 359,
+      "name": "Hosokawa Micron b.v.",
+      "latitude": 51.949977,
+      "longitude": 6.299332,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 360,
+      "name": "Houkesloot",
+      "latitude": 53.189036,
+      "longitude": 5.757928,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 361,
+      "name": "Houtwarenfabriek JéWé B.V.",
+      "latitude": 51.832057,
+      "longitude": 4.959558,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 362,
+      "name": "Houtwerk Delft",
+      "latitude": 51.994287,
+      "longitude": 4.365332,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 363,
+      "name": "Houtzagerij Twente",
+      "latitude": 52.427974,
+      "longitude": 6.48122,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 364,
+      "name": "Huhtamaki",
+      "latitude": 53.18154,
+      "longitude": 5.540929,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 365,
+      "name": "Hulpwarmtecentrale 1",
+      "latitude": 52.501111,
+      "longitude": 4.96659,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 366,
+      "name": "Hulpwarmtecentrale 2",
+      "latitude": 52.510963,
+      "longitude": 4.93603,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 367,
+      "name": "Hunter Douglas",
+      "latitude": 53.164627,
+      "longitude": 6.376832,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 368,
+      "name": "Hunting Energy Services B.V.",
+      "latitude": 52.466704,
+      "longitude": 4.662622,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 369,
+      "name": "Hupkes Houthandel",
+      "latitude": 52.055037,
+      "longitude": 6.106971,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 370,
+      "name": "Huuskes",
+      "latitude": 52.218699,
+      "longitude": 6.932521,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 371,
+      "name": "Huuskes",
+      "latitude": 52.297909,
+      "longitude": 6.913502,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 372,
+      "name": "Huuskes",
+      "latitude": 53.134737,
+      "longitude": 7.057508,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 373,
+      "name": "IAI industrial systems bv",
+      "latitude": 51.406256,
+      "longitude": 5.410009,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 374,
+      "name": "IJmond timmerfabriek",
+      "latitude": 52.475202,
+      "longitude": 4.658084,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 375,
+      "name": "IJzervlechtbedrijf Burger & Co",
+      "latitude": 52.517911,
+      "longitude": 5.011882,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 376,
+      "name": "In-Fluid BV",
+      "latitude": 52.533672,
+      "longitude": 6.419069,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 377,
+      "name": "Inoplast",
+      "latitude": 52.142678,
+      "longitude": 5.41277,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 378,
+      "name": "Inpakhuis Erkin",
+      "latitude": 52.075917,
+      "longitude": 4.909366,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 379,
+      "name": "Integra Metalceiling Systems",
+      "latitude": 52.42891,
+      "longitude": 4.781721,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 380,
+      "name": "Intergas Verwarming BV",
+      "latitude": 52.648879,
+      "longitude": 6.751964,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 381,
+      "name": "Invicon Industrial BV Machinefabrikant",
+      "latitude": 52.206344,
+      "longitude": 5.140511,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 382,
+      "name": "Invista",
+      "latitude": 50.871915,
+      "longitude": 6.033598,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 383,
+      "name": "It's me",
+      "latitude": 52.38301,
+      "longitude": 4.690625,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 384,
+      "name": "Itec Luchtreiniging",
+      "latitude": 52.222099,
+      "longitude": 6.084613,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 385,
+      "name": "JAelektro",
+      "latitude": 51.496674,
+      "longitude": 3.876832,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 386,
+      "name": "JE Bouw",
+      "latitude": 52.518581,
+      "longitude": 5.013833,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 387,
+      "name": "JKG",
+      "latitude": 51.493867,
+      "longitude": 3.884008,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 388,
+      "name": "JOBA Heemskerk",
+      "latitude": 52.505222,
+      "longitude": 4.651755,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 389,
+      "name": "Jacobs Douwe Egberts",
+      "latitude": 52.97539,
+      "longitude": 5.790659,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 390,
+      "name": "Jamach B.V. Machinefabriek",
+      "latitude": 51.278433,
+      "longitude": 6.08206,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 391,
+      "name": "Jan De Nul Workshop Zelzate",
+      "latitude": 51.212479,
+      "longitude": 3.807019,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 392,
+      "name": "Janssen & Heuning",
+      "latitude": 53.201065,
+      "longitude": 6.597806,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 393,
+      "name": "Java Deurenfabriek B.V.",
+      "latitude": 52.470727,
+      "longitude": 4.66125,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 394,
+      "name": "Jodeco Glass",
+      "latitude": 51.856273,
+      "longitude": 6.472908,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 395,
+      "name": "Johma salades",
+      "latitude": 52.246957,
+      "longitude": 7.010597,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 396,
+      "name": "Johnson & Johnson Vision",
+      "latitude": 53.192799,
+      "longitude": 6.547614,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 397,
+      "name": "Juncker",
+      "latitude": 52.184638,
+      "longitude": 5.99262,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 398,
+      "name": "JéWéRET Verkoopmaatschappij B.V.",
+      "latitude": 51.83452,
+      "longitude": 4.951135,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 399,
+      "name": "KDS Holding B.V.",
+      "latitude": 51.267409,
+      "longitude": 5.723248,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 400,
+      "name": "KLAFA Chocola",
+      "latitude": 53.149388,
+      "longitude": 5.48055,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 401,
+      "name": "KLM Transporte GmbH",
+      "latitude": 52.018414,
+      "longitude": 6.778545,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 402,
+      "name": "KMC Chain Europe NV",
+      "latitude": 52.963724,
+      "longitude": 5.894467,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 403,
+      "name": "KSB Nederland",
+      "latitude": 51.814249,
+      "longitude": 4.525505,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 404,
+      "name": "KWB Transportsystemen",
+      "latitude": 53.241333,
+      "longitude": 5.663041,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 405,
+      "name": "Kalkhuis Aandrijftechniek BV",
+      "latitude": 52.643262,
+      "longitude": 5.094054,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 406,
+      "name": "Kalkoven De Valk",
+      "latitude": 50.839612,
+      "longitude": 5.773568,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 407,
+      "name": "Kamminga Slachtbedrijf",
+      "latitude": 53.182325,
+      "longitude": 6.182011,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 408,
+      "name": "Kanters Special Products",
+      "latitude": 51.814795,
+      "longitude": 4.526867,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 409,
+      "name": "Kemper",
+      "latitude": 51.916551,
+      "longitude": 5.656352,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 410,
+      "name": "Kerckhaert",
+      "latitude": 51.322859,
+      "longitude": 3.986685,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 411,
+      "name": "Kesbeke",
+      "latitude": 52.383318,
+      "longitude": 4.857224,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 412,
+      "name": "Ketjen",
+      "latitude": 52.385034,
+      "longitude": 4.935896,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 413,
+      "name": "Kijlstra",
+      "latitude": 53.085611,
+      "longitude": 6.876266,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 414,
+      "name": "Kist & Co.",
+      "latitude": 51.892179,
+      "longitude": 4.588125,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 415,
+      "name": "Kisuma Chemicals B.V.",
+      "latitude": 53.111754,
+      "longitude": 6.894453,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 416,
+      "name": "Kivit Staalbouw",
+      "latitude": 50.948065,
+      "longitude": 5.785422,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 417,
+      "name": "Klip BV",
+      "latitude": 51.897639,
+      "longitude": 4.68987,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 418,
+      "name": "Knook AGF",
+      "latitude": 52.51964,
+      "longitude": 4.999833,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 419,
+      "name": "Koninklijke ERU",
+      "latitude": 52.074456,
+      "longitude": 4.905853,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 420,
+      "name": "Koninklijke Grolsch N.V.",
+      "latitude": 52.206306,
+      "longitude": 6.816342,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 421,
+      "name": "Koninklijke Nederlandse Munt",
+      "latitude": 52.019699,
+      "longitude": 5.145251,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 422,
+      "name": "Koninklijke Van Der Most",
+      "latitude": 52.397455,
+      "longitude": 6.044579,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 423,
+      "name": "Koudasfalt Staphorst",
+      "latitude": 52.691468,
+      "longitude": 6.158558,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 424,
+      "name": "Kramer Distripark Depot",
+      "latitude": 51.939779,
+      "longitude": 4.009815,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 425,
+      "name": "Krepla",
+      "latitude": 52.532749,
+      "longitude": 6.41611,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 426,
+      "name": "Kroon Vlees",
+      "latitude": 53.209474,
+      "longitude": 6.605672,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 427,
+      "name": "Kroon Vleeswaren",
+      "latitude": 53.250813,
+      "longitude": 6.034954,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 428,
+      "name": "Krul Machinefabriek",
+      "latitude": 52.272147,
+      "longitude": 4.629236,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 429,
+      "name": "Kverneland Mechatronics",
+      "latitude": 52.265108,
+      "longitude": 4.639619,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 430,
+      "name": "L. van Heek Textiles bv",
+      "latitude": 52.24884,
+      "longitude": 7.011342,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 431,
+      "name": "LPG pomp",
+      "latitude": 52.650357,
+      "longitude": 6.752761,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 432,
+      "name": "LV",
+      "latitude": 51.875305,
+      "longitude": 4.293369,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 433,
+      "name": "Landskroon",
+      "latitude": 52.239973,
+      "longitude": 5.988327,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 434,
+      "name": "Laserbeest",
+      "latitude": 52.021212,
+      "longitude": 4.349096,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 435,
+      "name": "Laura Staalcenter Beverwijk",
+      "latitude": 52.468759,
+      "longitude": 4.65984,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 436,
+      "name": "Lemmen Maatwerk In Zink Bv Gebroeders",
+      "latitude": 51.290243,
+      "longitude": 6.090535,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 437,
+      "name": "Lemoine",
+      "latitude": 52.303382,
+      "longitude": 5.984168,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 438,
+      "name": "Lensink constructie machines",
+      "latitude": 52.012218,
+      "longitude": 6.588954,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 439,
+      "name": "Linden Staalbouw",
+      "latitude": 52.511188,
+      "longitude": 5.010333,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 440,
+      "name": "Lion Metals",
+      "latitude": 51.943537,
+      "longitude": 4.500679,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 441,
+      "name": "Lismar Engineering B.V.",
+      "latitude": 52.293985,
+      "longitude": 4.896861,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 442,
+      "name": "Loekie",
+      "latitude": 52.184817,
+      "longitude": 5.992494,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 443,
+      "name": "Loonbedrijf Nood-Holland-Noord",
+      "latitude": 52.855647,
+      "longitude": 4.841293,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 444,
+      "name": "Loparex",
+      "latitude": 52.191165,
+      "longitude": 5.943661,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 445,
+      "name": "Lubrizol",
+      "latitude": 53.316067,
+      "longitude": 6.961978,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 446,
+      "name": "Lubrizol",
+      "latitude": 53.316576,
+      "longitude": 6.962071,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 447,
+      "name": "Luijten Verwarming BV",
+      "latitude": 51.902147,
+      "longitude": 4.693482,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 448,
+      "name": "MAAK Haarlem",
+      "latitude": 52.384907,
+      "longitude": 4.657051,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 449,
+      "name": "ME-AT Leeuwarden",
+      "latitude": 53.184392,
+      "longitude": 5.758056,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 450,
+      "name": "MG Energy Systems",
+      "latitude": 53.200593,
+      "longitude": 5.762073,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 451,
+      "name": "Maats Pipeline Professionals",
+      "latitude": 52.248123,
+      "longitude": 6.58915,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 452,
+      "name": "Machine- & Lierenfabriek C. Kraaijeveld B.V.",
+      "latitude": 51.820276,
+      "longitude": 4.764249,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 453,
+      "name": "Machinefabriek Adrichem BV",
+      "latitude": 52.475684,
+      "longitude": 4.658659,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 454,
+      "name": "Machinefabriek De Gouw",
+      "latitude": 52.510273,
+      "longitude": 5.004214,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 455,
+      "name": "Machinefabriek Goudkuil Apeldoorn B.V.",
+      "latitude": 52.193739,
+      "longitude": 5.936607,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 456,
+      "name": "Machinefabriek Hasselt",
+      "latitude": 52.591788,
+      "longitude": 6.083615,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 457,
+      "name": "Machinefabriek J.M. van den Munckhof B.V.",
+      "latitude": 51.473866,
+      "longitude": 6.047979,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 458,
+      "name": "Machinefabriek Otten",
+      "latitude": 51.61276,
+      "longitude": 4.755848,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 459,
+      "name": "Machinefabriek Rinsma B.V.",
+      "latitude": 52.997915,
+      "longitude": 6.571476,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 460,
+      "name": "Machinefabriek Rusthoven",
+      "latitude": 53.215936,
+      "longitude": 6.596312,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 461,
+      "name": "Machinefabriek Westerhof B.V.",
+      "latitude": 52.388175,
+      "longitude": 7.01395,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 462,
+      "name": "Machinefabriek Wolthuis",
+      "latitude": 52.509347,
+      "longitude": 4.783324,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 463,
+      "name": "Maco Beschläge B.V.",
+      "latitude": 51.998749,
+      "longitude": 6.355326,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 464,
+      "name": "Mannen van Staal",
+      "latitude": 53.186879,
+      "longitude": 5.75214,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 465,
+      "name": "Marine Olie Tank Terminal",
+      "latitude": 52.495565,
+      "longitude": 4.796302,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 466,
+      "name": "Mars Food Europe",
+      "latitude": 51.830237,
+      "longitude": 4.440619,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 467,
+      "name": "Meaf Machines BV",
+      "latitude": 51.499709,
+      "longitude": 4.049837,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 468,
+      "name": "Mebatech",
+      "latitude": 53.197624,
+      "longitude": 5.763263,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 469,
+      "name": "Mebin",
+      "latitude": 51.685711,
+      "longitude": 5.33119,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 470,
+      "name": "Mebin",
+      "latitude": 53.194666,
+      "longitude": 5.766974,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 471,
+      "name": "Mechanische Industrie Coronam B.V.",
+      "latitude": 52.428572,
+      "longitude": 4.789489,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 472,
+      "name": "Mecotech",
+      "latitude": 52.018319,
+      "longitude": 4.654777,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 473,
+      "name": "Meeusen Composites",
+      "latitude": 51.395836,
+      "longitude": 3.563986,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 474,
+      "name": "Meneba",
+      "latitude": 52.502144,
+      "longitude": 4.79303,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 475,
+      "name": "Menginstallatie Overijssel",
+      "latitude": 52.582592,
+      "longitude": 6.096156,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 476,
+      "name": "Metaal Techniek Apeldoorn",
+      "latitude": 52.194036,
+      "longitude": 5.935985,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 477,
+      "name": "Meubelfabriek Crum",
+      "latitude": 51.986607,
+      "longitude": 5.741988,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 478,
+      "name": "Meubelindustrie van de Voorde",
+      "latitude": 51.272519,
+      "longitude": 4.029592,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 479,
+      "name": "Meubitrend",
+      "latitude": 51.736409,
+      "longitude": 5.565201,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 480,
+      "name": "Microtechniek",
+      "latitude": 52.468949,
+      "longitude": 4.640543,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 481,
+      "name": "Microtechniek",
+      "latitude": 52.473113,
+      "longitude": 4.660444,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 482,
+      "name": "Mobacc",
+      "latitude": 53.09863,
+      "longitude": 6.891513,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 483,
+      "name": "Molenaar Betonindustrie",
+      "latitude": 51.517019,
+      "longitude": 3.892209,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 484,
+      "name": "Molenaar Haarlem BV",
+      "latitude": 52.380345,
+      "longitude": 4.692087,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 485,
+      "name": "Mollink",
+      "latitude": 52.432464,
+      "longitude": 6.433089,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 486,
+      "name": "Mombarg Beton",
+      "latitude": 51.903935,
+      "longitude": 6.361994,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 487,
+      "name": "Morssinkhof Plastics GmbH",
+      "latitude": 52.645232,
+      "longitude": 6.750396,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 488,
+      "name": "Multi papier",
+      "latitude": 52.516011,
+      "longitude": 5.01238,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 489,
+      "name": "Murre Technologies",
+      "latitude": 51.422821,
+      "longitude": 4.10937,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 490,
+      "name": "Mytri",
+      "latitude": 52.189057,
+      "longitude": 5.940378,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 491,
+      "name": "NKI",
+      "latitude": 52.130076,
+      "longitude": 6.628552,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 492,
+      "name": "Nabuurs supply chain solutions",
+      "latitude": 51.891401,
+      "longitude": 5.814574,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 493,
+      "name": "Nannoka Vulcanus",
+      "latitude": 51.984168,
+      "longitude": 6.256302,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 494,
+      "name": "Neco",
+      "latitude": 52.1292,
+      "longitude": 6.623829,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 495,
+      "name": "Nedcam",
+      "latitude": 52.972369,
+      "longitude": 5.950063,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 496,
+      "name": "Nederhoed",
+      "latitude": 53.18955,
+      "longitude": 6.375588,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 497,
+      "name": "Nedmag",
+      "latitude": 53.115308,
+      "longitude": 6.89588,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 498,
+      "name": "Nefit Industrial",
+      "latitude": 52.242526,
+      "longitude": 6.183949,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 499,
+      "name": "Nefit Industrial",
+      "latitude": 52.243187,
+      "longitude": 6.178859,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 500,
+      "name": "Neways Leeuwarden",
+      "latitude": 53.202976,
+      "longitude": 5.763893,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 501,
+      "name": "Niacet",
+      "latitude": 51.883039,
+      "longitude": 5.41639,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 502,
+      "name": "Niverplast",
+      "latitude": 52.356415,
+      "longitude": 6.508689,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 503,
+      "name": "Noord Prefab Beton",
+      "latitude": 53.258238,
+      "longitude": 6.14835,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 504,
+      "name": "Nouryon MCA",
+      "latitude": 53.316803,
+      "longitude": 6.953887,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 505,
+      "name": "Nouryon MEB",
+      "latitude": 53.316964,
+      "longitude": 6.952279,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 506,
+      "name": "Nouryon Performance Formulations B.V.",
+      "latitude": 53.319758,
+      "longitude": 6.947432,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 507,
+      "name": "Novetec",
+      "latitude": 51.846994,
+      "longitude": 4.672007,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 508,
+      "name": "Numafa Cleaning & Automation",
+      "latitude": 51.817116,
+      "longitude": 4.529344,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 509,
+      "name": "OBO Banden BV",
+      "latitude": 52.552788,
+      "longitude": 6.646126,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 510,
+      "name": "OCI Methanol Europe",
+      "latitude": 53.31748,
+      "longitude": 6.9664,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 511,
+      "name": "OOAK Company",
+      "latitude": 51.903187,
+      "longitude": 4.352343,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 512,
+      "name": "Offeringa's Gortproduktenfabrieken",
+      "latitude": 53.2359,
+      "longitude": 6.583085,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 513,
+      "name": "Offerman / Terbeke",
+      "latitude": 52.120612,
+      "longitude": 6.526968,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 514,
+      "name": "Oliehoorn",
+      "latitude": 52.670798,
+      "longitude": 5.05578,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 515,
+      "name": "Oliehoorn Speciaalsauzen BV",
+      "latitude": 53.108271,
+      "longitude": 6.13323,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 516,
+      "name": "Optiwa",
+      "latitude": 51.290243,
+      "longitude": 6.08988,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 517,
+      "name": "Organon",
+      "latitude": 51.762455,
+      "longitude": 5.534014,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 518,
+      "name": "Orgaworld",
+      "latitude": 52.398109,
+      "longitude": 4.807822,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 519,
+      "name": "Otolift",
+      "latitude": 51.9234,
+      "longitude": 4.796411,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 520,
+      "name": "Ovako Twente B.V.",
+      "latitude": 52.36848,
+      "longitude": 6.613928,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 521,
+      "name": "PAL-V Europe NV",
+      "latitude": 51.713251,
+      "longitude": 4.890021,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 522,
+      "name": "PMF Mechanical",
+      "latitude": 53.40911,
+      "longitude": 6.676931,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 523,
+      "name": "PNO Products",
+      "latitude": 51.544011,
+      "longitude": 4.497388,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 524,
+      "name": "PPD Instore Oss",
+      "latitude": 51.738317,
+      "longitude": 5.555623,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 525,
+      "name": "PPF Partner in Pet Food",
+      "latitude": 51.95726,
+      "longitude": 6.288088,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 526,
+      "name": "PPG Coatings B.V.",
+      "latitude": 51.882269,
+      "longitude": 5.411657,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 527,
+      "name": "PPG Coatings Nederland B.V.",
+      "latitude": 52.405835,
+      "longitude": 4.7617,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 528,
+      "name": "PWT Van Der Wegen Gears B.V.",
+      "latitude": 51.569503,
+      "longitude": 5.100588,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 529,
+      "name": "Paardekooper B.V.",
+      "latitude": 51.822984,
+      "longitude": 4.436857,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 530,
+      "name": "Papierfabriek Doetinchem",
+      "latitude": 51.959788,
+      "longitude": 6.29329,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 531,
+      "name": "Paramelt",
+      "latitude": 53.100765,
+      "longitude": 6.888705,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 532,
+      "name": "Peekstok Construction",
+      "latitude": 51.854508,
+      "longitude": 4.646776,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 533,
+      "name": "Peekstok Machining",
+      "latitude": 51.854155,
+      "longitude": 4.646969,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 534,
+      "name": "Pellikaan Verpakkingen B.V.",
+      "latitude": 51.825826,
+      "longitude": 4.802796,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 535,
+      "name": "PepsiCo Nederland",
+      "latitude": 52.673787,
+      "longitude": 4.80251,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 536,
+      "name": "Perfox",
+      "latitude": 53.094443,
+      "longitude": 6.88258,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 537,
+      "name": "Piet Daane",
+      "latitude": 51.472247,
+      "longitude": 3.588981,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 538,
+      "name": "Plaats Liftenbouw",
+      "latitude": 51.751714,
+      "longitude": 4.553755,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 539,
+      "name": "Plastirol B.V.",
+      "latitude": 51.832857,
+      "longitude": 4.753313,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 540,
+      "name": "Plegt-Vos Houtindustrie",
+      "latitude": 52.463278,
+      "longitude": 6.720382,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 541,
+      "name": "Plegt-Vos Slimme Huizenfabriek",
+      "latitude": 52.37605,
+      "longitude": 6.605755,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 542,
+      "name": "Pluimveeslachterij van der Meer",
+      "latitude": 53.191073,
+      "longitude": 5.637968,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 543,
+      "name": "Poelstra machinefabriek",
+      "latitude": 53.215118,
+      "longitude": 6.539478,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 544,
+      "name": "Polaroid",
+      "latitude": 52.223292,
+      "longitude": 6.901703,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 545,
+      "name": "Polskamp Meat Industrie",
+      "latitude": 52.125505,
+      "longitude": 5.751751,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 546,
+      "name": "Polskamp Meat Industrie",
+      "latitude": 52.292134,
+      "longitude": 5.608169,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 547,
+      "name": "PolyBiotic Solutions",
+      "latitude": 51.432523,
+      "longitude": 5.443589,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 548,
+      "name": "Portiersloge Eaton",
+      "latitude": 52.292083,
+      "longitude": 6.78189,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 549,
+      "name": "Post Staalbouw",
+      "latitude": 52.471534,
+      "longitude": 4.659963,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 550,
+      "name": "Pouw betoncentrale",
+      "latitude": 53.205812,
+      "longitude": 6.605396,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 551,
+      "name": "Preco",
+      "latitude": 52.196434,
+      "longitude": 6.039755,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 552,
+      "name": "Prestotype BV",
+      "latitude": 52.42831,
+      "longitude": 4.79167,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 553,
+      "name": "Primus Wafer Paper",
+      "latitude": 52.432513,
+      "longitude": 4.864625,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 554,
+      "name": "Printshopz",
+      "latitude": 52.383779,
+      "longitude": 7.016995,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 555,
+      "name": "Promen",
+      "latitude": 52.00592,
+      "longitude": 4.722705,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 556,
+      "name": "Promessa",
+      "latitude": 52.24735,
+      "longitude": 6.181413,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 557,
+      "name": "Prysmian",
+      "latitude": 51.452826,
+      "longitude": 5.448263,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 558,
+      "name": "Prysmian",
+      "latitude": 51.610302,
+      "longitude": 6.037817,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 559,
+      "name": "Prysmian",
+      "latitude": 51.998013,
+      "longitude": 4.365563,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 560,
+      "name": "Prysmian",
+      "latitude": 52.760387,
+      "longitude": 6.910916,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 561,
+      "name": "Purified Metal Company",
+      "latitude": 53.304613,
+      "longitude": 6.960436,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 562,
+      "name": "Q-Farms",
+      "latitude": 53.083531,
+      "longitude": 6.883228,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 563,
+      "name": "QSIL",
+      "latitude": 53.136919,
+      "longitude": 7.055082,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 564,
+      "name": "Qizini",
+      "latitude": 52.248748,
+      "longitude": 7.015075,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 565,
+      "name": "Qlip",
+      "latitude": 52.156842,
+      "longitude": 6.207385,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 566,
+      "name": "Quatra",
+      "latitude": 52.399042,
+      "longitude": 4.808889,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 567,
+      "name": "Quooker Headquarters",
+      "latitude": 51.873192,
+      "longitude": 4.607386,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 568,
+      "name": "Quooker Nijverheidstraat",
+      "latitude": 51.8725,
+      "longitude": 4.60656,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 569,
+      "name": "RDM Trainingplant",
+      "latitude": 51.898561,
+      "longitude": 4.414747,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 570,
+      "name": "RIOTECH",
+      "latitude": 51.813694,
+      "longitude": 4.503134,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 571,
+      "name": "RSP Technology",
+      "latitude": 53.304935,
+      "longitude": 6.977093,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 572,
+      "name": "Remat Chemie B.V.",
+      "latitude": 51.465638,
+      "longitude": 5.668562,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 573,
+      "name": "Remeha",
+      "latitude": 52.193803,
+      "longitude": 5.981644,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 574,
+      "name": "Remondis Rioolservice West BV",
+      "latitude": 52.536362,
+      "longitude": 4.720038,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 575,
+      "name": "Resato",
+      "latitude": 53.026458,
+      "longitude": 6.576132,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 576,
+      "name": "RezScale3D",
+      "latitude": 52.461871,
+      "longitude": 4.589889,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 577,
+      "name": "Ringoven Vogelensangh",
+      "latitude": 51.889791,
+      "longitude": 5.675439,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 578,
+      "name": "Rockwool",
+      "latitude": 51.172226,
+      "longitude": 6.037498,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 579,
+      "name": "Roelofs",
+      "latitude": 52.357759,
+      "longitude": 6.493716,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 580,
+      "name": "Romar-Voss BV",
+      "latitude": 51.26124,
+      "longitude": 5.904345,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 581,
+      "name": "Romein Beton",
+      "latitude": 51.916669,
+      "longitude": 5.656355,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 582,
+      "name": "Rotterdam Ship Repair B.V.",
+      "latitude": 51.88606,
+      "longitude": 4.433904,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 583,
+      "name": "Rouwmaat",
+      "latitude": 52.230329,
+      "longitude": 6.846518,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 584,
+      "name": "Royal Joh. Enschede",
+      "latitude": 52.383347,
+      "longitude": 4.664682,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 585,
+      "name": "Royal Koopmans",
+      "latitude": 53.200358,
+      "longitude": 5.821781,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 586,
+      "name": "Royal Pas Reform",
+      "latitude": 51.903123,
+      "longitude": 6.25478,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 587,
+      "name": "Royal Smit & Zoon",
+      "latitude": 52.172421,
+      "longitude": 5.353517,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 588,
+      "name": "Royal Vriesco",
+      "latitude": 53.214715,
+      "longitude": 5.779805,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 589,
+      "name": "Ruitenberg Ingredients",
+      "latitude": 52.725467,
+      "longitude": 6.256867,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 590,
+      "name": "Rutenfrans Machine- en Apparatenbouw",
+      "latitude": 52.382566,
+      "longitude": 7.01783,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 591,
+      "name": "Ruël Staalconstructies",
+      "latitude": 52.384793,
+      "longitude": 7.014676,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 592,
+      "name": "SABIC",
+      "latitude": 50.959908,
+      "longitude": 5.791661,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 593,
+      "name": "SCM Group Nederland",
+      "latitude": 52.508047,
+      "longitude": 4.783598,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 594,
+      "name": "SEW-Eurodrive",
+      "latitude": 51.923255,
+      "longitude": 4.425892,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 595,
+      "name": "SIT Controls",
+      "latitude": 52.731854,
+      "longitude": 6.489947,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 596,
+      "name": "SMI VanderPloeg",
+      "latitude": 53.197259,
+      "longitude": 5.83517,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 597,
+      "name": "SRC Special Refining Company",
+      "latitude": 52.426001,
+      "longitude": 4.818404,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 598,
+      "name": "Sabic",
+      "latitude": 51.509917,
+      "longitude": 4.255535,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 599,
+      "name": "Saint Gobain Abrasives B.V.",
+      "latitude": 52.089064,
+      "longitude": 6.644215,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 600,
+      "name": "Saint Pauls",
+      "latitude": 51.265737,
+      "longitude": 4.057649,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 601,
+      "name": "Saturn Petcare",
+      "latitude": 52.46951,
+      "longitude": 6.068018,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 602,
+      "name": "Scania Painting Meppel",
+      "latitude": 52.690473,
+      "longitude": 6.172852,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 603,
+      "name": "Scania Production Zwolle",
+      "latitude": 52.512799,
+      "longitude": 6.066634,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 604,
+      "name": "Scelta Products",
+      "latitude": 51.462382,
+      "longitude": 4.031868,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 605,
+      "name": "Schenkeveld Schiphol",
+      "latitude": 52.261233,
+      "longitude": 4.69859,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 606,
+      "name": "Schiphorst",
+      "latitude": 52.241872,
+      "longitude": 6.218593,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 607,
+      "name": "Schipper Metaal",
+      "latitude": 52.212115,
+      "longitude": 5.981363,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 608,
+      "name": "Schipper Technische Services",
+      "latitude": 52.36783,
+      "longitude": 6.613609,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 609,
+      "name": "Schouten&Visschers",
+      "latitude": 52.346786,
+      "longitude": 5.991092,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 610,
+      "name": "Schreurs Verwarming B.V.",
+      "latitude": 51.281602,
+      "longitude": 6.084358,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 611,
+      "name": "Seesinkbeek",
+      "latitude": 51.914023,
+      "longitude": 6.406344,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 612,
+      "name": "Sensus",
+      "latitude": 52.519171,
+      "longitude": 6.071463,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 613,
+      "name": "Sepawand",
+      "latitude": 52.360045,
+      "longitude": 6.492612,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 614,
+      "name": "Sif",
+      "latitude": 51.206752,
+      "longitude": 5.997869,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 615,
+      "name": "Simian",
+      "latitude": 53.173206,
+      "longitude": 6.687088,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 616,
+      "name": "Slachthuis Drachten",
+      "latitude": 53.112668,
+      "longitude": 6.06209,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 617,
+      "name": "Slachthuis Wolvega",
+      "latitude": 52.880278,
+      "longitude": 5.995152,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 618,
+      "name": "Slibverwerkinginstallatie Mierlo",
+      "latitude": 51.441843,
+      "longitude": 5.572278,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 619,
+      "name": "Smederij Besselink",
+      "latitude": 52.024712,
+      "longitude": 6.294201,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 620,
+      "name": "Smit Mobile Equipment",
+      "latitude": 51.823584,
+      "longitude": 4.43411,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 621,
+      "name": "Smurfit Kappa",
+      "latitude": 52.139322,
+      "longitude": 6.061737,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 622,
+      "name": "Smurfit Kappa TWINCORR",
+      "latitude": 53.072712,
+      "longitude": 6.933367,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 623,
+      "name": "Smurfit Westrock Roermond Papier",
+      "latitude": 51.206527,
+      "longitude": 6.001714,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 624,
+      "name": "SmurfitKappa Orkopak",
+      "latitude": 52.499639,
+      "longitude": 6.129224,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 625,
+      "name": "Snoek Bakkerijen",
+      "latitude": 51.953987,
+      "longitude": 4.567546,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 626,
+      "name": "Solidus Solutions",
+      "latitude": 53.092819,
+      "longitude": 6.986216,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 627,
+      "name": "Solidus Solutions",
+      "latitude": 53.182185,
+      "longitude": 7.203322,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 628,
+      "name": "Solidus Solutions",
+      "latitude": 53.21352,
+      "longitude": 6.507106,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 629,
+      "name": "Solvay Solutions Nederland B.V.",
+      "latitude": 51.670839,
+      "longitude": 4.562414,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 630,
+      "name": "Sonac",
+      "latitude": 51.42814,
+      "longitude": 5.433256,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 631,
+      "name": "Sondex BV",
+      "latitude": 52.513792,
+      "longitude": 5.006439,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 632,
+      "name": "Sonneborn Refined Products B.V.",
+      "latitude": 52.467848,
+      "longitude": 4.80343,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 633,
+      "name": "Sparta",
+      "latitude": 52.184726,
+      "longitude": 5.992559,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 634,
+      "name": "Springer & Lippes Drukkers B.V.",
+      "latitude": 52.471939,
+      "longitude": 4.661222,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 635,
+      "name": "Stadler",
+      "latitude": 53.195663,
+      "longitude": 5.783913,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 636,
+      "name": "Steenfabriek Nievelstein",
+      "latitude": 50.893043,
+      "longitude": 6.073546,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 637,
+      "name": "Steenfabriek Wienerberger",
+      "latitude": 51.968948,
+      "longitude": 5.743181,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 638,
+      "name": "Steenindustrie Strating",
+      "latitude": 53.091235,
+      "longitude": 6.988653,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 639,
+      "name": "Stemin Breitbach",
+      "latitude": 52.168989,
+      "longitude": 6.391279,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 640,
+      "name": "Stepan Netherlands B.V.",
+      "latitude": 51.450278,
+      "longitude": 3.682324,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 641,
+      "name": "Stolthaven Moerdijk",
+      "latitude": 51.678775,
+      "longitude": 4.582668,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 642,
+      "name": "StoneAge Tools Netherlands",
+      "latitude": 51.813596,
+      "longitude": 4.503044,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 643,
+      "name": "Stork",
+      "latitude": 52.248983,
+      "longitude": 6.791015,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 644,
+      "name": "Storteboom",
+      "latitude": 53.182595,
+      "longitude": 6.248042,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 645,
+      "name": "Straalbedrijf Sanders",
+      "latitude": 52.947455,
+      "longitude": 4.772427,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 646,
+      "name": "Straaltechniek International BV",
+      "latitude": 51.57569,
+      "longitude": 5.09393,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 647,
+      "name": "Struik",
+      "latitude": 52.199012,
+      "longitude": 5.609188,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 648,
+      "name": "Strukton worksphere",
+      "latitude": 53.187224,
+      "longitude": 5.752119,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 649,
+      "name": "Swapfiets - werkplaats",
+      "latitude": 52.118891,
+      "longitude": 5.042567,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 650,
+      "name": "Syntegon",
+      "latitude": 51.25096,
+      "longitude": 5.684708,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 651,
+      "name": "Südpack",
+      "latitude": 53.213985,
+      "longitude": 6.265951,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 652,
+      "name": "TBS Roestvast staal Industrie",
+      "latitude": 53.067086,
+      "longitude": 5.718764,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 653,
+      "name": "TKF",
+      "latitude": 53.460095,
+      "longitude": 6.817001,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 654,
+      "name": "TOP Onions",
+      "latitude": 51.451539,
+      "longitude": 3.89249,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 655,
+      "name": "Tadano",
+      "latitude": 52.512849,
+      "longitude": 5.010198,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 656,
+      "name": "Tambach Staalwerken",
+      "latitude": 52.631551,
+      "longitude": 4.669016,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 657,
+      "name": "Tasseron",
+      "latitude": 52.051379,
+      "longitude": 4.409222,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 658,
+      "name": "Tata Steel Tubes Nederland",
+      "latitude": 51.804876,
+      "longitude": 4.625635,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 659,
+      "name": "Techno West Services",
+      "latitude": 51.462047,
+      "longitude": 4.030537,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 660,
+      "name": "Technofood",
+      "latitude": 52.382164,
+      "longitude": 7.021609,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 661,
+      "name": "Teeuwissen Rioolreiniging",
+      "latitude": 52.304765,
+      "longitude": 5.243293,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 662,
+      "name": "Teijin Aramid B.V.",
+      "latitude": 52.770617,
+      "longitude": 6.905213,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 663,
+      "name": "Teijin Aramid B.V. Delfzijl",
+      "latitude": 53.318616,
+      "longitude": 6.959147,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 664,
+      "name": "Ten Have Metaalwerken",
+      "latitude": 52.244474,
+      "longitude": 5.999817,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 665,
+      "name": "Tenax",
+      "latitude": 52.53076,
+      "longitude": 6.422156,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 666,
+      "name": "Tessenderlo Kerley",
+      "latitude": 50.983234,
+      "longitude": 5.798955,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 667,
+      "name": "The Chocolate Factory",
+      "latitude": 51.817731,
+      "longitude": 4.522386,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 668,
+      "name": "The Scelta Institute",
+      "latitude": 51.367209,
+      "longitude": 6.122281,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 669,
+      "name": "TheNewMakers",
+      "latitude": 51.894827,
+      "longitude": 4.584899,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 670,
+      "name": "Theodorus Niemeyer B.V.",
+      "latitude": 53.207715,
+      "longitude": 6.533213,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 671,
+      "name": "Thielco Staalindustrie B.V.",
+      "latitude": 51.281222,
+      "longitude": 6.080153,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 672,
+      "name": "Tiktak",
+      "latitude": 53.198331,
+      "longitude": 6.605422,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 673,
+      "name": "Tillwood",
+      "latitude": 53.256949,
+      "longitude": 6.145344,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 674,
+      "name": "Timesavers",
+      "latitude": 51.496754,
+      "longitude": 3.897788,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 675,
+      "name": "Timmerbedrijf Bos",
+      "latitude": 51.902929,
+      "longitude": 4.889675,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 676,
+      "name": "Timmerfabriek Kamminga",
+      "latitude": 52.791022,
+      "longitude": 6.107792,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 677,
+      "name": "Timmerfabriek Visser",
+      "latitude": 52.428338,
+      "longitude": 4.857361,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 678,
+      "name": "Timmerman",
+      "latitude": 51.573239,
+      "longitude": 3.803288,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 679,
+      "name": "Tiofarma Clinical Trials B.V.",
+      "latitude": 51.828507,
+      "longitude": 4.445347,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 680,
+      "name": "Tobroco",
+      "latitude": 51.587294,
+      "longitude": 5.200494,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 681,
+      "name": "Top Bakkers",
+      "latitude": 52.184397,
+      "longitude": 5.985101,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 682,
+      "name": "Toriel Lijmen",
+      "latitude": 52.205848,
+      "longitude": 5.976047,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 683,
+      "name": "Touwfabriek G. van der Lee B.V.",
+      "latitude": 52.024209,
+      "longitude": 4.860459,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 684,
+      "name": "Trio Keramisch bedrijf",
+      "latitude": 51.291519,
+      "longitude": 6.091491,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 685,
+      "name": "Trioworld",
+      "latitude": 53.176534,
+      "longitude": 5.437353,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 686,
+      "name": "Trivium Packaging",
+      "latitude": 53.201216,
+      "longitude": 5.826678,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 687,
+      "name": "Tulpfietsen",
+      "latitude": 50.877495,
+      "longitude": 5.722548,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 688,
+      "name": "Tweda Horeca Products",
+      "latitude": 52.166216,
+      "longitude": 5.363371,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 689,
+      "name": "Tweda Industrial",
+      "latitude": 52.166235,
+      "longitude": 5.363263,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 690,
+      "name": "Twentsche Kabelfabriek (TKF)",
+      "latitude": 52.155955,
+      "longitude": 6.728715,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 691,
+      "name": "Twentse Damast",
+      "latitude": 52.249125,
+      "longitude": 7.012334,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 692,
+      "name": "Tytane",
+      "latitude": 52.437028,
+      "longitude": 6.071672,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 693,
+      "name": "UNILIN Insulation",
+      "latitude": 51.584725,
+      "longitude": 5.193303,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 694,
+      "name": "Ubbink",
+      "latitude": 52.019188,
+      "longitude": 6.139398,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 695,
+      "name": "Unipro",
+      "latitude": 52.178804,
+      "longitude": 6.742178,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 696,
+      "name": "United Soft Drinks",
+      "latitude": 52.24241,
+      "longitude": 6.584394,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 697,
+      "name": "VDL Fibertech Industries B.V.",
+      "latitude": 51.355823,
+      "longitude": 5.269929,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 698,
+      "name": "VDL Industrial Modules",
+      "latitude": 51.468225,
+      "longitude": 5.610438,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 699,
+      "name": "VDL Konings B.V.",
+      "latitude": 51.237108,
+      "longitude": 6.054003,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 700,
+      "name": "VDL Steelweld",
+      "latitude": 51.604362,
+      "longitude": 4.776482,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 701,
+      "name": "VIOD Veren",
+      "latitude": 52.15993,
+      "longitude": 4.994858,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 702,
+      "name": "VION Enschede",
+      "latitude": 52.222802,
+      "longitude": 6.842535,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 703,
+      "name": "VION Food Group",
+      "latitude": 51.579138,
+      "longitude": 5.323394,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 704,
+      "name": "VIV Buisman",
+      "latitude": 52.003436,
+      "longitude": 6.355893,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 705,
+      "name": "VSH Fittings B.V.",
+      "latitude": 52.220236,
+      "longitude": 5.189688,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 706,
+      "name": "Van Beest International B.V.",
+      "latitude": 51.8182,
+      "longitude": 4.76652,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 707,
+      "name": "Van Dijk Banket B.V.",
+      "latitude": 52.64667,
+      "longitude": 6.088389,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 708,
+      "name": "Van Es Verpakking",
+      "latitude": 51.4992,
+      "longitude": 4.049362,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 709,
+      "name": "Van Galen - Klimaattechniek",
+      "latitude": 51.872847,
+      "longitude": 4.442127,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 710,
+      "name": "Van Huisstede Vlees",
+      "latitude": 53.197106,
+      "longitude": 5.628722,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 711,
+      "name": "Van Lankhorst",
+      "latitude": 51.798842,
+      "longitude": 4.647511,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 712,
+      "name": "Van Made",
+      "latitude": 52.354739,
+      "longitude": 6.500135,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 713,
+      "name": "Van Merksteijn Staalcoating",
+      "latitude": 52.374589,
+      "longitude": 6.281172,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 714,
+      "name": "Van Oordt",
+      "latitude": 51.823255,
+      "longitude": 4.431498,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 715,
+      "name": "Van Rooijen Logistiek",
+      "latitude": 51.467862,
+      "longitude": 5.427535,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 716,
+      "name": "Van Schie B.V.",
+      "latitude": 52.211115,
+      "longitude": 4.877305,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 717,
+      "name": "Van Werven Recycling B.V.",
+      "latitude": 52.426623,
+      "longitude": 5.922269,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 718,
+      "name": "Van Wijngaarden Zaanse",
+      "latitude": 52.50747,
+      "longitude": 4.783267,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 719,
+      "name": "Van der Bor",
+      "latitude": 52.697581,
+      "longitude": 6.178332,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 720,
+      "name": "Van der Endt - Louwerse CV",
+      "latitude": 51.483109,
+      "longitude": 4.0534,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 721,
+      "name": "Van der Kamp BV",
+      "latitude": 52.519644,
+      "longitude": 6.070114,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 722,
+      "name": "Vandemoortele Bakkerij",
+      "latitude": 50.958589,
+      "longitude": 5.978113,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 723,
+      "name": "Veal Fine",
+      "latitude": 52.214964,
+      "longitude": 6.811872,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 724,
+      "name": "Veldhuizen",
+      "latitude": 52.20011,
+      "longitude": 5.133712,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 725,
+      "name": "Veluvine",
+      "latitude": 51.612642,
+      "longitude": 4.756843,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 726,
+      "name": "Venster Techniek",
+      "latitude": 52.001162,
+      "longitude": 6.359518,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 727,
+      "name": "Veolia Papier & Plastic Recycling",
+      "latitude": 52.11051,
+      "longitude": 5.044788,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 728,
+      "name": "Vepa the furniture factory",
+      "latitude": 52.748868,
+      "longitude": 6.952976,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 729,
+      "name": "Verborg Engineering B.V.",
+      "latitude": 51.542375,
+      "longitude": 4.491213,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 730,
+      "name": "Verenfabriek DEKA",
+      "latitude": 51.894624,
+      "longitude": 4.456397,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 731,
+      "name": "Verhees Textiles b.v.",
+      "latitude": 51.736422,
+      "longitude": 5.569384,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 732,
+      "name": "Verhoef EMC B.V.",
+      "latitude": 51.820439,
+      "longitude": 4.762841,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 733,
+      "name": "Veritex",
+      "latitude": 52.219983,
+      "longitude": 5.779672,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 734,
+      "name": "Vermillion – Harlingen Treating Center",
+      "latitude": 53.186568,
+      "longitude": 5.435023,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 735,
+      "name": "Verstegen",
+      "latitude": 52.027622,
+      "longitude": 5.1002,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 736,
+      "name": "Vetipak b.v.",
+      "latitude": 51.741611,
+      "longitude": 5.562849,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 737,
+      "name": "Viscon",
+      "latitude": 51.788256,
+      "longitude": 4.614815,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 738,
+      "name": "Visser",
+      "latitude": 53.1833,
+      "longitude": 5.750577,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 739,
+      "name": "Vissers Stroopwafels b.v.",
+      "latitude": 51.738685,
+      "longitude": 5.558875,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 740,
+      "name": "Vitrite",
+      "latitude": 51.492931,
+      "longitude": 3.64172,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 741,
+      "name": "Vleesbedrijf Huls",
+      "latitude": 53.023621,
+      "longitude": 7.13753,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 742,
+      "name": "Vleesbedrijf de Vries",
+      "latitude": 53.235208,
+      "longitude": 5.994286,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 743,
+      "name": "Vlietjonge Staalhandel",
+      "latitude": 52.016511,
+      "longitude": 5.099394,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 744,
+      "name": "Vlisco",
+      "latitude": 51.475583,
+      "longitude": 5.654508,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 745,
+      "name": "Vloertechniek Hoogeveen",
+      "latitude": 52.732947,
+      "longitude": 6.525692,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 746,
+      "name": "Voith",
+      "latitude": 52.221432,
+      "longitude": 6.084559,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 747,
+      "name": "Voith Paper Fabrics",
+      "latitude": 52.157564,
+      "longitude": 6.734259,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 748,
+      "name": "Vopak Terminal Vlaardingen B.V.",
+      "latitude": 51.902736,
+      "longitude": 4.358784,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 749,
+      "name": "Vos Logistics",
+      "latitude": 51.736112,
+      "longitude": 5.567021,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 750,
+      "name": "Vrijdag Premium Printing",
+      "latitude": 51.433139,
+      "longitude": 5.45449,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 751,
+      "name": "Vénilia Décor",
+      "latitude": 52.208593,
+      "longitude": 6.807196,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 752,
+      "name": "Waalpaal",
+      "latitude": 52.507793,
+      "longitude": 5.008807,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 753,
+      "name": "Waddenmolen",
+      "latitude": 53.413639,
+      "longitude": 6.724843,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 754,
+      "name": "Wapro-Holland",
+      "latitude": 51.745636,
+      "longitude": 4.451052,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 755,
+      "name": "Weidenaar Worst",
+      "latitude": 53.323652,
+      "longitude": 6.014801,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 756,
+      "name": "Wemerman",
+      "latitude": 52.224707,
+      "longitude": 6.085103,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 757,
+      "name": "WenutButter",
+      "latitude": 53.226343,
+      "longitude": 6.567881,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 758,
+      "name": "Westfort",
+      "latitude": 51.833208,
+      "longitude": 4.941775,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 759,
+      "name": "Westfort",
+      "latitude": 52.011891,
+      "longitude": 5.064049,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 760,
+      "name": "Westfort",
+      "latitude": 52.036152,
+      "longitude": 4.862677,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 761,
+      "name": "Wickey GmbH & Co. KG",
+      "latitude": 50.986585,
+      "longitude": 5.988609,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 762,
+      "name": "Wierikx Diervoeders",
+      "latitude": 51.544724,
+      "longitude": 4.496436,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 763,
+      "name": "Wijlhuizen BV",
+      "latitude": 52.4304,
+      "longitude": 4.770923,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 764,
+      "name": "Wijngaard Kaas",
+      "latitude": 52.075192,
+      "longitude": 4.905873,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 765,
+      "name": "Wijnveen Aluminiumbouw B.V.",
+      "latitude": 51.959819,
+      "longitude": 5.643454,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 766,
+      "name": "Wilco",
+      "latitude": 52.16898,
+      "longitude": 5.362149,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 767,
+      "name": "Winterwarm Heating Solutions",
+      "latitude": 51.955817,
+      "longitude": 6.713771,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 768,
+      "name": "Wolswinkel Mengvoeders Leusden",
+      "latitude": 52.126015,
+      "longitude": 5.469807,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 769,
+      "name": "Worstmakerij Sjaak van der Schaaf",
+      "latitude": 53.151059,
+      "longitude": 6.130906,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 770,
+      "name": "Wuppermann Staal Netherlands",
+      "latitude": 51.691113,
+      "longitude": 4.595183,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 771,
+      "name": "Wynsma Mechanisatie",
+      "latitude": 53.217449,
+      "longitude": 5.781197,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 772,
+      "name": "Zandvliet Vleeswaren",
+      "latitude": 51.985599,
+      "longitude": 4.369671,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 773,
+      "name": "Zandvoort Draadindustrie",
+      "latitude": 51.971833,
+      "longitude": 6.266724,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 774,
+      "name": "Zandwinning De Hooidijk",
+      "latitude": 52.64071,
+      "longitude": 6.148396,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 775,
+      "name": "Zeelandia",
+      "latitude": 51.649391,
+      "longitude": 3.918611,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 776,
+      "name": "Zeolyst",
+      "latitude": 53.307618,
+      "longitude": 6.986318,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 777,
+      "name": "Zilverschoon Randwijk Steenbakkerij",
+      "latitude": 51.966494,
+      "longitude": 5.730208,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 778,
+      "name": "Zoeteweij Yerseke",
+      "latitude": 51.499253,
+      "longitude": 4.048496,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 779,
+      "name": "Zuidwal Gas production platform",
+      "latitude": 53.186472,
+      "longitude": 5.165647,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 780,
+      "name": "adapa",
+      "latitude": 52.165148,
+      "longitude": 5.366233,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 781,
+      "name": "bam modulaire en energieconcepten",
+      "latitude": 52.019519,
+      "longitude": 5.151627,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 782,
+      "name": "pompstation WML",
+      "latitude": 50.893735,
+      "longitude": 5.767077,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 783,
+      "name": "van Tol b.v.",
+      "latitude": 52.213041,
+      "longitude": 4.722829,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 784,
+      "name": "van Tuijl",
+      "latitude": 51.820759,
+      "longitude": 5.222467,
+      "osm_klasse": "man_made=works"
+    },
+    {
+      "id": 785,
+      "name": "van Tuijl",
+      "latitude": 51.820824,
+      "longitude": 5.223273,
+      "osm_klasse": "man_made=works"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: works (man_made=works) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged man_made=works in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 785 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: works (man_made=works) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: works (man_made=works) — 785 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 785 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

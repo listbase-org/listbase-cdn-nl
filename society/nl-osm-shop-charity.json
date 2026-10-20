@@ -1,0 +1,1178 @@
+{
+  "id": "nl-osm-shop-charity",
+  "name": "Netherlands OSM: charity (shop=charity)",
+  "title": "Netherlands OSM: charity (shop=charity)",
+  "description": "Named OpenStreetMap features tagged shop=charity in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "society",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 161,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Lôôsje",
+      "latitude": 51.748955,
+      "longitude": 4.105809,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 2,
+      "name": "'t vinCentje",
+      "latitude": 51.61071,
+      "longitude": 5.446999,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 3,
+      "name": "070Watt",
+      "latitude": 52.074407,
+      "longitude": 4.322419,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 4,
+      "name": "2Switch Kringloopwinkel",
+      "latitude": 52.162285,
+      "longitude": 6.413289,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 5,
+      "name": "4Noppes",
+      "latitude": 52.053945,
+      "longitude": 6.102875,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 6,
+      "name": "Bij Bosschardt",
+      "latitude": 53.113752,
+      "longitude": 6.097209,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 7,
+      "name": "Bij Bosshardt",
+      "latitude": 52.071926,
+      "longitude": 4.28938,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 8,
+      "name": "Café Matagalpa",
+      "latitude": 51.552677,
+      "longitude": 5.094595,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 9,
+      "name": "Canilos SnuffelWinkels",
+      "latitude": 50.816997,
+      "longitude": 5.892166,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 10,
+      "name": "De 2de kans",
+      "latitude": 51.178916,
+      "longitude": 5.898702,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 11,
+      "name": "De Basisz",
+      "latitude": 52.338923,
+      "longitude": 5.524442,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 12,
+      "name": "De Buurtkringloop",
+      "latitude": 52.363883,
+      "longitude": 4.936321,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 13,
+      "name": "De Ecokring",
+      "latitude": 52.06541,
+      "longitude": 5.203177,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 14,
+      "name": "De Goede Hoop",
+      "latitude": 51.7583,
+      "longitude": 4.162269,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 15,
+      "name": "De Groene Sluis",
+      "latitude": 52.500767,
+      "longitude": 5.435121,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 16,
+      "name": "De Kringloop",
+      "latitude": 53.115803,
+      "longitude": 6.075051,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 17,
+      "name": "De Lelie",
+      "latitude": 52.297265,
+      "longitude": 4.905325,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 18,
+      "name": "De Winkel van Rie",
+      "latitude": 52.043308,
+      "longitude": 4.395157,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 19,
+      "name": "De Zwarte Kat",
+      "latitude": 52.277247,
+      "longitude": 4.878818,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 20,
+      "name": "Dorcas",
+      "latitude": 51.317666,
+      "longitude": 3.848896,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 21,
+      "name": "Dorcas",
+      "latitude": 51.476641,
+      "longitude": 5.484788,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 22,
+      "name": "Dorcas",
+      "latitude": 51.487385,
+      "longitude": 3.958878,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 23,
+      "name": "Dorcas",
+      "latitude": 51.656681,
+      "longitude": 3.911953,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 24,
+      "name": "Dorcas",
+      "latitude": 51.814877,
+      "longitude": 5.10135,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 25,
+      "name": "Dorcas",
+      "latitude": 51.838486,
+      "longitude": 4.135957,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 26,
+      "name": "Dorcas",
+      "latitude": 51.927024,
+      "longitude": 6.566869,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 27,
+      "name": "Dorcas",
+      "latitude": 51.928071,
+      "longitude": 4.789155,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 28,
+      "name": "Dorcas",
+      "latitude": 51.933226,
+      "longitude": 5.632235,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 29,
+      "name": "Dorcas",
+      "latitude": 51.936476,
+      "longitude": 4.853313,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 30,
+      "name": "Dorcas",
+      "latitude": 51.9474,
+      "longitude": 4.864301,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 31,
+      "name": "Dorcas",
+      "latitude": 51.950598,
+      "longitude": 6.295096,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 32,
+      "name": "Dorcas",
+      "latitude": 51.992253,
+      "longitude": 4.207003,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 33,
+      "name": "Dorcas",
+      "latitude": 52.038598,
+      "longitude": 5.559253,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 34,
+      "name": "Dorcas",
+      "latitude": 52.061977,
+      "longitude": 5.476517,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 35,
+      "name": "Dorcas",
+      "latitude": 52.077498,
+      "longitude": 5.413455,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 36,
+      "name": "Dorcas",
+      "latitude": 52.138303,
+      "longitude": 5.592726,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 37,
+      "name": "Dorcas",
+      "latitude": 52.189255,
+      "longitude": 4.427911,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 38,
+      "name": "Dorcas",
+      "latitude": 52.189605,
+      "longitude": 5.942685,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 39,
+      "name": "Dorcas",
+      "latitude": 52.22841,
+      "longitude": 5.468652,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 40,
+      "name": "Dorcas",
+      "latitude": 52.260524,
+      "longitude": 4.774174,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 41,
+      "name": "Dorcas",
+      "latitude": 52.317382,
+      "longitude": 6.510756,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 42,
+      "name": "Dorcas",
+      "latitude": 52.353392,
+      "longitude": 4.611691,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 43,
+      "name": "Dorcas",
+      "latitude": 52.362582,
+      "longitude": 6.459277,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 44,
+      "name": "Dorcas",
+      "latitude": 52.442398,
+      "longitude": 5.859418,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 45,
+      "name": "Dorcas",
+      "latitude": 52.458056,
+      "longitude": 4.815035,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 46,
+      "name": "Dorcas",
+      "latitude": 52.461871,
+      "longitude": 6.572601,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 47,
+      "name": "Dorcas",
+      "latitude": 52.481222,
+      "longitude": 6.032464,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 48,
+      "name": "Dorcas",
+      "latitude": 52.540556,
+      "longitude": 5.708848,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 49,
+      "name": "Dorcas",
+      "latitude": 52.593812,
+      "longitude": 4.719032,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 50,
+      "name": "Dorcas",
+      "latitude": 52.621023,
+      "longitude": 6.05396,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 51,
+      "name": "Dorcas",
+      "latitude": 52.650028,
+      "longitude": 5.048942,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 52,
+      "name": "Dorcas",
+      "latitude": 52.678756,
+      "longitude": 4.796899,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 53,
+      "name": "Dorcas",
+      "latitude": 52.731889,
+      "longitude": 6.489163,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 54,
+      "name": "Dorcas",
+      "latitude": 52.739342,
+      "longitude": 5.225969,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 55,
+      "name": "Dorcas",
+      "latitude": 52.755496,
+      "longitude": 6.92834,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 56,
+      "name": "Dorcas",
+      "latitude": 52.780265,
+      "longitude": 4.81348,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 57,
+      "name": "Dorcas",
+      "latitude": 52.937058,
+      "longitude": 5.944739,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 58,
+      "name": "Dorcas",
+      "latitude": 53.003452,
+      "longitude": 6.574185,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 59,
+      "name": "Dorcas",
+      "latitude": 53.030302,
+      "longitude": 5.661235,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 60,
+      "name": "Dorcas",
+      "latitude": 53.059723,
+      "longitude": 5.51474,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 61,
+      "name": "Dorcas",
+      "latitude": 53.111254,
+      "longitude": 6.079323,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 62,
+      "name": "Dorcas",
+      "latitude": 53.32173,
+      "longitude": 6.8769,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 63,
+      "name": "Dorcas",
+      "latitude": 53.334731,
+      "longitude": 6.508752,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 64,
+      "name": "Emmaus",
+      "latitude": 51.587038,
+      "longitude": 4.766011,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 65,
+      "name": "Emmaus",
+      "latitude": 52.074262,
+      "longitude": 4.306236,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 66,
+      "name": "Emmaus Eemsmond",
+      "latitude": 53.322823,
+      "longitude": 6.929266,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 67,
+      "name": "Fair Back Kringloop",
+      "latitude": 53.231942,
+      "longitude": 6.587952,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 68,
+      "name": "Fair Gifts & Goodies",
+      "latitude": 52.479891,
+      "longitude": 4.655499,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 69,
+      "name": "Goededoelen-Kringloopwinkel \"De Paardestal\"",
+      "latitude": 52.000858,
+      "longitude": 4.482732,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 70,
+      "name": "GoudGoed Uithuizen",
+      "latitude": 53.41084,
+      "longitude": 6.673599,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 71,
+      "name": "Habbekrats kringloopwinkel",
+      "latitude": 51.977422,
+      "longitude": 4.260437,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 72,
+      "name": "Hart in Friesland",
+      "latitude": 53.111478,
+      "longitude": 6.078414,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 73,
+      "name": "Help Malawi",
+      "latitude": 52.460691,
+      "longitude": 5.999183,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 74,
+      "name": "Het Oogappeltje",
+      "latitude": 52.990029,
+      "longitude": 6.291565,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 75,
+      "name": "Het Struunhuus",
+      "latitude": 53.005574,
+      "longitude": 6.579357,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 76,
+      "name": "Het kleine P-Rijsje",
+      "latitude": 51.99937,
+      "longitude": 4.328648,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 77,
+      "name": "Kledingbank De Zeecontainer",
+      "latitude": 53.227178,
+      "longitude": 6.595067,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 78,
+      "name": "Koor & Rinkel",
+      "latitude": 53.347237,
+      "longitude": 6.644817,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 79,
+      "name": "Kring Loop Markt",
+      "latitude": 51.977001,
+      "longitude": 4.317554,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 80,
+      "name": "Kringloods Woord en Daad",
+      "latitude": 52.137867,
+      "longitude": 5.597779,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 81,
+      "name": "Kringloop Baarle",
+      "latitude": 51.446741,
+      "longitude": 4.937041,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 82,
+      "name": "Kringloop De Vince",
+      "latitude": 51.596821,
+      "longitude": 4.793159,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 83,
+      "name": "Kringloop Driebergen",
+      "latitude": 52.053049,
+      "longitude": 5.284883,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 84,
+      "name": "Kringloop Elsweide Arnhem",
+      "latitude": 51.981208,
+      "longitude": 5.966199,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 85,
+      "name": "Kringloop Het Vossenland",
+      "latitude": 52.848092,
+      "longitude": 6.340533,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 86,
+      "name": "Kringloop Mania",
+      "latitude": 52.132015,
+      "longitude": 4.589665,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 87,
+      "name": "Kringloop Mania",
+      "latitude": 52.278805,
+      "longitude": 4.781494,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 88,
+      "name": "Kringloop Pikulan",
+      "latitude": 53.183533,
+      "longitude": 6.170116,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 89,
+      "name": "Kringloop Red een Kind",
+      "latitude": 52.526972,
+      "longitude": 6.132796,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 90,
+      "name": "Kringloop Waardevol",
+      "latitude": 52.136669,
+      "longitude": 5.596325,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 91,
+      "name": "Kringloop What's in?",
+      "latitude": 53.236513,
+      "longitude": 6.582505,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 92,
+      "name": "Kringloopcentrum 't Trefpunt",
+      "latitude": 53.148655,
+      "longitude": 6.279513,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 93,
+      "name": "Kringloopcentrum Ceres",
+      "latitude": 52.240279,
+      "longitude": 4.828537,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 94,
+      "name": "Kringloopcentrum Tegen Armoede",
+      "latitude": 52.109197,
+      "longitude": 5.174926,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 95,
+      "name": "Kringloopwarenhuis / Stichting Wereldhuis Eindhoven",
+      "latitude": 51.425227,
+      "longitude": 5.461011,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 96,
+      "name": "Kringloopwinkel",
+      "latitude": 51.63729,
+      "longitude": 5.358964,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 97,
+      "name": "Kringloopwinkel \"Het Vervolg\"",
+      "latitude": 51.914834,
+      "longitude": 4.102005,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 98,
+      "name": "Kringloopwinkel 'T GOOI",
+      "latitude": 52.268515,
+      "longitude": 5.167338,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 99,
+      "name": "Kringloopwinkel Anna Paulowna",
+      "latitude": 52.86706,
+      "longitude": 4.810423,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 100,
+      "name": "Kringloopwinkel Cirkel",
+      "latitude": 51.807892,
+      "longitude": 5.725935,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 101,
+      "name": "Kringloopwinkel De Beurs",
+      "latitude": 52.381335,
+      "longitude": 7.020308,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 102,
+      "name": "Kringloopwinkel Dromehof",
+      "latitude": 52.662641,
+      "longitude": 5.062971,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 103,
+      "name": "Kringloopwinkel Emmaus West-Friesland",
+      "latitude": 52.662044,
+      "longitude": 5.064255,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 104,
+      "name": "Kringloopwinkel Goed & Gebruikt",
+      "latitude": 51.492002,
+      "longitude": 3.884827,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 105,
+      "name": "Kringloopwinkel Goirle",
+      "latitude": 51.508806,
+      "longitude": 5.053322,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 106,
+      "name": "Kringloopwinkel Het Kompas",
+      "latitude": 52.104745,
+      "longitude": 4.27491,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 107,
+      "name": "Kringloopwinkel Kaatsheuvel",
+      "latitude": 51.65929,
+      "longitude": 5.035431,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 108,
+      "name": "Kringloopwinkel Vries",
+      "latitude": 53.077042,
+      "longitude": 6.576189,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 109,
+      "name": "Kringloopwinkel Wijkwerken",
+      "latitude": 53.248286,
+      "longitude": 6.601059,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 110,
+      "name": "Kringloopwinkel het Snuffelhonk",
+      "latitude": 52.049818,
+      "longitude": 5.233829,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 111,
+      "name": "LETS Ruilwinkel Dordrecht & Ontmoetingsplek",
+      "latitude": 51.801326,
+      "longitude": 4.664501,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 112,
+      "name": "Leger des Heils",
+      "latitude": 52.639355,
+      "longitude": 5.057054,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 113,
+      "name": "Leger des Heils",
+      "latitude": 53.22181,
+      "longitude": 6.581351,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 114,
+      "name": "Nogges",
+      "latitude": 51.975115,
+      "longitude": 5.342028,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 115,
+      "name": "OntmoetKRing",
+      "latitude": 51.33059,
+      "longitude": 3.833499,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 116,
+      "name": "Petit Circuit",
+      "latitude": 52.35512,
+      "longitude": 4.996089,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 117,
+      "name": "Ramsjburg",
+      "latitude": 51.501036,
+      "longitude": 3.628168,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 118,
+      "name": "Remar",
+      "latitude": 52.074537,
+      "longitude": 4.309238,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 119,
+      "name": "Reshare Store",
+      "latitude": 52.073825,
+      "longitude": 4.312535,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 120,
+      "name": "Robin Hood Kringloop",
+      "latitude": 53.165518,
+      "longitude": 6.380517,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 121,
+      "name": "Rode Kruis",
+      "latitude": 52.066484,
+      "longitude": 4.361942,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 122,
+      "name": "Rode Kruis Amsterdam Amstelland",
+      "latitude": 52.296757,
+      "longitude": 4.855359,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 123,
+      "name": "Roemeniëschuur",
+      "latitude": 51.533755,
+      "longitude": 3.568471,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 124,
+      "name": "SOS Winkel",
+      "latitude": 52.262768,
+      "longitude": 5.610794,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 125,
+      "name": "ST.E.F. Friesland",
+      "latitude": 53.192104,
+      "longitude": 5.772022,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 126,
+      "name": "Severinus Speesjaal & CreArtistiek",
+      "latitude": 51.419502,
+      "longitude": 5.405948,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 127,
+      "name": "Slimme Boefjes",
+      "latitude": 51.897367,
+      "longitude": 4.574713,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 128,
+      "name": "Snuffelcorner",
+      "latitude": 51.957802,
+      "longitude": 5.570118,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 129,
+      "name": "Stichting Goederenbank Den Helder",
+      "latitude": 52.945946,
+      "longitude": 4.737456,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 130,
+      "name": "Stichting Historisch Charlois",
+      "latitude": 51.8935,
+      "longitude": 4.465571,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 131,
+      "name": "Stichting Kringloopwinkel Het Goede Doel",
+      "latitude": 51.85669,
+      "longitude": 4.323553,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 132,
+      "name": "Stichting Overal",
+      "latitude": 51.844817,
+      "longitude": 5.834897,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 133,
+      "name": "Stichting Weggeefwinkel Leiden",
+      "latitude": 52.158711,
+      "longitude": 4.497391,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 134,
+      "name": "Stichting de Kringloper",
+      "latitude": 51.493499,
+      "longitude": 4.275086,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 135,
+      "name": "Terre Des Hommes",
+      "latitude": 52.303751,
+      "longitude": 4.692022,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 136,
+      "name": "Terre des Hommes",
+      "latitude": 51.49665,
+      "longitude": 3.60701,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 137,
+      "name": "Terre des Hommes",
+      "latitude": 51.686423,
+      "longitude": 5.298943,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 138,
+      "name": "Terre des Hommes",
+      "latitude": 52.013407,
+      "longitude": 4.364404,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 139,
+      "name": "Terre des Hommes",
+      "latitude": 52.067211,
+      "longitude": 4.477559,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 140,
+      "name": "Terre des Hommes",
+      "latitude": 52.158324,
+      "longitude": 4.492824,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 141,
+      "name": "Terre des Hommes",
+      "latitude": 52.259514,
+      "longitude": 6.148222,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 142,
+      "name": "Terre des Hommes",
+      "latitude": 52.395674,
+      "longitude": 4.642328,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 143,
+      "name": "Terre des Hommes",
+      "latitude": 52.993268,
+      "longitude": 6.56058,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 144,
+      "name": "Terre des Hommes",
+      "latitude": 53.105448,
+      "longitude": 6.098538,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 145,
+      "name": "Terre des Hommes winkel",
+      "latitude": 52.013038,
+      "longitude": 4.363602,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 146,
+      "name": "Terre des hommes",
+      "latitude": 50.842942,
+      "longitude": 5.727418,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 147,
+      "name": "Terre des hommes",
+      "latitude": 51.425759,
+      "longitude": 5.489583,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 148,
+      "name": "Tilburgse Speelgoedbank",
+      "latitude": 51.569447,
+      "longitude": 5.053776,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 149,
+      "name": "Unicef",
+      "latitude": 52.090382,
+      "longitude": 5.118711,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 150,
+      "name": "Vincentius",
+      "latitude": 51.557839,
+      "longitude": 5.092536,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 151,
+      "name": "Weggeefwinkel Berkelland",
+      "latitude": 52.101751,
+      "longitude": 6.650659,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 152,
+      "name": "Weggeefwinkel Overvloed",
+      "latitude": 52.946088,
+      "longitude": 4.737355,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 153,
+      "name": "Weggeefwinkel Utrecht",
+      "latitude": 52.097857,
+      "longitude": 5.103357,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 154,
+      "name": "Wereldwinkel",
+      "latitude": 51.875068,
+      "longitude": 6.243491,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 155,
+      "name": "Wereldwinkel",
+      "latitude": 52.013333,
+      "longitude": 6.1361,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 156,
+      "name": "Wereldwinkel",
+      "latitude": 52.435948,
+      "longitude": 6.23454,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 157,
+      "name": "Wereldwinkel Barneveld",
+      "latitude": 52.140287,
+      "longitude": 5.586513,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 158,
+      "name": "Woord & Daad",
+      "latitude": 51.983683,
+      "longitude": 5.675443,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 159,
+      "name": "Zolder van Den Helder",
+      "latitude": 52.933856,
+      "longitude": 4.755303,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 160,
+      "name": "de Majum",
+      "latitude": 51.90545,
+      "longitude": 4.453633,
+      "osm_klasse": "shop=charity"
+    },
+    {
+      "id": 161,
+      "name": "kringloopwinkel Abel Tasman",
+      "latitude": 53.317184,
+      "longitude": 6.92577,
+      "osm_klasse": "shop=charity"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: charity (shop=charity) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=charity in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 161 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: charity (shop=charity) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: charity (shop=charity) — 161 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 161 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

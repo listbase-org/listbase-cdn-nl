@@ -1,0 +1,1829 @@
+{
+  "id": "nl-osm-shop-photo",
+  "name": "Netherlands OSM: photo (shop=photo)",
+  "title": "Netherlands OSM: photo (shop=photo)",
+  "description": "Named OpenStreetMap features tagged shop=photo in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 254,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Art Foto Service Groep",
+      "latitude": 52.34174,
+      "longitude": 4.963413,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 2,
+      "name": "Beerling Fotografie",
+      "latitude": 52.398206,
+      "longitude": 4.936499,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 3,
+      "name": "Camalot Cameraverhuur",
+      "latitude": 52.337711,
+      "longitude": 4.932613,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 4,
+      "name": "CameraNU.nl",
+      "latitude": 52.349432,
+      "longitude": 4.903796,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 5,
+      "name": "CameraNU.nl Photoprint",
+      "latitude": 52.346519,
+      "longitude": 4.904318,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 6,
+      "name": "Cameraland",
+      "latitude": 52.631899,
+      "longitude": 4.723398,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 7,
+      "name": "Cameranu",
+      "latitude": 51.434856,
+      "longitude": 5.483728,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 8,
+      "name": "Cameranu",
+      "latitude": 52.348157,
+      "longitude": 4.857144,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 9,
+      "name": "Cigo Foto Evers",
+      "latitude": 52.701425,
+      "longitude": 4.693471,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 10,
+      "name": "Colorwood",
+      "latitude": 51.988838,
+      "longitude": 4.4999,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 11,
+      "name": "DK Photography",
+      "latitude": 52.073594,
+      "longitude": 4.293971,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 12,
+      "name": "DOB Fotoservice",
+      "latitude": 51.884486,
+      "longitude": 4.508334,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 13,
+      "name": "DPS Media",
+      "latitude": 52.079868,
+      "longitude": 5.094663,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 14,
+      "name": "De Gevoelighe Plaet",
+      "latitude": 51.648118,
+      "longitude": 5.050613,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 15,
+      "name": "De Jong Foto Hobby Art",
+      "latitude": 51.849146,
+      "longitude": 4.64378,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 16,
+      "name": "Digifoto",
+      "latitude": 52.155883,
+      "longitude": 5.390325,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 17,
+      "name": "DoorEefje Fotografie",
+      "latitude": 51.487931,
+      "longitude": 5.482751,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 18,
+      "name": "Dotka Data Bv",
+      "latitude": 52.215869,
+      "longitude": 5.956907,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 19,
+      "name": "Drent",
+      "latitude": 52.142761,
+      "longitude": 6.196293,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 20,
+      "name": "Empire Studios",
+      "latitude": 52.055163,
+      "longitude": 4.497909,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 21,
+      "name": "Erik Boldin Fotografie",
+      "latitude": 52.711817,
+      "longitude": 6.198088,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 22,
+      "name": "Ewa",
+      "latitude": 52.867163,
+      "longitude": 4.813907,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 23,
+      "name": "Eyemazy Iris Photography",
+      "latitude": 52.363607,
+      "longitude": 4.888729,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 24,
+      "name": "FOTOatHOME",
+      "latitude": 53.184826,
+      "longitude": 6.169386,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 25,
+      "name": "Femfotoshop Utrecht",
+      "latitude": 52.102086,
+      "longitude": 5.097862,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 26,
+      "name": "Flachs Fotografie",
+      "latitude": 50.843851,
+      "longitude": 5.823904,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 27,
+      "name": "Fokka",
+      "latitude": 51.46444,
+      "longitude": 5.795928,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 28,
+      "name": "Formuleshop",
+      "latitude": 52.128703,
+      "longitude": 4.662232,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 29,
+      "name": "Fotipeck",
+      "latitude": 52.215767,
+      "longitude": 5.169187,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 30,
+      "name": "Foto & Lijst",
+      "latitude": 53.17331,
+      "longitude": 6.603702,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 31,
+      "name": "Foto & Zo",
+      "latitude": 52.385472,
+      "longitude": 6.277018,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 32,
+      "name": "Foto Amersfoort",
+      "latitude": 52.187312,
+      "longitude": 5.396548,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 33,
+      "name": "Foto Ammann",
+      "latitude": 51.467952,
+      "longitude": 5.475907,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 34,
+      "name": "Foto Anno Bakker",
+      "latitude": 52.720559,
+      "longitude": 6.477063,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 35,
+      "name": "Foto Argenta",
+      "latitude": 53.221074,
+      "longitude": 6.566045,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 36,
+      "name": "Foto Baron",
+      "latitude": 52.996329,
+      "longitude": 6.563731,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 37,
+      "name": "Foto Bertelink",
+      "latitude": 52.266239,
+      "longitude": 6.790642,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 38,
+      "name": "Foto Bouchier",
+      "latitude": 53.222539,
+      "longitude": 6.564904,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 39,
+      "name": "Foto Brouwer",
+      "latitude": 52.072141,
+      "longitude": 5.124455,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 40,
+      "name": "Foto Cambier",
+      "latitude": 52.503386,
+      "longitude": 6.259779,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 41,
+      "name": "Foto Coenstad",
+      "latitude": 52.642518,
+      "longitude": 5.057483,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 42,
+      "name": "Foto Creteer",
+      "latitude": 51.419769,
+      "longitude": 5.405514,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 43,
+      "name": "Foto De Bock",
+      "latitude": 52.303845,
+      "longitude": 4.696383,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 44,
+      "name": "Foto De Boer",
+      "latitude": 52.268547,
+      "longitude": 4.747384,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 45,
+      "name": "Foto Delzenne",
+      "latitude": 51.49363,
+      "longitude": 4.048144,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 46,
+      "name": "Foto Den Boer",
+      "latitude": 52.37438,
+      "longitude": 4.874498,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 47,
+      "name": "Foto Dikken & Hulsinga",
+      "latitude": 53.193739,
+      "longitude": 5.798649,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 48,
+      "name": "Foto Dom Melskens",
+      "latitude": 51.525597,
+      "longitude": 5.974564,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 49,
+      "name": "Foto Entree",
+      "latitude": 52.389319,
+      "longitude": 6.435332,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 50,
+      "name": "Foto Expert",
+      "latitude": 51.687382,
+      "longitude": 5.30283,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 51,
+      "name": "Foto Flash",
+      "latitude": 52.380832,
+      "longitude": 4.82077,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 52,
+      "name": "Foto Frans van Aarle",
+      "latitude": 51.550174,
+      "longitude": 5.069639,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 53,
+      "name": "Foto Groot-Obbink",
+      "latitude": 53.163031,
+      "longitude": 6.74307,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 54,
+      "name": "Foto Hans Sweegers vof",
+      "latitude": 51.180961,
+      "longitude": 5.90077,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 55,
+      "name": "Foto Hart",
+      "latitude": 51.921671,
+      "longitude": 4.254279,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 56,
+      "name": "Foto Henny Hoogeveen",
+      "latitude": 52.259528,
+      "longitude": 4.55714,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 57,
+      "name": "Foto Herder",
+      "latitude": 52.304668,
+      "longitude": 4.861801,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 58,
+      "name": "Foto Hoedemaekers",
+      "latitude": 51.524372,
+      "longitude": 5.974609,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 59,
+      "name": "Foto Jans",
+      "latitude": 51.577285,
+      "longitude": 5.004106,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 60,
+      "name": "Foto Julius van Dijk",
+      "latitude": 53.032714,
+      "longitude": 5.662115,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 61,
+      "name": "Foto Karin",
+      "latitude": 53.279857,
+      "longitude": 6.149519,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 62,
+      "name": "Foto Keetels",
+      "latitude": 51.615244,
+      "longitude": 5.443203,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 63,
+      "name": "Foto Keuzekamp",
+      "latitude": 52.141998,
+      "longitude": 6.196173,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 64,
+      "name": "Foto Kiekie",
+      "latitude": 52.492412,
+      "longitude": 4.655017,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 65,
+      "name": "Foto Kruyt",
+      "latitude": 52.197009,
+      "longitude": 4.411727,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 66,
+      "name": "Foto Leenarts",
+      "latitude": 51.967386,
+      "longitude": 5.665915,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 67,
+      "name": "Foto Lens",
+      "latitude": 52.091701,
+      "longitude": 5.103301,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 68,
+      "name": "Foto Linthout",
+      "latitude": 52.056463,
+      "longitude": 4.496908,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 69,
+      "name": "Foto Luuk Schudde",
+      "latitude": 52.665226,
+      "longitude": 5.596627,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 70,
+      "name": "Foto Meilink",
+      "latitude": 52.787154,
+      "longitude": 6.894017,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 71,
+      "name": "Foto Mignon",
+      "latitude": 52.355918,
+      "longitude": 4.90016,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 72,
+      "name": "Foto Modern",
+      "latitude": 52.161903,
+      "longitude": 6.416898,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 73,
+      "name": "Foto Modern",
+      "latitude": 53.325489,
+      "longitude": 5.998131,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 74,
+      "name": "Foto Murat",
+      "latitude": 52.067645,
+      "longitude": 4.297972,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 75,
+      "name": "Foto Prof",
+      "latitude": 52.087054,
+      "longitude": 4.310812,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 76,
+      "name": "Foto Rembrandt",
+      "latitude": 50.849843,
+      "longitude": 5.689902,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 77,
+      "name": "Foto René Tuinte",
+      "latitude": 52.331729,
+      "longitude": 5.543689,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 78,
+      "name": "Foto Romp",
+      "latitude": 52.106739,
+      "longitude": 5.134927,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 79,
+      "name": "Foto Rooijmans",
+      "latitude": 51.273922,
+      "longitude": 5.573708,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 80,
+      "name": "Foto Schievink",
+      "latitude": 51.82508,
+      "longitude": 4.684878,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 81,
+      "name": "Foto Semeins",
+      "latitude": 51.888536,
+      "longitude": 5.438016,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 82,
+      "name": "Foto Sipkes",
+      "latitude": 53.218267,
+      "longitude": 6.570143,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 83,
+      "name": "Foto Studio Heno",
+      "latitude": 52.439272,
+      "longitude": 4.819729,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 84,
+      "name": "Foto Swager",
+      "latitude": 52.185487,
+      "longitude": 5.296803,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 85,
+      "name": "Foto Ton Visser",
+      "latitude": 51.814095,
+      "longitude": 4.895978,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 86,
+      "name": "Foto Totaal",
+      "latitude": 52.143544,
+      "longitude": 5.045283,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 87,
+      "name": "Foto Tuerlings",
+      "latitude": 51.555261,
+      "longitude": 5.084506,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 88,
+      "name": "Foto Vaklab",
+      "latitude": 52.363068,
+      "longitude": 6.460302,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 89,
+      "name": "Foto Vaszlovszky",
+      "latitude": 53.19846,
+      "longitude": 6.560156,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 90,
+      "name": "Foto Vaszlovszky",
+      "latitude": 53.331661,
+      "longitude": 6.515801,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 91,
+      "name": "Foto Veendam",
+      "latitude": 53.104683,
+      "longitude": 6.878291,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 92,
+      "name": "Foto Verweij",
+      "latitude": 51.845983,
+      "longitude": 5.86353,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 93,
+      "name": "Foto Video & CD Shop Tuinman",
+      "latitude": 52.590923,
+      "longitude": 6.089696,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 94,
+      "name": "Foto Video Ruiterman",
+      "latitude": 52.150614,
+      "longitude": 4.779392,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 95,
+      "name": "Foto Vincent",
+      "latitude": 52.35487,
+      "longitude": 4.620648,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 96,
+      "name": "Foto Vincent van Dijk",
+      "latitude": 52.35484,
+      "longitude": 4.62059,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 97,
+      "name": "Foto Vlaminckx",
+      "latitude": 51.580421,
+      "longitude": 5.191958,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 98,
+      "name": "Foto Weert",
+      "latitude": 51.253257,
+      "longitude": 5.70667,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 99,
+      "name": "Foto Winschoten",
+      "latitude": 53.144813,
+      "longitude": 7.035813,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 100,
+      "name": "Foto Wiwa",
+      "latitude": 52.388519,
+      "longitude": 6.437879,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 101,
+      "name": "Foto XP Snelservice",
+      "latitude": 51.836856,
+      "longitude": 4.961068,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 102,
+      "name": "Foto Zunnebeld",
+      "latitude": 52.33422,
+      "longitude": 5.227467,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 103,
+      "name": "Foto de Geus",
+      "latitude": 52.29403,
+      "longitude": 4.580154,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 104,
+      "name": "Foto de Vakman",
+      "latitude": 51.657698,
+      "longitude": 5.613351,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 105,
+      "name": "Foto de Vakman",
+      "latitude": 51.807252,
+      "longitude": 5.724801,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 106,
+      "name": "Foto van Eimeren Huissen",
+      "latitude": 51.937466,
+      "longitude": 5.943537,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 107,
+      "name": "Foto van Kampen",
+      "latitude": 52.234913,
+      "longitude": 4.446261,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 108,
+      "name": "Foto van Keulen",
+      "latitude": 53.201682,
+      "longitude": 5.789343,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 109,
+      "name": "Foto van der Graaf",
+      "latitude": 51.923408,
+      "longitude": 4.48528,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 110,
+      "name": "Foto's en lijsten",
+      "latitude": 53.14223,
+      "longitude": 7.037645,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 111,
+      "name": "Foto-Groep",
+      "latitude": 52.224611,
+      "longitude": 5.172628,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 112,
+      "name": "Foto-Groep Harderwijk",
+      "latitude": 52.349374,
+      "longitude": 5.62005,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 113,
+      "name": "FotoCadeau",
+      "latitude": 53.285256,
+      "longitude": 6.160352,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 114,
+      "name": "Fotoculemborg",
+      "latitude": 51.956658,
+      "longitude": 5.225226,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 115,
+      "name": "Fotofonie",
+      "latitude": 53.225519,
+      "longitude": 6.529235,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 116,
+      "name": "Fotografie Americaine",
+      "latitude": 52.076006,
+      "longitude": 4.312153,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 117,
+      "name": "Fotografie Mahu",
+      "latitude": 51.309384,
+      "longitude": 3.781415,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 118,
+      "name": "Fotografie Mike van Bemmelen",
+      "latitude": 52.121383,
+      "longitude": 4.49632,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 119,
+      "name": "Fotohandel Delfshaven",
+      "latitude": 52.013245,
+      "longitude": 4.359751,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 120,
+      "name": "Fotohuis Modern",
+      "latitude": 51.813238,
+      "longitude": 4.668589,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 121,
+      "name": "Fotohuis Velp",
+      "latitude": 51.996208,
+      "longitude": 5.973841,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 122,
+      "name": "Fotolab Kiekie",
+      "latitude": 52.370579,
+      "longitude": 4.854384,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 123,
+      "name": "Fotorama",
+      "latitude": 52.5561,
+      "longitude": 5.918801,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 124,
+      "name": "Fotorama",
+      "latitude": 52.575043,
+      "longitude": 6.620661,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 125,
+      "name": "Fotorette",
+      "latitude": 53.095272,
+      "longitude": 6.172444,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 126,
+      "name": "Fotoshoot Rotterdam",
+      "latitude": 51.892021,
+      "longitude": 4.476115,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 127,
+      "name": "Fotoshop",
+      "latitude": 50.906223,
+      "longitude": 6.025122,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 128,
+      "name": "Fotoshop Actief",
+      "latitude": 53.106822,
+      "longitude": 6.097536,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 129,
+      "name": "Fotoshop Crazy River",
+      "latitude": 52.442061,
+      "longitude": 5.764596,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 130,
+      "name": "Fotoshop Zoetermeer",
+      "latitude": 52.061388,
+      "longitude": 4.491893,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 131,
+      "name": "Fotostudio Geert van de Ven",
+      "latitude": 51.843875,
+      "longitude": 5.866998,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 132,
+      "name": "Fotostudio Jacobson",
+      "latitude": 52.067617,
+      "longitude": 4.282565,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 133,
+      "name": "Fotostudio Jan Verlaat",
+      "latitude": 52.402994,
+      "longitude": 5.330757,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 134,
+      "name": "Fotostudio Morskate",
+      "latitude": 52.301118,
+      "longitude": 6.755985,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 135,
+      "name": "Fotostudio Tac",
+      "latitude": 52.378353,
+      "longitude": 4.839502,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 136,
+      "name": "Fotostudio Z",
+      "latitude": 52.055317,
+      "longitude": 4.49941,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 137,
+      "name": "Fotovak Engel",
+      "latitude": 52.25966,
+      "longitude": 4.554339,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 138,
+      "name": "Fotowereld",
+      "latitude": 52.09191,
+      "longitude": 5.13061,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 139,
+      "name": "Fotowinkel Aalsmeer",
+      "latitude": 52.266562,
+      "longitude": 4.749744,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 140,
+      "name": "Frans Nooren",
+      "latitude": 52.645224,
+      "longitude": 6.209575,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 141,
+      "name": "Freek Oosterhuis",
+      "latitude": 51.839778,
+      "longitude": 4.135542,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 142,
+      "name": "Goliath Shop",
+      "latitude": 52.439839,
+      "longitude": 5.760869,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 143,
+      "name": "Grijpink",
+      "latitude": 51.846745,
+      "longitude": 5.866088,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 144,
+      "name": "Hafo",
+      "latitude": 52.07565,
+      "longitude": 4.312862,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 145,
+      "name": "Han van der Bijl-Fotografie",
+      "latitude": 52.259987,
+      "longitude": 5.606422,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 146,
+      "name": "Hans Makkink Fotografie",
+      "latitude": 52.1621,
+      "longitude": 6.41545,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 147,
+      "name": "Hekkert",
+      "latitude": 52.252601,
+      "longitude": 6.156498,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 148,
+      "name": "Heno",
+      "latitude": 52.356642,
+      "longitude": 4.927179,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 149,
+      "name": "Het Fotovakhuis",
+      "latitude": 52.393153,
+      "longitude": 4.641176,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 150,
+      "name": "Hofma",
+      "latitude": 52.21516,
+      "longitude": 5.964727,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 151,
+      "name": "Image And More Fotografie",
+      "latitude": 51.928047,
+      "longitude": 6.075105,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 152,
+      "name": "Irena Naca",
+      "latitude": 52.072931,
+      "longitude": 4.262102,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 153,
+      "name": "Jaap Kuiper",
+      "latitude": 53.35919,
+      "longitude": 5.214681,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 154,
+      "name": "Johan Wouters Fotografie",
+      "latitude": 51.617037,
+      "longitude": 4.843707,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 155,
+      "name": "Joris en de Draak Fotopunt",
+      "latitude": 51.646868,
+      "longitude": 5.052594,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 156,
+      "name": "Jos Beuman Fotografie",
+      "latitude": 51.997327,
+      "longitude": 4.352961,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 157,
+      "name": "Kamera Express",
+      "latitude": 50.846427,
+      "longitude": 5.701257,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 158,
+      "name": "Kamera Express",
+      "latitude": 51.431463,
+      "longitude": 5.485026,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 159,
+      "name": "Kamera Express",
+      "latitude": 51.580992,
+      "longitude": 4.776979,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 160,
+      "name": "Kamera Express",
+      "latitude": 51.864153,
+      "longitude": 4.551888,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 161,
+      "name": "Kamera Express",
+      "latitude": 51.95805,
+      "longitude": 4.576955,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 162,
+      "name": "Kamera Express",
+      "latitude": 51.961064,
+      "longitude": 5.898834,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 163,
+      "name": "Kamera Express",
+      "latitude": 52.084259,
+      "longitude": 4.341944,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 164,
+      "name": "Kamera Express",
+      "latitude": 52.339791,
+      "longitude": 6.644811,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 165,
+      "name": "Kamera Express",
+      "latitude": 52.515139,
+      "longitude": 6.093249,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 166,
+      "name": "Kuipers",
+      "latitude": 52.196171,
+      "longitude": 6.004707,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 167,
+      "name": "Lost Gravity Shop",
+      "latitude": 52.442256,
+      "longitude": 5.76524,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 168,
+      "name": "MB Shoots",
+      "latitude": 51.958104,
+      "longitude": 5.566572,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 169,
+      "name": "MCM productions",
+      "latitude": 50.971757,
+      "longitude": 5.840053,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 170,
+      "name": "Manné Fotografie",
+      "latitude": 51.531272,
+      "longitude": 4.455901,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 171,
+      "name": "Marc Leeflang",
+      "latitude": 52.141289,
+      "longitude": 6.202504,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 172,
+      "name": "Marc Pluim fotografie",
+      "latitude": 51.993755,
+      "longitude": 5.974389,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 173,
+      "name": "Meijboom Fotografie",
+      "latitude": 52.011093,
+      "longitude": 4.708806,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 174,
+      "name": "Meriam",
+      "latitude": 51.466336,
+      "longitude": 5.634814,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 175,
+      "name": "MijniDeFoto",
+      "latitude": 52.124111,
+      "longitude": 4.44381,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 176,
+      "name": "Miranda van Oorschot Fotografie",
+      "latitude": 51.936576,
+      "longitude": 4.377193,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 177,
+      "name": "MoRe Fotografie",
+      "latitude": 52.521885,
+      "longitude": 5.732522,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 178,
+      "name": "Museumfoto",
+      "latitude": 52.374078,
+      "longitude": 4.892372,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 179,
+      "name": "NEBO foto-video-digitaal",
+      "latitude": 52.04516,
+      "longitude": 4.391648,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 180,
+      "name": "Nebo",
+      "latitude": 52.048122,
+      "longitude": 4.277491,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 181,
+      "name": "Nebo",
+      "latitude": 52.079846,
+      "longitude": 4.31704,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 182,
+      "name": "Nebo",
+      "latitude": 52.090074,
+      "longitude": 4.274397,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 183,
+      "name": "Nebo",
+      "latitude": 52.092208,
+      "longitude": 4.303566,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 184,
+      "name": "Nikki Huijnen Photography",
+      "latitude": 50.815748,
+      "longitude": 5.891547,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 185,
+      "name": "Nikon Service Point",
+      "latitude": 52.478093,
+      "longitude": 4.665043,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 186,
+      "name": "Nivo Schweitzer pro foto & video",
+      "latitude": 52.383222,
+      "longitude": 4.886373,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 187,
+      "name": "Optica Magica",
+      "latitude": 51.396498,
+      "longitude": 5.986694,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 188,
+      "name": "Osdorp Foto & Video",
+      "latitude": 52.358323,
+      "longitude": 4.801813,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 189,
+      "name": "Pasfoto Amsterdam",
+      "latitude": 52.399361,
+      "longitude": 4.937654,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 190,
+      "name": "Pasfoto Geleen",
+      "latitude": 50.96832,
+      "longitude": 5.829385,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 191,
+      "name": "Pasfoto Hoofddorp",
+      "latitude": 52.302539,
+      "longitude": 4.695753,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 192,
+      "name": "Pasfoto shop",
+      "latitude": 52.15538,
+      "longitude": 5.385982,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 193,
+      "name": "Pasfotoshop",
+      "latitude": 53.219561,
+      "longitude": 6.567499,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 194,
+      "name": "Pasfotosjop",
+      "latitude": 53.201782,
+      "longitude": 5.790387,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 195,
+      "name": "Passepartout Photo & Shop",
+      "latitude": 52.6204,
+      "longitude": 6.565356,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 196,
+      "name": "Peter Kroon Fotografie",
+      "latitude": 51.156854,
+      "longitude": 6.014414,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 197,
+      "name": "Photo & Zo",
+      "latitude": 52.704246,
+      "longitude": 5.288863,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 198,
+      "name": "Picture Momentz",
+      "latitude": 51.88619,
+      "longitude": 4.490328,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 199,
+      "name": "Picture Momentz",
+      "latitude": 51.888046,
+      "longitude": 4.490971,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 200,
+      "name": "Pimpt. foto en frame",
+      "latitude": 52.140342,
+      "longitude": 5.586755,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 201,
+      "name": "Pixxiprint",
+      "latitude": 52.157707,
+      "longitude": 4.491519,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 202,
+      "name": "Plastopil Europe B.V.",
+      "latitude": 52.349841,
+      "longitude": 5.222411,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 203,
+      "name": "Poelsma",
+      "latitude": 52.088039,
+      "longitude": 5.247221,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 204,
+      "name": "Python Fotopunt",
+      "latitude": 51.647459,
+      "longitude": 5.053351,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 205,
+      "name": "R Studio",
+      "latitude": 51.914795,
+      "longitude": 4.399462,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 206,
+      "name": "RPQ",
+      "latitude": 51.660793,
+      "longitude": 5.032256,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 207,
+      "name": "Redline Fotografie",
+      "latitude": 52.036923,
+      "longitude": 4.508491,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 208,
+      "name": "Rens Plascheck Fotograaf",
+      "latitude": 51.982493,
+      "longitude": 5.905763,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 209,
+      "name": "RingFoto Primeur",
+      "latitude": 51.986827,
+      "longitude": 6.567495,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 210,
+      "name": "Ringfoto",
+      "latitude": 52.511394,
+      "longitude": 4.670578,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 211,
+      "name": "Ringfoto",
+      "latitude": 52.699099,
+      "longitude": 6.188958,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 212,
+      "name": "Ringfoto Ben Hofland",
+      "latitude": 52.036749,
+      "longitude": 4.315912,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 213,
+      "name": "Ringfoto Brouwer",
+      "latitude": 52.110727,
+      "longitude": 5.181502,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 214,
+      "name": "Ringfoto Brouwer",
+      "latitude": 52.394817,
+      "longitude": 5.277334,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 215,
+      "name": "Ringfoto Brouwer Baarn",
+      "latitude": 52.211667,
+      "longitude": 5.287799,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 216,
+      "name": "Ringfoto Focus",
+      "latitude": 52.078488,
+      "longitude": 4.26898,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 217,
+      "name": "Ringfoto Heerenveen",
+      "latitude": 52.959801,
+      "longitude": 5.924606,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 218,
+      "name": "Ringfoto Jan Horstman",
+      "latitude": 52.116101,
+      "longitude": 6.523659,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 219,
+      "name": "Ringfoto de Boer",
+      "latitude": 52.3152,
+      "longitude": 4.954447,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 220,
+      "name": "Ron Moes Fotograaf",
+      "latitude": 51.878518,
+      "longitude": 5.8321,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 221,
+      "name": "Rudie Wiersma Fotografie",
+      "latitude": 53.243916,
+      "longitude": 6.405997,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 222,
+      "name": "Sakura Photo Studio",
+      "latitude": 52.081517,
+      "longitude": 4.295451,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 223,
+      "name": "Schoolfoto.nl",
+      "latitude": 52.261426,
+      "longitude": 4.495877,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 224,
+      "name": "Shoots & More",
+      "latitude": 51.691583,
+      "longitude": 5.301237,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 225,
+      "name": "Shoots & More",
+      "latitude": 52.381082,
+      "longitude": 4.6339,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 226,
+      "name": "Simon Smit",
+      "latitude": 53.054532,
+      "longitude": 4.79969,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 227,
+      "name": "Solleveld",
+      "latitude": 52.365686,
+      "longitude": 4.866862,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 228,
+      "name": "Sprint Foto",
+      "latitude": 52.103934,
+      "longitude": 6.059355,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 229,
+      "name": "Sprintphoto Etten-Leur Verschoore",
+      "latitude": 51.568382,
+      "longitude": 4.636093,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 230,
+      "name": "Ster Foto",
+      "latitude": 52.502942,
+      "longitude": 6.09086,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 231,
+      "name": "Studio Deventer",
+      "latitude": 52.254333,
+      "longitude": 6.160507,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 232,
+      "name": "Studio Stilo",
+      "latitude": 51.889204,
+      "longitude": 4.687798,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 233,
+      "name": "Studio van der Plas",
+      "latitude": 52.144383,
+      "longitude": 4.393163,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 234,
+      "name": "Team Unlimited B.V.",
+      "latitude": 52.349756,
+      "longitude": 5.226885,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 235,
+      "name": "The Photo Company",
+      "latitude": 52.141964,
+      "longitude": 5.379511,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 236,
+      "name": "Utrecht Pasfoto",
+      "latitude": 52.089231,
+      "longitude": 5.11372,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 237,
+      "name": "VDC Fotografie",
+      "latitude": 51.882731,
+      "longitude": 5.291664,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 238,
+      "name": "Vakfoto Van der Beek",
+      "latitude": 52.432694,
+      "longitude": 6.072105,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 239,
+      "name": "Vakfotografie Q",
+      "latitude": 51.974182,
+      "longitude": 4.248747,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 240,
+      "name": "Van Galen Fotografie",
+      "latitude": 52.087633,
+      "longitude": 6.157637,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 241,
+      "name": "Van Halewijn",
+      "latitude": 51.818097,
+      "longitude": 3.976592,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 242,
+      "name": "Victory's Foto Expres",
+      "latitude": 52.350921,
+      "longitude": 4.853856,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 243,
+      "name": "Vogel Rok Fotopunt",
+      "latitude": 51.652225,
+      "longitude": 5.052865,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 244,
+      "name": "Vulpunt",
+      "latitude": 53.16127,
+      "longitude": 6.391476,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 245,
+      "name": "Vulpunt Drachten",
+      "latitude": 53.10824,
+      "longitude": 6.097772,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 246,
+      "name": "WFB-fotografie",
+      "latitude": 52.772976,
+      "longitude": 6.961456,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 247,
+      "name": "XL Foto.nl",
+      "latitude": 51.689286,
+      "longitude": 5.306659,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 248,
+      "name": "Zoetermeer",
+      "latitude": 52.052076,
+      "longitude": 4.462649,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 249,
+      "name": "by Marjo",
+      "latitude": 51.685864,
+      "longitude": 5.306836,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 250,
+      "name": "cameraNU",
+      "latitude": 53.213967,
+      "longitude": 6.578192,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 251,
+      "name": "de Hoogevener",
+      "latitude": 52.729596,
+      "longitude": 6.479571,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 252,
+      "name": "fotografie theo buijsse",
+      "latitude": 51.280396,
+      "longitude": 4.053096,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 253,
+      "name": "fotostudio van Onna",
+      "latitude": 51.890949,
+      "longitude": 6.383624,
+      "osm_klasse": "shop=photo"
+    },
+    {
+      "id": 254,
+      "name": "van Ekdom",
+      "latitude": 52.03596,
+      "longitude": 5.168552,
+      "osm_klasse": "shop=photo"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: photo (shop=photo) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=photo in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 254 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: photo (shop=photo) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: photo (shop=photo) — 254 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 254 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

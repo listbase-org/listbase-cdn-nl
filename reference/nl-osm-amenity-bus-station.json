@@ -1,0 +1,1185 @@
+{
+  "id": "nl-osm-amenity-bus-station",
+  "name": "Netherlands OSM: bus station (amenity=bus_station)",
+  "title": "Netherlands OSM: bus station (amenity=bus_station)",
+  "description": "Named OpenStreetMap features tagged amenity=bus_station in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 162,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Abbekerk Busstation",
+      "latitude": 52.720399,
+      "longitude": 5.022201,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 2,
+      "name": "Alkmaar Noord",
+      "latitude": 52.643818,
+      "longitude": 4.763383,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 3,
+      "name": "Altenahove",
+      "latitude": 51.770081,
+      "longitude": 4.958533,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 4,
+      "name": "Amstelveen, Busstation",
+      "latitude": 52.302493,
+      "longitude": 4.857842,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 5,
+      "name": "Blauwe Tent",
+      "latitude": 53.107623,
+      "longitude": 5.783617,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 6,
+      "name": "Blokzijl Busstation",
+      "latitude": 52.727992,
+      "longitude": 5.957157,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 7,
+      "name": "Borculo Busstation",
+      "latitude": 52.117086,
+      "longitude": 6.527059,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 8,
+      "name": "Breda Centraal Station",
+      "latitude": 51.59593,
+      "longitude": 4.779256,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 9,
+      "name": "Burgemeester Winklerplein",
+      "latitude": 51.822989,
+      "longitude": 4.776224,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 10,
+      "name": "Bus Safari",
+      "latitude": 51.520972,
+      "longitude": 5.117108,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 11,
+      "name": "Busstation",
+      "latitude": 50.929267,
+      "longitude": 5.938838,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 12,
+      "name": "Busstation",
+      "latitude": 51.586893,
+      "longitude": 4.45536,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 13,
+      "name": "Busstation",
+      "latitude": 51.644932,
+      "longitude": 4.865752,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 14,
+      "name": "Busstation",
+      "latitude": 51.660265,
+      "longitude": 5.617675,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 15,
+      "name": "Busstation",
+      "latitude": 51.760632,
+      "longitude": 5.734577,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 16,
+      "name": "Busstation",
+      "latitude": 51.993269,
+      "longitude": 4.211251,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 17,
+      "name": "Busstation",
+      "latitude": 52.131208,
+      "longitude": 6.611409,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 18,
+      "name": "Busstation",
+      "latitude": 52.242995,
+      "longitude": 4.821149,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 19,
+      "name": "Busstation",
+      "latitude": 52.599103,
+      "longitude": 6.449108,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 20,
+      "name": "Busstation",
+      "latitude": 52.676915,
+      "longitude": 6.42879,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 21,
+      "name": "Busstation",
+      "latitude": 52.710119,
+      "longitude": 5.751473,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 22,
+      "name": "Busstation",
+      "latitude": 52.846391,
+      "longitude": 6.34086,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 23,
+      "name": "Busstation",
+      "latitude": 52.929645,
+      "longitude": 5.032737,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 24,
+      "name": "Busstation",
+      "latitude": 52.959168,
+      "longitude": 5.812905,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 25,
+      "name": "Busstation",
+      "latitude": 52.960148,
+      "longitude": 5.91687,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 26,
+      "name": "Busstation",
+      "latitude": 52.9868,
+      "longitude": 6.9566,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 27,
+      "name": "Busstation",
+      "latitude": 52.988996,
+      "longitude": 6.293945,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 28,
+      "name": "Busstation",
+      "latitude": 53.00597,
+      "longitude": 6.064143,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 29,
+      "name": "Busstation",
+      "latitude": 53.031939,
+      "longitude": 5.651625,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 30,
+      "name": "Busstation",
+      "latitude": 53.123213,
+      "longitude": 6.603638,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 31,
+      "name": "Busstation",
+      "latitude": 53.151059,
+      "longitude": 5.639691,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 32,
+      "name": "Busstation",
+      "latitude": 53.196496,
+      "longitude": 5.79089,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 33,
+      "name": "Busstation 't Oor",
+      "latitude": 52.354103,
+      "longitude": 5.211835,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 34,
+      "name": "Busstation Aalsmeer",
+      "latitude": 52.25872,
+      "longitude": 4.768533,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 35,
+      "name": "Busstation Appingedam",
+      "latitude": 53.320751,
+      "longitude": 6.867036,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 36,
+      "name": "Busstation Doetinchem",
+      "latitude": 51.958019,
+      "longitude": 6.296038,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 37,
+      "name": "Busstation Dokkum",
+      "latitude": 53.329859,
+      "longitude": 6.001645,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 38,
+      "name": "Busstation Elandsgracht",
+      "latitude": 52.369434,
+      "longitude": 4.877098,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 39,
+      "name": "Busstation Haaksbergen",
+      "latitude": 52.15331,
+      "longitude": 6.743446,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 40,
+      "name": "Busstation Heinenoord",
+      "latitude": 51.814827,
+      "longitude": 4.495341,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 41,
+      "name": "Busstation Hengelo",
+      "latitude": 52.262035,
+      "longitude": 6.795232,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 42,
+      "name": "Busstation Holendrecht",
+      "latitude": 52.297368,
+      "longitude": 4.959562,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 43,
+      "name": "Busstation Jaarbeursplein",
+      "latitude": 52.089319,
+      "longitude": 5.106162,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 44,
+      "name": "Busstation Lekbrug (Oost)",
+      "latitude": 51.990813,
+      "longitude": 5.082797,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 45,
+      "name": "Busstation Lekbrug (West)",
+      "latitude": 51.989401,
+      "longitude": 5.081275,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 46,
+      "name": "Busstation Marsdijk",
+      "latitude": 53.01776,
+      "longitude": 6.572714,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 47,
+      "name": "Busstation Medemblik",
+      "latitude": 52.773872,
+      "longitude": 5.104915,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 48,
+      "name": "Busstation Oude-Tonge",
+      "latitude": 51.695876,
+      "longitude": 4.212559,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 49,
+      "name": "Busstation Reusel",
+      "latitude": 51.361624,
+      "longitude": 5.164305,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 50,
+      "name": "Busstation Stellendam",
+      "latitude": 51.808817,
+      "longitude": 4.026152,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 51,
+      "name": "Busstation Tramplein",
+      "latitude": 52.50735,
+      "longitude": 4.944215,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 52,
+      "name": "Busstation Twibaksdyk",
+      "latitude": 53.062906,
+      "longitude": 5.509627,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 53,
+      "name": "Busstation Westerscheldetunnel",
+      "latitude": 51.327573,
+      "longitude": 3.813517,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 54,
+      "name": "Busstation Zaandam",
+      "latitude": 52.438988,
+      "longitude": 4.814404,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 55,
+      "name": "CS IJzijde",
+      "latitude": 52.379741,
+      "longitude": 4.900694,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 56,
+      "name": "Capelsebrug Metro",
+      "latitude": 51.921091,
+      "longitude": 4.55849,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 57,
+      "name": "Centraal Station",
+      "latitude": 51.689968,
+      "longitude": 5.294728,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 58,
+      "name": "Centraal Station",
+      "latitude": 51.764846,
+      "longitude": 5.52889,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 59,
+      "name": "Centraal Station",
+      "latitude": 51.807534,
+      "longitude": 4.669385,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 60,
+      "name": "Centraal Station",
+      "latitude": 51.843838,
+      "longitude": 5.854011,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 61,
+      "name": "Centraal Station",
+      "latitude": 52.152943,
+      "longitude": 5.372986,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 62,
+      "name": "Centraal Station",
+      "latitude": 52.221675,
+      "longitude": 6.889715,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 63,
+      "name": "Centraal Station Jaarbeurszijde",
+      "latitude": 52.088215,
+      "longitude": 5.109343,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 64,
+      "name": "Centrum West",
+      "latitude": 52.061078,
+      "longitude": 4.482691,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 65,
+      "name": "De Vlinder",
+      "latitude": 52.429436,
+      "longitude": 4.85643,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 66,
+      "name": "Den Haag Centraal",
+      "latitude": 52.080331,
+      "longitude": 4.325202,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 67,
+      "name": "Dirksland Ziekenhuis",
+      "latitude": 51.750545,
+      "longitude": 4.099635,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 68,
+      "name": "Druten, Busstation",
+      "latitude": 51.884674,
+      "longitude": 5.605532,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 69,
+      "name": "Edam Busstation",
+      "latitude": 52.510183,
+      "longitude": 5.044513,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 70,
+      "name": "Efteling",
+      "latitude": 51.653589,
+      "longitude": 5.041809,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 71,
+      "name": "Eindhoven Airport",
+      "latitude": 51.45702,
+      "longitude": 5.392547,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 72,
+      "name": "Eindhoven Centraal Station",
+      "latitude": 51.443883,
+      "longitude": 5.478554,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 73,
+      "name": "Elemert",
+      "latitude": 53.052232,
+      "longitude": 4.797152,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 74,
+      "name": "Flinkeboskje",
+      "latitude": 52.887351,
+      "longitude": 5.481523,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 75,
+      "name": "Flixbus",
+      "latitude": 52.310697,
+      "longitude": 4.946316,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 76,
+      "name": "Gaasperplasstation",
+      "latitude": 52.31093,
+      "longitude": 4.985309,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 77,
+      "name": "Geleen, Busstation",
+      "latitude": 50.967501,
+      "longitude": 5.828307,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 78,
+      "name": "Goes, Station",
+      "latitude": 51.498555,
+      "longitude": 3.888787,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 79,
+      "name": "Groenlo, Busstation",
+      "latitude": 52.038429,
+      "longitude": 6.623827,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 80,
+      "name": "Haarlem Spaarnwoude",
+      "latitude": 52.383374,
+      "longitude": 4.671213,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 81,
+      "name": "Haarlem, Station",
+      "latitude": 52.387307,
+      "longitude": 4.637866,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 82,
+      "name": "Hoofdstation",
+      "latitude": 53.211456,
+      "longitude": 6.566739,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 83,
+      "name": "Hulst, Busstation",
+      "latitude": 51.285906,
+      "longitude": 4.053564,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 84,
+      "name": "Kerkrade Busstation",
+      "latitude": 50.865931,
+      "longitude": 6.066518,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 85,
+      "name": "Kloosterlaan",
+      "latitude": 53.05913,
+      "longitude": 5.537734,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 86,
+      "name": "Kop Afsluitdijk",
+      "latitude": 53.098191,
+      "longitude": 5.38452,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 87,
+      "name": "Korenstraat",
+      "latitude": 52.511496,
+      "longitude": 4.99353,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 88,
+      "name": "Kromme Nol",
+      "latitude": 51.745213,
+      "longitude": 5.113763,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 89,
+      "name": "Lemmer Busstation",
+      "latitude": 52.84768,
+      "longitude": 5.721325,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 90,
+      "name": "Main Hub",
+      "latitude": 52.284016,
+      "longitude": 4.728269,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 91,
+      "name": "Marconiplein",
+      "latitude": 51.91355,
+      "longitude": 4.431477,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 92,
+      "name": "Metro Centrum",
+      "latitude": 51.845867,
+      "longitude": 4.333629,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 93,
+      "name": "Moerplein",
+      "latitude": 51.489408,
+      "longitude": 4.039723,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 94,
+      "name": "Molenwijk",
+      "latitude": 52.418129,
+      "longitude": 4.89347,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 95,
+      "name": "NS Station Venlo",
+      "latitude": 51.364751,
+      "longitude": 6.172486,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 96,
+      "name": "NS-busstation",
+      "latitude": 51.443954,
+      "longitude": 5.476366,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 97,
+      "name": "Nieuwegein City",
+      "latitude": 52.029281,
+      "longitude": 5.079546,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 98,
+      "name": "Nijverdal Station",
+      "latitude": 52.366912,
+      "longitude": 6.462251,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 99,
+      "name": "OV-knooppunt Leyenburg",
+      "latitude": 52.056971,
+      "longitude": 4.265935,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 100,
+      "name": "P+R Gieten",
+      "latitude": 53.009157,
+      "longitude": 6.750792,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 101,
+      "name": "P+R Hoogkerk A7",
+      "latitude": 53.197584,
+      "longitude": 6.51341,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 102,
+      "name": "P+R Kardinge",
+      "latitude": 53.238099,
+      "longitude": 6.594154,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 103,
+      "name": "P40",
+      "latitude": 52.321886,
+      "longitude": 4.77469,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 104,
+      "name": "Rodenrijs Metro",
+      "latitude": 51.975691,
+      "longitude": 4.461636,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 105,
+      "name": "Rotterdam Noord",
+      "latitude": 51.941795,
+      "longitude": 4.481528,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 106,
+      "name": "Soestdijk Noord",
+      "latitude": 52.186068,
+      "longitude": 5.280378,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 107,
+      "name": "Spaarne Gasthuis",
+      "latitude": 52.32492,
+      "longitude": 4.654418,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 108,
+      "name": "Station",
+      "latitude": 51.495858,
+      "longitude": 4.295958,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 109,
+      "name": "Station",
+      "latitude": 51.540064,
+      "longitude": 4.459142,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 110,
+      "name": "Station",
+      "latitude": 51.833187,
+      "longitude": 4.967173,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 111,
+      "name": "Station",
+      "latitude": 52.085606,
+      "longitude": 4.892531,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 112,
+      "name": "Station",
+      "latitude": 52.144233,
+      "longitude": 6.193506,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 113,
+      "name": "Station",
+      "latitude": 52.215478,
+      "longitude": 4.516359,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 114,
+      "name": "Station",
+      "latitude": 52.225855,
+      "longitude": 5.181116,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 115,
+      "name": "Station",
+      "latitude": 52.306605,
+      "longitude": 6.935054,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 116,
+      "name": "Station",
+      "latitude": 52.559966,
+      "longitude": 5.921999,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 117,
+      "name": "Station",
+      "latitude": 52.644968,
+      "longitude": 5.052621,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 118,
+      "name": "Station",
+      "latitude": 52.691459,
+      "longitude": 6.197068,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 119,
+      "name": "Station",
+      "latitude": 52.699975,
+      "longitude": 5.28832,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 120,
+      "name": "Station",
+      "latitude": 52.733185,
+      "longitude": 6.473236,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 121,
+      "name": "Station",
+      "latitude": 52.790789,
+      "longitude": 6.898828,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 122,
+      "name": "Station",
+      "latitude": 52.956829,
+      "longitude": 4.761247,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 123,
+      "name": "Station",
+      "latitude": 52.991716,
+      "longitude": 6.570461,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 124,
+      "name": "Station",
+      "latitude": 53.329674,
+      "longitude": 6.519927,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 125,
+      "name": "Station",
+      "latitude": 53.333556,
+      "longitude": 6.924662,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 126,
+      "name": "Station Apeldoorn",
+      "latitude": 52.209745,
+      "longitude": 5.970195,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 127,
+      "name": "Station Barendrecht",
+      "latitude": 51.854717,
+      "longitude": 4.551694,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 128,
+      "name": "Station Centrum",
+      "latitude": 52.375124,
+      "longitude": 5.218083,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 129,
+      "name": "Station Centrum",
+      "latitude": 52.507036,
+      "longitude": 5.473664,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 130,
+      "name": "Station Dukenburg",
+      "latitude": 51.82347,
+      "longitude": 5.793298,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 131,
+      "name": "Station Europapark",
+      "latitude": 53.204736,
+      "longitude": 6.587336,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 132,
+      "name": "Station Lansingerland-Zoetermeer Noordplein",
+      "latitude": 52.041632,
+      "longitude": 4.519956,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 133,
+      "name": "Station Lansingerland-Zoetermeer Zuidplein",
+      "latitude": 52.040251,
+      "longitude": 4.51748,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 134,
+      "name": "Station Leidsche Rijn",
+      "latitude": 52.09822,
+      "longitude": 5.067431,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 135,
+      "name": "Station Lichtenvoorde-Groenlo",
+      "latitude": 52.011875,
+      "longitude": 6.595818,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 136,
+      "name": "Station Middelburg",
+      "latitude": 51.495704,
+      "longitude": 3.619298,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 137,
+      "name": "Station Noord",
+      "latitude": 53.230285,
+      "longitude": 6.555718,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 138,
+      "name": "Station Oostvaarders",
+      "latitude": 52.402654,
+      "longitude": 5.301266,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 139,
+      "name": "Station Rijssen",
+      "latitude": 52.311434,
+      "longitude": 6.51966,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 140,
+      "name": "Station Soest-Zuid",
+      "latitude": 52.165347,
+      "longitude": 5.303619,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 141,
+      "name": "Station Veendam",
+      "latitude": 53.103594,
+      "longitude": 6.885223,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 142,
+      "name": "Station Vlaardingen Oost",
+      "latitude": 51.910531,
+      "longitude": 4.361238,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 143,
+      "name": "Station Winschoten",
+      "latitude": 53.139145,
+      "longitude": 7.037498,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 144,
+      "name": "Stationsplein",
+      "latitude": 52.066121,
+      "longitude": 5.259215,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 145,
+      "name": "Tilburg Centraal Station",
+      "latitude": 51.560362,
+      "longitude": 5.08055,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 146,
+      "name": "Tol Oost",
+      "latitude": 51.800493,
+      "longitude": 4.934304,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 147,
+      "name": "Tol West",
+      "latitude": 51.801337,
+      "longitude": 4.929998,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 148,
+      "name": "Tolplein",
+      "latitude": 51.441818,
+      "longitude": 3.755946,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 149,
+      "name": "Transferium",
+      "latitude": 51.728891,
+      "longitude": 3.772382,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 150,
+      "name": "Transferium Oost",
+      "latitude": 53.105772,
+      "longitude": 6.125603,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 151,
+      "name": "Tweede Loolaan",
+      "latitude": 51.971742,
+      "longitude": 6.277273,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 152,
+      "name": "UMCG Noord",
+      "latitude": 53.223631,
+      "longitude": 6.569833,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 153,
+      "name": "Van Knobelsdorffplein",
+      "latitude": 53.103322,
+      "longitude": 6.100076,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 154,
+      "name": "Venray Station",
+      "latitude": 51.526568,
+      "longitude": 6.013906,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 155,
+      "name": "Vijfsluizen",
+      "latitude": 51.909425,
+      "longitude": 4.371704,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 156,
+      "name": "Vredesplein",
+      "latitude": 51.68716,
+      "longitude": 5.071592,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 157,
+      "name": "Wageningen Busstation",
+      "latitude": 51.969447,
+      "longitude": 5.667059,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 158,
+      "name": "West-Terschelling, Haven",
+      "latitude": 53.358046,
+      "longitude": 5.216534,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 159,
+      "name": "Wethouder van der Veldenweg",
+      "latitude": 51.732098,
+      "longitude": 4.44531,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 160,
+      "name": "WoensXL/ZH Catharina",
+      "latitude": 51.466945,
+      "longitude": 5.474886,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 161,
+      "name": "Zernike Noord",
+      "latitude": 53.244478,
+      "longitude": 6.530623,
+      "osm_klasse": "amenity=bus_station"
+    },
+    {
+      "id": 162,
+      "name": "Zuidplein",
+      "latitude": 51.887847,
+      "longitude": 4.489277,
+      "osm_klasse": "amenity=bus_station"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: bus station (amenity=bus_station) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=bus_station in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 162 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: bus station (amenity=bus_station) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: bus station (amenity=bus_station) — 162 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 162 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

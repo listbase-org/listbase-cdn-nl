@@ -1,0 +1,3341 @@
+{
+  "id": "nl-osm-shop-deli",
+  "name": "Netherlands OSM: deli (shop=deli)",
+  "title": "Netherlands OSM: deli (shop=deli)",
+  "description": "Named OpenStreetMap features tagged shop=deli in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 470,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Kaasmes",
+      "latitude": 51.863493,
+      "longitude": 4.657381,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 2,
+      "name": "'t Kappertje delicatessen",
+      "latitude": 53.243852,
+      "longitude": 6.407843,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 3,
+      "name": "'t Pannenhuis",
+      "latitude": 51.915282,
+      "longitude": 5.924111,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 4,
+      "name": "'t Vershuis",
+      "latitude": 52.260225,
+      "longitude": 5.601884,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 5,
+      "name": "A Loha",
+      "latitude": 52.350972,
+      "longitude": 4.621639,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 6,
+      "name": "A Loja Portugese Delicatessen",
+      "latitude": 52.380223,
+      "longitude": 4.635586,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 7,
+      "name": "Adriaan De Smaakmaker",
+      "latitude": 50.845336,
+      "longitude": 5.692215,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 8,
+      "name": "Adriatika Delicatessen",
+      "latitude": 52.011162,
+      "longitude": 4.708723,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 9,
+      "name": "Al-Salam",
+      "latitude": 53.103808,
+      "longitude": 7.007967,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 10,
+      "name": "Alexandra's olijven Delicatessenwinkel",
+      "latitude": 52.351,
+      "longitude": 6.664093,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 11,
+      "name": "Alimentari (Pop-up Store)",
+      "latitude": 51.397441,
+      "longitude": 5.394616,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 12,
+      "name": "Amsterdamse noten",
+      "latitude": 52.377231,
+      "longitude": 4.847075,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 13,
+      "name": "Annamalai Cash & Carry",
+      "latitude": 52.22628,
+      "longitude": 5.178419,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 14,
+      "name": "Ariola",
+      "latitude": 53.215179,
+      "longitude": 6.565187,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 15,
+      "name": "Atelier Bijzondere bonen",
+      "latitude": 52.189804,
+      "longitude": 5.965068,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 16,
+      "name": "Avondverkoop",
+      "latitude": 52.359087,
+      "longitude": 4.925619,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 17,
+      "name": "B'ssoulfood",
+      "latitude": 51.836273,
+      "longitude": 4.68574,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 18,
+      "name": "BG RAYA",
+      "latitude": 52.519681,
+      "longitude": 5.484934,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 19,
+      "name": "Banket Yvette",
+      "latitude": 51.577594,
+      "longitude": 4.779933,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 20,
+      "name": "Bario Market",
+      "latitude": 52.382391,
+      "longitude": 4.878586,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 21,
+      "name": "Bartime",
+      "latitude": 52.081932,
+      "longitude": 4.298975,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 22,
+      "name": "Basarz",
+      "latitude": 53.217115,
+      "longitude": 6.565341,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 23,
+      "name": "Basilico",
+      "latitude": 52.381302,
+      "longitude": 4.885506,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 24,
+      "name": "Beans & Grapes",
+      "latitude": 53.173268,
+      "longitude": 6.603745,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 25,
+      "name": "BeerZ keurslager",
+      "latitude": 52.325045,
+      "longitude": 4.593219,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 26,
+      "name": "Belloni",
+      "latitude": 51.477916,
+      "longitude": 5.656004,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 27,
+      "name": "Besselings’ Deli Culemborg",
+      "latitude": 51.957061,
+      "longitude": 5.225774,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 28,
+      "name": "BetterBagels",
+      "latitude": 52.160916,
+      "longitude": 4.491063,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 29,
+      "name": "Bi Mola",
+      "latitude": 51.565248,
+      "longitude": 5.089678,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 30,
+      "name": "Bij Kees",
+      "latitude": 52.077052,
+      "longitude": 5.114116,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 31,
+      "name": "Bij Sophie delicatessen",
+      "latitude": 51.946506,
+      "longitude": 4.853166,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 32,
+      "name": "Binorm Gezondheidsspeciaalzaak",
+      "latitude": 52.142119,
+      "longitude": 6.195493,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 33,
+      "name": "Bob Kookt",
+      "latitude": 53.21797,
+      "longitude": 6.562306,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 34,
+      "name": "Boergondisch",
+      "latitude": 51.686964,
+      "longitude": 5.300744,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 35,
+      "name": "Bonne Saucisse",
+      "latitude": 53.215051,
+      "longitude": 6.565057,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 36,
+      "name": "Bosbessenkwekerij La Française",
+      "latitude": 52.16796,
+      "longitude": 6.868353,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 37,
+      "name": "Bosbessenkwekerij La Française",
+      "latitude": 52.208024,
+      "longitude": 6.849269,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 38,
+      "name": "Boter Kaas en Olijven",
+      "latitude": 52.290298,
+      "longitude": 4.57856,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 39,
+      "name": "Bourgondisch Lifestyle",
+      "latitude": 52.380807,
+      "longitude": 4.890287,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 40,
+      "name": "Bourgondisch op Zuid",
+      "latitude": 51.627258,
+      "longitude": 4.857335,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 41,
+      "name": "Branderij Joost",
+      "latitude": 51.495179,
+      "longitude": 4.289471,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 42,
+      "name": "Branderij Joost",
+      "latitude": 52.186598,
+      "longitude": 5.39625,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 43,
+      "name": "Breider",
+      "latitude": 52.720079,
+      "longitude": 6.475972,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 44,
+      "name": "Bron van Smaak",
+      "latitude": 52.128103,
+      "longitude": 6.030993,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 45,
+      "name": "Burrito Bar",
+      "latitude": 53.228555,
+      "longitude": 6.568751,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 46,
+      "name": "C'est Bon",
+      "latitude": 52.355407,
+      "longitude": 4.620838,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 47,
+      "name": "C'est Bon Wijk bij Duurstede",
+      "latitude": 51.973511,
+      "longitude": 5.344759,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 48,
+      "name": "C'est Si Bon",
+      "latitude": 52.958944,
+      "longitude": 4.761408,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 49,
+      "name": "C'est bon",
+      "latitude": 51.712513,
+      "longitude": 5.313835,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 50,
+      "name": "Caffè delle Arti Voorburg",
+      "latitude": 52.076517,
+      "longitude": 4.357768,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 51,
+      "name": "Casa Reinders",
+      "latitude": 51.920088,
+      "longitude": 4.486428,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 52,
+      "name": "Casa Reinders",
+      "latitude": 51.929094,
+      "longitude": 4.502307,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 53,
+      "name": "Casa di Lucca",
+      "latitude": 52.557475,
+      "longitude": 5.917815,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 54,
+      "name": "Cash & Carry",
+      "latitude": 50.919355,
+      "longitude": 6.032352,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 55,
+      "name": "Charlots' Delicatessen",
+      "latitude": 51.486108,
+      "longitude": 5.1363,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 56,
+      "name": "ChezMoi",
+      "latitude": 51.912685,
+      "longitude": 4.458041,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 57,
+      "name": "Choco Lodge Lisse",
+      "latitude": 52.260933,
+      "longitude": 4.559589,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 58,
+      "name": "Chocolaterie Pierre",
+      "latitude": 52.291963,
+      "longitude": 4.578709,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 59,
+      "name": "Chocolaterie Zoete Lekkernij",
+      "latitude": 52.124128,
+      "longitude": 4.445271,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 60,
+      "name": "Choko",
+      "latitude": 53.060156,
+      "longitude": 4.799212,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 61,
+      "name": "Ciao Bella",
+      "latitude": 52.36226,
+      "longitude": 4.89861,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 62,
+      "name": "Claudia e Federico",
+      "latitude": 52.22455,
+      "longitude": 5.171805,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 63,
+      "name": "Columbus",
+      "latitude": 51.965939,
+      "longitude": 5.662023,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 64,
+      "name": "Cranberry Winkel",
+      "latitude": 53.390021,
+      "longitude": 5.308339,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 65,
+      "name": "Cupcakerij",
+      "latitude": 52.019038,
+      "longitude": 5.547036,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 66,
+      "name": "Da Angela",
+      "latitude": 52.158931,
+      "longitude": 4.488953,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 67,
+      "name": "Da Marco Sittard",
+      "latitude": 50.997151,
+      "longitude": 5.869034,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 68,
+      "name": "Da Silvano",
+      "latitude": 51.49946,
+      "longitude": 3.611036,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 69,
+      "name": "Da Tano",
+      "latitude": 52.227556,
+      "longitude": 4.523826,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 70,
+      "name": "Dames Dietz",
+      "latitude": 52.177476,
+      "longitude": 4.470151,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 71,
+      "name": "David's Corner",
+      "latitude": 52.325936,
+      "longitude": 4.883022,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 72,
+      "name": "David's Nasjville",
+      "latitude": 52.325472,
+      "longitude": 4.868203,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 73,
+      "name": "De Boergondiër",
+      "latitude": 53.215122,
+      "longitude": 6.56501,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 74,
+      "name": "De Boerin",
+      "latitude": 52.365046,
+      "longitude": 6.459849,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 75,
+      "name": "De Bourgondier Delicatessen",
+      "latitude": 51.826441,
+      "longitude": 4.832674,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 76,
+      "name": "De Bourgondiër",
+      "latitude": 52.299188,
+      "longitude": 5.620655,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 77,
+      "name": "De Brandmeesters",
+      "latitude": 52.378893,
+      "longitude": 4.635685,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 78,
+      "name": "De Deli",
+      "latitude": 52.384946,
+      "longitude": 4.883948,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 79,
+      "name": "De Délicieuse Keuze",
+      "latitude": 51.49527,
+      "longitude": 4.285442,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 80,
+      "name": "De Fransoos 2.0",
+      "latitude": 52.154548,
+      "longitude": 4.489618,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 81,
+      "name": "De Graaff Van Enckhuysen",
+      "latitude": 52.70396,
+      "longitude": 5.290595,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 82,
+      "name": "De Groot Kaas & Delicatessen",
+      "latitude": 51.806085,
+      "longitude": 4.570197,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 83,
+      "name": "De Gulle Griek",
+      "latitude": 51.453029,
+      "longitude": 5.459513,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 84,
+      "name": "De Kaaskop",
+      "latitude": 53.218173,
+      "longitude": 6.563758,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 85,
+      "name": "De Kaasman",
+      "latitude": 52.195837,
+      "longitude": 6.006349,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 86,
+      "name": "De Kaasshop",
+      "latitude": 51.937584,
+      "longitude": 5.943413,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 87,
+      "name": "De Kaaswaag",
+      "latitude": 52.355148,
+      "longitude": 4.868475,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 88,
+      "name": "De Kazerie",
+      "latitude": 52.292273,
+      "longitude": 4.855031,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 89,
+      "name": "De Kruidenmix",
+      "latitude": 52.036684,
+      "longitude": 4.314233,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 90,
+      "name": "De Leckernij",
+      "latitude": 52.474437,
+      "longitude": 6.069299,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 91,
+      "name": "De Leeuw Zuurwaren",
+      "latitude": 52.346774,
+      "longitude": 4.906291,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 92,
+      "name": "De Margondiër",
+      "latitude": 53.210785,
+      "longitude": 6.579075,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 93,
+      "name": "De Nootzaak",
+      "latitude": 51.943452,
+      "longitude": 5.517878,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 94,
+      "name": "De Nootzaak van Genieten",
+      "latitude": 52.076074,
+      "longitude": 4.358292,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 95,
+      "name": "De Notenstolp",
+      "latitude": 53.054401,
+      "longitude": 4.799597,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 96,
+      "name": "De Pompernikkel",
+      "latitude": 51.948358,
+      "longitude": 6.021233,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 97,
+      "name": "De Predetariër",
+      "latitude": 52.356353,
+      "longitude": 4.895331,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 98,
+      "name": "De Ridder",
+      "latitude": 52.092802,
+      "longitude": 5.013039,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 99,
+      "name": "De Smaakboutique",
+      "latitude": 52.01279,
+      "longitude": 4.35704,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 100,
+      "name": "De Smikkeltuin",
+      "latitude": 52.49421,
+      "longitude": 4.968603,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 101,
+      "name": "De Streekzaak",
+      "latitude": 51.883431,
+      "longitude": 5.288466,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 102,
+      "name": "De Traiteurij",
+      "latitude": 51.656863,
+      "longitude": 5.288845,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 103,
+      "name": "De keuken in",
+      "latitude": 52.488282,
+      "longitude": 4.752326,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 104,
+      "name": "De notenwinkel van Ede",
+      "latitude": 52.043962,
+      "longitude": 5.670036,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 105,
+      "name": "Delhi Indian",
+      "latitude": 52.31033,
+      "longitude": 4.847055,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 106,
+      "name": "Deli '93",
+      "latitude": 52.084329,
+      "longitude": 4.313603,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 107,
+      "name": "Deli Casa",
+      "latitude": 51.032803,
+      "longitude": 5.808635,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 108,
+      "name": "Deli Palace",
+      "latitude": 52.114275,
+      "longitude": 4.284135,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 109,
+      "name": "Deli Pies & Coffee Company",
+      "latitude": 52.161542,
+      "longitude": 4.485916,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 110,
+      "name": "Deli-Evie",
+      "latitude": 52.428829,
+      "longitude": 4.914313,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 111,
+      "name": "Delicatessen Lokaal 9",
+      "latitude": 53.192664,
+      "longitude": 5.990706,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 112,
+      "name": "Delicato - Zuid-Europese delicatessen",
+      "latitude": 51.643488,
+      "longitude": 4.859837,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 113,
+      "name": "Delicious",
+      "latitude": 52.180101,
+      "longitude": 5.374124,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 114,
+      "name": "Delicious Store",
+      "latitude": 50.889651,
+      "longitude": 5.976662,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 115,
+      "name": "Delikasa",
+      "latitude": 52.014113,
+      "longitude": 6.134909,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 116,
+      "name": "Delvino",
+      "latitude": 51.850075,
+      "longitude": 4.328167,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 117,
+      "name": "Dichtbij het hart",
+      "latitude": 51.963131,
+      "longitude": 4.551412,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 118,
+      "name": "Dito Deli",
+      "latitude": 52.356307,
+      "longitude": 4.892736,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 119,
+      "name": "Dolce Capella",
+      "latitude": 51.566051,
+      "longitude": 3.55279,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 120,
+      "name": "Dolce Vita",
+      "latitude": 50.882409,
+      "longitude": 5.92697,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 121,
+      "name": "Domberg Delicatessen",
+      "latitude": 52.260511,
+      "longitude": 5.608567,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 122,
+      "name": "Don Mimmo",
+      "latitude": 52.357224,
+      "longitude": 4.898359,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 123,
+      "name": "Donato Delicatessen",
+      "latitude": 52.09185,
+      "longitude": 4.325151,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 124,
+      "name": "Dunja Nieuw-Vennep",
+      "latitude": 52.270833,
+      "longitude": 4.61958,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 125,
+      "name": "Dutch Carabao streekwinkel",
+      "latitude": 52.291569,
+      "longitude": 5.787112,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 126,
+      "name": "E&F Food&Drinks",
+      "latitude": 52.006341,
+      "longitude": 6.349198,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 127,
+      "name": "Eatalia Delicatessen",
+      "latitude": 52.083112,
+      "longitude": 4.305021,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 128,
+      "name": "Eetcafe d'Oldeneel",
+      "latitude": 52.483513,
+      "longitude": 6.112271,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 129,
+      "name": "Eetwinkel Kwiezien",
+      "latitude": 51.333334,
+      "longitude": 3.831375,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 130,
+      "name": "Eetwinkel Vork",
+      "latitude": 52.079957,
+      "longitude": 4.267789,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 131,
+      "name": "Egbert van der Vegt",
+      "latitude": 52.347599,
+      "longitude": 5.615678,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 132,
+      "name": "Eichholtz Delicatessen",
+      "latitude": 52.365736,
+      "longitude": 4.885743,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 133,
+      "name": "El Mercado",
+      "latitude": 52.078868,
+      "longitude": 4.305484,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 134,
+      "name": "Ellen's winkel van nu",
+      "latitude": 52.085433,
+      "longitude": 6.44901,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 135,
+      "name": "Erik's Delicatessen",
+      "latitude": 52.357034,
+      "longitude": 4.917739,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 136,
+      "name": "Eriks Delicatessen",
+      "latitude": 52.349622,
+      "longitude": 4.939545,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 137,
+      "name": "Eterij de 4 seizoenen",
+      "latitude": 53.163961,
+      "longitude": 6.742407,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 138,
+      "name": "Eyserhalte",
+      "latitude": 50.822237,
+      "longitude": 5.92386,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 139,
+      "name": "FLOOR 2.0",
+      "latitude": 51.510444,
+      "longitude": 3.890187,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 140,
+      "name": "Familie Van Rijk",
+      "latitude": 52.091831,
+      "longitude": 5.091156,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 141,
+      "name": "Familie van Rijk",
+      "latitude": 52.104457,
+      "longitude": 5.093799,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 142,
+      "name": "Farina",
+      "latitude": 52.082573,
+      "longitude": 5.123363,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 143,
+      "name": "Fijne Kost",
+      "latitude": 51.767337,
+      "longitude": 5.873274,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 144,
+      "name": "Fine Food",
+      "latitude": 52.309318,
+      "longitude": 4.765642,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 145,
+      "name": "Finefood",
+      "latitude": 52.307976,
+      "longitude": 4.765259,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 146,
+      "name": "Finefood",
+      "latitude": 52.310562,
+      "longitude": 4.761711,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 147,
+      "name": "Fizzi",
+      "latitude": 52.123722,
+      "longitude": 4.650933,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 148,
+      "name": "Fizzi",
+      "latitude": 52.148493,
+      "longitude": 4.77342,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 149,
+      "name": "Floor",
+      "latitude": 51.649896,
+      "longitude": 3.919828,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 150,
+      "name": "Floor Urk",
+      "latitude": 52.665137,
+      "longitude": 5.595809,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 151,
+      "name": "Floor! Middelburg",
+      "latitude": 51.506933,
+      "longitude": 3.625783,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 152,
+      "name": "Food Atelier",
+      "latitude": 51.557539,
+      "longitude": 5.081876,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 153,
+      "name": "Food Soldiers",
+      "latitude": 52.145398,
+      "longitude": 4.394844,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 154,
+      "name": "Foodnerd",
+      "latitude": 51.813355,
+      "longitude": 4.66367,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 155,
+      "name": "For Food Lovers",
+      "latitude": 50.815119,
+      "longitude": 5.893067,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 156,
+      "name": "Frank's Smoke House",
+      "latitude": 52.369405,
+      "longitude": 4.920567,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 157,
+      "name": "Frans Kaas en Delicatessen",
+      "latitude": 52.266621,
+      "longitude": 6.794668,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 158,
+      "name": "Fred Kulturu Shop Institute",
+      "latitude": 51.920471,
+      "longitude": 4.468535,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 159,
+      "name": "Fresh Store",
+      "latitude": 50.836324,
+      "longitude": 5.706525,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 160,
+      "name": "Fresh Tasty",
+      "latitude": 52.313071,
+      "longitude": 4.949434,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 161,
+      "name": "Fris Versshop",
+      "latitude": 52.019048,
+      "longitude": 4.717447,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 162,
+      "name": "Fromagerie Tradition",
+      "latitude": 52.459556,
+      "longitude": 4.62365,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 163,
+      "name": "Fromagerie du Patron",
+      "latitude": 52.186855,
+      "longitude": 4.471042,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 164,
+      "name": "Gastrovino",
+      "latitude": 52.012305,
+      "longitude": 4.581221,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 165,
+      "name": "Gastrovino",
+      "latitude": 52.876744,
+      "longitude": 6.003635,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 166,
+      "name": "Gastrovino - Rob's Kaas & Lekkernijen",
+      "latitude": 52.195604,
+      "longitude": 5.430743,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 167,
+      "name": "Gastrovino Het Blauwe Schaap",
+      "latitude": 51.75957,
+      "longitude": 5.739333,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 168,
+      "name": "Gastrovino Van der Laan delicatessen",
+      "latitude": 53.144853,
+      "longitude": 7.03576,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 169,
+      "name": "Gastrovino Vaneker",
+      "latitude": 52.193151,
+      "longitude": 6.901136,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 170,
+      "name": "Gebr. van der Ende",
+      "latitude": 51.967804,
+      "longitude": 4.198535,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 171,
+      "name": "Gembira",
+      "latitude": 52.30199,
+      "longitude": 4.863462,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 172,
+      "name": "Gewoon Kaas",
+      "latitude": 52.354405,
+      "longitude": 4.929836,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 173,
+      "name": "Gewoon Meer",
+      "latitude": 52.350586,
+      "longitude": 4.85964,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 174,
+      "name": "Gewoon eten en meer",
+      "latitude": 52.350586,
+      "longitude": 4.85964,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 175,
+      "name": "Good & Tasty",
+      "latitude": 51.326216,
+      "longitude": 3.489672,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 176,
+      "name": "Gransjean",
+      "latitude": 52.091153,
+      "longitude": 4.304508,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 177,
+      "name": "Gula Delicatessen",
+      "latitude": 52.158423,
+      "longitude": 5.386273,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 178,
+      "name": "Hartje Bos",
+      "latitude": 52.379137,
+      "longitude": 4.856429,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 179,
+      "name": "Heemskerk",
+      "latitude": 51.680139,
+      "longitude": 5.316228,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 180,
+      "name": "Heerlyck Delicatessen",
+      "latitude": 52.084768,
+      "longitude": 5.620305,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 181,
+      "name": "Hein Post",
+      "latitude": 53.197835,
+      "longitude": 6.559854,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 182,
+      "name": "Hellas Food",
+      "latitude": 50.771616,
+      "longitude": 6.023884,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 183,
+      "name": "Het Azijn Atelier",
+      "latitude": 51.49868,
+      "longitude": 3.612932,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 184,
+      "name": "Het Delicatessenhuis",
+      "latitude": 52.25199,
+      "longitude": 5.37842,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 185,
+      "name": "Het Griekse Huis",
+      "latitude": 51.56726,
+      "longitude": 5.088594,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 186,
+      "name": "Het Gulle Leven",
+      "latitude": 51.477577,
+      "longitude": 5.492612,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 187,
+      "name": "Het Honinghuis / Meneer de Bakker",
+      "latitude": 51.687827,
+      "longitude": 5.30231,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 188,
+      "name": "Het Lekkere Winkeltje",
+      "latitude": 53.161807,
+      "longitude": 6.39036,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 189,
+      "name": "Het Melkhuisje",
+      "latitude": 52.350684,
+      "longitude": 5.619785,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 190,
+      "name": "Het Notenpakhuis",
+      "latitude": 52.720574,
+      "longitude": 6.480289,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 191,
+      "name": "Het Olijven Huis",
+      "latitude": 52.216071,
+      "longitude": 5.170113,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 192,
+      "name": "Het Scharrelhofke",
+      "latitude": 53.319066,
+      "longitude": 6.859726,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 193,
+      "name": "Het Verschil Kaas en Delicatessen",
+      "latitude": 52.623777,
+      "longitude": 4.949109,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 194,
+      "name": "Het Warme Noten Gilde",
+      "latitude": 52.358982,
+      "longitude": 4.8043,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 195,
+      "name": "Ho-Vers",
+      "latitude": 51.504793,
+      "longitude": 3.892356,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 196,
+      "name": "Hof van Heusden",
+      "latitude": 51.734802,
+      "longitude": 5.138671,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 197,
+      "name": "Hollandaluz",
+      "latitude": 52.500333,
+      "longitude": 4.767228,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 198,
+      "name": "Holly's",
+      "latitude": 52.475022,
+      "longitude": 6.068322,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 199,
+      "name": "Homminga's Fijne Winkeltje",
+      "latitude": 53.175044,
+      "longitude": 5.417231,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 200,
+      "name": "Hooft by Breunesse delicatesse",
+      "latitude": 52.090097,
+      "longitude": 5.134836,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 201,
+      "name": "Hot Dog City",
+      "latitude": 51.919913,
+      "longitude": 4.486372,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 202,
+      "name": "Houben Worstenbrood",
+      "latitude": 51.438275,
+      "longitude": 5.472449,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 203,
+      "name": "House of Taste",
+      "latitude": 53.202672,
+      "longitude": 5.791651,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 204,
+      "name": "IJs & Spijs",
+      "latitude": 51.688523,
+      "longitude": 5.861154,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 205,
+      "name": "Ibericus Amsterdam",
+      "latitude": 52.380516,
+      "longitude": 4.890864,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 206,
+      "name": "Il Pecorino",
+      "latitude": 52.38683,
+      "longitude": 4.908576,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 207,
+      "name": "Il Pecorino",
+      "latitude": 52.389053,
+      "longitude": 4.910131,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 208,
+      "name": "Il Tartufo",
+      "latitude": 52.013328,
+      "longitude": 4.3565,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 209,
+      "name": "Indian",
+      "latitude": 52.312852,
+      "longitude": 4.87546,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 210,
+      "name": "Italy",
+      "latitude": 52.08243,
+      "longitude": 4.300225,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 211,
+      "name": "JWO Lekkernijen",
+      "latitude": 52.381017,
+      "longitude": 4.883982,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 212,
+      "name": "Jaap Kaas & Lekkernijen",
+      "latitude": 51.82683,
+      "longitude": 4.409864,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 213,
+      "name": "Jabugo | Bar Iberico",
+      "latitude": 52.087649,
+      "longitude": 4.383322,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 214,
+      "name": "Jagódka",
+      "latitude": 52.628245,
+      "longitude": 4.752455,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 215,
+      "name": "Jar 48",
+      "latitude": 52.080202,
+      "longitude": 4.300933,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 216,
+      "name": "Jardin d'Olive",
+      "latitude": 51.447865,
+      "longitude": 5.454133,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 217,
+      "name": "Jermoumi Oliva",
+      "latitude": 52.087766,
+      "longitude": 4.383462,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 218,
+      "name": "Jermoumi olives & more",
+      "latitude": 52.192186,
+      "longitude": 4.442486,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 219,
+      "name": "Juffrouw Saar",
+      "latitude": 51.712979,
+      "longitude": 5.313729,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 220,
+      "name": "Julia Poolse Delicatessen",
+      "latitude": 51.883163,
+      "longitude": 5.292897,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 221,
+      "name": "Kaas van Faas",
+      "latitude": 52.65213,
+      "longitude": 5.085388,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 222,
+      "name": "Kaasbest",
+      "latitude": 51.849983,
+      "longitude": 4.645653,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 223,
+      "name": "Kaasbest",
+      "latitude": 51.87021,
+      "longitude": 4.599128,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 224,
+      "name": "Kaasboer",
+      "latitude": 51.897069,
+      "longitude": 4.683672,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 225,
+      "name": "Kaasboerderij",
+      "latitude": 51.526149,
+      "longitude": 3.528652,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 226,
+      "name": "Kaasboerderij De Stelp",
+      "latitude": 52.932805,
+      "longitude": 6.118788,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 227,
+      "name": "Kaashandel J. van Manen",
+      "latitude": 52.067744,
+      "longitude": 5.201665,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 228,
+      "name": "Kaasshop Kees",
+      "latitude": 51.488472,
+      "longitude": 5.440601,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 229,
+      "name": "Kaasspeciaalzaak De Ruurhoeve",
+      "latitude": 51.367628,
+      "longitude": 5.220375,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 230,
+      "name": "Kaatje Jans",
+      "latitude": 51.382706,
+      "longitude": 5.7103,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 231,
+      "name": "Kaatje Jans",
+      "latitude": 51.422728,
+      "longitude": 5.558604,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 232,
+      "name": "Kaatje Jans",
+      "latitude": 51.5775,
+      "longitude": 4.740023,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 233,
+      "name": "Kaatje Jans",
+      "latitude": 51.584754,
+      "longitude": 5.085616,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 234,
+      "name": "Kaatje Jans",
+      "latitude": 51.607126,
+      "longitude": 4.789572,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 235,
+      "name": "Kaatje Jans",
+      "latitude": 51.812982,
+      "longitude": 4.626678,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 236,
+      "name": "Kokkita",
+      "latitude": 52.353277,
+      "longitude": 4.855771,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 237,
+      "name": "Koopman",
+      "latitude": 52.369493,
+      "longitude": 4.8798,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 238,
+      "name": "Kreta deli",
+      "latitude": 52.060925,
+      "longitude": 4.487042,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 239,
+      "name": "Kruidenier Wolters",
+      "latitude": 53.172182,
+      "longitude": 6.600723,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 240,
+      "name": "Kruidenier Wolters",
+      "latitude": 53.218912,
+      "longitude": 6.564764,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 241,
+      "name": "Kuierkos",
+      "latitude": 52.402582,
+      "longitude": 4.618428,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 242,
+      "name": "La Fermata",
+      "latitude": 52.084964,
+      "longitude": 4.882748,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 243,
+      "name": "La Pentola",
+      "latitude": 51.919604,
+      "longitude": 5.844132,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 244,
+      "name": "La Semolina",
+      "latitude": 51.438202,
+      "longitude": 5.476058,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 245,
+      "name": "Landgoedwinkel",
+      "latitude": 51.89434,
+      "longitude": 5.198512,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 246,
+      "name": "Landwaart Culinair",
+      "latitude": 52.156081,
+      "longitude": 5.176829,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 247,
+      "name": "Lasuch Delicatessen",
+      "latitude": 52.237148,
+      "longitude": 4.446575,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 248,
+      "name": "Lavinia",
+      "latitude": 52.36318,
+      "longitude": 4.889792,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 249,
+      "name": "Le Gone",
+      "latitude": 52.083544,
+      "longitude": 4.304345,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 250,
+      "name": "Le Salonard",
+      "latitude": 50.846774,
+      "longitude": 5.691697,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 251,
+      "name": "Le Souk",
+      "latitude": 53.215946,
+      "longitude": 6.564438,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 252,
+      "name": "Leckerick Delicatessen",
+      "latitude": 52.087289,
+      "longitude": 5.084882,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 253,
+      "name": "Lekker Bij",
+      "latitude": 51.643157,
+      "longitude": 4.861437,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 254,
+      "name": "Lekkerissimo",
+      "latitude": 52.391193,
+      "longitude": 4.944891,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 255,
+      "name": "Lente Verswaren",
+      "latitude": 53.216106,
+      "longitude": 6.561417,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 256,
+      "name": "Les Belles Saveurs - Épicerie Française",
+      "latitude": 52.092911,
+      "longitude": 4.325692,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 257,
+      "name": "Leuk en Lekker",
+      "latitude": 53.217975,
+      "longitude": 6.56264,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 258,
+      "name": "Levni Artistry",
+      "latitude": 51.924431,
+      "longitude": 4.509396,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 259,
+      "name": "Librije's Winkel",
+      "latitude": 52.515579,
+      "longitude": 6.097868,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 260,
+      "name": "Lifestyle",
+      "latitude": 52.294446,
+      "longitude": 5.263681,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 261,
+      "name": "Lisse",
+      "latitude": 52.105448,
+      "longitude": 6.064994,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 262,
+      "name": "Lokaal",
+      "latitude": 53.358205,
+      "longitude": 5.215728,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 263,
+      "name": "Lux Delicatessen",
+      "latitude": 52.095277,
+      "longitude": 5.128804,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 264,
+      "name": "Mabroek Delicatessen",
+      "latitude": 52.163338,
+      "longitude": 4.490792,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 265,
+      "name": "Madame Henriëtte",
+      "latitude": 50.884847,
+      "longitude": 5.75273,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 266,
+      "name": "Mamma Mia Trattoria",
+      "latitude": 52.096685,
+      "longitude": 5.063947,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 267,
+      "name": "MangiApe",
+      "latitude": 52.136943,
+      "longitude": 5.42783,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 268,
+      "name": "Marcel's Kaas",
+      "latitude": 52.225865,
+      "longitude": 5.956751,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 269,
+      "name": "Margherita's Italiaanse Delicatessen",
+      "latitude": 52.142369,
+      "longitude": 6.195819,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 270,
+      "name": "Master's Tea & Coffee",
+      "latitude": 52.009821,
+      "longitude": 4.583001,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 271,
+      "name": "Maxime Delicatesse",
+      "latitude": 52.996827,
+      "longitude": 6.55981,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 272,
+      "name": "Maza",
+      "latitude": 52.303217,
+      "longitude": 4.861254,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 273,
+      "name": "Mercado Emma",
+      "latitude": 51.55523,
+      "longitude": 5.08381,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 274,
+      "name": "Mercuurs Traiteur & Catering",
+      "latitude": 52.141791,
+      "longitude": 5.378823,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 275,
+      "name": "Mezzave",
+      "latitude": 52.355211,
+      "longitude": 4.893411,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 276,
+      "name": "Mezze delicatessen",
+      "latitude": 52.231599,
+      "longitude": 6.891056,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 277,
+      "name": "Mimbre",
+      "latitude": 52.082438,
+      "longitude": 5.123428,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 278,
+      "name": "Mix markt",
+      "latitude": 52.51003,
+      "longitude": 5.4751,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 279,
+      "name": "Nata Mania",
+      "latitude": 51.920062,
+      "longitude": 4.486813,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 280,
+      "name": "Natuurlijk",
+      "latitude": 51.932913,
+      "longitude": 4.478904,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 281,
+      "name": "Nice Mood",
+      "latitude": 53.215116,
+      "longitude": 6.569191,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 282,
+      "name": "Nico's Trattoria",
+      "latitude": 52.362981,
+      "longitude": 4.927039,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 283,
+      "name": "Nobleza Boutique Gastronomique",
+      "latitude": 53.201836,
+      "longitude": 5.796475,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 284,
+      "name": "Nootkracht",
+      "latitude": 51.603134,
+      "longitude": 5.664722,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 285,
+      "name": "Noten & Zuidvruchten",
+      "latitude": 52.37974,
+      "longitude": 4.830793,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 286,
+      "name": "Noten en Zo",
+      "latitude": 52.141174,
+      "longitude": 6.195412,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 287,
+      "name": "Notencentrum",
+      "latitude": 52.696825,
+      "longitude": 5.234141,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 288,
+      "name": "Oil & Vinegar",
+      "latitude": 50.850603,
+      "longitude": 5.690457,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 289,
+      "name": "Oil & Vinegar",
+      "latitude": 51.497818,
+      "longitude": 3.609226,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 290,
+      "name": "Oil & Vinegar",
+      "latitude": 51.588152,
+      "longitude": 4.775444,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 291,
+      "name": "Oil & Vinegar",
+      "latitude": 51.687405,
+      "longitude": 5.301517,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 292,
+      "name": "Oil & Vinegar",
+      "latitude": 52.090159,
+      "longitude": 5.120229,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 293,
+      "name": "Oil & Vinegar",
+      "latitude": 52.091401,
+      "longitude": 4.27458,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 294,
+      "name": "Oil & Vinegar",
+      "latitude": 52.160697,
+      "longitude": 4.48889,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 295,
+      "name": "Oil & Vinegar",
+      "latitude": 52.219167,
+      "longitude": 6.897369,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 296,
+      "name": "Oil & Vinegar",
+      "latitude": 52.30211,
+      "longitude": 4.862034,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 297,
+      "name": "Olala Chocola",
+      "latitude": 51.830472,
+      "longitude": 4.970663,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 298,
+      "name": "Oliodiolivo",
+      "latitude": 52.331164,
+      "longitude": 4.877188,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 299,
+      "name": "Olive Land",
+      "latitude": 52.161179,
+      "longitude": 4.490257,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 300,
+      "name": "Oliveland",
+      "latitude": 52.15442,
+      "longitude": 4.489635,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 301,
+      "name": "Olives & More",
+      "latitude": 52.355057,
+      "longitude": 4.924091,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 302,
+      "name": "Olives & More",
+      "latitude": 52.361586,
+      "longitude": 4.871474,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 303,
+      "name": "Omni",
+      "latitude": 53.223735,
+      "longitude": 6.564092,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 304,
+      "name": "Oslo",
+      "latitude": 52.377875,
+      "longitude": 4.887058,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 305,
+      "name": "Pane e Olio",
+      "latitude": 52.37471,
+      "longitude": 4.888768,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 306,
+      "name": "Panneklaar",
+      "latitude": 51.890635,
+      "longitude": 6.379794,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 307,
+      "name": "Papa E Citu",
+      "latitude": 51.576873,
+      "longitude": 4.780968,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 308,
+      "name": "Partí",
+      "latitude": 51.368429,
+      "longitude": 6.170364,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 309,
+      "name": "Partí",
+      "latitude": 51.914756,
+      "longitude": 4.400334,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 310,
+      "name": "Partí",
+      "latitude": 51.934795,
+      "longitude": 4.376542,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 311,
+      "name": "Partí",
+      "latitude": 51.992844,
+      "longitude": 4.205547,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 312,
+      "name": "Partí",
+      "latitude": 52.2927,
+      "longitude": 4.578042,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 313,
+      "name": "Partí",
+      "latitude": 52.302952,
+      "longitude": 4.860918,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 314,
+      "name": "Partí",
+      "latitude": 52.359397,
+      "longitude": 4.653937,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 315,
+      "name": "Pasta Fresca",
+      "latitude": 52.253699,
+      "longitude": 6.155496,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 316,
+      "name": "Pastelaria Lusa",
+      "latitude": 51.4787,
+      "longitude": 5.66322,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 317,
+      "name": "Pastis",
+      "latitude": 51.576834,
+      "longitude": 4.781418,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 318,
+      "name": "Patri",
+      "latitude": 51.931792,
+      "longitude": 4.589216,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 319,
+      "name": "Peppi",
+      "latitude": 52.352167,
+      "longitude": 4.895037,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 320,
+      "name": "Phil&Dejean Traiteur",
+      "latitude": 52.270739,
+      "longitude": 4.974457,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 321,
+      "name": "Philipsen Specialiteiten",
+      "latitude": 51.575314,
+      "longitude": 5.038376,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 322,
+      "name": "Pinna",
+      "latitude": 52.228951,
+      "longitude": 6.921444,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 323,
+      "name": "Ploeger",
+      "latitude": 52.110917,
+      "longitude": 5.182217,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 324,
+      "name": "Poel Vers",
+      "latitude": 52.202486,
+      "longitude": 4.630719,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 325,
+      "name": "Polka (Poolse) Delicatessen",
+      "latitude": 52.559024,
+      "longitude": 5.915496,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 326,
+      "name": "Polski Delikatesi",
+      "latitude": 51.374489,
+      "longitude": 6.140164,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 327,
+      "name": "Polski sklep Groszek delicatessencentrum",
+      "latitude": 51.889746,
+      "longitude": 5.425222,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 328,
+      "name": "Polskie Delikatesy",
+      "latitude": 51.660986,
+      "longitude": 5.032849,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 329,
+      "name": "Polskie Delikatesy U Polaka",
+      "latitude": 52.230533,
+      "longitude": 4.831843,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 330,
+      "name": "Pomino",
+      "latitude": 52.15648,
+      "longitude": 4.492583,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 331,
+      "name": "Poolse Delicatessen Bociek",
+      "latitude": 52.727803,
+      "longitude": 5.150625,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 332,
+      "name": "Prego",
+      "latitude": 52.020113,
+      "longitude": 5.045554,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 333,
+      "name": "Primo Passo",
+      "latitude": 52.365437,
+      "longitude": 4.926347,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 334,
+      "name": "Prinsheerlijk Delicatessenhuis",
+      "latitude": 51.926516,
+      "longitude": 6.580451,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 335,
+      "name": "Proefhuys",
+      "latitude": 52.068176,
+      "longitude": 4.364541,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 336,
+      "name": "Proefwerck wijn + eetwinkel",
+      "latitude": 52.264957,
+      "longitude": 6.796527,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 337,
+      "name": "Pronk",
+      "latitude": 52.308357,
+      "longitude": 5.041693,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 338,
+      "name": "Pure Taste",
+      "latitude": 52.141977,
+      "longitude": 6.1953,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 339,
+      "name": "Puur",
+      "latitude": 51.254352,
+      "longitude": 5.706959,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 340,
+      "name": "RN - Productos Latinos",
+      "latitude": 52.072737,
+      "longitude": 4.283415,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 341,
+      "name": "Raadtgever",
+      "latitude": 51.960423,
+      "longitude": 4.503935,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 342,
+      "name": "Raaphorst Noten",
+      "latitude": 52.085237,
+      "longitude": 4.747181,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 343,
+      "name": "Reformhuis Zonnepoort",
+      "latitude": 52.074693,
+      "longitude": 4.265269,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 344,
+      "name": "Rene Pluijm kookstudio en delicatessen",
+      "latitude": 52.459376,
+      "longitude": 4.595057,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 345,
+      "name": "Renzo's",
+      "latitude": 52.354901,
+      "longitude": 4.881151,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 346,
+      "name": "Rico's",
+      "latitude": 52.348433,
+      "longitude": 4.876851,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 347,
+      "name": "Rithymna",
+      "latitude": 52.158089,
+      "longitude": 4.489234,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 348,
+      "name": "Roberto Violante",
+      "latitude": 52.958942,
+      "longitude": 5.924783,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 349,
+      "name": "Roeraade",
+      "latitude": 52.227416,
+      "longitude": 5.176376,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 350,
+      "name": "Rolph's Deli",
+      "latitude": 51.905464,
+      "longitude": 4.488386,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 351,
+      "name": "Rotisserie",
+      "latitude": 52.061117,
+      "longitude": 4.487061,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 352,
+      "name": "Royaal Genieten",
+      "latitude": 51.92844,
+      "longitude": 6.581202,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 353,
+      "name": "Russische Specialiteiten",
+      "latitude": 53.218266,
+      "longitude": 6.574488,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 354,
+      "name": "SMAAK Delicatessen",
+      "latitude": 51.998137,
+      "longitude": 5.675509,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 355,
+      "name": "SMAAK28",
+      "latitude": 52.26482,
+      "longitude": 6.796822,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 356,
+      "name": "STACH",
+      "latitude": 52.333711,
+      "longitude": 4.88891,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 357,
+      "name": "STACH",
+      "latitude": 52.344114,
+      "longitude": 4.857396,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 358,
+      "name": "STACH",
+      "latitude": 52.361546,
+      "longitude": 4.864943,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 359,
+      "name": "STACH",
+      "latitude": 52.362837,
+      "longitude": 4.874922,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 360,
+      "name": "STACH",
+      "latitude": 52.363511,
+      "longitude": 4.888673,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 361,
+      "name": "STACH",
+      "latitude": 52.37096,
+      "longitude": 4.899103,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 362,
+      "name": "STACH",
+      "latitude": 52.371341,
+      "longitude": 4.860095,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 363,
+      "name": "STACH",
+      "latitude": 52.379789,
+      "longitude": 4.632526,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 364,
+      "name": "STACH",
+      "latitude": 52.381383,
+      "longitude": 4.889647,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 365,
+      "name": "STACH",
+      "latitude": 52.388022,
+      "longitude": 4.607545,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 366,
+      "name": "Saffraan",
+      "latitude": 51.891999,
+      "longitude": 5.093155,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 367,
+      "name": "Saint-Jean",
+      "latitude": 52.380042,
+      "longitude": 4.884434,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 368,
+      "name": "Salade Wok",
+      "latitude": 52.631632,
+      "longitude": 4.748778,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 369,
+      "name": "Salumeria Woarst Delicatessen",
+      "latitude": 51.980751,
+      "longitude": 5.908906,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 370,
+      "name": "Santero's",
+      "latitude": 50.917068,
+      "longitude": 6.05181,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 371,
+      "name": "Scholtes Noten & Deli",
+      "latitude": 52.091349,
+      "longitude": 4.27454,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 372,
+      "name": "Seca Pipas",
+      "latitude": 51.914785,
+      "longitude": 4.399216,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 373,
+      "name": "Semke Delicatexel",
+      "latitude": 53.098382,
+      "longitude": 4.76204,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 374,
+      "name": "Shilla",
+      "latitude": 52.281607,
+      "longitude": 4.826525,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 375,
+      "name": "Siadaris",
+      "latitude": 52.216025,
+      "longitude": 5.169232,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 376,
+      "name": "Simply South African",
+      "latitude": 52.083185,
+      "longitude": 4.304731,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 377,
+      "name": "Sjoerds Loekie",
+      "latitude": 52.35461,
+      "longitude": 4.901185,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 378,
+      "name": "Slagerij Maison Moes",
+      "latitude": 51.570597,
+      "longitude": 4.790624,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 379,
+      "name": "Slijterij-Wijnhandel La Bouteille",
+      "latitude": 51.83149,
+      "longitude": 4.146405,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 380,
+      "name": "Smaakhuis",
+      "latitude": 52.259472,
+      "longitude": 4.558665,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 381,
+      "name": "Smeele Delicatessen & Wijnkoperij",
+      "latitude": 52.055897,
+      "longitude": 4.335451,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 382,
+      "name": "Smits Specialiteiten",
+      "latitude": 51.957422,
+      "longitude": 5.567195,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 383,
+      "name": "Sogno di Pasta",
+      "latitude": 52.382369,
+      "longitude": 4.632953,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 384,
+      "name": "Solfood",
+      "latitude": 51.856901,
+      "longitude": 4.420296,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 385,
+      "name": "Solo Asli",
+      "latitude": 52.382137,
+      "longitude": 4.855984,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 386,
+      "name": "Spanish Harlem",
+      "latitude": 52.395784,
+      "longitude": 4.642605,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 387,
+      "name": "Spices of Marrakech",
+      "latitude": 52.087712,
+      "longitude": 4.383319,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 388,
+      "name": "Stadsbruncherie De Groen",
+      "latitude": 51.929595,
+      "longitude": 6.077356,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 389,
+      "name": "Sterk Staaltje",
+      "latitude": 52.36822,
+      "longitude": 4.897078,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 390,
+      "name": "Sucré Salé",
+      "latitude": 52.068571,
+      "longitude": 4.365714,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 391,
+      "name": "Sucré Salé",
+      "latitude": 52.081465,
+      "longitude": 4.283366,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 392,
+      "name": "Sunderban",
+      "latitude": 52.073477,
+      "longitude": 4.281989,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 393,
+      "name": "Sushi Clinic To Go",
+      "latitude": 52.103251,
+      "longitude": 4.279313,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 394,
+      "name": "SweetGreen",
+      "latitude": 52.082303,
+      "longitude": 5.134298,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 395,
+      "name": "Syrian Delights",
+      "latitude": 51.812877,
+      "longitude": 4.66904,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 396,
+      "name": "Tabak's Notenbar",
+      "latitude": 52.343613,
+      "longitude": 4.905955,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 397,
+      "name": "Takis - Griekse Traiteur & Delicatessen",
+      "latitude": 51.228445,
+      "longitude": 3.799761,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 398,
+      "name": "Tapas El Quijote en Dona Rosa",
+      "latitude": 51.439773,
+      "longitude": 5.458072,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 399,
+      "name": "Tapsalon Goesto",
+      "latitude": 51.505055,
+      "longitude": 3.889682,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 400,
+      "name": "Tartufia",
+      "latitude": 50.849424,
+      "longitude": 5.698156,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 401,
+      "name": "Taste aan den Rijn",
+      "latitude": 52.132433,
+      "longitude": 4.663641,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 402,
+      "name": "Taste of Landsmeer",
+      "latitude": 52.429169,
+      "longitude": 4.913385,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 403,
+      "name": "Tea Chocolate & More",
+      "latitude": 52.372218,
+      "longitude": 4.526879,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 404,
+      "name": "Terre Lente",
+      "latitude": 52.378592,
+      "longitude": 4.885209,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 405,
+      "name": "That's Amore",
+      "latitude": 52.081094,
+      "longitude": 4.28682,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 406,
+      "name": "The Foodstory",
+      "latitude": 52.309392,
+      "longitude": 4.847047,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 407,
+      "name": "Thull's Deli",
+      "latitude": 52.372868,
+      "longitude": 4.938756,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 408,
+      "name": "Tiramisúp",
+      "latitude": 52.379622,
+      "longitude": 4.884583,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 409,
+      "name": "Toko An Done",
+      "latitude": 52.633511,
+      "longitude": 4.748599,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 410,
+      "name": "Toko De Poort",
+      "latitude": 52.313087,
+      "longitude": 4.949496,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 411,
+      "name": "Toko Ikan Mas",
+      "latitude": 52.363315,
+      "longitude": 4.875162,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 412,
+      "name": "Toko Indah",
+      "latitude": 52.035934,
+      "longitude": 4.315906,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 413,
+      "name": "Toko Jaruwan",
+      "latitude": 52.160186,
+      "longitude": 5.363368,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 414,
+      "name": "Toko Liem",
+      "latitude": 51.950414,
+      "longitude": 4.554451,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 415,
+      "name": "Toko Madjoe",
+      "latitude": 52.310965,
+      "longitude": 4.846589,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 416,
+      "name": "Toko Rasu",
+      "latitude": 52.061443,
+      "longitude": 4.492858,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 417,
+      "name": "Toko Sari Plaza",
+      "latitude": 52.274627,
+      "longitude": 4.795529,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 418,
+      "name": "Toko Tjin",
+      "latitude": 52.186143,
+      "longitude": 5.397568,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 419,
+      "name": "Toko Veenendaal",
+      "latitude": 52.028824,
+      "longitude": 5.559816,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 420,
+      "name": "Tovino",
+      "latitude": 51.91047,
+      "longitude": 4.343395,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 421,
+      "name": "Traiterie en Ouzerie De Olijfboom",
+      "latitude": 53.216444,
+      "longitude": 6.572286,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 422,
+      "name": "Traiteur Lusso",
+      "latitude": 52.083931,
+      "longitude": 4.313744,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 423,
+      "name": "Trattoria Sorridi",
+      "latitude": 52.358959,
+      "longitude": 4.806194,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 424,
+      "name": "Tres Bien",
+      "latitude": 53.217412,
+      "longitude": 6.563384,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 425,
+      "name": "Tsiisbuorkerij de Deelen",
+      "latitude": 53.042553,
+      "longitude": 5.942285,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 426,
+      "name": "Turquoise Mosae Gusto",
+      "latitude": 50.85196,
+      "longitude": 5.692649,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 427,
+      "name": "Tutti a Tavola",
+      "latitude": 52.089875,
+      "longitude": 5.13522,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 428,
+      "name": "Umai Foodstore",
+      "latitude": 52.661099,
+      "longitude": 5.600868,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 429,
+      "name": "Valk",
+      "latitude": 51.327309,
+      "longitude": 3.490127,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 430,
+      "name": "Van Hooff Culinair",
+      "latitude": 51.382362,
+      "longitude": 5.580145,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 431,
+      "name": "Van Leeuwen delicatessen",
+      "latitude": 52.162996,
+      "longitude": 4.532475,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 432,
+      "name": "Van den Bergh Delicatessen BV",
+      "latitude": 52.78721,
+      "longitude": 6.89389,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 433,
+      "name": "Van der Veen Noten",
+      "latitude": 52.787748,
+      "longitude": 4.797553,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 434,
+      "name": "Verkade & Jacques",
+      "latitude": 52.010413,
+      "longitude": 4.360269,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 435,
+      "name": "Verkade Delicatessen",
+      "latitude": 51.931584,
+      "longitude": 4.345896,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 436,
+      "name": "Vershoek",
+      "latitude": 52.102145,
+      "longitude": 5.122888,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 437,
+      "name": "Vershuis De Hoef",
+      "latitude": 52.632238,
+      "longitude": 4.72377,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 438,
+      "name": "Versmaker de Tulp",
+      "latitude": 52.190072,
+      "longitude": 4.421045,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 439,
+      "name": "Verswinkel Marlou Segers",
+      "latitude": 51.279809,
+      "longitude": 4.052797,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 440,
+      "name": "Vigola",
+      "latitude": 52.053984,
+      "longitude": 5.288047,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 441,
+      "name": "Vincent",
+      "latitude": 52.357433,
+      "longitude": 4.910724,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 442,
+      "name": "Vom Fass",
+      "latitude": 52.080133,
+      "longitude": 4.267618,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 443,
+      "name": "W. Lommerse",
+      "latitude": 52.325104,
+      "longitude": 4.593031,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 444,
+      "name": "WAJOS",
+      "latitude": 50.7715,
+      "longitude": 6.022817,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 445,
+      "name": "Waroeng Soeboer",
+      "latitude": 52.081039,
+      "longitude": 4.296972,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 446,
+      "name": "Warung Kromo",
+      "latitude": 52.080688,
+      "longitude": 4.295774,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 447,
+      "name": "Weidehuus",
+      "latitude": 52.389199,
+      "longitude": 6.449311,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 448,
+      "name": "Westerkaatje",
+      "latitude": 51.924115,
+      "longitude": 4.510823,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 449,
+      "name": "Yann Chocolaterie La Poutré",
+      "latitude": 53.331452,
+      "longitude": 6.515665,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 450,
+      "name": "Yauno Delicatessen",
+      "latitude": 51.941696,
+      "longitude": 5.894326,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 451,
+      "name": "Yauno Olijven",
+      "latitude": 51.955221,
+      "longitude": 5.97312,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 452,
+      "name": "Yauno Westervoort",
+      "latitude": 51.955174,
+      "longitude": 5.973076,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 453,
+      "name": "Zee Tsiis",
+      "latitude": 52.968104,
+      "longitude": 5.79421,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 454,
+      "name": "Zoetelief",
+      "latitude": 52.555607,
+      "longitude": 5.918588,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 455,
+      "name": "ZohrA",
+      "latitude": 52.295867,
+      "longitude": 4.861402,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 456,
+      "name": "Zonnig Zuid",
+      "latitude": 52.786694,
+      "longitude": 4.797684,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 457,
+      "name": "Zuivelhoeve",
+      "latitude": 53.202298,
+      "longitude": 5.791679,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 458,
+      "name": "Zuza's Deli",
+      "latitude": 52.324837,
+      "longitude": 4.868244,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 459,
+      "name": "Zwartbol Foods",
+      "latitude": 51.75978,
+      "longitude": 4.164855,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 460,
+      "name": "de Kruidenwei",
+      "latitude": 52.967312,
+      "longitude": 6.662414,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 461,
+      "name": "de Leckernij van den Heuvel",
+      "latitude": 51.813912,
+      "longitude": 4.892847,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 462,
+      "name": "de Notenwinkel",
+      "latitude": 51.987336,
+      "longitude": 5.841804,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 463,
+      "name": "deQ Chocolade, Thee & Koffie",
+      "latitude": 53.162833,
+      "longitude": 6.390698,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 464,
+      "name": "gewoonweg lekker",
+      "latitude": 51.473119,
+      "longitude": 3.814553,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 465,
+      "name": "het Bouwhuis",
+      "latitude": 52.252882,
+      "longitude": 6.157913,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 466,
+      "name": "p__d",
+      "latitude": 52.011947,
+      "longitude": 4.357464,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 467,
+      "name": "t' Vuistje",
+      "latitude": 52.555707,
+      "longitude": 5.919132,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 468,
+      "name": "van Pelt Delicatessen",
+      "latitude": 51.785197,
+      "longitude": 4.676638,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 469,
+      "name": "van de Kaasboer",
+      "latitude": 51.936759,
+      "longitude": 6.128924,
+      "osm_klasse": "shop=deli"
+    },
+    {
+      "id": 470,
+      "name": "van der Geest Wild & gevogelte",
+      "latitude": 52.09292,
+      "longitude": 4.324987,
+      "osm_klasse": "shop=deli"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: deli (shop=deli) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=deli in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 470 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: deli (shop=deli) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: deli (shop=deli) — 470 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 470 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

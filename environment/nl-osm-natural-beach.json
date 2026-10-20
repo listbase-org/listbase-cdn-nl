@@ -1,0 +1,1500 @@
+{
+  "id": "nl-osm-natural-beach",
+  "name": "Netherlands OSM: beach (natural=beach)",
+  "title": "Netherlands OSM: beach (natural=beach)",
+  "description": "Named OpenStreetMap features tagged natural=beach in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 207,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Hondehemeltje",
+      "latitude": 52.681604,
+      "longitude": 5.243638,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 2,
+      "name": "'t Hoofdstrand",
+      "latitude": 52.394189,
+      "longitude": 5.212835,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 3,
+      "name": "'t Kleine Zeetje",
+      "latitude": 52.259808,
+      "longitude": 5.375351,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 4,
+      "name": "'t Schoorlstrand",
+      "latitude": 52.452304,
+      "longitude": 4.880341,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 5,
+      "name": "'t Witven",
+      "latitude": 51.397468,
+      "longitude": 5.411082,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 6,
+      "name": "Aalscholverstrand",
+      "latitude": 52.46135,
+      "longitude": 4.833722,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 7,
+      "name": "Almeerderstrand",
+      "latitude": 52.333662,
+      "longitude": 5.141153,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 8,
+      "name": "Baaiegatstrand Naturistenstrand",
+      "latitude": 52.45587,
+      "longitude": 4.882362,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 9,
+      "name": "Badstrand",
+      "latitude": 51.448869,
+      "longitude": 3.559925,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 10,
+      "name": "Balg",
+      "latitude": 53.50704,
+      "longitude": 6.333094,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 11,
+      "name": "Bataviastrand",
+      "latitude": 52.526048,
+      "longitude": 5.424389,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 12,
+      "name": "Beach Noord",
+      "latitude": 52.448654,
+      "longitude": 5.805884,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 13,
+      "name": "Beach Zuid",
+      "latitude": 52.443141,
+      "longitude": 5.800803,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 14,
+      "name": "Bierumer strand",
+      "latitude": 53.39219,
+      "longitude": 6.885323,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 15,
+      "name": "Binnenmaasstrandje Mijnsheerenland",
+      "latitude": 51.793193,
+      "longitude": 4.485518,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 16,
+      "name": "Bloemendaal aan Zee",
+      "latitude": 52.419516,
+      "longitude": 4.554265,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 17,
+      "name": "Bloemendaal aan Zee",
+      "latitude": 52.430932,
+      "longitude": 4.560026,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 18,
+      "name": "Bloemendaal aan Zee",
+      "latitude": 52.434194,
+      "longitude": 4.559757,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 19,
+      "name": "Bloemendaal aan Zee",
+      "latitude": 52.436655,
+      "longitude": 4.560315,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 20,
+      "name": "Bommel Beach",
+      "latitude": 51.720858,
+      "longitude": 4.281313,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 21,
+      "name": "Bremerbaaistrand",
+      "latitude": 52.416318,
+      "longitude": 5.728788,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 22,
+      "name": "Bremerbaaistrand",
+      "latitude": 52.416473,
+      "longitude": 5.731173,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 23,
+      "name": "Buitenrif-Oost",
+      "latitude": 53.473736,
+      "longitude": 6.057538,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 24,
+      "name": "Buitenrif-West",
+      "latitude": 53.472414,
+      "longitude": 6.041225,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 25,
+      "name": "Center Parcs Beach",
+      "latitude": 51.328221,
+      "longitude": 5.425992,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 26,
+      "name": "Costa del Spui",
+      "latitude": 51.803255,
+      "longitude": 4.279091,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 27,
+      "name": "Dagstrand",
+      "latitude": 51.234633,
+      "longitude": 5.65064,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 28,
+      "name": "Dagstrand De Grote Hegge",
+      "latitude": 51.15372,
+      "longitude": 5.840561,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 29,
+      "name": "De Banaan",
+      "latitude": 51.705366,
+      "longitude": 4.397739,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 30,
+      "name": "De Hôn",
+      "latitude": 53.464523,
+      "longitude": 5.940305,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 31,
+      "name": "De Kerf",
+      "latitude": 52.684291,
+      "longitude": 4.63732,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 32,
+      "name": "De Leers",
+      "latitude": 52.450545,
+      "longitude": 4.886038,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 33,
+      "name": "De Lithsche Ham",
+      "latitude": 51.818763,
+      "longitude": 5.408231,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 34,
+      "name": "De Oerkap",
+      "latitude": 52.385359,
+      "longitude": 4.647158,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 35,
+      "name": "De Zandmotor",
+      "latitude": 52.055191,
+      "longitude": 4.193209,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 36,
+      "name": "De Zandmotor",
+      "latitude": 52.055707,
+      "longitude": 4.193921,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 37,
+      "name": "Doesstrand",
+      "latitude": 52.438455,
+      "longitude": 4.893304,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 38,
+      "name": "Eiland 5",
+      "latitude": 52.232851,
+      "longitude": 4.955021,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 39,
+      "name": "Ellerstrand Noord (naaktstrand)",
+      "latitude": 52.435085,
+      "longitude": 5.788917,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 40,
+      "name": "Ellerstrand Zuid",
+      "latitude": 52.427003,
+      "longitude": 5.774053,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 41,
+      "name": "Engelermeer West",
+      "latitude": 51.70196,
+      "longitude": 5.24539,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 42,
+      "name": "Fantasiestrand",
+      "latitude": 52.357699,
+      "longitude": 5.217091,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 43,
+      "name": "Fuut",
+      "latitude": 52.462546,
+      "longitude": 4.830232,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 44,
+      "name": "Fuut",
+      "latitude": 52.462763,
+      "longitude": 4.8316,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 45,
+      "name": "Gat van de kerksloot Biesbosch",
+      "latitude": 51.724824,
+      "longitude": 4.770567,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 46,
+      "name": "Grote Strand",
+      "latitude": 52.324964,
+      "longitude": 4.670772,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 47,
+      "name": "Grote strand",
+      "latitude": 52.659695,
+      "longitude": 5.594936,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 48,
+      "name": "Hanzestrand",
+      "latitude": 52.344511,
+      "longitude": 5.609793,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 49,
+      "name": "Harderstrand Noord",
+      "latitude": 52.388162,
+      "longitude": 5.641498,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 50,
+      "name": "Harderstrand Zuid",
+      "latitude": 52.377765,
+      "longitude": 5.622672,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 51,
+      "name": "Haringvliet-Oost",
+      "latitude": 51.722381,
+      "longitude": 4.406693,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 52,
+      "name": "Haringvliet-West",
+      "latitude": 51.722016,
+      "longitude": 4.403657,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 53,
+      "name": "Havenstrand",
+      "latitude": 52.583283,
+      "longitude": 5.364134,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 54,
+      "name": "Hengst",
+      "latitude": 53.184052,
+      "longitude": 4.898043,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 55,
+      "name": "Herkingen Badstrand",
+      "latitude": 51.70798,
+      "longitude": 4.080668,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 56,
+      "name": "Hessumse strand",
+      "latitude": 52.521096,
+      "longitude": 6.314603,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 57,
+      "name": "Het Eikenhout",
+      "latitude": 52.39469,
+      "longitude": 4.882618,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 58,
+      "name": "Het Voshuys strand",
+      "latitude": 52.893619,
+      "longitude": 6.737425,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 59,
+      "name": "Hoek van Holland",
+      "latitude": 51.990097,
+      "longitude": 4.108505,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 60,
+      "name": "Hoek van Holland Naakstrand",
+      "latitude": 51.999499,
+      "longitude": 4.122639,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 61,
+      "name": "Hondenstrand",
+      "latitude": 52.330034,
+      "longitude": 5.592666,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 62,
+      "name": "Hondenstrandje",
+      "latitude": 52.053864,
+      "longitude": 4.453802,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 63,
+      "name": "Hondenvijver",
+      "latitude": 52.286821,
+      "longitude": 6.458669,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 64,
+      "name": "Houtribhoekstrand",
+      "latitude": 52.548744,
+      "longitude": 5.455688,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 65,
+      "name": "IJsselmeerstrand",
+      "latitude": 52.337098,
+      "longitude": 5.598932,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 66,
+      "name": "Kaloot",
+      "latitude": 51.434005,
+      "longitude": 3.709255,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 67,
+      "name": "Kennemerstrand",
+      "latitude": 52.448502,
+      "longitude": 4.5606,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 68,
+      "name": "Kleine strand",
+      "latitude": 52.663473,
+      "longitude": 5.59255,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 69,
+      "name": "Klonie Eiland",
+      "latitude": 52.894466,
+      "longitude": 6.738993,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 70,
+      "name": "Klonie Strand",
+      "latitude": 52.894238,
+      "longitude": 6.739029,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 71,
+      "name": "Klonie Strand",
+      "latitude": 52.894725,
+      "longitude": 6.740213,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 72,
+      "name": "Kuifeend",
+      "latitude": 52.464245,
+      "longitude": 4.838526,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 73,
+      "name": "Kure-Janstrand",
+      "latitude": 52.456166,
+      "longitude": 4.894725,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 74,
+      "name": "Laakse Strand",
+      "latitude": 52.255383,
+      "longitude": 5.426885,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 75,
+      "name": "Laakse Strand",
+      "latitude": 52.257883,
+      "longitude": 5.440668,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 76,
+      "name": "Langevelderslag",
+      "latitude": 52.310187,
+      "longitude": 4.480914,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 77,
+      "name": "Lanterstrand",
+      "latitude": 52.347602,
+      "longitude": 5.537921,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 78,
+      "name": "Loowaard",
+      "latitude": 51.922999,
+      "longitude": 5.985537,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 79,
+      "name": "Lumièrestrand",
+      "latitude": 52.362594,
+      "longitude": 5.234966,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 80,
+      "name": "Lutjestrand.",
+      "latitude": 52.887975,
+      "longitude": 4.913957,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 81,
+      "name": "Lutjestrand.",
+      "latitude": 52.889171,
+      "longitude": 4.911952,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 82,
+      "name": "Middenrif",
+      "latitude": 53.469395,
+      "longitude": 6.046477,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 83,
+      "name": "Muidenstrand",
+      "latitude": 52.338032,
+      "longitude": 5.600866,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 84,
+      "name": "Naaktstrand",
+      "latitude": 51.402754,
+      "longitude": 3.498045,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 85,
+      "name": "Naaktstrand",
+      "latitude": 51.933747,
+      "longitude": 3.976633,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 86,
+      "name": "Naaktstrand",
+      "latitude": 52.439468,
+      "longitude": 4.560093,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 87,
+      "name": "Naaktstrand Ameland",
+      "latitude": 53.464161,
+      "longitude": 5.858888,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 88,
+      "name": "Naaktstrand Den Hoorn",
+      "latitude": 53.011226,
+      "longitude": 4.711776,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 89,
+      "name": "Naaktstrand Domburg",
+      "latitude": 51.558904,
+      "longitude": 3.477885,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 90,
+      "name": "Naaktstrand Engelermeer",
+      "latitude": 51.701339,
+      "longitude": 5.243774,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 91,
+      "name": "Naaktstrand Galderse Meren",
+      "latitude": 51.525491,
+      "longitude": 4.757829,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 92,
+      "name": "Naaktstrand Isabellagriend",
+      "latitude": 51.183817,
+      "longitude": 5.933714,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 93,
+      "name": "Naaktstrand Noordwijk",
+      "latitude": 52.263156,
+      "longitude": 4.444163,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 94,
+      "name": "Naaktstrand Texel",
+      "latitude": 53.149473,
+      "longitude": 4.806607,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 95,
+      "name": "Naaktstrandje Groene Ster",
+      "latitude": 53.213319,
+      "longitude": 5.864094,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 96,
+      "name": "Naaktstrandje Stavoren",
+      "latitude": 52.89511,
+      "longitude": 5.365553,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 97,
+      "name": "Naturist Beach",
+      "latitude": 52.176926,
+      "longitude": 6.832058,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 98,
+      "name": "Naturistenstrand Bergen/Schoorl",
+      "latitude": 52.679333,
+      "longitude": 4.632166,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 99,
+      "name": "Naturistenstrand Westduinpark",
+      "latitude": 52.081412,
+      "longitude": 4.234325,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 100,
+      "name": "Naturistenstrand Zandvoort",
+      "latitude": 52.347338,
+      "longitude": 4.507324,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 101,
+      "name": "Neeltje Jans Speelstrand",
+      "latitude": 51.638059,
+      "longitude": 3.713643,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 102,
+      "name": "Nieuwe Meer Westzijde, Oeverlanden",
+      "latitude": 52.333334,
+      "longitude": 4.812056,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 103,
+      "name": "Nieuwe Meer, Noordoever",
+      "latitude": 52.334188,
+      "longitude": 4.814018,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 104,
+      "name": "Nollestrand",
+      "latitude": 51.450483,
+      "longitude": 3.551317,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 105,
+      "name": "Noord Oost strand",
+      "latitude": 52.274357,
+      "longitude": 5.072053,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 106,
+      "name": "Noordenplassenstrand",
+      "latitude": 52.394251,
+      "longitude": 5.219341,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 107,
+      "name": "Noordenplassenstrand",
+      "latitude": 52.394499,
+      "longitude": 5.221958,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 108,
+      "name": "Noorderstrand",
+      "latitude": 53.498856,
+      "longitude": 6.187348,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 109,
+      "name": "Noordstrand",
+      "latitude": 52.286762,
+      "longitude": 5.53381,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 110,
+      "name": "Noordsvaarder",
+      "latitude": 53.355219,
+      "longitude": 5.192874,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 111,
+      "name": "Nude Beach - Schoorl aan Zee",
+      "latitude": 52.694035,
+      "longitude": 4.634759,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 112,
+      "name": "Nude Beach -Bergen aan Zee",
+      "latitude": 52.672219,
+      "longitude": 4.630549,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 113,
+      "name": "Nudist Beach Oranjezon",
+      "latitude": 51.59405,
+      "longitude": 3.578205,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 114,
+      "name": "Nuilerveld",
+      "latitude": 52.791612,
+      "longitude": 6.486292,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 115,
+      "name": "Oostelijke washover",
+      "latitude": 53.471023,
+      "longitude": 6.05305,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 116,
+      "name": "Oosterstrand",
+      "latitude": 53.504446,
+      "longitude": 6.282299,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 117,
+      "name": "Oostrif",
+      "latitude": 53.470676,
+      "longitude": 6.0553,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 118,
+      "name": "Oostzeestrand",
+      "latitude": 52.342596,
+      "longitude": 5.607454,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 119,
+      "name": "Pllek",
+      "latitude": 52.398856,
+      "longitude": 4.89281,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 120,
+      "name": "Quarantainestrand",
+      "latitude": 51.897571,
+      "longitude": 4.40918,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 121,
+      "name": "RCN Strand",
+      "latitude": 52.309832,
+      "longitude": 5.546019,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 122,
+      "name": "Recreatiestrand Resort Arcen",
+      "latitude": 51.482247,
+      "longitude": 6.212629,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 123,
+      "name": "Rhederlaag",
+      "latitude": 51.986873,
+      "longitude": 6.037582,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 124,
+      "name": "Rhederlaag",
+      "latitude": 51.987118,
+      "longitude": 6.040122,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 125,
+      "name": "Rhederlaag (naaktstrand)",
+      "latitude": 51.987503,
+      "longitude": 6.042587,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 126,
+      "name": "Rietgorsstrand",
+      "latitude": 52.335144,
+      "longitude": 5.595685,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 127,
+      "name": "Rockanje Naaktstrand",
+      "latitude": 51.883011,
+      "longitude": 4.033205,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 128,
+      "name": "Rockanje Strand",
+      "latitude": 51.859466,
+      "longitude": 4.057578,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 129,
+      "name": "Schiphorst",
+      "latitude": 52.521283,
+      "longitude": 6.311095,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 130,
+      "name": "Schippersstrand",
+      "latitude": 52.341721,
+      "longitude": 5.606222,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 131,
+      "name": "Slijkplaat",
+      "latitude": 51.801197,
+      "longitude": 4.149845,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 132,
+      "name": "Sloterstrand",
+      "latitude": 52.371638,
+      "longitude": 4.822663,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 133,
+      "name": "Slufterstrand",
+      "latitude": 51.917474,
+      "longitude": 4.006891,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 134,
+      "name": "Smalle Ee Strand",
+      "latitude": 53.106642,
+      "longitude": 6.021346,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 135,
+      "name": "Smient",
+      "latitude": 52.461533,
+      "longitude": 4.831619,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 136,
+      "name": "Speelsloot",
+      "latitude": 52.460968,
+      "longitude": 4.897659,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 137,
+      "name": "Spijkstrand",
+      "latitude": 52.454327,
+      "longitude": 5.809985,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 138,
+      "name": "Stadsstrand",
+      "latitude": 53.225416,
+      "longitude": 6.567327,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 139,
+      "name": "Stavenisse Badstrand",
+      "latitude": 51.593748,
+      "longitude": 4.004587,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 140,
+      "name": "Stedenwijkstrand",
+      "latitude": 52.365789,
+      "longitude": 5.21363,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 141,
+      "name": "Strand",
+      "latitude": 51.937911,
+      "longitude": 4.215344,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 142,
+      "name": "Strand 't Bovenwater",
+      "latitude": 52.485357,
+      "longitude": 5.419375,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 143,
+      "name": "Strand Cattenbroek",
+      "latitude": 52.080232,
+      "longitude": 4.91658,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 144,
+      "name": "Strand Diemerpark",
+      "latitude": 52.35432,
+      "longitude": 4.986544,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 145,
+      "name": "Strand Horst Noord",
+      "latitude": 52.322558,
+      "longitude": 5.570849,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 146,
+      "name": "Strand Horst Noord",
+      "latitude": 52.324128,
+      "longitude": 5.572532,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 147,
+      "name": "Strand Horst Noord",
+      "latitude": 52.325756,
+      "longitude": 5.574891,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 148,
+      "name": "Strand Horst Noord",
+      "latitude": 52.327266,
+      "longitude": 5.577359,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 149,
+      "name": "Strand Horst Noord",
+      "latitude": 52.328453,
+      "longitude": 5.579365,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 150,
+      "name": "Strand Horst Noord",
+      "latitude": 52.329273,
+      "longitude": 5.581227,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 151,
+      "name": "Strand Horst Zuid",
+      "latitude": 52.304114,
+      "longitude": 5.555043,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 152,
+      "name": "Strand Horst Zuid",
+      "latitude": 52.308186,
+      "longitude": 5.557657,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 153,
+      "name": "Strand Horst Zuid",
+      "latitude": 52.310931,
+      "longitude": 5.559866,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 154,
+      "name": "Strand IJburg",
+      "latitude": 52.357222,
+      "longitude": 5.014449,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 155,
+      "name": "Strand Julianadorp",
+      "latitude": 52.895797,
+      "longitude": 4.71209,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 156,
+      "name": "Strand Kralingse Plas",
+      "latitude": 51.937997,
+      "longitude": 4.508125,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 157,
+      "name": "Strand Kralingse Plas",
+      "latitude": 51.941047,
+      "longitude": 4.511841,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 158,
+      "name": "Strand Meerwijck",
+      "latitude": 53.146067,
+      "longitude": 6.693837,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 159,
+      "name": "Strand Monster",
+      "latitude": 52.035805,
+      "longitude": 4.16955,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 160,
+      "name": "Strand Nesselande",
+      "latitude": 51.982679,
+      "longitude": 4.580305,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 161,
+      "name": "Strand Noord",
+      "latitude": 52.300782,
+      "longitude": 4.649994,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 162,
+      "name": "Strand Noord Midwolda",
+      "latitude": 53.19433,
+      "longitude": 7.02516,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 163,
+      "name": "Strand Nulde Noord",
+      "latitude": 52.280893,
+      "longitude": 5.542715,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 164,
+      "name": "Strand Nulde Zuid",
+      "latitude": 52.264986,
+      "longitude": 5.529194,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 165,
+      "name": "Strand Nulde Zuid",
+      "latitude": 52.266441,
+      "longitude": 5.531201,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 166,
+      "name": "Strand Ouddorp",
+      "latitude": 51.809366,
+      "longitude": 3.872363,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 167,
+      "name": "Strand Schokkerhaven",
+      "latitude": 52.612236,
+      "longitude": 5.743669,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 168,
+      "name": "Strand Yerseke",
+      "latitude": 51.502463,
+      "longitude": 4.044087,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 169,
+      "name": "Strand Zandvoort",
+      "latitude": 52.378405,
+      "longitude": 4.527743,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 170,
+      "name": "Strand Zomer",
+      "latitude": 52.130992,
+      "longitude": 4.774737,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 171,
+      "name": "Strand Zuid",
+      "latitude": 53.164683,
+      "longitude": 7.037484,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 172,
+      "name": "Strand Zuidoever",
+      "latitude": 52.303581,
+      "longitude": 4.997115,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 173,
+      "name": "Strand van Callantsoog",
+      "latitude": 52.831829,
+      "longitude": 4.688243,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 174,
+      "name": "Strand van Luna",
+      "latitude": 52.649346,
+      "longitude": 4.798274,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 175,
+      "name": "Strandbad",
+      "latitude": 51.268813,
+      "longitude": 6.076149,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 176,
+      "name": "Strandbad Well",
+      "latitude": 51.748585,
+      "longitude": 5.186039,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 177,
+      "name": "Strandeiland",
+      "latitude": 52.351294,
+      "longitude": 5.613274,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 178,
+      "name": "Surfstrand",
+      "latitude": 52.121182,
+      "longitude": 4.458927,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 179,
+      "name": "Surfstrand Almere Haven",
+      "latitude": 52.335162,
+      "longitude": 5.205501,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 180,
+      "name": "Vadedostrand",
+      "latitude": 52.151616,
+      "longitude": 4.543849,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 181,
+      "name": "Vennegatstrand",
+      "latitude": 52.441371,
+      "longitude": 4.893668,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 182,
+      "name": "Vliehors",
+      "latitude": 53.237981,
+      "longitude": 4.931861,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 183,
+      "name": "Vuntusstrand",
+      "latitude": 52.208471,
+      "longitude": 5.081104,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 184,
+      "name": "Watersnip",
+      "latitude": 52.463639,
+      "longitude": 4.833782,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 185,
+      "name": "Westelijke washover",
+      "latitude": 53.468398,
+      "longitude": 6.043212,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 186,
+      "name": "Westerstrand",
+      "latitude": 53.482874,
+      "longitude": 6.13651,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 187,
+      "name": "Westrif",
+      "latitude": 53.463772,
+      "longitude": 6.036955,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 188,
+      "name": "Woldstrand",
+      "latitude": 52.325127,
+      "longitude": 5.5491,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 189,
+      "name": "Woldstrand",
+      "latitude": 52.326965,
+      "longitude": 5.548269,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 190,
+      "name": "Zandenplas",
+      "latitude": 52.374128,
+      "longitude": 5.817119,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 191,
+      "name": "Zandstrand",
+      "latitude": 51.499975,
+      "longitude": 4.952796,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 192,
+      "name": "Zandstrand",
+      "latitude": 51.500064,
+      "longitude": 4.948829,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 193,
+      "name": "Zegerstrand",
+      "latitude": 52.135016,
+      "longitude": 4.678183,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 194,
+      "name": "Zilverstrand",
+      "latitude": 52.32639,
+      "longitude": 5.14563,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 195,
+      "name": "Zomerkade",
+      "latitude": 52.30621,
+      "longitude": 5.260524,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 196,
+      "name": "Zuiderzeestrand",
+      "latitude": 52.340294,
+      "longitude": 5.604375,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 197,
+      "name": "Zuidstrand",
+      "latitude": 52.279044,
+      "longitude": 5.529551,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 198,
+      "name": "Zwemmersstrandje",
+      "latitude": 51.918774,
+      "longitude": 4.069034,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 199,
+      "name": "Zwemplaats Earnewâld",
+      "latitude": 53.131681,
+      "longitude": 5.956262,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 200,
+      "name": "Zwemstrand",
+      "latitude": 52.119727,
+      "longitude": 4.466137,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 201,
+      "name": "Zwemstrand Almere Haven",
+      "latitude": 52.333026,
+      "longitude": 5.211546,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 202,
+      "name": "Zwemstrand Haarrijn",
+      "latitude": 52.117864,
+      "longitude": 5.025605,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 203,
+      "name": "Zwemstrandje Beers",
+      "latitude": 51.728342,
+      "longitude": 5.826219,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 204,
+      "name": "Zwolse Hoek",
+      "latitude": 52.615561,
+      "longitude": 5.653231,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 205,
+      "name": "dagstrand",
+      "latitude": 51.469416,
+      "longitude": 6.060033,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 206,
+      "name": "honden zwemplek",
+      "latitude": 52.715239,
+      "longitude": 5.256361,
+      "osm_klasse": "natural=beach"
+    },
+    {
+      "id": 207,
+      "name": "honden zwemplek",
+      "latitude": 52.715275,
+      "longitude": 5.254941,
+      "osm_klasse": "natural=beach"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: beach (natural=beach) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged natural=beach in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 207 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: beach (natural=beach) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: beach (natural=beach) — 207 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 207 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

@@ -1,0 +1,1486 @@
+{
+  "id": "nl-osm-office-diplomatic",
+  "name": "Netherlands OSM: diplomatic (office=diplomatic)",
+  "title": "Netherlands OSM: diplomatic (office=diplomatic)",
+  "description": "Named OpenStreetMap features tagged office=diplomatic in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 205,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Ambassade van Afghanistan",
+      "latitude": 52.083649,
+      "longitude": 4.305815,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 2,
+      "name": "Ambassade van Albanië",
+      "latitude": 52.081653,
+      "longitude": 4.312704,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 3,
+      "name": "Ambassade van Algerije",
+      "latitude": 52.100379,
+      "longitude": 4.282705,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 4,
+      "name": "Ambassade van Angola",
+      "latitude": 52.084912,
+      "longitude": 4.289562,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 5,
+      "name": "Ambassade van Argentinië",
+      "latitude": 52.087738,
+      "longitude": 4.302647,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 6,
+      "name": "Ambassade van Armenië",
+      "latitude": 52.092633,
+      "longitude": 4.284489,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 7,
+      "name": "Ambassade van Australië",
+      "latitude": 52.085267,
+      "longitude": 4.293808,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 8,
+      "name": "Ambassade van Azerbeidzjan",
+      "latitude": 52.088057,
+      "longitude": 4.285266,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 9,
+      "name": "Ambassade van Bangladesh",
+      "latitude": 52.108652,
+      "longitude": 4.289327,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 10,
+      "name": "Ambassade van België",
+      "latitude": 52.096051,
+      "longitude": 4.28389,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 11,
+      "name": "Ambassade van Bolivia",
+      "latitude": 52.089348,
+      "longitude": 4.305691,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 12,
+      "name": "Ambassade van Bosnië en Herzegovina",
+      "latitude": 52.088238,
+      "longitude": 4.335932,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 13,
+      "name": "Ambassade van Brazilië",
+      "latitude": 52.08451,
+      "longitude": 4.306812,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 14,
+      "name": "Ambassade van Bulgarije",
+      "latitude": 52.104483,
+      "longitude": 4.302415,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 15,
+      "name": "Ambassade van Burundi",
+      "latitude": 52.085375,
+      "longitude": 4.293831,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 16,
+      "name": "Ambassade van Canada",
+      "latitude": 52.085433,
+      "longitude": 4.303752,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 17,
+      "name": "Ambassade van Chili",
+      "latitude": 52.083827,
+      "longitude": 4.307073,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 18,
+      "name": "Ambassade van China",
+      "latitude": 52.092883,
+      "longitude": 4.285567,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 19,
+      "name": "Ambassade van Colombia",
+      "latitude": 52.084875,
+      "longitude": 4.289872,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 20,
+      "name": "Ambassade van Costa Rica",
+      "latitude": 52.091218,
+      "longitude": 4.305605,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 21,
+      "name": "Ambassade van Cuba",
+      "latitude": 52.089798,
+      "longitude": 4.311732,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 22,
+      "name": "Ambassade van Cyprus",
+      "latitude": 52.089819,
+      "longitude": 4.307793,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 23,
+      "name": "Ambassade van Denemarken",
+      "latitude": 52.088956,
+      "longitude": 4.312457,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 24,
+      "name": "Ambassade van Duitsland",
+      "latitude": 52.08487,
+      "longitude": 4.289155,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 25,
+      "name": "Ambassade van Ecuador",
+      "latitude": 52.093089,
+      "longitude": 4.308978,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 26,
+      "name": "Ambassade van Egypte",
+      "latitude": 52.10867,
+      "longitude": 4.290278,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 27,
+      "name": "Ambassade van El Salvador",
+      "latitude": 52.093657,
+      "longitude": 4.304907,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 28,
+      "name": "Ambassade van Eritrea",
+      "latitude": 52.088468,
+      "longitude": 4.305299,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 29,
+      "name": "Ambassade van Estland",
+      "latitude": 52.086317,
+      "longitude": 4.30122,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 30,
+      "name": "Ambassade van Ethiopië",
+      "latitude": 52.082521,
+      "longitude": 4.306503,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 31,
+      "name": "Ambassade van Finland",
+      "latitude": 52.07911,
+      "longitude": 4.318745,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 32,
+      "name": "Ambassade van Frankrijk",
+      "latitude": 52.086252,
+      "longitude": 4.298254,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 33,
+      "name": "Ambassade van Georgië",
+      "latitude": 52.081182,
+      "longitude": 4.312117,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 34,
+      "name": "Ambassade van Ghana",
+      "latitude": 52.091701,
+      "longitude": 4.3071,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 35,
+      "name": "Ambassade van Griekenland",
+      "latitude": 52.083209,
+      "longitude": 4.306626,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 36,
+      "name": "Ambassade van Guatamala",
+      "latitude": 52.083979,
+      "longitude": 4.301505,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 37,
+      "name": "Ambassade van Hongarije",
+      "latitude": 52.099784,
+      "longitude": 4.28754,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 38,
+      "name": "Ambassade van Hongarije - Bureau van Economische Zaken",
+      "latitude": 52.081865,
+      "longitude": 4.34185,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 39,
+      "name": "Ambassade van Ierland",
+      "latitude": 52.101598,
+      "longitude": 4.278713,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 40,
+      "name": "Ambassade van India",
+      "latitude": 52.086961,
+      "longitude": 4.291121,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 41,
+      "name": "Ambassade van Indonesië",
+      "latitude": 52.086144,
+      "longitude": 4.288699,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 42,
+      "name": "Ambassade van Irak",
+      "latitude": 52.087986,
+      "longitude": 4.285868,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 43,
+      "name": "Ambassade van Iran",
+      "latitude": 52.101493,
+      "longitude": 4.287758,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 44,
+      "name": "Ambassade van Israël",
+      "latitude": 52.092538,
+      "longitude": 4.284453,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 45,
+      "name": "Ambassade van Italië",
+      "latitude": 52.08356,
+      "longitude": 4.307354,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 46,
+      "name": "Ambassade van Ivoorkust",
+      "latitude": 52.086151,
+      "longitude": 4.299166,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 47,
+      "name": "Ambassade van Japan",
+      "latitude": 52.086567,
+      "longitude": 4.290307,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 48,
+      "name": "Ambassade van Jemen",
+      "latitude": 52.098098,
+      "longitude": 4.283061,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 49,
+      "name": "Ambassade van Jordanië",
+      "latitude": 52.108599,
+      "longitude": 4.289421,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 50,
+      "name": "Ambassade van Kameroen",
+      "latitude": 52.08357,
+      "longitude": 4.305896,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 51,
+      "name": "Ambassade van Kazachstan",
+      "latitude": 52.107864,
+      "longitude": 4.290669,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 52,
+      "name": "Ambassade van Kenia",
+      "latitude": 52.10153,
+      "longitude": 4.298304,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 53,
+      "name": "Ambassade van Koeweit",
+      "latitude": 52.086403,
+      "longitude": 4.291914,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 54,
+      "name": "Ambassade van Kosovo",
+      "latitude": 52.09028,
+      "longitude": 4.311332,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 55,
+      "name": "Ambassade van Kroatië",
+      "latitude": 52.089649,
+      "longitude": 4.307908,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 56,
+      "name": "Ambassade van Letland",
+      "latitude": 52.08866,
+      "longitude": 4.312694,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 57,
+      "name": "Ambassade van Libanon",
+      "latitude": 52.086605,
+      "longitude": 4.311158,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 58,
+      "name": "Ambassade van Libië",
+      "latitude": 52.100686,
+      "longitude": 4.285884,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 59,
+      "name": "Ambassade van Litouwen",
+      "latitude": 52.086077,
+      "longitude": 4.298936,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 60,
+      "name": "Ambassade van Luxemburg",
+      "latitude": 52.086416,
+      "longitude": 4.308315,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 61,
+      "name": "Ambassade van Maleisië",
+      "latitude": 52.08792,
+      "longitude": 4.291814,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 62,
+      "name": "Ambassade van Malta",
+      "latitude": 52.08766,
+      "longitude": 4.307069,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 63,
+      "name": "Ambassade van Marokko",
+      "latitude": 52.082569,
+      "longitude": 4.306628,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 64,
+      "name": "Ambassade van Mexico",
+      "latitude": 52.089972,
+      "longitude": 4.305973,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 65,
+      "name": "Ambassade van Moldavië",
+      "latitude": 52.085272,
+      "longitude": 4.33009,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 66,
+      "name": "Ambassade van Nicaragua",
+      "latitude": 52.092154,
+      "longitude": 4.279687,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 67,
+      "name": "Ambassade van Nieuw-Zeeland",
+      "latitude": 52.093522,
+      "longitude": 4.281915,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 68,
+      "name": "Ambassade van Nigeria",
+      "latitude": 52.101944,
+      "longitude": 4.299749,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 69,
+      "name": "Ambassade van Noord-Macedonië",
+      "latitude": 52.085454,
+      "longitude": 4.296893,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 70,
+      "name": "Ambassade van Noorwegen",
+      "latitude": 52.093715,
+      "longitude": 4.282019,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 71,
+      "name": "Ambassade van Oekraïne",
+      "latitude": 52.085839,
+      "longitude": 4.30172,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 72,
+      "name": "Ambassade van Oman",
+      "latitude": 52.100536,
+      "longitude": 4.299158,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 73,
+      "name": "Ambassade van Oostenrijk",
+      "latitude": 52.099775,
+      "longitude": 4.321815,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 74,
+      "name": "Ambassade van Oostenrijk Residentie",
+      "latitude": 52.089064,
+      "longitude": 4.312369,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 75,
+      "name": "Ambassade van Pakistan",
+      "latitude": 52.08334,
+      "longitude": 4.306131,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 76,
+      "name": "Ambassade van Panama",
+      "latitude": 52.083272,
+      "longitude": 4.306529,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 77,
+      "name": "Ambassade van Peru",
+      "latitude": 52.089486,
+      "longitude": 4.30559,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 78,
+      "name": "Ambassade van Polen",
+      "latitude": 52.087484,
+      "longitude": 4.30382,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 79,
+      "name": "Ambassade van Portugal",
+      "latitude": 52.085684,
+      "longitude": 4.301921,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 80,
+      "name": "Ambassade van Qatar",
+      "latitude": 52.10238,
+      "longitude": 4.299665,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 81,
+      "name": "Ambassade van Roemenië",
+      "latitude": 52.091133,
+      "longitude": 4.281114,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 82,
+      "name": "Ambassade van Rusland",
+      "latitude": 52.086307,
+      "longitude": 4.286772,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 83,
+      "name": "Ambassade van Rwanda",
+      "latitude": 52.082185,
+      "longitude": 4.309196,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 84,
+      "name": "Ambassade van Saoedi-Arabië",
+      "latitude": 52.085465,
+      "longitude": 4.3054,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 85,
+      "name": "Ambassade van Senegal",
+      "latitude": 52.086042,
+      "longitude": 4.298827,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 86,
+      "name": "Ambassade van Servië",
+      "latitude": 52.088509,
+      "longitude": 4.298966,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 87,
+      "name": "Ambassade van Slovenië",
+      "latitude": 52.083399,
+      "longitude": 4.3008,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 88,
+      "name": "Ambassade van Slovenië",
+      "latitude": 52.084389,
+      "longitude": 4.301117,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 89,
+      "name": "Ambassade van Slowakije",
+      "latitude": 52.098679,
+      "longitude": 4.286336,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 90,
+      "name": "Ambassade van Soedan",
+      "latitude": 52.091734,
+      "longitude": 4.310081,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 91,
+      "name": "Ambassade van Spanje",
+      "latitude": 52.083628,
+      "longitude": 4.313067,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 92,
+      "name": "Ambassade van Sri Lanka",
+      "latitude": 52.087221,
+      "longitude": 4.301196,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 93,
+      "name": "Ambassade van Suriname",
+      "latitude": 52.087473,
+      "longitude": 4.286495,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 94,
+      "name": "Ambassade van Tanzania",
+      "latitude": 52.085031,
+      "longitude": 4.288282,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 95,
+      "name": "Ambassade van Thailand",
+      "latitude": 52.09157,
+      "longitude": 4.307471,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 96,
+      "name": "Ambassade van Tsjechië",
+      "latitude": 52.081939,
+      "longitude": 4.307273,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 97,
+      "name": "Ambassade van Tunesië",
+      "latitude": 52.109101,
+      "longitude": 4.29393,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 98,
+      "name": "Ambassade van Turkije",
+      "latitude": 52.084618,
+      "longitude": 4.315199,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 99,
+      "name": "Ambassade van Uruguay",
+      "latitude": 52.084841,
+      "longitude": 4.307668,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 100,
+      "name": "Ambassade van Venezuela",
+      "latitude": 52.094137,
+      "longitude": 4.283025,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 101,
+      "name": "Ambassade van Vietnam",
+      "latitude": 52.087263,
+      "longitude": 4.302641,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 102,
+      "name": "Ambassade van Wit-Rusland",
+      "latitude": 52.085014,
+      "longitude": 4.288465,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 103,
+      "name": "Ambassade van Zuid-Afrika",
+      "latitude": 52.091273,
+      "longitude": 4.31521,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 104,
+      "name": "Ambassade van Zuid-Korea",
+      "latitude": 52.09341,
+      "longitude": 4.287134,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 105,
+      "name": "Ambassade van Zweden",
+      "latitude": 52.093078,
+      "longitude": 4.284778,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 106,
+      "name": "Ambassade van Zwitserland",
+      "latitude": 52.083392,
+      "longitude": 4.312617,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 107,
+      "name": "Ambassade van de Dominicaanse Republiek",
+      "latitude": 52.088661,
+      "longitude": 4.321517,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 108,
+      "name": "Ambassade van de Filipijnen",
+      "latitude": 52.091617,
+      "longitude": 4.307617,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 109,
+      "name": "Ambassade van de Verenigde Arabische Emiraten",
+      "latitude": 52.09379,
+      "longitude": 4.281351,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 110,
+      "name": "Ambassade van de Verenigde Staten",
+      "latitude": 52.099314,
+      "longitude": 4.343817,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 111,
+      "name": "Ambassade van het Verenigd Koninkrijk",
+      "latitude": 52.082208,
+      "longitude": 4.310596,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 112,
+      "name": "Ambassadekantoor van Singapore",
+      "latitude": 52.083303,
+      "longitude": 4.308028,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 113,
+      "name": "Ambassadekantoor van de Democratische Republiek Congo",
+      "latitude": 52.091494,
+      "longitude": 4.310316,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 114,
+      "name": "Apostolische Nuntiatuur",
+      "latitude": 52.087632,
+      "longitude": 4.29278,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 115,
+      "name": "Arubahuis",
+      "latitude": 52.085759,
+      "longitude": 4.283375,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 116,
+      "name": "Commerciële sectie Ambassade van Vietnam",
+      "latitude": 52.082044,
+      "longitude": 4.341644,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 117,
+      "name": "Consul-honorair van de Bondsrepubliek Duitsland",
+      "latitude": 51.493463,
+      "longitude": 3.60937,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 118,
+      "name": "Consul-honorair van de Bondsrepubliek Duitsland",
+      "latitude": 52.380829,
+      "longitude": 6.606407,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 119,
+      "name": "Consul-honorair van de Bondsrepubliek Duitsland",
+      "latitude": 53.202984,
+      "longitude": 6.553681,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 120,
+      "name": "Consulaat van Cyprus",
+      "latitude": 51.923439,
+      "longitude": 4.474647,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 121,
+      "name": "Consulaat van Rusland",
+      "latitude": 52.086887,
+      "longitude": 4.300311,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 122,
+      "name": "Consulaat van de Republiek Korea",
+      "latitude": 52.093162,
+      "longitude": 4.286853,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 123,
+      "name": "Consulaat-Generaal van Angola",
+      "latitude": 51.914252,
+      "longitude": 4.457049,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 124,
+      "name": "Consulaat-Generaal van Brazilië",
+      "latitude": 52.340359,
+      "longitude": 4.873908,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 125,
+      "name": "Consulaat-Generaal van Chili",
+      "latitude": 52.364905,
+      "longitude": 4.893209,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 126,
+      "name": "Consulaat-Generaal van Cuba",
+      "latitude": 51.92356,
+      "longitude": 4.468505,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 127,
+      "name": "Consulaat-Generaal van Duitsland",
+      "latitude": 52.357641,
+      "longitude": 4.885013,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 128,
+      "name": "Consulaat-Generaal van Frankrijk",
+      "latitude": 52.334398,
+      "longitude": 4.886198,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 129,
+      "name": "Consulaat-Generaal van Marokko",
+      "latitude": 51.726396,
+      "longitude": 5.286151,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 130,
+      "name": "Consulaat-Generaal van Marokko",
+      "latitude": 51.907052,
+      "longitude": 4.476416,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 131,
+      "name": "Consulaat-Generaal van Marokko",
+      "latitude": 52.089436,
+      "longitude": 5.087638,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 132,
+      "name": "Consulaat-Generaal van Marokko",
+      "latitude": 52.361323,
+      "longitude": 4.874491,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 133,
+      "name": "Consulaat-Generaal van Peru",
+      "latitude": 52.334395,
+      "longitude": 4.886421,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 134,
+      "name": "Consulaat-Generaal van Roemenië",
+      "latitude": 51.581662,
+      "longitude": 5.141661,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 135,
+      "name": "Consulaat-Generaal van Spanje",
+      "latitude": 52.36035,
+      "longitude": 4.897957,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 136,
+      "name": "Consulaat-Generaal van Suriname",
+      "latitude": 52.323377,
+      "longitude": 4.865024,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 137,
+      "name": "Consulaat-Generaal van Turkije",
+      "latitude": 51.91723,
+      "longitude": 4.479689,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 138,
+      "name": "Consulaat-Generaal van Turkije",
+      "latitude": 52.25419,
+      "longitude": 6.16044,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 139,
+      "name": "Consulaat-Generaal van Turkije",
+      "latitude": 52.356384,
+      "longitude": 4.882273,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 140,
+      "name": "Consulaat-Generaal van de Dominicaanse Republiek",
+      "latitude": 52.302405,
+      "longitude": 4.873186,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 141,
+      "name": "Consulaat-Generaal van de Verenigde Staten",
+      "latitude": 52.356145,
+      "longitude": 4.882036,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 142,
+      "name": "Consulaat-Generaal van het Verenigd Koninkrijk",
+      "latitude": 52.355536,
+      "longitude": 4.863119,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 143,
+      "name": "Consulaire Afdeling van de Ambassade van Griekenland",
+      "latitude": 52.08487,
+      "longitude": 4.307749,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 144,
+      "name": "Curaçaohuis",
+      "latitude": 52.073849,
+      "longitude": 4.303885,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 145,
+      "name": "Ereconsulaat Groningen van België",
+      "latitude": 53.330633,
+      "longitude": 6.469917,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 146,
+      "name": "Ereconsulaat van Belgie",
+      "latitude": 51.593418,
+      "longitude": 4.803449,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 147,
+      "name": "Handelsvertegenwoordiging van de Russische Federatie in Nederland",
+      "latitude": 52.356597,
+      "longitude": 4.882562,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 148,
+      "name": "Honorair Consulaat van Bangladesh",
+      "latitude": 52.706522,
+      "longitude": 5.752099,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 149,
+      "name": "Honorair Consulaat van Barbados",
+      "latitude": 52.096058,
+      "longitude": 4.337534,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 150,
+      "name": "Honorair Consulaat van Belize",
+      "latitude": 52.291841,
+      "longitude": 4.843131,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 151,
+      "name": "Honorair Consulaat van Benin",
+      "latitude": 52.088587,
+      "longitude": 4.321511,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 152,
+      "name": "Honorair Consulaat van Bhutan",
+      "latitude": 52.08354,
+      "longitude": 4.335247,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 153,
+      "name": "Honorair Consulaat van Botswana",
+      "latitude": 52.370476,
+      "longitude": 4.884307,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 154,
+      "name": "Honorair Consulaat van Eswatini",
+      "latitude": 51.984919,
+      "longitude": 4.131872,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 155,
+      "name": "Honorair Consulaat van Haïti",
+      "latitude": 51.926933,
+      "longitude": 4.520151,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 156,
+      "name": "Honorair Consulaat van IJsland",
+      "latitude": 51.919333,
+      "longitude": 4.487103,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 157,
+      "name": "Honorair Consulaat van Jamaica",
+      "latitude": 52.369865,
+      "longitude": 4.886473,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 158,
+      "name": "Honorair Consulaat van Lesotho",
+      "latitude": 51.781747,
+      "longitude": 4.964514,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 159,
+      "name": "Honorair Consulaat van Monaco",
+      "latitude": 52.36766,
+      "longitude": 4.894309,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 160,
+      "name": "Honorair Consulaat van Mongolië",
+      "latitude": 51.436431,
+      "longitude": 5.427213,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 161,
+      "name": "Honorair Consulaat van Mongolië",
+      "latitude": 52.323955,
+      "longitude": 4.875974,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 162,
+      "name": "Honorair Consulaat van Myanmar",
+      "latitude": 51.57272,
+      "longitude": 4.78196,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 163,
+      "name": "Honorair Consulaat van Namibië",
+      "latitude": 51.835281,
+      "longitude": 4.975089,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 164,
+      "name": "Honorair Consulaat van Namibië",
+      "latitude": 52.095402,
+      "longitude": 4.894333,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 165,
+      "name": "Honorair Consulaat van Nepal",
+      "latitude": 52.364969,
+      "longitude": 4.898179,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 166,
+      "name": "Honorair Consulaat van Sao Tomé en Principe",
+      "latitude": 52.341414,
+      "longitude": 4.856535,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 167,
+      "name": "Honorair Consulaat van Togo",
+      "latitude": 51.966466,
+      "longitude": 4.499691,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 168,
+      "name": "Honorair Consulaat van Tsjaad",
+      "latitude": 52.200982,
+      "longitude": 5.379915,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 169,
+      "name": "Honorair Consulaat van Vanuatu",
+      "latitude": 52.064655,
+      "longitude": 4.219188,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 170,
+      "name": "Honorair Consulaat van de Republiek Belarus",
+      "latitude": 52.396193,
+      "longitude": 6.031924,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 171,
+      "name": "Honorair Consulaat van de Republiek Belarus",
+      "latitude": 52.710302,
+      "longitude": 6.533667,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 172,
+      "name": "Honorair Consulaat van de Seychellen",
+      "latitude": 52.364704,
+      "longitude": 4.894606,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 173,
+      "name": "Honorair Consulaat-Generaal van Duitsland",
+      "latitude": 51.961352,
+      "longitude": 4.494962,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 174,
+      "name": "Honorair Consulaat-Generaal van Gambia",
+      "latitude": 52.350346,
+      "longitude": 4.874364,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 175,
+      "name": "Honorair Consulaat-Generaal van Grenada",
+      "latitude": 52.356989,
+      "longitude": 4.870676,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 176,
+      "name": "Honorair Consulaat-Generaal van Honduras",
+      "latitude": 52.071053,
+      "longitude": 4.353277,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 177,
+      "name": "Honorair Consulaat-Generaal van IJsland",
+      "latitude": 52.33782,
+      "longitude": 4.872983,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 178,
+      "name": "Honorair Consulaat-Generaal van Mauritanië",
+      "latitude": 53.217631,
+      "longitude": 5.939331,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 179,
+      "name": "Honorair Consulaat-Generaal van Monaco",
+      "latitude": 52.09292,
+      "longitude": 4.302723,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 180,
+      "name": "Honorair Consulaat-Generaal van Palau",
+      "latitude": 52.607343,
+      "longitude": 4.715976,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 181,
+      "name": "Honorary Consulate of the Czech Republic",
+      "latitude": 53.21594,
+      "longitude": 6.575183,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 182,
+      "name": "Huis van Europa",
+      "latitude": 52.081044,
+      "longitude": 4.314138,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 183,
+      "name": "Palestijnse missie in Nederland",
+      "latitude": 52.102046,
+      "longitude": 4.298201,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 184,
+      "name": "Permanente Vertegenwoordiging van de Bondsrepubliek Duitsland bij de OPCW",
+      "latitude": 52.084733,
+      "longitude": 4.289098,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 185,
+      "name": "Representatie van Taipei",
+      "latitude": 52.100799,
+      "longitude": 4.28441,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 186,
+      "name": "Residentie Portugese Ambassadeur",
+      "latitude": 52.088287,
+      "longitude": 4.294153,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 187,
+      "name": "Residentie van Australië",
+      "latitude": 52.086027,
+      "longitude": 4.289752,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 188,
+      "name": "Residentie van België",
+      "latitude": 52.086718,
+      "longitude": 4.289049,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 189,
+      "name": "Residentie van Cyprus",
+      "latitude": 52.08456,
+      "longitude": 4.30875,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 190,
+      "name": "Residentie van Denemarken",
+      "latitude": 52.086661,
+      "longitude": 4.307004,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 191,
+      "name": "Residentie van Frankrijk",
+      "latitude": 52.086496,
+      "longitude": 4.291112,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 192,
+      "name": "Residentie van Griekenland",
+      "latitude": 52.08686,
+      "longitude": 4.304435,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 193,
+      "name": "Residentie van Pakistan",
+      "latitude": 52.086881,
+      "longitude": 4.305329,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 194,
+      "name": "Residentie van Senegal",
+      "latitude": 52.088197,
+      "longitude": 4.307453,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 195,
+      "name": "Residentie van Servië",
+      "latitude": 52.085871,
+      "longitude": 4.283878,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 196,
+      "name": "Residentie van Slovenië",
+      "latitude": 52.084264,
+      "longitude": 4.308814,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 197,
+      "name": "Residentie van Spanje",
+      "latitude": 52.08312,
+      "longitude": 4.312277,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 198,
+      "name": "Residentie van Zweden",
+      "latitude": 52.082681,
+      "longitude": 4.3116,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 199,
+      "name": "Residentie van Zwitserland",
+      "latitude": 52.086346,
+      "longitude": 4.288218,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 200,
+      "name": "Residentie van de Duitse ambassadeur",
+      "latitude": 52.08094,
+      "longitude": 4.311352,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 201,
+      "name": "Residentie van de Tsjechische ambassadeur",
+      "latitude": 52.087483,
+      "longitude": 4.299044,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 202,
+      "name": "Residentie van de Verenigde Staten van Amerika",
+      "latitude": 52.086072,
+      "longitude": 4.290372,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 203,
+      "name": "Residentie van de ambassadeur/-rice van het Groothertogdom Luxemburg",
+      "latitude": 52.088859,
+      "longitude": 4.292816,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 204,
+      "name": "Residentie van het Verenigd Koninkrijk",
+      "latitude": 52.085493,
+      "longitude": 4.304519,
+      "osm_klasse": "office=diplomatic"
+    },
+    {
+      "id": 205,
+      "name": "Sint Maartenhuis",
+      "latitude": 52.082104,
+      "longitude": 4.318904,
+      "osm_klasse": "office=diplomatic"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: diplomatic (office=diplomatic) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=diplomatic in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 205 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: diplomatic (office=diplomatic) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: diplomatic (office=diplomatic) — 205 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 205 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

@@ -1,0 +1,3243 @@
+{
+  "id": "nl-osm-amenity-parking-entrance",
+  "name": "Netherlands OSM: parking entrance (amenity=parking_entrance)",
+  "title": "Netherlands OSM: parking entrance (amenity=parking_entrance)",
+  "description": "Named OpenStreetMap features tagged amenity=parking_entrance in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 456,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "ABC-complex",
+      "latitude": 50.997447,
+      "longitude": 5.866263,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 2,
+      "name": "Aan de Kei",
+      "latitude": 50.865687,
+      "longitude": 5.834867,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 3,
+      "name": "Abdijtuinen",
+      "latitude": 51.409003,
+      "longitude": 5.401036,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 4,
+      "name": "Achter De Grote Markt",
+      "latitude": 51.492788,
+      "longitude": 4.285083,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 5,
+      "name": "Achter de Houttuinen",
+      "latitude": 51.498031,
+      "longitude": 3.606089,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 6,
+      "name": "Achterom",
+      "latitude": 51.812131,
+      "longitude": 4.666694,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 7,
+      "name": "Ahold Delhaize",
+      "latitude": 52.436123,
+      "longitude": 4.815174,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 8,
+      "name": "Albert Cuypgarage (Ingang)",
+      "latitude": 52.355549,
+      "longitude": 4.886918,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 9,
+      "name": "Albert Cuypgarage (Uitgang)",
+      "latitude": 52.356684,
+      "longitude": 4.886832,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 10,
+      "name": "Albert Heijn",
+      "latitude": 51.643698,
+      "longitude": 4.605295,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 11,
+      "name": "Albert Heijn",
+      "latitude": 51.904052,
+      "longitude": 4.505104,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 12,
+      "name": "Alexandrium Noord",
+      "latitude": 51.950961,
+      "longitude": 4.553693,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 13,
+      "name": "Alrijne Ziekenhuis",
+      "latitude": 52.174253,
+      "longitude": 4.482323,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 14,
+      "name": "Amsterdam Schiphol Car Rental Return",
+      "latitude": 52.306407,
+      "longitude": 4.757471,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 15,
+      "name": "Arie van Hensbergen",
+      "latitude": 52.028227,
+      "longitude": 5.559765,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 16,
+      "name": "Arnhem Centraal",
+      "latitude": 51.983288,
+      "longitude": 5.903373,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 17,
+      "name": "Arnhem Centraal",
+      "latitude": 51.983757,
+      "longitude": 5.902378,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 18,
+      "name": "Arnhem Centraal",
+      "latitude": 51.983805,
+      "longitude": 5.90107,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 19,
+      "name": "Arnhem Centraal",
+      "latitude": 51.984392,
+      "longitude": 5.8995,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 20,
+      "name": "Azzurro",
+      "latitude": 52.24029,
+      "longitude": 4.431751,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 21,
+      "name": "BOLD",
+      "latitude": 52.385095,
+      "longitude": 4.905745,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 22,
+      "name": "Badhuisstraat",
+      "latitude": 52.102774,
+      "longitude": 4.278178,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 23,
+      "name": "Bassin",
+      "latitude": 50.853095,
+      "longitude": 5.692571,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 24,
+      "name": "Bassin",
+      "latitude": 50.853601,
+      "longitude": 5.69201,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 25,
+      "name": "Bassin",
+      "latitude": 50.853798,
+      "longitude": 5.69304,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 26,
+      "name": "Bergoss",
+      "latitude": 51.768254,
+      "longitude": 5.528981,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 27,
+      "name": "Bios",
+      "latitude": 53.214264,
+      "longitude": 6.566533,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 28,
+      "name": "Blok van Gendt",
+      "latitude": 51.373521,
+      "longitude": 6.171631,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 29,
+      "name": "Bogaardplein P1",
+      "latitude": 52.035188,
+      "longitude": 4.315969,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 30,
+      "name": "Bogaardplein P1",
+      "latitude": 52.035449,
+      "longitude": 4.317419,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 31,
+      "name": "Bonnefantenmuseum",
+      "latitude": 50.840671,
+      "longitude": 5.701382,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 32,
+      "name": "Bonnefantenmuseum",
+      "latitude": 50.841995,
+      "longitude": 5.701866,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 33,
+      "name": "Boomberg",
+      "latitude": 51.939764,
+      "longitude": 4.604088,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 34,
+      "name": "Boterdiep",
+      "latitude": 53.223795,
+      "longitude": 6.565135,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 35,
+      "name": "Boterdiep",
+      "latitude": 53.224274,
+      "longitude": 6.565532,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 36,
+      "name": "Boterdiep",
+      "latitude": 53.224589,
+      "longitude": 6.567387,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 37,
+      "name": "Boterdiep",
+      "latitude": 53.225246,
+      "longitude": 6.563011,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 38,
+      "name": "Boulevard Zeezijde (ingang noord)",
+      "latitude": 52.206656,
+      "longitude": 4.395094,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 39,
+      "name": "Boulevard Zeezijde (ingang zuid)",
+      "latitude": 52.202692,
+      "longitude": 4.391449,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 40,
+      "name": "Braamberg",
+      "latitude": 51.941206,
+      "longitude": 4.602248,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 41,
+      "name": "Brabantplein",
+      "latitude": 51.659767,
+      "longitude": 5.61468,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 42,
+      "name": "Brakershof",
+      "latitude": 52.293828,
+      "longitude": 4.578162,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 43,
+      "name": "Brooklyngarage",
+      "latitude": 52.395307,
+      "longitude": 5.274118,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 44,
+      "name": "Business Centre",
+      "latitude": 52.636618,
+      "longitude": 4.750475,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 45,
+      "name": "Buurtstalling Coehoornsingel",
+      "latitude": 53.213713,
+      "longitude": 6.566519,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 46,
+      "name": "Buurtstalling Ebbingepoort",
+      "latitude": 53.221106,
+      "longitude": 6.564167,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 47,
+      "name": "Buurtstalling Sledemennerstraat",
+      "latitude": 53.217661,
+      "longitude": 6.558203,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 48,
+      "name": "Carnisse Veste",
+      "latitude": 51.847732,
+      "longitude": 4.499841,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 49,
+      "name": "Castellum",
+      "latitude": 52.085957,
+      "longitude": 4.881892,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 50,
+      "name": "Cauberg",
+      "latitude": 51.940248,
+      "longitude": 4.601942,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 51,
+      "name": "Centrumgarage",
+      "latitude": 51.522765,
+      "longitude": 5.972027,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 52,
+      "name": "Circus",
+      "latitude": 53.227024,
+      "longitude": 6.562898,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 53,
+      "name": "Circus",
+      "latitude": 53.227098,
+      "longitude": 6.562025,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 54,
+      "name": "Cubagarage",
+      "latitude": 52.393604,
+      "longitude": 5.276414,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 55,
+      "name": "Damsterplein",
+      "latitude": 53.217109,
+      "longitude": 6.575062,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 56,
+      "name": "De Boreel",
+      "latitude": 52.252677,
+      "longitude": 6.165657,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 57,
+      "name": "De Colonel",
+      "latitude": 50.847772,
+      "longitude": 5.706337,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 58,
+      "name": "De Efteling Parkeren",
+      "latitude": 51.653507,
+      "longitude": 5.04374,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 59,
+      "name": "De Fonteyne",
+      "latitude": 51.443426,
+      "longitude": 3.571923,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 60,
+      "name": "De Halte",
+      "latitude": 52.041373,
+      "longitude": 5.666654,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 61,
+      "name": "De Hovel",
+      "latitude": 51.521357,
+      "longitude": 5.067886,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 62,
+      "name": "De Kazerne",
+      "latitude": 52.637224,
+      "longitude": 4.746243,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 63,
+      "name": "De Kolk (Ingang)",
+      "latitude": 52.376464,
+      "longitude": 4.893844,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 64,
+      "name": "De Kolk (Uitgang)",
+      "latitude": 52.376308,
+      "longitude": 4.893595,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 65,
+      "name": "De Meelfabriek",
+      "latitude": 52.158988,
+      "longitude": 4.502826,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 66,
+      "name": "De Oranje",
+      "latitude": 52.386564,
+      "longitude": 4.900759,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 67,
+      "name": "De Prins",
+      "latitude": 51.59103,
+      "longitude": 4.770379,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 68,
+      "name": "De Revius",
+      "latitude": 53.1989,
+      "longitude": 5.778126,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 69,
+      "name": "De Rode Olifant",
+      "latitude": 52.088382,
+      "longitude": 4.319529,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 70,
+      "name": "De Slof",
+      "latitude": 52.0861,
+      "longitude": 5.240232,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 71,
+      "name": "De Veense Tuin",
+      "latitude": 52.200078,
+      "longitude": 4.631521,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 72,
+      "name": "Defensie-eiland",
+      "latitude": 52.08448,
+      "longitude": 4.888198,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 73,
+      "name": "DekaMarkt",
+      "latitude": 52.371374,
+      "longitude": 4.529939,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 74,
+      "name": "DekaPark",
+      "latitude": 52.665209,
+      "longitude": 5.047792,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 75,
+      "name": "Diemerplein",
+      "latitude": 52.342769,
+      "longitude": 4.964846,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 76,
+      "name": "Diezerpoort",
+      "latitude": 52.517119,
+      "longitude": 6.100349,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 77,
+      "name": "Dirk van den Broek",
+      "latitude": 51.64386,
+      "longitude": 4.605644,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 78,
+      "name": "Duiker",
+      "latitude": 52.294728,
+      "longitude": 5.266609,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 79,
+      "name": "Eiermarkt",
+      "latitude": 51.847471,
+      "longitude": 5.866641,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 80,
+      "name": "Elzas Passage",
+      "latitude": 51.480448,
+      "longitude": 5.654484,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 81,
+      "name": "Entree Andreasplein",
+      "latitude": 52.203033,
+      "longitude": 4.3918,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 82,
+      "name": "Erasmus Plaza",
+      "latitude": 51.917465,
+      "longitude": 4.52314,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 83,
+      "name": "Euroborg",
+      "latitude": 53.207175,
+      "longitude": 6.59273,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 84,
+      "name": "Europapark",
+      "latitude": 53.204718,
+      "longitude": 6.586399,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 85,
+      "name": "Floridagarage",
+      "latitude": 52.393552,
+      "longitude": 5.276063,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 86,
+      "name": "Floridastraat Centrum Schalkwijk",
+      "latitude": 52.35901,
+      "longitude": 4.656477,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 87,
+      "name": "Flowparking",
+      "latitude": 52.340081,
+      "longitude": 4.893297,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 88,
+      "name": "Foodmarkt Westland",
+      "latitude": 51.992945,
+      "longitude": 4.203843,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 89,
+      "name": "Forum",
+      "latitude": 53.218808,
+      "longitude": 6.5699,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 90,
+      "name": "Forum",
+      "latitude": 53.219193,
+      "longitude": 6.570829,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 91,
+      "name": "Garage Brede School",
+      "latitude": 51.780395,
+      "longitude": 5.850228,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 92,
+      "name": "Garage Maldensteijn",
+      "latitude": 51.780214,
+      "longitude": 5.852325,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 93,
+      "name": "Gelderlandplein P1",
+      "latitude": 52.331274,
+      "longitude": 4.879021,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 94,
+      "name": "Gelderlandplein P2",
+      "latitude": 52.330176,
+      "longitude": 4.877046,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 95,
+      "name": "Gemeentehuis",
+      "latitude": 52.023638,
+      "longitude": 5.556892,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 96,
+      "name": "Gooiland ingang Koningsstraat",
+      "latitude": 52.220768,
+      "longitude": 5.17553,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 97,
+      "name": "Gooiland uitgang Koningsstraat",
+      "latitude": 52.220768,
+      "longitude": 5.175466,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 98,
+      "name": "Gooische Brink",
+      "latitude": 52.223078,
+      "longitude": 5.171634,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 99,
+      "name": "Gouweplein",
+      "latitude": 52.039977,
+      "longitude": 4.650335,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 100,
+      "name": "Gouweplein",
+      "latitude": 52.040387,
+      "longitude": 4.652179,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 101,
+      "name": "Gouweplein",
+      "latitude": 52.041756,
+      "longitude": 4.650131,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 102,
+      "name": "Grote Markt",
+      "latitude": 53.219411,
+      "longitude": 6.566715,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 103,
+      "name": "Haardstee 1",
+      "latitude": 52.310269,
+      "longitude": 4.95232,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 104,
+      "name": "Hakfort",
+      "latitude": 52.307252,
+      "longitude": 4.954548,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 105,
+      "name": "Heuvel",
+      "latitude": 51.557411,
+      "longitude": 5.090689,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 106,
+      "name": "Hilton Parking",
+      "latitude": 52.307448,
+      "longitude": 4.755365,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 107,
+      "name": "Hofgarage",
+      "latitude": 52.371939,
+      "longitude": 4.917738,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 108,
+      "name": "Hofpoort",
+      "latitude": 51.925421,
+      "longitude": 4.478689,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 109,
+      "name": "Hogevecht",
+      "latitude": 52.309721,
+      "longitude": 4.958212,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 110,
+      "name": "Holiday Inn Express - Amsterdam Sloterdijk",
+      "latitude": 52.387917,
+      "longitude": 4.837688,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 111,
+      "name": "Hollandia",
+      "latitude": 52.20362,
+      "longitude": 4.411303,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 112,
+      "name": "Holterberg",
+      "latitude": 51.938265,
+      "longitude": 4.603487,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 113,
+      "name": "Hoofdingang Radboudumc",
+      "latitude": 51.823741,
+      "longitude": 5.86118,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 114,
+      "name": "Hoog Catharijne P1",
+      "latitude": 52.08967,
+      "longitude": 5.11334,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 115,
+      "name": "Hoog Catharijne P2",
+      "latitude": 52.089785,
+      "longitude": 5.11324,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 116,
+      "name": "Hoog Catharijne P3",
+      "latitude": 52.091337,
+      "longitude": 5.112173,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 117,
+      "name": "Hoog Catharijne P4",
+      "latitude": 52.091393,
+      "longitude": 5.112122,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 118,
+      "name": "Hoog Catharijne P5 (ingang zuid)",
+      "latitude": 52.089637,
+      "longitude": 5.11435,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 119,
+      "name": "Hoogstraat",
+      "latitude": 51.911522,
+      "longitude": 4.342718,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 120,
+      "name": "Hoogvliet Supermarkt",
+      "latitude": 51.904145,
+      "longitude": 4.343774,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 121,
+      "name": "Hoptille 1",
+      "latitude": 52.308706,
+      "longitude": 4.953755,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 122,
+      "name": "Hoptille 2",
+      "latitude": 52.309234,
+      "longitude": 4.953425,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 123,
+      "name": "Houtwalgarage",
+      "latitude": 52.348082,
+      "longitude": 5.620692,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 124,
+      "name": "Ingang",
+      "latitude": 52.479569,
+      "longitude": 4.648779,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 125,
+      "name": "Ingang Oostzijde",
+      "latitude": 52.505867,
+      "longitude": 6.09111,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 126,
+      "name": "Ingang Parkeergarage Amphia",
+      "latitude": 51.582492,
+      "longitude": 4.800371,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 127,
+      "name": "Ingang Parkeergarage Croeselaan",
+      "latitude": 52.088549,
+      "longitude": 5.10578,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 128,
+      "name": "Ingang Parkeergarage Croeselaan",
+      "latitude": 52.088852,
+      "longitude": 5.106647,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 129,
+      "name": "Ingang Parkeergarage Rademarkt",
+      "latitude": 53.215282,
+      "longitude": 6.570082,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 130,
+      "name": "Ingang PwC parkeergarage",
+      "latitude": 52.340276,
+      "longitude": 4.822768,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 131,
+      "name": "Ingang Stationshal",
+      "latitude": 52.505473,
+      "longitude": 6.091425,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 132,
+      "name": "Ingang Westzijde",
+      "latitude": 52.506052,
+      "longitude": 6.090162,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 133,
+      "name": "Inrit A",
+      "latitude": 52.402282,
+      "longitude": 4.892371,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 134,
+      "name": "Inrit B",
+      "latitude": 52.402261,
+      "longitude": 4.892416,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 135,
+      "name": "Jumbo",
+      "latitude": 51.832258,
+      "longitude": 4.34429,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 136,
+      "name": "Jumbo",
+      "latitude": 52.010239,
+      "longitude": 4.531194,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 137,
+      "name": "Jumbo Huibers",
+      "latitude": 52.029657,
+      "longitude": 5.543831,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 138,
+      "name": "Jupiter Plaza",
+      "latitude": 52.372212,
+      "longitude": 4.530763,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 139,
+      "name": "Kanaalschiereiland",
+      "latitude": 52.635145,
+      "longitude": 4.747189,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 140,
+      "name": "Karperton",
+      "latitude": 52.632291,
+      "longitude": 4.751976,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 141,
+      "name": "Katshoek",
+      "latitude": 51.92823,
+      "longitude": 4.479088,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 142,
+      "name": "Katwolderplein",
+      "latitude": 52.514396,
+      "longitude": 6.085854,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 143,
+      "name": "Kazerne",
+      "latitude": 51.833476,
+      "longitude": 5.87241,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 144,
+      "name": "Kazerneplein",
+      "latitude": 51.198562,
+      "longitude": 5.985002,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 145,
+      "name": "Keizer Karel",
+      "latitude": 51.842466,
+      "longitude": 5.857443,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 146,
+      "name": "Kelfkensbos",
+      "latitude": 51.846288,
+      "longitude": 5.870365,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 147,
+      "name": "Keyserstroom",
+      "latitude": 52.699695,
+      "longitude": 6.190492,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 148,
+      "name": "Kiphof",
+      "latitude": 51.921759,
+      "longitude": 4.492406,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 149,
+      "name": "Koestraat",
+      "latitude": 52.152961,
+      "longitude": 5.388421,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 150,
+      "name": "Koningshoeck",
+      "latitude": 52.960601,
+      "longitude": 4.761768,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 151,
+      "name": "Krakelinggarage",
+      "latitude": 52.369959,
+      "longitude": 5.217494,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 152,
+      "name": "Kranshof",
+      "latitude": 51.891711,
+      "longitude": 5.438626,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 153,
+      "name": "Kromme Elleboog",
+      "latitude": 52.696361,
+      "longitude": 6.192142,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 154,
+      "name": "Kruitmolen",
+      "latitude": 52.033732,
+      "longitude": 5.170768,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 155,
+      "name": "Le Bras Fort",
+      "latitude": 52.022793,
+      "longitude": 5.556881,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 156,
+      "name": "Leidschenhof",
+      "latitude": 52.063013,
+      "longitude": 4.403663,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 157,
+      "name": "Lemelerberg",
+      "latitude": 51.938423,
+      "longitude": 4.603151,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 158,
+      "name": "Level",
+      "latitude": 52.166198,
+      "longitude": 4.480233,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 159,
+      "name": "Lidl Nederland GmbH",
+      "latitude": 52.304716,
+      "longitude": 5.238371,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 160,
+      "name": "Logistics Court Schiphol",
+      "latitude": 52.279184,
+      "longitude": 4.730424,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 161,
+      "name": "Lübeckgarage",
+      "latitude": 52.503753,
+      "longitude": 6.088518,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 162,
+      "name": "Maagjesbolwerk",
+      "latitude": 52.51222,
+      "longitude": 6.088106,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 163,
+      "name": "Maankwartier Centre",
+      "latitude": 50.890186,
+      "longitude": 5.974955,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 164,
+      "name": "Mahler Oost",
+      "latitude": 52.337103,
+      "longitude": 4.871584,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 165,
+      "name": "Mahler West",
+      "latitude": 52.337008,
+      "longitude": 4.870729,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 166,
+      "name": "Mandelagarage",
+      "latitude": 52.376681,
+      "longitude": 5.220008,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 167,
+      "name": "Mandeville",
+      "latitude": 51.91567,
+      "longitude": 4.526611,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 168,
+      "name": "Mandeville",
+      "latitude": 51.915806,
+      "longitude": 4.525442,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 169,
+      "name": "Mariënburg",
+      "latitude": 51.844752,
+      "longitude": 5.865963,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 170,
+      "name": "Markenhoven",
+      "latitude": 52.369851,
+      "longitude": 4.908703,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 171,
+      "name": "Marktgarage",
+      "latitude": 52.014166,
+      "longitude": 4.365596,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 172,
+      "name": "Markthal",
+      "latitude": 51.919795,
+      "longitude": 4.486041,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 173,
+      "name": "Marnix",
+      "latitude": 52.378392,
+      "longitude": 4.876767,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 174,
+      "name": "Mercurius; Neptunus",
+      "latitude": 52.330683,
+      "longitude": 4.935277,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 175,
+      "name": "Minerva Parking",
+      "latitude": 52.39756,
+      "longitude": 4.87622,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 176,
+      "name": "Molenhoeve",
+      "latitude": 51.528653,
+      "longitude": 4.445122,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 177,
+      "name": "Molenhoeve",
+      "latitude": 51.528922,
+      "longitude": 4.442522,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 178,
+      "name": "Muntgarage",
+      "latitude": 51.25579,
+      "longitude": 5.705836,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 179,
+      "name": "Museum Centrum",
+      "latitude": 53.214291,
+      "longitude": 6.567357,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 180,
+      "name": "Musisgarage",
+      "latitude": 51.983416,
+      "longitude": 5.91232,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 181,
+      "name": "NS Fietsenstalling (Ingang / Uitgang Fietsen & Voetgangers)",
+      "latitude": 50.849664,
+      "longitude": 5.704275,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 182,
+      "name": "Nieuwe Markt",
+      "latitude": 53.218972,
+      "longitude": 6.569583,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 183,
+      "name": "Nieuwemarkt",
+      "latitude": 51.53133,
+      "longitude": 4.458348,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 184,
+      "name": "Nieuweweg",
+      "latitude": 53.218124,
+      "longitude": 6.576774,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 185,
+      "name": "Nieuwstraat",
+      "latitude": 51.339609,
+      "longitude": 3.823175,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 186,
+      "name": "Nijehove",
+      "latitude": 51.838256,
+      "longitude": 4.966881,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 187,
+      "name": "Noorderkeerkring",
+      "latitude": 52.123738,
+      "longitude": 4.650674,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 188,
+      "name": "Oleanderplein",
+      "latitude": 51.895859,
+      "longitude": 4.496595,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 189,
+      "name": "Olympia 1",
+      "latitude": 52.194806,
+      "longitude": 4.48415,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 190,
+      "name": "Olympia 2",
+      "latitude": 52.194783,
+      "longitude": 4.483982,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 191,
+      "name": "Olympia 3",
+      "latitude": 52.194522,
+      "longitude": 4.48349,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 192,
+      "name": "Onder de Boompjes",
+      "latitude": 51.914117,
+      "longitude": 4.485622,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 193,
+      "name": "Oosterdok Parkeergarage",
+      "latitude": 52.376613,
+      "longitude": 4.905447,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 194,
+      "name": "Oosterpoort",
+      "latitude": 53.213937,
+      "longitude": 6.575024,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 195,
+      "name": "Oostkolk",
+      "latitude": 51.337094,
+      "longitude": 3.829963,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 196,
+      "name": "Oppidium",
+      "latitude": 52.15889,
+      "longitude": 5.377755,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 197,
+      "name": "P Dome",
+      "latitude": 52.314449,
+      "longitude": 4.938932,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 198,
+      "name": "P hotel",
+      "latitude": 52.338458,
+      "longitude": 4.890493,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 199,
+      "name": "P+R Berlijnplein",
+      "latitude": 52.098177,
+      "longitude": 5.069266,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 200,
+      "name": "P+R Noord",
+      "latitude": 52.404452,
+      "longitude": 4.933447,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 201,
+      "name": "P+R Noorderhelling",
+      "latitude": 51.894839,
+      "longitude": 4.533769,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 202,
+      "name": "P+R Olympisch Stadion",
+      "latitude": 52.34432,
+      "longitude": 4.855189,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 203,
+      "name": "P+R Westraven",
+      "latitude": 52.057251,
+      "longitude": 5.105366,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 204,
+      "name": "P+R Westraven",
+      "latitude": 52.057353,
+      "longitude": 5.104271,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 205,
+      "name": "P04",
+      "latitude": 52.089613,
+      "longitude": 4.385709,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 206,
+      "name": "P1",
+      "latitude": 52.068426,
+      "longitude": 4.352424,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 207,
+      "name": "P1 Kort Parkeren",
+      "latitude": 52.306938,
+      "longitude": 4.759114,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 208,
+      "name": "P1 Kort Parkeren",
+      "latitude": 52.307576,
+      "longitude": 4.76082,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 209,
+      "name": "P1 Parking Amsterdam Centraal (Ingang)",
+      "latitude": 52.378744,
+      "longitude": 4.896713,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 210,
+      "name": "P1 Parking Amsterdam Centraal (Uitgang)",
+      "latitude": 52.379042,
+      "longitude": 4.896307,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 211,
+      "name": "P1-3",
+      "latitude": 52.339304,
+      "longitude": 4.890181,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 212,
+      "name": "P14",
+      "latitude": 52.303444,
+      "longitude": 4.950749,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 213,
+      "name": "P2",
+      "latitude": 52.301586,
+      "longitude": 4.949247,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 214,
+      "name": "P2 Middenweg",
+      "latitude": 52.662197,
+      "longitude": 4.830602,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 215,
+      "name": "P2 Transferium VU mc (P+R)",
+      "latitude": 52.335943,
+      "longitude": 4.860831,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 216,
+      "name": "P2 VUmc / P+R Transferium VU MC;Vu umc parkeren",
+      "latitude": 52.336618,
+      "longitude": 4.860589,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 217,
+      "name": "P3",
+      "latitude": 52.301484,
+      "longitude": 4.950185,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 218,
+      "name": "P4",
+      "latitude": 52.339644,
+      "longitude": 4.887716,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 219,
+      "name": "P4",
+      "latitude": 52.339883,
+      "longitude": 4.885682,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 220,
+      "name": "P5",
+      "latitude": 52.038839,
+      "longitude": 4.313691,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 221,
+      "name": "P5 Hoog Catharijne (ingang noord)",
+      "latitude": 52.093737,
+      "longitude": 5.110532,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 222,
+      "name": "P5 Villa Arena",
+      "latitude": 52.310854,
+      "longitude": 4.940066,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 223,
+      "name": "P7",
+      "latitude": 52.341056,
+      "longitude": 4.889217,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 224,
+      "name": "Paasberg",
+      "latitude": 51.940296,
+      "longitude": 4.602241,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 225,
+      "name": "Pakeergarage De Hovel",
+      "latitude": 51.520707,
+      "longitude": 5.069042,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 226,
+      "name": "Paleiskwartier",
+      "latitude": 51.686207,
+      "longitude": 5.289186,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 227,
+      "name": "Paleiskwartier",
+      "latitude": 51.689259,
+      "longitude": 5.290082,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 228,
+      "name": "Park 070",
+      "latitude": 52.08325,
+      "longitude": 4.357722,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 229,
+      "name": "Park Bee De Lofts",
+      "latitude": 52.339789,
+      "longitude": 4.919606,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 230,
+      "name": "Park Bee Ruby Emma Hotel & Bar",
+      "latitude": 52.33831,
+      "longitude": 4.920732,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 231,
+      "name": "Park Plaza Hotel",
+      "latitude": 52.091408,
+      "longitude": 5.1071,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 232,
+      "name": "ParkBee",
+      "latitude": 52.218828,
+      "longitude": 6.886332,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 233,
+      "name": "ParkBee Groningen Station",
+      "latitude": 53.211175,
+      "longitude": 6.562543,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 234,
+      "name": "ParkBee Our Domain",
+      "latitude": 52.329379,
+      "longitude": 4.956744,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 235,
+      "name": "ParkBee OurDomain Amsterdam South East",
+      "latitude": 52.299013,
+      "longitude": 4.956696,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 236,
+      "name": "Parkbee Janstraat",
+      "latitude": 52.383625,
+      "longitude": 4.638213,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 237,
+      "name": "Parkeergarage",
+      "latitude": 51.254204,
+      "longitude": 5.713667,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 238,
+      "name": "Parkeergarage Ackershof",
+      "latitude": 52.019138,
+      "longitude": 4.432575,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 239,
+      "name": "Parkeergarage Albert Heijn",
+      "latitude": 51.927099,
+      "longitude": 6.57901,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 240,
+      "name": "Parkeergarage Albert Heijn",
+      "latitude": 52.08468,
+      "longitude": 5.621414,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 241,
+      "name": "Parkeergarage Albert Heijn Julianabaan",
+      "latitude": 52.075465,
+      "longitude": 4.360286,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 242,
+      "name": "Parkeergarage Appelaar",
+      "latitude": 52.380245,
+      "longitude": 4.639403,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 243,
+      "name": "Parkeergarage Argonautenweg",
+      "latitude": 51.95944,
+      "longitude": 4.493533,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 244,
+      "name": "Parkeergarage At the Park",
+      "latitude": 52.037366,
+      "longitude": 4.325232,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 245,
+      "name": "Parkeergarage Bird & Bird",
+      "latitude": 52.087405,
+      "longitude": 4.316046,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 246,
+      "name": "Parkeergarage Boschplein",
+      "latitude": 53.027729,
+      "longitude": 5.658217,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 247,
+      "name": "Parkeergarage Brouwerspoort",
+      "latitude": 52.026125,
+      "longitude": 5.558783,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 248,
+      "name": "Parkeergarage Centrum",
+      "latitude": 51.250802,
+      "longitude": 5.703727,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 249,
+      "name": "Parkeergarage Centrum",
+      "latitude": 51.503439,
+      "longitude": 3.886849,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 250,
+      "name": "Parkeergarage Centrum Haagdijk",
+      "latitude": 51.440915,
+      "longitude": 5.502363,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 251,
+      "name": "Parkeergarage Centrum Oost",
+      "latitude": 51.568894,
+      "longitude": 4.639771,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 252,
+      "name": "Parkeergarage Centrum West",
+      "latitude": 51.568829,
+      "longitude": 4.633293,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 253,
+      "name": "Parkeergarage Churchillplein",
+      "latitude": 52.093737,
+      "longitude": 4.28356,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 254,
+      "name": "Parkeergarage CityPlaza",
+      "latitude": 51.849163,
+      "longitude": 4.330998,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 255,
+      "name": "Parkeergarage Cronjé",
+      "latitude": 52.39446,
+      "longitude": 4.6385,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 256,
+      "name": "Parkeergarage Damplein",
+      "latitude": 52.080961,
+      "longitude": 4.397145,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 257,
+      "name": "Parkeergarage Damsterdiep",
+      "latitude": 53.218055,
+      "longitude": 6.57727,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 258,
+      "name": "Parkeergarage De Bloem",
+      "latitude": 52.186836,
+      "longitude": 4.445606,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 259,
+      "name": "Parkeergarage De Europeaan",
+      "latitude": 52.098405,
+      "longitude": 5.062402,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 260,
+      "name": "Parkeergarage De Klanderij",
+      "latitude": 53.198011,
+      "longitude": 5.798412,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 261,
+      "name": "Parkeergarage Dekamarkt",
+      "latitude": 52.664127,
+      "longitude": 4.828888,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 262,
+      "name": "Parkeergarage Dekamarkt",
+      "latitude": 52.665086,
+      "longitude": 4.825496,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 263,
+      "name": "Parkeergarage Eiteren",
+      "latitude": 52.021967,
+      "longitude": 5.044878,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 264,
+      "name": "Parkeergarage Elandstraat Albert Heijn XL",
+      "latitude": 52.080065,
+      "longitude": 4.29611,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 265,
+      "name": "Parkeergarage Erasmusbrug",
+      "latitude": 51.911392,
+      "longitude": 4.482249,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 266,
+      "name": "Parkeergarage Euroscoop",
+      "latitude": 51.9243,
+      "longitude": 4.406297,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 267,
+      "name": "Parkeergarage Garenmarkt",
+      "latitude": 52.154776,
+      "longitude": 4.493708,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 268,
+      "name": "Parkeergarage Geere",
+      "latitude": 51.496394,
+      "longitude": 3.610017,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 269,
+      "name": "Parkeergarage Gewest",
+      "latitude": 52.270811,
+      "longitude": 5.162298,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 270,
+      "name": "Parkeergarage Heuvelpoort",
+      "latitude": 51.556256,
+      "longitude": 5.090449,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 271,
+      "name": "Parkeergarage Hoftoren",
+      "latitude": 52.080445,
+      "longitude": 4.322058,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 272,
+      "name": "Parkeergarage Houthavens",
+      "latitude": 52.400916,
+      "longitude": 4.875515,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 273,
+      "name": "Parkeergarage Houtmarktpassage",
+      "latitude": 51.585672,
+      "longitude": 4.778016,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 274,
+      "name": "Parkeergarage Händelstraat",
+      "latitude": 52.086929,
+      "longitude": 5.085839,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 275,
+      "name": "Parkeergarage Il Palazzo",
+      "latitude": 52.634602,
+      "longitude": 4.752578,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 276,
+      "name": "Parkeergarage Kalverstraat",
+      "latitude": 52.36725,
+      "longitude": 4.890847,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 277,
+      "name": "Parkeergarage Koningsplein",
+      "latitude": 51.554192,
+      "longitude": 5.089889,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 278,
+      "name": "Parkeergarage Kwantum/Leen Bakker",
+      "latitude": 52.635319,
+      "longitude": 4.752297,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 279,
+      "name": "Parkeergarage Leerdamhof",
+      "latitude": 52.30693,
+      "longitude": 4.974456,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 280,
+      "name": "Parkeergarage Leidsche Rijn Centrum",
+      "latitude": 52.097741,
+      "longitude": 5.066836,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 281,
+      "name": "Parkeergarage Leidsche Rijn Centrum",
+      "latitude": 52.098735,
+      "longitude": 5.062438,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 282,
+      "name": "Parkeergarage Leyweg 1",
+      "latitude": 52.046459,
+      "longitude": 4.279302,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 283,
+      "name": "Parkeergarage Leyweg 2",
+      "latitude": 52.050493,
+      "longitude": 4.275416,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 284,
+      "name": "Parkeergarage Lidl",
+      "latitude": 51.995258,
+      "longitude": 4.473452,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 285,
+      "name": "Parkeergarage Marktplein",
+      "latitude": 52.215935,
+      "longitude": 5.963524,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 286,
+      "name": "Parkeergarage Mercatorplein",
+      "latitude": 52.369365,
+      "longitude": 4.851196,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 287,
+      "name": "Parkeergarage Museumkwartier",
+      "latitude": 52.082377,
+      "longitude": 4.315163,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 288,
+      "name": "Parkeergarage Noordereiland",
+      "latitude": 52.515422,
+      "longitude": 6.094231,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 289,
+      "name": "Parkeergarage Noordereiland",
+      "latitude": 52.515491,
+      "longitude": 6.097022,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 290,
+      "name": "Parkeergarage Oostflank",
+      "latitude": 51.80509,
+      "longitude": 5.727578,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 291,
+      "name": "Parkeergarage Overtoom",
+      "latitude": 52.017551,
+      "longitude": 5.039345,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 292,
+      "name": "Parkeergarage Overtoom",
+      "latitude": 52.017592,
+      "longitude": 5.040732,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 293,
+      "name": "Parkeergarage Paleiskwartier (ingang Noord)",
+      "latitude": 51.689374,
+      "longitude": 5.289817,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 294,
+      "name": "Parkeergarage Provinciehuis",
+      "latitude": 52.087539,
+      "longitude": 4.316589,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 295,
+      "name": "Parkeergarage Q-Park Arsenaal",
+      "latitude": 51.368942,
+      "longitude": 6.172332,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 296,
+      "name": "Parkeergarage Raaks",
+      "latitude": 52.38156,
+      "longitude": 4.629013,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 297,
+      "name": "Parkeergarage Rademarkt",
+      "latitude": 53.215179,
+      "longitude": 6.571842,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 298,
+      "name": "Parkeergarage St Jansdal",
+      "latitude": 52.34339,
+      "longitude": 5.61665,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 299,
+      "name": "Parkeergarage Stadhuis",
+      "latitude": 51.848191,
+      "longitude": 4.3297,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 300,
+      "name": "Parkeergarage Stadhuisplein",
+      "latitude": 52.156493,
+      "longitude": 5.385292,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 301,
+      "name": "Parkeergarage Stadsplein",
+      "latitude": 52.665057,
+      "longitude": 4.825538,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 302,
+      "name": "Parkeergarage Station",
+      "latitude": 52.38658,
+      "longitude": 4.638799,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 303,
+      "name": "Parkeergarage Veerterminal",
+      "latitude": 53.176347,
+      "longitude": 5.414216,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 304,
+      "name": "Parkeergarage Zaailand",
+      "latitude": 53.199224,
+      "longitude": 5.795657,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 305,
+      "name": "Parkeergarage Zuidtangent",
+      "latitude": 52.6634,
+      "longitude": 4.829892,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 306,
+      "name": "Parkeergarage de Kamp",
+      "latitude": 52.37715,
+      "longitude": 4.636855,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 307,
+      "name": "Parkeergarage de Stadspoort",
+      "latitude": 51.500661,
+      "longitude": 3.889184,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 308,
+      "name": "Parkeergerage",
+      "latitude": 51.693884,
+      "longitude": 5.226395,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 309,
+      "name": "Parkeerplaats Commanderie",
+      "latitude": 51.533448,
+      "longitude": 5.03614,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 310,
+      "name": "Parkeren Bewoners",
+      "latitude": 52.634417,
+      "longitude": 4.74586,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 311,
+      "name": "Parkeren KvK",
+      "latitude": 51.917877,
+      "longitude": 4.484665,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 312,
+      "name": "Parkeren Noord",
+      "latitude": 53.000948,
+      "longitude": 6.515134,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 313,
+      "name": "Parkeren Zuid",
+      "latitude": 52.999504,
+      "longitude": 6.51364,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 314,
+      "name": "Parking 52",
+      "latitude": 51.824238,
+      "longitude": 5.82384,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 315,
+      "name": "Parking 52",
+      "latitude": 51.824907,
+      "longitude": 5.824817,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 316,
+      "name": "Parking Bajeskwartier",
+      "latitude": 52.339046,
+      "longitude": 4.924264,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 317,
+      "name": "Parking Centrum Oosterdok",
+      "latitude": 52.376375,
+      "longitude": 4.909457,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 318,
+      "name": "Parking Liesveld",
+      "latitude": 51.910708,
+      "longitude": 4.33828,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 319,
+      "name": "Parking Turfmarkt",
+      "latitude": 52.078016,
+      "longitude": 4.320579,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 320,
+      "name": "Parking Westerpark",
+      "latitude": 51.905327,
+      "longitude": 4.474019,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 321,
+      "name": "Parking Wijnstraat 78",
+      "latitude": 51.91798,
+      "longitude": 4.486116,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 322,
+      "name": "Parking garage P1 Amsterdam Arena",
+      "latitude": 52.313486,
+      "longitude": 4.941113,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 323,
+      "name": "Phoenixgarage",
+      "latitude": 52.010816,
+      "longitude": 4.354765,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 324,
+      "name": "Pietersberg",
+      "latitude": 51.940043,
+      "longitude": 4.602141,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 325,
+      "name": "Plein 1992",
+      "latitude": 50.845773,
+      "longitude": 5.700661,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 326,
+      "name": "Polderplein",
+      "latitude": 52.300911,
+      "longitude": 4.694443,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 327,
+      "name": "Praxis",
+      "latitude": 52.062452,
+      "longitude": 4.316862,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 328,
+      "name": "Princehaven",
+      "latitude": 52.204268,
+      "longitude": 4.399875,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 329,
+      "name": "Prinsenhofgarage",
+      "latitude": 52.014495,
+      "longitude": 4.350208,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 330,
+      "name": "Provinciehuis",
+      "latitude": 53.220004,
+      "longitude": 6.570374,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 331,
+      "name": "Q-Park Achterdoelen",
+      "latitude": 52.043922,
+      "longitude": 5.671363,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 332,
+      "name": "Q-Park Amsterdamse Poort - P22 - Ingang",
+      "latitude": 52.314665,
+      "longitude": 4.952316,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 333,
+      "name": "Q-Park Amsterdamse Poort - P22 - Uitgang",
+      "latitude": 52.314887,
+      "longitude": 4.952951,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 334,
+      "name": "Q-Park Beestenmarkt",
+      "latitude": 52.155752,
+      "longitude": 5.394701,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 335,
+      "name": "Q-Park Buitenplein",
+      "latitude": 52.301309,
+      "longitude": 4.865076,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 336,
+      "name": "Q-Park CS - New Babylon",
+      "latitude": 52.082622,
+      "longitude": 4.325768,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 337,
+      "name": "Q-Park Centrum",
+      "latitude": 51.585676,
+      "longitude": 4.772721,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 338,
+      "name": "Q-Park Centrum",
+      "latitude": 52.513999,
+      "longitude": 6.09767,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 339,
+      "name": "Q-Park Centrum De Admirant",
+      "latitude": 51.439544,
+      "longitude": 5.475257,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 340,
+      "name": "Q-Park Centrumgarage",
+      "latitude": 52.305135,
+      "longitude": 4.695344,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 341,
+      "name": "Q-Park Corridor",
+      "latitude": 52.024573,
+      "longitude": 5.556165,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 342,
+      "name": "Q-Park Fenix",
+      "latitude": 51.901851,
+      "longitude": 4.488305,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 343,
+      "name": "Q-Park Handelsplein",
+      "latitude": 52.301566,
+      "longitude": 4.866732,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 344,
+      "name": "Q-Park Hilvertshof",
+      "latitude": 52.224427,
+      "longitude": 5.176084,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 345,
+      "name": "Q-Park Laakhaven - Ingang E",
+      "latitude": 52.068198,
+      "longitude": 4.323805,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 346,
+      "name": "Q-Park Laakhaven - Ingang F",
+      "latitude": 52.067839,
+      "longitude": 4.324228,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 347,
+      "name": "Q-Park Laakhaven - Ingang J",
+      "latitude": 52.068844,
+      "longitude": 4.325916,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 348,
+      "name": "Q-Park Laakhaven-HS (ingang Leeghwaterplein)",
+      "latitude": 52.066932,
+      "longitude": 4.321448,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 349,
+      "name": "Q-Park Laakhaven-HS (ingang Rijswijkseweg)",
+      "latitude": 52.069403,
+      "longitude": 4.326444,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 350,
+      "name": "Q-Park Mauritskade",
+      "latitude": 52.084562,
+      "longitude": 4.303483,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 351,
+      "name": "Q-Park Museumplein",
+      "latitude": 52.357093,
+      "longitude": 4.879687,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 352,
+      "name": "Q-Park Museumplein Busparking",
+      "latitude": 52.359138,
+      "longitude": 4.882507,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 353,
+      "name": "Q-Park Oostenburg",
+      "latitude": 52.372923,
+      "longitude": 4.930321,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 354,
+      "name": "Q-Park Oranjerie",
+      "latitude": 52.212852,
+      "longitude": 5.962363,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 355,
+      "name": "Q-Park Passage",
+      "latitude": 52.025431,
+      "longitude": 5.558051,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 356,
+      "name": "Q-Park Primark",
+      "latitude": 52.304064,
+      "longitude": 4.695283,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 357,
+      "name": "Q-Park Putgraaf",
+      "latitude": 50.886304,
+      "longitude": 5.981017,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 358,
+      "name": "Q-Park Rijnstraat",
+      "latitude": 52.078898,
+      "longitude": 4.32379,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 359,
+      "name": "Q-Park Schouwburggarage",
+      "latitude": 52.30272,
+      "longitude": 4.858545,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 360,
+      "name": "Q-Park Spui",
+      "latitude": 52.076902,
+      "longitude": 4.318157,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 361,
+      "name": "Q-Park Stadhuisplein",
+      "latitude": 51.435662,
+      "longitude": 5.480705,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 362,
+      "name": "Q-Park Stadsplein",
+      "latitude": 52.30296,
+      "longitude": 4.85866,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 363,
+      "name": "Q-Park Symphony",
+      "latitude": 52.33634,
+      "longitude": 4.874938,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 364,
+      "name": "Q-Park Valley",
+      "latitude": 52.336867,
+      "longitude": 4.877811,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 365,
+      "name": "Q-Park Waterlooplein (main entrance)",
+      "latitude": 52.369041,
+      "longitude": 4.904047,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 366,
+      "name": "Q-Park de Bijenkorf",
+      "latitude": 51.9209,
+      "longitude": 4.477888,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 367,
+      "name": "QPark Amstel",
+      "latitude": 52.34559,
+      "longitude": 4.918459,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 368,
+      "name": "Qpark Maastoren",
+      "latitude": 51.908752,
+      "longitude": 4.493862,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 369,
+      "name": "RET",
+      "latitude": 51.908513,
+      "longitude": 4.494234,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 370,
+      "name": "ROC Aventus",
+      "latitude": 52.207381,
+      "longitude": 5.972984,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 371,
+      "name": "Raadhuisparking",
+      "latitude": 50.88624,
+      "longitude": 5.977137,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 372,
+      "name": "Rabobank",
+      "latitude": 51.588534,
+      "longitude": 4.781381,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 373,
+      "name": "Ringers Winkelcentrum",
+      "latitude": 52.633952,
+      "longitude": 4.752085,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 374,
+      "name": "Rochdale",
+      "latitude": 52.377163,
+      "longitude": 4.845766,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 375,
+      "name": "Roermondsepoort",
+      "latitude": 51.368361,
+      "longitude": 6.165062,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 376,
+      "name": "Rokin Garage (Ingang)",
+      "latitude": 52.370276,
+      "longitude": 4.892553,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 377,
+      "name": "Rokin Garage (uitgang)",
+      "latitude": 52.370817,
+      "longitude": 4.892708,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 378,
+      "name": "Ronsseweg",
+      "latitude": 52.018998,
+      "longitude": 4.706439,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 379,
+      "name": "Scheepjeshof",
+      "latitude": 52.029444,
+      "longitude": 5.555028,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 380,
+      "name": "Scheepjeshof",
+      "latitude": 52.029772,
+      "longitude": 5.557134,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 381,
+      "name": "Scheldeplein",
+      "latitude": 51.44569,
+      "longitude": 3.574379,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 382,
+      "name": "Schelphoek",
+      "latitude": 52.626771,
+      "longitude": 4.755396,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 383,
+      "name": "Schelphoek",
+      "latitude": 52.627229,
+      "longitude": 4.754455,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 384,
+      "name": "Schelphoek Bewoners",
+      "latitude": 52.626447,
+      "longitude": 4.755222,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 385,
+      "name": "Schouwburg Het Park",
+      "latitude": 52.641905,
+      "longitude": 5.049817,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 386,
+      "name": "Schouwburgplein",
+      "latitude": 51.921294,
+      "longitude": 4.47282,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 387,
+      "name": "Schuttershof",
+      "latitude": 51.33321,
+      "longitude": 3.827379,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 388,
+      "name": "Singelgarage",
+      "latitude": 52.629654,
+      "longitude": 4.74226,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 389,
+      "name": "Stadhuis",
+      "latitude": 51.846015,
+      "longitude": 5.867454,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 390,
+      "name": "Stadhuispleingarage",
+      "latitude": 52.507193,
+      "longitude": 4.953579,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 391,
+      "name": "Stadsgarage Boulevard Zuid",
+      "latitude": 51.896953,
+      "longitude": 4.509635,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 392,
+      "name": "Stadsgarage Lusthofstraat",
+      "latitude": 51.925129,
+      "longitude": 4.509243,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 393,
+      "name": "Stadsgarage Mathenesserplein",
+      "latitude": 51.917299,
+      "longitude": 4.444211,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 394,
+      "name": "Stadsgarage Mathenesserplein",
+      "latitude": 51.918148,
+      "longitude": 4.444889,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 395,
+      "name": "Stadsgarage Schouwburgplein 1",
+      "latitude": 51.920331,
+      "longitude": 4.473655,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 396,
+      "name": "Stadsgarage Schouwburgplein 2",
+      "latitude": 51.922729,
+      "longitude": 4.470373,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 397,
+      "name": "Stadskantoor",
+      "latitude": 52.090096,
+      "longitude": 5.108016,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 398,
+      "name": "Stadskantoor",
+      "latitude": 52.090752,
+      "longitude": 5.106546,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 399,
+      "name": "Station Delft",
+      "latitude": 52.007398,
+      "longitude": 4.358171,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 400,
+      "name": "Station Europapark",
+      "latitude": 53.20573,
+      "longitude": 6.585436,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 401,
+      "name": "Station Leidschenveen garage",
+      "latitude": 52.067285,
+      "longitude": 4.398022,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 402,
+      "name": "Stationspark",
+      "latitude": 51.192282,
+      "longitude": 5.995628,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 403,
+      "name": "Stationsplein",
+      "latitude": 51.249872,
+      "longitude": 5.704341,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 404,
+      "name": "Stationsplein",
+      "latitude": 51.689545,
+      "longitude": 5.294452,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 405,
+      "name": "Symfonie",
+      "latitude": 52.264743,
+      "longitude": 4.633422,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 406,
+      "name": "Tankenberg",
+      "latitude": 51.938595,
+      "longitude": 4.603207,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 407,
+      "name": "The Red Apple",
+      "latitude": 51.917084,
+      "longitude": 4.488346,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 408,
+      "name": "The Wall P1",
+      "latitude": 52.107616,
+      "longitude": 5.053694,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 409,
+      "name": "The Wall P2",
+      "latitude": 52.105741,
+      "longitude": 5.057275,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 410,
+      "name": "The Wall P3",
+      "latitude": 52.104376,
+      "longitude": 5.059277,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 411,
+      "name": "The Wall P4",
+      "latitude": 52.103809,
+      "longitude": 5.0608,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 412,
+      "name": "Thiemsbrug",
+      "latitude": 52.267401,
+      "longitude": 6.794346,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 413,
+      "name": "Torenpad",
+      "latitude": 52.075599,
+      "longitude": 4.658864,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 414,
+      "name": "Tricotage",
+      "latitude": 52.026684,
+      "longitude": 5.559259,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 415,
+      "name": "UMCG Noord",
+      "latitude": 53.223775,
+      "longitude": 6.572618,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 416,
+      "name": "UMCG Zuid",
+      "latitude": 53.220546,
+      "longitude": 6.577269,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 417,
+      "name": "Uitgang Parkeergarage Amphia",
+      "latitude": 51.582867,
+      "longitude": 4.800914,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 418,
+      "name": "Uitgang PwC Parkeergarage",
+      "latitude": 52.340413,
+      "longitude": 4.824215,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 419,
+      "name": "Universiteit",
+      "latitude": 52.156768,
+      "longitude": 4.481081,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 420,
+      "name": "Uranus",
+      "latitude": 52.333119,
+      "longitude": 4.934447,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 421,
+      "name": "VU Campus P3",
+      "latitude": 52.334266,
+      "longitude": 4.863147,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 422,
+      "name": "Vaalserberg",
+      "latitude": 51.940506,
+      "longitude": 4.601666,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 423,
+      "name": "Veemgebouw",
+      "latitude": 51.448222,
+      "longitude": 5.453972,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 424,
+      "name": "Velperplein",
+      "latitude": 51.984389,
+      "longitude": 5.912693,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 425,
+      "name": "Venus",
+      "latitude": 52.331129,
+      "longitude": 4.934891,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 426,
+      "name": "Vicky Parking Middenweg",
+      "latitude": 52.354276,
+      "longitude": 4.929965,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 427,
+      "name": "Vijzelgracht parkeergarage",
+      "latitude": 52.360631,
+      "longitude": 4.891011,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 428,
+      "name": "Visitor Parking",
+      "latitude": 51.403192,
+      "longitude": 5.418287,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 429,
+      "name": "Voorhorst",
+      "latitude": 53.173881,
+      "longitude": 6.604825,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 430,
+      "name": "Vrijthof",
+      "latitude": 50.848644,
+      "longitude": 5.688077,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 431,
+      "name": "Vrijthof",
+      "latitude": 50.849786,
+      "longitude": 5.687905,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 432,
+      "name": "WTC Beursplein",
+      "latitude": 51.920978,
+      "longitude": 4.481794,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 433,
+      "name": "Waterberg",
+      "latitude": 51.939429,
+      "longitude": 4.603798,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 434,
+      "name": "Werfgarage",
+      "latitude": 52.373865,
+      "longitude": 4.920888,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 435,
+      "name": "Westerhaven",
+      "latitude": 53.214483,
+      "longitude": 6.556702,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 436,
+      "name": "Westerlaan",
+      "latitude": 52.50647,
+      "longitude": 6.089005,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 437,
+      "name": "Westerpark West",
+      "latitude": 52.385824,
+      "longitude": 4.85301,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 438,
+      "name": "Wijkstallingsgarage Nieuwe Binnenweg",
+      "latitude": 51.916405,
+      "longitude": 4.467973,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 439,
+      "name": "Wilhelminatoren 1",
+      "latitude": 51.906918,
+      "longitude": 4.495038,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 440,
+      "name": "Willinkplein",
+      "latitude": 52.781187,
+      "longitude": 6.893038,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 441,
+      "name": "Wim van Estlaan",
+      "latitude": 52.373846,
+      "longitude": 4.836451,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 442,
+      "name": "Winkelcentrum Parade Nootdorp",
+      "latitude": 52.045194,
+      "longitude": 4.39244,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 443,
+      "name": "Winkelcentrum Stadshagen",
+      "latitude": 52.533293,
+      "longitude": 6.054711,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 444,
+      "name": "Winkelcentrum Winkelhof",
+      "latitude": 52.16208,
+      "longitude": 4.532252,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 445,
+      "name": "Winkelcentrum Winkelhof",
+      "latitude": 52.162843,
+      "longitude": 4.534248,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 446,
+      "name": "Winkelcentrum Winkelhof",
+      "latitude": 52.163779,
+      "longitude": 4.532745,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 447,
+      "name": "Woldberg",
+      "latitude": 51.940351,
+      "longitude": 4.603736,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 448,
+      "name": "Wolfsberg",
+      "latitude": 51.461779,
+      "longitude": 5.796201,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 449,
+      "name": "Wolfsberg",
+      "latitude": 51.462048,
+      "longitude": 5.795334,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 450,
+      "name": "World Trade Center Almere",
+      "latitude": 52.376007,
+      "longitude": 5.216367,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 451,
+      "name": "Zijpenberg",
+      "latitude": 51.939006,
+      "longitude": 4.60513,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 452,
+      "name": "Zuidergang",
+      "latitude": 51.894658,
+      "longitude": 4.513897,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 453,
+      "name": "Zuidpoortgarage",
+      "latitude": 52.00803,
+      "longitude": 4.363073,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 454,
+      "name": "parkeergarage De Lage Landen",
+      "latitude": 51.437693,
+      "longitude": 5.483909,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 455,
+      "name": "parkeergarage Marsmanplein",
+      "latitude": 52.416546,
+      "longitude": 4.647198,
+      "osm_klasse": "amenity=parking_entrance"
+    },
+    {
+      "id": 456,
+      "name": "schelphoek",
+      "latitude": 52.627036,
+      "longitude": 4.754851,
+      "osm_klasse": "amenity=parking_entrance"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: parking entrance (amenity=parking_entrance) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=parking_entrance in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 456 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: parking entrance (amenity=parking_entrance) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: parking entrance (amenity=parking_entrance) — 456 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 456 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

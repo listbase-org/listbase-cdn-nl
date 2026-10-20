@@ -1,0 +1,168 @@
+{
+  "id": "nl-internationale-luchthavens",
+  "name": "Internationale luchthavens in Nederland (International Airports of the Netherlands)",
+  "title": "Internationale luchthavens in Nederland (International Airports of the Netherlands)",
+  "description": "The 3 facilities classified as international airports for NL in the aero-db open airport database, with ICAO/IATA codes and coordinates.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "facility_type",
+      "label": "Facility Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "is_private",
+      "label": "Is Private",
+      "type": "boolean"
+    },
+    {
+      "key": "is_military",
+      "label": "Is Military",
+      "type": "boolean"
+    },
+    {
+      "key": "is_civilian",
+      "label": "Is Civilian",
+      "type": "boolean"
+    },
+    {
+      "key": "is_closed",
+      "label": "Is Closed",
+      "type": "boolean"
+    },
+    {
+      "key": "is_vfr",
+      "label": "Is Vfr",
+      "type": "boolean"
+    },
+    {
+      "key": "is_ifr",
+      "label": "Is Ifr",
+      "type": "boolean"
+    },
+    {
+      "key": "ppr_required",
+      "label": "Ppr Required",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AMSTERDAM/SCHIPHOL",
+      "icao_code": "EHAM",
+      "iata_code": "AMS",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 52.308055555556,
+      "longitude": 4.7641666666667,
+      "elevation_ft": -3,
+      "country_code": "NL",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "MAASTRICHT AACHEN",
+      "icao_code": "EHBK",
+      "iata_code": "MST",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 50.9117,
+      "longitude": 5.7701,
+      "elevation_ft": 114,
+      "country_code": "NL",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "ROTTERDAM",
+      "icao_code": "EHRD",
+      "iata_code": "RTM",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 51.95694444444445,
+      "longitude": 4.440533333333334,
+      "elevation_ft": -4,
+      "country_code": "NL",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    }
+  ],
+  "meta": {
+    "title": "Internationale luchthavens in Nederland (International Airports of the Netherlands) - Gratis downloaden",
+    "description": "The 3 facilities classified as international airports for NL in the aero-db open airport database, with ICAO/IATA codes and coordinates. Bevat 3 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Internationale luchthavens in Nederland (International Airports of the Netherlands) | ListBase",
+    "seo_description": "Downloaden Internationale luchthavens in Nederland (International Airports of the Netherlands) — 3 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 3 records / 17 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

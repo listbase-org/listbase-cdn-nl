@@ -1,0 +1,2571 @@
+{
+  "id": "nl-osm-amenity-ferry-terminal",
+  "name": "Netherlands OSM: ferry terminal (amenity=ferry_terminal)",
+  "title": "Netherlands OSM: ferry terminal (amenity=ferry_terminal)",
+  "description": "Named OpenStreetMap features tagged amenity=ferry_terminal in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 360,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Jachthuis",
+      "latitude": 51.937526,
+      "longitude": 4.300789,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 2,
+      "name": "'t Schellerveertje",
+      "latitude": 52.489864,
+      "longitude": 6.064857,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 3,
+      "name": "'t Schellerveertje",
+      "latitude": 52.490245,
+      "longitude": 6.065948,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 4,
+      "name": "'t Schouw",
+      "latitude": 52.421577,
+      "longitude": 4.948607,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 5,
+      "name": "1 Doctor Lelykade",
+      "latitude": 52.098915,
+      "longitude": 4.270649,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 6,
+      "name": "2 Jachthaven",
+      "latitude": 52.097059,
+      "longitude": 4.266673,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 7,
+      "name": "4 Zuiderstrandtheater",
+      "latitude": 52.097488,
+      "longitude": 4.259295,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 8,
+      "name": "AG Ems Borkumlijn",
+      "latitude": 53.456679,
+      "longitude": 6.832319,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 9,
+      "name": "Aalst veer",
+      "latitude": 51.781279,
+      "longitude": 5.114287,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 10,
+      "name": "Aanleg noord",
+      "latitude": 52.964259,
+      "longitude": 6.673037,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 11,
+      "name": "Aanleg zuid",
+      "latitude": 52.96395,
+      "longitude": 6.673417,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 12,
+      "name": "Aerdt",
+      "latitude": 51.895336,
+      "longitude": 6.091772,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 13,
+      "name": "Afferden, Veer",
+      "latitude": 51.633378,
+      "longitude": 6.003264,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 14,
+      "name": "Alblasserdam, Kade",
+      "latitude": 51.862356,
+      "longitude": 4.65022,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 15,
+      "name": "Alem, Veer Alem",
+      "latitude": 51.785001,
+      "longitude": 5.364334,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 16,
+      "name": "Ameide veersteiger",
+      "latitude": 51.958143,
+      "longitude": 4.965463,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 17,
+      "name": "Amerongen veer",
+      "latitude": 51.98427,
+      "longitude": 5.456714,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 18,
+      "name": "Anleger 3 - Katamaran-Anleger",
+      "latitude": 53.563339,
+      "longitude": 6.758136,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 19,
+      "name": "Appeltern, veerstoep",
+      "latitude": 51.828505,
+      "longitude": 5.566737,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 20,
+      "name": "Arcen veer",
+      "latitude": 51.48673,
+      "longitude": 6.167968,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 21,
+      "name": "Arcen, veerstoep",
+      "latitude": 51.47389,
+      "longitude": 6.178587,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 22,
+      "name": "Assendelft",
+      "latitude": 52.43467,
+      "longitude": 4.725177,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 23,
+      "name": "Azartplein",
+      "latitude": 52.377939,
+      "longitude": 4.937202,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 24,
+      "name": "Baarlo veer",
+      "latitude": 51.333713,
+      "longitude": 6.116443,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 25,
+      "name": "Batenburg Veer",
+      "latitude": 51.821152,
+      "longitude": 5.631446,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 26,
+      "name": "Beesel veer",
+      "latitude": 51.286493,
+      "longitude": 6.049849,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 27,
+      "name": "Belgiëlaan",
+      "latitude": 52.364555,
+      "longitude": 4.637303,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 28,
+      "name": "Bergambacht, Veer Bergstoep",
+      "latitude": 51.919768,
+      "longitude": 4.784564,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 29,
+      "name": "Bergen, Veer",
+      "latitude": 51.598,
+      "longitude": 6.026177,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 30,
+      "name": "Bern veer",
+      "latitude": 51.743813,
+      "longitude": 5.163208,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 31,
+      "name": "Beuningen, veersteiger",
+      "latitude": 51.877029,
+      "longitude": 5.775812,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 32,
+      "name": "Beusichem veer",
+      "latitude": 51.962688,
+      "longitude": 5.280907,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 33,
+      "name": "Biddinghuizen, Veluwerandveer",
+      "latitude": 52.415135,
+      "longitude": 5.731469,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 34,
+      "name": "Bijlandse Waard, veerstoep",
+      "latitude": 51.867874,
+      "longitude": 6.061989,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 35,
+      "name": "Blaauwe Kamer, Veerstoep",
+      "latitude": 51.942235,
+      "longitude": 5.615344,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 36,
+      "name": "Blitterswijck, veer",
+      "latitude": 51.531392,
+      "longitude": 6.1189,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 37,
+      "name": "Bommeer",
+      "latitude": 51.934903,
+      "longitude": 4.30769,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 38,
+      "name": "Borkum",
+      "latitude": 53.563781,
+      "longitude": 6.756187,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 39,
+      "name": "Brakel veer",
+      "latitude": 51.824754,
+      "longitude": 5.092875,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 40,
+      "name": "Breukelen, veerstoep",
+      "latitude": 52.189449,
+      "longitude": 4.997413,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 41,
+      "name": "Broekhuizen veer",
+      "latitude": 51.486525,
+      "longitude": 6.165821,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 42,
+      "name": "Bronkhorst, veerstoep",
+      "latitude": 52.082078,
+      "longitude": 6.172682,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 43,
+      "name": "Brummen, veerstoep",
+      "latitude": 52.082463,
+      "longitude": 6.171028,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 44,
+      "name": "Buiksloterweg",
+      "latitude": 52.382146,
+      "longitude": 4.903173,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 45,
+      "name": "Buurtveer Balk-Heeg",
+      "latitude": 52.90061,
+      "longitude": 5.586883,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 46,
+      "name": "Capelle aan den IJssel, Rivium",
+      "latitude": 51.906779,
+      "longitude": 4.54805,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 47,
+      "name": "Capelle veer",
+      "latitude": 51.717611,
+      "longitude": 4.981003,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 48,
+      "name": "Centraal Station",
+      "latitude": 52.378665,
+      "longitude": 4.905986,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 49,
+      "name": "Centraal Station",
+      "latitude": 52.3807,
+      "longitude": 4.899379,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 50,
+      "name": "Colijnsplaat jachthaven",
+      "latitude": 51.602292,
+      "longitude": 3.849334,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 51,
+      "name": "Cuijk, Veer",
+      "latitude": 51.731523,
+      "longitude": 5.883504,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 52,
+      "name": "Culemborg, veerstoep",
+      "latitude": 51.961305,
+      "longitude": 5.216939,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 53,
+      "name": "De Gouden Ham",
+      "latitude": 51.821106,
+      "longitude": 5.546339,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 54,
+      "name": "De Heen en weer Weerwolf",
+      "latitude": 51.808226,
+      "longitude": 4.718755,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 55,
+      "name": "De Heen en weer Weerwolf",
+      "latitude": 51.808967,
+      "longitude": 4.720293,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 56,
+      "name": "De Trekschuit",
+      "latitude": 51.953258,
+      "longitude": 4.316821,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 57,
+      "name": "Delfzijl veer",
+      "latitude": 53.330993,
+      "longitude": 6.932561,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 58,
+      "name": "Demen Veer",
+      "latitude": 51.818947,
+      "longitude": 5.632511,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 59,
+      "name": "Deventer, veersteiger",
+      "latitude": 52.251851,
+      "longitude": 6.152471,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 60,
+      "name": "Dieren veer",
+      "latitude": 52.041746,
+      "longitude": 6.110055,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 61,
+      "name": "Distelweg",
+      "latitude": 52.395783,
+      "longitude": 4.896474,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 62,
+      "name": "Dodewaard, veersteiger",
+      "latitude": 51.900461,
+      "longitude": 5.604963,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 63,
+      "name": "Doornenburg, veer",
+      "latitude": 51.893114,
+      "longitude": 6.023093,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 64,
+      "name": "Doornenburg, veerstoep",
+      "latitude": 51.883146,
+      "longitude": 6.005839,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 65,
+      "name": "Dordrecht, Hooikade",
+      "latitude": 51.814936,
+      "longitude": 4.658252,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 66,
+      "name": "Dordrecht, Kop van 't Land",
+      "latitude": 51.787821,
+      "longitude": 4.757833,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 67,
+      "name": "Dordrecht, Merwekade",
+      "latitude": 51.819412,
+      "longitude": 4.675368,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 68,
+      "name": "Driel",
+      "latitude": 51.971598,
+      "longitude": 5.825096,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 69,
+      "name": "Drongelen veer",
+      "latitude": 51.712576,
+      "longitude": 5.049189,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 70,
+      "name": "Druten, veersteiger",
+      "latitude": 51.897674,
+      "longitude": 5.603074,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 71,
+      "name": "Dussen veer",
+      "latitude": 51.719848,
+      "longitude": 4.982817,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 72,
+      "name": "Eck en Wiel, Veerweg",
+      "latitude": 51.982945,
+      "longitude": 5.45626,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 73,
+      "name": "Eemhof, terminal",
+      "latitude": 52.258274,
+      "longitude": 5.391946,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 74,
+      "name": "Eemshaven",
+      "latitude": 53.456019,
+      "longitude": 6.832454,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 75,
+      "name": "Eijsden",
+      "latitude": 50.776949,
+      "longitude": 5.699325,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 76,
+      "name": "Elst, Ingeseveer",
+      "latitude": 51.980685,
+      "longitude": 5.497184,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 77,
+      "name": "Emden - Borkum",
+      "latitude": 53.343289,
+      "longitude": 7.186386,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 78,
+      "name": "Enkhuizen (-Medemblik)",
+      "latitude": 52.698824,
+      "longitude": 5.290337,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 79,
+      "name": "Enkhuizen (-Stavoren)",
+      "latitude": 52.699076,
+      "longitude": 5.289863,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 80,
+      "name": "Enkhuizen (-Urk)",
+      "latitude": 52.699437,
+      "longitude": 5.290232,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 81,
+      "name": "Entreepaviljoen (-Zuiderzeemuseum)",
+      "latitude": 52.693675,
+      "longitude": 5.281841,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 82,
+      "name": "Felison Cruise Terminal",
+      "latitude": 52.459053,
+      "longitude": 4.568092,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 83,
+      "name": "Felison Terminal",
+      "latitude": 52.463134,
+      "longitude": 4.585877,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 84,
+      "name": "Fietsboot (Amersfoort)",
+      "latitude": 52.160706,
+      "longitude": 5.382723,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 85,
+      "name": "Fietsboot (Baarn)",
+      "latitude": 52.215443,
+      "longitude": 5.306599,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 86,
+      "name": "Fietsboot (Eemdijk)",
+      "latitude": 52.255398,
+      "longitude": 5.328997,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 87,
+      "name": "Fietsboot (Huizen)",
+      "latitude": 52.305803,
+      "longitude": 5.241768,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 88,
+      "name": "Fietsboot (Soest)",
+      "latitude": 52.181576,
+      "longitude": 5.326526,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 89,
+      "name": "Fietsboot (Spakenburg)",
+      "latitude": 52.259457,
+      "longitude": 5.382091,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 90,
+      "name": "Fietspont Keimpetille",
+      "latitude": 53.182989,
+      "longitude": 5.601476,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 91,
+      "name": "Fietspont Keimpetille",
+      "latitude": 53.183528,
+      "longitude": 5.604612,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 92,
+      "name": "Fluisterboten",
+      "latitude": 52.272745,
+      "longitude": 4.549457,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 93,
+      "name": "Fort Everdingen, Voetveer Liniepont",
+      "latitude": 51.967201,
+      "longitude": 5.178555,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 94,
+      "name": "Fort Vuren",
+      "latitude": 51.820382,
+      "longitude": 5.028442,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 95,
+      "name": "Fortmond, veersteiger",
+      "latitude": 52.372586,
+      "longitude": 6.089848,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 96,
+      "name": "Fähranleger Emden Ostmole",
+      "latitude": 53.33957,
+      "longitude": 7.184888,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 97,
+      "name": "Gaag-Ferry",
+      "latitude": 51.970237,
+      "longitude": 4.305814,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 98,
+      "name": "Galgenwaard",
+      "latitude": 51.874296,
+      "longitude": 5.07318,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 99,
+      "name": "Gelkenes veer",
+      "latitude": 51.940474,
+      "longitude": 4.853894,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 100,
+      "name": "Genemuiden",
+      "latitude": 52.629369,
+      "longitude": 6.038676,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 101,
+      "name": "Gorinchem",
+      "latitude": 51.826075,
+      "longitude": 4.974883,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 102,
+      "name": "Gorishoek",
+      "latitude": 51.525463,
+      "longitude": 4.077192,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 103,
+      "name": "Grachten- und Kanalrundfahrten",
+      "latitude": 53.366597,
+      "longitude": 7.20594,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 104,
+      "name": "Groene Hart Cruises",
+      "latitude": 52.171483,
+      "longitude": 4.515938,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 105,
+      "name": "Haersterveer",
+      "latitude": 52.540099,
+      "longitude": 6.134404,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 106,
+      "name": "Haersterveer",
+      "latitude": 52.54066,
+      "longitude": 6.135106,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 107,
+      "name": "Hansweert, fiets/voetveer",
+      "latitude": 51.448274,
+      "longitude": 4.011074,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 108,
+      "name": "Hardinxveld",
+      "latitude": 51.821131,
+      "longitude": 4.888808,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 109,
+      "name": "Harlingen",
+      "latitude": 53.176512,
+      "longitude": 5.412204,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 110,
+      "name": "Harlingen",
+      "latitude": 53.177242,
+      "longitude": 5.414193,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 111,
+      "name": "Hattem, veersteiger",
+      "latitude": 52.479557,
+      "longitude": 6.076142,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 112,
+      "name": "Haven IJburg",
+      "latitude": 52.353203,
+      "longitude": 5.003698,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 113,
+      "name": "Heerewaarden, veersteiger",
+      "latitude": 51.826838,
+      "longitude": 5.386563,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 114,
+      "name": "Hekelingen, Veer Hekelingen",
+      "latitude": 51.817235,
+      "longitude": 4.338094,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 115,
+      "name": "Hembrugterrein",
+      "latitude": 52.421808,
+      "longitude": 4.839037,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 116,
+      "name": "Hempontplein",
+      "latitude": 52.418067,
+      "longitude": 4.826889,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 117,
+      "name": "Hendrik-Ido-Ambacht, Noordeinde",
+      "latitude": 51.850044,
+      "longitude": 4.65783,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 118,
+      "name": "Herpt veer",
+      "latitude": 51.741826,
+      "longitude": 5.16372,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 119,
+      "name": "Herwen",
+      "latitude": 51.880295,
+      "longitude": 6.081904,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 120,
+      "name": "Herwijnen veer",
+      "latitude": 51.828434,
+      "longitude": 5.093005,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 121,
+      "name": "Heteren",
+      "latitude": 51.967392,
+      "longitude": 5.73164,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 122,
+      "name": "Heveadorp",
+      "latitude": 51.97359,
+      "longitude": 5.823524,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 123,
+      "name": "Hoek van Holland",
+      "latitude": 51.975396,
+      "longitude": 4.127693,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 124,
+      "name": "Hoek van Holland",
+      "latitude": 51.977046,
+      "longitude": 4.125193,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 125,
+      "name": "Holwert, Veerdam",
+      "latitude": 53.395322,
+      "longitude": 5.879082,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 126,
+      "name": "Huissen veer",
+      "latitude": 51.937033,
+      "longitude": 5.960694,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 127,
+      "name": "IJmuiden",
+      "latitude": 52.462368,
+      "longitude": 4.585491,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 128,
+      "name": "IJmuiden",
+      "latitude": 52.462631,
+      "longitude": 4.584395,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 129,
+      "name": "IJplein",
+      "latitude": 52.381639,
+      "longitude": 4.908571,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 130,
+      "name": "Ilpendam",
+      "latitude": 52.46357,
+      "longitude": 4.949328,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 131,
+      "name": "Ingen, Veerweg",
+      "latitude": 51.979405,
+      "longitude": 5.496228,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 132,
+      "name": "Jacominaplaat",
+      "latitude": 51.730376,
+      "longitude": 4.703038,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 133,
+      "name": "Kamperland, fiets- voetveer",
+      "latitude": 51.5573,
+      "longitude": 3.683249,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 134,
+      "name": "Kessel veer",
+      "latitude": 51.287645,
+      "longitude": 6.048443,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 135,
+      "name": "Kinderdijk",
+      "latitude": 51.888587,
+      "longitude": 4.628595,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 136,
+      "name": "Kinderdijk (autoveer)",
+      "latitude": 51.888418,
+      "longitude": 4.62824,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 137,
+      "name": "Kinderdijk, Molenkade",
+      "latitude": 51.889757,
+      "longitude": 4.635507,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 138,
+      "name": "Kortgene, veersteiger",
+      "latitude": 51.550539,
+      "longitude": 3.811247,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 139,
+      "name": "Krimpen aan de Lek (Driehoeksveer)",
+      "latitude": 51.890901,
+      "longitude": 4.629157,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 140,
+      "name": "Krimpen aan de Lek (autoveer)",
+      "latitude": 51.89076,
+      "longitude": 4.627844,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 141,
+      "name": "Krimpen aan den IJssel, Stormpolder",
+      "latitude": 51.904527,
+      "longitude": 4.574759,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 142,
+      "name": "Kwakelweg",
+      "latitude": 51.93896,
+      "longitude": 4.30029,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 143,
+      "name": "Lage Zwaluwe",
+      "latitude": 51.718207,
+      "longitude": 4.695366,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 144,
+      "name": "Lanaye",
+      "latitude": 50.77729,
+      "longitude": 5.696838,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 145,
+      "name": "Landsmeer",
+      "latitude": 52.421985,
+      "longitude": 4.947703,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 146,
+      "name": "Landsmeer",
+      "latitude": 52.463497,
+      "longitude": 4.948658,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 147,
+      "name": "Lauwersoog, Veer",
+      "latitude": 53.410601,
+      "longitude": 6.197622,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 148,
+      "name": "Lekkerkerk, Veersteiger",
+      "latitude": 51.8945,
+      "longitude": 4.684073,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 149,
+      "name": "Lexkesveer - Randwijk",
+      "latitude": 51.959568,
+      "longitude": 5.689545,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 150,
+      "name": "Lexkesveer - Wageningen",
+      "latitude": 51.961089,
+      "longitude": 5.689367,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 151,
+      "name": "Lienden, veer",
+      "latitude": 51.953885,
+      "longitude": 5.560826,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 152,
+      "name": "Lith, Veer",
+      "latitude": 51.808944,
+      "longitude": 5.439607,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 153,
+      "name": "Loevestein, Voet-fietsveer",
+      "latitude": 51.817018,
+      "longitude": 5.011036,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 154,
+      "name": "Lomm veer",
+      "latitude": 51.458447,
+      "longitude": 6.174397,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 155,
+      "name": "Loo veer",
+      "latitude": 51.93727,
+      "longitude": 5.962902,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 156,
+      "name": "Lopik, veersteiger",
+      "latitude": 51.960712,
+      "longitude": 4.966741,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 157,
+      "name": "Lottum veer",
+      "latitude": 51.459232,
+      "longitude": 6.17235,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 158,
+      "name": "Lottum, veerstoep",
+      "latitude": 51.47299,
+      "longitude": 6.176831,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 159,
+      "name": "Maasbommel, Loswal",
+      "latitude": 51.820406,
+      "longitude": 5.544894,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 160,
+      "name": "Maassluis Veer",
+      "latitude": 51.914482,
+      "longitude": 4.249686,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 161,
+      "name": "Maassluis Veer",
+      "latitude": 51.914763,
+      "longitude": 4.248741,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 162,
+      "name": "Maassluis Veer",
+      "latitude": 51.915231,
+      "longitude": 4.247586,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 163,
+      "name": "Maasvlakte II",
+      "latitude": 51.959575,
+      "longitude": 4.013167,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 164,
+      "name": "Maren, Veerweg",
+      "latitude": 51.784534,
+      "longitude": 5.366258,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 165,
+      "name": "Marken terminal",
+      "latitude": 52.458053,
+      "longitude": 5.100807,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 166,
+      "name": "Medemblik",
+      "latitude": 52.774804,
+      "longitude": 5.106367,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 167,
+      "name": "Megen, veerstoep",
+      "latitude": 51.827067,
+      "longitude": 5.566705,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 168,
+      "name": "Middelaar, Veer",
+      "latitude": 51.731692,
+      "longitude": 5.885452,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 169,
+      "name": "Millingen aan de Rijn, veerstoep",
+      "latitude": 51.866327,
+      "longitude": 6.054895,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 170,
+      "name": "Millingerwaard, veerstoep",
+      "latitude": 51.879913,
+      "longitude": 6.00486,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 171,
+      "name": "Moordhuizen, Veer",
+      "latitude": 51.810525,
+      "longitude": 5.439941,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 172,
+      "name": "NDSM",
+      "latitude": 52.401151,
+      "longitude": 4.891186,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 173,
+      "name": "Nederhemert-Noord",
+      "latitude": 51.758952,
+      "longitude": 5.159256,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 174,
+      "name": "Nederhemert-Zuid",
+      "latitude": 51.757411,
+      "longitude": 5.159882,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 175,
+      "name": "Neer veerstoep",
+      "latitude": 51.257983,
+      "longitude": 6.004507,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 176,
+      "name": "Nes, Veerweg",
+      "latitude": 53.433406,
+      "longitude": 5.774648,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 177,
+      "name": "Nieuw Beijerland, Veerstoep",
+      "latitude": 51.816287,
+      "longitude": 4.338541,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 178,
+      "name": "Nieuw-Lekkerland, Veersteiger",
+      "latitude": 51.892926,
+      "longitude": 4.686274,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 179,
+      "name": "Nieuwe Schans, veerstoep",
+      "latitude": 51.831177,
+      "longitude": 5.49737,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 180,
+      "name": "Nieuwe Waterweg Stena Line 1",
+      "latitude": 51.972126,
+      "longitude": 4.13453,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 181,
+      "name": "Nieuwe Waterweg Stena Line 2",
+      "latitude": 51.973444,
+      "longitude": 4.131342,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 182,
+      "name": "Nieuwegein, Veer",
+      "latitude": 52.001757,
+      "longitude": 5.088052,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 183,
+      "name": "Nieuwer-Ter-Aa, veerstoep",
+      "latitude": 52.189612,
+      "longitude": 4.995943,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 184,
+      "name": "Niftrik, Veer",
+      "latitude": 51.797254,
+      "longitude": 5.661128,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 185,
+      "name": "Nije Skou",
+      "latitude": 53.030911,
+      "longitude": 5.835638,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 186,
+      "name": "Nije Skou",
+      "latitude": 53.031395,
+      "longitude": 5.836576,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 187,
+      "name": "Numansdorp Veerdienst Anna",
+      "latitude": 51.717466,
+      "longitude": 4.438275,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 188,
+      "name": "Nunspeet, Veluwerandveer",
+      "latitude": 52.396849,
+      "longitude": 5.735611,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 189,
+      "name": "Ohé en Laak",
+      "latitude": 51.122535,
+      "longitude": 5.817495,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 190,
+      "name": "Oijen, Veer Oijen",
+      "latitude": 51.829725,
+      "longitude": 5.496795,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 191,
+      "name": "Olburgen veer",
+      "latitude": 52.041736,
+      "longitude": 6.111428,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 192,
+      "name": "Oldeneel, veersteiger",
+      "latitude": 52.480235,
+      "longitude": 6.079175,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 193,
+      "name": "Olst, veerstoep",
+      "latitude": 52.340662,
+      "longitude": 6.103589,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 194,
+      "name": "Ooltgensplaat",
+      "latitude": 51.682311,
+      "longitude": 4.36121,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 195,
+      "name": "Opheusden, Veerstoep",
+      "latitude": 51.940798,
+      "longitude": 5.615124,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 196,
+      "name": "Ophoven",
+      "latitude": 51.123683,
+      "longitude": 5.816787,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 197,
+      "name": "Oud-Beijerland",
+      "latitude": 51.829069,
+      "longitude": 4.412319,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 198,
+      "name": "P&O Ferries Rotterdam",
+      "latitude": 51.943678,
+      "longitude": 4.131956,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 199,
+      "name": "Paep van Meinecom",
+      "latitude": 51.129803,
+      "longitude": 5.822633,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 200,
+      "name": "Paep van Meinecom",
+      "latitude": 51.155811,
+      "longitude": 5.846469,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 201,
+      "name": "Pampus steiger",
+      "latitude": 52.36388,
+      "longitude": 5.068647,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 202,
+      "name": "Pannerden",
+      "latitude": 51.880637,
+      "longitude": 6.081176,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 203,
+      "name": "Pannerden",
+      "latitude": 51.909466,
+      "longitude": 6.03692,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 204,
+      "name": "Pannerden, Veerdam",
+      "latitude": 51.893414,
+      "longitude": 6.025258,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 205,
+      "name": "Papendrecht, Noordhoek",
+      "latitude": 51.83394,
+      "longitude": 4.673139,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 206,
+      "name": "Papendrecht, Veerdam",
+      "latitude": 51.822089,
+      "longitude": 4.682157,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 207,
+      "name": "Passenger Terminal Amsterdam",
+      "latitude": 52.377812,
+      "longitude": 4.915329,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 208,
+      "name": "Perkpolder, fiets/voetveer",
+      "latitude": 51.39932,
+      "longitude": 4.017115,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 209,
+      "name": "Persingen",
+      "latitude": 51.840689,
+      "longitude": 5.908883,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 210,
+      "name": "Personen-/Fahrradfähre Düffelward / Schenkenschanz",
+      "latitude": 51.830928,
+      "longitude": 6.109172,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 211,
+      "name": "Personen-/Fahrradfähre Schenkenschanz / Düffelward",
+      "latitude": 51.831881,
+      "longitude": 6.110334,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 212,
+      "name": "Pont",
+      "latitude": 52.093487,
+      "longitude": 5.031286,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 213,
+      "name": "Pont 'HIN & WER'",
+      "latitude": 53.129803,
+      "longitude": 5.943974,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 214,
+      "name": "Pont 'HIN & WER'",
+      "latitude": 53.130514,
+      "longitude": 5.942963,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 215,
+      "name": "Pont - Bierkade",
+      "latitude": 52.629407,
+      "longitude": 4.755743,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 216,
+      "name": "Pont - Eilandswal",
+      "latitude": 52.629091,
+      "longitude": 4.756284,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 217,
+      "name": "Pont Julianadorp-Breezand",
+      "latitude": 52.882832,
+      "longitude": 4.774397,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 218,
+      "name": "Pont Langweer noord",
+      "latitude": 52.978205,
+      "longitude": 5.708023,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 219,
+      "name": "Pont Langweer zuid",
+      "latitude": 52.977661,
+      "longitude": 5.706971,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 220,
+      "name": "Pont Woudfennen",
+      "latitude": 52.960659,
+      "longitude": 5.744654,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 221,
+      "name": "Pontje Molletjesveer",
+      "latitude": 52.514475,
+      "longitude": 4.775809,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 222,
+      "name": "Pontje Steur",
+      "latitude": 51.779107,
+      "longitude": 4.873554,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 223,
+      "name": "Pontje Steur",
+      "latitude": 51.779404,
+      "longitude": 4.872548,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 224,
+      "name": "Pontje Varsen – Vilsteren",
+      "latitude": 52.513236,
+      "longitude": 6.375,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 225,
+      "name": "Pontje Vilsteren – Varsen",
+      "latitude": 52.512622,
+      "longitude": 6.374839,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 226,
+      "name": "Pontje van Aart",
+      "latitude": 53.158082,
+      "longitude": 7.072319,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 227,
+      "name": "Pontsteiger",
+      "latitude": 52.392189,
+      "longitude": 4.886023,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 228,
+      "name": "Pontveer Holendrecht",
+      "latitude": 52.280261,
+      "longitude": 4.935322,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 229,
+      "name": "Puttershoek",
+      "latitude": 51.807257,
+      "longitude": 4.577273,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 230,
+      "name": "Ravenstein, Veer",
+      "latitude": 51.795993,
+      "longitude": 5.658956,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 231,
+      "name": "Rederij Denick",
+      "latitude": 51.757027,
+      "longitude": 3.860065,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 232,
+      "name": "Renkum",
+      "latitude": 51.969572,
+      "longitude": 5.734755,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 233,
+      "name": "Rheden veer",
+      "latitude": 51.999111,
+      "longitude": 6.035568,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 234,
+      "name": "Rheden veer2",
+      "latitude": 51.998489,
+      "longitude": 6.036443,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 235,
+      "name": "Rhenen, veer",
+      "latitude": 51.955237,
+      "longitude": 5.561231,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 236,
+      "name": "Ridderkerk, De Schans",
+      "latitude": 51.886906,
+      "longitude": 4.619408,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 237,
+      "name": "Rijkel veerstoep",
+      "latitude": 51.258398,
+      "longitude": 6.007028,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 238,
+      "name": "Rijswijk - Wijkse Veer",
+      "latitude": 51.964593,
+      "longitude": 5.345635,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 239,
+      "name": "Rondvaartbedrijf Kiewied WL35 Brakzand",
+      "latitude": 53.436255,
+      "longitude": 5.77512,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 240,
+      "name": "Rondvaartbedrijf Kool",
+      "latitude": 53.211787,
+      "longitude": 6.567184,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 241,
+      "name": "Rondvaartbedrijf Zilvermeeuw",
+      "latitude": 51.710246,
+      "longitude": 4.810608,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 242,
+      "name": "Rotterdam",
+      "latitude": 51.943331,
+      "longitude": 4.127801,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 243,
+      "name": "Rotterdam",
+      "latitude": 51.944958,
+      "longitude": 4.131561,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 244,
+      "name": "Rotterdam, Erasmusbrug",
+      "latitude": 51.908651,
+      "longitude": 4.482236,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 245,
+      "name": "Rozenburg Veer",
+      "latitude": 51.911442,
+      "longitude": 4.243115,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 246,
+      "name": "Rozenburg Veer",
+      "latitude": 51.912439,
+      "longitude": 4.242414,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 247,
+      "name": "Rufus",
+      "latitude": 52.99342,
+      "longitude": 5.753874,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 248,
+      "name": "Sambeek, Veer",
+      "latitude": 51.632497,
+      "longitude": 6.00149,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 249,
+      "name": "Schalkwijk, veerstoep",
+      "latitude": 51.962312,
+      "longitude": 5.215282,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 250,
+      "name": "Schiedam, Maasboulevard",
+      "latitude": 51.901244,
+      "longitude": 4.407495,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 251,
+      "name": "Schiermonnikoog, Veerdam",
+      "latitude": 53.468634,
+      "longitude": 6.203199,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 252,
+      "name": "Schoonhoven veer",
+      "latitude": 51.942582,
+      "longitude": 4.854079,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 253,
+      "name": "Sleeuwijk",
+      "latitude": 51.819741,
+      "longitude": 4.960301,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 254,
+      "name": "Slijk-Ewijk, veersteiger",
+      "latitude": 51.879206,
+      "longitude": 5.783204,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 255,
+      "name": "Slot Loevestein",
+      "latitude": 51.818268,
+      "longitude": 5.019952,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 256,
+      "name": "Sluisbuurt",
+      "latitude": 52.375741,
+      "longitude": 4.955957,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 257,
+      "name": "Spaarndam",
+      "latitude": 52.431502,
+      "longitude": 4.724609,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 258,
+      "name": "Spaarnelaan",
+      "latitude": 52.36461,
+      "longitude": 4.636348,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 259,
+      "name": "Spakenburg, terminal",
+      "latitude": 52.256392,
+      "longitude": 5.381178,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 260,
+      "name": "Sporenburg",
+      "latitude": 52.374464,
+      "longitude": 4.94981,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 261,
+      "name": "Stadsblokkenwerf Noord",
+      "latitude": 51.97717,
+      "longitude": 5.906319,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 262,
+      "name": "Stadsblokkenwerf Zuid",
+      "latitude": 51.977473,
+      "longitude": 5.902743,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 263,
+      "name": "Stavoren, terminal V&O",
+      "latitude": 52.886798,
+      "longitude": 5.358218,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 264,
+      "name": "Steenenkamer, veersteiger",
+      "latitude": 52.250285,
+      "longitude": 6.152322,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 265,
+      "name": "Steyl veer",
+      "latitude": 51.333929,
+      "longitude": 6.118156,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 266,
+      "name": "Strand Horst, veersteiger",
+      "latitude": 52.31458,
+      "longitude": 5.560131,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 267,
+      "name": "Streefkerk, Bergstoepseveer",
+      "latitude": 51.917761,
+      "longitude": 4.787106,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 268,
+      "name": "Terherne veer",
+      "latitude": 53.042446,
+      "longitude": 5.77347,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 269,
+      "name": "Terminal Veerdienst Urk - Enkhuizen",
+      "latitude": 52.659339,
+      "longitude": 5.596917,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 270,
+      "name": "Terschelling Snelboot",
+      "latitude": 53.356275,
+      "longitude": 5.215756,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 271,
+      "name": "Terschelling Veerboot",
+      "latitude": 53.356774,
+      "longitude": 5.217078,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 272,
+      "name": "Tersoalstersyl veer",
+      "latitude": 53.049077,
+      "longitude": 5.771248,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 273,
+      "name": "Tiel, veersteiger",
+      "latitude": 51.884395,
+      "longitude": 5.440849,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 274,
+      "name": "Trekvlot",
+      "latitude": 51.384904,
+      "longitude": 3.459294,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 275,
+      "name": "Ubbergen",
+      "latitude": 51.840355,
+      "longitude": 5.908879,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 276,
+      "name": "Varik, veersteiger",
+      "latitude": 51.825829,
+      "longitude": 5.380064,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 277,
+      "name": "Veecaten, veersteiger",
+      "latitude": 52.532716,
+      "longitude": 6.015353,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 278,
+      "name": "Veen veer",
+      "latitude": 51.780194,
+      "longitude": 5.112192,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 279,
+      "name": "Veer Maasbommel",
+      "latitude": 51.818625,
+      "longitude": 5.545816,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 280,
+      "name": "Veer Megen West",
+      "latitude": 51.817716,
+      "longitude": 5.547565,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 281,
+      "name": "Veer Zamenhofstraat",
+      "latitude": 52.384779,
+      "longitude": 4.930885,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 282,
+      "name": "Veerboot Terminal",
+      "latitude": 53.35742,
+      "longitude": 5.216687,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 283,
+      "name": "Veerbootstation Akersloot",
+      "latitude": 52.57078,
+      "longitude": 4.746139,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 284,
+      "name": "Veerbootterminal Rederij Doeksen",
+      "latitude": 53.296178,
+      "longitude": 5.075107,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 285,
+      "name": "Veerdienst Strijensas-Moerdijk",
+      "latitude": 51.705292,
+      "longitude": 4.620257,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 286,
+      "name": "Veerdienst Strijensas-Moerdijk",
+      "latitude": 51.71201,
+      "longitude": 4.588199,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 287,
+      "name": "Veerdienst Tiengemeten",
+      "latitude": 51.753914,
+      "longitude": 4.317728,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 288,
+      "name": "Veerdienst Zuiderzeemuseum",
+      "latitude": 52.699369,
+      "longitude": 5.291125,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 289,
+      "name": "Veerdienst oude wetering",
+      "latitude": 52.207898,
+      "longitude": 4.64802,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 290,
+      "name": "Veerdienst oude wetering",
+      "latitude": 52.208082,
+      "longitude": 4.648943,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 291,
+      "name": "Veerdienst paddegat",
+      "latitude": 52.181807,
+      "longitude": 4.631234,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 292,
+      "name": "Veerdienst paddegat",
+      "latitude": 52.181894,
+      "longitude": 4.632995,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 293,
+      "name": "Veere, fiets- voetveer",
+      "latitude": 51.5501,
+      "longitude": 3.669931,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 294,
+      "name": "Veerhaven Den Helder",
+      "latitude": 52.962823,
+      "longitude": 4.778049,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 295,
+      "name": "Veerhaven Texel",
+      "latitude": 53.003618,
+      "longitude": 4.781333,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 296,
+      "name": "Veerhaven Tiengemeten",
+      "latitude": 51.743738,
+      "longitude": 4.322485,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 297,
+      "name": "Veerhuis Kameleon",
+      "latitude": 53.041639,
+      "longitude": 5.780598,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 298,
+      "name": "Veerpont over de Oude Zederik",
+      "latitude": 51.933668,
+      "longitude": 4.999574,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 299,
+      "name": "Veersteiger Heerewaarden",
+      "latitude": 51.817507,
+      "longitude": 5.397473,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 300,
+      "name": "Veersteiger Lithse Ham",
+      "latitude": 51.810882,
+      "longitude": 5.409966,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 301,
+      "name": "Veerstoep Gouderak",
+      "latitude": 51.985912,
+      "longitude": 4.671952,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 302,
+      "name": "Veerstoep Moordrecht",
+      "latitude": 51.985194,
+      "longitude": 4.67312,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 303,
+      "name": "Veessen, veersteiger",
+      "latitude": 52.374683,
+      "longitude": 6.094138,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 304,
+      "name": "Velsen-Noord",
+      "latitude": 52.46584,
+      "longitude": 4.632703,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 305,
+      "name": "Velsen-Zuid",
+      "latitude": 52.462658,
+      "longitude": 4.63231,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 306,
+      "name": "Verbootstation Zuidschermer",
+      "latitude": 52.570647,
+      "longitude": 4.747057,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 307,
+      "name": "Vertrek Rondvaartboot",
+      "latitude": 51.636578,
+      "longitude": 3.715395,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 308,
+      "name": "Vianen, Veer",
+      "latitude": 52.00047,
+      "longitude": 5.0888,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 309,
+      "name": "Vierlingsbeek, Veer",
+      "latitude": 51.597294,
+      "longitude": 6.024277,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 310,
+      "name": "Vliehors",
+      "latitude": 53.206833,
+      "longitude": 4.87499,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 311,
+      "name": "Vlieland Snelboot",
+      "latitude": 53.296141,
+      "longitude": 5.076323,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 312,
+      "name": "Vlieland Veerboot",
+      "latitude": 53.295967,
+      "longitude": 5.075882,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 313,
+      "name": "Voet & fietsveer Gorssel",
+      "latitude": 52.209516,
+      "longitude": 6.191347,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 314,
+      "name": "Voet & fietsveer Wilp",
+      "latitude": 52.208176,
+      "longitude": 6.189011,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 315,
+      "name": "Voetveer over de Kruisvaart",
+      "latitude": 52.0806,
+      "longitude": 5.116202,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 316,
+      "name": "Volendam terminal",
+      "latitude": 52.494106,
+      "longitude": 5.076454,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 317,
+      "name": "Vorchten, veerstoep",
+      "latitude": 52.392695,
+      "longitude": 6.124191,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 318,
+      "name": "Waalwijk veer",
+      "latitude": 51.71015,
+      "longitude": 5.04948,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 319,
+      "name": "Wagenborg",
+      "latitude": 53.394761,
+      "longitude": 5.879962,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 320,
+      "name": "Wamel, veersteiger",
+      "latitude": 51.882116,
+      "longitude": 5.444445,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 321,
+      "name": "Waterbus",
+      "latitude": 51.912131,
+      "longitude": 4.517763,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 322,
+      "name": "Watersneltaxi Tornado Ameland",
+      "latitude": 53.395425,
+      "longitude": 5.878239,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 323,
+      "name": "Watertaxi - Charloisse Hoofd (70)",
+      "latitude": 51.897469,
+      "longitude": 4.470074,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 324,
+      "name": "Watertaxi - Katendrechtse Hoofd (58)",
+      "latitude": 51.898201,
+      "longitude": 4.471666,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 325,
+      "name": "Watertaxi - Marconistraat / M4H (87)",
+      "latitude": 51.912007,
+      "longitude": 4.423253,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 326,
+      "name": "Watertaxi - Piekstraat (24)",
+      "latitude": 51.906355,
+      "longitude": 4.5143,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 327,
+      "name": "Watertaxi - Plantagelaan (21)",
+      "latitude": 51.913084,
+      "longitude": 4.517194,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 328,
+      "name": "Watertaxi - RDM / Heijplaat (92)",
+      "latitude": 51.897497,
+      "longitude": 4.421052,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 329,
+      "name": "Wellerlooi, veer",
+      "latitude": 51.53336,
+      "longitude": 6.119657,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 330,
+      "name": "Welsum, veerstoep",
+      "latitude": 52.341283,
+      "longitude": 6.101572,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 331,
+      "name": "Wemeldinge",
+      "latitude": 51.515807,
+      "longitude": 4.005616,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 332,
+      "name": "Werk aan de Groeneweg, Voetveer Liniepont",
+      "latitude": 51.964177,
+      "longitude": 5.189275,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 333,
+      "name": "Werk aan het Spoel, Voetveer Liniepont (NHW)",
+      "latitude": 51.960617,
+      "longitude": 5.193146,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 334,
+      "name": "Werkendam",
+      "latitude": 51.814698,
+      "longitude": 4.886731,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 335,
+      "name": "Werkendam, Brabantse Oever",
+      "latitude": 51.78558,
+      "longitude": 4.765284,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 336,
+      "name": "Westerschelde Ferry Breskens",
+      "latitude": 51.401708,
+      "longitude": 3.548672,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 337,
+      "name": "Westerschelde Ferry Vlissingen",
+      "latitude": 51.444125,
+      "longitude": 3.597975,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 338,
+      "name": "Wijhe, veerstoep",
+      "latitude": 52.392043,
+      "longitude": 6.126279,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 339,
+      "name": "Wijk bij Duurstede - Wijkse Veer",
+      "latitude": 51.965374,
+      "longitude": 5.343528,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 340,
+      "name": "Wijk bij Duurstede veer",
+      "latitude": 51.964094,
+      "longitude": 5.281229,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 341,
+      "name": "Willemstad - Fort Sabina",
+      "latitude": 51.680978,
+      "longitude": 4.394241,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 342,
+      "name": "Willemstad Veerdienst Anna",
+      "latitude": 51.695411,
+      "longitude": 4.44127,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 343,
+      "name": "Wolphaartsdijk, veersteiger",
+      "latitude": 51.548085,
+      "longitude": 3.814126,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 344,
+      "name": "Woudrichem",
+      "latitude": 51.818676,
+      "longitude": 5.004396,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 345,
+      "name": "Woudrichem, Voet-fietsveer",
+      "latitude": 51.816926,
+      "longitude": 5.008902,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 346,
+      "name": "Yachtcharter Westerdijk",
+      "latitude": 53.128666,
+      "longitude": 5.93267,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 347,
+      "name": "Yerseke",
+      "latitude": 51.497869,
+      "longitude": 4.055324,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 348,
+      "name": "Zaandam",
+      "latitude": 52.421247,
+      "longitude": 4.826567,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 349,
+      "name": "Zaandam kade Zaantheater",
+      "latitude": 52.438094,
+      "longitude": 4.826049,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 350,
+      "name": "Zalkerveer",
+      "latitude": 52.531521,
+      "longitude": 6.015455,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 351,
+      "name": "Zeewolde, Aanloophaven/Noordereiland",
+      "latitude": 52.33251,
+      "longitude": 5.548985,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 352,
+      "name": "Zeewolde, Veerhaven Strandweg",
+      "latitude": 52.321262,
+      "longitude": 5.552072,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 353,
+      "name": "Zevenaar",
+      "latitude": 51.895749,
+      "longitude": 6.092111,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 354,
+      "name": "Zevenaar",
+      "latitude": 51.90987,
+      "longitude": 6.037039,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 355,
+      "name": "Zuiderzeemuseum",
+      "latitude": 52.707632,
+      "longitude": 5.301605,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 356,
+      "name": "Zuiderzeemuseum (-Medemblik)",
+      "latitude": 52.707813,
+      "longitude": 5.300627,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 357,
+      "name": "Zwartsluis",
+      "latitude": 52.630839,
+      "longitude": 6.04024,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 358,
+      "name": "Zwijndrecht Groote Lindt",
+      "latitude": 51.809062,
+      "longitude": 4.580255,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 359,
+      "name": "Zwijndrecht, Veerplein",
+      "latitude": 51.818176,
+      "longitude": 4.658628,
+      "osm_klasse": "amenity=ferry_terminal"
+    },
+    {
+      "id": 360,
+      "name": "voetveer Leopoldkanaal",
+      "latitude": 51.245862,
+      "longitude": 3.530695,
+      "osm_klasse": "amenity=ferry_terminal"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: ferry terminal (amenity=ferry_terminal) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=ferry_terminal in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 360 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: ferry terminal (amenity=ferry_terminal) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: ferry terminal (amenity=ferry_terminal) — 360 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 360 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

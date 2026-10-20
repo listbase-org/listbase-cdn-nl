@@ -1,0 +1,1220 @@
+{
+  "id": "nl-osm-office-consulting",
+  "name": "Netherlands OSM: consulting (office=consulting)",
+  "title": "Netherlands OSM: consulting (office=consulting)",
+  "description": "Named OpenStreetMap features tagged office=consulting in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 167,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Buitenlab",
+      "latitude": 52.17079,
+      "longitude": 6.807102,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 2,
+      "name": "100%POWERED",
+      "latitude": 52.300686,
+      "longitude": 6.762305,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 3,
+      "name": "2 Wat",
+      "latitude": 51.387949,
+      "longitude": 3.978811,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 4,
+      "name": "2grip",
+      "latitude": 51.8243,
+      "longitude": 5.780668,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 5,
+      "name": "4Building",
+      "latitude": 52.254882,
+      "longitude": 4.630454,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 6,
+      "name": "Actorion Communicatie",
+      "latitude": 51.995898,
+      "longitude": 5.956651,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 7,
+      "name": "Adviesbureau Allround Fire Safety",
+      "latitude": 52.499689,
+      "longitude": 4.964289,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 8,
+      "name": "Adviesbureau Dekker Engineering",
+      "latitude": 51.378786,
+      "longitude": 5.567878,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 9,
+      "name": "Agrocares / NMI B.V.",
+      "latitude": 51.974325,
+      "longitude": 5.648259,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 10,
+      "name": "Alcedo",
+      "latitude": 52.278611,
+      "longitude": 6.40042,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 11,
+      "name": "Alphaplan",
+      "latitude": 52.145039,
+      "longitude": 4.661839,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 12,
+      "name": "Amitec",
+      "latitude": 51.669754,
+      "longitude": 5.609789,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 13,
+      "name": "Avan",
+      "latitude": 52.519283,
+      "longitude": 4.997967,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 14,
+      "name": "Avanti Advisering",
+      "latitude": 52.503859,
+      "longitude": 4.957406,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 15,
+      "name": "Avanti P&O services",
+      "latitude": 52.503876,
+      "longitude": 4.957421,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 16,
+      "name": "BIMCAP B.V.",
+      "latitude": 52.056118,
+      "longitude": 4.39978,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 17,
+      "name": "Baker Tilly",
+      "latitude": 51.541288,
+      "longitude": 5.050082,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 18,
+      "name": "Bartels & Vedder",
+      "latitude": 52.229021,
+      "longitude": 5.370094,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 19,
+      "name": "Better Social Design",
+      "latitude": 52.160906,
+      "longitude": 5.379024,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 20,
+      "name": "Boon Bouwadvies",
+      "latitude": 52.510528,
+      "longitude": 5.007328,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 21,
+      "name": "Bouwen In Eigen Beheer",
+      "latitude": 51.448757,
+      "longitude": 5.445627,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 22,
+      "name": "Bruins Coaching & Advies",
+      "latitude": 52.125571,
+      "longitude": 4.448587,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 23,
+      "name": "Bulgaars adviesbureau",
+      "latitude": 52.057648,
+      "longitude": 4.319668,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 24,
+      "name": "Buro Antares",
+      "latitude": 51.945239,
+      "longitude": 6.227854,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 25,
+      "name": "Business Tales",
+      "latitude": 52.052278,
+      "longitude": 5.284173,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 26,
+      "name": "Capgemini",
+      "latitude": 50.827155,
+      "longitude": 6.018677,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 27,
+      "name": "Capgemini",
+      "latitude": 51.433744,
+      "longitude": 5.452399,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 28,
+      "name": "Capgemini",
+      "latitude": 51.913188,
+      "longitude": 4.538492,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 29,
+      "name": "Capgemini",
+      "latitude": 52.099843,
+      "longitude": 5.064968,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 30,
+      "name": "Capgemini",
+      "latitude": 52.248349,
+      "longitude": 6.772487,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 31,
+      "name": "Capgemini",
+      "latitude": 52.503507,
+      "longitude": 6.087026,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 32,
+      "name": "Capgemini",
+      "latitude": 53.189278,
+      "longitude": 6.549575,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 33,
+      "name": "Care 2 communicate",
+      "latitude": 52.077578,
+      "longitude": 4.393407,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 34,
+      "name": "Cijfeurs",
+      "latitude": 51.730424,
+      "longitude": 5.865891,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 35,
+      "name": "Circle8",
+      "latitude": 52.033047,
+      "longitude": 5.100771,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 36,
+      "name": "Civicon BV",
+      "latitude": 51.958085,
+      "longitude": 6.294958,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 37,
+      "name": "Cobra Groeninzicht",
+      "latitude": 51.718033,
+      "longitude": 5.857263,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 38,
+      "name": "Conclusion",
+      "latitude": 52.077639,
+      "longitude": 5.143262,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 39,
+      "name": "Copyright Cocktails",
+      "latitude": 53.220725,
+      "longitude": 6.568231,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 40,
+      "name": "CoreTrustSeal",
+      "latitude": 52.080715,
+      "longitude": 4.345374,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 41,
+      "name": "Croan Training & Coaching B.V.",
+      "latitude": 51.4422,
+      "longitude": 5.466213,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 42,
+      "name": "Cultuurland Advies",
+      "latitude": 52.438612,
+      "longitude": 6.072703,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 43,
+      "name": "Curamando",
+      "latitude": 52.390172,
+      "longitude": 4.888018,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 44,
+      "name": "D. van Doorn & Zn.",
+      "latitude": 52.043779,
+      "longitude": 4.653637,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 45,
+      "name": "DPA Professionals",
+      "latitude": 52.277829,
+      "longitude": 5.157822,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 46,
+      "name": "Daan Bouwkosten",
+      "latitude": 51.544657,
+      "longitude": 4.228753,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 47,
+      "name": "Dans",
+      "latitude": 52.080799,
+      "longitude": 4.34559,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 48,
+      "name": "Dat.mobility",
+      "latitude": 52.253205,
+      "longitude": 6.169782,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 49,
+      "name": "De Financiële raadgever",
+      "latitude": 52.992356,
+      "longitude": 6.559312,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 50,
+      "name": "De Westhof",
+      "latitude": 52.122296,
+      "longitude": 4.496958,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 51,
+      "name": "Delaware Netherlands",
+      "latitude": 51.716155,
+      "longitude": 5.293334,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 52,
+      "name": "Deloitte",
+      "latitude": 51.908751,
+      "longitude": 4.492987,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 53,
+      "name": "Delta Telecom Advies",
+      "latitude": 51.748576,
+      "longitude": 4.10123,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 54,
+      "name": "Devoteam",
+      "latitude": 52.341782,
+      "longitude": 4.823397,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 55,
+      "name": "Digireg Netherlands",
+      "latitude": 51.454102,
+      "longitude": 6.050266,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 56,
+      "name": "EPAHS",
+      "latitude": 52.96177,
+      "longitude": 4.768664,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 57,
+      "name": "EV Administratie & Advies",
+      "latitude": 52.503896,
+      "longitude": 4.957432,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 58,
+      "name": "Echt Carrièremakers",
+      "latitude": 52.227364,
+      "longitude": 5.172612,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 59,
+      "name": "Ernst & Young",
+      "latitude": 51.966989,
+      "longitude": 5.94289,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 60,
+      "name": "Eurest Support Services",
+      "latitude": 52.956249,
+      "longitude": 4.757206,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 61,
+      "name": "Evidens",
+      "latitude": 52.6018,
+      "longitude": 6.457777,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 62,
+      "name": "Faunus Nature Creations",
+      "latitude": 52.076757,
+      "longitude": 6.458762,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 63,
+      "name": "Femke Van De Meer",
+      "latitude": 51.683528,
+      "longitude": 5.324462,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 64,
+      "name": "Fileradar",
+      "latitude": 52.016988,
+      "longitude": 4.346366,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 65,
+      "name": "Fortura",
+      "latitude": 52.359209,
+      "longitude": 6.490354,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 66,
+      "name": "Gerrie Okken",
+      "latitude": 52.603171,
+      "longitude": 6.457505,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 67,
+      "name": "Gibbs Analytics Consulting",
+      "latitude": 51.919057,
+      "longitude": 4.48072,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 68,
+      "name": "Gonneke sport & health consultancy",
+      "latitude": 52.200097,
+      "longitude": 5.1448,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 69,
+      "name": "Gottmer & Partners",
+      "latitude": 52.476343,
+      "longitude": 4.659478,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 70,
+      "name": "Goudappel",
+      "latitude": 51.440372,
+      "longitude": 5.475786,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 71,
+      "name": "Goudappel",
+      "latitude": 52.082158,
+      "longitude": 4.325491,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 72,
+      "name": "Goudappel",
+      "latitude": 52.253323,
+      "longitude": 6.169739,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 73,
+      "name": "Goudappel",
+      "latitude": 52.377452,
+      "longitude": 4.908176,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 74,
+      "name": "Goudappel",
+      "latitude": 53.20535,
+      "longitude": 5.766511,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 75,
+      "name": "GranTmaster",
+      "latitude": 52.300635,
+      "longitude": 6.761364,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 76,
+      "name": "Greenhouse Sustainability",
+      "latitude": 52.152206,
+      "longitude": 4.770652,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 77,
+      "name": "Groet Infra BV",
+      "latitude": 52.67515,
+      "longitude": 4.830165,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 78,
+      "name": "Hanneke J. Nijland Research & Consultancy",
+      "latitude": 51.971264,
+      "longitude": 5.67685,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 79,
+      "name": "Happy Spaces",
+      "latitude": 51.945541,
+      "longitude": 6.228417,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 80,
+      "name": "IVT – centrum voor ontwikkeling",
+      "latitude": 52.12622,
+      "longitude": 6.610502,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 81,
+      "name": "Innovencio",
+      "latitude": 51.801326,
+      "longitude": 5.342187,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 82,
+      "name": "Iris Haaksma",
+      "latitude": 53.217242,
+      "longitude": 6.579129,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 83,
+      "name": "Jabjo Advies & Expertise",
+      "latitude": 51.546599,
+      "longitude": 5.089532,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 84,
+      "name": "KADMUS",
+      "latitude": 52.042468,
+      "longitude": 4.541947,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 85,
+      "name": "KG Adviseurs",
+      "latitude": 51.503027,
+      "longitude": 3.62622,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 86,
+      "name": "KPMG",
+      "latitude": 50.838833,
+      "longitude": 5.714982,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 87,
+      "name": "KPMG",
+      "latitude": 51.594149,
+      "longitude": 4.77978,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 88,
+      "name": "Karin Jongebloet",
+      "latitude": 52.2023,
+      "longitude": 5.134958,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 89,
+      "name": "Keijzer",
+      "latitude": 52.225136,
+      "longitude": 6.890041,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 90,
+      "name": "Keypoint Consultancy",
+      "latitude": 52.237494,
+      "longitude": 6.84602,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 91,
+      "name": "LuxZen",
+      "latitude": 52.223371,
+      "longitude": 6.015591,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 92,
+      "name": "M&I/Partners",
+      "latitude": 52.078059,
+      "longitude": 5.244757,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 93,
+      "name": "Maas & Nienhuis civiel adviesbureau",
+      "latitude": 51.853686,
+      "longitude": 4.649502,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 94,
+      "name": "Marcel de Jager MKB Adviseurs",
+      "latitude": 51.921143,
+      "longitude": 6.368331,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 95,
+      "name": "Meijer",
+      "latitude": 52.081623,
+      "longitude": 4.342148,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 96,
+      "name": "Mens en Organisatie",
+      "latitude": 51.655045,
+      "longitude": 5.629875,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 97,
+      "name": "Mobiliteitscentrum ObT",
+      "latitude": 52.301189,
+      "longitude": 6.746735,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 98,
+      "name": "Monument in",
+      "latitude": 52.201928,
+      "longitude": 5.132097,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 99,
+      "name": "Movum",
+      "latitude": 53.213146,
+      "longitude": 6.568228,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 100,
+      "name": "Nationaal Energie Advies",
+      "latitude": 52.510744,
+      "longitude": 5.007302,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 101,
+      "name": "New Economy",
+      "latitude": 52.365278,
+      "longitude": 4.874709,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 102,
+      "name": "NewFysic",
+      "latitude": 52.353874,
+      "longitude": 4.931134,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 103,
+      "name": "Noldus Information Technology",
+      "latitude": 51.974306,
+      "longitude": 5.648943,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 104,
+      "name": "Omnimac Consultancy",
+      "latitude": 51.439368,
+      "longitude": 5.438021,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 105,
+      "name": "Outwit",
+      "latitude": 51.829126,
+      "longitude": 5.775423,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 106,
+      "name": "Overwater Grondbeleid",
+      "latitude": 51.744715,
+      "longitude": 4.551168,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 107,
+      "name": "Overwater Rentmeesterskantoor",
+      "latitude": 51.744729,
+      "longitude": 4.551041,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 108,
+      "name": "PLANTERRA",
+      "latitude": 52.132706,
+      "longitude": 5.427992,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 109,
+      "name": "Portal for Business",
+      "latitude": 52.300354,
+      "longitude": 6.75433,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 110,
+      "name": "Power2X",
+      "latitude": 52.353155,
+      "longitude": 4.906091,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 111,
+      "name": "PowerApps Specialist",
+      "latitude": 52.522848,
+      "longitude": 6.09311,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 112,
+      "name": "Pro Facto B.V.",
+      "latitude": 53.22227,
+      "longitude": 6.562595,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 113,
+      "name": "Projects Amsterdam",
+      "latitude": 52.356502,
+      "longitude": 4.90434,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 114,
+      "name": "PwC",
+      "latitude": 52.079313,
+      "longitude": 4.336284,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 115,
+      "name": "PwC",
+      "latitude": 52.339927,
+      "longitude": 4.822584,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 116,
+      "name": "QuConsult B.V.",
+      "latitude": 51.501721,
+      "longitude": 5.403364,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 117,
+      "name": "RDLA",
+      "latitude": 52.055975,
+      "longitude": 4.399722,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 118,
+      "name": "ROOT",
+      "latitude": 52.237597,
+      "longitude": 6.845749,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 119,
+      "name": "ROZ groep",
+      "latitude": 52.260306,
+      "longitude": 6.804783,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 120,
+      "name": "RaVisie",
+      "latitude": 52.084011,
+      "longitude": 5.391387,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 121,
+      "name": "Rathenau Instituut",
+      "latitude": 52.080828,
+      "longitude": 4.345664,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 122,
+      "name": "Rewire",
+      "latitude": 52.361153,
+      "longitude": 4.917782,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 123,
+      "name": "Robor Electronics",
+      "latitude": 52.225687,
+      "longitude": 6.693812,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 124,
+      "name": "Roger Brunings",
+      "latitude": 52.361391,
+      "longitude": 4.893972,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 125,
+      "name": "Roosmarijn Vos",
+      "latitude": 52.359586,
+      "longitude": 4.897848,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 126,
+      "name": "Rossenaar",
+      "latitude": 52.511289,
+      "longitude": 5.005745,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 127,
+      "name": "SYSTEMIQ",
+      "latitude": 52.353151,
+      "longitude": 4.906081,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 128,
+      "name": "Sales Company",
+      "latitude": 51.685876,
+      "longitude": 5.306663,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 129,
+      "name": "Samen Razem",
+      "latitude": 51.45397,
+      "longitude": 6.051243,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 130,
+      "name": "Seijsener",
+      "latitude": 52.428511,
+      "longitude": 4.858006,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 131,
+      "name": "Shamrock Advies & Administratie",
+      "latitude": 52.2013,
+      "longitude": 5.144076,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 132,
+      "name": "Simon Consulting",
+      "latitude": 52.29564,
+      "longitude": 4.68041,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 133,
+      "name": "Simplex",
+      "latitude": 52.127377,
+      "longitude": 5.567527,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 134,
+      "name": "Smook & Walgien PR",
+      "latitude": 52.630457,
+      "longitude": 4.752031,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 135,
+      "name": "Solon Management & Organisatie",
+      "latitude": 51.823672,
+      "longitude": 4.431844,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 136,
+      "name": "Stone Made Italy",
+      "latitude": 52.356216,
+      "longitude": 4.894808,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 137,
+      "name": "Sweco Nederland",
+      "latitude": 52.107958,
+      "longitude": 5.18937,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 138,
+      "name": "TAQT",
+      "latitude": 52.354911,
+      "longitude": 4.895042,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 139,
+      "name": "TDC Groep",
+      "latitude": 52.237196,
+      "longitude": 6.846935,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 140,
+      "name": "TNP Groep",
+      "latitude": 52.624216,
+      "longitude": 6.04156,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 141,
+      "name": "Terra Incognita",
+      "latitude": 51.582225,
+      "longitude": 5.18635,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 142,
+      "name": "The Green Land",
+      "latitude": 52.078398,
+      "longitude": 5.120582,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 143,
+      "name": "The Main Thing",
+      "latitude": 52.35203,
+      "longitude": 5.645327,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 144,
+      "name": "Thomas Consulting",
+      "latitude": 51.546543,
+      "longitude": 5.08929,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 145,
+      "name": "Trip Advocaten Notaren",
+      "latitude": 52.992633,
+      "longitude": 6.521625,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 146,
+      "name": "Triple Joy",
+      "latitude": 52.160876,
+      "longitude": 5.379012,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 147,
+      "name": "Twenty two",
+      "latitude": 51.509228,
+      "longitude": 5.492743,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 148,
+      "name": "VGM Breed",
+      "latitude": 51.54832,
+      "longitude": 5.096055,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 149,
+      "name": "Valkenberg",
+      "latitude": 52.39118,
+      "longitude": 4.640463,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 150,
+      "name": "Van Dorp City Solutions",
+      "latitude": 52.355395,
+      "longitude": 4.894714,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 151,
+      "name": "Van der List Adviesgroep B.V.",
+      "latitude": 51.539216,
+      "longitude": 4.459927,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 152,
+      "name": "Veldsink Van Son",
+      "latitude": 51.566828,
+      "longitude": 5.076935,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 153,
+      "name": "Visscher Consultancy",
+      "latitude": 53.216464,
+      "longitude": 6.409092,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 154,
+      "name": "Visser & Visser",
+      "latitude": 51.496192,
+      "longitude": 3.889758,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 155,
+      "name": "Vital Firm",
+      "latitude": 52.058376,
+      "longitude": 4.390732,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 156,
+      "name": "Werkzaak Rivierenland",
+      "latitude": 51.874933,
+      "longitude": 5.309748,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 157,
+      "name": "Wispels Verzekeringen B.V.",
+      "latitude": 52.390622,
+      "longitude": 6.448228,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 158,
+      "name": "Witteveen",
+      "latitude": 53.222758,
+      "longitude": 6.564662,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 159,
+      "name": "XpertiseWonen",
+      "latitude": 52.26247,
+      "longitude": 6.801498,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 160,
+      "name": "Young Advisory Group",
+      "latitude": 52.333531,
+      "longitude": 4.864619,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 161,
+      "name": "bpo-axsys",
+      "latitude": 51.908844,
+      "longitude": 4.47726,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 162,
+      "name": "cabana interior",
+      "latitude": 52.375388,
+      "longitude": 4.881525,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 163,
+      "name": "draaijer+partners",
+      "latitude": 53.204812,
+      "longitude": 6.556161,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 164,
+      "name": "dtnp",
+      "latitude": 51.839092,
+      "longitude": 5.853089,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 165,
+      "name": "limamoka",
+      "latitude": 52.522877,
+      "longitude": 6.093181,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 166,
+      "name": "mol",
+      "latitude": 52.013726,
+      "longitude": 4.290247,
+      "osm_klasse": "office=consulting"
+    },
+    {
+      "id": 167,
+      "name": "ter Haar & Lamme Psychologisch Adviesbureau",
+      "latitude": 52.377791,
+      "longitude": 4.635658,
+      "osm_klasse": "office=consulting"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: consulting (office=consulting) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=consulting in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 167 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: consulting (office=consulting) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: consulting (office=consulting) — 167 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 167 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

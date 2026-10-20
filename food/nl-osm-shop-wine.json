@@ -1,0 +1,2242 @@
+{
+  "id": "nl-osm-shop-wine",
+  "name": "Netherlands OSM: wine (shop=wine)",
+  "title": "Netherlands OSM: wine (shop=wine)",
+  "description": "Named OpenStreetMap features tagged shop=wine in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "food",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 313,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "&Wine",
+      "latitude": 52.371369,
+      "longitude": 4.624288,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 2,
+      "name": "12% of meer",
+      "latitude": 51.497161,
+      "longitude": 3.6154,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 3,
+      "name": "A sense of place",
+      "latitude": 52.380876,
+      "longitude": 4.882618,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 4,
+      "name": "Aad & Wijn",
+      "latitude": 52.236438,
+      "longitude": 4.446085,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 5,
+      "name": "Aarts Wijnen",
+      "latitude": 51.599083,
+      "longitude": 4.720809,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 6,
+      "name": "Adrianysus",
+      "latitude": 51.763005,
+      "longitude": 5.574085,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 7,
+      "name": "Albertus Wijnen",
+      "latitude": 51.715401,
+      "longitude": 5.362188,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 8,
+      "name": "Albrecht & Janssen",
+      "latitude": 52.362362,
+      "longitude": 4.895772,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 9,
+      "name": "Alpenwijn",
+      "latitude": 51.964292,
+      "longitude": 6.289486,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 10,
+      "name": "Ambrozijn",
+      "latitude": 52.296853,
+      "longitude": 4.903623,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 11,
+      "name": "Andere Wijn.nl",
+      "latitude": 52.08368,
+      "longitude": 4.30057,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 12,
+      "name": "André Kerstens",
+      "latitude": 52.084043,
+      "longitude": 4.312831,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 13,
+      "name": "Angolo Vinoso",
+      "latitude": 52.378813,
+      "longitude": 4.873283,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 14,
+      "name": "Atelier Jacobus",
+      "latitude": 51.552771,
+      "longitude": 5.097055,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 15,
+      "name": "Au Paradis",
+      "latitude": 52.379728,
+      "longitude": 4.882374,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 16,
+      "name": "B.J. de Logie",
+      "latitude": 52.349128,
+      "longitude": 4.877666,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 17,
+      "name": "Bacchus Wijnhuis",
+      "latitude": 52.391617,
+      "longitude": 4.630978,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 18,
+      "name": "Barrel",
+      "latitude": 53.223118,
+      "longitude": 6.564273,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 19,
+      "name": "Bartels",
+      "latitude": 52.513565,
+      "longitude": 6.098844,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 20,
+      "name": "BdB Classic Wines",
+      "latitude": 52.146191,
+      "longitude": 5.429226,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 21,
+      "name": "Beans & Grapes",
+      "latitude": 53.215523,
+      "longitude": 6.564756,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 22,
+      "name": "Beau Vin",
+      "latitude": 52.635314,
+      "longitude": 4.739327,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 23,
+      "name": "Benelux Wine Co",
+      "latitude": 52.377563,
+      "longitude": 4.881683,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 24,
+      "name": "Bilderdijk Wijnhuys",
+      "latitude": 52.370216,
+      "longitude": 4.870674,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 25,
+      "name": "Biltstraat Wine and Whisky",
+      "latitude": 52.09527,
+      "longitude": 5.128329,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 26,
+      "name": "Blije Wijnen",
+      "latitude": 51.902038,
+      "longitude": 4.486717,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 27,
+      "name": "Bovino",
+      "latitude": 50.849385,
+      "longitude": 5.698649,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 28,
+      "name": "Bramasole wijnen",
+      "latitude": 52.055202,
+      "longitude": 4.332931,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 29,
+      "name": "Brandewijn",
+      "latitude": 51.432413,
+      "longitude": 5.47057,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 30,
+      "name": "Brindiamo-Importeur Italiaanse Wijnen",
+      "latitude": 51.4789,
+      "longitude": 5.435352,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 31,
+      "name": "Bucket",
+      "latitude": 52.075243,
+      "longitude": 4.272931,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 32,
+      "name": "Bureau Wijn",
+      "latitude": 52.3805,
+      "longitude": 4.854622,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 33,
+      "name": "Bureau Wijn Oost",
+      "latitude": 52.363221,
+      "longitude": 4.929282,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 34,
+      "name": "Bâtard",
+      "latitude": 52.353064,
+      "longitude": 4.863104,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 35,
+      "name": "Cave de l'Est",
+      "latitude": 52.354962,
+      "longitude": 4.921934,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 36,
+      "name": "Cave de la Lune",
+      "latitude": 52.153119,
+      "longitude": 4.489646,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 37,
+      "name": "Chabrol",
+      "latitude": 52.359762,
+      "longitude": 4.862559,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 38,
+      "name": "Chabrol Wines",
+      "latitude": 52.379342,
+      "longitude": 4.893826,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 39,
+      "name": "Cloinq",
+      "latitude": 53.217077,
+      "longitude": 6.556872,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 40,
+      "name": "Craft Wine",
+      "latitude": 52.356978,
+      "longitude": 4.888938,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 41,
+      "name": "Cru",
+      "latitude": 52.378455,
+      "longitude": 4.882814,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 42,
+      "name": "De Filosoof",
+      "latitude": 52.079259,
+      "longitude": 4.308282,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 43,
+      "name": "De Kaaswaag",
+      "latitude": 52.995383,
+      "longitude": 6.562539,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 44,
+      "name": "De Roemer",
+      "latitude": 53.076974,
+      "longitude": 6.574969,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 45,
+      "name": "De Vinotheek",
+      "latitude": 52.094822,
+      "longitude": 5.119371,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 46,
+      "name": "De Wijn Genoten",
+      "latitude": 52.139796,
+      "longitude": 5.039093,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 47,
+      "name": "De Wijnbrigade",
+      "latitude": 52.079209,
+      "longitude": 4.305239,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 48,
+      "name": "De Wijnbrigade",
+      "latitude": 52.082827,
+      "longitude": 5.038397,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 49,
+      "name": "De Wijnbrigade",
+      "latitude": 52.141917,
+      "longitude": 5.379461,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 50,
+      "name": "De Wijnbrigade",
+      "latitude": 52.223136,
+      "longitude": 4.485343,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 51,
+      "name": "De Wijnbrigade",
+      "latitude": 52.242724,
+      "longitude": 4.431295,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 52,
+      "name": "De Wijnerij",
+      "latitude": 52.373889,
+      "longitude": 4.901909,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 53,
+      "name": "De Wijnhal Hengelo",
+      "latitude": 52.259588,
+      "longitude": 6.786906,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 54,
+      "name": "De Wijnkelder",
+      "latitude": 52.16135,
+      "longitude": 4.485584,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 55,
+      "name": "De Wijnkelder",
+      "latitude": 52.312652,
+      "longitude": 6.928542,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 56,
+      "name": "De Wijnkooper",
+      "latitude": 52.082018,
+      "longitude": 4.293431,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 57,
+      "name": "De Wit",
+      "latitude": 53.0555,
+      "longitude": 4.797635,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 58,
+      "name": "De Wooning",
+      "latitude": 52.012657,
+      "longitude": 4.531257,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 59,
+      "name": "De'n Zilvervloot",
+      "latitude": 52.08166,
+      "longitude": 4.297883,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 60,
+      "name": "Delivino",
+      "latitude": 52.21441,
+      "longitude": 5.155822,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 61,
+      "name": "Derlon's Winestore",
+      "latitude": 50.847921,
+      "longitude": 5.69358,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 62,
+      "name": "Design & Wijn",
+      "latitude": 52.383497,
+      "longitude": 4.885547,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 63,
+      "name": "Die Weinbar",
+      "latitude": 52.128741,
+      "longitude": 5.205953,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 64,
+      "name": "Divinité",
+      "latitude": 52.378844,
+      "longitude": 4.636581,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 65,
+      "name": "Drankerij",
+      "latitude": 52.351654,
+      "longitude": 4.895147,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 66,
+      "name": "Eugène Piters",
+      "latitude": 51.440669,
+      "longitude": 5.479069,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 67,
+      "name": "Faberwineworld",
+      "latitude": 53.018452,
+      "longitude": 6.093729,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 68,
+      "name": "For Your Taste Only",
+      "latitude": 52.343854,
+      "longitude": 4.895523,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 69,
+      "name": "Françoise",
+      "latitude": 52.312483,
+      "longitude": 4.875439,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 70,
+      "name": "Frogs & clogs",
+      "latitude": 52.158285,
+      "longitude": 4.489597,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 71,
+      "name": "Gastrovino",
+      "latitude": 52.157132,
+      "longitude": 4.491814,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 72,
+      "name": "Gastrovino By Frances",
+      "latitude": 52.020141,
+      "longitude": 5.044389,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 73,
+      "name": "Gastrovino Langeveld",
+      "latitude": 52.226467,
+      "longitude": 4.522523,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 74,
+      "name": "Gastrovino Mijn Hemel",
+      "latitude": 52.215501,
+      "longitude": 5.166537,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 75,
+      "name": "Gastrovino by La Liguria",
+      "latitude": 52.087574,
+      "longitude": 4.383523,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 76,
+      "name": "Geurtsen wijnimport",
+      "latitude": 52.165335,
+      "longitude": 5.370726,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 77,
+      "name": "Grape District",
+      "latitude": 52.36399,
+      "longitude": 4.87414,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 78,
+      "name": "Grapedistrict",
+      "latitude": 51.579518,
+      "longitude": 5.195035,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 79,
+      "name": "Grapedistrict",
+      "latitude": 51.923943,
+      "longitude": 4.510437,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 80,
+      "name": "Grapedistrict",
+      "latitude": 51.958218,
+      "longitude": 4.494851,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 81,
+      "name": "Grapedistrict",
+      "latitude": 52.080083,
+      "longitude": 4.26767,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 82,
+      "name": "Grapedistrict",
+      "latitude": 52.082981,
+      "longitude": 5.123541,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 83,
+      "name": "Grapedistrict",
+      "latitude": 52.089238,
+      "longitude": 5.136721,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 84,
+      "name": "Grapedistrict",
+      "latitude": 52.094675,
+      "longitude": 4.277185,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 85,
+      "name": "Grapedistrict",
+      "latitude": 52.352468,
+      "longitude": 4.855833,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 86,
+      "name": "Grapedistrict",
+      "latitude": 52.355583,
+      "longitude": 4.927793,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 87,
+      "name": "Grapedistrict",
+      "latitude": 52.355769,
+      "longitude": 4.900692,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 88,
+      "name": "Grapedistrict",
+      "latitude": 52.356216,
+      "longitude": 4.621712,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 89,
+      "name": "Grapedistrict",
+      "latitude": 52.37116,
+      "longitude": 4.857927,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 90,
+      "name": "Grapedistrict",
+      "latitude": 52.374107,
+      "longitude": 4.938086,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 91,
+      "name": "Grapedistrict",
+      "latitude": 52.384026,
+      "longitude": 4.627553,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 92,
+      "name": "Grapedistrict",
+      "latitude": 52.390931,
+      "longitude": 4.631172,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 93,
+      "name": "Grieks Wijnhuis",
+      "latitude": 51.53096,
+      "longitude": 4.446954,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 94,
+      "name": "Gusto Wines",
+      "latitude": 52.345987,
+      "longitude": 4.864668,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 95,
+      "name": "Güney's Delights",
+      "latitude": 52.364531,
+      "longitude": 4.898132,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 96,
+      "name": "Haags Wijnhuis",
+      "latitude": 52.081144,
+      "longitude": 4.284031,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 97,
+      "name": "Halve Morgen",
+      "latitude": 51.919785,
+      "longitude": 5.843731,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 98,
+      "name": "Hans Moolenaar Wijnkoperij",
+      "latitude": 52.404438,
+      "longitude": 4.619174,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 99,
+      "name": "Harts Wijnhandel",
+      "latitude": 52.361232,
+      "longitude": 4.891646,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 100,
+      "name": "Heeren van de Wijn",
+      "latitude": 51.966489,
+      "longitude": 5.66288,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 101,
+      "name": "Heeren van de Wijn",
+      "latitude": 52.023956,
+      "longitude": 5.556409,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 102,
+      "name": "Henri Bloem",
+      "latitude": 51.555157,
+      "longitude": 5.0882,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 103,
+      "name": "Henri Bloem",
+      "latitude": 51.922638,
+      "longitude": 4.495483,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 104,
+      "name": "Henri Bloem",
+      "latitude": 52.083441,
+      "longitude": 5.140014,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 105,
+      "name": "Henri Bloem",
+      "latitude": 52.155056,
+      "longitude": 4.497089,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 106,
+      "name": "Henri Bloem",
+      "latitude": 52.213637,
+      "longitude": 5.957354,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 107,
+      "name": "Henri Bloem",
+      "latitude": 52.232978,
+      "longitude": 6.887206,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 108,
+      "name": "Henri Bloem",
+      "latitude": 52.310698,
+      "longitude": 4.847061,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 109,
+      "name": "Henri Bloem",
+      "latitude": 53.192267,
+      "longitude": 5.797772,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 110,
+      "name": "Henri Bloem's",
+      "latitude": 51.439108,
+      "longitude": 5.476913,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 111,
+      "name": "Henri Bloem's wijnkoperij",
+      "latitude": 52.514842,
+      "longitude": 6.095425,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 112,
+      "name": "Het Gouden Glas",
+      "latitude": 52.098415,
+      "longitude": 5.135107,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 113,
+      "name": "Holy Wines",
+      "latitude": 51.421838,
+      "longitude": 5.557863,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 114,
+      "name": "I Like Wine",
+      "latitude": 52.264459,
+      "longitude": 6.794024,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 115,
+      "name": "Into the Wine",
+      "latitude": 52.96057,
+      "longitude": 5.92473,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 116,
+      "name": "Italvin",
+      "latitude": 52.145335,
+      "longitude": 4.481158,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 117,
+      "name": "Jackies",
+      "latitude": 52.252019,
+      "longitude": 6.156957,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 118,
+      "name": "KURK Organic Wines",
+      "latitude": 51.454344,
+      "longitude": 5.45554,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 119,
+      "name": "Kaas en Wijnkoperij Latour",
+      "latitude": 51.588715,
+      "longitude": 4.778278,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 120,
+      "name": "Kroon & Kurk",
+      "latitude": 51.478332,
+      "longitude": 5.656151,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 121,
+      "name": "Kwint Wines & Spirits",
+      "latitude": 52.697362,
+      "longitude": 6.189025,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 122,
+      "name": "L'uva",
+      "latitude": 51.510593,
+      "longitude": 5.492128,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 123,
+      "name": "La Passione",
+      "latitude": 52.083457,
+      "longitude": 4.304441,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 124,
+      "name": "Lalie Wijn en meer",
+      "latitude": 52.696793,
+      "longitude": 6.75609,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 125,
+      "name": "Latuil",
+      "latitude": 53.389214,
+      "longitude": 5.284986,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 126,
+      "name": "Le Bouchon",
+      "latitude": 52.085437,
+      "longitude": 4.279546,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 127,
+      "name": "Le Grand Cru",
+      "latitude": 52.348741,
+      "longitude": 4.620696,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 128,
+      "name": "Le Nord",
+      "latitude": 51.927364,
+      "longitude": 4.472264,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 129,
+      "name": "Le Petit Paradis",
+      "latitude": 52.085592,
+      "longitude": 4.886421,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 130,
+      "name": "Lekkere Wijn",
+      "latitude": 52.417158,
+      "longitude": 4.647853,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 131,
+      "name": "Lenkens Wijn",
+      "latitude": 51.838452,
+      "longitude": 5.855648,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 132,
+      "name": "LenselinQ Wijnlokaal",
+      "latitude": 51.923122,
+      "longitude": 4.481575,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 133,
+      "name": "Les Grands Vins",
+      "latitude": 53.095661,
+      "longitude": 6.686695,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 134,
+      "name": "Llev",
+      "latitude": 51.760025,
+      "longitude": 4.163695,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 135,
+      "name": "Lof",
+      "latitude": 52.382843,
+      "longitude": 4.886708,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 136,
+      "name": "Louis Blancardi",
+      "latitude": 52.157807,
+      "longitude": 5.394865,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 137,
+      "name": "Maison d'Elfant",
+      "latitude": 50.939571,
+      "longitude": 5.795055,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 138,
+      "name": "Manni vini e panini",
+      "latitude": 52.25387,
+      "longitude": 6.157433,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 139,
+      "name": "Marius Jouw Wijnvriend",
+      "latitude": 52.081623,
+      "longitude": 4.297811,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 140,
+      "name": "Marius Jouw Wijnvriend",
+      "latitude": 52.144616,
+      "longitude": 4.3939,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 141,
+      "name": "Marqasa",
+      "latitude": 52.092478,
+      "longitude": 4.402213,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 142,
+      "name": "Midiwines",
+      "latitude": 52.639676,
+      "longitude": 5.06204,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 143,
+      "name": "Neleman",
+      "latitude": 52.363504,
+      "longitude": 4.898282,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 144,
+      "name": "Noordman Wijnen",
+      "latitude": 52.156931,
+      "longitude": 4.472898,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 145,
+      "name": "Okhuysen",
+      "latitude": 52.378615,
+      "longitude": 4.631585,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 146,
+      "name": "Onwine",
+      "latitude": 52.093022,
+      "longitude": 5.119466,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 147,
+      "name": "Ossendrijver",
+      "latitude": 52.08784,
+      "longitude": 5.24655,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 148,
+      "name": "Pandora's Bottle",
+      "latitude": 52.008992,
+      "longitude": 4.706596,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 149,
+      "name": "Pasteuning",
+      "latitude": 52.35782,
+      "longitude": 4.87779,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 150,
+      "name": "Peeters",
+      "latitude": 51.911732,
+      "longitude": 4.479555,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 151,
+      "name": "Petit Celler",
+      "latitude": 52.368157,
+      "longitude": 4.871814,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 152,
+      "name": "Pieksman wijnen",
+      "latitude": 52.354471,
+      "longitude": 4.931579,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 153,
+      "name": "Pinot & Noir",
+      "latitude": 52.16054,
+      "longitude": 4.488971,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 154,
+      "name": "Port Reffe",
+      "latitude": 52.067534,
+      "longitude": 4.255299,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 155,
+      "name": "Proef",
+      "latitude": 52.287265,
+      "longitude": 6.146042,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 156,
+      "name": "Proef Wijnwinkel",
+      "latitude": 51.69148,
+      "longitude": 5.307301,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 157,
+      "name": "Q-Vignes",
+      "latitude": 52.108885,
+      "longitude": 5.181671,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 158,
+      "name": "Reeuwijks Wijnhuis",
+      "latitude": 52.045673,
+      "longitude": 4.725259,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 159,
+      "name": "Rigakis",
+      "latitude": 52.096741,
+      "longitude": 5.106553,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 160,
+      "name": "Roberto Violante Italiaans",
+      "latitude": 52.958933,
+      "longitude": 5.924765,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 161,
+      "name": "Robuust Wijnimport",
+      "latitude": 52.16771,
+      "longitude": 5.363156,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 162,
+      "name": "Romke's",
+      "latitude": 52.080507,
+      "longitude": 4.275995,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 163,
+      "name": "Rood, wit en rosé",
+      "latitude": 51.816139,
+      "longitude": 4.669159,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 164,
+      "name": "Rootring",
+      "latitude": 52.630776,
+      "longitude": 4.751113,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 165,
+      "name": "Ruchtie's Wijnhandel",
+      "latitude": 52.259095,
+      "longitude": 6.16807,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 166,
+      "name": "Rue du Saint",
+      "latitude": 52.503003,
+      "longitude": 4.76008,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 167,
+      "name": "Ruijsdael wijnen",
+      "latitude": 52.295245,
+      "longitude": 5.164409,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 168,
+      "name": "Sandor Wine Import",
+      "latitude": 52.728608,
+      "longitude": 5.018906,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 169,
+      "name": "Sante",
+      "latitude": 51.883671,
+      "longitude": 5.288877,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 170,
+      "name": "Sauter wijnen",
+      "latitude": 51.997313,
+      "longitude": 5.970656,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 171,
+      "name": "Schaapveld",
+      "latitude": 52.139457,
+      "longitude": 6.197625,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 172,
+      "name": "Sec Marché",
+      "latitude": 52.475025,
+      "longitude": 6.070896,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 173,
+      "name": "Sharing Wine",
+      "latitude": 52.079476,
+      "longitude": 4.268275,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 174,
+      "name": "Slijterij De Hoorn",
+      "latitude": 52.199367,
+      "longitude": 4.40598,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 175,
+      "name": "Slijterij Post",
+      "latitude": 52.555138,
+      "longitude": 5.917801,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 176,
+      "name": "Slijterij Wigbolt",
+      "latitude": 52.35982,
+      "longitude": 4.628693,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 177,
+      "name": "Slijterij de Zwaan",
+      "latitude": 51.983632,
+      "longitude": 5.915978,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 178,
+      "name": "Smaak van het Zuiden",
+      "latitude": 52.056589,
+      "longitude": 4.337588,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 179,
+      "name": "Sprankelend",
+      "latitude": 52.213082,
+      "longitude": 5.140925,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 180,
+      "name": "Sprezzatura",
+      "latitude": 52.370146,
+      "longitude": 4.929287,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 181,
+      "name": "St. Pieter",
+      "latitude": 50.839944,
+      "longitude": 5.690419,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 182,
+      "name": "Tante Margaux",
+      "latitude": 51.644619,
+      "longitude": 4.861802,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 183,
+      "name": "The Art of Wines",
+      "latitude": 52.331896,
+      "longitude": 4.874122,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 184,
+      "name": "The Foodystore",
+      "latitude": 51.495209,
+      "longitude": 4.285294,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 185,
+      "name": "The Spirit of Wine",
+      "latitude": 52.510818,
+      "longitude": 4.673537,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 186,
+      "name": "Time to Wine",
+      "latitude": 51.709941,
+      "longitude": 5.294822,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 187,
+      "name": "Tinc Set",
+      "latitude": 52.088431,
+      "longitude": 5.239451,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 188,
+      "name": "Troppo Giovane",
+      "latitude": 52.382841,
+      "longitude": 4.885212,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 189,
+      "name": "Tussen Rug en Rijn",
+      "latitude": 51.985944,
+      "longitude": 5.489616,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 190,
+      "name": "UNIK Slijterij en wijn-outlet",
+      "latitude": 53.206774,
+      "longitude": 5.781659,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 191,
+      "name": "Van Bakel & Cavé",
+      "latitude": 52.363013,
+      "longitude": 4.898955,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 192,
+      "name": "Van Dop Wijnen",
+      "latitude": 52.072694,
+      "longitude": 4.373388,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 193,
+      "name": "Van Eyck",
+      "latitude": 51.483004,
+      "longitude": 5.666666,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 194,
+      "name": "Van Gelderen Wijn",
+      "latitude": 51.367415,
+      "longitude": 6.170754,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 195,
+      "name": "Van Lieverlee",
+      "latitude": 51.367607,
+      "longitude": 5.219918,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 196,
+      "name": "Van Vianen",
+      "latitude": 51.994056,
+      "longitude": 4.474635,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 197,
+      "name": "Van Wageningen & De Lange",
+      "latitude": 52.111924,
+      "longitude": 5.1823,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 198,
+      "name": "Vasco Wijnimport",
+      "latitude": 52.295246,
+      "longitude": 4.71821,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 199,
+      "name": "Vermaz",
+      "latitude": 52.342224,
+      "longitude": 4.893006,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 200,
+      "name": "Vin Natuur",
+      "latitude": 53.220449,
+      "longitude": 6.560938,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 201,
+      "name": "Vindict",
+      "latitude": 52.386709,
+      "longitude": 4.905784,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 202,
+      "name": "Vindict wine",
+      "latitude": 52.368775,
+      "longitude": 4.878645,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 203,
+      "name": "Vini E Più",
+      "latitude": 51.976928,
+      "longitude": 4.316404,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 204,
+      "name": "Vinique",
+      "latitude": 52.222609,
+      "longitude": 5.169376,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 205,
+      "name": "Vinius",
+      "latitude": 51.427224,
+      "longitude": 5.486814,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 206,
+      "name": "Vino",
+      "latitude": 52.187438,
+      "longitude": 5.608569,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 207,
+      "name": "Vino",
+      "latitude": 52.624499,
+      "longitude": 6.040248,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 208,
+      "name": "Vino Veneto",
+      "latitude": 52.632432,
+      "longitude": 4.74946,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 209,
+      "name": "Vino Vero",
+      "latitude": 52.077911,
+      "longitude": 4.285333,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 210,
+      "name": "Vinotheek Vintage",
+      "latitude": 52.512965,
+      "longitude": 6.095495,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 211,
+      "name": "Vintake",
+      "latitude": 52.216794,
+      "longitude": 5.969525,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 212,
+      "name": "Vleck",
+      "latitude": 52.506937,
+      "longitude": 6.100607,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 213,
+      "name": "Vleck wijnen",
+      "latitude": 52.091716,
+      "longitude": 5.131703,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 214,
+      "name": "Vonk & Brandt",
+      "latitude": 51.657298,
+      "longitude": 5.615416,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 215,
+      "name": "Waaijenborg",
+      "latitude": 51.936498,
+      "longitude": 4.577644,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 216,
+      "name": "Weijnschenk",
+      "latitude": 52.377146,
+      "longitude": 4.889147,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 217,
+      "name": "Weldam Wines",
+      "latitude": 52.16457,
+      "longitude": 5.369132,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 218,
+      "name": "Well of Wine / Bosman Wijnkopers",
+      "latitude": 52.08996,
+      "longitude": 4.274458,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 219,
+      "name": "Wereld Wijnen",
+      "latitude": 52.260921,
+      "longitude": 4.555219,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 220,
+      "name": "Wielinga",
+      "latitude": 53.202268,
+      "longitude": 5.785219,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 221,
+      "name": "Wijn & Kunst",
+      "latitude": 52.078204,
+      "longitude": 4.285866,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 222,
+      "name": "Wijn & Whisky Schuur",
+      "latitude": 53.06721,
+      "longitude": 5.692603,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 223,
+      "name": "Wijn bij Stijn",
+      "latitude": 51.689936,
+      "longitude": 5.30069,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 224,
+      "name": "Wijn van Steve",
+      "latitude": 52.087206,
+      "longitude": 4.338951,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 225,
+      "name": "WijnInspiratie",
+      "latitude": 52.205962,
+      "longitude": 5.13855,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 226,
+      "name": "Wijnbar Centraal",
+      "latitude": 51.908795,
+      "longitude": 4.343571,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 227,
+      "name": "Wijnbar Paulus",
+      "latitude": 52.353059,
+      "longitude": 4.894282,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 228,
+      "name": "Wijncirkel",
+      "latitude": 52.350523,
+      "longitude": 5.620057,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 229,
+      "name": "Wijndepot aan zee",
+      "latitude": 53.479963,
+      "longitude": 6.164678,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 230,
+      "name": "Wijnen enzo",
+      "latitude": 52.189145,
+      "longitude": 5.431212,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 231,
+      "name": "Wijnen van Egbert",
+      "latitude": 53.440963,
+      "longitude": 5.638437,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 232,
+      "name": "Wijngaard Hof te Dieren",
+      "latitude": 52.037614,
+      "longitude": 6.096803,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 233,
+      "name": "Wijngoed Gelders Laren B.V.",
+      "latitude": 52.204244,
+      "longitude": 6.330695,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 234,
+      "name": "Wijngoed Havelte",
+      "latitude": 52.75478,
+      "longitude": 6.223001,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 235,
+      "name": "Wijnhalen",
+      "latitude": 51.581633,
+      "longitude": 5.193834,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 236,
+      "name": "Wijnhandel 12% of meer",
+      "latitude": 51.471607,
+      "longitude": 3.588877,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 237,
+      "name": "Wijnhandel Appeldoorn",
+      "latitude": 51.99478,
+      "longitude": 5.973808,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 238,
+      "name": "Wijnhandel Bodde",
+      "latitude": 52.325188,
+      "longitude": 4.592861,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 239,
+      "name": "Wijnhandel Boelen",
+      "latitude": 52.356268,
+      "longitude": 4.892449,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 240,
+      "name": "Wijnhandel Flora",
+      "latitude": 52.293483,
+      "longitude": 4.580072,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 241,
+      "name": "Wijnhandel Gommers",
+      "latitude": 52.185983,
+      "longitude": 5.297721,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 242,
+      "name": "Wijnhandel Marcel Arentz",
+      "latitude": 51.844918,
+      "longitude": 5.86829,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 243,
+      "name": "Wijnhandel Petit Clos",
+      "latitude": 52.259002,
+      "longitude": 5.228173,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 244,
+      "name": "Wijnhandel Petit Clos",
+      "latitude": 52.273816,
+      "longitude": 5.168421,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 245,
+      "name": "Wijnhandel Petit Clos",
+      "latitude": 52.306874,
+      "longitude": 5.042119,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 246,
+      "name": "Wijnhandel Sitton",
+      "latitude": 52.200478,
+      "longitude": 5.931607,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 247,
+      "name": "Wijnhandel Woudenberg",
+      "latitude": 51.966211,
+      "longitude": 5.661526,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 248,
+      "name": "Wijnhandel de Moriaan",
+      "latitude": 51.500476,
+      "longitude": 3.616972,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 249,
+      "name": "Wijnhandel den Toom",
+      "latitude": 51.923846,
+      "longitude": 4.511939,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 250,
+      "name": "Wijnhandel van Dijk",
+      "latitude": 51.935398,
+      "longitude": 4.378174,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 251,
+      "name": "Wijnhandel van Iersel",
+      "latitude": 51.687235,
+      "longitude": 4.945293,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 252,
+      "name": "Wijnhandel van Krimpen",
+      "latitude": 52.355827,
+      "longitude": 4.88876,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 253,
+      "name": "Wijnhof Ommen",
+      "latitude": 52.519416,
+      "longitude": 6.422216,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 254,
+      "name": "Wijnhuis 167",
+      "latitude": 51.814349,
+      "longitude": 4.664645,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 255,
+      "name": "Wijnhuis Belgers",
+      "latitude": 51.68853,
+      "longitude": 5.31456,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 256,
+      "name": "Wijnhuis Bennekom",
+      "latitude": 51.999148,
+      "longitude": 5.675785,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 257,
+      "name": "Wijnhuis Cave",
+      "latitude": 52.012913,
+      "longitude": 4.357761,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 258,
+      "name": "Wijnhuis De Paap",
+      "latitude": 51.831911,
+      "longitude": 4.691692,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 259,
+      "name": "Wijnhuis Enotria",
+      "latitude": 53.171248,
+      "longitude": 6.605748,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 260,
+      "name": "Wijnhuis Heemstede",
+      "latitude": 52.359685,
+      "longitude": 4.60505,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 261,
+      "name": "Wijnhuis Helmond",
+      "latitude": 51.483715,
+      "longitude": 5.669018,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 262,
+      "name": "Wijnhuis Machiel",
+      "latitude": 53.183055,
+      "longitude": 6.167802,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 263,
+      "name": "Wijnhuis Oudorp",
+      "latitude": 52.635809,
+      "longitude": 4.774172,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 264,
+      "name": "Wijnhuis Sonsbeek",
+      "latitude": 51.98936,
+      "longitude": 5.911221,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 265,
+      "name": "Wijnhuis Ten Bilt",
+      "latitude": 52.430319,
+      "longitude": 4.644271,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 266,
+      "name": "Wijnhuis.Amsterdam",
+      "latitude": 52.351706,
+      "longitude": 4.857739,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 267,
+      "name": "Wijnhuiszuid",
+      "latitude": 52.129568,
+      "longitude": 5.20591,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 268,
+      "name": "Wijnkelder Tastevin Koppers",
+      "latitude": 52.290117,
+      "longitude": 4.577965,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 269,
+      "name": "Wijnkoperij / Slijterij De Meenthof",
+      "latitude": 52.239647,
+      "longitude": 5.112055,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 270,
+      "name": "Wijnkoperij Alex Storms-Mertens",
+      "latitude": 51.284296,
+      "longitude": 5.749715,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 271,
+      "name": "Wijnkoperij Chateau Cuisine",
+      "latitude": 52.077029,
+      "longitude": 4.5374,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 272,
+      "name": "Wijnkoperij Domaine",
+      "latitude": 51.908128,
+      "longitude": 4.448854,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 273,
+      "name": "Wijnkoperij Henri Bloem",
+      "latitude": 51.68824,
+      "longitude": 5.304785,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 274,
+      "name": "Wijnkoperij Henri Bloem",
+      "latitude": 51.865107,
+      "longitude": 5.852397,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 275,
+      "name": "Wijnkoperij Henri Bloem",
+      "latitude": 52.141514,
+      "longitude": 5.378565,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 276,
+      "name": "Wijnkoperij Henri Bloem",
+      "latitude": 52.27516,
+      "longitude": 5.172887,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 277,
+      "name": "Wijnkoperij Henri Bloem Breda",
+      "latitude": 51.577572,
+      "longitude": 4.780501,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 278,
+      "name": "Wijnkoperij Henri Bloem Groningen",
+      "latitude": 53.199688,
+      "longitude": 6.579148,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 279,
+      "name": "Wijnkoperij Kroese",
+      "latitude": 52.344255,
+      "longitude": 5.983308,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 280,
+      "name": "Wijnkoperij La Bordelaise",
+      "latitude": 52.157498,
+      "longitude": 4.493017,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 281,
+      "name": "Wijnkoperij Platenburg",
+      "latitude": 51.924243,
+      "longitude": 4.487117,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 282,
+      "name": "Wijnkoperij Van Lieverlee",
+      "latitude": 51.483554,
+      "longitude": 5.138523,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 283,
+      "name": "Wijnkoperij Vriezekolk",
+      "latitude": 52.104553,
+      "longitude": 6.065768,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 284,
+      "name": "Wijnkoperij Wesseling",
+      "latitude": 52.260593,
+      "longitude": 5.22773,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 285,
+      "name": "Wijnkoperij en Restaurant de Prinsen",
+      "latitude": 52.324412,
+      "longitude": 6.721861,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 286,
+      "name": "Wijnmarkt",
+      "latitude": 52.011578,
+      "longitude": 4.711458,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 287,
+      "name": "Wijnplein Nijmegen",
+      "latitude": 51.838522,
+      "longitude": 5.859736,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 288,
+      "name": "Wijnwinkel Barneveld",
+      "latitude": 52.135762,
+      "longitude": 5.580166,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 289,
+      "name": "Wijnwinkel Souverein",
+      "latitude": 53.186719,
+      "longitude": 5.540837,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 290,
+      "name": "Wijnwinkel Wyck",
+      "latitude": 50.848782,
+      "longitude": 5.698359,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 291,
+      "name": "Wine & More",
+      "latitude": 52.013031,
+      "longitude": 4.360338,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 292,
+      "name": "Wine & Nuts",
+      "latitude": 51.447987,
+      "longitude": 5.454227,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 293,
+      "name": "WineStock",
+      "latitude": 52.349272,
+      "longitude": 4.621349,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 294,
+      "name": "Winebizz",
+      "latitude": 51.531858,
+      "longitude": 4.459052,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 295,
+      "name": "Woerdens Wijnhuis",
+      "latitude": 52.087531,
+      "longitude": 4.884792,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 296,
+      "name": "Zino's Provisiekamer",
+      "latitude": 51.933377,
+      "longitude": 4.486143,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 297,
+      "name": "Zwols Porthuis",
+      "latitude": 52.508139,
+      "longitude": 6.096146,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 298,
+      "name": "bob wijn",
+      "latitude": 52.386706,
+      "longitude": 4.905765,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 299,
+      "name": "casa Fortezza",
+      "latitude": 52.384974,
+      "longitude": 4.687874,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 300,
+      "name": "de Cognatheek",
+      "latitude": 52.224844,
+      "longitude": 5.956771,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 301,
+      "name": "de Gouden ton",
+      "latitude": 51.645177,
+      "longitude": 4.85936,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 302,
+      "name": "de Gouden ton",
+      "latitude": 51.648935,
+      "longitude": 5.282665,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 303,
+      "name": "de Gouden ton",
+      "latitude": 51.922899,
+      "longitude": 4.483155,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 304,
+      "name": "de Gouden ton",
+      "latitude": 52.086298,
+      "longitude": 4.311655,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 305,
+      "name": "de Gouden ton",
+      "latitude": 52.177539,
+      "longitude": 4.468395,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 306,
+      "name": "de Gouden ton",
+      "latitude": 52.253794,
+      "longitude": 5.230521,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 307,
+      "name": "de Gouden ton",
+      "latitude": 52.350096,
+      "longitude": 4.621471,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 308,
+      "name": "de Gouden ton",
+      "latitude": 52.356262,
+      "longitude": 4.870743,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 309,
+      "name": "de Gouden ton",
+      "latitude": 52.362446,
+      "longitude": 4.898725,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 310,
+      "name": "de Gouden ton",
+      "latitude": 52.670535,
+      "longitude": 4.70188,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 311,
+      "name": "il diVino wijnwinkel | Hilversum",
+      "latitude": 52.22722,
+      "longitude": 5.176127,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 312,
+      "name": "van der Heijden Wijnen & Gedistilleerd",
+      "latitude": 51.448097,
+      "longitude": 5.475017,
+      "osm_klasse": "shop=wine"
+    },
+    {
+      "id": 313,
+      "name": "À BOIRE",
+      "latitude": 51.443092,
+      "longitude": 3.576539,
+      "osm_klasse": "shop=wine"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: wine (shop=wine) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=wine in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 313 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: wine (shop=wine) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: wine (shop=wine) — 313 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 313 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

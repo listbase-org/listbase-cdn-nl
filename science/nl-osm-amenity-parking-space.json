@@ -1,0 +1,3285 @@
+{
+  "id": "nl-osm-amenity-parking-space",
+  "name": "Netherlands OSM: parking space (amenity=parking_space)",
+  "title": "Netherlands OSM: parking space (amenity=parking_space)",
+  "description": "Named OpenStreetMap features tagged amenity=parking_space in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "science",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 462,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "07-XGB-8",
+      "latitude": 52.318722,
+      "longitude": 4.648269,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 2,
+      "name": "08-HJK-3",
+      "latitude": 52.504068,
+      "longitude": 4.988752,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 3,
+      "name": "1",
+      "latitude": 53.195097,
+      "longitude": 5.752166,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 4,
+      "name": "1-KFF-78",
+      "latitude": 51.916338,
+      "longitude": 4.502532,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 5,
+      "name": "1-KPB-53",
+      "latitude": 52.319119,
+      "longitude": 4.646802,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 6,
+      "name": "1-SJR-67",
+      "latitude": 52.661102,
+      "longitude": 4.814364,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 7,
+      "name": "10",
+      "latitude": 51.87069,
+      "longitude": 4.265887,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 8,
+      "name": "10-ZR-JG",
+      "latitude": 52.31981,
+      "longitude": 4.646256,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 9,
+      "name": "15-LTL-6",
+      "latitude": 52.505085,
+      "longitude": 4.985576,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 10,
+      "name": "2",
+      "latitude": 53.195083,
+      "longitude": 5.752061,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 11,
+      "name": "2-1",
+      "latitude": 51.931588,
+      "longitude": 6.268513,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 12,
+      "name": "2-10",
+      "latitude": 51.931793,
+      "longitude": 6.269358,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 13,
+      "name": "2-100",
+      "latitude": 51.930978,
+      "longitude": 6.26899,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 14,
+      "name": "2-101",
+      "latitude": 51.931866,
+      "longitude": 6.266419,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 15,
+      "name": "2-102",
+      "latitude": 51.931913,
+      "longitude": 6.266131,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 16,
+      "name": "2-103",
+      "latitude": 51.931506,
+      "longitude": 6.266946,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 17,
+      "name": "2-104",
+      "latitude": 51.93158,
+      "longitude": 6.266914,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 18,
+      "name": "2-105",
+      "latitude": 51.931595,
+      "longitude": 6.266722,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 19,
+      "name": "2-106",
+      "latitude": 51.931529,
+      "longitude": 6.266639,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 20,
+      "name": "2-107",
+      "latitude": 51.931452,
+      "longitude": 6.266673,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 21,
+      "name": "2-108",
+      "latitude": 51.931408,
+      "longitude": 6.266761,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 22,
+      "name": "2-109",
+      "latitude": 51.931431,
+      "longitude": 6.266906,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 23,
+      "name": "2-11",
+      "latitude": 51.931861,
+      "longitude": 6.26936,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 24,
+      "name": "2-110",
+      "latitude": 51.931045,
+      "longitude": 6.267328,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 25,
+      "name": "2-111",
+      "latitude": 51.930974,
+      "longitude": 6.267266,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 26,
+      "name": "2-112",
+      "latitude": 51.930896,
+      "longitude": 6.26728,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 27,
+      "name": "2-113",
+      "latitude": 51.930851,
+      "longitude": 6.267395,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 28,
+      "name": "2-114",
+      "latitude": 51.930875,
+      "longitude": 6.26752,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 29,
+      "name": "2-115",
+      "latitude": 51.930946,
+      "longitude": 6.267575,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 30,
+      "name": "2-116",
+      "latitude": 51.931021,
+      "longitude": 6.267514,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 31,
+      "name": "2-117",
+      "latitude": 51.931224,
+      "longitude": 6.266176,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 32,
+      "name": "2-118",
+      "latitude": 51.931283,
+      "longitude": 6.266056,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 33,
+      "name": "2-119",
+      "latitude": 51.931274,
+      "longitude": 6.265912,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 34,
+      "name": "2-12",
+      "latitude": 51.9318,
+      "longitude": 6.26959,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 35,
+      "name": "2-120",
+      "latitude": 51.931207,
+      "longitude": 6.265845,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 36,
+      "name": "2-121",
+      "latitude": 51.931131,
+      "longitude": 6.265871,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 37,
+      "name": "2-122",
+      "latitude": 51.93109,
+      "longitude": 6.265986,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 38,
+      "name": "2-123",
+      "latitude": 51.9311,
+      "longitude": 6.266077,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 39,
+      "name": "2-125",
+      "latitude": 51.930643,
+      "longitude": 6.266463,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 40,
+      "name": "2-126",
+      "latitude": 51.93056,
+      "longitude": 6.266487,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 41,
+      "name": "2-127",
+      "latitude": 51.930533,
+      "longitude": 6.266605,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 42,
+      "name": "2-128",
+      "latitude": 51.930549,
+      "longitude": 6.266734,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 43,
+      "name": "2-129",
+      "latitude": 51.930726,
+      "longitude": 6.26656,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 44,
+      "name": "2-13",
+      "latitude": 51.93187,
+      "longitude": 6.269618,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 45,
+      "name": "2-130",
+      "latitude": 51.930711,
+      "longitude": 6.266731,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 46,
+      "name": "2-131",
+      "latitude": 51.930873,
+      "longitude": 6.265399,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 47,
+      "name": "2-132",
+      "latitude": 51.930939,
+      "longitude": 6.265349,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 48,
+      "name": "2-133",
+      "latitude": 51.930969,
+      "longitude": 6.26522,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 49,
+      "name": "2-134",
+      "latitude": 51.930935,
+      "longitude": 6.265093,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 50,
+      "name": "2-135",
+      "latitude": 51.930851,
+      "longitude": 6.265048,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 51,
+      "name": "2-136",
+      "latitude": 51.930788,
+      "longitude": 6.265123,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 52,
+      "name": "2-137",
+      "latitude": 51.930771,
+      "longitude": 6.265251,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 53,
+      "name": "2-138",
+      "latitude": 51.930387,
+      "longitude": 6.265741,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 54,
+      "name": "2-139",
+      "latitude": 51.930334,
+      "longitude": 6.265684,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 55,
+      "name": "2-14",
+      "latitude": 51.93179,
+      "longitude": 6.269799,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 56,
+      "name": "2-140",
+      "latitude": 51.930257,
+      "longitude": 6.265689,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 57,
+      "name": "2-141",
+      "latitude": 51.930209,
+      "longitude": 6.265812,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 58,
+      "name": "2-142",
+      "latitude": 51.930218,
+      "longitude": 6.265925,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 59,
+      "name": "2-143",
+      "latitude": 51.930284,
+      "longitude": 6.26599,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 60,
+      "name": "2-144",
+      "latitude": 51.930368,
+      "longitude": 6.265949,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 61,
+      "name": "2-145",
+      "latitude": 51.93133,
+      "longitude": 6.264734,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 62,
+      "name": "2-146",
+      "latitude": 51.931403,
+      "longitude": 6.264765,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 63,
+      "name": "2-147",
+      "latitude": 51.931477,
+      "longitude": 6.264748,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 64,
+      "name": "2-148",
+      "latitude": 51.931517,
+      "longitude": 6.264609,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 65,
+      "name": "2-149",
+      "latitude": 51.93147,
+      "longitude": 6.264488,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 66,
+      "name": "2-15",
+      "latitude": 51.931857,
+      "longitude": 6.269694,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 67,
+      "name": "2-150",
+      "latitude": 51.931383,
+      "longitude": 6.26448,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 68,
+      "name": "2-151",
+      "latitude": 51.93133,
+      "longitude": 6.264524,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 69,
+      "name": "2-152",
+      "latitude": 51.93166,
+      "longitude": 6.265499,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 70,
+      "name": "2-153",
+      "latitude": 51.931744,
+      "longitude": 6.26554,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 71,
+      "name": "2-154",
+      "latitude": 51.931798,
+      "longitude": 6.265524,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 72,
+      "name": "2-155",
+      "latitude": 51.93184,
+      "longitude": 6.265391,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 73,
+      "name": "2-156",
+      "latitude": 51.931801,
+      "longitude": 6.265263,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 74,
+      "name": "2-157",
+      "latitude": 51.931716,
+      "longitude": 6.265235,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 75,
+      "name": "2-158",
+      "latitude": 51.931644,
+      "longitude": 6.265324,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 76,
+      "name": "2-159",
+      "latitude": 51.931578,
+      "longitude": 6.26596,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 77,
+      "name": "2-16",
+      "latitude": 51.931776,
+      "longitude": 6.270009,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 78,
+      "name": "2-160",
+      "latitude": 51.930673,
+      "longitude": 6.264253,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 79,
+      "name": "2-161",
+      "latitude": 51.930614,
+      "longitude": 6.264144,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 80,
+      "name": "2-162",
+      "latitude": 51.930525,
+      "longitude": 6.264129,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 81,
+      "name": "2-163",
+      "latitude": 51.930475,
+      "longitude": 6.264225,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 82,
+      "name": "2-164",
+      "latitude": 51.930475,
+      "longitude": 6.264349,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 83,
+      "name": "2-165",
+      "latitude": 51.93054,
+      "longitude": 6.264442,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 84,
+      "name": "2-166",
+      "latitude": 51.930621,
+      "longitude": 6.264422,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 85,
+      "name": "2-167",
+      "latitude": 51.93111,
+      "longitude": 6.263879,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 86,
+      "name": "2-168",
+      "latitude": 51.931199,
+      "longitude": 6.263863,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 87,
+      "name": "2-169",
+      "latitude": 51.931236,
+      "longitude": 6.263748,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 88,
+      "name": "2-17",
+      "latitude": 51.931864,
+      "longitude": 6.27002,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 89,
+      "name": "2-170",
+      "latitude": 51.931224,
+      "longitude": 6.263623,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 90,
+      "name": "2-171",
+      "latitude": 51.93116,
+      "longitude": 6.263549,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 91,
+      "name": "2-172",
+      "latitude": 51.931075,
+      "longitude": 6.263587,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 92,
+      "name": "2-173",
+      "latitude": 51.931044,
+      "longitude": 6.263741,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 93,
+      "name": "2-174",
+      "latitude": 51.930483,
+      "longitude": 6.26333,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 94,
+      "name": "2-175",
+      "latitude": 51.930418,
+      "longitude": 6.263239,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 95,
+      "name": "2-176",
+      "latitude": 51.930344,
+      "longitude": 6.263234,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 96,
+      "name": "2-177",
+      "latitude": 51.930286,
+      "longitude": 6.26333,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 97,
+      "name": "2-178",
+      "latitude": 51.930362,
+      "longitude": 6.263548,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 98,
+      "name": "2-179",
+      "latitude": 51.930446,
+      "longitude": 6.263524,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 99,
+      "name": "2-18",
+      "latitude": 51.931733,
+      "longitude": 6.270207,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 100,
+      "name": "2-1808",
+      "latitude": 51.930941,
+      "longitude": 6.26301,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 101,
+      "name": "2-181",
+      "latitude": 51.931013,
+      "longitude": 6.262966,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 102,
+      "name": "2-182",
+      "latitude": 51.931057,
+      "longitude": 6.26289,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 103,
+      "name": "2-183",
+      "latitude": 51.931046,
+      "longitude": 6.262755,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 104,
+      "name": "2-184",
+      "latitude": 51.930974,
+      "longitude": 6.262667,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 105,
+      "name": "2-185",
+      "latitude": 51.930904,
+      "longitude": 6.262707,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 106,
+      "name": "2-186",
+      "latitude": 51.93086,
+      "longitude": 6.26286,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 107,
+      "name": "2-187",
+      "latitude": 51.93029,
+      "longitude": 6.262334,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 108,
+      "name": "2-188",
+      "latitude": 51.930228,
+      "longitude": 6.262233,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 109,
+      "name": "2-189",
+      "latitude": 51.930136,
+      "longitude": 6.262223,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 110,
+      "name": "2-19",
+      "latitude": 51.931816,
+      "longitude": 6.270213,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 111,
+      "name": "2-190",
+      "latitude": 51.930087,
+      "longitude": 6.2623,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 112,
+      "name": "2-191",
+      "latitude": 51.930089,
+      "longitude": 6.262448,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 113,
+      "name": "2-193",
+      "latitude": 51.93023,
+      "longitude": 6.262509,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 114,
+      "name": "2-194",
+      "latitude": 51.930748,
+      "longitude": 6.262128,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 115,
+      "name": "2-195",
+      "latitude": 51.93083,
+      "longitude": 6.262094,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 116,
+      "name": "2-196",
+      "latitude": 51.930875,
+      "longitude": 6.262011,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 117,
+      "name": "2-197",
+      "latitude": 51.930869,
+      "longitude": 6.261874,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 118,
+      "name": "2-198",
+      "latitude": 51.930799,
+      "longitude": 6.261815,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 119,
+      "name": "2-199",
+      "latitude": 51.930719,
+      "longitude": 6.26184,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 120,
+      "name": "2-19´2",
+      "latitude": 51.930149,
+      "longitude": 6.262546,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 121,
+      "name": "2-2",
+      "latitude": 51.93149,
+      "longitude": 6.268483,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 122,
+      "name": "2-20",
+      "latitude": 51.931675,
+      "longitude": 6.2704,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 123,
+      "name": "2-200",
+      "latitude": 51.93068,
+      "longitude": 6.261975,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 124,
+      "name": "2-201",
+      "latitude": 51.93058,
+      "longitude": 6.261247,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 125,
+      "name": "2-202",
+      "latitude": 51.930655,
+      "longitude": 6.261225,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 126,
+      "name": "2-203",
+      "latitude": 51.930699,
+      "longitude": 6.26113,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 127,
+      "name": "2-204",
+      "latitude": 51.93069,
+      "longitude": 6.260997,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 128,
+      "name": "2-205",
+      "latitude": 51.930627,
+      "longitude": 6.26091,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 129,
+      "name": "2-206",
+      "latitude": 51.930546,
+      "longitude": 6.260945,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 130,
+      "name": "2-207",
+      "latitude": 51.930511,
+      "longitude": 6.261095,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 131,
+      "name": "2-208",
+      "latitude": 51.93008,
+      "longitude": 6.261318,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 132,
+      "name": "2-209",
+      "latitude": 51.930022,
+      "longitude": 6.261219,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 133,
+      "name": "2-21",
+      "latitude": 51.931765,
+      "longitude": 6.270415,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 134,
+      "name": "2-210",
+      "latitude": 51.929938,
+      "longitude": 6.261217,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 135,
+      "name": "2-211",
+      "latitude": 51.929879,
+      "longitude": 6.261301,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 136,
+      "name": "2-212",
+      "latitude": 51.929896,
+      "longitude": 6.261446,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 137,
+      "name": "2-213",
+      "latitude": 51.929948,
+      "longitude": 6.261528,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 138,
+      "name": "2-214",
+      "latitude": 51.930035,
+      "longitude": 6.261498,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 139,
+      "name": "2-215",
+      "latitude": 51.929893,
+      "longitude": 6.262,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 140,
+      "name": "2-216",
+      "latitude": 51.929658,
+      "longitude": 6.261892,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 141,
+      "name": "2-217",
+      "latitude": 51.929623,
+      "longitude": 6.262053,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 142,
+      "name": "2-218",
+      "latitude": 51.929836,
+      "longitude": 6.262217,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 143,
+      "name": "2-219",
+      "latitude": 51.929814,
+      "longitude": 6.262405,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 144,
+      "name": "2-22",
+      "latitude": 51.931608,
+      "longitude": 6.270613,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 145,
+      "name": "2-220",
+      "latitude": 51.929558,
+      "longitude": 6.262401,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 146,
+      "name": "2-221",
+      "latitude": 51.929576,
+      "longitude": 6.262613,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 147,
+      "name": "2-222",
+      "latitude": 51.929589,
+      "longitude": 6.262694,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 148,
+      "name": "2-223",
+      "latitude": 51.929736,
+      "longitude": 6.262989,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 149,
+      "name": "2-224",
+      "latitude": 51.929847,
+      "longitude": 6.262633,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 150,
+      "name": "2-225",
+      "latitude": 51.929904,
+      "longitude": 6.262779,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 151,
+      "name": "2-226",
+      "latitude": 51.929987,
+      "longitude": 6.262895,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 152,
+      "name": "2-227",
+      "latitude": 51.930097,
+      "longitude": 6.262948,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 153,
+      "name": "2-23",
+      "latitude": 51.931689,
+      "longitude": 6.270599,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 154,
+      "name": "2-24",
+      "latitude": 51.931539,
+      "longitude": 6.270799,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 155,
+      "name": "2-25",
+      "latitude": 51.931636,
+      "longitude": 6.2708,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 156,
+      "name": "2-26",
+      "latitude": 51.931689,
+      "longitude": 6.271029,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 157,
+      "name": "2-27",
+      "latitude": 51.931575,
+      "longitude": 6.270981,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 158,
+      "name": "2-29",
+      "latitude": 51.931332,
+      "longitude": 6.270931,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 159,
+      "name": "2-3",
+      "latitude": 51.93165,
+      "longitude": 6.268697,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 160,
+      "name": "2-30",
+      "latitude": 51.931207,
+      "longitude": 6.270894,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 161,
+      "name": "2-31",
+      "latitude": 51.931245,
+      "longitude": 6.270643,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 162,
+      "name": "2-32",
+      "latitude": 51.931143,
+      "longitude": 6.270718,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 163,
+      "name": "2-33",
+      "latitude": 51.931312,
+      "longitude": 6.27044,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 164,
+      "name": "2-34",
+      "latitude": 51.931217,
+      "longitude": 6.270527,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 165,
+      "name": "2-35",
+      "latitude": 51.931376,
+      "longitude": 6.270233,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 166,
+      "name": "2-36",
+      "latitude": 51.931281,
+      "longitude": 6.270341,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 167,
+      "name": "2-37",
+      "latitude": 51.931446,
+      "longitude": 6.270045,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 168,
+      "name": "2-38",
+      "latitude": 51.931351,
+      "longitude": 6.270137,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 169,
+      "name": "2-39",
+      "latitude": 51.931464,
+      "longitude": 6.269851,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 170,
+      "name": "2-4",
+      "latitude": 51.931548,
+      "longitude": 6.268646,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 171,
+      "name": "2-40",
+      "latitude": 51.931394,
+      "longitude": 6.269924,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 172,
+      "name": "2-41",
+      "latitude": 51.931476,
+      "longitude": 6.269656,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 173,
+      "name": "2-42",
+      "latitude": 51.931417,
+      "longitude": 6.269706,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 174,
+      "name": "2-43",
+      "latitude": 51.93147,
+      "longitude": 6.269454,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 175,
+      "name": "2-44",
+      "latitude": 51.931398,
+      "longitude": 6.269489,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 176,
+      "name": "2-45",
+      "latitude": 51.93142,
+      "longitude": 6.269296,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 177,
+      "name": "2-46",
+      "latitude": 51.931314,
+      "longitude": 6.269194,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 178,
+      "name": "2-47",
+      "latitude": 51.931348,
+      "longitude": 6.269114,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 179,
+      "name": "2-48",
+      "latitude": 51.931278,
+      "longitude": 6.268955,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 180,
+      "name": "2-49",
+      "latitude": 51.931085,
+      "longitude": 6.270877,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 181,
+      "name": "2-5",
+      "latitude": 51.931741,
+      "longitude": 6.268894,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 182,
+      "name": "2-50",
+      "latitude": 51.930955,
+      "longitude": 6.270856,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 183,
+      "name": "2-51",
+      "latitude": 51.930852,
+      "longitude": 6.270792,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 184,
+      "name": "2-52",
+      "latitude": 51.930787,
+      "longitude": 6.270684,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 185,
+      "name": "2-53",
+      "latitude": 51.930769,
+      "longitude": 6.270621,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 186,
+      "name": "2-54",
+      "latitude": 51.930949,
+      "longitude": 6.270342,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 187,
+      "name": "2-55",
+      "latitude": 51.930816,
+      "longitude": 6.270456,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 188,
+      "name": "2-56",
+      "latitude": 51.931008,
+      "longitude": 6.270159,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 189,
+      "name": "2-57",
+      "latitude": 51.930877,
+      "longitude": 6.270268,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 190,
+      "name": "2-58",
+      "latitude": 51.931069,
+      "longitude": 6.269976,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 191,
+      "name": "2-59",
+      "latitude": 51.930945,
+      "longitude": 6.270065,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 192,
+      "name": "2-6",
+      "latitude": 51.931626,
+      "longitude": 6.268818,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 193,
+      "name": "2-60",
+      "latitude": 51.931078,
+      "longitude": 6.26977,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 194,
+      "name": "2-61",
+      "latitude": 51.93107,
+      "longitude": 6.269595,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 195,
+      "name": "2-62",
+      "latitude": 51.931058,
+      "longitude": 6.269412,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 196,
+      "name": "2-64",
+      "latitude": 51.931352,
+      "longitude": 6.267737,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 197,
+      "name": "2-65",
+      "latitude": 51.931206,
+      "longitude": 6.267996,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 198,
+      "name": "2-66",
+      "latitude": 51.93108,
+      "longitude": 6.268061,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 199,
+      "name": "2-67",
+      "latitude": 51.931074,
+      "longitude": 6.268202,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 200,
+      "name": "2-68",
+      "latitude": 51.930964,
+      "longitude": 6.268129,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 201,
+      "name": "2-69",
+      "latitude": 51.930953,
+      "longitude": 6.268274,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 202,
+      "name": "2-7",
+      "latitude": 51.931817,
+      "longitude": 6.26907,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 203,
+      "name": "2-70",
+      "latitude": 51.930855,
+      "longitude": 6.268238,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 204,
+      "name": "2-71",
+      "latitude": 51.930848,
+      "longitude": 6.268407,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 205,
+      "name": "2-72",
+      "latitude": 51.930757,
+      "longitude": 6.268362,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 206,
+      "name": "2-73",
+      "latitude": 51.930751,
+      "longitude": 6.268542,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 207,
+      "name": "2-74",
+      "latitude": 51.930659,
+      "longitude": 6.268493,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 208,
+      "name": "2-752",
+      "latitude": 51.930657,
+      "longitude": 6.268657,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 209,
+      "name": "2-76",
+      "latitude": 51.930546,
+      "longitude": 6.268586,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 210,
+      "name": "2-77",
+      "latitude": 51.930586,
+      "longitude": 6.268678,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 211,
+      "name": "2-78",
+      "latitude": 51.930449,
+      "longitude": 6.268676,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 212,
+      "name": "2-79",
+      "latitude": 51.9305,
+      "longitude": 6.268788,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 213,
+      "name": "2-8",
+      "latitude": 51.931697,
+      "longitude": 6.268996,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 214,
+      "name": "2-80",
+      "latitude": 51.930345,
+      "longitude": 6.268817,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 215,
+      "name": "2-81",
+      "latitude": 51.930392,
+      "longitude": 6.268922,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 216,
+      "name": "2-82",
+      "latitude": 51.930256,
+      "longitude": 6.268972,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 217,
+      "name": "2-83",
+      "latitude": 51.930317,
+      "longitude": 6.26912,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 218,
+      "name": "2-84",
+      "latitude": 51.930191,
+      "longitude": 6.269051,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 219,
+      "name": "2-85",
+      "latitude": 51.930087,
+      "longitude": 6.269095,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 220,
+      "name": "2-86",
+      "latitude": 51.930186,
+      "longitude": 6.269178,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 221,
+      "name": "2-87",
+      "latitude": 51.930218,
+      "longitude": 6.269309,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 222,
+      "name": "2-88",
+      "latitude": 51.930278,
+      "longitude": 6.26949,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 223,
+      "name": "2-89",
+      "latitude": 51.930345,
+      "longitude": 6.269654,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 224,
+      "name": "2-89",
+      "latitude": 51.931458,
+      "longitude": 6.270953,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 225,
+      "name": "2-9",
+      "latitude": 51.931847,
+      "longitude": 6.269156,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 226,
+      "name": "2-90",
+      "latitude": 51.930438,
+      "longitude": 6.269793,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 227,
+      "name": "2-91",
+      "latitude": 51.930533,
+      "longitude": 6.270012,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 228,
+      "name": "2-92",
+      "latitude": 51.930521,
+      "longitude": 6.269584,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 229,
+      "name": "2-93",
+      "latitude": 51.930552,
+      "longitude": 6.26975,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 230,
+      "name": "2-94",
+      "latitude": 51.930532,
+      "longitude": 6.269459,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 231,
+      "name": "2-95",
+      "latitude": 51.930626,
+      "longitude": 6.269497,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 232,
+      "name": "2-96",
+      "latitude": 51.930608,
+      "longitude": 6.269281,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 233,
+      "name": "2-97",
+      "latitude": 51.93075,
+      "longitude": 6.269298,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 234,
+      "name": "2-98",
+      "latitude": 51.930713,
+      "longitude": 6.269186,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 235,
+      "name": "2-99",
+      "latitude": 51.930887,
+      "longitude": 6.269159,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 236,
+      "name": "28-NLN-2",
+      "latitude": 52.502273,
+      "longitude": 4.987526,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 237,
+      "name": "29-KGJ-9",
+      "latitude": 52.345322,
+      "longitude": 4.813489,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 238,
+      "name": "3",
+      "latitude": 51.868309,
+      "longitude": 4.279952,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 239,
+      "name": "3",
+      "latitude": 53.195062,
+      "longitude": 5.751901,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 240,
+      "name": "3-SKF-44",
+      "latitude": 52.348626,
+      "longitude": 4.814898,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 241,
+      "name": "30",
+      "latitude": 52.768796,
+      "longitude": 4.754135,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 242,
+      "name": "31",
+      "latitude": 52.768821,
+      "longitude": 4.754111,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 243,
+      "name": "31-JKN-5",
+      "latitude": 52.345278,
+      "longitude": 4.813845,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 244,
+      "name": "31-RR-TX",
+      "latitude": 52.503026,
+      "longitude": 4.982779,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 245,
+      "name": "32",
+      "latitude": 52.768847,
+      "longitude": 4.754088,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 246,
+      "name": "32-RTV-2",
+      "latitude": 51.911627,
+      "longitude": 4.493642,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 247,
+      "name": "33",
+      "latitude": 52.768872,
+      "longitude": 4.754065,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 248,
+      "name": "34",
+      "latitude": 52.768897,
+      "longitude": 4.754042,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 249,
+      "name": "34-KJS-9",
+      "latitude": 52.661762,
+      "longitude": 4.815363,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 250,
+      "name": "34-NX-JH",
+      "latitude": 52.318408,
+      "longitude": 4.647318,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 251,
+      "name": "35",
+      "latitude": 52.768923,
+      "longitude": 4.754018,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 252,
+      "name": "37-NN-DK",
+      "latitude": 52.66169,
+      "longitude": 4.815244,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 253,
+      "name": "38-HR-BP",
+      "latitude": 52.50449,
+      "longitude": 4.979145,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 254,
+      "name": "39",
+      "latitude": 52.769297,
+      "longitude": 4.753675,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 255,
+      "name": "4",
+      "latitude": 53.195048,
+      "longitude": 5.751798,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 256,
+      "name": "40",
+      "latitude": 52.769319,
+      "longitude": 4.753654,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 257,
+      "name": "40-HB-RJ",
+      "latitude": 52.3453,
+      "longitude": 4.813263,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 258,
+      "name": "40-LJ-FB",
+      "latitude": 52.504202,
+      "longitude": 4.981777,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 259,
+      "name": "41",
+      "latitude": 52.769341,
+      "longitude": 4.753632,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 260,
+      "name": "41-GF-ZS",
+      "latitude": 52.510269,
+      "longitude": 4.985918,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 261,
+      "name": "42",
+      "latitude": 52.769364,
+      "longitude": 4.753611,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 262,
+      "name": "43",
+      "latitude": 52.769386,
+      "longitude": 4.75359,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 263,
+      "name": "44",
+      "latitude": 52.769409,
+      "longitude": 4.753569,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 264,
+      "name": "45",
+      "latitude": 52.769617,
+      "longitude": 4.753324,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 265,
+      "name": "46",
+      "latitude": 52.769644,
+      "longitude": 4.753298,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 266,
+      "name": "47",
+      "latitude": 52.769672,
+      "longitude": 4.753273,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 267,
+      "name": "48",
+      "latitude": 52.769699,
+      "longitude": 4.753247,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 268,
+      "name": "48-TS-SF",
+      "latitude": 52.995792,
+      "longitude": 6.558273,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 269,
+      "name": "49",
+      "latitude": 52.769726,
+      "longitude": 4.753222,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 270,
+      "name": "49-GT-JX",
+      "latitude": 52.504885,
+      "longitude": 4.979758,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 271,
+      "name": "49-SX-TB",
+      "latitude": 52.354525,
+      "longitude": 4.793791,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 272,
+      "name": "5",
+      "latitude": 51.870858,
+      "longitude": 4.265568,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 273,
+      "name": "5",
+      "latitude": 53.195027,
+      "longitude": 5.751634,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 274,
+      "name": "57-XX-FR",
+      "latitude": 52.498483,
+      "longitude": 4.98542,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 275,
+      "name": "58-LB-DS",
+      "latitude": 52.505951,
+      "longitude": 4.98393,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 276,
+      "name": "6",
+      "latitude": 53.195014,
+      "longitude": 5.751534,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 277,
+      "name": "62",
+      "latitude": 51.8686,
+      "longitude": 4.280355,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 278,
+      "name": "62-XE-RS",
+      "latitude": 52.499131,
+      "longitude": 4.984469,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 279,
+      "name": "63",
+      "latitude": 51.8686,
+      "longitude": 4.280393,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 280,
+      "name": "63-NKR-1",
+      "latitude": 51.915633,
+      "longitude": 4.501276,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 281,
+      "name": "65-RJL-2",
+      "latitude": 52.510149,
+      "longitude": 4.984403,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 282,
+      "name": "67-LLT-5",
+      "latitude": 52.502606,
+      "longitude": 4.98393,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 283,
+      "name": "7",
+      "latitude": 53.194993,
+      "longitude": 5.751374,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 284,
+      "name": "7-XJH-61",
+      "latitude": 52.506181,
+      "longitude": 4.985933,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 285,
+      "name": "70-ZPZ-4",
+      "latitude": 52.345344,
+      "longitude": 4.813848,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 286,
+      "name": "73-LG-GG",
+      "latitude": 52.995737,
+      "longitude": 6.558302,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 287,
+      "name": "76-TG-JN",
+      "latitude": 52.504375,
+      "longitude": 4.985378,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 288,
+      "name": "76-ZH-FH",
+      "latitude": 52.504956,
+      "longitude": 4.982265,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 289,
+      "name": "79-JKN-7",
+      "latitude": 52.509021,
+      "longitude": 4.981253,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 290,
+      "name": "8",
+      "latitude": 53.194979,
+      "longitude": 5.75127,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 291,
+      "name": "8-XVH-60",
+      "latitude": 52.497992,
+      "longitude": 4.984256,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 292,
+      "name": "81-GDP-3",
+      "latitude": 52.345307,
+      "longitude": 4.813334,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 293,
+      "name": "82-RT-TX",
+      "latitude": 52.510743,
+      "longitude": 4.985639,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 294,
+      "name": "9",
+      "latitude": 53.195009,
+      "longitude": 5.751093,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 295,
+      "name": "9-KFT-48",
+      "latitude": 52.503203,
+      "longitude": 4.982292,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 296,
+      "name": "9-SLG-55",
+      "latitude": 52.499663,
+      "longitude": 4.983948,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 297,
+      "name": "9-SVR-72",
+      "latitude": 52.505979,
+      "longitude": 4.98558,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 298,
+      "name": "9-TXJ-89",
+      "latitude": 52.506969,
+      "longitude": 4.987564,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 299,
+      "name": "91-NSN-6",
+      "latitude": 52.508612,
+      "longitude": 4.986559,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 300,
+      "name": "93-XZ-PH",
+      "latitude": 52.498846,
+      "longitude": 4.982764,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 301,
+      "name": "Autodate",
+      "latitude": 52.037454,
+      "longitude": 4.363216,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 302,
+      "name": "Autodate",
+      "latitude": 52.069419,
+      "longitude": 4.250815,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 303,
+      "name": "Autodate",
+      "latitude": 52.076898,
+      "longitude": 4.302424,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 304,
+      "name": "Autodate",
+      "latitude": 52.0789,
+      "longitude": 4.292145,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 305,
+      "name": "Autodate",
+      "latitude": 52.080156,
+      "longitude": 4.297171,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 306,
+      "name": "Autodate",
+      "latitude": 52.083057,
+      "longitude": 4.282798,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 307,
+      "name": "Autodate",
+      "latitude": 52.083547,
+      "longitude": 4.279757,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 308,
+      "name": "Autodate",
+      "latitude": 52.084357,
+      "longitude": 4.29635,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 309,
+      "name": "Autodate",
+      "latitude": 52.345889,
+      "longitude": 4.924124,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 310,
+      "name": "D-090-BR",
+      "latitude": 52.503554,
+      "longitude": 4.981707,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 311,
+      "name": "DEEL",
+      "latitude": 52.069586,
+      "longitude": 4.257908,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 312,
+      "name": "DEEL",
+      "latitude": 52.070073,
+      "longitude": 4.252516,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 313,
+      "name": "DEEL",
+      "latitude": 52.079158,
+      "longitude": 4.271606,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 314,
+      "name": "Deel",
+      "latitude": 52.074542,
+      "longitude": 4.271462,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 315,
+      "name": "G-543-PX",
+      "latitude": 52.349267,
+      "longitude": 4.81488,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 316,
+      "name": "G-582-DN",
+      "latitude": 52.506202,
+      "longitude": 4.985937,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 317,
+      "name": "Gerritslanderdijkje 80",
+      "latitude": 53.069656,
+      "longitude": 4.759915,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 318,
+      "name": "Gerritslanderdijkje 82",
+      "latitude": 53.069554,
+      "longitude": 4.759695,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 319,
+      "name": "Gerritslanderdijkje 84",
+      "latitude": 53.069393,
+      "longitude": 4.759309,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 320,
+      "name": "Gerritslanderdijkje 86",
+      "latitude": 53.069372,
+      "longitude": 4.759253,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 321,
+      "name": "Gerritslanderdijkje 88",
+      "latitude": 53.069222,
+      "longitude": 4.758869,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 322,
+      "name": "Gerritslanderdijkje 92",
+      "latitude": 53.069027,
+      "longitude": 4.75842,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 323,
+      "name": "Greenwheels",
+      "latitude": 51.847233,
+      "longitude": 5.86696,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 324,
+      "name": "Greenwheels",
+      "latitude": 51.926156,
+      "longitude": 4.236053,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 325,
+      "name": "Greenwheels",
+      "latitude": 52.041782,
+      "longitude": 4.313076,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 326,
+      "name": "Greenwheels",
+      "latitude": 52.047101,
+      "longitude": 4.341405,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 327,
+      "name": "Greenwheels",
+      "latitude": 52.059289,
+      "longitude": 4.242724,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 328,
+      "name": "Greenwheels",
+      "latitude": 52.062337,
+      "longitude": 4.312302,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 329,
+      "name": "Greenwheels",
+      "latitude": 52.066687,
+      "longitude": 4.256101,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 330,
+      "name": "Greenwheels",
+      "latitude": 52.067786,
+      "longitude": 4.286499,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 331,
+      "name": "Greenwheels",
+      "latitude": 52.072942,
+      "longitude": 4.305833,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 332,
+      "name": "Greenwheels",
+      "latitude": 52.074236,
+      "longitude": 4.277799,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 333,
+      "name": "Greenwheels",
+      "latitude": 52.074541,
+      "longitude": 4.30734,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 334,
+      "name": "Greenwheels",
+      "latitude": 52.07498,
+      "longitude": 4.260067,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 335,
+      "name": "Greenwheels",
+      "latitude": 52.078076,
+      "longitude": 4.304422,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 336,
+      "name": "Greenwheels",
+      "latitude": 52.078526,
+      "longitude": 4.280515,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 337,
+      "name": "Greenwheels",
+      "latitude": 52.081426,
+      "longitude": 4.251261,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 338,
+      "name": "Greenwheels",
+      "latitude": 52.085329,
+      "longitude": 4.301417,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 339,
+      "name": "Greenwheels",
+      "latitude": 52.086126,
+      "longitude": 5.135303,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 340,
+      "name": "Greenwheels",
+      "latitude": 52.088909,
+      "longitude": 4.337258,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 341,
+      "name": "Greenwheels",
+      "latitude": 52.091569,
+      "longitude": 4.265984,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 342,
+      "name": "Greenwheels",
+      "latitude": 52.09248,
+      "longitude": 4.366186,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 343,
+      "name": "Greenwheels",
+      "latitude": 52.114023,
+      "longitude": 4.287636,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 344,
+      "name": "H-572-PZ",
+      "latitude": 52.34921,
+      "longitude": 4.814882,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 345,
+      "name": "H-847-PR",
+      "latitude": 52.507409,
+      "longitude": 4.981116,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 346,
+      "name": "H1",
+      "latitude": 51.392799,
+      "longitude": 3.488338,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 347,
+      "name": "H10",
+      "latitude": 51.392462,
+      "longitude": 3.489411,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 348,
+      "name": "H11",
+      "latitude": 51.392379,
+      "longitude": 3.489557,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 349,
+      "name": "H12",
+      "latitude": 51.392417,
+      "longitude": 3.489677,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 350,
+      "name": "H13",
+      "latitude": 51.39229,
+      "longitude": 3.489832,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 351,
+      "name": "H14",
+      "latitude": 51.392316,
+      "longitude": 3.490023,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 352,
+      "name": "H15",
+      "latitude": 51.392146,
+      "longitude": 3.49005,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 353,
+      "name": "H16",
+      "latitude": 51.39223,
+      "longitude": 3.490235,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 354,
+      "name": "H17",
+      "latitude": 51.392165,
+      "longitude": 3.490349,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 355,
+      "name": "H18",
+      "latitude": 51.39212,
+      "longitude": 3.490459,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 356,
+      "name": "H19",
+      "latitude": 51.392077,
+      "longitude": 3.490586,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 357,
+      "name": "H2",
+      "latitude": 51.392753,
+      "longitude": 3.488475,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 358,
+      "name": "H20",
+      "latitude": 51.392046,
+      "longitude": 3.490733,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 359,
+      "name": "H22",
+      "latitude": 51.392459,
+      "longitude": 3.488501,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 360,
+      "name": "H23",
+      "latitude": 51.392364,
+      "longitude": 3.488581,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 361,
+      "name": "H24",
+      "latitude": 51.39229,
+      "longitude": 3.488691,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 362,
+      "name": "H25",
+      "latitude": 51.392248,
+      "longitude": 3.488777,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 363,
+      "name": "H26",
+      "latitude": 51.392215,
+      "longitude": 3.488921,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 364,
+      "name": "H27",
+      "latitude": 51.39218,
+      "longitude": 3.489139,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 365,
+      "name": "H28",
+      "latitude": 51.392159,
+      "longitude": 3.489312,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 366,
+      "name": "H29",
+      "latitude": 51.392148,
+      "longitude": 3.489468,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 367,
+      "name": "H3",
+      "latitude": 51.392715,
+      "longitude": 3.488625,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 368,
+      "name": "H30",
+      "latitude": 51.392156,
+      "longitude": 3.489625,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 369,
+      "name": "H32",
+      "latitude": 51.391951,
+      "longitude": 3.489953,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 370,
+      "name": "H34",
+      "latitude": 51.391853,
+      "longitude": 3.490234,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 371,
+      "name": "H35",
+      "latitude": 51.391848,
+      "longitude": 3.490441,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 372,
+      "name": "H36",
+      "latitude": 51.39267,
+      "longitude": 3.487876,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 373,
+      "name": "H37",
+      "latitude": 51.392546,
+      "longitude": 3.487901,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 374,
+      "name": "H38",
+      "latitude": 51.392435,
+      "longitude": 3.488014,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 375,
+      "name": "H39",
+      "latitude": 51.39236,
+      "longitude": 3.487928,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 376,
+      "name": "H4",
+      "latitude": 51.392677,
+      "longitude": 3.488741,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 377,
+      "name": "H40",
+      "latitude": 51.392243,
+      "longitude": 3.487947,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 378,
+      "name": "H41",
+      "latitude": 51.392191,
+      "longitude": 3.488135,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 379,
+      "name": "H42",
+      "latitude": 51.392096,
+      "longitude": 3.488138,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 380,
+      "name": "H43",
+      "latitude": 51.392009,
+      "longitude": 3.487978,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 381,
+      "name": "H44",
+      "latitude": 51.391912,
+      "longitude": 3.488011,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 382,
+      "name": "H45",
+      "latitude": 51.391852,
+      "longitude": 3.488202,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 383,
+      "name": "H46",
+      "latitude": 51.391852,
+      "longitude": 3.488472,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 384,
+      "name": "H47",
+      "latitude": 51.391848,
+      "longitude": 3.488604,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 385,
+      "name": "H48",
+      "latitude": 51.391827,
+      "longitude": 3.488785,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 386,
+      "name": "H49",
+      "latitude": 51.391906,
+      "longitude": 3.488924,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 387,
+      "name": "H5",
+      "latitude": 51.39263,
+      "longitude": 3.488883,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 388,
+      "name": "H50",
+      "latitude": 51.391829,
+      "longitude": 3.489102,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 389,
+      "name": "H51",
+      "latitude": 51.391817,
+      "longitude": 3.48923,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 390,
+      "name": "H52",
+      "latitude": 51.391824,
+      "longitude": 3.489416,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 391,
+      "name": "H53",
+      "latitude": 51.391824,
+      "longitude": 3.489553,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 392,
+      "name": "H54",
+      "latitude": 51.391812,
+      "longitude": 3.48971,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 393,
+      "name": "H55",
+      "latitude": 51.391944,
+      "longitude": 3.489842,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 394,
+      "name": "H56",
+      "latitude": 51.392513,
+      "longitude": 3.488313,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 395,
+      "name": "H57",
+      "latitude": 51.3924,
+      "longitude": 3.48836,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 396,
+      "name": "H58",
+      "latitude": 51.392322,
+      "longitude": 3.488452,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 397,
+      "name": "H59",
+      "latitude": 51.392201,
+      "longitude": 3.488422,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 398,
+      "name": "H6",
+      "latitude": 51.392508,
+      "longitude": 3.488883,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 399,
+      "name": "H60",
+      "latitude": 51.392218,
+      "longitude": 3.488615,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 400,
+      "name": "H61",
+      "latitude": 51.392065,
+      "longitude": 3.488627,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 401,
+      "name": "H62",
+      "latitude": 51.392128,
+      "longitude": 3.488776,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 402,
+      "name": "H63",
+      "latitude": 51.392102,
+      "longitude": 3.488948,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 403,
+      "name": "H64",
+      "latitude": 51.3921,
+      "longitude": 3.489132,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 404,
+      "name": "H65",
+      "latitude": 51.392081,
+      "longitude": 3.489295,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 405,
+      "name": "H66",
+      "latitude": 51.392068,
+      "longitude": 3.489462,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 406,
+      "name": "H67",
+      "latitude": 51.392046,
+      "longitude": 3.489595,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 407,
+      "name": "H7",
+      "latitude": 51.392437,
+      "longitude": 3.489013,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 408,
+      "name": "H8",
+      "latitude": 51.392533,
+      "longitude": 3.489175,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 409,
+      "name": "H9",
+      "latitude": 51.39239,
+      "longitude": 3.48924,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 410,
+      "name": "HL-483-F",
+      "latitude": 52.509385,
+      "longitude": 4.982485,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 411,
+      "name": "HX-130-R",
+      "latitude": 52.510448,
+      "longitude": 4.98493,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 412,
+      "name": "Henri Jonasplein",
+      "latitude": 50.85209,
+      "longitude": 6.067209,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 413,
+      "name": "Hongerlandsedijk",
+      "latitude": 51.852878,
+      "longitude": 4.342952,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 414,
+      "name": "Hongerlandsedijk",
+      "latitude": 51.853237,
+      "longitude": 4.342467,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 415,
+      "name": "Hongerlandsedijk",
+      "latitude": 51.853673,
+      "longitude": 4.341978,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 416,
+      "name": "Hotel Paasberg",
+      "latitude": 52.150944,
+      "longitude": 6.414022,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 417,
+      "name": "J-848-XK",
+      "latitude": 52.355213,
+      "longitude": 4.786077,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 418,
+      "name": "JJ-271-D",
+      "latitude": 52.504167,
+      "longitude": 4.98884,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 419,
+      "name": "JV-570-5",
+      "latitude": 52.510357,
+      "longitude": 4.984834,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 420,
+      "name": "Jetse Vos Auto's",
+      "latitude": 51.77765,
+      "longitude": 5.105099,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 421,
+      "name": "K + R",
+      "latitude": 52.397009,
+      "longitude": 4.878147,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 422,
+      "name": "K&R",
+      "latitude": 51.896936,
+      "longitude": 4.523532,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 423,
+      "name": "K+R",
+      "latitude": 52.40093,
+      "longitude": 4.892014,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 424,
+      "name": "K+R",
+      "latitude": 52.962074,
+      "longitude": 4.778106,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 425,
+      "name": "K+R Arnhem Centraal",
+      "latitude": 51.984193,
+      "longitude": 5.900536,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 426,
+      "name": "Kerkeloet",
+      "latitude": 51.909066,
+      "longitude": 4.628338,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 427,
+      "name": "L-531-RB",
+      "latitude": 52.499045,
+      "longitude": 4.984333,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 428,
+      "name": "L4",
+      "latitude": 51.902458,
+      "longitude": 4.368063,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 429,
+      "name": "Mimosapad",
+      "latitude": 50.923735,
+      "longitude": 5.966652,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 430,
+      "name": "MyWheels",
+      "latitude": 51.944636,
+      "longitude": 4.380388,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 431,
+      "name": "Mywheels",
+      "latitude": 52.063381,
+      "longitude": 4.257231,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 432,
+      "name": "Mywheels",
+      "latitude": 52.065748,
+      "longitude": 4.240229,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 433,
+      "name": "Mywheels",
+      "latitude": 52.066667,
+      "longitude": 4.253212,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 434,
+      "name": "Mywheels",
+      "latitude": 52.067137,
+      "longitude": 4.320278,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 435,
+      "name": "Mywheels",
+      "latitude": 52.078044,
+      "longitude": 4.267394,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 436,
+      "name": "N-227-KK",
+      "latitude": 52.502057,
+      "longitude": 4.986117,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 437,
+      "name": "N-881-BZ",
+      "latitude": 52.500114,
+      "longitude": 4.975813,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 438,
+      "name": "OnzeAuto",
+      "latitude": 52.090294,
+      "longitude": 4.313055,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 439,
+      "name": "Onzeauto",
+      "latitude": 52.083997,
+      "longitude": 4.28634,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 440,
+      "name": "Onzeautom",
+      "latitude": 52.062806,
+      "longitude": 4.282273,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 441,
+      "name": "P-156-FS",
+      "latitude": 51.912883,
+      "longitude": 4.495904,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 442,
+      "name": "PK-164-R",
+      "latitude": 52.504957,
+      "longitude": 4.9814,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 443,
+      "name": "PR-095-G",
+      "latitude": 52.501202,
+      "longitude": 4.977313,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 444,
+      "name": "PT-358-D",
+      "latitude": 52.498516,
+      "longitude": 4.982883,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 445,
+      "name": "Pakhuis",
+      "latitude": 52.475565,
+      "longitude": 4.813726,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 446,
+      "name": "Parking for people with disabilities",
+      "latitude": 51.429325,
+      "longitude": 5.48439,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 447,
+      "name": "Pick-Up",
+      "latitude": 51.821213,
+      "longitude": 5.851138,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 448,
+      "name": "Politiebureau Weiersstraat",
+      "latitude": 52.996399,
+      "longitude": 6.5562,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 449,
+      "name": "Public Truck Parking",
+      "latitude": 51.333213,
+      "longitude": 3.496011,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 450,
+      "name": "RD-010-K;S-746-KX",
+      "latitude": 52.498902,
+      "longitude": 4.98193,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 451,
+      "name": "Rapenburg",
+      "latitude": 52.155979,
+      "longitude": 4.491625,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 452,
+      "name": "Rozestraat",
+      "latitude": 50.924024,
+      "longitude": 5.966194,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 453,
+      "name": "SH-570-D",
+      "latitude": 52.507082,
+      "longitude": 4.977957,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 454,
+      "name": "SR-391-F",
+      "latitude": 52.501162,
+      "longitude": 4.977428,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 455,
+      "name": "SZ-544-H",
+      "latitude": 52.507993,
+      "longitude": 4.980135,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 456,
+      "name": "TG-307-X",
+      "latitude": 52.345235,
+      "longitude": 4.812747,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 457,
+      "name": "TT-841-F",
+      "latitude": 52.501969,
+      "longitude": 4.97848,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 458,
+      "name": "Truck Public Parking",
+      "latitude": 51.333833,
+      "longitude": 3.494541,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 459,
+      "name": "VJF-40-D",
+      "latitude": 52.5041,
+      "longitude": 4.985264,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 460,
+      "name": "Vlasmarkt",
+      "latitude": 51.504744,
+      "longitude": 3.888829,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 461,
+      "name": "deelauto",
+      "latitude": 52.074514,
+      "longitude": 4.263065,
+      "osm_klasse": "amenity=parking_space"
+    },
+    {
+      "id": 462,
+      "name": "invalideparkeerplaats",
+      "latitude": 52.400944,
+      "longitude": 4.575901,
+      "osm_klasse": "amenity=parking_space"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: parking space (amenity=parking_space) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=parking_space in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 462 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: parking space (amenity=parking_space) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: parking space (amenity=parking_space) — 462 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 462 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

@@ -1,0 +1,5273 @@
+{
+  "id": "nl-osm-shop-pet",
+  "name": "Netherlands OSM: pet (shop=pet)",
+  "title": "Netherlands OSM: pet (shop=pet)",
+  "description": "Named OpenStreetMap features tagged shop=pet in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 746,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Honk",
+      "latitude": 51.830574,
+      "longitude": 5.813999,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 2,
+      "name": "'t Knabbeltje",
+      "latitude": 51.805398,
+      "longitude": 4.028642,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 3,
+      "name": "'t Ruiterparadijs",
+      "latitude": 52.200357,
+      "longitude": 6.638827,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 4,
+      "name": "'t Vogelparadijs",
+      "latitude": 52.092857,
+      "longitude": 5.128435,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 5,
+      "name": "4 Cats",
+      "latitude": 52.3684,
+      "longitude": 4.902563,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 6,
+      "name": "A.J. Noordhoek Dierenbenodigdheden",
+      "latitude": 52.007807,
+      "longitude": 4.529763,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 7,
+      "name": "ABTB Bijen",
+      "latitude": 52.304077,
+      "longitude": 6.838778,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 8,
+      "name": "Aalbers Dier & Tuin De Meelmuis",
+      "latitude": 51.928638,
+      "longitude": 5.713073,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 9,
+      "name": "Aboriginal Art Amsterdam",
+      "latitude": 52.296287,
+      "longitude": 4.902869,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 10,
+      "name": "Albatros",
+      "latitude": 51.946496,
+      "longitude": 4.853489,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 11,
+      "name": "Alpha Natura",
+      "latitude": 52.700026,
+      "longitude": 6.187863,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 12,
+      "name": "Always Prepared",
+      "latitude": 52.360064,
+      "longitude": 6.46217,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 13,
+      "name": "Ambulia Dierenwinkel",
+      "latitude": 52.385772,
+      "longitude": 4.915752,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 14,
+      "name": "Animal Attraction Reptielen speciaalzaak",
+      "latitude": 52.380273,
+      "longitude": 4.832116,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 15,
+      "name": "Animal Center",
+      "latitude": 51.450584,
+      "longitude": 5.627072,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 16,
+      "name": "Animal Center",
+      "latitude": 51.593451,
+      "longitude": 5.099146,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 17,
+      "name": "Animal Center",
+      "latitude": 51.644299,
+      "longitude": 5.294378,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 18,
+      "name": "Animal Center",
+      "latitude": 51.663603,
+      "longitude": 5.036524,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 19,
+      "name": "Animal Corner",
+      "latitude": 52.017321,
+      "longitude": 4.435507,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 20,
+      "name": "Animal World",
+      "latitude": 51.585168,
+      "longitude": 4.526037,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 21,
+      "name": "Animal world",
+      "latitude": 51.438426,
+      "longitude": 5.458105,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 22,
+      "name": "Animals & More",
+      "latitude": 51.960929,
+      "longitude": 5.860092,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 23,
+      "name": "Animals First",
+      "latitude": 52.044683,
+      "longitude": 4.391788,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 24,
+      "name": "Animo Dierenspeciaalzaak",
+      "latitude": 51.727764,
+      "longitude": 4.43783,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 25,
+      "name": "Anloma",
+      "latitude": 51.899991,
+      "longitude": 4.153499,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 26,
+      "name": "Apport hondensport",
+      "latitude": 51.900507,
+      "longitude": 4.546922,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 27,
+      "name": "Aquarialand",
+      "latitude": 52.522141,
+      "longitude": 6.049659,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 28,
+      "name": "Aquariumhuis Romberg",
+      "latitude": 52.009267,
+      "longitude": 4.352865,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 29,
+      "name": "Aria Dierenspeciaalzaak",
+      "latitude": 52.273103,
+      "longitude": 6.802589,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 30,
+      "name": "Arts&Ants",
+      "latitude": 52.278988,
+      "longitude": 4.782178,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 31,
+      "name": "Atlantis",
+      "latitude": 51.816906,
+      "longitude": 4.647811,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 32,
+      "name": "Aveve",
+      "latitude": 50.859199,
+      "longitude": 6.008091,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 33,
+      "name": "Avicentra Dierenspecialzaak",
+      "latitude": 52.022087,
+      "longitude": 4.170751,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 34,
+      "name": "Avonturia De Vogelkelder",
+      "latitude": 52.052592,
+      "longitude": 4.258768,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 35,
+      "name": "B.D.B. Natuurlijke Diervoeding",
+      "latitude": 51.914645,
+      "longitude": 6.582296,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 36,
+      "name": "Baas en Beest",
+      "latitude": 52.129509,
+      "longitude": 5.037293,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 37,
+      "name": "Barney's Dierenspeciaalzaak",
+      "latitude": 52.142227,
+      "longitude": 4.39312,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 38,
+      "name": "Bea's Dierenboetiek",
+      "latitude": 52.377968,
+      "longitude": 4.631242,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 39,
+      "name": "Beens",
+      "latitude": 51.627163,
+      "longitude": 4.857553,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 40,
+      "name": "Beens Hondentrimsalon & Dierenspeciaalzaak",
+      "latitude": 51.585445,
+      "longitude": 4.777264,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 41,
+      "name": "Beestenboel",
+      "latitude": 53.175012,
+      "longitude": 7.097491,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 42,
+      "name": "Berben",
+      "latitude": 52.372159,
+      "longitude": 5.782714,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 43,
+      "name": "Beukers Dierenshop",
+      "latitude": 52.071458,
+      "longitude": 4.312109,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 44,
+      "name": "Bij-Zalme",
+      "latitude": 51.279868,
+      "longitude": 4.052957,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 45,
+      "name": "Black and White",
+      "latitude": 52.305651,
+      "longitude": 5.040061,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 46,
+      "name": "Blijdorp Diervoeders",
+      "latitude": 51.788501,
+      "longitude": 4.471395,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 47,
+      "name": "Blije Pootjes",
+      "latitude": 51.385237,
+      "longitude": 5.711636,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 48,
+      "name": "Blokker diervoeding",
+      "latitude": 52.956205,
+      "longitude": 4.77109,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 49,
+      "name": "Bo & Co Dierverwenners",
+      "latitude": 53.216555,
+      "longitude": 6.557245,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 50,
+      "name": "Boef's Beestenbazaar",
+      "latitude": 52.355746,
+      "longitude": 4.893858,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 51,
+      "name": "Boerenbond",
+      "latitude": 51.430814,
+      "longitude": 4.319082,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 52,
+      "name": "Boerenbond",
+      "latitude": 51.599894,
+      "longitude": 5.514938,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 53,
+      "name": "Boerenbond",
+      "latitude": 51.672899,
+      "longitude": 5.056275,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 54,
+      "name": "Boerenbond - Pets Place",
+      "latitude": 51.312952,
+      "longitude": 5.3459,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 55,
+      "name": "Boerenbond - Pets Place",
+      "latitude": 51.518576,
+      "longitude": 4.703101,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 56,
+      "name": "Boerenbond - Pets Place",
+      "latitude": 51.641987,
+      "longitude": 4.596673,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 57,
+      "name": "Boerenbond - Pets Place",
+      "latitude": 53.214745,
+      "longitude": 6.587567,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 58,
+      "name": "Boerenbond - Pets place",
+      "latitude": 51.860797,
+      "longitude": 4.728551,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 59,
+      "name": "Boerenbond Pets Place",
+      "latitude": 51.477924,
+      "longitude": 5.480333,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 60,
+      "name": "Boerenbond Pets Place",
+      "latitude": 51.542305,
+      "longitude": 4.79537,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 61,
+      "name": "Boerenbond-Pets Place XL Helmond",
+      "latitude": 51.471691,
+      "longitude": 5.698535,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 62,
+      "name": "Bongertman",
+      "latitude": 53.198421,
+      "longitude": 6.560297,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 63,
+      "name": "Bonte",
+      "latitude": 51.923396,
+      "longitude": 4.583637,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 64,
+      "name": "Bormann Dierenspeciaalzaak",
+      "latitude": 52.434625,
+      "longitude": 4.658936,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 65,
+      "name": "Bosma",
+      "latitude": 52.935184,
+      "longitude": 6.429173,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 66,
+      "name": "Boxem",
+      "latitude": 53.055585,
+      "longitude": 6.734897,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 67,
+      "name": "Brandhof dier & ruiter",
+      "latitude": 52.047661,
+      "longitude": 5.539768,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 68,
+      "name": "Brokken & Zo",
+      "latitude": 52.014885,
+      "longitude": 4.709811,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 69,
+      "name": "Brokken & Zo XXL",
+      "latitude": 52.021503,
+      "longitude": 4.686121,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 70,
+      "name": "Brokkensuper",
+      "latitude": 52.126519,
+      "longitude": 4.649918,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 71,
+      "name": "Bubbels",
+      "latitude": 51.427003,
+      "longitude": 4.353685,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 72,
+      "name": "Buddy's",
+      "latitude": 52.076229,
+      "longitude": 5.26288,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 73,
+      "name": "Calimero",
+      "latitude": 51.816269,
+      "longitude": 4.667374,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 74,
+      "name": "Care4cats",
+      "latitude": 52.375315,
+      "longitude": 4.793791,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 75,
+      "name": "Catdox",
+      "latitude": 51.892333,
+      "longitude": 4.569322,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 76,
+      "name": "Chews & Nibbles",
+      "latitude": 51.581604,
+      "longitude": 4.777042,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 77,
+      "name": "D'Anja",
+      "latitude": 52.228271,
+      "longitude": 5.180633,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 78,
+      "name": "DISCUS Goes",
+      "latitude": 51.50801,
+      "longitude": 3.889903,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 79,
+      "name": "Davids Voerbak",
+      "latitude": 52.145797,
+      "longitude": 5.425308,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 80,
+      "name": "De Ara Dier en Zorg",
+      "latitude": 52.054769,
+      "longitude": 4.334968,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 81,
+      "name": "De Beestenboel",
+      "latitude": 52.346608,
+      "longitude": 4.89081,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 82,
+      "name": "De Beestenshop",
+      "latitude": 51.521437,
+      "longitude": 4.456684,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 83,
+      "name": "De Beste Stek",
+      "latitude": 52.519067,
+      "longitude": 6.424559,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 84,
+      "name": "De Boer Dier & Ruiter",
+      "latitude": 52.311082,
+      "longitude": 5.12058,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 85,
+      "name": "De Bok",
+      "latitude": 51.864793,
+      "longitude": 5.852169,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 86,
+      "name": "De Dierenoutlet",
+      "latitude": 51.748869,
+      "longitude": 4.10441,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 87,
+      "name": "De Dierenspeciaalzaak",
+      "latitude": 52.602242,
+      "longitude": 6.457685,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 88,
+      "name": "De Dierenspiegel",
+      "latitude": 52.494668,
+      "longitude": 5.069733,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 89,
+      "name": "De Dierenvriend",
+      "latitude": 51.700108,
+      "longitude": 5.340034,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 90,
+      "name": "De Dierenvriend",
+      "latitude": 51.847143,
+      "longitude": 4.498284,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 91,
+      "name": "De Dierenvriend Rotterdam",
+      "latitude": 51.878665,
+      "longitude": 4.517219,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 92,
+      "name": "De Dierenwinkel",
+      "latitude": 52.193803,
+      "longitude": 6.901301,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 93,
+      "name": "De Dierenwinkel",
+      "latitude": 52.574596,
+      "longitude": 6.620628,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 94,
+      "name": "De Gelderlander Diervoeders",
+      "latitude": 52.153689,
+      "longitude": 6.189945,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 95,
+      "name": "De Groene Poot",
+      "latitude": 51.262211,
+      "longitude": 4.051648,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 96,
+      "name": "De Heus Diervoeders",
+      "latitude": 51.949989,
+      "longitude": 5.280481,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 97,
+      "name": "De Hondenzaak",
+      "latitude": 52.511714,
+      "longitude": 6.093038,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 98,
+      "name": "De Hoofdstad",
+      "latitude": 52.163818,
+      "longitude": 5.309001,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 99,
+      "name": "De Korenaar",
+      "latitude": 53.186752,
+      "longitude": 5.547186,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 100,
+      "name": "De Kwispelkoning",
+      "latitude": 52.214714,
+      "longitude": 5.15548,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 101,
+      "name": "De Landelijke Dierenwinkel",
+      "latitude": 52.178058,
+      "longitude": 5.4677,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 102,
+      "name": "De Leeuwerik",
+      "latitude": 53.215404,
+      "longitude": 5.795292,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 103,
+      "name": "De Maanvis",
+      "latitude": 51.838631,
+      "longitude": 5.846463,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 104,
+      "name": "De Molenwei",
+      "latitude": 51.886391,
+      "longitude": 5.902258,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 105,
+      "name": "De Monnikskap Tuin&Dier",
+      "latitude": 53.361156,
+      "longitude": 6.375248,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 106,
+      "name": "De Oostermolen",
+      "latitude": 52.227588,
+      "longitude": 5.479808,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 107,
+      "name": "De Oude Meul",
+      "latitude": 52.299052,
+      "longitude": 5.580993,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 108,
+      "name": "De Rimboe",
+      "latitude": 51.920159,
+      "longitude": 4.466674,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 109,
+      "name": "De Roo Dier",
+      "latitude": 52.696703,
+      "longitude": 6.219087,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 110,
+      "name": "De Vergulde Hond En De Wijze Kater",
+      "latitude": 52.354768,
+      "longitude": 4.900478,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 111,
+      "name": "De Waterlelie",
+      "latitude": 52.226957,
+      "longitude": 6.854124,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 112,
+      "name": "De Watermolen aquariumspecialist",
+      "latitude": 51.944771,
+      "longitude": 6.342657,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 113,
+      "name": "De Winkelties",
+      "latitude": 51.955129,
+      "longitude": 5.226759,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 114,
+      "name": "De Witte Parkiet",
+      "latitude": 52.015428,
+      "longitude": 5.039549,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 115,
+      "name": "De dierenspeciaalzaak Oosterbeek",
+      "latitude": 51.98419,
+      "longitude": 5.84101,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 116,
+      "name": "De vrije vogel",
+      "latitude": 52.056668,
+      "longitude": 4.315824,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 117,
+      "name": "De4Voeters",
+      "latitude": 52.023795,
+      "longitude": 4.218085,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 118,
+      "name": "Debby's Diervoeders",
+      "latitude": 51.933345,
+      "longitude": 6.131268,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 119,
+      "name": "Den Dungense molen",
+      "latitude": 51.658539,
+      "longitude": 5.37085,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 120,
+      "name": "Dennis Papegaaien",
+      "latitude": 52.454438,
+      "longitude": 4.907412,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 121,
+      "name": "Desto Ruitersport",
+      "latitude": 51.478002,
+      "longitude": 4.053273,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 122,
+      "name": "Dexter's Dogfood",
+      "latitude": 52.147601,
+      "longitude": 4.399472,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 123,
+      "name": "Diebo Huisdierwereld",
+      "latitude": 52.051024,
+      "longitude": 5.116691,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 124,
+      "name": "Dieca",
+      "latitude": 51.830446,
+      "longitude": 4.972304,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 125,
+      "name": "Dieca Papegaaienspeciaalzaak",
+      "latitude": 51.210954,
+      "longitude": 5.941207,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 126,
+      "name": "Dier & Beijer",
+      "latitude": 52.12848,
+      "longitude": 5.427296,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 127,
+      "name": "Dier & Beijer",
+      "latitude": 52.185511,
+      "longitude": 5.398124,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 128,
+      "name": "Dier & Beijer",
+      "latitude": 52.1869,
+      "longitude": 5.374993,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 129,
+      "name": "Dier & Beijer",
+      "latitude": 52.23194,
+      "longitude": 5.191347,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 130,
+      "name": "Dier & Verblijf XL",
+      "latitude": 51.464586,
+      "longitude": 4.029002,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 131,
+      "name": "Dier Specialist",
+      "latitude": 52.064198,
+      "longitude": 4.402463,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 132,
+      "name": "Dier all in",
+      "latitude": 52.662507,
+      "longitude": 5.626061,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 133,
+      "name": "Dier en Tuin",
+      "latitude": 52.668369,
+      "longitude": 6.439628,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 134,
+      "name": "Dier en Vriend",
+      "latitude": 52.211827,
+      "longitude": 6.974841,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 135,
+      "name": "Dier specialist Haaksma",
+      "latitude": 52.366181,
+      "longitude": 6.679684,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 136,
+      "name": "Dier specialist Nathalie",
+      "latitude": 51.875901,
+      "longitude": 6.24569,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 137,
+      "name": "Dier van nu",
+      "latitude": 52.085302,
+      "longitude": 4.334699,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 138,
+      "name": "Dier, Tuin- en Ruitersport Fokkens",
+      "latitude": 53.395246,
+      "longitude": 6.55823,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 139,
+      "name": "DierEnLand",
+      "latitude": 52.320165,
+      "longitude": 6.930706,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 140,
+      "name": "DierService",
+      "latitude": 51.988017,
+      "longitude": 6.568739,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 141,
+      "name": "Dierbenodigdheden Riel",
+      "latitude": 51.53325,
+      "longitude": 5.011158,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 142,
+      "name": "Diercentraal",
+      "latitude": 52.084414,
+      "longitude": 4.745424,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 143,
+      "name": "Dieren -en Hengelspeciaalzaak Werkendam",
+      "latitude": 51.813629,
+      "longitude": 4.896871,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 144,
+      "name": "Dieren Speciaalzaak W. van den Heuvel",
+      "latitude": 50.944863,
+      "longitude": 5.799062,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 145,
+      "name": "Dieren speciaal zaak Heutink",
+      "latitude": 52.624687,
+      "longitude": 6.039292,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 146,
+      "name": "DierenEnZo",
+      "latitude": 51.265873,
+      "longitude": 3.904542,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 147,
+      "name": "Dierenasiel Almere",
+      "latitude": 52.413042,
+      "longitude": 5.248735,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 148,
+      "name": "Dierenasiel Amsterdam Noord Oostzaan",
+      "latitude": 52.42571,
+      "longitude": 4.887365,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 149,
+      "name": "Dierenboetiek",
+      "latitude": 53.193783,
+      "longitude": 5.798671,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 150,
+      "name": "Dierenboetiek Reinken",
+      "latitude": 52.08142,
+      "longitude": 4.283413,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 151,
+      "name": "Dierenboetiek Rokkeveen",
+      "latitude": 52.043707,
+      "longitude": 4.476916,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 152,
+      "name": "Dierengoed",
+      "latitude": 52.04999,
+      "longitude": 4.653529,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 153,
+      "name": "Dierenpaleis Steine",
+      "latitude": 50.945631,
+      "longitude": 5.972547,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 154,
+      "name": "Dierenparadijs",
+      "latitude": 52.354026,
+      "longitude": 4.998103,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 155,
+      "name": "Dierenparadijs Tilman",
+      "latitude": 52.996905,
+      "longitude": 6.561721,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 156,
+      "name": "Dierenplezier Noord",
+      "latitude": 51.854572,
+      "longitude": 4.316936,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 157,
+      "name": "Dierenshop Berry de Bruin",
+      "latitude": 51.49832,
+      "longitude": 5.394984,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 158,
+      "name": "Dierenshop Quispel",
+      "latitude": 51.476532,
+      "longitude": 5.644498,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 159,
+      "name": "Dierenshop Wehl",
+      "latitude": 51.961217,
+      "longitude": 6.212089,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 160,
+      "name": "Dierenshop Zuidland",
+      "latitude": 51.8215,
+      "longitude": 4.259259,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 161,
+      "name": "Dierenspeciaakzaak Pel",
+      "latitude": 52.142981,
+      "longitude": 5.040366,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 162,
+      "name": "Dierenspeciaalzaak",
+      "latitude": 52.152216,
+      "longitude": 4.452447,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 163,
+      "name": "Dierenspeciaalzaak",
+      "latitude": 53.218294,
+      "longitude": 6.574197,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 164,
+      "name": "Dierenspeciaalzaak \"Cinderella\"",
+      "latitude": 52.378992,
+      "longitude": 4.850068,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 165,
+      "name": "Dierenspeciaalzaak \"De Molen\"",
+      "latitude": 51.975065,
+      "longitude": 5.729826,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 166,
+      "name": "Dierenspeciaalzaak \"De Parasol\"",
+      "latitude": 51.134548,
+      "longitude": 6.072309,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 167,
+      "name": "Dierenspeciaalzaak & Hengelsport Van der Veer",
+      "latitude": 51.694531,
+      "longitude": 5.32168,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 168,
+      "name": "Dierenspeciaalzaak 't Beertje",
+      "latitude": 52.639082,
+      "longitude": 5.03645,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 169,
+      "name": "Dierenspeciaalzaak 't Dierenparadijs",
+      "latitude": 52.055119,
+      "longitude": 4.499551,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 170,
+      "name": "Dierenspeciaalzaak 't Wit Paerd",
+      "latitude": 51.17787,
+      "longitude": 5.895534,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 171,
+      "name": "Dierenspeciaalzaak A-Kyra",
+      "latitude": 51.473608,
+      "longitude": 3.813466,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 172,
+      "name": "Dierenspeciaalzaak Angela",
+      "latitude": 51.599981,
+      "longitude": 5.22799,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 173,
+      "name": "Dierenspeciaalzaak Arnold Wegman",
+      "latitude": 53.244037,
+      "longitude": 6.406659,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 174,
+      "name": "Dierenspeciaalzaak Arry",
+      "latitude": 51.95211,
+      "longitude": 5.237859,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 175,
+      "name": "Dierenspeciaalzaak Bennie",
+      "latitude": 51.443174,
+      "longitude": 5.61897,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 176,
+      "name": "Dierenspeciaalzaak Bos",
+      "latitude": 52.352564,
+      "longitude": 4.6213,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 177,
+      "name": "Dierenspeciaalzaak Bulten-de Beijer",
+      "latitude": 51.859741,
+      "longitude": 5.771516,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 178,
+      "name": "Dierenspeciaalzaak Colinda",
+      "latitude": 51.386276,
+      "longitude": 5.445774,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 179,
+      "name": "Dierenspeciaalzaak De Aarhof",
+      "latitude": 52.129174,
+      "longitude": 4.664819,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 180,
+      "name": "Dierenspeciaalzaak De Ara",
+      "latitude": 52.412884,
+      "longitude": 4.891324,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 181,
+      "name": "Dierenspeciaalzaak De Bok",
+      "latitude": 51.892291,
+      "longitude": 5.899427,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 182,
+      "name": "Dierenspeciaalzaak De Dierentuin",
+      "latitude": 52.498202,
+      "longitude": 5.053427,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 183,
+      "name": "Dierenspeciaalzaak De Driesprong",
+      "latitude": 51.92609,
+      "longitude": 5.573013,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 184,
+      "name": "Dierenspeciaalzaak De Edelzanger",
+      "latitude": 52.035001,
+      "longitude": 4.306995,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 185,
+      "name": "Dierenspeciaalzaak De Korenmolen",
+      "latitude": 51.584741,
+      "longitude": 4.647565,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 186,
+      "name": "Dierenspeciaalzaak De Lange",
+      "latitude": 51.836439,
+      "longitude": 4.685809,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 187,
+      "name": "Dierenspeciaalzaak Eussen/Rutten",
+      "latitude": 50.893304,
+      "longitude": 6.060717,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 188,
+      "name": "Dierenspeciaalzaak Faunaland",
+      "latitude": 52.012802,
+      "longitude": 6.136105,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 189,
+      "name": "Dierenspeciaalzaak Het Groene Woud",
+      "latitude": 51.347807,
+      "longitude": 5.552167,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 190,
+      "name": "Dierenspeciaalzaak Hoeben",
+      "latitude": 52.395678,
+      "longitude": 4.642571,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 191,
+      "name": "Dierenspeciaalzaak Hooijmaijers",
+      "latitude": 50.863444,
+      "longitude": 6.068436,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 192,
+      "name": "Dierenspeciaalzaak J. Essers & Zn.",
+      "latitude": 50.883015,
+      "longitude": 5.926435,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 193,
+      "name": "Dierenspeciaalzaak Kerner",
+      "latitude": 52.691398,
+      "longitude": 5.246916,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 194,
+      "name": "Dierenspeciaalzaak Maas & Waal",
+      "latitude": 51.888696,
+      "longitude": 5.607351,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 195,
+      "name": "Dierenspeciaalzaak Matavi",
+      "latitude": 52.695446,
+      "longitude": 6.194546,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 196,
+      "name": "Dierenspeciaalzaak Molenkamp",
+      "latitude": 52.006269,
+      "longitude": 6.341408,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 197,
+      "name": "Dierenspeciaalzaak Oscar",
+      "latitude": 52.365186,
+      "longitude": 4.926293,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 198,
+      "name": "Dierenspeciaalzaak Oswald Geurts",
+      "latitude": 51.648309,
+      "longitude": 5.953857,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 199,
+      "name": "Dierenspeciaalzaak Parry's",
+      "latitude": 51.770825,
+      "longitude": 5.639199,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 200,
+      "name": "Dierenspeciaalzaak Parva",
+      "latitude": 52.152445,
+      "longitude": 4.489355,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 201,
+      "name": "Dierenspeciaalzaak Pets & Co",
+      "latitude": 52.652197,
+      "longitude": 5.085547,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 202,
+      "name": "Dierenspeciaalzaak Pootjes & Co",
+      "latitude": 52.26404,
+      "longitude": 4.63198,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 203,
+      "name": "Dierenspeciaalzaak Pretoria",
+      "latitude": 51.901284,
+      "longitude": 4.497903,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 204,
+      "name": "Dierenspeciaalzaak Reigersbos",
+      "latitude": 52.296742,
+      "longitude": 4.975355,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 205,
+      "name": "Dierenspeciaalzaak Ria van den Hoven",
+      "latitude": 51.93361,
+      "longitude": 4.477715,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 206,
+      "name": "Dierenspeciaalzaak Rijen",
+      "latitude": 51.587381,
+      "longitude": 4.920118,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 207,
+      "name": "Dierenspeciaalzaak Rolfes",
+      "latitude": 53.145333,
+      "longitude": 6.564879,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 208,
+      "name": "Dierenspeciaalzaak Rutgers",
+      "latitude": 51.92033,
+      "longitude": 6.5813,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 209,
+      "name": "Dierenspeciaalzaak Smolenaers",
+      "latitude": 51.251422,
+      "longitude": 5.728992,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 210,
+      "name": "Dierenspeciaalzaak Spoorzicht",
+      "latitude": 51.920899,
+      "longitude": 6.366115,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 211,
+      "name": "Dierenspeciaalzaak Sprangers",
+      "latitude": 51.5078,
+      "longitude": 4.855279,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 212,
+      "name": "Dierenspeciaalzaak Toekan",
+      "latitude": 52.640745,
+      "longitude": 5.002556,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 213,
+      "name": "Dierenspeciaalzaak Tropica",
+      "latitude": 52.331872,
+      "longitude": 5.543383,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 214,
+      "name": "Dierenspeciaalzaak Van Zanten",
+      "latitude": 51.86192,
+      "longitude": 4.659403,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 215,
+      "name": "Dierenspeciaalzaak Van der Velden",
+      "latitude": 51.468128,
+      "longitude": 5.474313,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 216,
+      "name": "Dierenspeciaalzaak Verhoog",
+      "latitude": 52.126304,
+      "longitude": 4.447929,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 217,
+      "name": "Dierenspeciaalzaak Voorschoten",
+      "latitude": 52.142283,
+      "longitude": 4.461621,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 218,
+      "name": "Dierenspeciaalzaak Wagemakers",
+      "latitude": 51.54084,
+      "longitude": 4.471496,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 219,
+      "name": "Dierenspeciaalzaak Wolters",
+      "latitude": 50.850378,
+      "longitude": 5.69127,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 220,
+      "name": "Dierenspeciaalzaak Wout van der Slik",
+      "latitude": 51.776477,
+      "longitude": 4.619073,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 221,
+      "name": "Dierenspeciaalzaak Zaailand",
+      "latitude": 53.199564,
+      "longitude": 5.79593,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 222,
+      "name": "Dierenspeciaalzaak Zandvliet",
+      "latitude": 52.07845,
+      "longitude": 4.268854,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 223,
+      "name": "Dierenspeciaalzaak de Boer'nschuure Vels",
+      "latitude": 52.432052,
+      "longitude": 6.072242,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 224,
+      "name": "Dierenspeciaalzaak de Fazant VOF",
+      "latitude": 52.467388,
+      "longitude": 6.003764,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 225,
+      "name": "Dierenspeciaalzaak de IJsbeer",
+      "latitude": 52.068184,
+      "longitude": 5.201302,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 226,
+      "name": "Dierenspeciaalzaak de Lange",
+      "latitude": 51.825874,
+      "longitude": 4.682919,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 227,
+      "name": "Dierenspeciaalzaak van der Velden",
+      "latitude": 51.441421,
+      "longitude": 5.505765,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 228,
+      "name": "Dierenspecialist Moniek",
+      "latitude": 51.919042,
+      "longitude": 5.842534,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 229,
+      "name": "Dierenspecialist Rozenburg",
+      "latitude": 51.904744,
+      "longitude": 4.249592,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 230,
+      "name": "Dierentoko Poort",
+      "latitude": 52.346227,
+      "longitude": 5.150469,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 231,
+      "name": "Dierenvoeding Vermeulen",
+      "latitude": 52.391571,
+      "longitude": 4.943954,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 232,
+      "name": "Dierenvriend Beuningen",
+      "latitude": 51.862345,
+      "longitude": 5.772278,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 233,
+      "name": "Dierenvriend NL",
+      "latitude": 51.444636,
+      "longitude": 3.573484,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 234,
+      "name": "Dierenwereld XL",
+      "latitude": 51.329695,
+      "longitude": 3.834567,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 235,
+      "name": "Dierenwinkel Amsterdam",
+      "latitude": 52.357003,
+      "longitude": 4.912737,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 236,
+      "name": "Dierenwinkel Bruin",
+      "latitude": 52.714781,
+      "longitude": 4.679626,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 237,
+      "name": "Dierenwinkel Ed Roosendaal",
+      "latitude": 51.52887,
+      "longitude": 4.266766,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 238,
+      "name": "Dierenwinkel Empel",
+      "latitude": 51.729771,
+      "longitude": 5.324773,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 239,
+      "name": "Dierenwinkel Harstduiven",
+      "latitude": 52.104574,
+      "longitude": 4.279256,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 240,
+      "name": "Dierenwinkel Koeka",
+      "latitude": 52.369833,
+      "longitude": 4.900944,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 241,
+      "name": "Dierenwinkel Krans",
+      "latitude": 52.240023,
+      "longitude": 5.112402,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 242,
+      "name": "Dierenwinkel Moordrecht",
+      "latitude": 51.986408,
+      "longitude": 4.670717,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 243,
+      "name": "Dierenwinkel Pet's Place",
+      "latitude": 52.335493,
+      "longitude": 5.218703,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 244,
+      "name": "Dierenwinkel Stetlaantje",
+      "latitude": 52.570353,
+      "longitude": 4.700672,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 245,
+      "name": "Dierenwinkel Woerden",
+      "latitude": 52.077001,
+      "longitude": 4.863247,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 246,
+      "name": "Dierenwinkel van Zandvoort",
+      "latitude": 52.375597,
+      "longitude": 4.5296,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 247,
+      "name": "DierenwinkelXL Jos ter Brugge",
+      "latitude": 52.27123,
+      "longitude": 6.815457,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 248,
+      "name": "Dierexpert",
+      "latitude": 52.139499,
+      "longitude": 5.24259,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 249,
+      "name": "Dierplezier",
+      "latitude": 52.168231,
+      "longitude": 4.709687,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 250,
+      "name": "Dierplezier",
+      "latitude": 52.27973,
+      "longitude": 4.86217,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 251,
+      "name": "Dierspeciaalzaak Buijtels",
+      "latitude": 51.319751,
+      "longitude": 5.357181,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 252,
+      "name": "Dierspecialist Annelies & Henk",
+      "latitude": 50.906941,
+      "longitude": 6.027401,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 253,
+      "name": "Dierspecialist Bijman",
+      "latitude": 51.936109,
+      "longitude": 4.602275,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 254,
+      "name": "Dierspecialist Henk & Peter",
+      "latitude": 52.284561,
+      "longitude": 6.82974,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 255,
+      "name": "Dierspecialist Jordy",
+      "latitude": 52.27681,
+      "longitude": 6.792638,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 256,
+      "name": "Dierspecialist Krans",
+      "latitude": 52.215957,
+      "longitude": 5.14215,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 257,
+      "name": "Dierspecialist Linda",
+      "latitude": 51.988725,
+      "longitude": 4.499875,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 258,
+      "name": "Dierspecialist Lucassen",
+      "latitude": 51.930546,
+      "longitude": 6.076423,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 259,
+      "name": "Dierspecialist Luesing",
+      "latitude": 51.831845,
+      "longitude": 4.146326,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 260,
+      "name": "Dierspecialist Mario Broekman",
+      "latitude": 51.373885,
+      "longitude": 6.139893,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 261,
+      "name": "Dierspecialist Maxime",
+      "latitude": 52.19511,
+      "longitude": 5.430245,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 262,
+      "name": "Dierspecialist Raijmann",
+      "latitude": 51.837547,
+      "longitude": 5.876902,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 263,
+      "name": "Dierspecialist Ubink",
+      "latitude": 52.451799,
+      "longitude": 6.003822,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 264,
+      "name": "Dierspecialist Verstegen",
+      "latitude": 51.945479,
+      "longitude": 5.927279,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 265,
+      "name": "Dierspecialist XL de Koningsvis",
+      "latitude": 52.943745,
+      "longitude": 4.771738,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 266,
+      "name": "Dierspecialist van der Vaart",
+      "latitude": 52.086207,
+      "longitude": 4.904979,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 267,
+      "name": "Diertotaal Utopia",
+      "latitude": 52.010897,
+      "longitude": 4.744295,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 268,
+      "name": "Diertotaal.nl",
+      "latitude": 52.563268,
+      "longitude": 5.890874,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 269,
+      "name": "Diervoeders Zoetermeer",
+      "latitude": 52.052718,
+      "longitude": 4.513771,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 270,
+      "name": "Diieren Speciaalzaak The Holy Bird",
+      "latitude": 51.93052,
+      "longitude": 4.346687,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 271,
+      "name": "Dio",
+      "latitude": 51.688831,
+      "longitude": 5.131949,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 272,
+      "name": "Disbergen",
+      "latitude": 52.200389,
+      "longitude": 5.932291,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 273,
+      "name": "Discus",
+      "latitude": 51.568386,
+      "longitude": 4.637116,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 274,
+      "name": "Discus",
+      "latitude": 51.831037,
+      "longitude": 4.147338,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 275,
+      "name": "Discus",
+      "latitude": 51.888139,
+      "longitude": 5.438711,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 276,
+      "name": "Discus",
+      "latitude": 51.912154,
+      "longitude": 4.33247,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 277,
+      "name": "Discus",
+      "latitude": 51.973607,
+      "longitude": 4.246674,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 278,
+      "name": "Discus",
+      "latitude": 52.018685,
+      "longitude": 4.432372,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 279,
+      "name": "Discus",
+      "latitude": 52.028661,
+      "longitude": 5.557359,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 280,
+      "name": "Discus",
+      "latitude": 52.048666,
+      "longitude": 6.102951,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 281,
+      "name": "Discus",
+      "latitude": 52.140203,
+      "longitude": 6.202706,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 282,
+      "name": "Discus",
+      "latitude": 52.234431,
+      "longitude": 4.446721,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 283,
+      "name": "Discus",
+      "latitude": 52.259711,
+      "longitude": 4.557721,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 284,
+      "name": "Discus",
+      "latitude": 52.303948,
+      "longitude": 4.696257,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 285,
+      "name": "Discus",
+      "latitude": 52.381298,
+      "longitude": 4.632897,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 286,
+      "name": "Discus",
+      "latitude": 52.390583,
+      "longitude": 4.631079,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 287,
+      "name": "Discus",
+      "latitude": 52.434896,
+      "longitude": 6.236728,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 288,
+      "name": "Discus",
+      "latitude": 52.643029,
+      "longitude": 5.054721,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 289,
+      "name": "Discus Animo",
+      "latitude": 51.563628,
+      "longitude": 5.077743,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 290,
+      "name": "Discus Bormann",
+      "latitude": 52.402368,
+      "longitude": 4.618564,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 291,
+      "name": "Discus Bormann",
+      "latitude": 52.458996,
+      "longitude": 4.615823,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 292,
+      "name": "Discus Bormann",
+      "latitude": 52.494303,
+      "longitude": 4.968694,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 293,
+      "name": "Discus Bormann",
+      "latitude": 52.521085,
+      "longitude": 4.961433,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 294,
+      "name": "Discus Bormann Nieuw-Vennep",
+      "latitude": 52.271624,
+      "longitude": 4.619679,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 295,
+      "name": "Discus De Molen",
+      "latitude": 51.61579,
+      "longitude": 5.443497,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 296,
+      "name": "Discus De Molen",
+      "latitude": 51.881426,
+      "longitude": 5.511533,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 297,
+      "name": "Discus Dierenspeciaalzaak",
+      "latitude": 52.545241,
+      "longitude": 4.661183,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 298,
+      "name": "Discus Ekkelkamp",
+      "latitude": 53.173276,
+      "longitude": 6.601549,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 299,
+      "name": "Discus Groenlo",
+      "latitude": 52.042832,
+      "longitude": 6.615493,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 300,
+      "name": "Discus Hoogenberg",
+      "latitude": 53.246333,
+      "longitude": 6.588039,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 301,
+      "name": "Discus Hospers",
+      "latitude": 52.301595,
+      "longitude": 6.752055,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 302,
+      "name": "Discus J.J. van der Zwaard",
+      "latitude": 52.267553,
+      "longitude": 4.748312,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 303,
+      "name": "Discus Kluvers",
+      "latitude": 52.10479,
+      "longitude": 6.306625,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 304,
+      "name": "Discus Maassen",
+      "latitude": 52.101497,
+      "longitude": 5.245008,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 305,
+      "name": "Discus Maassen",
+      "latitude": 52.212585,
+      "longitude": 5.292699,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 306,
+      "name": "Discus Martenshoek",
+      "latitude": 53.163027,
+      "longitude": 6.74328,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 307,
+      "name": "Discus Monria",
+      "latitude": 51.933394,
+      "longitude": 4.428404,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 308,
+      "name": "Discus Profauna",
+      "latitude": 53.331003,
+      "longitude": 6.515809,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 309,
+      "name": "Discus Rosman",
+      "latitude": 52.231969,
+      "longitude": 6.585505,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 310,
+      "name": "Discus Tropica Brummen",
+      "latitude": 52.08783,
+      "longitude": 6.153886,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 311,
+      "name": "Discus Uithuizen",
+      "latitude": 53.407739,
+      "longitude": 6.673224,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 312,
+      "name": "Discus Vonk",
+      "latitude": 51.865645,
+      "longitude": 4.354615,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 313,
+      "name": "Discus Wammes",
+      "latitude": 51.770299,
+      "longitude": 5.328654,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 314,
+      "name": "Discus Zodiak",
+      "latitude": 52.367215,
+      "longitude": 5.190762,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 315,
+      "name": "Discus Zodiak",
+      "latitude": 52.395224,
+      "longitude": 5.275952,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 316,
+      "name": "Discus de Feij",
+      "latitude": 51.877795,
+      "longitude": 4.521561,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 317,
+      "name": "Discus dierenspeciaalzaak",
+      "latitude": 53.293675,
+      "longitude": 5.994498,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 318,
+      "name": "Discus van Aalst",
+      "latitude": 52.158576,
+      "longitude": 6.408002,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 319,
+      "name": "Discus van Dijk",
+      "latitude": 52.259338,
+      "longitude": 5.607716,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 320,
+      "name": "Discus van Leeuwen Wijk bij Duurstede",
+      "latitude": 51.97394,
+      "longitude": 5.312252,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 321,
+      "name": "Divoza Horseworld",
+      "latitude": 53.179339,
+      "longitude": 6.368958,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 322,
+      "name": "Dobey",
+      "latitude": 51.327882,
+      "longitude": 5.978121,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 323,
+      "name": "Dobey",
+      "latitude": 51.894019,
+      "longitude": 4.467471,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 324,
+      "name": "Dobey",
+      "latitude": 52.19095,
+      "longitude": 4.442945,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 325,
+      "name": "Dobey",
+      "latitude": 52.371435,
+      "longitude": 4.531194,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 326,
+      "name": "Dobey",
+      "latitude": 53.099227,
+      "longitude": 6.074587,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 327,
+      "name": "Dobey Dierspecialist Haspels",
+      "latitude": 52.101126,
+      "longitude": 5.046269,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 328,
+      "name": "Doedels Dierenschuur",
+      "latitude": 51.792491,
+      "longitude": 4.312475,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 329,
+      "name": "Dog Sport Holland",
+      "latitude": 52.13542,
+      "longitude": 5.496282,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 330,
+      "name": "Doggiesalon Neerbeek",
+      "latitude": 50.950109,
+      "longitude": 5.81225,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 331,
+      "name": "Doggy Stijl",
+      "latitude": 51.91012,
+      "longitude": 4.450709,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 332,
+      "name": "Dol op Dieren",
+      "latitude": 51.572112,
+      "longitude": 4.806271,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 333,
+      "name": "Duivenkweekcentrum Limburg",
+      "latitude": 50.866829,
+      "longitude": 5.900454,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 334,
+      "name": "Dé Dierenwinkel René van der Westen",
+      "latitude": 52.091634,
+      "longitude": 4.274757,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 335,
+      "name": "Ebisch",
+      "latitude": 51.327225,
+      "longitude": 5.984792,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 336,
+      "name": "Eddy Bon",
+      "latitude": 52.161243,
+      "longitude": 4.493422,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 337,
+      "name": "Eemland Diervoeders",
+      "latitude": 52.162423,
+      "longitude": 5.330565,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 338,
+      "name": "Effe Snuffelen",
+      "latitude": 52.048008,
+      "longitude": 4.277616,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 339,
+      "name": "Elans Dierenparadijs",
+      "latitude": 52.076693,
+      "longitude": 5.11451,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 340,
+      "name": "Epplejack",
+      "latitude": 51.439143,
+      "longitude": 5.447989,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 341,
+      "name": "Epplejeck Rotterdam",
+      "latitude": 51.873273,
+      "longitude": 4.537825,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 342,
+      "name": "Exotic World",
+      "latitude": 51.483766,
+      "longitude": 5.663214,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 343,
+      "name": "Exotica",
+      "latitude": 52.356729,
+      "longitude": 4.89956,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 344,
+      "name": "Exotrade",
+      "latitude": 52.713185,
+      "longitude": 6.193587,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 345,
+      "name": "Fakkert Diervoeders B.V.",
+      "latitude": 52.467004,
+      "longitude": 6.201721,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 346,
+      "name": "Family Pet Shop",
+      "latitude": 53.169086,
+      "longitude": 5.431365,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 347,
+      "name": "Faunaland",
+      "latitude": 51.659091,
+      "longitude": 4.863786,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 348,
+      "name": "Faunaland",
+      "latitude": 52.356001,
+      "longitude": 6.590914,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 349,
+      "name": "Faunaland De Viskiet",
+      "latitude": 52.157127,
+      "longitude": 4.465478,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 350,
+      "name": "Flinterman",
+      "latitude": 51.837908,
+      "longitude": 4.136971,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 351,
+      "name": "Flip Kluin",
+      "latitude": 52.195356,
+      "longitude": 6.005335,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 352,
+      "name": "Flip Kluin",
+      "latitude": 52.202816,
+      "longitude": 5.964049,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 353,
+      "name": "Franc's Dierenshop XL",
+      "latitude": 51.848465,
+      "longitude": 4.340238,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 354,
+      "name": "Fressnapf",
+      "latitude": 50.849429,
+      "longitude": 6.076438,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 355,
+      "name": "Froon",
+      "latitude": 52.113744,
+      "longitude": 5.112872,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 356,
+      "name": "FunnyPets",
+      "latitude": 51.704516,
+      "longitude": 4.704033,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 357,
+      "name": "Geus Diervoeding",
+      "latitude": 52.043405,
+      "longitude": 4.360062,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 358,
+      "name": "Glamour pets",
+      "latitude": 52.355927,
+      "longitude": 4.926297,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 359,
+      "name": "Grevers",
+      "latitude": 51.911673,
+      "longitude": 6.430036,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 360,
+      "name": "Gulpener Deerehuuske",
+      "latitude": 50.816407,
+      "longitude": 5.892408,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 361,
+      "name": "Gunshies",
+      "latitude": 52.48526,
+      "longitude": 4.6657,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 362,
+      "name": "Hans Verburg",
+      "latitude": 52.144049,
+      "longitude": 5.391628,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 363,
+      "name": "Hashteckel",
+      "latitude": 52.254002,
+      "longitude": 6.156918,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 364,
+      "name": "Heevis",
+      "latitude": 51.442875,
+      "longitude": 5.455221,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 365,
+      "name": "Heikens",
+      "latitude": 53.15529,
+      "longitude": 6.756811,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 366,
+      "name": "Heldere5er vijverspecialist",
+      "latitude": 52.351674,
+      "longitude": 5.189233,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 367,
+      "name": "Het Dierenpaleis",
+      "latitude": 52.072173,
+      "longitude": 5.124361,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 368,
+      "name": "Het Dierenparadijs",
+      "latitude": 52.04266,
+      "longitude": 5.643461,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 369,
+      "name": "Het Dierenwarenhuis",
+      "latitude": 51.427344,
+      "longitude": 5.488575,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 370,
+      "name": "Het Papagaaien Paleis",
+      "latitude": 52.019288,
+      "longitude": 4.29749,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 371,
+      "name": "Het Vachtje",
+      "latitude": 52.383051,
+      "longitude": 4.88633,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 372,
+      "name": "Hobby-Mix",
+      "latitude": 51.590215,
+      "longitude": 5.142506,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 373,
+      "name": "Holger Aquarium",
+      "latitude": 52.074323,
+      "longitude": 4.283358,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 374,
+      "name": "Holtman's Dierenspeciaalzaak",
+      "latitude": 52.227085,
+      "longitude": 4.524038,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 375,
+      "name": "Honden Rehabilitatie Centrum",
+      "latitude": 52.414062,
+      "longitude": 5.248877,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 376,
+      "name": "Honden hobby",
+      "latitude": 52.298319,
+      "longitude": 5.616155,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 377,
+      "name": "Hondentrimsalon Jetty van der Hulst",
+      "latitude": 52.085559,
+      "longitude": 4.298782,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 378,
+      "name": "Hoodie Dier XL",
+      "latitude": 52.038858,
+      "longitude": 4.648784,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 379,
+      "name": "Hoogenberg",
+      "latitude": 52.722379,
+      "longitude": 7.040344,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 380,
+      "name": "Horseshop De Bles",
+      "latitude": 52.158478,
+      "longitude": 4.476334,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 381,
+      "name": "House of pets",
+      "latitude": 52.380127,
+      "longitude": 4.64724,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 382,
+      "name": "Huisdier Voordeelshop",
+      "latitude": 52.199786,
+      "longitude": 5.975633,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 383,
+      "name": "Huisdier Voordeelshop",
+      "latitude": 52.496155,
+      "longitude": 6.118599,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 384,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 51.450547,
+      "longitude": 5.465383,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 385,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 51.477072,
+      "longitude": 5.641697,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 386,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 51.533061,
+      "longitude": 4.464537,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 387,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 51.597409,
+      "longitude": 4.745929,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 388,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 51.704883,
+      "longitude": 5.302718,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 389,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 51.76668,
+      "longitude": 5.52229,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 390,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 51.823239,
+      "longitude": 5.795124,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 391,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 51.950482,
+      "longitude": 5.874269,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 392,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 51.967202,
+      "longitude": 6.295634,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 393,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 52.137944,
+      "longitude": 4.55087,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 394,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 52.492781,
+      "longitude": 5.484289,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 395,
+      "name": "Huisdiervoordeelshop",
+      "latitude": 52.719651,
+      "longitude": 6.474967,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 396,
+      "name": "Iceborders",
+      "latitude": 51.88226,
+      "longitude": 5.514257,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 397,
+      "name": "Igor's",
+      "latitude": 52.49656,
+      "longitude": 4.767022,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 398,
+      "name": "Intratuin Dierenwereld",
+      "latitude": 50.990886,
+      "longitude": 5.821217,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 399,
+      "name": "J.C. van Harn en Zoon",
+      "latitude": 51.949338,
+      "longitude": 5.515931,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 400,
+      "name": "J.J. Lamers",
+      "latitude": 51.951978,
+      "longitude": 5.756684,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 401,
+      "name": "JK Fishfarm",
+      "latitude": 52.224454,
+      "longitude": 6.856553,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 402,
+      "name": "Jackoi",
+      "latitude": 50.927502,
+      "longitude": 5.913373,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 403,
+      "name": "Jan en Japke",
+      "latitude": 53.095982,
+      "longitude": 5.83996,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 404,
+      "name": "Janneke's Beestenboel",
+      "latitude": 51.689787,
+      "longitude": 5.329194,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 405,
+      "name": "Javame V.o.f.",
+      "latitude": 52.013391,
+      "longitude": 4.539619,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 406,
+      "name": "John's Dierenspeciaalzaak",
+      "latitude": 52.159745,
+      "longitude": 5.36746,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 407,
+      "name": "John's Dierenwereld",
+      "latitude": 52.001679,
+      "longitude": 5.941468,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 408,
+      "name": "Jonkman",
+      "latitude": 53.106442,
+      "longitude": 6.096888,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 409,
+      "name": "Jonkman Pets & Co",
+      "latitude": 52.482994,
+      "longitude": 6.111391,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 410,
+      "name": "Jurassic World reptielen",
+      "latitude": 51.585885,
+      "longitude": 4.921919,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 411,
+      "name": "Kameleon",
+      "latitude": 51.574512,
+      "longitude": 5.073751,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 412,
+      "name": "Karman",
+      "latitude": 52.227241,
+      "longitude": 5.957326,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 413,
+      "name": "Kat en Bakkie",
+      "latitude": 52.082122,
+      "longitude": 5.12382,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 414,
+      "name": "Kebo",
+      "latitude": 51.753173,
+      "longitude": 5.132576,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 415,
+      "name": "Kevin's & Carla's Dierenplaza",
+      "latitude": 52.258793,
+      "longitude": 6.149718,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 416,
+      "name": "Kloosterman",
+      "latitude": 52.50434,
+      "longitude": 6.260376,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 417,
+      "name": "Koenis Dierenspeciaalzaak",
+      "latitude": 52.702649,
+      "longitude": 4.947857,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 418,
+      "name": "Koi Vijvercentrum Waterland",
+      "latitude": 52.514314,
+      "longitude": 4.992744,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 419,
+      "name": "Koi-Kas",
+      "latitude": 52.02773,
+      "longitude": 4.182012,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 420,
+      "name": "Koko von Knebel",
+      "latitude": 52.372325,
+      "longitude": 4.883501,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 421,
+      "name": "Kwispel",
+      "latitude": 52.364236,
+      "longitude": 4.863258,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 422,
+      "name": "LA CHIC",
+      "latitude": 52.375052,
+      "longitude": 4.860102,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 423,
+      "name": "Lambrechts dierenspeciaalzaak",
+      "latitude": 51.960219,
+      "longitude": 4.532734,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 424,
+      "name": "Langhout Dierenspeciaalzaak",
+      "latitude": 52.21586,
+      "longitude": 5.167841,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 425,
+      "name": "Little Critters",
+      "latitude": 50.91165,
+      "longitude": 5.825427,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 426,
+      "name": "MIRO Dierenwereld",
+      "latitude": 52.189228,
+      "longitude": 5.622791,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 427,
+      "name": "Marina's Dierenwinkel",
+      "latitude": 52.629223,
+      "longitude": 4.748488,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 428,
+      "name": "Maxi Zoo",
+      "latitude": 50.842856,
+      "longitude": 5.729175,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 429,
+      "name": "Maxi Zoo",
+      "latitude": 50.856454,
+      "longitude": 6.006607,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 430,
+      "name": "Maxi Zoo",
+      "latitude": 50.948101,
+      "longitude": 5.796865,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 431,
+      "name": "Maxi Zoo",
+      "latitude": 51.275342,
+      "longitude": 4.049343,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 432,
+      "name": "Maxi Zoo",
+      "latitude": 51.332099,
+      "longitude": 3.828113,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 433,
+      "name": "Maxi Zoo",
+      "latitude": 51.367196,
+      "longitude": 5.443538,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 434,
+      "name": "Maxi Zoo",
+      "latitude": 51.382963,
+      "longitude": 6.1854,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 435,
+      "name": "Maxi Zoo",
+      "latitude": 51.4062,
+      "longitude": 5.389014,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 436,
+      "name": "Maxi Zoo",
+      "latitude": 51.430432,
+      "longitude": 5.467831,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 437,
+      "name": "Maxi Zoo",
+      "latitude": 51.469403,
+      "longitude": 5.53403,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 438,
+      "name": "Maxi Zoo",
+      "latitude": 51.493432,
+      "longitude": 4.277749,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 439,
+      "name": "Maxi Zoo",
+      "latitude": 51.498947,
+      "longitude": 3.881127,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 440,
+      "name": "Maxi Zoo",
+      "latitude": 51.5308,
+      "longitude": 5.648349,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 441,
+      "name": "Maxi Zoo",
+      "latitude": 51.56347,
+      "longitude": 5.106843,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 442,
+      "name": "Maxi Zoo",
+      "latitude": 51.581795,
+      "longitude": 4.734136,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 443,
+      "name": "Maxi Zoo",
+      "latitude": 51.657839,
+      "longitude": 5.608232,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 444,
+      "name": "Maxi Zoo",
+      "latitude": 51.701202,
+      "longitude": 5.302303,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 445,
+      "name": "Maxi Zoo",
+      "latitude": 51.781598,
+      "longitude": 5.505398,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 446,
+      "name": "Maxi Zoo",
+      "latitude": 51.793107,
+      "longitude": 4.647804,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 447,
+      "name": "Maxi Zoo",
+      "latitude": 51.800473,
+      "longitude": 4.705712,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 448,
+      "name": "Maxi Zoo",
+      "latitude": 51.823051,
+      "longitude": 5.797499,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 449,
+      "name": "Maxi Zoo",
+      "latitude": 51.856635,
+      "longitude": 4.358149,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 450,
+      "name": "Maxi Zoo",
+      "latitude": 51.897673,
+      "longitude": 5.446104,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 451,
+      "name": "Maxi Zoo",
+      "latitude": 51.911996,
+      "longitude": 4.315242,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 452,
+      "name": "Maxi Zoo",
+      "latitude": 51.925452,
+      "longitude": 4.247746,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 453,
+      "name": "Maxi Zoo",
+      "latitude": 51.966654,
+      "longitude": 6.309142,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 454,
+      "name": "Maxi Zoo",
+      "latitude": 52.022529,
+      "longitude": 5.164919,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 455,
+      "name": "Maxi Zoo",
+      "latitude": 52.126433,
+      "longitude": 5.093489,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 456,
+      "name": "Maxi Zoo",
+      "latitude": 52.166069,
+      "longitude": 5.406867,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 457,
+      "name": "Maxi Zoo",
+      "latitude": 52.21126,
+      "longitude": 6.864666,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 458,
+      "name": "Maxi Zoo",
+      "latitude": 52.222509,
+      "longitude": 5.974212,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 459,
+      "name": "Maxi Zoo",
+      "latitude": 52.246572,
+      "longitude": 6.197131,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 460,
+      "name": "Maxi Zoo",
+      "latitude": 52.255344,
+      "longitude": 6.785914,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 461,
+      "name": "Maxi Zoo",
+      "latitude": 52.298189,
+      "longitude": 5.235474,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 462,
+      "name": "Maxi Zoo",
+      "latitude": 52.339453,
+      "longitude": 6.645285,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 463,
+      "name": "Maxi Zoo",
+      "latitude": 52.357515,
+      "longitude": 4.939858,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 464,
+      "name": "Maxi Zoo",
+      "latitude": 52.360965,
+      "longitude": 4.782799,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 465,
+      "name": "Maxi Zoo",
+      "latitude": 52.362567,
+      "longitude": 5.200448,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 466,
+      "name": "Maxi Zoo",
+      "latitude": 52.369351,
+      "longitude": 5.218887,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 467,
+      "name": "Maxi Zoo",
+      "latitude": 52.378732,
+      "longitude": 4.618112,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 468,
+      "name": "Maxi Zoo",
+      "latitude": 52.392319,
+      "longitude": 4.95638,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 469,
+      "name": "Maxi Zoo",
+      "latitude": 52.443648,
+      "longitude": 4.819437,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 470,
+      "name": "Maxi Zoo",
+      "latitude": 52.496458,
+      "longitude": 4.664473,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 471,
+      "name": "Maxi Zoo",
+      "latitude": 52.501895,
+      "longitude": 5.471226,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 472,
+      "name": "Maxi Zoo",
+      "latitude": 52.517214,
+      "longitude": 4.981649,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 473,
+      "name": "Maxi Zoo",
+      "latitude": 52.581165,
+      "longitude": 6.603544,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 474,
+      "name": "Maxi Zoo",
+      "latitude": 52.63465,
+      "longitude": 4.752257,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 475,
+      "name": "Maxi Zoo",
+      "latitude": 52.648791,
+      "longitude": 5.048472,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 476,
+      "name": "Maxi Zoo",
+      "latitude": 52.661796,
+      "longitude": 6.735003,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 477,
+      "name": "Maxi Zoo",
+      "latitude": 52.704985,
+      "longitude": 6.187866,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 478,
+      "name": "Maxi Zoo",
+      "latitude": 52.707477,
+      "longitude": 5.756404,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 479,
+      "name": "Maxi Zoo",
+      "latitude": 52.724687,
+      "longitude": 6.467013,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 480,
+      "name": "Maxi Zoo",
+      "latitude": 52.776098,
+      "longitude": 6.895286,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 481,
+      "name": "Maxi Zoo",
+      "latitude": 52.776513,
+      "longitude": 6.096409,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 482,
+      "name": "Maxi Zoo",
+      "latitude": 52.963426,
+      "longitude": 5.908413,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 483,
+      "name": "Maxi Zoo",
+      "latitude": 52.979425,
+      "longitude": 6.295452,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 484,
+      "name": "Maxi Zoo",
+      "latitude": 52.981724,
+      "longitude": 6.979111,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 485,
+      "name": "Maxi Zoo",
+      "latitude": 53.00948,
+      "longitude": 6.586869,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 486,
+      "name": "Maxi Zoo",
+      "latitude": 53.108263,
+      "longitude": 6.096234,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 487,
+      "name": "Maxi Zoo",
+      "latitude": 53.181747,
+      "longitude": 5.461807,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 488,
+      "name": "Maxi Zoo",
+      "latitude": 53.182008,
+      "longitude": 6.159513,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 489,
+      "name": "Maxi Zoo",
+      "latitude": 53.196457,
+      "longitude": 5.783149,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 490,
+      "name": "Maxi Zoo",
+      "latitude": 53.23543,
+      "longitude": 6.524501,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 491,
+      "name": "Maxi Zoo",
+      "latitude": 53.409044,
+      "longitude": 6.681309,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 492,
+      "name": "Maxi Zoo XXL",
+      "latitude": 51.977594,
+      "longitude": 5.941714,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 493,
+      "name": "MeerDier van Grootel",
+      "latitude": 51.451413,
+      "longitude": 6.055162,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 494,
+      "name": "Meijer Dierenspeciaalzaak",
+      "latitude": 52.489233,
+      "longitude": 4.650618,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 495,
+      "name": "Menno's Dierenwereld",
+      "latitude": 51.941493,
+      "longitude": 6.464172,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 496,
+      "name": "Meulenberg Diervoeder",
+      "latitude": 51.552751,
+      "longitude": 3.597916,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 497,
+      "name": "Miss Ruitersport",
+      "latitude": 52.149894,
+      "longitude": 5.385115,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 498,
+      "name": "Moinat",
+      "latitude": 52.811846,
+      "longitude": 7.046514,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 499,
+      "name": "Molenhof",
+      "latitude": 52.463601,
+      "longitude": 5.896062,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 500,
+      "name": "Mulder dier- en ruitersportspeciaalzaak",
+      "latitude": 51.874505,
+      "longitude": 4.070528,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 501,
+      "name": "Munsterboog",
+      "latitude": 51.193398,
+      "longitude": 5.989977,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 502,
+      "name": "Natural Petcare",
+      "latitude": 53.17,
+      "longitude": 6.861848,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 503,
+      "name": "Natuurlijk @ de Dierenspeciaalzaak",
+      "latitude": 52.064886,
+      "longitude": 5.136633,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 504,
+      "name": "Nena's Pets",
+      "latitude": 51.794415,
+      "longitude": 5.027046,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 505,
+      "name": "Ocean & Lake",
+      "latitude": 52.072442,
+      "longitude": 5.543269,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 506,
+      "name": "Onlineaquariumspullen",
+      "latitude": 53.116775,
+      "longitude": 6.070083,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 507,
+      "name": "Ons schuurtje",
+      "latitude": 51.916453,
+      "longitude": 4.583706,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 508,
+      "name": "Otter Diercompleet",
+      "latitude": 53.183295,
+      "longitude": 6.378563,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 509,
+      "name": "PETS&CO",
+      "latitude": 53.107326,
+      "longitude": 6.109098,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 510,
+      "name": "Patty's Petshop",
+      "latitude": 52.302634,
+      "longitude": 5.253796,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 511,
+      "name": "Paws and Claws",
+      "latitude": 52.018011,
+      "longitude": 4.36438,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 512,
+      "name": "Pet Needs",
+      "latitude": 52.013226,
+      "longitude": 4.358644,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 513,
+      "name": "Pet's Place",
+      "latitude": 51.917901,
+      "longitude": 4.358582,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 514,
+      "name": "Pet's Place",
+      "latitude": 52.528492,
+      "longitude": 6.102906,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 515,
+      "name": "Petcare",
+      "latitude": 51.962854,
+      "longitude": 4.553508,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 516,
+      "name": "Petcare",
+      "latitude": 51.99293,
+      "longitude": 4.479247,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 517,
+      "name": "Petcare Shop",
+      "latitude": 51.940629,
+      "longitude": 4.549131,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 518,
+      "name": "Petopia",
+      "latitude": 52.378791,
+      "longitude": 4.884692,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 519,
+      "name": "Pets & Aqua Shop Han",
+      "latitude": 52.239148,
+      "longitude": 6.893904,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 520,
+      "name": "Pets & Co",
+      "latitude": 51.310104,
+      "longitude": 3.383762,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 521,
+      "name": "Pets & Co",
+      "latitude": 52.148852,
+      "longitude": 4.66006,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 522,
+      "name": "Pets & Co",
+      "latitude": 52.261001,
+      "longitude": 7.007305,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 523,
+      "name": "Pets & Co",
+      "latitude": 52.262108,
+      "longitude": 6.713388,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 524,
+      "name": "Pets & Co De Moel",
+      "latitude": 52.725452,
+      "longitude": 5.150071,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 525,
+      "name": "Pets & Co Dick Zanting",
+      "latitude": 52.283068,
+      "longitude": 6.421954,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 526,
+      "name": "Pets & Co Gersen",
+      "latitude": 52.385816,
+      "longitude": 6.274884,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 527,
+      "name": "Pets & Co Lobbes",
+      "latitude": 51.608175,
+      "longitude": 4.79056,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 528,
+      "name": "Pets & Co Zanting",
+      "latitude": 52.247775,
+      "longitude": 6.217995,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 529,
+      "name": "Pets Motion",
+      "latitude": 51.46424,
+      "longitude": 5.795483,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 530,
+      "name": "Pets Place",
+      "latitude": 50.86572,
+      "longitude": 5.833508,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 531,
+      "name": "Pets Place",
+      "latitude": 50.949079,
+      "longitude": 5.795809,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 532,
+      "name": "Pets Place",
+      "latitude": 51.210101,
+      "longitude": 6.019695,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 533,
+      "name": "Pets Place",
+      "latitude": 51.277663,
+      "longitude": 4.045939,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 534,
+      "name": "Pets Place",
+      "latitude": 51.334707,
+      "longitude": 3.498289,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 535,
+      "name": "Pets Place",
+      "latitude": 51.381048,
+      "longitude": 5.277808,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 536,
+      "name": "Pets Place",
+      "latitude": 51.411549,
+      "longitude": 5.553809,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 537,
+      "name": "Pets Place",
+      "latitude": 51.497478,
+      "longitude": 3.607382,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 538,
+      "name": "Pets Place",
+      "latitude": 51.520015,
+      "longitude": 4.443185,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 539,
+      "name": "Pets Place",
+      "latitude": 51.55151,
+      "longitude": 5.104775,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 540,
+      "name": "Pets Place",
+      "latitude": 51.553164,
+      "longitude": 5.684497,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 541,
+      "name": "Pets Place",
+      "latitude": 51.575936,
+      "longitude": 5.039689,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 542,
+      "name": "Pets Place",
+      "latitude": 51.582033,
+      "longitude": 5.189269,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 543,
+      "name": "Pets Place",
+      "latitude": 51.594211,
+      "longitude": 4.747451,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 544,
+      "name": "Pets Place",
+      "latitude": 51.624944,
+      "longitude": 5.423562,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 545,
+      "name": "Pets Place",
+      "latitude": 51.729751,
+      "longitude": 5.879218,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 546,
+      "name": "Pets Place",
+      "latitude": 51.765589,
+      "longitude": 5.547379,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 547,
+      "name": "Pets Place",
+      "latitude": 51.776079,
+      "longitude": 5.937697,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 548,
+      "name": "Pets Place",
+      "latitude": 51.807216,
+      "longitude": 5.728065,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 549,
+      "name": "Pets Place",
+      "latitude": 51.844318,
+      "longitude": 5.864848,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 550,
+      "name": "Pets Place",
+      "latitude": 51.854662,
+      "longitude": 4.539678,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 551,
+      "name": "Pets Place",
+      "latitude": 51.878983,
+      "longitude": 5.419784,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 552,
+      "name": "Pets Place",
+      "latitude": 51.890777,
+      "longitude": 5.091094,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 553,
+      "name": "Pets Place",
+      "latitude": 51.90817,
+      "longitude": 4.438393,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 554,
+      "name": "Pets Place",
+      "latitude": 51.9354,
+      "longitude": 4.374514,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 555,
+      "name": "Pets Place",
+      "latitude": 51.951634,
+      "longitude": 4.559925,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 556,
+      "name": "Pets Place",
+      "latitude": 51.959537,
+      "longitude": 5.896692,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 557,
+      "name": "Pets Place",
+      "latitude": 51.960884,
+      "longitude": 6.293932,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 558,
+      "name": "Pets Place",
+      "latitude": 51.967899,
+      "longitude": 5.665158,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 559,
+      "name": "Pets Place",
+      "latitude": 51.994129,
+      "longitude": 4.474721,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 560,
+      "name": "Pets Place",
+      "latitude": 51.996366,
+      "longitude": 5.968754,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 561,
+      "name": "Pets Place",
+      "latitude": 52.028142,
+      "longitude": 5.084921,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 562,
+      "name": "Pets Place",
+      "latitude": 52.041692,
+      "longitude": 5.076409,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 563,
+      "name": "Pets Place",
+      "latitude": 52.052662,
+      "longitude": 5.281582,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 564,
+      "name": "Pets Place",
+      "latitude": 52.061555,
+      "longitude": 4.492968,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 565,
+      "name": "Pets Place",
+      "latitude": 52.065892,
+      "longitude": 4.317958,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 566,
+      "name": "Pets Place",
+      "latitude": 52.06679,
+      "longitude": 4.245963,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 567,
+      "name": "Pets Place",
+      "latitude": 52.075643,
+      "longitude": 4.358153,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 568,
+      "name": "Pets Place",
+      "latitude": 52.077806,
+      "longitude": 4.270438,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 569,
+      "name": "Pets Place",
+      "latitude": 52.102175,
+      "longitude": 5.253969,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 570,
+      "name": "Pets Place",
+      "latitude": 52.106216,
+      "longitude": 5.056924,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 571,
+      "name": "Pets Place",
+      "latitude": 52.13071,
+      "longitude": 5.428598,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 572,
+      "name": "Pets Place",
+      "latitude": 52.144253,
+      "longitude": 5.38156,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 573,
+      "name": "Pets Place",
+      "latitude": 52.147334,
+      "longitude": 4.478027,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 574,
+      "name": "Pets Place",
+      "latitude": 52.164194,
+      "longitude": 5.365902,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 575,
+      "name": "Pets Place",
+      "latitude": 52.177595,
+      "longitude": 4.469123,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 576,
+      "name": "Pets Place",
+      "latitude": 52.192023,
+      "longitude": 6.879802,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 577,
+      "name": "Pets Place",
+      "latitude": 52.204,
+      "longitude": 4.398036,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 578,
+      "name": "Pets Place",
+      "latitude": 52.204473,
+      "longitude": 4.406979,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 579,
+      "name": "Pets Place",
+      "latitude": 52.229421,
+      "longitude": 5.986917,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 580,
+      "name": "Pets Place",
+      "latitude": 52.24807,
+      "longitude": 6.199941,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 581,
+      "name": "Pets Place",
+      "latitude": 52.295389,
+      "longitude": 5.263618,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 582,
+      "name": "Pets Place",
+      "latitude": 52.301667,
+      "longitude": 5.630969,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 583,
+      "name": "Pets Place",
+      "latitude": 52.331423,
+      "longitude": 4.876438,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 584,
+      "name": "Pets Place",
+      "latitude": 52.334395,
+      "longitude": 5.020513,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 585,
+      "name": "Pets Place",
+      "latitude": 52.335528,
+      "longitude": 5.633336,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 586,
+      "name": "Pets Place",
+      "latitude": 52.335683,
+      "longitude": 4.779393,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 587,
+      "name": "Pets Place",
+      "latitude": 52.35069,
+      "longitude": 6.667813,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 588,
+      "name": "Pets Place",
+      "latitude": 52.357065,
+      "longitude": 4.930409,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 589,
+      "name": "Pets Place",
+      "latitude": 52.359815,
+      "longitude": 4.653885,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 590,
+      "name": "Pets Place",
+      "latitude": 52.36256,
+      "longitude": 6.460526,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 591,
+      "name": "Pets Place",
+      "latitude": 52.366717,
+      "longitude": 4.869782,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 592,
+      "name": "Pets Place",
+      "latitude": 52.374514,
+      "longitude": 4.936261,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 593,
+      "name": "Pets Place",
+      "latitude": 52.39397,
+      "longitude": 5.28007,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 594,
+      "name": "Pets Place",
+      "latitude": 52.397646,
+      "longitude": 4.643471,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 595,
+      "name": "Pets Place",
+      "latitude": 52.397984,
+      "longitude": 4.937198,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 596,
+      "name": "Pets Place",
+      "latitude": 52.460314,
+      "longitude": 6.570999,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 597,
+      "name": "Pets Place",
+      "latitude": 52.505839,
+      "longitude": 4.985041,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 598,
+      "name": "Pets Place",
+      "latitude": 52.509254,
+      "longitude": 5.473746,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 599,
+      "name": "Pets Place",
+      "latitude": 52.510759,
+      "longitude": 4.669251,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 600,
+      "name": "Pets Place",
+      "latitude": 52.519895,
+      "longitude": 5.48267,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 601,
+      "name": "Pets Place",
+      "latitude": 52.550475,
+      "longitude": 4.673798,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 602,
+      "name": "Pets Place",
+      "latitude": 52.632623,
+      "longitude": 4.724192,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 603,
+      "name": "Pets Place",
+      "latitude": 52.654269,
+      "longitude": 4.758175,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 604,
+      "name": "Pets Place",
+      "latitude": 52.662941,
+      "longitude": 6.73843,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 605,
+      "name": "Pets Place",
+      "latitude": 52.663334,
+      "longitude": 4.829435,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 606,
+      "name": "Pets Place",
+      "latitude": 52.6979,
+      "longitude": 6.188462,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 607,
+      "name": "Pets Place",
+      "latitude": 52.779863,
+      "longitude": 6.922267,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 608,
+      "name": "Pets Place",
+      "latitude": 52.787712,
+      "longitude": 6.119591,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 609,
+      "name": "Pets Place",
+      "latitude": 52.859103,
+      "longitude": 6.513986,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 610,
+      "name": "Pets Place",
+      "latitude": 52.87467,
+      "longitude": 7.059932,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 611,
+      "name": "Pets Place",
+      "latitude": 52.876518,
+      "longitude": 6.002519,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 612,
+      "name": "Pets Place",
+      "latitude": 52.898188,
+      "longitude": 4.754955,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 613,
+      "name": "Pets Place",
+      "latitude": 52.92221,
+      "longitude": 6.792026,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 614,
+      "name": "Pets Place",
+      "latitude": 52.958425,
+      "longitude": 5.926028,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 615,
+      "name": "Pets Place",
+      "latitude": 52.966295,
+      "longitude": 5.797661,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 616,
+      "name": "Pets Place",
+      "latitude": 52.998043,
+      "longitude": 6.560345,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 617,
+      "name": "Pets Place",
+      "latitude": 53.035701,
+      "longitude": 5.666433,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 618,
+      "name": "Pets Place",
+      "latitude": 53.093928,
+      "longitude": 6.68627,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 619,
+      "name": "Pets Place",
+      "latitude": 53.111031,
+      "longitude": 6.884931,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 620,
+      "name": "Pets Place",
+      "latitude": 53.13644,
+      "longitude": 6.432001,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 621,
+      "name": "Pets Place",
+      "latitude": 53.147324,
+      "longitude": 7.034512,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 622,
+      "name": "Pets Place",
+      "latitude": 53.202122,
+      "longitude": 5.823061,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 623,
+      "name": "Pets Place",
+      "latitude": 53.20706,
+      "longitude": 5.812327,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 624,
+      "name": "Pets Place",
+      "latitude": 53.230435,
+      "longitude": 6.544516,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 625,
+      "name": "Pets Place",
+      "latitude": 53.319055,
+      "longitude": 6.859457,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 626,
+      "name": "Pets Place - Boerenbond",
+      "latitude": 51.385773,
+      "longitude": 6.179055,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 627,
+      "name": "Pets Place - Boerenbond",
+      "latitude": 51.492688,
+      "longitude": 5.136229,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 628,
+      "name": "Pets Place - Boerenbond",
+      "latitude": 51.501873,
+      "longitude": 5.41582,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 629,
+      "name": "Pets Place - Boerenbond",
+      "latitude": 51.68857,
+      "longitude": 5.13182,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 630,
+      "name": "Pets Place - Boerenbond",
+      "latitude": 51.695223,
+      "longitude": 5.2836,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 631,
+      "name": "Pets Place - Boerenbond",
+      "latitude": 51.736868,
+      "longitude": 5.535983,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 632,
+      "name": "Pets Place - Boerenbond",
+      "latitude": 51.884197,
+      "longitude": 5.57392,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 633,
+      "name": "Pets Place - Boerenbond",
+      "latitude": 52.072002,
+      "longitude": 4.378236,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 634,
+      "name": "Pets Place - Boerenbond",
+      "latitude": 52.223828,
+      "longitude": 6.880584,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 635,
+      "name": "Pets Place Boerenbond",
+      "latitude": 51.628775,
+      "longitude": 4.866086,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 636,
+      "name": "Pets Place XL",
+      "latitude": 51.247395,
+      "longitude": 5.731233,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 637,
+      "name": "Pets Place XL",
+      "latitude": 51.832963,
+      "longitude": 4.343859,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 638,
+      "name": "Pets Place XL",
+      "latitude": 51.988934,
+      "longitude": 5.892411,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 639,
+      "name": "Pets Place XL",
+      "latitude": 52.697515,
+      "longitude": 5.116781,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 640,
+      "name": "Pets Place XL-Boerenbond",
+      "latitude": 50.897375,
+      "longitude": 5.950108,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 641,
+      "name": "Pets en Co Jonkman",
+      "latitude": 52.51589,
+      "longitude": 6.103865,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 642,
+      "name": "Pets&Co",
+      "latitude": 51.282839,
+      "longitude": 5.748658,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 643,
+      "name": "Pets&Co",
+      "latitude": 51.71787,
+      "longitude": 5.36339,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 644,
+      "name": "Pets&Co",
+      "latitude": 52.23606,
+      "longitude": 6.104272,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 645,
+      "name": "Pets&Co",
+      "latitude": 53.192709,
+      "longitude": 5.992112,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 646,
+      "name": "Pets&Co Faunacenter",
+      "latitude": 52.657841,
+      "longitude": 5.055288,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 647,
+      "name": "Pets&Co XL",
+      "latitude": 52.255828,
+      "longitude": 6.789457,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 648,
+      "name": "Petshop Stein",
+      "latitude": 50.968428,
+      "longitude": 5.767025,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 649,
+      "name": "Petshopper",
+      "latitude": 52.097834,
+      "longitude": 4.402595,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 650,
+      "name": "Petsjop",
+      "latitude": 53.108849,
+      "longitude": 6.094561,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 651,
+      "name": "Petsnmore",
+      "latitude": 51.329141,
+      "longitude": 5.979225,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 652,
+      "name": "Petsplace",
+      "latitude": 52.017695,
+      "longitude": 5.649256,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 653,
+      "name": "Petsplace XL",
+      "latitude": 51.412539,
+      "longitude": 5.380352,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 654,
+      "name": "Poopy Cat",
+      "latitude": 52.361366,
+      "longitude": 4.891086,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 655,
+      "name": "Pronk's dog shop",
+      "latitude": 52.216016,
+      "longitude": 6.904566,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 656,
+      "name": "RC Ruitersport",
+      "latitude": 51.746065,
+      "longitude": 5.633568,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 657,
+      "name": "RJ Dierenbenodigdheden",
+      "latitude": 51.574637,
+      "longitude": 5.073759,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 658,
+      "name": "Ras",
+      "latitude": 52.950279,
+      "longitude": 4.759557,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 659,
+      "name": "Reerink",
+      "latitude": 52.316865,
+      "longitude": 6.932497,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 660,
+      "name": "Rentenaar",
+      "latitude": 52.428371,
+      "longitude": 4.914242,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 661,
+      "name": "Rentenaar",
+      "latitude": 52.462399,
+      "longitude": 4.810736,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 662,
+      "name": "Rentenaar",
+      "latitude": 52.498542,
+      "longitude": 4.811884,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 663,
+      "name": "Rentenaar",
+      "latitude": 52.500566,
+      "longitude": 4.766362,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 664,
+      "name": "Rentenaar Dierenparadijs",
+      "latitude": 52.599093,
+      "longitude": 4.70172,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 665,
+      "name": "Road Force",
+      "latitude": 52.574498,
+      "longitude": 6.622416,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 666,
+      "name": "Salty",
+      "latitude": 52.366794,
+      "longitude": 4.872192,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 667,
+      "name": "Sascha Diertotaal",
+      "latitude": 51.951472,
+      "longitude": 6.02017,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 668,
+      "name": "Schepens",
+      "latitude": 51.345911,
+      "longitude": 5.882635,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 669,
+      "name": "Schoenmaker",
+      "latitude": 52.412454,
+      "longitude": 6.627795,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 670,
+      "name": "Scotty's Dog Goods",
+      "latitude": 52.272476,
+      "longitude": 5.242119,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 671,
+      "name": "Sierviskwekerij Aquariumgek",
+      "latitude": 51.645235,
+      "longitude": 4.864775,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 672,
+      "name": "Sil dier en deco",
+      "latitude": 51.648412,
+      "longitude": 6.107839,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 673,
+      "name": "Sjaans Dierenparadijs",
+      "latitude": 51.833766,
+      "longitude": 4.130893,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 674,
+      "name": "Sjaka's Fish Heaven",
+      "latitude": 51.832713,
+      "longitude": 4.343306,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 675,
+      "name": "Smulders Diervoeders",
+      "latitude": 51.615015,
+      "longitude": 5.465255,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 676,
+      "name": "Spanjers voor Dier en Tuin",
+      "latitude": 51.734855,
+      "longitude": 5.52619,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 677,
+      "name": "Special Pet",
+      "latitude": 51.936574,
+      "longitude": 4.578372,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 678,
+      "name": "Steffies Pet Store",
+      "latitude": 51.978176,
+      "longitude": 4.130102,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 679,
+      "name": "Sterkliniek",
+      "latitude": 52.135868,
+      "longitude": 4.667148,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 680,
+      "name": "Stobbe",
+      "latitude": 53.225388,
+      "longitude": 6.528641,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 681,
+      "name": "TM Pet concepts",
+      "latitude": 51.477561,
+      "longitude": 4.053986,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 682,
+      "name": "Takkies Dierenvreugd",
+      "latitude": 52.092295,
+      "longitude": 4.357959,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 683,
+      "name": "Te Morsche",
+      "latitude": 52.359368,
+      "longitude": 6.587547,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 684,
+      "name": "Teeuwen",
+      "latitude": 52.091645,
+      "longitude": 5.102685,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 685,
+      "name": "Ten Napel",
+      "latitude": 52.554524,
+      "longitude": 5.920342,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 686,
+      "name": "Tessa's Dierenspeciaalzaak",
+      "latitude": 52.079572,
+      "longitude": 5.492265,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 687,
+      "name": "The Dog Store & More",
+      "latitude": 51.396367,
+      "longitude": 5.47277,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 688,
+      "name": "Tjoelker Fouragehandel & Dierspeciaal",
+      "latitude": 53.171373,
+      "longitude": 6.182164,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 689,
+      "name": "Tom & Tineke's Dierenspeciaalzaak",
+      "latitude": 52.085935,
+      "longitude": 5.619514,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 690,
+      "name": "Ton's DierenSpeciaalzaak",
+      "latitude": 52.292335,
+      "longitude": 4.583391,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 691,
+      "name": "TopPets",
+      "latitude": 52.228595,
+      "longitude": 6.859403,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 692,
+      "name": "Tosja's Dierenshop & Trimsalon",
+      "latitude": 52.058608,
+      "longitude": 4.336632,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 693,
+      "name": "Treurniet Mengvoeders",
+      "latitude": 51.988648,
+      "longitude": 4.474223,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 694,
+      "name": "Trim- en dierenverzorgingssalon Van der Plaats",
+      "latitude": 52.073953,
+      "longitude": 5.118124,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 695,
+      "name": "Trimsalon Barbat",
+      "latitude": 52.084236,
+      "longitude": 5.030382,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 696,
+      "name": "Tuin & Dierspecialist XL van Henten",
+      "latitude": 52.207171,
+      "longitude": 5.121531,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 697,
+      "name": "Utopia",
+      "latitude": 52.031638,
+      "longitude": 4.70412,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 698,
+      "name": "Uw Dierspecialist ChaNa",
+      "latitude": 51.856476,
+      "longitude": 4.420693,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 699,
+      "name": "Van Beek Dierenwinkel",
+      "latitude": 51.775414,
+      "longitude": 5.935733,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 700,
+      "name": "Van Dijk",
+      "latitude": 52.253481,
+      "longitude": 5.22798,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 701,
+      "name": "Van Essen",
+      "latitude": 52.234266,
+      "longitude": 4.750232,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 702,
+      "name": "Van Gils",
+      "latitude": 51.520531,
+      "longitude": 5.068561,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 703,
+      "name": "Van Gool Dierenspeciaalzaak",
+      "latitude": 51.491331,
+      "longitude": 5.136271,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 704,
+      "name": "Van Hoorn",
+      "latitude": 53.025918,
+      "longitude": 7.109898,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 705,
+      "name": "Van Laarhoven",
+      "latitude": 51.512941,
+      "longitude": 5.495963,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 706,
+      "name": "Van Raaij Diervoeders",
+      "latitude": 51.807089,
+      "longitude": 5.962232,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 707,
+      "name": "Van Tol Dier XL",
+      "latitude": 52.239625,
+      "longitude": 4.836838,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 708,
+      "name": "Van der Bijl Diervoeders",
+      "latitude": 52.126463,
+      "longitude": 6.159885,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 709,
+      "name": "Van der Meer",
+      "latitude": 51.942128,
+      "longitude": 4.400307,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 710,
+      "name": "Vera's Dierenshop",
+      "latitude": 52.090131,
+      "longitude": 4.257663,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 711,
+      "name": "Via Natura",
+      "latitude": 52.158921,
+      "longitude": 5.963487,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 712,
+      "name": "Vijvercentrum Ekkersrijt",
+      "latitude": 51.503458,
+      "longitude": 5.462449,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 713,
+      "name": "Vijverspeciaalzaak Wesdijk",
+      "latitude": 51.854521,
+      "longitude": 4.539931,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 714,
+      "name": "Vissesr dierenvoeding",
+      "latitude": 51.422927,
+      "longitude": 4.328209,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 715,
+      "name": "VitaDier",
+      "latitude": 51.80903,
+      "longitude": 3.937052,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 716,
+      "name": "Vlees voor dier",
+      "latitude": 52.953981,
+      "longitude": 5.828673,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 717,
+      "name": "Vleesje",
+      "latitude": 50.907856,
+      "longitude": 6.038363,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 718,
+      "name": "Volierebouw Aduard",
+      "latitude": 53.254533,
+      "longitude": 6.460101,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 719,
+      "name": "Volièrebouw & Dierenverblijven - De Boer Drachten",
+      "latitude": 53.117783,
+      "longitude": 6.069702,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 720,
+      "name": "Vonk Diervoeders",
+      "latitude": 51.513232,
+      "longitude": 4.439092,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 721,
+      "name": "Vonk Diervoeders",
+      "latitude": 51.894247,
+      "longitude": 4.629873,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 722,
+      "name": "Vonk diervoeders",
+      "latitude": 51.915561,
+      "longitude": 4.587917,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 723,
+      "name": "Vrolijke Labrador Hoeve",
+      "latitude": 52.125269,
+      "longitude": 4.737011,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 724,
+      "name": "W. van der Niet",
+      "latitude": 52.261552,
+      "longitude": 4.491177,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 725,
+      "name": "Weka Diervoeders",
+      "latitude": 51.870657,
+      "longitude": 5.4005,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 726,
+      "name": "Welle",
+      "latitude": 52.271945,
+      "longitude": 5.165572,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 727,
+      "name": "Wellnes4Pets",
+      "latitude": 50.886741,
+      "longitude": 5.744227,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 728,
+      "name": "Wen's Dierenspeciaalzaak",
+      "latitude": 52.38573,
+      "longitude": 6.041442,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 729,
+      "name": "Westrienen Est",
+      "latitude": 51.851885,
+      "longitude": 5.310376,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 730,
+      "name": "Willemse Diervoerders",
+      "latitude": 52.301124,
+      "longitude": 4.664088,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 731,
+      "name": "Wilma's Dierenshop",
+      "latitude": 51.861255,
+      "longitude": 6.487855,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 732,
+      "name": "Witte Molen",
+      "latitude": 51.759958,
+      "longitude": 4.16402,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 733,
+      "name": "World of Animals",
+      "latitude": 52.321836,
+      "longitude": 5.620088,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 734,
+      "name": "ZOO&ZO dierenspeciaalzaak",
+      "latitude": 52.031082,
+      "longitude": 5.644994,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 735,
+      "name": "Zeeuwse Pootjes",
+      "latitude": 51.285694,
+      "longitude": 4.061968,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 736,
+      "name": "Zonneveld",
+      "latitude": 52.111447,
+      "longitude": 5.182772,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 737,
+      "name": "Zooveel",
+      "latitude": 52.224128,
+      "longitude": 6.910159,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 738,
+      "name": "Zunnebeld Hengelsport",
+      "latitude": 52.50631,
+      "longitude": 6.095789,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 739,
+      "name": "Zus & Zoo",
+      "latitude": 52.335769,
+      "longitude": 6.630353,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 740,
+      "name": "Zus en Zoo",
+      "latitude": 52.371089,
+      "longitude": 6.687272,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 741,
+      "name": "biorb Nederland",
+      "latitude": 52.351751,
+      "longitude": 5.189158,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 742,
+      "name": "birdshop",
+      "latitude": 51.436702,
+      "longitude": 5.454243,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 743,
+      "name": "de Speciale Dierenzaak",
+      "latitude": 53.135231,
+      "longitude": 6.564457,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 744,
+      "name": "dierenwinkel Jari",
+      "latitude": 51.930314,
+      "longitude": 5.712303,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 745,
+      "name": "imkershop my Honey",
+      "latitude": 52.398827,
+      "longitude": 6.180942,
+      "osm_klasse": "shop=pet"
+    },
+    {
+      "id": 746,
+      "name": "van der Graaf",
+      "latitude": 52.598208,
+      "longitude": 6.442521,
+      "osm_klasse": "shop=pet"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: pet (shop=pet) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=pet in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 746 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: pet (shop=pet) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: pet (shop=pet) — 746 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 746 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

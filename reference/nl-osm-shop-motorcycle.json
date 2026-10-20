@@ -1,0 +1,2151 @@
+{
+  "id": "nl-osm-shop-motorcycle",
+  "name": "Netherlands OSM: motorcycle (shop=motorcycle)",
+  "title": "Netherlands OSM: motorcycle (shop=motorcycle)",
+  "description": "Named OpenStreetMap features tagged shop=motorcycle in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 300,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "ABCO Motors",
+      "latitude": 51.472533,
+      "longitude": 3.59015,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 2,
+      "name": "ADW motortechniek",
+      "latitude": 51.542296,
+      "longitude": 4.223301,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 3,
+      "name": "AMTmotors.nl",
+      "latitude": 51.996608,
+      "longitude": 4.18092,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 4,
+      "name": "Ace13",
+      "latitude": 51.412288,
+      "longitude": 3.854736,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 5,
+      "name": "Ad van Gils Motors",
+      "latitude": 51.613798,
+      "longitude": 4.719059,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 6,
+      "name": "Adventure motor-store",
+      "latitude": 52.136651,
+      "longitude": 5.491674,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 7,
+      "name": "Affetto Ducati",
+      "latitude": 51.765249,
+      "longitude": 5.778395,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 8,
+      "name": "American V-Twin Shop The Oldtimer",
+      "latitude": 53.149527,
+      "longitude": 6.568504,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 9,
+      "name": "André Motors",
+      "latitude": 52.321242,
+      "longitude": 5.621219,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 10,
+      "name": "Aniu",
+      "latitude": 52.355513,
+      "longitude": 4.929698,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 11,
+      "name": "Antiloop",
+      "latitude": 52.473274,
+      "longitude": 6.004271,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 12,
+      "name": "Arie Molenaar Motors",
+      "latitude": 52.006376,
+      "longitude": 5.042937,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 13,
+      "name": "Arnold's Bikeshop",
+      "latitude": 52.932219,
+      "longitude": 6.425512,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 14,
+      "name": "BCI Motorbikes",
+      "latitude": 51.694167,
+      "longitude": 5.224129,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 15,
+      "name": "BM Motoren & Scooters",
+      "latitude": 52.206364,
+      "longitude": 5.981715,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 16,
+      "name": "BMW Simako",
+      "latitude": 51.914322,
+      "longitude": 5.856382,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 17,
+      "name": "BNM Motoren",
+      "latitude": 51.808769,
+      "longitude": 4.651875,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 18,
+      "name": "BOR Motoren",
+      "latitude": 52.309072,
+      "longitude": 6.99106,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 19,
+      "name": "Baecke Motoren",
+      "latitude": 51.84721,
+      "longitude": 4.325563,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 20,
+      "name": "Bakker Motors",
+      "latitude": 52.429733,
+      "longitude": 4.79165,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 21,
+      "name": "Bart's Scooter Service",
+      "latitude": 51.883896,
+      "longitude": 5.979127,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 22,
+      "name": "Beekman Motoren",
+      "latitude": 52.260899,
+      "longitude": 6.28983,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 23,
+      "name": "Ben Motoren Brummen",
+      "latitude": 52.100627,
+      "longitude": 6.152812,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 24,
+      "name": "BenJan Motoren",
+      "latitude": 51.87569,
+      "longitude": 4.605154,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 25,
+      "name": "Bert's Bromfietsen",
+      "latitude": 52.230588,
+      "longitude": 6.848729,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 26,
+      "name": "Biggelaar performance & tuning",
+      "latitude": 51.579056,
+      "longitude": 5.183319,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 27,
+      "name": "Bike & Ride",
+      "latitude": 53.255246,
+      "longitude": 6.154806,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 28,
+      "name": "Biker Outfit",
+      "latitude": 52.411574,
+      "longitude": 4.881379,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 29,
+      "name": "Biker's Best Goldwings & accessoires",
+      "latitude": 52.07887,
+      "longitude": 5.535239,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 30,
+      "name": "Bikeservice Bas",
+      "latitude": 51.42064,
+      "longitude": 5.432569,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 31,
+      "name": "Bikeshop nultien",
+      "latitude": 51.911932,
+      "longitude": 4.557341,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 32,
+      "name": "Bikkel Bikes",
+      "latitude": 51.488107,
+      "longitude": 5.67021,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 33,
+      "name": "Boonstra motoren",
+      "latitude": 53.094645,
+      "longitude": 6.174938,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 34,
+      "name": "Boshuizen Motor Service",
+      "latitude": 52.380591,
+      "longitude": 6.287241,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 35,
+      "name": "Bossche Motoren Revisie",
+      "latitude": 51.702887,
+      "longitude": 5.266761,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 36,
+      "name": "Brommercentrum",
+      "latitude": 52.496923,
+      "longitude": 6.131265,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 37,
+      "name": "Brouwer Motors",
+      "latitude": 52.179045,
+      "longitude": 5.508538,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 38,
+      "name": "Brouwer Motorsport",
+      "latitude": 52.237885,
+      "longitude": 5.483006,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 39,
+      "name": "Bruggen Tweewielers",
+      "latitude": 52.985801,
+      "longitude": 6.143137,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 40,
+      "name": "Buitenhuis Racing",
+      "latitude": 52.165681,
+      "longitude": 5.371494,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 41,
+      "name": "Burghouwt",
+      "latitude": 51.703415,
+      "longitude": 5.271536,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 42,
+      "name": "Butcher Bikes",
+      "latitude": 52.460891,
+      "longitude": 6.503171,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 43,
+      "name": "Cama Motoren",
+      "latitude": 51.923823,
+      "longitude": 4.2439,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 44,
+      "name": "Cattier Motoren en Onderdelen",
+      "latitude": 52.257328,
+      "longitude": 6.665871,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 45,
+      "name": "Cees Doorakkers Motoren",
+      "latitude": 51.574097,
+      "longitude": 4.883652,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 46,
+      "name": "Collections 2-Wielershop",
+      "latitude": 52.053359,
+      "longitude": 4.236464,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 47,
+      "name": "CrazyWheels Arnhem",
+      "latitude": 51.981304,
+      "longitude": 5.966229,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 48,
+      "name": "DCA Motorcycles",
+      "latitude": 51.469534,
+      "longitude": 5.68037,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 49,
+      "name": "DIPI-Moto",
+      "latitude": 51.546672,
+      "longitude": 4.957036,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 50,
+      "name": "De Haar Motoren",
+      "latitude": 52.209572,
+      "longitude": 4.441042,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 51,
+      "name": "De Jager Scooters",
+      "latitude": 52.666094,
+      "longitude": 4.831827,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 52,
+      "name": "De Motorzaak",
+      "latitude": 52.367865,
+      "longitude": 4.93903,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 53,
+      "name": "De Ruijter Scooters",
+      "latitude": 52.384017,
+      "longitude": 4.848476,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 54,
+      "name": "De Scooterhal Tilburg",
+      "latitude": 51.550977,
+      "longitude": 5.078779,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 55,
+      "name": "De Stoomfiets",
+      "latitude": 53.133882,
+      "longitude": 6.140628,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 56,
+      "name": "Dila Brommers & Scooters",
+      "latitude": 52.515123,
+      "longitude": 4.993275,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 57,
+      "name": "Dirksen Scooters",
+      "latitude": 52.088407,
+      "longitude": 5.618642,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 58,
+      "name": "Divmo",
+      "latitude": 51.581244,
+      "longitude": 4.93546,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 59,
+      "name": "Doornekamp Motorsport",
+      "latitude": 52.168141,
+      "longitude": 5.463929,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 60,
+      "name": "Ducati",
+      "latitude": 51.808315,
+      "longitude": 5.26719,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 61,
+      "name": "Ducati",
+      "latitude": 52.069974,
+      "longitude": 4.743854,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 62,
+      "name": "Ducati",
+      "latitude": 52.392275,
+      "longitude": 4.793372,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 63,
+      "name": "Ducati Assen",
+      "latitude": 53.006232,
+      "longitude": 6.569059,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 64,
+      "name": "Dutch Hills",
+      "latitude": 50.871803,
+      "longitude": 6.041598,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 65,
+      "name": "EaglePlace",
+      "latitude": 53.282773,
+      "longitude": 6.159401,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 66,
+      "name": "Edwin Visser Motoren",
+      "latitude": 52.222814,
+      "longitude": 6.839986,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 67,
+      "name": "Emi Motors Netherlands B.V.",
+      "latitude": 51.845982,
+      "longitude": 5.877267,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 68,
+      "name": "Erik de Wit",
+      "latitude": 52.105325,
+      "longitude": 4.27936,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 69,
+      "name": "Erison Motoren en Scooters",
+      "latitude": 52.327069,
+      "longitude": 6.644289,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 70,
+      "name": "Esvana Motorhuis",
+      "latitude": 52.937805,
+      "longitude": 5.913238,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 71,
+      "name": "FIX Motoren",
+      "latitude": 52.787027,
+      "longitude": 6.0936,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 72,
+      "name": "FM Tweewielers",
+      "latitude": 52.077676,
+      "longitude": 4.332709,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 73,
+      "name": "Fietsenwinkel",
+      "latitude": 52.707816,
+      "longitude": 4.809454,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 74,
+      "name": "First Class Scooters",
+      "latitude": 52.067288,
+      "longitude": 4.31603,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 75,
+      "name": "Flikweert Motoren",
+      "latitude": 51.697162,
+      "longitude": 3.749163,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 76,
+      "name": "Frankl Scooters",
+      "latitude": 52.214368,
+      "longitude": 4.436073,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 77,
+      "name": "Franky's Motorcycles",
+      "latitude": 53.02041,
+      "longitude": 5.684906,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 78,
+      "name": "Frans Bleeker",
+      "latitude": 53.196835,
+      "longitude": 5.633249,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 79,
+      "name": "Fred motoren en scooters",
+      "latitude": 51.911738,
+      "longitude": 4.499252,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 80,
+      "name": "Gebben motoren",
+      "latitude": 52.68556,
+      "longitude": 6.274544,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 81,
+      "name": "Gebro Scooters",
+      "latitude": 52.136464,
+      "longitude": 5.087886,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 82,
+      "name": "Gekra Motors",
+      "latitude": 52.051307,
+      "longitude": 6.106434,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 83,
+      "name": "Goedhart Motoren - Kleding en Outlet",
+      "latitude": 52.070285,
+      "longitude": 4.743495,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 84,
+      "name": "Greefhorst Motorsports",
+      "latitude": 52.158379,
+      "longitude": 5.957413,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 85,
+      "name": "Groenewold motoren",
+      "latitude": 52.003107,
+      "longitude": 4.34247,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 86,
+      "name": "H. D. Service",
+      "latitude": 51.392426,
+      "longitude": 6.176689,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 87,
+      "name": "HN-Motoren",
+      "latitude": 52.009782,
+      "longitude": 4.337107,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 88,
+      "name": "HP Motoren",
+      "latitude": 52.248713,
+      "longitude": 5.25004,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 89,
+      "name": "HV Scooters",
+      "latitude": 52.62918,
+      "longitude": 4.750284,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 90,
+      "name": "Harley Davidson Rotterdam",
+      "latitude": 51.979638,
+      "longitude": 4.61505,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 91,
+      "name": "Harmsen MX Service",
+      "latitude": 52.386663,
+      "longitude": 6.45255,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 92,
+      "name": "Hartelman Motoren",
+      "latitude": 52.041093,
+      "longitude": 6.3083,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 93,
+      "name": "Haselier Motoren",
+      "latitude": 51.116055,
+      "longitude": 5.882345,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 94,
+      "name": "HdeB Engineering",
+      "latitude": 52.766498,
+      "longitude": 6.807014,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 95,
+      "name": "Heima Scooters",
+      "latitude": 52.460818,
+      "longitude": 6.504208,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 96,
+      "name": "Hoegee Suzuki Center",
+      "latitude": 51.881516,
+      "longitude": 5.63084,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 97,
+      "name": "Hoeve Motoren",
+      "latitude": 52.575805,
+      "longitude": 6.290478,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 98,
+      "name": "Huijgen Motoren & Scooters",
+      "latitude": 52.228413,
+      "longitude": 5.364203,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 99,
+      "name": "Huijsmans Service Center",
+      "latitude": 52.254966,
+      "longitude": 4.62449,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 100,
+      "name": "Huybers motoren",
+      "latitude": 51.60769,
+      "longitude": 5.446547,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 101,
+      "name": "J. Dillewijn Motoren",
+      "latitude": 51.594569,
+      "longitude": 4.793285,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 102,
+      "name": "JTX Racing",
+      "latitude": 51.729857,
+      "longitude": 5.869609,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 103,
+      "name": "JV Motors",
+      "latitude": 52.640292,
+      "longitude": 6.071501,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 104,
+      "name": "Jager Motoren B.V.",
+      "latitude": 52.71356,
+      "longitude": 6.514409,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 105,
+      "name": "Jan Dokter Motors",
+      "latitude": 52.04026,
+      "longitude": 5.667293,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 106,
+      "name": "Jan Heusschen MX Service",
+      "latitude": 51.554615,
+      "longitude": 5.692825,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 107,
+      "name": "Jan van Dam Motoren",
+      "latitude": 51.912982,
+      "longitude": 5.865471,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 108,
+      "name": "Japparts",
+      "latitude": 51.328115,
+      "longitude": 3.486668,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 109,
+      "name": "Joeynash",
+      "latitude": 52.236072,
+      "longitude": 5.702131,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 110,
+      "name": "Jonkers Motoren",
+      "latitude": 51.695504,
+      "longitude": 5.196462,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 111,
+      "name": "Joost Motoren",
+      "latitude": 52.123146,
+      "longitude": 5.046193,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 112,
+      "name": "Jos Engbers Motoren",
+      "latitude": 52.401564,
+      "longitude": 6.789824,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 113,
+      "name": "Jos Smit Motoren",
+      "latitude": 52.403673,
+      "longitude": 4.647943,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 114,
+      "name": "Kipa Scooters",
+      "latitude": 51.522421,
+      "longitude": 5.062773,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 115,
+      "name": "Knoppert Motoren",
+      "latitude": 52.253285,
+      "longitude": 5.593961,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 116,
+      "name": "Kobo Motoren",
+      "latitude": 53.126806,
+      "longitude": 6.078579,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 117,
+      "name": "Koks Motoren",
+      "latitude": 51.558778,
+      "longitude": 5.681917,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 118,
+      "name": "L. Kramer Tweewielers",
+      "latitude": 52.654066,
+      "longitude": 5.625566,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 119,
+      "name": "La Souris",
+      "latitude": 51.554826,
+      "longitude": 5.080823,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 120,
+      "name": "La Souris",
+      "latitude": 51.588208,
+      "longitude": 4.771039,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 121,
+      "name": "La Souris",
+      "latitude": 52.102264,
+      "longitude": 5.097586,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 122,
+      "name": "La Souris",
+      "latitude": 52.216655,
+      "longitude": 6.88939,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 123,
+      "name": "La Souris",
+      "latitude": 52.377582,
+      "longitude": 4.616849,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 124,
+      "name": "La Souris",
+      "latitude": 53.21506,
+      "longitude": 6.557523,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 125,
+      "name": "Lammers Motorsport",
+      "latitude": 51.630933,
+      "longitude": 5.417298,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 126,
+      "name": "Laseur Motoren HD",
+      "latitude": 52.385253,
+      "longitude": 5.219036,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 127,
+      "name": "LiveWire",
+      "latitude": 52.163905,
+      "longitude": 5.34903,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 128,
+      "name": "Louis Motorrad Assen",
+      "latitude": 53.026761,
+      "longitude": 6.570985,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 129,
+      "name": "Louis Motorrad Tilburg",
+      "latitude": 51.582,
+      "longitude": 5.06541,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 130,
+      "name": "Lowlands Biker Store",
+      "latitude": 52.51845,
+      "longitude": 6.075245,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 131,
+      "name": "Lucas Motoren",
+      "latitude": 51.888242,
+      "longitude": 4.390205,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 132,
+      "name": "Luytink Tweewielers",
+      "latitude": 53.224313,
+      "longitude": 6.559977,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 133,
+      "name": "MDI-Motorcycle Equipment",
+      "latitude": 51.782313,
+      "longitude": 5.653751,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 134,
+      "name": "MG Parts",
+      "latitude": 51.683268,
+      "longitude": 5.389485,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 135,
+      "name": "MKC Moto Hazerswoude",
+      "latitude": 52.137968,
+      "longitude": 4.550326,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 136,
+      "name": "MR motoren",
+      "latitude": 51.869448,
+      "longitude": 4.544404,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 137,
+      "name": "MVM motoren",
+      "latitude": 52.122602,
+      "longitude": 5.281016,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 138,
+      "name": "Mamola Motoren",
+      "latitude": 52.196433,
+      "longitude": 6.367661,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 139,
+      "name": "Martin's Motorservice Lelystad",
+      "latitude": 52.503098,
+      "longitude": 5.451818,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 140,
+      "name": "Maximaat",
+      "latitude": 52.022569,
+      "longitude": 4.218054,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 141,
+      "name": "Menno's Motorsport Shop",
+      "latitude": 52.354668,
+      "longitude": 6.493798,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 142,
+      "name": "Mi-Scoot",
+      "latitude": 52.075728,
+      "longitude": 4.403367,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 143,
+      "name": "Mofra",
+      "latitude": 51.578449,
+      "longitude": 4.937504,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 144,
+      "name": "Mokum Motors",
+      "latitude": 52.353668,
+      "longitude": 4.901549,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 145,
+      "name": "Molenaar Motors",
+      "latitude": 52.006805,
+      "longitude": 5.042598,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 146,
+      "name": "Moterhuis Seppe",
+      "latitude": 51.558986,
+      "longitude": 4.544627,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 147,
+      "name": "Moto B",
+      "latitude": 51.933804,
+      "longitude": 6.419118,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 148,
+      "name": "Moto Dick",
+      "latitude": 52.369503,
+      "longitude": 4.872716,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 149,
+      "name": "Moto Hengelo",
+      "latitude": 52.258729,
+      "longitude": 6.807574,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 150,
+      "name": "Moto Hippo",
+      "latitude": 52.901657,
+      "longitude": 4.951225,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 151,
+      "name": "Moto Wijma",
+      "latitude": 53.19525,
+      "longitude": 5.769135,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 152,
+      "name": "MotoPort",
+      "latitude": 52.325564,
+      "longitude": 4.930595,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 153,
+      "name": "MotoPort Almere",
+      "latitude": 52.379369,
+      "longitude": 5.224554,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 154,
+      "name": "MotoPort Den Bosch",
+      "latitude": 51.710021,
+      "longitude": 5.339907,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 155,
+      "name": "MotoPort Goes",
+      "latitude": 51.491658,
+      "longitude": 3.876284,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 156,
+      "name": "MotoPort Hillegom",
+      "latitude": 52.275155,
+      "longitude": 4.573465,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 157,
+      "name": "MotoPort Leeuwarden",
+      "latitude": 53.196932,
+      "longitude": 5.841604,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 158,
+      "name": "MotoPort Rockanje",
+      "latitude": 51.874354,
+      "longitude": 4.075731,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 159,
+      "name": "MotoPort Rotterdam",
+      "latitude": 51.924005,
+      "longitude": 4.41465,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 160,
+      "name": "MotoPort Uithoorn",
+      "latitude": 52.241261,
+      "longitude": 4.83666,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 161,
+      "name": "MotoPort Veldhoven",
+      "latitude": 51.409179,
+      "longitude": 5.414825,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 162,
+      "name": "MotoPort Wormerveer",
+      "latitude": 52.504293,
+      "longitude": 4.777272,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 163,
+      "name": "MotoXshop",
+      "latitude": 51.959374,
+      "longitude": 4.222881,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 164,
+      "name": "Motomonks",
+      "latitude": 52.12634,
+      "longitude": 5.092725,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 165,
+      "name": "Motoport Assen",
+      "latitude": 53.006081,
+      "longitude": 6.568998,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 166,
+      "name": "Motoport Den Haag",
+      "latitude": 52.071542,
+      "longitude": 4.288168,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 167,
+      "name": "Motoport Echt",
+      "latitude": 51.117004,
+      "longitude": 5.879602,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 168,
+      "name": "Motoport Zelhem",
+      "latitude": 52.002302,
+      "longitude": 6.354188,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 169,
+      "name": "Motor Centrum Almere",
+      "latitude": 52.361778,
+      "longitude": 5.180955,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 170,
+      "name": "Motor Centrum Rijen",
+      "latitude": 51.576125,
+      "longitude": 4.932421,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 171,
+      "name": "Motor City Amsterdam",
+      "latitude": 52.391486,
+      "longitude": 4.793667,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 172,
+      "name": "Motor Houtrust",
+      "latitude": 52.053211,
+      "longitude": 4.397132,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 173,
+      "name": "Motor Motion",
+      "latitude": 51.632524,
+      "longitude": 4.873137,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 174,
+      "name": "Motor Saloon",
+      "latitude": 52.163788,
+      "longitude": 5.34894,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 175,
+      "name": "Motor Venray",
+      "latitude": 51.525566,
+      "longitude": 6.010706,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 176,
+      "name": "Motor-Noord",
+      "latitude": 53.360621,
+      "longitude": 6.378551,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 177,
+      "name": "MotorCentrumWest",
+      "latitude": 52.002557,
+      "longitude": 4.210862,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 178,
+      "name": "MotorPlaza Heerenveen",
+      "latitude": 52.979888,
+      "longitude": 5.938252,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 179,
+      "name": "MotorService Eersel",
+      "latitude": 51.37499,
+      "longitude": 5.308016,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 180,
+      "name": "MotorTotaal",
+      "latitude": 51.310493,
+      "longitude": 3.843216,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 181,
+      "name": "Motorado",
+      "latitude": 53.191812,
+      "longitude": 5.764157,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 182,
+      "name": "Motoralo Uden",
+      "latitude": 51.670358,
+      "longitude": 5.607202,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 183,
+      "name": "Motorcenter Venlo",
+      "latitude": 51.379546,
+      "longitude": 6.150696,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 184,
+      "name": "Motorcentrum Bruurs",
+      "latitude": 52.703932,
+      "longitude": 4.803012,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 185,
+      "name": "Motorcentrum Deventer",
+      "latitude": 52.250411,
+      "longitude": 6.229044,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 186,
+      "name": "Motorcentrum Emmeloord",
+      "latitude": 52.70347,
+      "longitude": 5.751065,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 187,
+      "name": "Motorcentrum Groningen",
+      "latitude": 53.23635,
+      "longitude": 6.582989,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 188,
+      "name": "Motorcross Aad",
+      "latitude": 52.016111,
+      "longitude": 4.538485,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 189,
+      "name": "Motorhuis Bakker",
+      "latitude": 52.844535,
+      "longitude": 6.949559,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 190,
+      "name": "Motorhuis De Pit Stop",
+      "latitude": 51.977417,
+      "longitude": 5.943628,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 191,
+      "name": "Motorhuis De Valkenier",
+      "latitude": 52.138858,
+      "longitude": 5.598497,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 192,
+      "name": "Motorhuis Seppe",
+      "latitude": 51.559029,
+      "longitude": 4.544732,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 193,
+      "name": "Motorhuis Zwolle",
+      "latitude": 52.493698,
+      "longitude": 6.119231,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 194,
+      "name": "Motorini",
+      "latitude": 51.466163,
+      "longitude": 4.032256,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 195,
+      "name": "Motorino scooters",
+      "latitude": 52.198241,
+      "longitude": 5.390628,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 196,
+      "name": "Motorkleding Center Tilburg",
+      "latitude": 51.537996,
+      "longitude": 5.076078,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 197,
+      "name": "MotorkledingStore",
+      "latitude": 51.990416,
+      "longitude": 5.10105,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 198,
+      "name": "Motorkledingcenter Zutphen",
+      "latitude": 52.153237,
+      "longitude": 6.201262,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 199,
+      "name": "Motorkledingshop De Watertoren",
+      "latitude": 52.09068,
+      "longitude": 5.241323,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 200,
+      "name": "Motorplanet",
+      "latitude": 52.380729,
+      "longitude": 5.213579,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 201,
+      "name": "Motorplaza",
+      "latitude": 53.209681,
+      "longitude": 6.624644,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 202,
+      "name": "Motorrijschool Motori",
+      "latitude": 51.526045,
+      "longitude": 5.026478,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 203,
+      "name": "Motorrijschool van der Weij",
+      "latitude": 52.361863,
+      "longitude": 5.18085,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 204,
+      "name": "Motorsport Safety Equipment",
+      "latitude": 53.261997,
+      "longitude": 6.007275,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 205,
+      "name": "Motoshop Margraten",
+      "latitude": 50.819753,
+      "longitude": 5.831681,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 206,
+      "name": "Motostore Barendrecht",
+      "latitude": 51.850624,
+      "longitude": 4.513466,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 207,
+      "name": "Motozoom Apeldoorn",
+      "latitude": 52.237597,
+      "longitude": 5.979118,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 208,
+      "name": "Mulder Motoren",
+      "latitude": 52.757149,
+      "longitude": 4.893683,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 209,
+      "name": "Mulders Motoren",
+      "latitude": 53.099494,
+      "longitude": 6.888541,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 210,
+      "name": "MyScooterShop Zandvoort",
+      "latitude": 52.375538,
+      "longitude": 4.529579,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 211,
+      "name": "NH Motoren",
+      "latitude": 52.457189,
+      "longitude": 4.689218,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 212,
+      "name": "NIWA Motorservice",
+      "latitude": 52.699164,
+      "longitude": 5.145924,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 213,
+      "name": "Nijzing Motoren",
+      "latitude": 52.762294,
+      "longitude": 6.917837,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 214,
+      "name": "Nine Motors",
+      "latitude": 52.715725,
+      "longitude": 4.928485,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 215,
+      "name": "Nol Bikker Motoren",
+      "latitude": 51.899945,
+      "longitude": 4.937871,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 216,
+      "name": "Noord Scooters Drachten",
+      "latitude": 53.114551,
+      "longitude": 6.096525,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 217,
+      "name": "Old Racebike Garage",
+      "latitude": 51.871748,
+      "longitude": 6.377862,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 218,
+      "name": "Ovaa Motors",
+      "latitude": 51.450991,
+      "longitude": 3.583221,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 219,
+      "name": "Overkamp Motors",
+      "latitude": 52.007405,
+      "longitude": 4.351694,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 220,
+      "name": "PA Scooters",
+      "latitude": 51.80381,
+      "longitude": 4.668474,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 221,
+      "name": "PM Trails",
+      "latitude": 51.971066,
+      "longitude": 5.316953,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 222,
+      "name": "Perry Scooters",
+      "latitude": 52.378243,
+      "longitude": 4.635112,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 223,
+      "name": "Peter's Classic Bike Parts",
+      "latitude": 51.980519,
+      "longitude": 4.456673,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 224,
+      "name": "Pols Motoren",
+      "latitude": 51.678094,
+      "longitude": 5.051685,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 225,
+      "name": "Premium Motors",
+      "latitude": 52.23755,
+      "longitude": 5.978803,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 226,
+      "name": "RG Tuning",
+      "latitude": 52.354277,
+      "longitude": 5.17058,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 227,
+      "name": "Rally Bike Center",
+      "latitude": 52.167229,
+      "longitude": 6.387128,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 228,
+      "name": "Rat Racer Customs",
+      "latitude": 52.515859,
+      "longitude": 6.106384,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 229,
+      "name": "Revro2wielers",
+      "latitude": 52.079656,
+      "longitude": 4.271001,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 230,
+      "name": "Revvem Motoronderdelen",
+      "latitude": 51.597108,
+      "longitude": 4.734258,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 231,
+      "name": "Riding Eagle Motors",
+      "latitude": 52.276136,
+      "longitude": 4.786004,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 232,
+      "name": "Rito Scooters",
+      "latitude": 52.638199,
+      "longitude": 4.753624,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 233,
+      "name": "Road House Motoren",
+      "latitude": 51.908276,
+      "longitude": 4.348903,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 234,
+      "name": "Roadrunner Motoren",
+      "latitude": 51.993954,
+      "longitude": 5.962687,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 235,
+      "name": "Rob S Accessoires",
+      "latitude": 52.829024,
+      "longitude": 4.766523,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 236,
+      "name": "Rob van Balvert Motoren",
+      "latitude": 51.9409,
+      "longitude": 6.026728,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 237,
+      "name": "Rozendaal Sport On Wheels",
+      "latitude": 52.325722,
+      "longitude": 5.619114,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 238,
+      "name": "Rusty Gold Motorshop",
+      "latitude": 52.358232,
+      "longitude": 4.857943,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 239,
+      "name": "STS Scooters",
+      "latitude": 52.073074,
+      "longitude": 4.265538,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 240,
+      "name": "Scooter & Lifestyle de Voogd",
+      "latitude": 51.473175,
+      "longitude": 3.593633,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 241,
+      "name": "Scooter Center Den Haag",
+      "latitude": 52.069663,
+      "longitude": 4.326756,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 242,
+      "name": "Scooter Cor",
+      "latitude": 52.081591,
+      "longitude": 4.292891,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 243,
+      "name": "Scooter Exclusief",
+      "latitude": 52.145681,
+      "longitude": 4.491458,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 244,
+      "name": "Scooter Koning",
+      "latitude": 51.577034,
+      "longitude": 5.126277,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 245,
+      "name": "Scooter Oost",
+      "latitude": 52.355316,
+      "longitude": 4.922939,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 246,
+      "name": "Scooter Plaza West",
+      "latitude": 52.356839,
+      "longitude": 4.827653,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 247,
+      "name": "Scooter Plus Voorburg",
+      "latitude": 52.079617,
+      "longitude": 4.352661,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 248,
+      "name": "Scooter Service Rotterdam",
+      "latitude": 51.929113,
+      "longitude": 4.501636,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 249,
+      "name": "Scooter Stage",
+      "latitude": 52.04926,
+      "longitude": 4.33339,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 250,
+      "name": "Scootercare",
+      "latitude": 52.223107,
+      "longitude": 5.169561,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 251,
+      "name": "Scootercentrum Buitenkamp",
+      "latitude": 51.963676,
+      "longitude": 5.969811,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 252,
+      "name": "Scootercentrum Den Haag B.V.",
+      "latitude": 52.104853,
+      "longitude": 4.275131,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 253,
+      "name": "Scootergoods",
+      "latitude": 51.574899,
+      "longitude": 5.138898,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 254,
+      "name": "Scooters en Motoren Job Loeff",
+      "latitude": 51.87722,
+      "longitude": 5.942611,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 255,
+      "name": "Scootershop Delft",
+      "latitude": 52.022556,
+      "longitude": 4.352705,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 256,
+      "name": "Scootershop-hillegom",
+      "latitude": 52.292931,
+      "longitude": 4.580839,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 257,
+      "name": "Scootersmart",
+      "latitude": 52.33463,
+      "longitude": 5.216651,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 258,
+      "name": "Scooterstad",
+      "latitude": 52.632445,
+      "longitude": 4.752417,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 259,
+      "name": "Simako-BDM Apeldoorn",
+      "latitude": 52.246795,
+      "longitude": 5.970782,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 260,
+      "name": "Simon Schram Motoren",
+      "latitude": 52.880449,
+      "longitude": 6.016828,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 261,
+      "name": "Snelmotoren",
+      "latitude": 52.088478,
+      "longitude": 5.212143,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 262,
+      "name": "Solex Verhuur Ruinen",
+      "latitude": 52.755159,
+      "longitude": 6.350729,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 263,
+      "name": "Speedservice Motorshop",
+      "latitude": 51.484221,
+      "longitude": 4.299495,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 264,
+      "name": "Star Twin Motors BV",
+      "latitude": 52.13308,
+      "longitude": 6.042686,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 265,
+      "name": "Stella Motoren",
+      "latitude": 52.246967,
+      "longitude": 5.970173,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 266,
+      "name": "Suur Motoren",
+      "latitude": 51.824356,
+      "longitude": 4.429715,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 267,
+      "name": "Swinkels motoren",
+      "latitude": 51.570198,
+      "longitude": 5.078266,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 268,
+      "name": "THS Scooter & Parts",
+      "latitude": 51.587259,
+      "longitude": 4.768772,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 269,
+      "name": "TLM Nijmegen",
+      "latitude": 51.840867,
+      "longitude": 5.808501,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 270,
+      "name": "TT Motoren",
+      "latitude": 52.503427,
+      "longitude": 6.120324,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 271,
+      "name": "Team Liemers Motoren",
+      "latitude": 51.984957,
+      "longitude": 6.043211,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 272,
+      "name": "Ten Kate Motoren B.V.",
+      "latitude": 52.589858,
+      "longitude": 6.248573,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 273,
+      "name": "Termaat",
+      "latitude": 51.845066,
+      "longitude": 5.868347,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 274,
+      "name": "TopMoto",
+      "latitude": 52.213097,
+      "longitude": 5.981712,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 275,
+      "name": "TribsaParts",
+      "latitude": 53.088253,
+      "longitude": 5.545971,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 276,
+      "name": "Triumph Brabant Motors Grave",
+      "latitude": 51.746821,
+      "longitude": 5.720814,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 277,
+      "name": "Triumph World Store",
+      "latitude": 52.142214,
+      "longitude": 5.426334,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 278,
+      "name": "Van Gerven Motoren",
+      "latitude": 51.317034,
+      "longitude": 5.34137,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 279,
+      "name": "Van Harten",
+      "latitude": 52.181594,
+      "longitude": 5.427282,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 280,
+      "name": "Van Heek Motorsport",
+      "latitude": 52.315776,
+      "longitude": 6.500354,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 281,
+      "name": "Van Heerdt Motoren",
+      "latitude": 52.220914,
+      "longitude": 5.193841,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 282,
+      "name": "Van Meel",
+      "latitude": 51.673744,
+      "longitude": 4.815862,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 283,
+      "name": "Van der Weerd Motoren",
+      "latitude": 52.227787,
+      "longitude": 5.484241,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 284,
+      "name": "Versteeg Motoren",
+      "latitude": 51.89767,
+      "longitude": 5.909577,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 285,
+      "name": "Vespucci Vespa Laren",
+      "latitude": 52.256519,
+      "longitude": 5.223155,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 286,
+      "name": "Vink Motoren Asperen",
+      "latitude": 51.87864,
+      "longitude": 5.115392,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 287,
+      "name": "Weba Scooters",
+      "latitude": 52.707328,
+      "longitude": 4.817526,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 288,
+      "name": "Wegman Motoren",
+      "latitude": 52.282028,
+      "longitude": 4.800679,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 289,
+      "name": "Wiefferink Motorsport B.V.",
+      "latitude": 52.383723,
+      "longitude": 7.012473,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 290,
+      "name": "Wildeman Motoren Zwolle",
+      "latitude": 52.507214,
+      "longitude": 6.055244,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 291,
+      "name": "Wim ter Braake Motoren",
+      "latitude": 52.734569,
+      "longitude": 6.160488,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 292,
+      "name": "Witteveen Motoren",
+      "latitude": 51.407358,
+      "longitude": 3.843044,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 293,
+      "name": "X-scooter",
+      "latitude": 52.03456,
+      "longitude": 5.553158,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 294,
+      "name": "Yamaha",
+      "latitude": 52.223045,
+      "longitude": 5.149785,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 295,
+      "name": "Zuurbier",
+      "latitude": 51.78922,
+      "longitude": 5.235799,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 296,
+      "name": "de Zwart Motoren",
+      "latitude": 51.247505,
+      "longitude": 5.736094,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 297,
+      "name": "e-scootercenter",
+      "latitude": 51.647136,
+      "longitude": 5.948955,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 298,
+      "name": "fatbike2go",
+      "latitude": 52.099269,
+      "longitude": 5.1022,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 299,
+      "name": "uwvoertuig.nl",
+      "latitude": 51.903986,
+      "longitude": 5.728407,
+      "osm_klasse": "shop=motorcycle"
+    },
+    {
+      "id": 300,
+      "name": "van Meel Motoren",
+      "latitude": 51.673905,
+      "longitude": 4.815748,
+      "osm_klasse": "shop=motorcycle"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: motorcycle (shop=motorcycle) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=motorcycle in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 300 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: motorcycle (shop=motorcycle) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: motorcycle (shop=motorcycle) — 300 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 300 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

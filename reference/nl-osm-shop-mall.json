@@ -1,0 +1,2361 @@
+{
+  "id": "nl-osm-shop-mall",
+  "name": "Netherlands OSM: mall (shop=mall)",
+  "title": "Netherlands OSM: mall (shop=mall)",
+  "description": "Named OpenStreetMap features tagged shop=mall in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 330,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Loo",
+      "latitude": 52.605218,
+      "longitude": 4.711643,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 2,
+      "name": "'t Plateau",
+      "latitude": 51.855548,
+      "longitude": 4.316324,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 3,
+      "name": "'t Rond",
+      "latitude": 53.143063,
+      "longitude": 7.036906,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 4,
+      "name": "ABC Complex",
+      "latitude": 51.849305,
+      "longitude": 4.32809,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 5,
+      "name": "AaBe Fabriek",
+      "latitude": 51.551791,
+      "longitude": 5.105224,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 6,
+      "name": "Akerpoort",
+      "latitude": 52.360642,
+      "longitude": 4.782853,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 7,
+      "name": "Albert Heijn XL",
+      "latitude": 52.140113,
+      "longitude": 6.202631,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 8,
+      "name": "Alexandrium I",
+      "latitude": 51.947919,
+      "longitude": 4.555245,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 9,
+      "name": "Alexandrium I",
+      "latitude": 51.949829,
+      "longitude": 4.553472,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 10,
+      "name": "Alexandrium II",
+      "latitude": 51.951457,
+      "longitude": 4.558818,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 11,
+      "name": "Alexandrium III",
+      "latitude": 51.951408,
+      "longitude": 4.561932,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 12,
+      "name": "Alexandrium Shopping Center",
+      "latitude": 51.950289,
+      "longitude": 4.557404,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 13,
+      "name": "Amsterdam The Style Outlets",
+      "latitude": 52.385534,
+      "longitude": 4.73986,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 14,
+      "name": "Amsterdamse Poort",
+      "latitude": 52.314254,
+      "longitude": 4.953637,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 15,
+      "name": "Assenburg",
+      "latitude": 51.891987,
+      "longitude": 5.898641,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 16,
+      "name": "BaanStay",
+      "latitude": 52.516409,
+      "longitude": 4.999407,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 17,
+      "name": "Bankrashof",
+      "latitude": 52.301877,
+      "longitude": 4.874864,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 18,
+      "name": "Banne Centrum",
+      "latitude": 52.408128,
+      "longitude": 4.916143,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 19,
+      "name": "Batavia Stad Fashion Outlet",
+      "latitude": 52.523321,
+      "longitude": 5.438664,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 20,
+      "name": "Beijersehof",
+      "latitude": 51.820157,
+      "longitude": 4.404929,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 21,
+      "name": "Bellevue",
+      "latitude": 51.778567,
+      "longitude": 5.933662,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 22,
+      "name": "Beukenhof",
+      "latitude": 51.493208,
+      "longitude": 3.893685,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 23,
+      "name": "Binnenhof",
+      "latitude": 52.302815,
+      "longitude": 4.861553,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 24,
+      "name": "Bison Shopping Center",
+      "latitude": 52.135099,
+      "longitude": 5.029925,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 25,
+      "name": "Bogaard stadscentrum",
+      "latitude": 52.036705,
+      "longitude": 4.315277,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 26,
+      "name": "Boodschappencentrum Holendrecht",
+      "latitude": 52.299729,
+      "longitude": 4.963623,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 27,
+      "name": "Bos en Lommerplein",
+      "latitude": 52.378396,
+      "longitude": 4.845764,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 28,
+      "name": "Boulevard Cruquius",
+      "latitude": 52.331959,
+      "longitude": 4.629699,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 29,
+      "name": "Boulevard Nesselande",
+      "latitude": 51.98063,
+      "longitude": 4.582503,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 30,
+      "name": "Brazilië",
+      "latitude": 52.374373,
+      "longitude": 4.936532,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 31,
+      "name": "Castellum",
+      "latitude": 52.017146,
+      "longitude": 5.17792,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 32,
+      "name": "Castellum",
+      "latitude": 52.017788,
+      "longitude": 5.177138,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 33,
+      "name": "Centrum Schalkwijk",
+      "latitude": 52.358987,
+      "longitude": 4.654232,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 34,
+      "name": "City Passage",
+      "latitude": 51.41979,
+      "longitude": 5.405883,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 35,
+      "name": "City Plaza",
+      "latitude": 51.849415,
+      "longitude": 4.331568,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 36,
+      "name": "Cityplaza",
+      "latitude": 52.028445,
+      "longitude": 5.083133,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 37,
+      "name": "Corio Center",
+      "latitude": 50.889173,
+      "longitude": 5.97589,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 38,
+      "name": "De Aarhof",
+      "latitude": 52.129596,
+      "longitude": 4.66486,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 39,
+      "name": "De Barones",
+      "latitude": 51.587461,
+      "longitude": 4.77455,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 40,
+      "name": "De Baronie",
+      "latitude": 52.134719,
+      "longitude": 4.649284,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 41,
+      "name": "De Belleman",
+      "latitude": 51.356044,
+      "longitude": 5.43167,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 42,
+      "name": "De Boreel",
+      "latitude": 52.253554,
+      "longitude": 6.165717,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 43,
+      "name": "De Bossche WoonBoulevard",
+      "latitude": 51.709901,
+      "longitude": 5.337342,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 44,
+      "name": "De Brinken",
+      "latitude": 53.172713,
+      "longitude": 6.60283,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 45,
+      "name": "De Driehoek",
+      "latitude": 52.313825,
+      "longitude": 6.927678,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 46,
+      "name": "De Els",
+      "latitude": 51.689175,
+      "longitude": 5.064513,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 47,
+      "name": "De Esch",
+      "latitude": 51.913536,
+      "longitude": 4.520659,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 48,
+      "name": "De Groene Passage",
+      "latitude": 51.92387,
+      "longitude": 4.488131,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 49,
+      "name": "De Hal",
+      "latitude": 52.226384,
+      "longitude": 5.178379,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 50,
+      "name": "De Harmonie",
+      "latitude": 52.979764,
+      "longitude": 5.442552,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 51,
+      "name": "De Heigalerij",
+      "latitude": 52.214543,
+      "longitude": 5.155583,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 52,
+      "name": "De Hoef",
+      "latitude": 52.632077,
+      "longitude": 4.724049,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 53,
+      "name": "De Hofstee",
+      "latitude": 52.665499,
+      "longitude": 5.596274,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 54,
+      "name": "De Hoftuin",
+      "latitude": 52.191867,
+      "longitude": 4.442626,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 55,
+      "name": "De Hoofdpoort",
+      "latitude": 51.66164,
+      "longitude": 5.035562,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 56,
+      "name": "De Hooge Meeren",
+      "latitude": 53.15532,
+      "longitude": 6.756796,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 57,
+      "name": "De Hoven Passage",
+      "latitude": 51.997412,
+      "longitude": 4.352505,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 58,
+      "name": "De Klanderij",
+      "latitude": 52.217598,
+      "longitude": 6.89871,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 59,
+      "name": "De Kopspijker",
+      "latitude": 51.850276,
+      "longitude": 4.328457,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 60,
+      "name": "De Liekeblom",
+      "latitude": 53.161167,
+      "longitude": 6.391637,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 61,
+      "name": "De Meent",
+      "latitude": 51.825807,
+      "longitude": 4.684227,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 62,
+      "name": "De Meulepassage",
+      "latitude": 52.891881,
+      "longitude": 6.141003,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 63,
+      "name": "De Molenpassage",
+      "latitude": 51.566986,
+      "longitude": 4.636391,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 64,
+      "name": "De Parel",
+      "latitude": 50.946005,
+      "longitude": 5.972318,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 65,
+      "name": "De Raadhuis Passage",
+      "latitude": 51.423958,
+      "longitude": 4.323318,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 66,
+      "name": "De Schoof",
+      "latitude": 51.848886,
+      "longitude": 4.64381,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 67,
+      "name": "De Struytse Hoeck",
+      "latitude": 51.830834,
+      "longitude": 4.14596,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 68,
+      "name": "De Struytse Hoeck",
+      "latitude": 51.831632,
+      "longitude": 4.147224,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 69,
+      "name": "De Struytse Hoeck",
+      "latitude": 51.833872,
+      "longitude": 4.145194,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 70,
+      "name": "De Tuinen",
+      "latitude": 51.992865,
+      "longitude": 4.20544,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 71,
+      "name": "De Weiert",
+      "latitude": 52.782354,
+      "longitude": 6.894644,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 72,
+      "name": "De Wingerd",
+      "latitude": 52.663105,
+      "longitude": 6.880969,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 73,
+      "name": "Design020",
+      "latitude": 52.362215,
+      "longitude": 4.975319,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 74,
+      "name": "Designer Outlet Roermond",
+      "latitude": 51.200453,
+      "longitude": 5.990022,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 75,
+      "name": "Designer Outlet Roosendaal",
+      "latitude": 51.531587,
+      "longitude": 4.428961,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 76,
+      "name": "Designer Outlet Roosendaal",
+      "latitude": 51.531661,
+      "longitude": 4.42806,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 77,
+      "name": "DoeMere",
+      "latitude": 52.392869,
+      "longitude": 5.272221,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 78,
+      "name": "Dorpshart Lisse",
+      "latitude": 52.259774,
+      "longitude": 4.557213,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 79,
+      "name": "Duinpassage",
+      "latitude": 52.939112,
+      "longitude": 4.740114,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 80,
+      "name": "Emiclaer Plaza",
+      "latitude": 52.185823,
+      "longitude": 5.398007,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 81,
+      "name": "Fenix Food Factory",
+      "latitude": 51.902061,
+      "longitude": 4.486841,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 82,
+      "name": "Garage C",
+      "latitude": 51.933378,
+      "longitude": 4.486666,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 83,
+      "name": "Gelderlandplein",
+      "latitude": 52.331158,
+      "longitude": 4.877054,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 84,
+      "name": "GoStores Gouda",
+      "latitude": 52.025935,
+      "longitude": 4.675361,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 85,
+      "name": "GoStores Roosendaal",
+      "latitude": 51.535643,
+      "longitude": 4.487649,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 86,
+      "name": "Gooische Brink Shopping Center",
+      "latitude": 52.224481,
+      "longitude": 5.173023,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 87,
+      "name": "Hart van 's-Gravenzande",
+      "latitude": 52.002076,
+      "longitude": 4.162858,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 88,
+      "name": "Herenhof",
+      "latitude": 52.150846,
+      "longitude": 4.660671,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 89,
+      "name": "Hesseplaats",
+      "latitude": 51.962662,
+      "longitude": 4.552688,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 90,
+      "name": "Hilvertshof",
+      "latitude": 52.225056,
+      "longitude": 5.176197,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 91,
+      "name": "Hof van Hoorn",
+      "latitude": 52.650313,
+      "longitude": 5.051269,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 92,
+      "name": "Home Center",
+      "latitude": 52.886978,
+      "longitude": 5.994209,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 93,
+      "name": "Hoornes passage",
+      "latitude": 52.205958,
+      "longitude": 4.41952,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 94,
+      "name": "Houtmarktpassage",
+      "latitude": 51.585893,
+      "longitude": 4.777073,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 95,
+      "name": "In den Vijfhoek",
+      "latitude": 52.313265,
+      "longitude": 6.926809,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 96,
+      "name": "Irenepromenade",
+      "latitude": 52.221652,
+      "longitude": 6.898071,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 97,
+      "name": "Jorishof",
+      "latitude": 51.870243,
+      "longitude": 4.600674,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 98,
+      "name": "Kalverpassage",
+      "latitude": 52.367476,
+      "longitude": 4.891483,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 99,
+      "name": "Keijzersveste, Winkelcentrum Keijzershof",
+      "latitude": 52.00417,
+      "longitude": 4.442829,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 100,
+      "name": "Keyserstroom",
+      "latitude": 52.69959,
+      "longitude": 6.190246,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 101,
+      "name": "Kloostertuin",
+      "latitude": 51.648468,
+      "longitude": 5.949995,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 102,
+      "name": "Koningshoek",
+      "latitude": 51.928187,
+      "longitude": 4.239915,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 103,
+      "name": "Koningshof",
+      "latitude": 51.870969,
+      "longitude": 4.599543,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 104,
+      "name": "Koperwiek",
+      "latitude": 52.712324,
+      "longitude": 5.276506,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 105,
+      "name": "Lange Voort",
+      "latitude": 52.186345,
+      "longitude": 4.470617,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 106,
+      "name": "Leeuw&stein",
+      "latitude": 52.000033,
+      "longitude": 4.362009,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 107,
+      "name": "Lewenborg",
+      "latitude": 53.237851,
+      "longitude": 6.623577,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 108,
+      "name": "Lijnbaan Promenade",
+      "latitude": 51.760409,
+      "longitude": 4.157854,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 109,
+      "name": "Lindenburg",
+      "latitude": 51.520316,
+      "longitude": 4.473381,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 110,
+      "name": "Magna Plaza",
+      "latitude": 52.373585,
+      "longitude": 4.890078,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 111,
+      "name": "Makado",
+      "latitude": 52.509177,
+      "longitude": 4.968679,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 112,
+      "name": "Makado Centrum",
+      "latitude": 52.78759,
+      "longitude": 4.798241,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 113,
+      "name": "Makado Winkelcentrum",
+      "latitude": 51.863554,
+      "longitude": 4.657885,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 114,
+      "name": "Makadocenter",
+      "latitude": 52.033149,
+      "longitude": 5.082536,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 115,
+      "name": "Markt 4",
+      "latitude": 51.227826,
+      "longitude": 3.799208,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 116,
+      "name": "Markthof",
+      "latitude": 52.076715,
+      "longitude": 4.31504,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 117,
+      "name": "MegaStores Den Haag",
+      "latitude": 52.065266,
+      "longitude": 4.317053,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 118,
+      "name": "Mercuriuscentrum",
+      "latitude": 52.995759,
+      "longitude": 6.559916,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 119,
+      "name": "Meubelboulevard Emmen",
+      "latitude": 52.751416,
+      "longitude": 6.918949,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 120,
+      "name": "Meubelplein Ekkersrijt",
+      "latitude": 51.498208,
+      "longitude": 5.469259,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 121,
+      "name": "Midas",
+      "latitude": 51.404315,
+      "longitude": 5.746804,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 122,
+      "name": "Middenwaard",
+      "latitude": 52.662963,
+      "longitude": 4.828577,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 123,
+      "name": "Miro Center",
+      "latitude": 52.219425,
+      "longitude": 6.928198,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 124,
+      "name": "Moerman Woon Promenade",
+      "latitude": 51.837961,
+      "longitude": 4.135653,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 125,
+      "name": "Moleneindplein",
+      "latitude": 51.645481,
+      "longitude": 5.283433,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 126,
+      "name": "Molenpoort",
+      "latitude": 51.844266,
+      "longitude": 5.863855,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 127,
+      "name": "Molenpoorthof",
+      "latitude": 51.876234,
+      "longitude": 6.245398,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 128,
+      "name": "Molenwijk",
+      "latitude": 52.417196,
+      "longitude": 4.892949,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 129,
+      "name": "New Babylon",
+      "latitude": 52.082462,
+      "longitude": 4.324827,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 130,
+      "name": "New Babylon Shopping Center",
+      "latitude": 52.082427,
+      "longitude": 4.324826,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 131,
+      "name": "Nieuwe Passage",
+      "latitude": 51.91507,
+      "longitude": 4.400386,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 132,
+      "name": "Nijhoffpassage",
+      "latitude": 51.996337,
+      "longitude": 4.352537,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 133,
+      "name": "Notenhout",
+      "latitude": 51.830435,
+      "longitude": 5.813913,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 134,
+      "name": "OMAH-XL",
+      "latitude": 53.007259,
+      "longitude": 6.046939,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 135,
+      "name": "Overkapel",
+      "latitude": 52.115568,
+      "longitude": 5.128133,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 136,
+      "name": "Palace Promenade 'Shopping by the sea'",
+      "latitude": 52.114286,
+      "longitude": 4.28328,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 137,
+      "name": "Palazzo",
+      "latitude": 52.491199,
+      "longitude": 5.483075,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 138,
+      "name": "Parkboulevard",
+      "latitude": 51.908478,
+      "longitude": 4.438375,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 139,
+      "name": "Particon",
+      "latitude": 51.921511,
+      "longitude": 4.379687,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 140,
+      "name": "Passage",
+      "latitude": 51.532276,
+      "longitude": 4.456984,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 141,
+      "name": "Passage Molenpoort",
+      "latitude": 51.844212,
+      "longitude": 5.864001,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 142,
+      "name": "Piazza Center",
+      "latitude": 51.837172,
+      "longitude": 4.961727,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 143,
+      "name": "Poelmarkt",
+      "latitude": 52.248992,
+      "longitude": 4.561624,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 144,
+      "name": "Polplein",
+      "latitude": 52.152779,
+      "longitude": 6.201437,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 145,
+      "name": "Poortvliet XXL",
+      "latitude": 51.54932,
+      "longitude": 4.143591,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 146,
+      "name": "Prinsenland",
+      "latitude": 51.928813,
+      "longitude": 4.546696,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 147,
+      "name": "Reigerhof",
+      "latitude": 51.967994,
+      "longitude": 4.618565,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 148,
+      "name": "Rembrandthof",
+      "latitude": 52.303496,
+      "longitude": 4.859841,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 149,
+      "name": "Ridderhof 1",
+      "latitude": 51.869573,
+      "longitude": 4.599396,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 150,
+      "name": "Ridderhof 2",
+      "latitude": 51.869249,
+      "longitude": 4.600666,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 151,
+      "name": "Ridderkern",
+      "latitude": 51.870004,
+      "longitude": 4.599719,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 152,
+      "name": "Rijneke Boulevard",
+      "latitude": 52.138556,
+      "longitude": 4.548146,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 153,
+      "name": "Rijnhoek Plaza",
+      "latitude": 52.086865,
+      "longitude": 4.737741,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 154,
+      "name": "Roselaar",
+      "latitude": 51.53057,
+      "longitude": 4.453938,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 155,
+      "name": "Scheepjeshof",
+      "latitude": 52.029392,
+      "longitude": 5.556796,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 156,
+      "name": "Schiphol Plaza",
+      "latitude": 52.309557,
+      "longitude": 4.762243,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 157,
+      "name": "Spaarneboog",
+      "latitude": 52.391115,
+      "longitude": 4.648411,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 158,
+      "name": "Spijksepoort",
+      "latitude": 51.836094,
+      "longitude": 4.981951,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 159,
+      "name": "Spuimarkt",
+      "latitude": 52.077034,
+      "longitude": 4.314783,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 160,
+      "name": "Stada Stores",
+      "latitude": 51.594325,
+      "longitude": 4.747867,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 161,
+      "name": "Stadhuispassage",
+      "latitude": 51.848151,
+      "longitude": 4.329581,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 162,
+      "name": "Stadhuispassage",
+      "latitude": 51.848612,
+      "longitude": 4.32928,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 163,
+      "name": "Stadspoort",
+      "latitude": 52.017867,
+      "longitude": 5.649997,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 164,
+      "name": "Streekhof",
+      "latitude": 52.697436,
+      "longitude": 5.234332,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 165,
+      "name": "SuyderSee",
+      "latitude": 52.524814,
+      "longitude": 5.718408,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 166,
+      "name": "Symfonie",
+      "latitude": 52.264777,
+      "longitude": 4.632464,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 167,
+      "name": "Tolberg centrum",
+      "latitude": 51.513477,
+      "longitude": 4.438782,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 168,
+      "name": "Twentec",
+      "latitude": 52.216803,
+      "longitude": 6.898366,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 169,
+      "name": "Urban Shopper",
+      "latitude": 51.447518,
+      "longitude": 5.455647,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 170,
+      "name": "Van Ommeren Optiek",
+      "latitude": 51.910028,
+      "longitude": 4.447817,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 171,
+      "name": "Van Os",
+      "latitude": 52.224783,
+      "longitude": 5.175999,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 172,
+      "name": "Velserhof",
+      "latitude": 52.458703,
+      "longitude": 4.616115,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 173,
+      "name": "Versgaard",
+      "latitude": 51.995903,
+      "longitude": 5.9694,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 174,
+      "name": "Villa Arena",
+      "latitude": 52.312635,
+      "longitude": 4.939432,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 175,
+      "name": "WOOON",
+      "latitude": 52.157226,
+      "longitude": 4.543323,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 176,
+      "name": "Westerkoog",
+      "latitude": 52.457339,
+      "longitude": 4.800322,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 177,
+      "name": "Westfield Mall of the Netherlands",
+      "latitude": 52.088522,
+      "longitude": 4.383387,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 178,
+      "name": "Wijborgh",
+      "latitude": 51.962124,
+      "longitude": 5.967426,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 179,
+      "name": "Wijkerbaan",
+      "latitude": 52.496435,
+      "longitude": 4.664598,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 180,
+      "name": "Wilgendonk",
+      "latitude": 51.836376,
+      "longitude": 4.70172,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 181,
+      "name": "Willem Eggertcentrum",
+      "latitude": 52.508602,
+      "longitude": 4.947132,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 182,
+      "name": "Winkelcentrum AA-Landen",
+      "latitude": 52.529543,
+      "longitude": 6.102199,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 183,
+      "name": "Winkelcentrum Ackershof",
+      "latitude": 52.019125,
+      "longitude": 4.433035,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 184,
+      "name": "Winkelcentrum Appelscha",
+      "latitude": 52.954493,
+      "longitude": 6.354141,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 185,
+      "name": "Winkelcentrum Berkel en Rodenrijs",
+      "latitude": 51.994437,
+      "longitude": 4.475787,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 186,
+      "name": "Winkelcentrum Beverhof",
+      "latitude": 52.482395,
+      "longitude": 4.660027,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 187,
+      "name": "Winkelcentrum Bilgaard",
+      "latitude": 53.2155,
+      "longitude": 5.794937,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 188,
+      "name": "Winkelcentrum Bloemendaal",
+      "latitude": 52.031989,
+      "longitude": 4.704042,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 189,
+      "name": "Winkelcentrum Boswinkel",
+      "latitude": 52.206084,
+      "longitude": 6.879707,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 190,
+      "name": "Winkelcentrum Broekerveiling",
+      "latitude": 52.679404,
+      "longitude": 4.803811,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 191,
+      "name": "Winkelcentrum Caberg",
+      "latitude": 50.860399,
+      "longitude": 5.669062,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 192,
+      "name": "Winkelcentrum Cassandraplein",
+      "latitude": 51.459835,
+      "longitude": 5.48907,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 193,
+      "name": "Winkelcentrum Crimpenhof",
+      "latitude": 51.915152,
+      "longitude": 4.589357,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 194,
+      "name": "Winkelcentrum Dabbehof",
+      "latitude": 51.689682,
+      "longitude": 4.213197,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 195,
+      "name": "Winkelcentrum Dauwendaele",
+      "latitude": 51.492298,
+      "longitude": 3.621869,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 196,
+      "name": "Winkelcentrum De Bieshof",
+      "latitude": 51.803271,
+      "longitude": 4.717219,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 197,
+      "name": "Winkelcentrum De Blaak",
+      "latitude": 51.544921,
+      "longitude": 5.046544,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 198,
+      "name": "Winkelcentrum De Bus",
+      "latitude": 51.49494,
+      "longitude": 5.667758,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 199,
+      "name": "Winkelcentrum De Emerald",
+      "latitude": 52.00521,
+      "longitude": 4.390919,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 200,
+      "name": "Winkelcentrum De Gors",
+      "latitude": 52.494295,
+      "longitude": 4.952936,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 201,
+      "name": "Winkelcentrum De Horden",
+      "latitude": 51.973556,
+      "longitude": 5.327138,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 202,
+      "name": "Winkelcentrum De Laverije",
+      "latitude": 51.588377,
+      "longitude": 4.918417,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 203,
+      "name": "Winkelcentrum De Lely",
+      "latitude": 51.973138,
+      "longitude": 5.933959,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 204,
+      "name": "Winkelcentrum De Passage",
+      "latitude": 52.180811,
+      "longitude": 4.999189,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 205,
+      "name": "Winkelcentrum De Riepel",
+      "latitude": 52.897996,
+      "longitude": 4.754223,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 206,
+      "name": "Winkelcentrum De Ruwert",
+      "latitude": 51.753753,
+      "longitude": 5.511975,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 207,
+      "name": "Winkelcentrum De Scholver",
+      "latitude": 51.953152,
+      "longitude": 4.584625,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 208,
+      "name": "Winkelcentrum De Stient",
+      "latitude": 52.498079,
+      "longitude": 5.053022,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 209,
+      "name": "Winkelcentrum Den Binnen",
+      "latitude": 51.442142,
+      "longitude": 5.618954,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 210,
+      "name": "Winkelcentrum Deppenbroek",
+      "latitude": 52.23933,
+      "longitude": 6.893584,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 211,
+      "name": "Winkelcentrum Dorperweerth",
+      "latitude": 52.885208,
+      "longitude": 4.740015,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 212,
+      "name": "Winkelcentrum Dorrestein",
+      "latitude": 51.96606,
+      "longitude": 4.607319,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 213,
+      "name": "Winkelcentrum Drielanden",
+      "latitude": 52.32499,
+      "longitude": 5.601683,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 214,
+      "name": "Winkelcentrum Dronten-Zuid",
+      "latitude": 52.513183,
+      "longitude": 5.720912,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 215,
+      "name": "Winkelcentrum Dukenburg",
+      "latitude": 51.823001,
+      "longitude": 5.796622,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 216,
+      "name": "Winkelcentrum Eckart",
+      "latitude": 51.470066,
+      "longitude": 5.494336,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 217,
+      "name": "Winkelcentrum Etten-Leur",
+      "latitude": 51.567902,
+      "longitude": 4.636801,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 218,
+      "name": "Winkelcentrum Evertsenplein",
+      "latitude": 51.833329,
+      "longitude": 4.130496,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 219,
+      "name": "Winkelcentrum Gansehof",
+      "latitude": 52.662942,
+      "longitude": 6.738024,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 220,
+      "name": "Winkelcentrum Geesterduin",
+      "latitude": 52.550428,
+      "longitude": 4.673852,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 221,
+      "name": "Winkelcentrum Gildeplein",
+      "latitude": 52.505698,
+      "longitude": 4.984935,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 222,
+      "name": "Winkelcentrum Goverwelle",
+      "latitude": 52.011146,
+      "longitude": 4.744034,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 223,
+      "name": "Winkelcentrum Groot Driene",
+      "latitude": 52.262601,
+      "longitude": 6.821743,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 224,
+      "name": "Winkelcentrum Hasselo",
+      "latitude": 52.284419,
+      "longitude": 6.828299,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 225,
+      "name": "Winkelcentrum Havenhof",
+      "latitude": 52.493931,
+      "longitude": 5.072013,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 226,
+      "name": "Winkelcentrum Heivelden",
+      "latitude": 51.500957,
+      "longitude": 5.372882,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 227,
+      "name": "Winkelcentrum Helmerhoek",
+      "latitude": 52.193811,
+      "longitude": 6.855517,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 228,
+      "name": "Winkelcentrum Hengelose Es",
+      "latitude": 52.276528,
+      "longitude": 6.792531,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 229,
+      "name": "Winkelcentrum Het Stroink",
+      "latitude": 52.19345,
+      "longitude": 6.900918,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 230,
+      "name": "Winkelcentrum Hoge Vucht",
+      "latitude": 51.608186,
+      "longitude": 4.789793,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 231,
+      "name": "Winkelcentrum Hoog Dalem",
+      "latitude": 51.837294,
+      "longitude": 5.007307,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 232,
+      "name": "Winkelcentrum Kerkelanden",
+      "latitude": 52.216024,
+      "longitude": 5.141296,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 233,
+      "name": "Winkelcentrum Kernkwartier",
+      "latitude": 51.46477,
+      "longitude": 5.550041,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 234,
+      "name": "Winkelcentrum Klarendal",
+      "latitude": 51.989107,
+      "longitude": 5.922284,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 235,
+      "name": "Winkelcentrum Koekoeklaan",
+      "latitude": 52.268276,
+      "longitude": 5.183813,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 236,
+      "name": "Winkelcentrum Koningsplein",
+      "latitude": 52.218668,
+      "longitude": 6.893762,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 237,
+      "name": "Winkelcentrum Koperwiek",
+      "latitude": 51.929804,
+      "longitude": 4.589754,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 238,
+      "name": "Winkelcentrum Kort ambacht",
+      "latitude": 51.811766,
+      "longitude": 4.627793,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 239,
+      "name": "Winkelcentrum Kruidenwijk",
+      "latitude": 52.38231,
+      "longitude": 5.198385,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 240,
+      "name": "Winkelcentrum Lage Bothof",
+      "latitude": 52.223816,
+      "longitude": 6.910668,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 241,
+      "name": "Winkelcentrum Leerdam West",
+      "latitude": 51.890246,
+      "longitude": 5.080859,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 242,
+      "name": "Winkelcentrum Leyenburg",
+      "latitude": 52.062057,
+      "longitude": 4.269356,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 243,
+      "name": "Winkelcentrum Maaspoort",
+      "latitude": 51.726508,
+      "longitude": 5.307417,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 244,
+      "name": "Winkelcentrum Maaswijk",
+      "latitude": 51.833748,
+      "longitude": 4.362036,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 245,
+      "name": "Winkelcentrum Maertensplein",
+      "latitude": 52.155852,
+      "longitude": 5.176492,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 246,
+      "name": "Winkelcentrum Makado",
+      "latitude": 50.949377,
+      "longitude": 5.795096,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 247,
+      "name": "Winkelcentrum Meerland",
+      "latitude": 52.494062,
+      "longitude": 4.96914,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 248,
+      "name": "Winkelcentrum Meerzicht",
+      "latitude": 52.056019,
+      "longitude": 4.469065,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 249,
+      "name": "Winkelcentrum Miro",
+      "latitude": 52.51004,
+      "longitude": 4.959393,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 250,
+      "name": "Winkelcentrum Muziekwijk",
+      "latitude": 52.366973,
+      "longitude": 5.191005,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 251,
+      "name": "Winkelcentrum Nova",
+      "latitude": 52.074545,
+      "longitude": 5.094568,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 252,
+      "name": "Winkelcentrum Oosterboer",
+      "latitude": 52.696489,
+      "longitude": 6.218585,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 253,
+      "name": "Winkelcentrum Op de Brouwerij",
+      "latitude": 52.231607,
+      "longitude": 6.890756,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 254,
+      "name": "Winkelcentrum Overhees",
+      "latitude": 52.168942,
+      "longitude": 5.281617,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 255,
+      "name": "Winkelcentrum Overwhere",
+      "latitude": 52.520859,
+      "longitude": 4.961846,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 256,
+      "name": "Winkelcentrum Paauwenhof",
+      "latitude": 51.462066,
+      "longitude": 3.551933,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 257,
+      "name": "Winkelcentrum Paddepoel",
+      "latitude": 53.230084,
+      "longitude": 6.543586,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 258,
+      "name": "Winkelcentrum Parade Nootdorp",
+      "latitude": 52.045192,
+      "longitude": 4.391691,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 259,
+      "name": "Winkelcentrum Parkwijk",
+      "latitude": 52.375817,
+      "longitude": 5.243666,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 260,
+      "name": "Winkelcentrum Passewaaij",
+      "latitude": 51.870695,
+      "longitude": 5.400384,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 261,
+      "name": "Winkelcentrum Plein '40-'45",
+      "latitude": 52.380077,
+      "longitude": 4.822469,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 262,
+      "name": "Winkelcentrum Polderplein",
+      "latitude": 52.302614,
+      "longitude": 4.694705,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 263,
+      "name": "Winkelcentrum Rokkeveen",
+      "latitude": 52.043463,
+      "longitude": 4.477007,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 264,
+      "name": "Winkelcentrum Ruischerwaard",
+      "latitude": 53.231047,
+      "longitude": 6.618034,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 265,
+      "name": "Winkelcentrum Seinhorst",
+      "latitude": 52.232037,
+      "longitude": 5.191753,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 266,
+      "name": "Winkelcentrum Smitshof",
+      "latitude": 52.171798,
+      "longitude": 5.29208,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 267,
+      "name": "Winkelcentrum Stadshart",
+      "latitude": 52.061437,
+      "longitude": 4.488858,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 268,
+      "name": "Winkelcentrum Stadsveld",
+      "latitude": 52.210741,
+      "longitude": 6.862993,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 269,
+      "name": "Winkelcentrum Stein",
+      "latitude": 50.968508,
+      "longitude": 5.766085,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 270,
+      "name": "Winkelcentrum Sterrenburg",
+      "latitude": 51.785831,
+      "longitude": 4.676622,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 271,
+      "name": "Winkelcentrum Stokhorst",
+      "latitude": 52.22922,
+      "longitude": 6.921245,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 272,
+      "name": "Winkelcentrum The Wall",
+      "latitude": 52.106223,
+      "longitude": 5.056508,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 273,
+      "name": "Winkelcentrum Tuinzigt",
+      "latitude": 51.587414,
+      "longitude": 4.753398,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 274,
+      "name": "Winkelcentrum Twekkelerveld",
+      "latitude": 52.228882,
+      "longitude": 6.858588,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 275,
+      "name": "Winkelcentrum Urkerhard",
+      "latitude": 52.662553,
+      "longitude": 5.624868,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 276,
+      "name": "Winkelcentrum Ussen",
+      "latitude": 51.766139,
+      "longitude": 5.501786,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 277,
+      "name": "Winkelcentrum Vaartbroek",
+      "latitude": 51.477325,
+      "longitude": 5.492512,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 278,
+      "name": "Winkelcentrum Vier Meren",
+      "latitude": 52.302215,
+      "longitude": 4.69291,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 279,
+      "name": "Winkelcentrum Vleuterweide",
+      "latitude": 52.092843,
+      "longitude": 5.011699,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 280,
+      "name": "Winkelcentrum Walburg",
+      "latitude": 51.822943,
+      "longitude": 4.651172,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 281,
+      "name": "Winkelcentrum Weidevenne",
+      "latitude": 52.496558,
+      "longitude": 4.938604,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 282,
+      "name": "Winkelcentrum Westermarkt",
+      "latitude": 51.569335,
+      "longitude": 5.053047,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 283,
+      "name": "Winkelcentrum Westerwater",
+      "latitude": 51.994576,
+      "longitude": 4.475807,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 284,
+      "name": "Winkelcentrum Westlede",
+      "latitude": 51.879289,
+      "longitude": 5.419823,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 285,
+      "name": "Winkelcentrum Westwijk",
+      "latitude": 52.281948,
+      "longitude": 4.826635,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 286,
+      "name": "Winkelcentrum Winkelhof",
+      "latitude": 52.16262,
+      "longitude": 4.53259,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 287,
+      "name": "Winkelcentrum Zijdelwaard",
+      "latitude": 52.246244,
+      "longitude": 4.827495,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 288,
+      "name": "Winkelcentrum Zuid",
+      "latitude": 52.191885,
+      "longitude": 6.879552,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 289,
+      "name": "Winkelcentrum Zuiderhout",
+      "latitude": 51.627425,
+      "longitude": 4.857562,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 290,
+      "name": "Winkelcentrum Zwolle-Zuid",
+      "latitude": 52.48338,
+      "longitude": 6.110347,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 291,
+      "name": "Winkelcentrum de Clinkhoef",
+      "latitude": 52.02725,
+      "longitude": 5.047102,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 292,
+      "name": "Winkelcentrum de Heul",
+      "latitude": 51.979391,
+      "longitude": 5.341346,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 293,
+      "name": "Winkelcentrum de Horden",
+      "latitude": 51.973682,
+      "longitude": 5.327106,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 294,
+      "name": "Winkelcentrum de Kopermolen",
+      "latitude": 52.176913,
+      "longitude": 4.505511,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 295,
+      "name": "Winkelcentrum de Savornin Lohman",
+      "latitude": 52.066439,
+      "longitude": 4.24639,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 296,
+      "name": "Winkelcentrum de Waagpassage",
+      "latitude": 52.509852,
+      "longitude": 5.474667,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 297,
+      "name": "Winkelcentrum de Wieën",
+      "latitude": 51.367706,
+      "longitude": 6.150146,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 298,
+      "name": "Winkelcentrum malden",
+      "latitude": 51.782059,
+      "longitude": 5.853811,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 299,
+      "name": "Winkelhart Zwaagdijk",
+      "latitude": 52.697005,
+      "longitude": 5.117565,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 300,
+      "name": "Winkelpromenade Zeezijde",
+      "latitude": 52.205232,
+      "longitude": 4.396392,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 301,
+      "name": "Witte Boerderij",
+      "latitude": 51.81847,
+      "longitude": 4.523868,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 302,
+      "name": "Woonboulevard AaBe",
+      "latitude": 51.550782,
+      "longitude": 5.104588,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 303,
+      "name": "Woonboulevard Almelo",
+      "latitude": 52.340084,
+      "longitude": 6.643309,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 304,
+      "name": "Woonboulevard Apeldoorn",
+      "latitude": 52.21214,
+      "longitude": 5.998912,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 305,
+      "name": "Woonboulevard Barendrecht",
+      "latitude": 51.870167,
+      "longitude": 4.545583,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 306,
+      "name": "Woonboulevard Capelle XL",
+      "latitude": 51.954031,
+      "longitude": 4.569197,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 307,
+      "name": "Woonboulevard De Mortiere",
+      "latitude": 51.481337,
+      "longitude": 3.625388,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 308,
+      "name": "Woonboulevard Dordt",
+      "latitude": 51.793178,
+      "longitude": 4.647211,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 309,
+      "name": "Woonboulevard Engelseweg",
+      "latitude": 51.473909,
+      "longitude": 5.674102,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 310,
+      "name": "Woonboulevard Hoogstad",
+      "latitude": 51.917712,
+      "longitude": 4.336652,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 311,
+      "name": "Woonboulevard Naaldwijk",
+      "latitude": 52.004591,
+      "longitude": 4.210708,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 312,
+      "name": "Woonboulevard Nijmegen",
+      "latitude": 51.825352,
+      "longitude": 5.800973,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 313,
+      "name": "Woonboulevard Oldenzaal",
+      "latitude": 52.295798,
+      "longitude": 6.923058,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 314,
+      "name": "Woonboulevard Oostplein",
+      "latitude": 51.53643,
+      "longitude": 4.487663,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 315,
+      "name": "Woonboulevard Oss",
+      "latitude": 51.756574,
+      "longitude": 5.553569,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 316,
+      "name": "Woonboulevard Purmerend",
+      "latitude": 52.513693,
+      "longitude": 4.998305,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 317,
+      "name": "Woonboulevard Spijkenisse",
+      "latitude": 51.855832,
+      "longitude": 4.30497,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 318,
+      "name": "Woonboulevard Utrecht",
+      "latitude": 52.062685,
+      "longitude": 5.102537,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 319,
+      "name": "Woonboulevard Veenendaal",
+      "latitude": 52.012452,
+      "longitude": 5.559668,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 320,
+      "name": "Woonboulevard Wijchen",
+      "latitude": 51.81079,
+      "longitude": 5.760502,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 321,
+      "name": "Woonboulevard Woerden",
+      "latitude": 52.077747,
+      "longitude": 4.904425,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 322,
+      "name": "Woonboulevard Zaandam",
+      "latitude": 52.427333,
+      "longitude": 4.823404,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 323,
+      "name": "Woonhart",
+      "latitude": 52.064645,
+      "longitude": 4.491328,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 324,
+      "name": "Zeewijkpassage",
+      "latitude": 52.449209,
+      "longitude": 4.596979,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 325,
+      "name": "Zuiderwaard",
+      "latitude": 52.214246,
+      "longitude": 4.925839,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 326,
+      "name": "Zuidhof",
+      "latitude": 50.957427,
+      "longitude": 5.826995,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 327,
+      "name": "Zuidplein",
+      "latitude": 51.886267,
+      "longitude": 4.489983,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 328,
+      "name": "de Schooten Plaza",
+      "latitude": 52.935776,
+      "longitude": 4.770816,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 329,
+      "name": "de Weerd",
+      "latitude": 51.979204,
+      "longitude": 5.795075,
+      "osm_klasse": "shop=mall"
+    },
+    {
+      "id": 330,
+      "name": "winkelcentrum Portage",
+      "latitude": 51.80284,
+      "longitude": 5.251461,
+      "osm_klasse": "shop=mall"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: mall (shop=mall) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=mall in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 330 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: mall (shop=mall) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: mall (shop=mall) — 330 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 330 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

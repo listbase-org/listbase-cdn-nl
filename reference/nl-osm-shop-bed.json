@@ -1,0 +1,3383 @@
+{
+  "id": "nl-osm-shop-bed",
+  "name": "Netherlands OSM: bed (shop=bed)",
+  "title": "Netherlands OSM: bed (shop=bed)",
+  "description": "Named OpenStreetMap features tagged shop=bed in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 476,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "A&C Slapen",
+      "latitude": 50.991758,
+      "longitude": 5.822496,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 2,
+      "name": "ABC Sleepcenter",
+      "latitude": 52.16539,
+      "longitude": 4.517091,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 3,
+      "name": "Alexander Slapen",
+      "latitude": 51.871378,
+      "longitude": 4.548959,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 4,
+      "name": "Alkoof",
+      "latitude": 52.299867,
+      "longitude": 6.75382,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 5,
+      "name": "Amersfoorts Waterbedden Centrum",
+      "latitude": 52.143425,
+      "longitude": 5.380231,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 6,
+      "name": "Amsterdamse Matrassencentrale",
+      "latitude": 52.355157,
+      "longitude": 4.891959,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 7,
+      "name": "Aqua Air Slaapcomfort",
+      "latitude": 52.376033,
+      "longitude": 4.623405,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 8,
+      "name": "Auping",
+      "latitude": 50.89296,
+      "longitude": 5.958664,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 9,
+      "name": "Auping",
+      "latitude": 51.382494,
+      "longitude": 6.18523,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 10,
+      "name": "Auping",
+      "latitude": 51.426333,
+      "longitude": 5.486099,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 11,
+      "name": "Auping",
+      "latitude": 51.430703,
+      "longitude": 5.432037,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 12,
+      "name": "Auping",
+      "latitude": 51.498073,
+      "longitude": 5.469234,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 13,
+      "name": "Auping",
+      "latitude": 51.55055,
+      "longitude": 4.144051,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 14,
+      "name": "Auping",
+      "latitude": 51.581048,
+      "longitude": 4.73142,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 15,
+      "name": "Auping",
+      "latitude": 51.710985,
+      "longitude": 5.33664,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 16,
+      "name": "Auping",
+      "latitude": 51.824938,
+      "longitude": 5.799363,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 17,
+      "name": "Auping",
+      "latitude": 51.832589,
+      "longitude": 4.75051,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 18,
+      "name": "Auping",
+      "latitude": 51.855711,
+      "longitude": 4.304407,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 19,
+      "name": "Auping",
+      "latitude": 51.87138,
+      "longitude": 4.549241,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 20,
+      "name": "Auping",
+      "latitude": 51.923116,
+      "longitude": 4.489786,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 21,
+      "name": "Auping",
+      "latitude": 51.949165,
+      "longitude": 6.276735,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 22,
+      "name": "Auping",
+      "latitude": 51.951698,
+      "longitude": 4.562127,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 23,
+      "name": "Auping",
+      "latitude": 51.968461,
+      "longitude": 5.991492,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 24,
+      "name": "Auping",
+      "latitude": 52.000146,
+      "longitude": 4.360283,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 25,
+      "name": "Auping",
+      "latitude": 52.003696,
+      "longitude": 4.208496,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 26,
+      "name": "Auping",
+      "latitude": 52.025013,
+      "longitude": 4.676592,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 27,
+      "name": "Auping",
+      "latitude": 52.041758,
+      "longitude": 5.668395,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 28,
+      "name": "Auping",
+      "latitude": 52.062036,
+      "longitude": 5.101267,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 29,
+      "name": "Auping",
+      "latitude": 52.064501,
+      "longitude": 4.493469,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 30,
+      "name": "Auping",
+      "latitude": 52.07748,
+      "longitude": 4.293941,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 31,
+      "name": "Auping",
+      "latitude": 52.088766,
+      "longitude": 4.38276,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 32,
+      "name": "Auping",
+      "latitude": 52.156678,
+      "longitude": 4.544375,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 33,
+      "name": "Auping",
+      "latitude": 52.161117,
+      "longitude": 5.377371,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 34,
+      "name": "Auping",
+      "latitude": 52.215798,
+      "longitude": 6.888762,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 35,
+      "name": "Auping",
+      "latitude": 52.312672,
+      "longitude": 4.939355,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 36,
+      "name": "Auping",
+      "latitude": 52.331902,
+      "longitude": 4.870073,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 37,
+      "name": "Auping",
+      "latitude": 52.372759,
+      "longitude": 7.002622,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 38,
+      "name": "Auping",
+      "latitude": 52.395094,
+      "longitude": 5.27691,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 39,
+      "name": "Auping",
+      "latitude": 52.510897,
+      "longitude": 6.06569,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 40,
+      "name": "Auping",
+      "latitude": 52.635495,
+      "longitude": 4.750655,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 41,
+      "name": "Auping",
+      "latitude": 52.663264,
+      "longitude": 4.811364,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 42,
+      "name": "Auping",
+      "latitude": 53.209534,
+      "longitude": 6.547185,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 43,
+      "name": "Auping Studio Berden Slapen",
+      "latitude": 51.654555,
+      "longitude": 5.642034,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 44,
+      "name": "Aximatras",
+      "latitude": 52.493586,
+      "longitude": 6.118642,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 45,
+      "name": "Ballast",
+      "latitude": 51.888143,
+      "longitude": 5.431736,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 46,
+      "name": "Ballast Slapen",
+      "latitude": 52.043424,
+      "longitude": 5.67068,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 47,
+      "name": "Bed Plaza",
+      "latitude": 52.33168,
+      "longitude": 4.627831,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 48,
+      "name": "Bedaffair",
+      "latitude": 52.345078,
+      "longitude": 4.628325,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 49,
+      "name": "Bedaffair",
+      "latitude": 52.348009,
+      "longitude": 4.620765,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 50,
+      "name": "Bedden Amsterdam",
+      "latitude": 52.315004,
+      "longitude": 4.954663,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 51,
+      "name": "Beddenplein 40-45",
+      "latitude": 52.379655,
+      "longitude": 4.822987,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 52,
+      "name": "Beddenreus",
+      "latitude": 50.860773,
+      "longitude": 5.68116,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 53,
+      "name": "Beddenreus",
+      "latitude": 50.897869,
+      "longitude": 5.950172,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 54,
+      "name": "Beddenreus",
+      "latitude": 51.498911,
+      "longitude": 5.466421,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 55,
+      "name": "Beddenreus",
+      "latitude": 51.51665,
+      "longitude": 5.982952,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 56,
+      "name": "Beddenreus",
+      "latitude": 51.537115,
+      "longitude": 4.487268,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 57,
+      "name": "Beddenreus",
+      "latitude": 51.550875,
+      "longitude": 5.10255,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 58,
+      "name": "Beddenreus",
+      "latitude": 51.580997,
+      "longitude": 4.733473,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 59,
+      "name": "Beddenreus",
+      "latitude": 51.654237,
+      "longitude": 5.642052,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 60,
+      "name": "Beddenreus",
+      "latitude": 51.709858,
+      "longitude": 5.334864,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 61,
+      "name": "Beddenreus",
+      "latitude": 51.82505,
+      "longitude": 5.800376,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 62,
+      "name": "Beddenreus",
+      "latitude": 51.830531,
+      "longitude": 4.754785,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 63,
+      "name": "Beddenreus",
+      "latitude": 51.869758,
+      "longitude": 4.54619,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 64,
+      "name": "Beddenreus",
+      "latitude": 51.910464,
+      "longitude": 4.43508,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 65,
+      "name": "Beddenreus",
+      "latitude": 51.943754,
+      "longitude": 5.213044,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 66,
+      "name": "Beddenreus",
+      "latitude": 51.954174,
+      "longitude": 4.566236,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 67,
+      "name": "Beddenreus",
+      "latitude": 51.96797,
+      "longitude": 5.993888,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 68,
+      "name": "Beddenreus",
+      "latitude": 52.000161,
+      "longitude": 4.360354,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 69,
+      "name": "Beddenreus",
+      "latitude": 52.025552,
+      "longitude": 4.675018,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 70,
+      "name": "Beddenreus",
+      "latitude": 52.061656,
+      "longitude": 5.102309,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 71,
+      "name": "Beddenreus",
+      "latitude": 52.138333,
+      "longitude": 4.548917,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 72,
+      "name": "Beddenreus",
+      "latitude": 52.163745,
+      "longitude": 5.369496,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 73,
+      "name": "Beddenreus",
+      "latitude": 52.202655,
+      "longitude": 4.427819,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 74,
+      "name": "Beddenreus",
+      "latitude": 52.212755,
+      "longitude": 6.00005,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 75,
+      "name": "Beddenreus",
+      "latitude": 52.331589,
+      "longitude": 4.628235,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 76,
+      "name": "Beddenreus",
+      "latitude": 52.342396,
+      "longitude": 4.842369,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 77,
+      "name": "Beddenreus",
+      "latitude": 52.495986,
+      "longitude": 6.117523,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 78,
+      "name": "Beddenreus",
+      "latitude": 52.649415,
+      "longitude": 5.050536,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 79,
+      "name": "Beddenreus",
+      "latitude": 52.663797,
+      "longitude": 4.812322,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 80,
+      "name": "Beddenreus",
+      "latitude": 52.70211,
+      "longitude": 5.755759,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 81,
+      "name": "Beddenreus",
+      "latitude": 53.202137,
+      "longitude": 5.820047,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 82,
+      "name": "Beddenreus",
+      "latitude": 53.213716,
+      "longitude": 6.537928,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 83,
+      "name": "Beddenspecialist De Vries",
+      "latitude": 51.890574,
+      "longitude": 5.610586,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 84,
+      "name": "Beddenspecialist Prins",
+      "latitude": 52.989662,
+      "longitude": 6.949256,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 85,
+      "name": "Beddenspecialist TMC",
+      "latitude": 51.499864,
+      "longitude": 3.881223,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 86,
+      "name": "Beddenspecialist Verkade",
+      "latitude": 52.23354,
+      "longitude": 4.444684,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 87,
+      "name": "Bedderie De Boer",
+      "latitude": 52.963982,
+      "longitude": 5.900388,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 88,
+      "name": "Bedding Slaapcomfort",
+      "latitude": 52.043658,
+      "longitude": 5.670768,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 89,
+      "name": "Bedgenoten",
+      "latitude": 52.39437,
+      "longitude": 4.641968,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 90,
+      "name": "Bedplus",
+      "latitude": 53.181412,
+      "longitude": 6.166423,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 91,
+      "name": "Beds & Bedding",
+      "latitude": 52.368439,
+      "longitude": 5.218245,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 92,
+      "name": "Beds & Bedding",
+      "latitude": 52.426733,
+      "longitude": 4.826213,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 93,
+      "name": "Beds & Bedwear",
+      "latitude": 52.513536,
+      "longitude": 6.098778,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 94,
+      "name": "Beds & Lifestyle",
+      "latitude": 52.372147,
+      "longitude": 4.526969,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 95,
+      "name": "Beds Only",
+      "latitude": 52.07767,
+      "longitude": 4.293802,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 96,
+      "name": "Bedshop De Duif",
+      "latitude": 52.220415,
+      "longitude": 6.897117,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 97,
+      "name": "Bedshop de Duif",
+      "latitude": 52.144245,
+      "longitude": 6.197311,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 98,
+      "name": "Bedtextiel Outlet",
+      "latitude": 52.04304,
+      "longitude": 5.669355,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 99,
+      "name": "Bedtime",
+      "latitude": 52.377891,
+      "longitude": 4.636913,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 100,
+      "name": "Beter Bed",
+      "latitude": 50.860495,
+      "longitude": 5.681183,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 101,
+      "name": "Beter Bed",
+      "latitude": 50.897946,
+      "longitude": 5.949768,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 102,
+      "name": "Beter Bed",
+      "latitude": 50.99183,
+      "longitude": 5.818658,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 103,
+      "name": "Beter Bed",
+      "latitude": 51.210336,
+      "longitude": 6.020181,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 104,
+      "name": "Beter Bed",
+      "latitude": 51.248977,
+      "longitude": 5.728872,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 105,
+      "name": "Beter Bed",
+      "latitude": 51.275005,
+      "longitude": 4.040855,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 106,
+      "name": "Beter Bed",
+      "latitude": 51.383394,
+      "longitude": 6.183571,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 107,
+      "name": "Beter Bed",
+      "latitude": 51.436773,
+      "longitude": 5.428265,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 108,
+      "name": "Beter Bed",
+      "latitude": 51.474187,
+      "longitude": 5.67201,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 109,
+      "name": "Beter Bed",
+      "latitude": 51.481494,
+      "longitude": 3.625759,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 110,
+      "name": "Beter Bed",
+      "latitude": 51.493166,
+      "longitude": 4.280835,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 111,
+      "name": "Beter Bed",
+      "latitude": 51.498639,
+      "longitude": 5.46526,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 112,
+      "name": "Beter Bed",
+      "latitude": 51.499056,
+      "longitude": 3.881771,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 113,
+      "name": "Beter Bed",
+      "latitude": 51.516765,
+      "longitude": 5.983413,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 114,
+      "name": "Beter Bed",
+      "latitude": 51.535612,
+      "longitude": 4.487318,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 115,
+      "name": "Beter Bed",
+      "latitude": 51.550543,
+      "longitude": 5.10288,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 116,
+      "name": "Beter Bed",
+      "latitude": 51.580899,
+      "longitude": 4.733502,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 117,
+      "name": "Beter Bed",
+      "latitude": 51.628987,
+      "longitude": 4.867528,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 118,
+      "name": "Beter Bed",
+      "latitude": 51.654393,
+      "longitude": 5.642039,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 119,
+      "name": "Beter Bed",
+      "latitude": 51.709215,
+      "longitude": 5.336233,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 120,
+      "name": "Beter Bed",
+      "latitude": 51.757067,
+      "longitude": 5.554487,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 121,
+      "name": "Beter Bed",
+      "latitude": 51.792566,
+      "longitude": 4.647461,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 122,
+      "name": "Beter Bed",
+      "latitude": 51.825331,
+      "longitude": 5.801897,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 123,
+      "name": "Beter Bed",
+      "latitude": 51.83052,
+      "longitude": 4.755095,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 124,
+      "name": "Beter Bed",
+      "latitude": 51.835535,
+      "longitude": 4.981427,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 125,
+      "name": "Beter Bed",
+      "latitude": 51.856757,
+      "longitude": 4.303616,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 126,
+      "name": "Beter Bed",
+      "latitude": 51.869994,
+      "longitude": 4.545993,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 127,
+      "name": "Beter Bed",
+      "latitude": 51.895474,
+      "longitude": 4.531426,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 128,
+      "name": "Beter Bed",
+      "latitude": 51.910329,
+      "longitude": 4.435155,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 129,
+      "name": "Beter Bed",
+      "latitude": 51.916097,
+      "longitude": 5.861171,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 130,
+      "name": "Beter Bed",
+      "latitude": 51.916937,
+      "longitude": 4.33645,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 131,
+      "name": "Beter Bed",
+      "latitude": 51.943694,
+      "longitude": 5.213058,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 132,
+      "name": "Beter Bed",
+      "latitude": 51.949521,
+      "longitude": 6.275557,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 133,
+      "name": "Beter Bed",
+      "latitude": 51.950985,
+      "longitude": 4.562279,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 134,
+      "name": "Beter Bed",
+      "latitude": 51.954208,
+      "longitude": 4.566311,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 135,
+      "name": "Beter Bed",
+      "latitude": 51.96807,
+      "longitude": 5.994166,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 136,
+      "name": "Beter Bed",
+      "latitude": 52.000203,
+      "longitude": 4.360571,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 137,
+      "name": "Beter Bed",
+      "latitude": 52.004499,
+      "longitude": 4.209604,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 138,
+      "name": "Beter Bed",
+      "latitude": 52.011588,
+      "longitude": 5.558507,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 139,
+      "name": "Beter Bed",
+      "latitude": 52.02623,
+      "longitude": 4.676056,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 140,
+      "name": "Beter Bed",
+      "latitude": 52.027434,
+      "longitude": 4.678205,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 141,
+      "name": "Beter Bed",
+      "latitude": 52.061633,
+      "longitude": 5.10263,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 142,
+      "name": "Beter Bed",
+      "latitude": 52.063949,
+      "longitude": 4.491225,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 143,
+      "name": "Beter Bed",
+      "latitude": 52.065161,
+      "longitude": 4.316671,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 144,
+      "name": "Beter Bed",
+      "latitude": 52.077947,
+      "longitude": 4.906134,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 145,
+      "name": "Beter Bed",
+      "latitude": 52.138297,
+      "longitude": 4.548658,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 146,
+      "name": "Beter Bed",
+      "latitude": 52.152256,
+      "longitude": 6.200036,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 147,
+      "name": "Beter Bed",
+      "latitude": 52.156899,
+      "longitude": 4.54484,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 148,
+      "name": "Beter Bed",
+      "latitude": 52.160294,
+      "longitude": 5.377076,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 149,
+      "name": "Beter Bed",
+      "latitude": 52.163668,
+      "longitude": 5.36968,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 150,
+      "name": "Beter Bed",
+      "latitude": 52.199889,
+      "longitude": 4.434308,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 151,
+      "name": "Beter Bed",
+      "latitude": 52.212738,
+      "longitude": 5.998776,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 152,
+      "name": "Beter Bed",
+      "latitude": 52.22212,
+      "longitude": 5.258219,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 153,
+      "name": "Beter Bed",
+      "latitude": 52.224576,
+      "longitude": 6.879861,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 154,
+      "name": "Beter Bed",
+      "latitude": 52.246828,
+      "longitude": 6.1988,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 155,
+      "name": "Beter Bed",
+      "latitude": 52.289252,
+      "longitude": 6.766296,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 156,
+      "name": "Beter Bed",
+      "latitude": 52.295305,
+      "longitude": 4.943353,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 157,
+      "name": "Beter Bed",
+      "latitude": 52.311889,
+      "longitude": 4.93903,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 158,
+      "name": "Beter Bed",
+      "latitude": 52.332485,
+      "longitude": 4.62763,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 159,
+      "name": "Beter Bed",
+      "latitude": 52.334398,
+      "longitude": 5.020746,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 160,
+      "name": "Beter Bed",
+      "latitude": 52.340459,
+      "longitude": 6.642849,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 161,
+      "name": "Beter Bed",
+      "latitude": 52.342289,
+      "longitude": 4.842287,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 162,
+      "name": "Beter Bed",
+      "latitude": 52.393931,
+      "longitude": 5.273709,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 163,
+      "name": "Beter Bed",
+      "latitude": 52.396782,
+      "longitude": 4.910279,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 164,
+      "name": "Beter Bed",
+      "latitude": 52.427219,
+      "longitude": 4.826213,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 165,
+      "name": "Beter Bed",
+      "latitude": 52.479374,
+      "longitude": 4.661356,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 166,
+      "name": "Beter Bed",
+      "latitude": 52.509942,
+      "longitude": 6.067804,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 167,
+      "name": "Beter Bed",
+      "latitude": 52.637013,
+      "longitude": 4.752885,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 168,
+      "name": "Beter Bed",
+      "latitude": 52.649498,
+      "longitude": 5.050817,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 169,
+      "name": "Beter Bed",
+      "latitude": 52.66333,
+      "longitude": 4.811472,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 170,
+      "name": "Beter Bed",
+      "latitude": 52.696557,
+      "longitude": 6.201127,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 171,
+      "name": "Beter Bed",
+      "latitude": 52.701891,
+      "longitude": 5.754884,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 172,
+      "name": "Beter Bed",
+      "latitude": 52.720957,
+      "longitude": 6.467958,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 173,
+      "name": "Beter Bed",
+      "latitude": 52.762931,
+      "longitude": 6.904405,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 174,
+      "name": "Beter Bed",
+      "latitude": 52.781551,
+      "longitude": 4.813701,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 175,
+      "name": "Beter Bed",
+      "latitude": 52.942793,
+      "longitude": 4.772912,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 176,
+      "name": "Beter Bed",
+      "latitude": 52.96394,
+      "longitude": 5.90504,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 177,
+      "name": "Beter Bed",
+      "latitude": 52.983281,
+      "longitude": 6.961272,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 178,
+      "name": "Beter Bed",
+      "latitude": 53.01256,
+      "longitude": 6.5718,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 179,
+      "name": "Beter Bed",
+      "latitude": 53.036573,
+      "longitude": 5.636847,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 180,
+      "name": "Beter Bed",
+      "latitude": 53.095529,
+      "longitude": 6.102796,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 181,
+      "name": "Beter Bed",
+      "latitude": 53.150882,
+      "longitude": 6.763702,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 182,
+      "name": "Beter Bed",
+      "latitude": 53.16827,
+      "longitude": 6.377118,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 183,
+      "name": "Beter Bed",
+      "latitude": 53.202119,
+      "longitude": 5.820861,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 184,
+      "name": "Beter Bed",
+      "latitude": 53.213648,
+      "longitude": 6.537451,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 185,
+      "name": "Beter Bed",
+      "latitude": 53.214604,
+      "longitude": 6.588713,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 186,
+      "name": "Beyza Meubelen",
+      "latitude": 52.380596,
+      "longitude": 4.825122,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 187,
+      "name": "Bodibeds",
+      "latitude": 52.75367,
+      "longitude": 6.915891,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 188,
+      "name": "Boonman",
+      "latitude": 51.550976,
+      "longitude": 5.102449,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 189,
+      "name": "Boonman Bedden",
+      "latitude": 51.756816,
+      "longitude": 5.553729,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 190,
+      "name": "Borst Bedden en Kasten",
+      "latitude": 52.637691,
+      "longitude": 4.754968,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 191,
+      "name": "Bos Bedden",
+      "latitude": 52.360983,
+      "longitude": 6.510659,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 192,
+      "name": "Bosch Bedding",
+      "latitude": 51.981432,
+      "longitude": 5.098307,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 193,
+      "name": "Bosma Bedden",
+      "latitude": 52.763814,
+      "longitude": 6.901398,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 194,
+      "name": "Bosma Bedden",
+      "latitude": 53.011956,
+      "longitude": 6.575598,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 195,
+      "name": "Bosma Bedden",
+      "latitude": 53.213801,
+      "longitude": 6.536481,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 196,
+      "name": "Boxspring Etten-Leur",
+      "latitude": 51.567701,
+      "longitude": 4.635536,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 197,
+      "name": "Boxspring Etten-Leur",
+      "latitude": 51.569216,
+      "longitude": 4.636693,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 198,
+      "name": "Boxspring Gelderland",
+      "latitude": 52.045702,
+      "longitude": 5.663422,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 199,
+      "name": "Boxspring Slaapcomfort",
+      "latitude": 52.259884,
+      "longitude": 6.672625,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 200,
+      "name": "Boxspringoutlet",
+      "latitude": 53.202797,
+      "longitude": 5.808941,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 201,
+      "name": "Breukel Slaapcomfort",
+      "latitude": 51.905806,
+      "longitude": 4.245213,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 202,
+      "name": "Brouwer",
+      "latitude": 52.082186,
+      "longitude": 5.418044,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 203,
+      "name": "Brudo Slaapkamers",
+      "latitude": 51.959776,
+      "longitude": 6.295469,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 204,
+      "name": "Bröring",
+      "latitude": 52.331583,
+      "longitude": 4.876539,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 205,
+      "name": "Budget Home Decor",
+      "latitude": 52.351926,
+      "longitude": 4.891564,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 206,
+      "name": "Burmann",
+      "latitude": 51.439357,
+      "longitude": 5.479874,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 207,
+      "name": "City Bed IJsselstein",
+      "latitude": 52.020517,
+      "longitude": 5.045056,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 208,
+      "name": "Coco-Mat",
+      "latitude": 52.384222,
+      "longitude": 4.883459,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 209,
+      "name": "Coco-mat",
+      "latitude": 52.362546,
+      "longitude": 4.875236,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 210,
+      "name": "Contour",
+      "latitude": 52.623078,
+      "longitude": 6.040139,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 211,
+      "name": "Coppens Slaapcomfort",
+      "latitude": 51.912633,
+      "longitude": 4.399821,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 212,
+      "name": "Dalhuijsen Slapen en Wonen",
+      "latitude": 52.082419,
+      "longitude": 5.411219,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 213,
+      "name": "De Bedden",
+      "latitude": 52.943823,
+      "longitude": 4.772233,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 214,
+      "name": "De Beddenboer",
+      "latitude": 52.067734,
+      "longitude": 5.690143,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 215,
+      "name": "De Beddenwinkel",
+      "latitude": 51.616926,
+      "longitude": 5.437651,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 216,
+      "name": "De Bedstee",
+      "latitude": 52.426814,
+      "longitude": 4.824332,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 217,
+      "name": "De Bedweter",
+      "latitude": 52.084241,
+      "longitude": 5.62059,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 218,
+      "name": "De Been Slaapadviseurs",
+      "latitude": 51.567419,
+      "longitude": 4.635239,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 219,
+      "name": "De Gooise Slaapspecialist",
+      "latitude": 52.22333,
+      "longitude": 5.170717,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 220,
+      "name": "De Graaff",
+      "latitude": 52.141949,
+      "longitude": 5.039682,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 221,
+      "name": "De Laat Slaapexpert",
+      "latitude": 51.367548,
+      "longitude": 5.219747,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 222,
+      "name": "De Laat Slaapexpert",
+      "latitude": 51.478405,
+      "longitude": 5.177613,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 223,
+      "name": "De Linnenboom",
+      "latitude": 52.35846,
+      "longitude": 4.80051,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 224,
+      "name": "De Nachtwacht Katwijk",
+      "latitude": 52.2034,
+      "longitude": 4.398553,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 225,
+      "name": "De Slaapmaker",
+      "latitude": 52.300305,
+      "longitude": 5.243505,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 226,
+      "name": "De Slaperij",
+      "latitude": 52.089172,
+      "longitude": 5.242038,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 227,
+      "name": "De Suite",
+      "latitude": 51.993864,
+      "longitude": 4.66821,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 228,
+      "name": "De Vos Burchart",
+      "latitude": 51.917444,
+      "longitude": 4.397546,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 229,
+      "name": "De Vries",
+      "latitude": 52.153696,
+      "longitude": 5.387459,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 230,
+      "name": "De Vries slaapcomfort",
+      "latitude": 52.252678,
+      "longitude": 5.378226,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 231,
+      "name": "Dekbed Discounter",
+      "latitude": 51.977125,
+      "longitude": 4.45002,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 232,
+      "name": "Dekkers Slaapcomfort",
+      "latitude": 52.054944,
+      "longitude": 4.334767,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 233,
+      "name": "Ditvoorst Slaapwinkel",
+      "latitude": 51.554883,
+      "longitude": 5.080277,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 234,
+      "name": "Diva Wonen",
+      "latitude": 52.379848,
+      "longitude": 4.830094,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 235,
+      "name": "Divana",
+      "latitude": 51.944375,
+      "longitude": 5.217343,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 236,
+      "name": "Dorsthorst Woon- en Slaapcomfort",
+      "latitude": 51.938124,
+      "longitude": 6.129334,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 237,
+      "name": "Dream Plaza",
+      "latitude": 51.5832,
+      "longitude": 5.191211,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 238,
+      "name": "Dreamzzz",
+      "latitude": 52.083585,
+      "longitude": 4.331505,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 239,
+      "name": "Dreamzzz",
+      "latitude": 52.185402,
+      "longitude": 4.469991,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 240,
+      "name": "Droomboulevard Oisterwijk",
+      "latitude": 51.582513,
+      "longitude": 5.190978,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 241,
+      "name": "Droomland",
+      "latitude": 51.426361,
+      "longitude": 5.486541,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 242,
+      "name": "Droomvisie",
+      "latitude": 52.123837,
+      "longitude": 4.444264,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 243,
+      "name": "Droomvisie",
+      "latitude": 52.143975,
+      "longitude": 4.393847,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 244,
+      "name": "Ecolife",
+      "latitude": 52.35128,
+      "longitude": 4.621691,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 245,
+      "name": "Ecolinde",
+      "latitude": 52.141518,
+      "longitude": 6.193192,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 246,
+      "name": "Ellda",
+      "latitude": 52.121682,
+      "longitude": 5.279538,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 247,
+      "name": "Emma",
+      "latitude": 51.439836,
+      "longitude": 5.476184,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 248,
+      "name": "Even Kijken",
+      "latitude": 51.338746,
+      "longitude": 3.453412,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 249,
+      "name": "Fidder Slapen",
+      "latitude": 52.079111,
+      "longitude": 4.898255,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 250,
+      "name": "Fine2Sleep",
+      "latitude": 51.886047,
+      "longitude": 4.548684,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 251,
+      "name": "Fine2Sleep",
+      "latitude": 51.931853,
+      "longitude": 4.481836,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 252,
+      "name": "Friendly Teak",
+      "latitude": 51.836005,
+      "longitude": 4.561661,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 253,
+      "name": "Förster Linnen & Lingerie",
+      "latitude": 51.843909,
+      "longitude": 5.861522,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 254,
+      "name": "Geertsema Slaapcomfort",
+      "latitude": 53.335406,
+      "longitude": 6.508503,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 255,
+      "name": "Goed Slapen",
+      "latitude": 51.424123,
+      "longitude": 5.493145,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 256,
+      "name": "Goodnight Slaapkamers",
+      "latitude": 52.334302,
+      "longitude": 4.632077,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 257,
+      "name": "Goossens",
+      "latitude": 52.061265,
+      "longitude": 5.102121,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 258,
+      "name": "Groenewoud Bedtextiel",
+      "latitude": 52.356251,
+      "longitude": 4.896035,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 259,
+      "name": "Herraets Slapen",
+      "latitude": 51.456304,
+      "longitude": 6.050198,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 260,
+      "name": "Holtrop slaapcomfort",
+      "latitude": 52.968258,
+      "longitude": 5.793898,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 261,
+      "name": "Homan Slapen",
+      "latitude": 53.172706,
+      "longitude": 6.603493,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 262,
+      "name": "Home Outlet",
+      "latitude": 52.259759,
+      "longitude": 4.558876,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 263,
+      "name": "Huijer Beds",
+      "latitude": 52.013276,
+      "longitude": 4.710984,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 264,
+      "name": "Hydro-sfeer waterbedden",
+      "latitude": 50.966692,
+      "longitude": 5.826785,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 265,
+      "name": "Händerson",
+      "latitude": 51.550272,
+      "longitude": 5.105628,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 266,
+      "name": "Hästens",
+      "latitude": 52.04691,
+      "longitude": 5.671314,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 267,
+      "name": "Hästens",
+      "latitude": 52.08437,
+      "longitude": 4.313267,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 268,
+      "name": "Hästens",
+      "latitude": 52.091762,
+      "longitude": 5.121301,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 269,
+      "name": "Hästens",
+      "latitude": 52.156512,
+      "longitude": 4.543907,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 270,
+      "name": "Hästens",
+      "latitude": 52.161073,
+      "longitude": 5.377621,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 271,
+      "name": "Inden Bedden",
+      "latitude": 52.500367,
+      "longitude": 4.767089,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 272,
+      "name": "Inden Puur Slapen",
+      "latitude": 52.643254,
+      "longitude": 5.054337,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 273,
+      "name": "Istanbul & Casablanca Meubelen",
+      "latitude": 52.379045,
+      "longitude": 4.835144,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 274,
+      "name": "Jack Suykerbuyk",
+      "latitude": 51.567624,
+      "longitude": 4.638824,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 275,
+      "name": "Jacobs",
+      "latitude": 52.363506,
+      "longitude": 6.455737,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 276,
+      "name": "Janus",
+      "latitude": 52.363015,
+      "longitude": 4.875373,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 277,
+      "name": "Kalkman Slapen",
+      "latitude": 52.083976,
+      "longitude": 4.74886,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 278,
+      "name": "Kelder",
+      "latitude": 52.387175,
+      "longitude": 6.275085,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 279,
+      "name": "Klaas Vaak - Bed & Textiel",
+      "latitude": 52.024764,
+      "longitude": 5.556916,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 280,
+      "name": "Klaas Vaak Bedden",
+      "latitude": 52.012839,
+      "longitude": 4.361137,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 281,
+      "name": "Klaas Vaak Bedtextiel",
+      "latitude": 51.963365,
+      "longitude": 6.289247,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 282,
+      "name": "Klaas Vaak Bedtextiel",
+      "latitude": 52.260423,
+      "longitude": 5.607007,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 283,
+      "name": "Kok bedden",
+      "latitude": 52.260536,
+      "longitude": 5.605881,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 284,
+      "name": "Konijnenbelt",
+      "latitude": 52.36513,
+      "longitude": 6.462091,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 285,
+      "name": "Koops",
+      "latitude": 52.470182,
+      "longitude": 5.995133,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 286,
+      "name": "Kreeft Bedden",
+      "latitude": 53.210805,
+      "longitude": 5.810428,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 287,
+      "name": "Kroon Wonen en Slapen",
+      "latitude": 51.909644,
+      "longitude": 4.339624,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 288,
+      "name": "Kusters-Knol",
+      "latitude": 51.925984,
+      "longitude": 6.07663,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 289,
+      "name": "Kwakernaat Bedden",
+      "latitude": 51.533071,
+      "longitude": 4.464871,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 290,
+      "name": "Leen van Heusden",
+      "latitude": 51.976185,
+      "longitude": 4.256177,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 291,
+      "name": "Lekker Opstaan",
+      "latitude": 51.615673,
+      "longitude": 5.44341,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 292,
+      "name": "Lievelingslinnen",
+      "latitude": 52.138501,
+      "longitude": 5.587306,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 293,
+      "name": "Linique Laren",
+      "latitude": 52.255364,
+      "longitude": 5.223111,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 294,
+      "name": "Linnerie Annelies Bedden I Slaap Experience Loods Avek & Treca",
+      "latitude": 52.206608,
+      "longitude": 5.140521,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 295,
+      "name": "Lion Beddenshop",
+      "latitude": 51.822318,
+      "longitude": 4.651073,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 296,
+      "name": "Lion Beddenshop",
+      "latitude": 51.834013,
+      "longitude": 4.145097,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 297,
+      "name": "Lion Beddenshop",
+      "latitude": 51.849796,
+      "longitude": 4.328197,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 298,
+      "name": "Lion Beddenshop",
+      "latitude": 51.869557,
+      "longitude": 4.599278,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 299,
+      "name": "Lion Beddenshop",
+      "latitude": 51.992619,
+      "longitude": 4.205285,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 300,
+      "name": "Lion Beddenshop",
+      "latitude": 51.997292,
+      "longitude": 4.351819,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 301,
+      "name": "Lion Beddenshop",
+      "latitude": 52.024015,
+      "longitude": 4.275629,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 302,
+      "name": "Lion Beddenshop",
+      "latitude": 52.060854,
+      "longitude": 4.487011,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 303,
+      "name": "Lion Beddenshop",
+      "latitude": 52.066063,
+      "longitude": 4.317379,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 304,
+      "name": "Lion Beddenshop",
+      "latitude": 52.202339,
+      "longitude": 4.427623,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 305,
+      "name": "Lits Jolis",
+      "latitude": 51.919065,
+      "longitude": 4.473286,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 306,
+      "name": "Luxebedden.nl",
+      "latitude": 52.061207,
+      "longitude": 5.102964,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 307,
+      "name": "Luxebedden.nl",
+      "latitude": 52.063282,
+      "longitude": 5.103352,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 308,
+      "name": "LuxuryBeds Decor Wonen",
+      "latitude": 52.359456,
+      "longitude": 4.784123,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 309,
+      "name": "Luyt Bedden",
+      "latitude": 52.492702,
+      "longitude": 4.790883,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 310,
+      "name": "MEGAbed",
+      "latitude": 51.463888,
+      "longitude": 3.602799,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 311,
+      "name": "MEGAbed",
+      "latitude": 51.467645,
+      "longitude": 3.979366,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 312,
+      "name": "MS Bedden",
+      "latitude": 52.075512,
+      "longitude": 5.114382,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 313,
+      "name": "MW Bedden & Slapen / Hästens Store Breda",
+      "latitude": 51.587744,
+      "longitude": 4.772056,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 314,
+      "name": "Maassen van den Brink Bedden en Woninginrichting",
+      "latitude": 51.996695,
+      "longitude": 5.970245,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 315,
+      "name": "Manon Timmermans",
+      "latitude": 51.426743,
+      "longitude": 4.321657,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 316,
+      "name": "Matras Concurrent",
+      "latitude": 52.512984,
+      "longitude": 6.073964,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 317,
+      "name": "Matrasdirect",
+      "latitude": 51.82801,
+      "longitude": 4.628125,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 318,
+      "name": "Matrasdirect",
+      "latitude": 52.539722,
+      "longitude": 5.707913,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 319,
+      "name": "Matrasdirect",
+      "latitude": 52.725366,
+      "longitude": 6.986381,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 320,
+      "name": "Matrasdirect",
+      "latitude": 52.880185,
+      "longitude": 5.986703,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 321,
+      "name": "Mavita",
+      "latitude": 53.195301,
+      "longitude": 5.770007,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 322,
+      "name": "Megabed",
+      "latitude": 51.463687,
+      "longitude": 3.602673,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 323,
+      "name": "Meubel Outlet Lisse",
+      "latitude": 52.260633,
+      "longitude": 4.555445,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 324,
+      "name": "Meubel markt Moda life",
+      "latitude": 52.378304,
+      "longitude": 4.839851,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 325,
+      "name": "Meubelland",
+      "latitude": 52.378376,
+      "longitude": 4.839333,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 326,
+      "name": "Middelink Slaapmode",
+      "latitude": 52.213179,
+      "longitude": 5.955892,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 327,
+      "name": "Morgana",
+      "latitude": 51.648472,
+      "longitude": 5.947513,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 328,
+      "name": "Morgana",
+      "latitude": 51.949513,
+      "longitude": 6.275779,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 329,
+      "name": "Morgana",
+      "latitude": 52.16099,
+      "longitude": 5.376984,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 330,
+      "name": "Morgana",
+      "latitude": 52.686479,
+      "longitude": 6.262788,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 331,
+      "name": "Morgana Emmen",
+      "latitude": 52.751516,
+      "longitude": 6.918468,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 332,
+      "name": "Morpheus",
+      "latitude": 52.223396,
+      "longitude": 5.170409,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 333,
+      "name": "Morsink",
+      "latitude": 52.266098,
+      "longitude": 6.79482,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 334,
+      "name": "My Bedding",
+      "latitude": 52.112842,
+      "longitude": 5.112085,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 335,
+      "name": "Nachtleven",
+      "latitude": 52.093926,
+      "longitude": 5.119027,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 336,
+      "name": "Nachtrust",
+      "latitude": 51.852987,
+      "longitude": 5.750005,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 337,
+      "name": "Natuurlijk Slapen",
+      "latitude": 52.160879,
+      "longitude": 5.377808,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 338,
+      "name": "Nona Lashes",
+      "latitude": 52.06706,
+      "longitude": 4.282351,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 339,
+      "name": "Okhuizen",
+      "latitude": 51.89205,
+      "longitude": 5.095824,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 340,
+      "name": "P&M Boxsprings-Matrasse",
+      "latitude": 51.872572,
+      "longitude": 4.591959,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 341,
+      "name": "Partner Slaapsystemen",
+      "latitude": 52.574948,
+      "longitude": 6.623693,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 342,
+      "name": "Passie voor Slapen",
+      "latitude": 52.45763,
+      "longitude": 4.611749,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 343,
+      "name": "Perfect Slapen",
+      "latitude": 52.681531,
+      "longitude": 5.023182,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 344,
+      "name": "Peter Balsters slaapcomfort",
+      "latitude": 51.891834,
+      "longitude": 5.093057,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 345,
+      "name": "Pleunizzz Weert",
+      "latitude": 51.252353,
+      "longitude": 5.709335,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 346,
+      "name": "Pockets Laren",
+      "latitude": 52.258614,
+      "longitude": 5.227424,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 347,
+      "name": "Prettig Slapen",
+      "latitude": 52.63224,
+      "longitude": 4.745428,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 348,
+      "name": "Princess Dekbedden",
+      "latitude": 52.12137,
+      "longitude": 5.422407,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 349,
+      "name": "Reitsma Bedden",
+      "latitude": 53.200711,
+      "longitude": 5.798354,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 350,
+      "name": "Relaxmatrassen",
+      "latitude": 51.931933,
+      "longitude": 4.493572,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 351,
+      "name": "Richter slaapcomfort",
+      "latitude": 52.214586,
+      "longitude": 6.896638,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 352,
+      "name": "Rikels",
+      "latitude": 52.510583,
+      "longitude": 6.067026,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 353,
+      "name": "Royal Health Foam",
+      "latitude": 52.10749,
+      "longitude": 4.28418,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 354,
+      "name": "Sijben Slapen",
+      "latitude": 51.200567,
+      "longitude": 6.001663,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 355,
+      "name": "Simon de Bruin Slaapcomfort",
+      "latitude": 52.288608,
+      "longitude": 4.841973,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 356,
+      "name": "Sinke Linnenclub",
+      "latitude": 51.503944,
+      "longitude": 3.891872,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 357,
+      "name": "Slaap op maat",
+      "latitude": 52.384752,
+      "longitude": 6.27626,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 358,
+      "name": "Slaapboulevard Kwakernaat",
+      "latitude": 51.812189,
+      "longitude": 4.520242,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 359,
+      "name": "Slaapcentrum",
+      "latitude": 50.991841,
+      "longitude": 5.817291,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 360,
+      "name": "Slaapcomfort outlet",
+      "latitude": 51.996073,
+      "longitude": 5.972613,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 361,
+      "name": "Slaapidee",
+      "latitude": 52.212277,
+      "longitude": 5.967315,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 362,
+      "name": "Slaapkenner Lisse",
+      "latitude": 52.259305,
+      "longitude": 4.559948,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 363,
+      "name": "Slaapkenner Zuidervaart",
+      "latitude": 52.510596,
+      "longitude": 4.670664,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 364,
+      "name": "Slaaprijk",
+      "latitude": 52.091673,
+      "longitude": 5.242511,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 365,
+      "name": "Slaapsfeer",
+      "latitude": 51.855191,
+      "longitude": 5.751245,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 366,
+      "name": "Slaapspecialist Jongerius",
+      "latitude": 52.027278,
+      "longitude": 5.161385,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 367,
+      "name": "Slaapspecialist Tiel",
+      "latitude": 51.894508,
+      "longitude": 5.440042,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 368,
+      "name": "Slaapspecialist van Ellen",
+      "latitude": 52.185008,
+      "longitude": 5.297893,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 369,
+      "name": "Slaapstudio Eindhoven",
+      "latitude": 51.436651,
+      "longitude": 5.49626,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 370,
+      "name": "Slaaptijd",
+      "latitude": 51.424843,
+      "longitude": 5.485633,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 371,
+      "name": "Slaapwereld",
+      "latitude": 52.077373,
+      "longitude": 4.899862,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 372,
+      "name": "Slaapwereld",
+      "latitude": 52.157403,
+      "longitude": 4.5459,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 373,
+      "name": "Slapen & meer",
+      "latitude": 51.498902,
+      "longitude": 3.896764,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 374,
+      "name": "Sleepcenter",
+      "latitude": 51.953619,
+      "longitude": 4.564991,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 375,
+      "name": "Sleepfast",
+      "latitude": 51.581942,
+      "longitude": 4.729239,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 376,
+      "name": "Sleepfast",
+      "latitude": 51.951386,
+      "longitude": 4.561942,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 377,
+      "name": "Sleepfast",
+      "latitude": 52.338732,
+      "longitude": 5.633524,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 378,
+      "name": "Sleepfast",
+      "latitude": 52.364945,
+      "longitude": 4.858856,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 379,
+      "name": "Sleepwell",
+      "latitude": 52.274732,
+      "longitude": 5.162671,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 380,
+      "name": "Soet wonen en slapen",
+      "latitude": 51.932849,
+      "longitude": 4.78315,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 381,
+      "name": "Sonnemans",
+      "latitude": 51.394964,
+      "longitude": 5.720329,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 382,
+      "name": "Sweatdream",
+      "latitude": 51.593476,
+      "longitude": 4.803155,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 383,
+      "name": "Swiss Sense",
+      "latitude": 50.898,
+      "longitude": 5.949294,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 384,
+      "name": "Swiss Sense",
+      "latitude": 51.210191,
+      "longitude": 6.019819,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 385,
+      "name": "Swiss Sense",
+      "latitude": 51.382932,
+      "longitude": 6.184633,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 386,
+      "name": "Swiss Sense",
+      "latitude": 51.481722,
+      "longitude": 3.62388,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 387,
+      "name": "Swiss Sense",
+      "latitude": 51.493282,
+      "longitude": 4.277254,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 388,
+      "name": "Swiss Sense",
+      "latitude": 51.550995,
+      "longitude": 5.103439,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 389,
+      "name": "Swiss Sense",
+      "latitude": 51.581145,
+      "longitude": 4.732423,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 390,
+      "name": "Swiss Sense",
+      "latitude": 51.65401,
+      "longitude": 5.643606,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 391,
+      "name": "Swiss Sense",
+      "latitude": 51.711033,
+      "longitude": 5.337096,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 392,
+      "name": "Swiss Sense",
+      "latitude": 51.825015,
+      "longitude": 5.800065,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 393,
+      "name": "Swiss Sense",
+      "latitude": 51.83565,
+      "longitude": 4.981722,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 394,
+      "name": "Swiss Sense",
+      "latitude": 51.854629,
+      "longitude": 4.305541,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 395,
+      "name": "Swiss Sense",
+      "latitude": 51.871302,
+      "longitude": 4.549368,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 396,
+      "name": "Swiss Sense",
+      "latitude": 51.949141,
+      "longitude": 6.276364,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 397,
+      "name": "Swiss Sense",
+      "latitude": 51.968514,
+      "longitude": 5.991651,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 398,
+      "name": "Swiss Sense",
+      "latitude": 52.025717,
+      "longitude": 4.674804,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 399,
+      "name": "Swiss Sense",
+      "latitude": 52.061259,
+      "longitude": 5.102684,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 400,
+      "name": "Swiss Sense",
+      "latitude": 52.065879,
+      "longitude": 4.317003,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 401,
+      "name": "Swiss Sense",
+      "latitude": 52.088635,
+      "longitude": 4.38301,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 402,
+      "name": "Swiss Sense",
+      "latitude": 52.156801,
+      "longitude": 4.544632,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 403,
+      "name": "Swiss Sense",
+      "latitude": 52.212785,
+      "longitude": 5.99899,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 404,
+      "name": "Swiss Sense",
+      "latitude": 52.223156,
+      "longitude": 6.880295,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 405,
+      "name": "Swiss Sense",
+      "latitude": 52.331736,
+      "longitude": 4.627662,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 406,
+      "name": "Swiss Sense",
+      "latitude": 52.340205,
+      "longitude": 6.643942,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 407,
+      "name": "Swiss Sense",
+      "latitude": 52.39343,
+      "longitude": 5.272947,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 408,
+      "name": "Swiss Sense",
+      "latitude": 52.428347,
+      "longitude": 4.824182,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 409,
+      "name": "Swiss Sense",
+      "latitude": 52.479002,
+      "longitude": 4.660744,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 410,
+      "name": "Swiss Sense",
+      "latitude": 52.491914,
+      "longitude": 5.483322,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 411,
+      "name": "Swiss Sense",
+      "latitude": 52.510736,
+      "longitude": 6.065663,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 412,
+      "name": "Swiss Sense",
+      "latitude": 52.63633,
+      "longitude": 4.751323,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 413,
+      "name": "Swiss Sense",
+      "latitude": 52.649146,
+      "longitude": 5.049653,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 414,
+      "name": "Swiss Sense",
+      "latitude": 53.095644,
+      "longitude": 6.10336,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 415,
+      "name": "Swiss Sense",
+      "latitude": 53.201561,
+      "longitude": 5.820935,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 416,
+      "name": "Swiss Sense",
+      "latitude": 53.214157,
+      "longitude": 6.535669,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 417,
+      "name": "Swiss Sense Outlet",
+      "latitude": 52.160817,
+      "longitude": 5.374903,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 418,
+      "name": "Swiss-Sense Outlet",
+      "latitude": 51.955616,
+      "longitude": 4.568061,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 419,
+      "name": "Tempur",
+      "latitude": 51.968562,
+      "longitude": 5.991816,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 420,
+      "name": "Tempur",
+      "latitude": 52.157305,
+      "longitude": 4.545701,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 421,
+      "name": "Tempur",
+      "latitude": 52.357191,
+      "longitude": 4.878959,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 422,
+      "name": "Tempur Brand Store & Outlet",
+      "latitude": 51.58134,
+      "longitude": 4.732373,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 423,
+      "name": "Tempur Factory Outlet Heerlen",
+      "latitude": 50.89807,
+      "longitude": 5.94918,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 424,
+      "name": "Ter Meulen Polyether",
+      "latitude": 52.047883,
+      "longitude": 4.277739,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 425,
+      "name": "The Boxspringstore",
+      "latitude": 51.427541,
+      "longitude": 5.486474,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 426,
+      "name": "Toff Meubelstoffeerders",
+      "latitude": 52.298148,
+      "longitude": 4.58006,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 427,
+      "name": "Truste",
+      "latitude": 52.160505,
+      "longitude": 5.377621,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 428,
+      "name": "Ultiem Slaapcomfort",
+      "latitude": 52.019459,
+      "longitude": 4.431496,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 429,
+      "name": "Uniek Slapen",
+      "latitude": 51.997664,
+      "longitude": 5.675607,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 430,
+      "name": "Van Beek Bedden",
+      "latitude": 51.957453,
+      "longitude": 5.568067,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 431,
+      "name": "Van Gelderen",
+      "latitude": 51.888039,
+      "longitude": 5.434905,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 432,
+      "name": "Vandijck",
+      "latitude": 52.22555,
+      "longitude": 5.171958,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 433,
+      "name": "Vandyck",
+      "latitude": 52.20388,
+      "longitude": 4.393963,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 434,
+      "name": "Vandyck",
+      "latitude": 52.253892,
+      "longitude": 6.156073,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 435,
+      "name": "Vandyck",
+      "latitude": 52.34939,
+      "longitude": 4.877883,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 436,
+      "name": "Vandyck Experience Store",
+      "latitude": 52.351349,
+      "longitude": 4.621411,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 437,
+      "name": "Veluwsch Slapen by Lammerts van Bueren",
+      "latitude": 52.04698,
+      "longitude": 5.671345,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 438,
+      "name": "Verberne",
+      "latitude": 51.874564,
+      "longitude": 4.484292,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 439,
+      "name": "Verbruggen Slaapkamers",
+      "latitude": 51.694772,
+      "longitude": 5.221656,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 440,
+      "name": "Vermaas Slaapcomfort",
+      "latitude": 51.831595,
+      "longitude": 4.759078,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 441,
+      "name": "WINDT interieur",
+      "latitude": 52.260376,
+      "longitude": 4.555366,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 442,
+      "name": "What Else Bedtextiel",
+      "latitude": 52.092518,
+      "longitude": 4.358651,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 443,
+      "name": "What else bedtextiel",
+      "latitude": 52.07543,
+      "longitude": 4.357667,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 444,
+      "name": "Wijkamp dekbedden & matrassen",
+      "latitude": 51.935844,
+      "longitude": 6.129274,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 445,
+      "name": "Woon & Slaapstudio | Online Binnenstad",
+      "latitude": 52.995125,
+      "longitude": 6.562623,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 446,
+      "name": "Woontex Slaapcomfort",
+      "latitude": 52.491102,
+      "longitude": 5.480974,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 447,
+      "name": "Wortelboer",
+      "latitude": 52.661512,
+      "longitude": 6.739479,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 448,
+      "name": "Wortelboer",
+      "latitude": 52.763573,
+      "longitude": 6.902512,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 449,
+      "name": "Zwette Bed & Boxsprings",
+      "latitude": 53.195055,
+      "longitude": 5.769942,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 450,
+      "name": "aldenhuijsen",
+      "latitude": 51.645045,
+      "longitude": 4.863042,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 451,
+      "name": "beddenfabriek.nl",
+      "latitude": 51.885709,
+      "longitude": 4.489457,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 452,
+      "name": "bedopmaat.nl",
+      "latitude": 51.552032,
+      "longitude": 5.086596,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 453,
+      "name": "totaalBED",
+      "latitude": 51.581348,
+      "longitude": 4.730252,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 454,
+      "name": "totaalBED",
+      "latitude": 51.825111,
+      "longitude": 5.801022,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 455,
+      "name": "totaalBED",
+      "latitude": 51.949223,
+      "longitude": 6.275461,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 456,
+      "name": "totaalBED",
+      "latitude": 51.949599,
+      "longitude": 5.875923,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 457,
+      "name": "totaalBED",
+      "latitude": 51.951067,
+      "longitude": 4.56207,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 458,
+      "name": "totaalBED",
+      "latitude": 51.965879,
+      "longitude": 5.990204,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 459,
+      "name": "totaalBED",
+      "latitude": 52.01273,
+      "longitude": 5.560282,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 460,
+      "name": "totaalBED",
+      "latitude": 52.062638,
+      "longitude": 5.101541,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 461,
+      "name": "totaalBED",
+      "latitude": 52.156995,
+      "longitude": 4.545046,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 462,
+      "name": "totaalBED",
+      "latitude": 52.161125,
+      "longitude": 5.377059,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 463,
+      "name": "totaalBED",
+      "latitude": 52.212426,
+      "longitude": 5.998153,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 464,
+      "name": "totaalBED",
+      "latitude": 52.22351,
+      "longitude": 6.879702,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 465,
+      "name": "totaalBED",
+      "latitude": 52.246646,
+      "longitude": 6.19476,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 466,
+      "name": "totaalBED",
+      "latitude": 52.312518,
+      "longitude": 4.939092,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 467,
+      "name": "totaalBED",
+      "latitude": 52.32443,
+      "longitude": 5.613626,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 468,
+      "name": "totaalBED",
+      "latitude": 52.340309,
+      "longitude": 6.643446,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 469,
+      "name": "totaalBED",
+      "latitude": 52.393836,
+      "longitude": 5.273528,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 470,
+      "name": "totaalBED",
+      "latitude": 52.492016,
+      "longitude": 5.482933,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 471,
+      "name": "totaalBED",
+      "latitude": 52.510821,
+      "longitude": 6.066607,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 472,
+      "name": "totaalBED",
+      "latitude": 52.763669,
+      "longitude": 6.901526,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 473,
+      "name": "totaalBED",
+      "latitude": 53.012169,
+      "longitude": 6.570873,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 474,
+      "name": "totaalBED",
+      "latitude": 53.095413,
+      "longitude": 6.102301,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 475,
+      "name": "totaalBED",
+      "latitude": 53.213687,
+      "longitude": 6.537639,
+      "osm_klasse": "shop=bed"
+    },
+    {
+      "id": 476,
+      "name": "van Beek",
+      "latitude": 52.213987,
+      "longitude": 5.961428,
+      "osm_klasse": "shop=bed"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: bed (shop=bed) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=bed in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 476 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: bed (shop=bed) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: bed (shop=bed) — 476 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 476 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

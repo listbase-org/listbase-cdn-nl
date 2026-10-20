@@ -1,0 +1,5826 @@
+{
+  "id": "nl-osm-amenity-car-wash",
+  "name": "Netherlands OSM: car wash (amenity=car_wash)",
+  "title": "Netherlands OSM: car wash (amenity=car_wash)",
+  "description": "Named OpenStreetMap features tagged amenity=car_wash in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 825,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'S Mart Carwash",
+      "latitude": 52.029407,
+      "longitude": 5.649198,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 2,
+      "name": "'t Vosje",
+      "latitude": 51.621411,
+      "longitude": 4.873449,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 3,
+      "name": "A Wash De Vries",
+      "latitude": 52.302439,
+      "longitude": 4.592594,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 4,
+      "name": "A7 Carwash",
+      "latitude": 53.16905,
+      "longitude": 6.750405,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 5,
+      "name": "ABC",
+      "latitude": 51.577366,
+      "longitude": 5.078707,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 6,
+      "name": "ANAC",
+      "latitude": 51.477525,
+      "longitude": 5.484352,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 7,
+      "name": "ANAC",
+      "latitude": 51.951113,
+      "longitude": 5.882789,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 8,
+      "name": "ANAC Carwash",
+      "latitude": 51.600031,
+      "longitude": 4.757367,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 9,
+      "name": "ANAC Carwash",
+      "latitude": 51.709464,
+      "longitude": 5.332451,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 10,
+      "name": "ANAC Carwash",
+      "latitude": 51.82151,
+      "longitude": 5.784765,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 11,
+      "name": "ANAC Carwash",
+      "latitude": 52.034642,
+      "longitude": 4.315519,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 12,
+      "name": "ANAC Carwash Arnhem IJsseloord",
+      "latitude": 51.974686,
+      "longitude": 5.955003,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 13,
+      "name": "ANAC carwash",
+      "latitude": 51.837759,
+      "longitude": 5.814184,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 14,
+      "name": "AP Carwash",
+      "latitude": 52.863619,
+      "longitude": 4.809507,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 15,
+      "name": "AVIA",
+      "latitude": 50.843217,
+      "longitude": 5.720076,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 16,
+      "name": "AVIA",
+      "latitude": 51.340274,
+      "longitude": 5.462454,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 17,
+      "name": "AVIA",
+      "latitude": 51.461971,
+      "longitude": 5.470875,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 18,
+      "name": "AVIA",
+      "latitude": 51.792301,
+      "longitude": 4.663283,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 19,
+      "name": "AVIA",
+      "latitude": 51.860847,
+      "longitude": 4.476231,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 20,
+      "name": "AVIA",
+      "latitude": 51.925238,
+      "longitude": 4.462998,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 21,
+      "name": "AVIA",
+      "latitude": 51.937283,
+      "longitude": 4.592714,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 22,
+      "name": "AVIA Carwash",
+      "latitude": 51.45462,
+      "longitude": 5.521845,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 23,
+      "name": "AVIA Carwash",
+      "latitude": 51.454683,
+      "longitude": 5.522667,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 24,
+      "name": "AVIA Carwash",
+      "latitude": 51.555692,
+      "longitude": 6.098476,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 25,
+      "name": "AVIA Carwash",
+      "latitude": 51.633418,
+      "longitude": 5.415035,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 26,
+      "name": "AVIA Carwash",
+      "latitude": 51.74643,
+      "longitude": 5.112261,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 27,
+      "name": "AVIA Hastelweg",
+      "latitude": 51.4353,
+      "longitude": 5.446274,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 28,
+      "name": "AVIA Hendrik-Ido-Ambacht",
+      "latitude": 51.83455,
+      "longitude": 4.637267,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 29,
+      "name": "AVIA Lochem",
+      "latitude": 52.158286,
+      "longitude": 6.413282,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 30,
+      "name": "AVIA Maarssen",
+      "latitude": 52.141342,
+      "longitude": 5.052494,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 31,
+      "name": "AVIA Oostzaan Skoon",
+      "latitude": 52.432342,
+      "longitude": 4.876063,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 32,
+      "name": "AVIA Steketee",
+      "latitude": 51.480919,
+      "longitude": 4.052055,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 33,
+      "name": "AVIA Tilburg Reeshof",
+      "latitude": 51.573767,
+      "longitude": 5.019757,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 34,
+      "name": "AVIA Tolkamer",
+      "latitude": 51.858536,
+      "longitude": 6.108205,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 35,
+      "name": "AVIA Zwijndrecht Beneluxlaan",
+      "latitude": 51.823193,
+      "longitude": 4.653769,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 36,
+      "name": "Aers Car Wash",
+      "latitude": 51.749563,
+      "longitude": 4.120668,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 37,
+      "name": "All-In Carwash",
+      "latitude": 51.276163,
+      "longitude": 5.738665,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 38,
+      "name": "All-In Carwash Echt",
+      "latitude": 51.106442,
+      "longitude": 5.857699,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 39,
+      "name": "Anac",
+      "latitude": 52.050325,
+      "longitude": 5.111536,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 40,
+      "name": "ArGo CarCleaning",
+      "latitude": 51.810795,
+      "longitude": 5.757863,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 41,
+      "name": "Argos",
+      "latitude": 51.947941,
+      "longitude": 4.42892,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 42,
+      "name": "Argos",
+      "latitude": 52.240012,
+      "longitude": 6.892614,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 43,
+      "name": "Argos",
+      "latitude": 52.312727,
+      "longitude": 6.519224,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 44,
+      "name": "ArgosWash",
+      "latitude": 51.752152,
+      "longitude": 4.552011,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 45,
+      "name": "ArgosWash",
+      "latitude": 52.032779,
+      "longitude": 4.180016,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 46,
+      "name": "ArgosWash Boxen",
+      "latitude": 51.752264,
+      "longitude": 4.552132,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 47,
+      "name": "Arslan Autocenter",
+      "latitude": 51.891311,
+      "longitude": 4.475014,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 48,
+      "name": "AtTheCarWash Company",
+      "latitude": 52.122546,
+      "longitude": 5.562927,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 49,
+      "name": "AtTheCarWash Company",
+      "latitude": 52.67137,
+      "longitude": 5.060658,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 50,
+      "name": "AtTheCarWash Company",
+      "latitude": 52.671838,
+      "longitude": 5.060728,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 51,
+      "name": "AutOase",
+      "latitude": 53.109239,
+      "longitude": 6.16879,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 52,
+      "name": "Auto Beerda Carwash",
+      "latitude": 53.28341,
+      "longitude": 6.153637,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 53,
+      "name": "Auto Clean",
+      "latitude": 51.891678,
+      "longitude": 4.588648,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 54,
+      "name": "Auto paleis",
+      "latitude": 52.268806,
+      "longitude": 6.821099,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 55,
+      "name": "AutoWas Centrum",
+      "latitude": 52.381249,
+      "longitude": 6.290138,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 56,
+      "name": "Autobedrijf Jack van Meel",
+      "latitude": 51.689963,
+      "longitude": 4.870308,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 57,
+      "name": "Autobedrijf Laurijssen",
+      "latitude": 51.442647,
+      "longitude": 4.940924,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 58,
+      "name": "Autobedrijf Oostpolder",
+      "latitude": 51.428092,
+      "longitude": 4.127835,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 59,
+      "name": "Autocleaning J. Vlieg",
+      "latitude": 53.211209,
+      "longitude": 6.092607,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 60,
+      "name": "Autocleanservice Purmerend",
+      "latitude": 52.513789,
+      "longitude": 4.99202,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 61,
+      "name": "Automobielbedrijf De Bruijn B.V.",
+      "latitude": 51.947794,
+      "longitude": 4.86124,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 62,
+      "name": "Autopoetsbedrijf",
+      "latitude": 52.074494,
+      "longitude": 4.277706,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 63,
+      "name": "Autopoetsbedrijf Carfema",
+      "latitude": 52.037824,
+      "longitude": 4.50729,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 64,
+      "name": "Autowas & poetsbedrijf de Vries",
+      "latitude": 53.222257,
+      "longitude": 6.587482,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 65,
+      "name": "Autowas Elburg",
+      "latitude": 52.442246,
+      "longitude": 5.860805,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 66,
+      "name": "Autowas Park Nijkerk",
+      "latitude": 52.22925,
+      "longitude": 5.470262,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 67,
+      "name": "Autowas Wiggerts",
+      "latitude": 52.347615,
+      "longitude": 5.514725,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 68,
+      "name": "Autowas Zelhem",
+      "latitude": 51.999322,
+      "longitude": 6.358478,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 69,
+      "name": "Autowasbeurt",
+      "latitude": 51.865321,
+      "longitude": 4.457449,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 70,
+      "name": "Autowascentrum \"Lido\"",
+      "latitude": 53.410345,
+      "longitude": 6.67876,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 71,
+      "name": "Autowascentrum 't Vosje",
+      "latitude": 51.558424,
+      "longitude": 4.61763,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 72,
+      "name": "Autowascentrum Gruppen",
+      "latitude": 52.558664,
+      "longitude": 6.630655,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 73,
+      "name": "Autowascentrum Roden",
+      "latitude": 53.144885,
+      "longitude": 6.438619,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 74,
+      "name": "Autowaspark",
+      "latitude": 51.485003,
+      "longitude": 3.877593,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 75,
+      "name": "Autowaspark Kuzee",
+      "latitude": 51.313872,
+      "longitude": 3.840121,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 76,
+      "name": "Autowaspark Kuzee",
+      "latitude": 51.493231,
+      "longitude": 3.883153,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 77,
+      "name": "Autowasplaats Kolkman",
+      "latitude": 52.047132,
+      "longitude": 6.606804,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 78,
+      "name": "Autowasserette Beijer",
+      "latitude": 51.982398,
+      "longitude": 5.339577,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 79,
+      "name": "Autowasserette F vd Linde",
+      "latitude": 52.292795,
+      "longitude": 5.610094,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 80,
+      "name": "Autowasserij",
+      "latitude": 52.645931,
+      "longitude": 6.083719,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 81,
+      "name": "Autowasserij \"de Breker\"",
+      "latitude": 52.587305,
+      "longitude": 6.0962,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 82,
+      "name": "Autowasstraat Batterman",
+      "latitude": 53.335017,
+      "longitude": 6.509769,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 83,
+      "name": "Autowasstraat De Goudvis",
+      "latitude": 51.484252,
+      "longitude": 4.299257,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 84,
+      "name": "Autowasstraat Fokkinga",
+      "latitude": 53.206124,
+      "longitude": 5.811895,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 85,
+      "name": "Autowasstraat Kolkman",
+      "latitude": 52.047345,
+      "longitude": 6.606633,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 86,
+      "name": "Autowasstraat Overdie",
+      "latitude": 52.617631,
+      "longitude": 4.761092,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 87,
+      "name": "Autowasstraat Softwash",
+      "latitude": 52.305602,
+      "longitude": 5.244495,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 88,
+      "name": "Avia",
+      "latitude": 53.007648,
+      "longitude": 6.581777,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 89,
+      "name": "Avia Wasstraat",
+      "latitude": 53.167108,
+      "longitude": 6.497165,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 90,
+      "name": "BOB Autowas",
+      "latitude": 51.453157,
+      "longitude": 3.584277,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 91,
+      "name": "BOB Autowas",
+      "latitude": 51.482447,
+      "longitude": 3.631985,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 92,
+      "name": "BOB Autowas",
+      "latitude": 51.73316,
+      "longitude": 5.854401,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 93,
+      "name": "BOB Autowas",
+      "latitude": 51.817353,
+      "longitude": 4.702917,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 94,
+      "name": "BOB Autowas",
+      "latitude": 51.828287,
+      "longitude": 5.869397,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 95,
+      "name": "BOB Autowas",
+      "latitude": 51.866655,
+      "longitude": 4.451795,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 96,
+      "name": "BOB Autowas",
+      "latitude": 51.872108,
+      "longitude": 4.554891,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 97,
+      "name": "BOB Autowas",
+      "latitude": 51.928538,
+      "longitude": 4.402784,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 98,
+      "name": "BOB Autowas",
+      "latitude": 51.981872,
+      "longitude": 4.446987,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 99,
+      "name": "BOB Autowas",
+      "latitude": 51.984606,
+      "longitude": 4.341857,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 100,
+      "name": "BOB Autowas",
+      "latitude": 52.021899,
+      "longitude": 4.68101,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 101,
+      "name": "BOB Autowas",
+      "latitude": 52.027556,
+      "longitude": 4.661799,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 102,
+      "name": "BOB Autowas",
+      "latitude": 52.057155,
+      "longitude": 4.522905,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 103,
+      "name": "BOB Autowas",
+      "latitude": 52.194652,
+      "longitude": 5.932485,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 104,
+      "name": "BOB Autowas",
+      "latitude": 52.221163,
+      "longitude": 5.181344,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 105,
+      "name": "BOB Autowas",
+      "latitude": 52.359525,
+      "longitude": 4.800837,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 106,
+      "name": "BOB Autowas",
+      "latitude": 52.391432,
+      "longitude": 4.849978,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 107,
+      "name": "BOB Autowas",
+      "latitude": 52.408529,
+      "longitude": 4.886256,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 108,
+      "name": "BOB Autowas",
+      "latitude": 52.436101,
+      "longitude": 4.651712,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 109,
+      "name": "BOB Autowas",
+      "latitude": 52.456432,
+      "longitude": 4.817746,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 110,
+      "name": "BOB Autowas",
+      "latitude": 53.148824,
+      "longitude": 7.051804,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 111,
+      "name": "BOB Wash & Go",
+      "latitude": 52.315209,
+      "longitude": 5.026583,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 112,
+      "name": "BP",
+      "latitude": 51.711745,
+      "longitude": 5.361229,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 113,
+      "name": "BP",
+      "latitude": 51.803744,
+      "longitude": 4.646399,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 114,
+      "name": "BP",
+      "latitude": 51.948491,
+      "longitude": 6.307209,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 115,
+      "name": "BP",
+      "latitude": 51.968415,
+      "longitude": 5.890338,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 116,
+      "name": "BP",
+      "latitude": 52.098373,
+      "longitude": 5.086946,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 117,
+      "name": "BP",
+      "latitude": 52.327111,
+      "longitude": 4.970606,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 118,
+      "name": "BP",
+      "latitude": 52.393721,
+      "longitude": 4.865031,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 119,
+      "name": "BP",
+      "latitude": 52.614791,
+      "longitude": 4.739211,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 120,
+      "name": "BP",
+      "latitude": 52.959081,
+      "longitude": 5.927926,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 121,
+      "name": "BP",
+      "latitude": 53.102456,
+      "longitude": 6.081554,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 122,
+      "name": "BP",
+      "latitude": 53.151192,
+      "longitude": 6.370474,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 123,
+      "name": "BP",
+      "latitude": 53.229021,
+      "longitude": 6.545049,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 124,
+      "name": "BP Capelseweg",
+      "latitude": 51.958161,
+      "longitude": 4.562189,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 125,
+      "name": "BP Carwash",
+      "latitude": 50.855742,
+      "longitude": 5.715696,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 126,
+      "name": "BP Carwash",
+      "latitude": 50.985392,
+      "longitude": 5.844078,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 127,
+      "name": "BP Carwash",
+      "latitude": 51.354883,
+      "longitude": 6.0487,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 128,
+      "name": "BP Carwash",
+      "latitude": 51.619215,
+      "longitude": 5.563911,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 129,
+      "name": "BP Carwash",
+      "latitude": 51.786803,
+      "longitude": 4.685277,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 130,
+      "name": "BP Carwash",
+      "latitude": 51.799772,
+      "longitude": 4.707056,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 131,
+      "name": "BP Carwash",
+      "latitude": 51.801412,
+      "longitude": 4.700024,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 132,
+      "name": "BP Carwash",
+      "latitude": 51.827793,
+      "longitude": 4.733351,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 133,
+      "name": "BP Carwash",
+      "latitude": 51.958373,
+      "longitude": 5.981274,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 134,
+      "name": "BP Carwash",
+      "latitude": 51.978762,
+      "longitude": 4.97753,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 135,
+      "name": "BP Carwash",
+      "latitude": 51.9876,
+      "longitude": 4.345097,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 136,
+      "name": "BP Carwash",
+      "latitude": 52.013935,
+      "longitude": 4.280514,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 137,
+      "name": "BP Carwash",
+      "latitude": 52.020541,
+      "longitude": 5.648589,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 138,
+      "name": "BP Carwash",
+      "latitude": 52.048387,
+      "longitude": 4.347376,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 139,
+      "name": "BP Carwash",
+      "latitude": 52.058481,
+      "longitude": 4.225792,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 140,
+      "name": "BP Carwash",
+      "latitude": 52.061665,
+      "longitude": 4.260702,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 141,
+      "name": "BP Carwash",
+      "latitude": 52.065017,
+      "longitude": 5.129659,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 142,
+      "name": "BP Carwash",
+      "latitude": 52.078909,
+      "longitude": 5.143148,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 143,
+      "name": "BP Carwash",
+      "latitude": 52.337559,
+      "longitude": 4.818439,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 144,
+      "name": "BP Carwash",
+      "latitude": 52.415465,
+      "longitude": 4.874204,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 145,
+      "name": "BP Carwash",
+      "latitude": 52.41944,
+      "longitude": 4.911983,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 146,
+      "name": "BP Carwash",
+      "latitude": 52.535589,
+      "longitude": 5.723361,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 147,
+      "name": "BP Carwash",
+      "latitude": 52.644934,
+      "longitude": 5.049407,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 148,
+      "name": "BP Zuid-Oost",
+      "latitude": 52.720032,
+      "longitude": 6.505991,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 149,
+      "name": "Baltes Carwash",
+      "latitude": 52.276152,
+      "longitude": 6.415463,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 150,
+      "name": "Baran Carwash",
+      "latitude": 52.392769,
+      "longitude": 5.271251,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 151,
+      "name": "Bas Autowas",
+      "latitude": 52.491785,
+      "longitude": 6.1258,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 152,
+      "name": "Bas Autowas",
+      "latitude": 52.518082,
+      "longitude": 6.059488,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 153,
+      "name": "Bekhuis",
+      "latitude": 52.434187,
+      "longitude": 6.824033,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 154,
+      "name": "Benzinepomp de Haan",
+      "latitude": 52.471462,
+      "longitude": 4.796247,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 155,
+      "name": "Berkman",
+      "latitude": 51.649981,
+      "longitude": 4.759555,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 156,
+      "name": "Betam Truck & CarWash",
+      "latitude": 52.200117,
+      "longitude": 6.037405,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 157,
+      "name": "Beursgens Carwash",
+      "latitude": 50.850828,
+      "longitude": 6.008532,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 158,
+      "name": "Biemond & van Wijk",
+      "latitude": 52.260821,
+      "longitude": 4.773629,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 159,
+      "name": "Biesebos",
+      "latitude": 51.176299,
+      "longitude": 5.837115,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 160,
+      "name": "Bij de Centrale",
+      "latitude": 51.834758,
+      "longitude": 4.681133,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 161,
+      "name": "Bijl",
+      "latitude": 51.68582,
+      "longitude": 5.072863,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 162,
+      "name": "Blue Wash",
+      "latitude": 52.5111,
+      "longitude": 5.709881,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 163,
+      "name": "Blue Wash",
+      "latitude": 52.523594,
+      "longitude": 5.496908,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 164,
+      "name": "Blue Wash",
+      "latitude": 52.557107,
+      "longitude": 5.88562,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 165,
+      "name": "Blue Wash",
+      "latitude": 52.619748,
+      "longitude": 6.545133,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 166,
+      "name": "Blue Wash",
+      "latitude": 52.654989,
+      "longitude": 5.61458,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 167,
+      "name": "Blue Wash",
+      "latitude": 52.726444,
+      "longitude": 5.761767,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 168,
+      "name": "Blue Wash",
+      "latitude": 52.777855,
+      "longitude": 6.100218,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 169,
+      "name": "Blue Wash",
+      "latitude": 53.140798,
+      "longitude": 6.437514,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 170,
+      "name": "Blue Wash",
+      "latitude": 53.33137,
+      "longitude": 6.010333,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 171,
+      "name": "Boonstoppel Shell",
+      "latitude": 52.075561,
+      "longitude": 4.6377,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 172,
+      "name": "Borst BV",
+      "latitude": 52.631328,
+      "longitude": 4.892684,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 173,
+      "name": "Brandoil Zutphen",
+      "latitude": 52.159176,
+      "longitude": 6.202657,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 174,
+      "name": "Broers Auto Wellness",
+      "latitude": 52.238877,
+      "longitude": 4.833013,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 175,
+      "name": "Camper/caravan wash",
+      "latitude": 52.178942,
+      "longitude": 5.984491,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 176,
+      "name": "Car Care Expert",
+      "latitude": 52.385365,
+      "longitude": 4.733023,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 177,
+      "name": "Car Cleaning Delft",
+      "latitude": 51.986238,
+      "longitude": 4.376449,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 178,
+      "name": "Car Wash",
+      "latitude": 51.4236,
+      "longitude": 5.551159,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 179,
+      "name": "Car Wash",
+      "latitude": 52.133904,
+      "longitude": 4.453364,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 180,
+      "name": "Car Wash Berkman",
+      "latitude": 51.69424,
+      "longitude": 5.272791,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 181,
+      "name": "Car Wash Center Gouda",
+      "latitude": 52.018829,
+      "longitude": 4.682663,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 182,
+      "name": "Car Wash Eerbeek",
+      "latitude": 52.098529,
+      "longitude": 6.060813,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 183,
+      "name": "Car- en Truckcleaning SpiQ BV",
+      "latitude": 51.946131,
+      "longitude": 6.282794,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 184,
+      "name": "CarPro",
+      "latitude": 51.447952,
+      "longitude": 5.545298,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 185,
+      "name": "CarWash AutoWest",
+      "latitude": 52.06895,
+      "longitude": 4.243913,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 186,
+      "name": "Carcleaning Attent",
+      "latitude": 51.970495,
+      "longitude": 6.26051,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 187,
+      "name": "Carcleaning Borger",
+      "latitude": 52.924715,
+      "longitude": 6.797173,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 188,
+      "name": "Carcleaning Rijckholt",
+      "latitude": 50.799857,
+      "longitude": 5.732762,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 189,
+      "name": "Carewash",
+      "latitude": 51.61027,
+      "longitude": 5.447171,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 190,
+      "name": "Carewash",
+      "latitude": 52.053948,
+      "longitude": 6.09431,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 191,
+      "name": "Carres Carwash",
+      "latitude": 51.411294,
+      "longitude": 5.555448,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 192,
+      "name": "Carwash",
+      "latitude": 51.818108,
+      "longitude": 5.841853,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 193,
+      "name": "Carwash",
+      "latitude": 52.075009,
+      "longitude": 4.896313,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 194,
+      "name": "Carwash",
+      "latitude": 52.273839,
+      "longitude": 6.103442,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 195,
+      "name": "Carwash",
+      "latitude": 52.692069,
+      "longitude": 5.268967,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 196,
+      "name": "Carwash",
+      "latitude": 52.7607,
+      "longitude": 6.339137,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 197,
+      "name": "Carwash & Co",
+      "latitude": 52.105358,
+      "longitude": 6.327906,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 198,
+      "name": "Carwash & Co Veenendaal",
+      "latitude": 52.010489,
+      "longitude": 5.569504,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 199,
+      "name": "Carwash & Poetsbedrijf Sliedrecht",
+      "latitude": 51.827609,
+      "longitude": 4.800548,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 200,
+      "name": "Carwash 's-Graveland",
+      "latitude": 52.259391,
+      "longitude": 5.125017,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 201,
+      "name": "Carwash 4 All",
+      "latitude": 52.518765,
+      "longitude": 4.999718,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 202,
+      "name": "Carwash Aqua Clean",
+      "latitude": 53.362194,
+      "longitude": 6.371547,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 203,
+      "name": "Carwash Arsenaal",
+      "latitude": 52.044306,
+      "longitude": 5.55787,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 204,
+      "name": "Carwash Baptista",
+      "latitude": 51.948887,
+      "longitude": 5.883013,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 205,
+      "name": "Carwash Bleskensgraaf",
+      "latitude": 51.869091,
+      "longitude": 4.785473,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 206,
+      "name": "Carwash Center",
+      "latitude": 52.733025,
+      "longitude": 6.984189,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 207,
+      "name": "Carwash Center Echt",
+      "latitude": 51.117403,
+      "longitude": 5.881407,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 208,
+      "name": "Carwash Center Elst",
+      "latitude": 51.9111,
+      "longitude": 5.860702,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 209,
+      "name": "Carwash Center Horsterparc",
+      "latitude": 52.352489,
+      "longitude": 5.490881,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 210,
+      "name": "Carwash Center Hulst",
+      "latitude": 51.27667,
+      "longitude": 4.04332,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 211,
+      "name": "Carwash Center de Klein Odijk",
+      "latitude": 52.049753,
+      "longitude": 5.23286,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 212,
+      "name": "Carwash Clean City",
+      "latitude": 52.340359,
+      "longitude": 4.897003,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 213,
+      "name": "Carwash Coevorden",
+      "latitude": 52.666485,
+      "longitude": 6.725459,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 214,
+      "name": "Carwash De Schans",
+      "latitude": 51.536061,
+      "longitude": 4.283633,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 215,
+      "name": "Carwash De Zwaaikom",
+      "latitude": 52.166384,
+      "longitude": 5.369503,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 216,
+      "name": "Carwash Den Ham",
+      "latitude": 52.459233,
+      "longitude": 6.503963,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 217,
+      "name": "Carwash Derks",
+      "latitude": 51.764682,
+      "longitude": 5.785234,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 218,
+      "name": "Carwash Druten",
+      "latitude": 51.885866,
+      "longitude": 5.580283,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 219,
+      "name": "Carwash Ermelo",
+      "latitude": 52.319553,
+      "longitude": 5.624326,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 220,
+      "name": "Carwash Factory",
+      "latitude": 51.528431,
+      "longitude": 4.452292,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 221,
+      "name": "Carwash Gorinchem",
+      "latitude": 51.836373,
+      "longitude": 4.975171,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 222,
+      "name": "Carwash Haaglanden",
+      "latitude": 52.040791,
+      "longitude": 4.358706,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 223,
+      "name": "Carwash Harderwijk",
+      "latitude": 52.344156,
+      "longitude": 5.627005,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 224,
+      "name": "Carwash Hedel",
+      "latitude": 51.755288,
+      "longitude": 5.261981,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 225,
+      "name": "Carwash Heinkenszand",
+      "latitude": 51.481071,
+      "longitude": 3.817892,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 226,
+      "name": "Carwash Heisterkamp",
+      "latitude": 52.410474,
+      "longitude": 6.914749,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 227,
+      "name": "Carwash Hoorn",
+      "latitude": 52.647435,
+      "longitude": 5.032987,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 228,
+      "name": "Carwash Houten",
+      "latitude": 52.017924,
+      "longitude": 5.156987,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 229,
+      "name": "Carwash Kleiboer",
+      "latitude": 52.212262,
+      "longitude": 5.996625,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 230,
+      "name": "Carwash Landgraaf",
+      "latitude": 50.916739,
+      "longitude": 6.023467,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 231,
+      "name": "Carwash Leek",
+      "latitude": 53.166024,
+      "longitude": 6.380176,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 232,
+      "name": "Carwash Leek",
+      "latitude": 53.166456,
+      "longitude": 6.381393,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 233,
+      "name": "Carwash Loman Heteren",
+      "latitude": 51.944567,
+      "longitude": 5.758377,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 234,
+      "name": "Carwash Maastricht",
+      "latitude": 50.819395,
+      "longitude": 5.71207,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 235,
+      "name": "Carwash Mark Jansen",
+      "latitude": 51.282648,
+      "longitude": 5.310774,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 236,
+      "name": "Carwash Meijers Beek",
+      "latitude": 50.95132,
+      "longitude": 5.808343,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 237,
+      "name": "Carwash Number 1",
+      "latitude": 51.205809,
+      "longitude": 6.007484,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 238,
+      "name": "Carwash Plaza",
+      "latitude": 52.253236,
+      "longitude": 4.626913,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 239,
+      "name": "Carwash Reitdiep",
+      "latitude": 53.237369,
+      "longitude": 6.518505,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 240,
+      "name": "Carwash Reusel BV",
+      "latitude": 51.370895,
+      "longitude": 5.155569,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 241,
+      "name": "Carwash Rijen",
+      "latitude": 51.577578,
+      "longitude": 4.936839,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 242,
+      "name": "Carwash Ruinen",
+      "latitude": 52.760627,
+      "longitude": 6.364678,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 243,
+      "name": "Carwash Schijndel",
+      "latitude": 51.612916,
+      "longitude": 5.45856,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 244,
+      "name": "Carwash Uden",
+      "latitude": 51.675066,
+      "longitude": 5.641983,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 245,
+      "name": "Carwash Westland",
+      "latitude": 52.000295,
+      "longitude": 4.210712,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 246,
+      "name": "Carwash Woerden",
+      "latitude": 52.076133,
+      "longitude": 4.900844,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 247,
+      "name": "Carwash Zaltbommel",
+      "latitude": 51.794047,
+      "longitude": 5.261591,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 248,
+      "name": "Carwash clean in 60 meters",
+      "latitude": 50.902697,
+      "longitude": 5.946303,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 249,
+      "name": "Carwash de Achterhoek",
+      "latitude": 51.969034,
+      "longitude": 6.284677,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 250,
+      "name": "Carwash de Duif",
+      "latitude": 51.96776,
+      "longitude": 5.992951,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 251,
+      "name": "Carwash de Kaardebol",
+      "latitude": 52.001762,
+      "longitude": 5.659745,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 252,
+      "name": "Carwash de hurk",
+      "latitude": 51.434169,
+      "longitude": 5.450335,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 253,
+      "name": "Carwash en Wasboxen Eliëns",
+      "latitude": 51.41104,
+      "longitude": 5.420689,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 254,
+      "name": "Carwash het Meeuwke",
+      "latitude": 51.426495,
+      "longitude": 4.329393,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 255,
+      "name": "Carwash&Go",
+      "latitude": 52.213155,
+      "longitude": 5.146329,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 256,
+      "name": "CarwashA2",
+      "latitude": 51.799019,
+      "longitude": 5.259638,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 257,
+      "name": "CarwashPlus",
+      "latitude": 52.031195,
+      "longitude": 4.357564,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 258,
+      "name": "CarwashPlus",
+      "latitude": 52.387479,
+      "longitude": 4.6681,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 259,
+      "name": "CarwashPlus",
+      "latitude": 52.517403,
+      "longitude": 4.979086,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 260,
+      "name": "Carwellness Venray",
+      "latitude": 51.54003,
+      "longitude": 5.985835,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 261,
+      "name": "Century",
+      "latitude": 53.212522,
+      "longitude": 6.592913,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 262,
+      "name": "Christ Carwash",
+      "latitude": 52.238578,
+      "longitude": 4.832655,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 263,
+      "name": "Circle K",
+      "latitude": 51.680913,
+      "longitude": 5.134755,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 264,
+      "name": "Circle K",
+      "latitude": 51.697671,
+      "longitude": 5.161323,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 265,
+      "name": "Circle K",
+      "latitude": 52.43132,
+      "longitude": 4.853099,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 266,
+      "name": "Claro Carwash",
+      "latitude": 51.853838,
+      "longitude": 4.303818,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 267,
+      "name": "Claro Carwash",
+      "latitude": 51.948848,
+      "longitude": 4.545486,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 268,
+      "name": "Claro Carwash",
+      "latitude": 52.042155,
+      "longitude": 4.541953,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 269,
+      "name": "Claro Carwash",
+      "latitude": 52.057431,
+      "longitude": 4.309578,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 270,
+      "name": "Claro Carwash",
+      "latitude": 52.142379,
+      "longitude": 4.483887,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 271,
+      "name": "Claro Carwash",
+      "latitude": 52.151525,
+      "longitude": 6.198458,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 272,
+      "name": "Claro Carwash",
+      "latitude": 52.165533,
+      "longitude": 4.519312,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 273,
+      "name": "Claro Carwash",
+      "latitude": 52.302161,
+      "longitude": 5.148509,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 274,
+      "name": "Clean = Clean",
+      "latitude": 51.860815,
+      "longitude": 4.472995,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 275,
+      "name": "Clean Up Carwash",
+      "latitude": 50.867008,
+      "longitude": 6.070352,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 276,
+      "name": "Cleaning Twente",
+      "latitude": 52.241656,
+      "longitude": 6.780609,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 277,
+      "name": "Comfort Carwash",
+      "latitude": 52.240006,
+      "longitude": 5.981417,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 278,
+      "name": "Comfort Carwash Ede",
+      "latitude": 52.052355,
+      "longitude": 5.666926,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 279,
+      "name": "Coppus",
+      "latitude": 51.386551,
+      "longitude": 6.180675,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 280,
+      "name": "DC Berkel Carwash",
+      "latitude": 51.893902,
+      "longitude": 4.187732,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 281,
+      "name": "DK Tankstop",
+      "latitude": 51.747155,
+      "longitude": 5.53215,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 282,
+      "name": "DailyCarwash",
+      "latitude": 51.917953,
+      "longitude": 5.656899,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 283,
+      "name": "Dasselaar Autowascentrum",
+      "latitude": 52.457885,
+      "longitude": 6.496299,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 284,
+      "name": "De Autowasserij",
+      "latitude": 53.218251,
+      "longitude": 6.593676,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 285,
+      "name": "De Baanderij",
+      "latitude": 52.011709,
+      "longitude": 4.692469,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 286,
+      "name": "De Blokhut",
+      "latitude": 52.332926,
+      "longitude": 4.981901,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 287,
+      "name": "De Borg",
+      "latitude": 52.278614,
+      "longitude": 6.804628,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 288,
+      "name": "De Haan wasstraat Langesteijn",
+      "latitude": 51.83308,
+      "longitude": 4.617179,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 289,
+      "name": "De Hoge Voort",
+      "latitude": 51.997086,
+      "longitude": 6.352565,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 290,
+      "name": "De Molenwiel",
+      "latitude": 51.770463,
+      "longitude": 5.760612,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 291,
+      "name": "De Sluis",
+      "latitude": 51.728568,
+      "longitude": 4.957719,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 292,
+      "name": "De Walvis",
+      "latitude": 51.808512,
+      "longitude": 4.652247,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 293,
+      "name": "De Wasbeer",
+      "latitude": 52.71063,
+      "longitude": 6.518438,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 294,
+      "name": "De Wasstraat",
+      "latitude": 52.155071,
+      "longitude": 4.781064,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 295,
+      "name": "De Wildhorst",
+      "latitude": 52.971593,
+      "longitude": 5.794952,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 296,
+      "name": "Den Hollander",
+      "latitude": 52.395294,
+      "longitude": 4.782683,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 297,
+      "name": "Dirk! Autowas",
+      "latitude": 51.770866,
+      "longitude": 5.862082,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 298,
+      "name": "EG Carwash",
+      "latitude": 51.929855,
+      "longitude": 4.78069,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 299,
+      "name": "EG Carwash",
+      "latitude": 51.955856,
+      "longitude": 4.514942,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 300,
+      "name": "EG Carwash",
+      "latitude": 52.028242,
+      "longitude": 4.362558,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 301,
+      "name": "EG Carwash",
+      "latitude": 52.042145,
+      "longitude": 4.640961,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 302,
+      "name": "EG Carwash",
+      "latitude": 52.042914,
+      "longitude": 4.241297,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 303,
+      "name": "EG Carwash",
+      "latitude": 52.070884,
+      "longitude": 4.398475,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 304,
+      "name": "EG Groep",
+      "latitude": 52.332981,
+      "longitude": 4.981985,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 305,
+      "name": "EG Group Car Wash",
+      "latitude": 52.223033,
+      "longitude": 5.157006,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 306,
+      "name": "Easy and Go",
+      "latitude": 52.111982,
+      "longitude": 4.662782,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 307,
+      "name": "EasyCarWash Groningen",
+      "latitude": 53.212654,
+      "longitude": 6.538335,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 308,
+      "name": "Easyfill",
+      "latitude": 51.93069,
+      "longitude": 4.435355,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 309,
+      "name": "Eco Wasstraat",
+      "latitude": 52.103881,
+      "longitude": 6.652291,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 310,
+      "name": "Eem noar Piet",
+      "latitude": 52.707907,
+      "longitude": 6.984228,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 311,
+      "name": "Effe Lekker",
+      "latitude": 51.920044,
+      "longitude": 4.60435,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 312,
+      "name": "Effe Wassen",
+      "latitude": 52.518644,
+      "longitude": 6.118105,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 313,
+      "name": "Esso",
+      "latitude": 51.795105,
+      "longitude": 5.248178,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 314,
+      "name": "Esso",
+      "latitude": 51.804327,
+      "longitude": 4.8782,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 315,
+      "name": "Esso",
+      "latitude": 51.813542,
+      "longitude": 4.685128,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 316,
+      "name": "Esso",
+      "latitude": 51.940007,
+      "longitude": 5.51609,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 317,
+      "name": "Esso",
+      "latitude": 52.075689,
+      "longitude": 5.416472,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 318,
+      "name": "Esso",
+      "latitude": 52.091754,
+      "longitude": 6.647762,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 319,
+      "name": "Esso",
+      "latitude": 52.458498,
+      "longitude": 5.030561,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 320,
+      "name": "Esso",
+      "latitude": 52.489735,
+      "longitude": 6.125718,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 321,
+      "name": "Esso",
+      "latitude": 52.511441,
+      "longitude": 6.078426,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 322,
+      "name": "Esso",
+      "latitude": 52.524763,
+      "longitude": 6.117403,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 323,
+      "name": "Esso",
+      "latitude": 52.696235,
+      "longitude": 5.272091,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 324,
+      "name": "Esso",
+      "latitude": 53.164472,
+      "longitude": 6.738467,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 325,
+      "name": "Esso Carwash",
+      "latitude": 52.075113,
+      "longitude": 5.122231,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 326,
+      "name": "Esso De Warande",
+      "latitude": 51.488739,
+      "longitude": 4.308837,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 327,
+      "name": "Esso Houkesloot",
+      "latitude": 53.022274,
+      "longitude": 5.678927,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 328,
+      "name": "Eussen",
+      "latitude": 50.81976,
+      "longitude": 5.831917,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 329,
+      "name": "Excellent Carwash",
+      "latitude": 52.341825,
+      "longitude": 4.794603,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 330,
+      "name": "Falcon Carwash",
+      "latitude": 51.970777,
+      "longitude": 4.593888,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 331,
+      "name": "Fieman",
+      "latitude": 51.574798,
+      "longitude": 3.70509,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 332,
+      "name": "Fix-It Carcleaning",
+      "latitude": 51.899587,
+      "longitude": 4.570696,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 333,
+      "name": "Frans Autoglans",
+      "latitude": 52.787462,
+      "longitude": 6.093044,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 334,
+      "name": "Frans Autoglans Wolvega",
+      "latitude": 52.883524,
+      "longitude": 5.997558,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 335,
+      "name": "Fris Op Wielen",
+      "latitude": 52.863583,
+      "longitude": 6.495216,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 336,
+      "name": "G. Hulshoff Truckwash",
+      "latitude": 52.395227,
+      "longitude": 4.799067,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 337,
+      "name": "Garage Hendriks",
+      "latitude": 51.65867,
+      "longitude": 5.893407,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 338,
+      "name": "Garage Karssen",
+      "latitude": 52.057408,
+      "longitude": 5.26646,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 339,
+      "name": "Garage VIKA",
+      "latitude": 52.460864,
+      "longitude": 5.995494,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 340,
+      "name": "Geling's autowasstraat",
+      "latitude": 53.21877,
+      "longitude": 6.612734,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 341,
+      "name": "Geling's truckwash",
+      "latitude": 53.218825,
+      "longitude": 6.611799,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 342,
+      "name": "Geling's wasboxen",
+      "latitude": 53.2187,
+      "longitude": 6.612138,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 343,
+      "name": "Glim Carwash",
+      "latitude": 50.87628,
+      "longitude": 5.932569,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 344,
+      "name": "Glim Carwash",
+      "latitude": 52.010549,
+      "longitude": 5.558082,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 345,
+      "name": "Glim car wash",
+      "latitude": 52.991853,
+      "longitude": 6.517543,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 346,
+      "name": "Gooise Carwash",
+      "latitude": 52.28882,
+      "longitude": 5.279838,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 347,
+      "name": "Gulf Carwash",
+      "latitude": 52.269191,
+      "longitude": 5.534916,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 348,
+      "name": "Gulf Carwash",
+      "latitude": 52.844076,
+      "longitude": 6.617929,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 349,
+      "name": "HB Truckwash",
+      "latitude": 51.927657,
+      "longitude": 4.023235,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 350,
+      "name": "Haan",
+      "latitude": 51.665061,
+      "longitude": 5.810196,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 351,
+      "name": "Haan",
+      "latitude": 51.978373,
+      "longitude": 5.938986,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 352,
+      "name": "Haan",
+      "latitude": 52.193822,
+      "longitude": 5.9758,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 353,
+      "name": "Haan Autowassen",
+      "latitude": 50.831397,
+      "longitude": 5.722171,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 354,
+      "name": "Haan Autowassen",
+      "latitude": 51.081385,
+      "longitude": 5.811938,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 355,
+      "name": "Haan Autowassen",
+      "latitude": 51.23843,
+      "longitude": 5.70456,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 356,
+      "name": "Haan Autowassen",
+      "latitude": 51.444043,
+      "longitude": 5.612883,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 357,
+      "name": "Haan Autowassen",
+      "latitude": 51.472897,
+      "longitude": 5.462697,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 358,
+      "name": "Haan Autowassen",
+      "latitude": 51.765867,
+      "longitude": 5.29667,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 359,
+      "name": "Haan Autowassen",
+      "latitude": 51.81293,
+      "longitude": 3.940542,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 360,
+      "name": "Haan Autowassen",
+      "latitude": 51.997552,
+      "longitude": 4.396694,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 361,
+      "name": "Haan Autowassen",
+      "latitude": 52.006379,
+      "longitude": 5.046584,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 362,
+      "name": "Haan Autowassen",
+      "latitude": 52.007058,
+      "longitude": 5.046331,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 363,
+      "name": "Haan Autowassen",
+      "latitude": 52.007447,
+      "longitude": 4.445382,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 364,
+      "name": "Haan Autowassen",
+      "latitude": 52.015105,
+      "longitude": 5.051446,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 365,
+      "name": "Haan Autowassen",
+      "latitude": 52.200921,
+      "longitude": 4.616592,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 366,
+      "name": "Haan Autowassen",
+      "latitude": 52.228865,
+      "longitude": 4.442381,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 367,
+      "name": "Haan Neherkade",
+      "latitude": 52.060671,
+      "longitude": 4.316043,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 368,
+      "name": "Haan Princenhage",
+      "latitude": 51.58041,
+      "longitude": 4.731204,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 369,
+      "name": "Haan Wasbox",
+      "latitude": 51.505469,
+      "longitude": 3.600096,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 370,
+      "name": "Haan Wasbox",
+      "latitude": 51.812872,
+      "longitude": 3.940815,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 371,
+      "name": "Haan Wasbox",
+      "latitude": 51.934008,
+      "longitude": 4.410927,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 372,
+      "name": "Haan Wasbox",
+      "latitude": 52.007096,
+      "longitude": 5.046773,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 373,
+      "name": "Haan Wasbox",
+      "latitude": 52.387133,
+      "longitude": 5.202736,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 374,
+      "name": "Hanex",
+      "latitude": 51.691344,
+      "longitude": 5.209846,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 375,
+      "name": "Hanex Carwash Oss",
+      "latitude": 51.774004,
+      "longitude": 5.551194,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 376,
+      "name": "Hanex Carwash Veghel",
+      "latitude": 51.603692,
+      "longitude": 5.526971,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 377,
+      "name": "Happy Carwash",
+      "latitude": 52.248923,
+      "longitude": 7.007701,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 378,
+      "name": "Happy Duck",
+      "latitude": 52.336451,
+      "longitude": 4.946104,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 379,
+      "name": "Harry Van Egten",
+      "latitude": 52.849781,
+      "longitude": 6.529349,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 380,
+      "name": "Helder Carwash",
+      "latitude": 52.270121,
+      "longitude": 4.563731,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 381,
+      "name": "Hepo",
+      "latitude": 51.696134,
+      "longitude": 5.281218,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 382,
+      "name": "Hoeks Car Cleaning",
+      "latitude": 51.774481,
+      "longitude": 5.55084,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 383,
+      "name": "Huisman",
+      "latitude": 52.168635,
+      "longitude": 4.511962,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 384,
+      "name": "Hulscher Boekelo",
+      "latitude": 52.208242,
+      "longitude": 6.801557,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 385,
+      "name": "Hèt Carwash Centrum",
+      "latitude": 51.840137,
+      "longitude": 5.001038,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 386,
+      "name": "IMO",
+      "latitude": 50.892581,
+      "longitude": 5.96062,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 387,
+      "name": "IMO Car Wash",
+      "latitude": 50.933151,
+      "longitude": 5.94982,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 388,
+      "name": "IMO Car Wash",
+      "latitude": 50.957283,
+      "longitude": 5.813821,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 389,
+      "name": "IMO Car Wash",
+      "latitude": 51.4553,
+      "longitude": 3.587392,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 390,
+      "name": "IMO Carwash Hakfort",
+      "latitude": 52.30773,
+      "longitude": 4.955156,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 391,
+      "name": "Idenburg Car Solutions",
+      "latitude": 51.984472,
+      "longitude": 4.37152,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 392,
+      "name": "Indoor Carwash Alkmaar BV",
+      "latitude": 52.650567,
+      "longitude": 4.788221,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 393,
+      "name": "Indoor Carwash Beverwijk",
+      "latitude": 52.475953,
+      "longitude": 4.65794,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 394,
+      "name": "Indoor Carwash XL",
+      "latitude": 53.193099,
+      "longitude": 5.763288,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 395,
+      "name": "JML",
+      "latitude": 51.545883,
+      "longitude": 5.690856,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 396,
+      "name": "JP's Car Wash",
+      "latitude": 53.200706,
+      "longitude": 6.511729,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 397,
+      "name": "Joontjes Carwash",
+      "latitude": 53.032507,
+      "longitude": 5.628827,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 398,
+      "name": "KMS",
+      "latitude": 52.351671,
+      "longitude": 5.175662,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 399,
+      "name": "Karcher Power CarWash",
+      "latitude": 52.498876,
+      "longitude": 5.448591,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 400,
+      "name": "Karwas",
+      "latitude": 51.892594,
+      "longitude": 5.828345,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 401,
+      "name": "Kienhuis Autowassen",
+      "latitude": 52.383413,
+      "longitude": 7.011642,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 402,
+      "name": "Kings Carwash",
+      "latitude": 52.061973,
+      "longitude": 4.31789,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 403,
+      "name": "Klaasens",
+      "latitude": 52.699275,
+      "longitude": 5.729286,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 404,
+      "name": "Kleiboer",
+      "latitude": 52.229673,
+      "longitude": 5.976648,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 405,
+      "name": "Knöps carwash",
+      "latitude": 51.750475,
+      "longitude": 4.159743,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 406,
+      "name": "Kotra Truckwash",
+      "latitude": 51.474361,
+      "longitude": 4.052066,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 407,
+      "name": "Kreuze Tanken & Wassen",
+      "latitude": 52.780591,
+      "longitude": 6.159104,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 408,
+      "name": "Kriterion Wasfabriek",
+      "latitude": 52.369348,
+      "longitude": 4.969934,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 409,
+      "name": "Kuster Olie Silvolde",
+      "latitude": 51.910559,
+      "longitude": 6.394707,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 410,
+      "name": "Kuzee",
+      "latitude": 51.483086,
+      "longitude": 3.893377,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 411,
+      "name": "Kwikstraat carwash XXXL",
+      "latitude": 52.087189,
+      "longitude": 5.213641,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 412,
+      "name": "Let's Wash",
+      "latitude": 51.735418,
+      "longitude": 5.511462,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 413,
+      "name": "Leus",
+      "latitude": 52.364235,
+      "longitude": 6.651338,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 414,
+      "name": "Leus Carwash",
+      "latitude": 52.3737,
+      "longitude": 6.637707,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 415,
+      "name": "Leus Zutphen",
+      "latitude": 52.118425,
+      "longitude": 6.217637,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 416,
+      "name": "Lievaart autowasserette",
+      "latitude": 51.906167,
+      "longitude": 4.242534,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 417,
+      "name": "Loogman Carwash",
+      "latitude": 51.896661,
+      "longitude": 4.537849,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 418,
+      "name": "Loogman Carwash",
+      "latitude": 51.919194,
+      "longitude": 4.556664,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 419,
+      "name": "Loogman Carwash",
+      "latitude": 52.124285,
+      "longitude": 5.091296,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 420,
+      "name": "Loogman Carwash",
+      "latitude": 52.28922,
+      "longitude": 4.675118,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 421,
+      "name": "Loogman Carwash",
+      "latitude": 52.289481,
+      "longitude": 4.683932,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 422,
+      "name": "Loogman Carwash",
+      "latitude": 52.289632,
+      "longitude": 4.821148,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 423,
+      "name": "Loogman Carwash",
+      "latitude": 52.289933,
+      "longitude": 4.820413,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 424,
+      "name": "Loogman Carwash",
+      "latitude": 52.331847,
+      "longitude": 4.920357,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 425,
+      "name": "Loogman Carwash",
+      "latitude": 52.401564,
+      "longitude": 5.262489,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 426,
+      "name": "Loogman Carwash",
+      "latitude": 52.497842,
+      "longitude": 5.474271,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 427,
+      "name": "Loogman Carwash",
+      "latitude": 52.68163,
+      "longitude": 4.828209,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 428,
+      "name": "Ludwig",
+      "latitude": 52.797885,
+      "longitude": 6.899197,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 429,
+      "name": "MOS",
+      "latitude": 52.036727,
+      "longitude": 4.504877,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 430,
+      "name": "MT Carwash",
+      "latitude": 51.888177,
+      "longitude": 5.388159,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 431,
+      "name": "Mac Carwash & Co Ede",
+      "latitude": 52.032243,
+      "longitude": 5.621937,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 432,
+      "name": "Mac Wash",
+      "latitude": 51.542904,
+      "longitude": 5.087384,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 433,
+      "name": "MacCarwash",
+      "latitude": 52.156672,
+      "longitude": 5.400604,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 434,
+      "name": "MacCarwash",
+      "latitude": 52.167198,
+      "longitude": 5.367216,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 435,
+      "name": "MacCarwash",
+      "latitude": 52.197393,
+      "longitude": 5.387883,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 436,
+      "name": "Maple Farm Carwash",
+      "latitude": 51.550819,
+      "longitude": 4.547508,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 437,
+      "name": "Maple Farm Wasboxen",
+      "latitude": 51.550886,
+      "longitude": 4.547422,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 438,
+      "name": "Matz Carwash",
+      "latitude": 52.245896,
+      "longitude": 6.174442,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 439,
+      "name": "Maxi wax Emmen",
+      "latitude": 52.762811,
+      "longitude": 6.926374,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 440,
+      "name": "McWash",
+      "latitude": 52.039878,
+      "longitude": 4.327876,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 441,
+      "name": "McWash",
+      "latitude": 52.042135,
+      "longitude": 4.244186,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 442,
+      "name": "McWash",
+      "latitude": 52.071927,
+      "longitude": 4.336082,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 443,
+      "name": "Mega Carwash",
+      "latitude": 52.692074,
+      "longitude": 5.755138,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 444,
+      "name": "Menna Group",
+      "latitude": 52.071076,
+      "longitude": 4.292279,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 445,
+      "name": "Miltenburg Carwash",
+      "latitude": 51.971078,
+      "longitude": 5.317489,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 446,
+      "name": "Mister Bubbels",
+      "latitude": 53.192301,
+      "longitude": 5.8417,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 447,
+      "name": "Mohanlal XL",
+      "latitude": 51.580383,
+      "longitude": 5.311546,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 448,
+      "name": "Mohanlal XL",
+      "latitude": 52.882382,
+      "longitude": 6.001376,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 449,
+      "name": "Mos Carwash",
+      "latitude": 51.900365,
+      "longitude": 4.333813,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 450,
+      "name": "Moto Markt Softwash",
+      "latitude": 51.959936,
+      "longitude": 6.733604,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 451,
+      "name": "Mr Glow Car Wash",
+      "latitude": 52.138878,
+      "longitude": 4.410168,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 452,
+      "name": "Mr. Handwash",
+      "latitude": 51.99436,
+      "longitude": 4.361711,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 453,
+      "name": "Niels Autowas",
+      "latitude": 52.353329,
+      "longitude": 5.635494,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 454,
+      "name": "Niels Autowas",
+      "latitude": 52.995338,
+      "longitude": 6.528721,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 455,
+      "name": "Niels Autowas",
+      "latitude": 53.01233,
+      "longitude": 6.577921,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 456,
+      "name": "Nijhuis",
+      "latitude": 52.10503,
+      "longitude": 6.507582,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 457,
+      "name": "OK Alkmaar",
+      "latitude": 52.642773,
+      "longitude": 4.773861,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 458,
+      "name": "OK De Stadsfenne",
+      "latitude": 53.039192,
+      "longitude": 5.672505,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 459,
+      "name": "OK Grubbenvorst",
+      "latitude": 51.422751,
+      "longitude": 6.131614,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 460,
+      "name": "OK Nieuw-Amsterdam",
+      "latitude": 52.723127,
+      "longitude": 6.849424,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 461,
+      "name": "OK Rijen",
+      "latitude": 51.578253,
+      "longitude": 4.935934,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 462,
+      "name": "OK Ter Apel",
+      "latitude": 52.889796,
+      "longitude": 7.044268,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 463,
+      "name": "OK Trumpi",
+      "latitude": 51.569868,
+      "longitude": 4.800947,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 464,
+      "name": "OK Wasstraat",
+      "latitude": 51.593806,
+      "longitude": 4.80573,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 465,
+      "name": "OK Zoetermeer",
+      "latitude": 52.045284,
+      "longitude": 4.499781,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 466,
+      "name": "OQ value",
+      "latitude": 52.223074,
+      "longitude": 6.976283,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 467,
+      "name": "One 2 Wash",
+      "latitude": 51.90068,
+      "longitude": 4.690345,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 468,
+      "name": "One2Wash",
+      "latitude": 52.424071,
+      "longitude": 4.826654,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 469,
+      "name": "Oto Poets Bedrijf",
+      "latitude": 52.21252,
+      "longitude": 5.147217,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 470,
+      "name": "Otomoto",
+      "latitude": 53.281446,
+      "longitude": 6.706846,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 471,
+      "name": "Otowas",
+      "latitude": 52.659603,
+      "longitude": 5.063813,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 472,
+      "name": "PIP Poetsen is Passie",
+      "latitude": 51.974252,
+      "longitude": 6.269297,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 473,
+      "name": "Patshop Carwash",
+      "latitude": 52.73074,
+      "longitude": 6.503125,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 474,
+      "name": "Paulissen Car Wash",
+      "latitude": 51.512315,
+      "longitude": 5.050903,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 475,
+      "name": "Peek wasboxen",
+      "latitude": 52.090004,
+      "longitude": 4.736098,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 476,
+      "name": "Perfect Carwash",
+      "latitude": 52.205239,
+      "longitude": 6.891674,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 477,
+      "name": "Perfect Carwash",
+      "latitude": 52.218515,
+      "longitude": 6.866858,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 478,
+      "name": "Perfect Carwash Haaksbergen",
+      "latitude": 52.173071,
+      "longitude": 6.742754,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 479,
+      "name": "Perfectwash",
+      "latitude": 50.850176,
+      "longitude": 6.076528,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 480,
+      "name": "Peut",
+      "latitude": 51.853371,
+      "longitude": 4.304276,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 481,
+      "name": "Peut Oegstgeest",
+      "latitude": 52.184713,
+      "longitude": 4.466506,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 482,
+      "name": "Peut Plasmans",
+      "latitude": 51.477999,
+      "longitude": 5.179807,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 483,
+      "name": "Pitstop Brussen",
+      "latitude": 51.937972,
+      "longitude": 6.486581,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 484,
+      "name": "Pitstop Brussen",
+      "latitude": 51.959447,
+      "longitude": 6.704614,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 485,
+      "name": "Plantinga Carwash",
+      "latitude": 53.079993,
+      "longitude": 6.606326,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 486,
+      "name": "Poets Anders",
+      "latitude": 51.816133,
+      "longitude": 4.417008,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 487,
+      "name": "Pro Carwash",
+      "latitude": 52.343786,
+      "longitude": 6.000695,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 488,
+      "name": "Pro-wash Car Wash",
+      "latitude": 51.869158,
+      "longitude": 4.370038,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 489,
+      "name": "Q Carwash",
+      "latitude": 52.325406,
+      "longitude": 5.615652,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 490,
+      "name": "QGM Detailing",
+      "latitude": 52.363381,
+      "longitude": 5.187024,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 491,
+      "name": "Quick & Clean Carwash",
+      "latitude": 52.071809,
+      "longitude": 4.28756,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 492,
+      "name": "Quick Carwash",
+      "latitude": 51.586453,
+      "longitude": 5.194685,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 493,
+      "name": "R&S Carwash / D.V. consulting & management",
+      "latitude": 52.058058,
+      "longitude": 4.302496,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 494,
+      "name": "RAS",
+      "latitude": 50.987692,
+      "longitude": 5.768246,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 495,
+      "name": "RS Carwash B.V.",
+      "latitude": 52.362029,
+      "longitude": 6.59101,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 496,
+      "name": "Raaijmakers",
+      "latitude": 51.444012,
+      "longitude": 5.610048,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 497,
+      "name": "Ramaker Carwash",
+      "latitude": 52.481245,
+      "longitude": 6.058518,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 498,
+      "name": "Remzi Autoreiniging",
+      "latitude": 51.205905,
+      "longitude": 6.007092,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 499,
+      "name": "Rial Carwash",
+      "latitude": 52.698827,
+      "longitude": 6.203632,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 500,
+      "name": "RightWash",
+      "latitude": 52.649285,
+      "longitude": 5.047206,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 501,
+      "name": "Robroch",
+      "latitude": 53.321475,
+      "longitude": 6.139868,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 502,
+      "name": "Roll-over wasstraat Fennema",
+      "latitude": 53.043668,
+      "longitude": 5.84267,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 503,
+      "name": "Roozenboom",
+      "latitude": 52.721444,
+      "longitude": 6.48539,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 504,
+      "name": "Royal Carwash",
+      "latitude": 52.071493,
+      "longitude": 4.291799,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 505,
+      "name": "Ruijs Wasstraat",
+      "latitude": 52.446877,
+      "longitude": 4.598157,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 506,
+      "name": "S.A.M. Cleaning",
+      "latitude": 51.334117,
+      "longitude": 3.493621,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 507,
+      "name": "SOP! Autowas",
+      "latitude": 51.581088,
+      "longitude": 4.974006,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 508,
+      "name": "SV Car Cleaning",
+      "latitude": 52.506056,
+      "longitude": 4.777817,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 509,
+      "name": "Sanderman",
+      "latitude": 52.314375,
+      "longitude": 6.511679,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 510,
+      "name": "Schel Carwash",
+      "latitude": 51.998356,
+      "longitude": 6.142552,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 511,
+      "name": "Schimmel Carwash",
+      "latitude": 51.596922,
+      "longitude": 6.053812,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 512,
+      "name": "Schimmel Carwash",
+      "latitude": 51.616521,
+      "longitude": 5.520519,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 513,
+      "name": "Schimmel Carwash",
+      "latitude": 51.667733,
+      "longitude": 5.613399,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 514,
+      "name": "Schimmel Carwash",
+      "latitude": 51.684907,
+      "longitude": 5.784865,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 515,
+      "name": "SchippersStop",
+      "latitude": 51.433736,
+      "longitude": 5.361426,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 516,
+      "name": "Self Carwash",
+      "latitude": 53.281916,
+      "longitude": 6.155223,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 517,
+      "name": "Self-Service Autowas Overdie",
+      "latitude": 52.618023,
+      "longitude": 4.761093,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 518,
+      "name": "Selfie Wash",
+      "latitude": 52.163429,
+      "longitude": 4.51585,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 519,
+      "name": "Selfwash",
+      "latitude": 52.178872,
+      "longitude": 5.984277,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 520,
+      "name": "Shell",
+      "latitude": 51.330629,
+      "longitude": 3.853656,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 521,
+      "name": "Shell",
+      "latitude": 51.404244,
+      "longitude": 5.750573,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 522,
+      "name": "Shell",
+      "latitude": 51.420043,
+      "longitude": 4.187166,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 523,
+      "name": "Shell",
+      "latitude": 51.457234,
+      "longitude": 5.449369,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 524,
+      "name": "Shell",
+      "latitude": 51.475893,
+      "longitude": 5.674146,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 525,
+      "name": "Shell",
+      "latitude": 51.576035,
+      "longitude": 5.182803,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 526,
+      "name": "Shell",
+      "latitude": 51.60533,
+      "longitude": 5.524291,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 527,
+      "name": "Shell",
+      "latitude": 51.641804,
+      "longitude": 4.475906,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 528,
+      "name": "Shell",
+      "latitude": 51.659816,
+      "longitude": 5.029686,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 529,
+      "name": "Shell",
+      "latitude": 51.794581,
+      "longitude": 4.656192,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 530,
+      "name": "Shell",
+      "latitude": 51.808241,
+      "longitude": 5.838631,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 531,
+      "name": "Shell",
+      "latitude": 51.837516,
+      "longitude": 5.877234,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 532,
+      "name": "Shell",
+      "latitude": 51.859276,
+      "longitude": 4.248259,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 533,
+      "name": "Shell",
+      "latitude": 51.923176,
+      "longitude": 4.269796,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 534,
+      "name": "Shell",
+      "latitude": 51.927175,
+      "longitude": 5.122573,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 535,
+      "name": "Shell",
+      "latitude": 51.942188,
+      "longitude": 5.939085,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 536,
+      "name": "Shell",
+      "latitude": 52.023514,
+      "longitude": 4.683885,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 537,
+      "name": "Shell",
+      "latitude": 52.031688,
+      "longitude": 5.103615,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 538,
+      "name": "Shell",
+      "latitude": 52.051963,
+      "longitude": 4.328394,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 539,
+      "name": "Shell",
+      "latitude": 52.096444,
+      "longitude": 4.286381,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 540,
+      "name": "Shell",
+      "latitude": 52.11571,
+      "longitude": 4.664834,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 541,
+      "name": "Shell",
+      "latitude": 52.129148,
+      "longitude": 5.034978,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 542,
+      "name": "Shell",
+      "latitude": 52.178556,
+      "longitude": 5.983644,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 543,
+      "name": "Shell",
+      "latitude": 52.236556,
+      "longitude": 5.97739,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 544,
+      "name": "Shell",
+      "latitude": 52.283214,
+      "longitude": 6.829843,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 545,
+      "name": "Shell",
+      "latitude": 52.293966,
+      "longitude": 5.260838,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 546,
+      "name": "Shell",
+      "latitude": 52.331567,
+      "longitude": 5.618739,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 547,
+      "name": "Shell",
+      "latitude": 52.344065,
+      "longitude": 4.842683,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 548,
+      "name": "Shell",
+      "latitude": 52.350616,
+      "longitude": 5.6351,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 549,
+      "name": "Shell",
+      "latitude": 52.356997,
+      "longitude": 6.463925,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 550,
+      "name": "Shell",
+      "latitude": 52.384275,
+      "longitude": 4.864658,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 551,
+      "name": "Shell",
+      "latitude": 52.400196,
+      "longitude": 5.262643,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 552,
+      "name": "Shell",
+      "latitude": 52.419932,
+      "longitude": 5.879715,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 553,
+      "name": "Shell",
+      "latitude": 52.503812,
+      "longitude": 4.936394,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 554,
+      "name": "Shell",
+      "latitude": 53.211797,
+      "longitude": 5.834137,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 555,
+      "name": "Shell",
+      "latitude": 53.235423,
+      "longitude": 6.539596,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 556,
+      "name": "Shell Car Care",
+      "latitude": 51.925822,
+      "longitude": 4.477994,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 557,
+      "name": "Shell Car Care",
+      "latitude": 52.114733,
+      "longitude": 5.263463,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 558,
+      "name": "Shell Car Care",
+      "latitude": 52.300078,
+      "longitude": 4.946475,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 559,
+      "name": "Shell Car Wash",
+      "latitude": 51.41568,
+      "longitude": 5.496657,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 560,
+      "name": "Shell Car Wash",
+      "latitude": 51.503356,
+      "longitude": 5.414246,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 561,
+      "name": "Shell Car Wash",
+      "latitude": 51.69328,
+      "longitude": 5.260837,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 562,
+      "name": "Shell Car Wash",
+      "latitude": 51.865404,
+      "longitude": 4.552379,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 563,
+      "name": "Shell Car Wash",
+      "latitude": 51.894307,
+      "longitude": 4.530275,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 564,
+      "name": "Shell Car Wash",
+      "latitude": 51.910608,
+      "longitude": 4.463729,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 565,
+      "name": "Shell Car Wash",
+      "latitude": 51.935139,
+      "longitude": 4.233987,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 566,
+      "name": "Shell Car Wash",
+      "latitude": 52.042316,
+      "longitude": 4.294225,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 567,
+      "name": "Shell Car Wash",
+      "latitude": 52.064775,
+      "longitude": 4.347186,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 568,
+      "name": "Shell Car Wash",
+      "latitude": 52.260864,
+      "longitude": 4.626151,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 569,
+      "name": "Shell Car Wash",
+      "latitude": 52.339685,
+      "longitude": 6.639477,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 570,
+      "name": "Shell Car Wash [Roll-over]",
+      "latitude": 52.064703,
+      "longitude": 4.346871,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 571,
+      "name": "Shell Car Wash [Wasboxen]",
+      "latitude": 52.064517,
+      "longitude": 4.346714,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 572,
+      "name": "Shell Carwash",
+      "latitude": 51.956172,
+      "longitude": 6.011012,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 573,
+      "name": "Shell De Baar",
+      "latitude": 51.498481,
+      "longitude": 3.894981,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 574,
+      "name": "Shell Knaap",
+      "latitude": 51.987333,
+      "longitude": 4.597824,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 575,
+      "name": "Shell Wasbox",
+      "latitude": 52.384424,
+      "longitude": 4.864938,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 576,
+      "name": "Shell Westervoortsedijk",
+      "latitude": 51.970475,
+      "longitude": 5.94701,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 577,
+      "name": "Snella Autowas",
+      "latitude": 52.184898,
+      "longitude": 4.427882,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 578,
+      "name": "Snella Autowas",
+      "latitude": 52.208786,
+      "longitude": 4.436875,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 579,
+      "name": "Sol Andalucia",
+      "latitude": 51.871785,
+      "longitude": 4.550307,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 580,
+      "name": "Splash Car Wash",
+      "latitude": 52.359817,
+      "longitude": 6.506505,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 581,
+      "name": "Splash Carwash",
+      "latitude": 53.148007,
+      "longitude": 7.027623,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 582,
+      "name": "Stadman",
+      "latitude": 53.051866,
+      "longitude": 6.723497,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 583,
+      "name": "Stanga's",
+      "latitude": 52.069842,
+      "longitude": 4.29173,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 584,
+      "name": "Starwash",
+      "latitude": 50.859929,
+      "longitude": 5.683366,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 585,
+      "name": "Starwash",
+      "latitude": 50.862967,
+      "longitude": 6.006299,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 586,
+      "name": "Starwash",
+      "latitude": 51.209229,
+      "longitude": 6.020007,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 587,
+      "name": "Starwash Sittard",
+      "latitude": 51.003694,
+      "longitude": 5.844726,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 588,
+      "name": "Ster Car Cleaning",
+      "latitude": 51.812571,
+      "longitude": 5.26789,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 589,
+      "name": "Ster car cleaning",
+      "latitude": 51.414574,
+      "longitude": 5.551663,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 590,
+      "name": "Stijl Car Cleaning",
+      "latitude": 52.423082,
+      "longitude": 4.906167,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 591,
+      "name": "Stout",
+      "latitude": 52.051583,
+      "longitude": 6.106597,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 592,
+      "name": "Sunshine",
+      "latitude": 52.643568,
+      "longitude": 5.092678,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 593,
+      "name": "Super Selfwash",
+      "latitude": 51.966698,
+      "longitude": 6.309955,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 594,
+      "name": "Super Selfwash",
+      "latitude": 52.257921,
+      "longitude": 6.802605,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 595,
+      "name": "SuperSchoon",
+      "latitude": 52.503283,
+      "longitude": 4.783742,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 596,
+      "name": "SuperWash",
+      "latitude": 52.00094,
+      "longitude": 4.350998,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 597,
+      "name": "SuperWash",
+      "latitude": 52.352918,
+      "longitude": 5.498411,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 598,
+      "name": "SuperWash",
+      "latitude": 52.457138,
+      "longitude": 5.694931,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 599,
+      "name": "Supersplash Carwash",
+      "latitude": 52.651135,
+      "longitude": 5.050814,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 600,
+      "name": "Supreme Wash",
+      "latitude": 50.87894,
+      "longitude": 5.849671,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 601,
+      "name": "T-Wash",
+      "latitude": 51.424418,
+      "longitude": 5.505809,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 602,
+      "name": "T-Wash",
+      "latitude": 51.538449,
+      "longitude": 5.178428,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 603,
+      "name": "T-Wash",
+      "latitude": 51.769604,
+      "longitude": 5.934539,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 604,
+      "name": "T-Wash",
+      "latitude": 51.943937,
+      "longitude": 4.501531,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 605,
+      "name": "Tamoil",
+      "latitude": 50.890625,
+      "longitude": 5.999074,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 606,
+      "name": "Tamoil",
+      "latitude": 52.228289,
+      "longitude": 6.903827,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 607,
+      "name": "Tamoil Rooijakkers Self Wash",
+      "latitude": 52.14724,
+      "longitude": 4.398903,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 608,
+      "name": "TanQyou",
+      "latitude": 53.022773,
+      "longitude": 5.481926,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 609,
+      "name": "TanQyou Wash'n Go",
+      "latitude": 53.205051,
+      "longitude": 5.98419,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 610,
+      "name": "Tango",
+      "latitude": 52.121805,
+      "longitude": 5.187391,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 611,
+      "name": "Tank & Wash ITC",
+      "latitude": 52.079274,
+      "longitude": 4.626186,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 612,
+      "name": "Tank4Miles",
+      "latitude": 52.075108,
+      "longitude": 4.631426,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 613,
+      "name": "Tankstation Stam",
+      "latitude": 52.137868,
+      "longitude": 5.074218,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 614,
+      "name": "Tashin Autopoetsbedrijf",
+      "latitude": 51.870145,
+      "longitude": 4.373486,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 615,
+      "name": "Ter Huurne",
+      "latitude": 52.128619,
+      "longitude": 6.866682,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 616,
+      "name": "Texaco",
+      "latitude": 51.32999,
+      "longitude": 3.498345,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 617,
+      "name": "Texaco",
+      "latitude": 51.549105,
+      "longitude": 4.103283,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 618,
+      "name": "Texaco",
+      "latitude": 53.152183,
+      "longitude": 6.272531,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 619,
+      "name": "Texaco Guido Gezellestraat",
+      "latitude": 51.306078,
+      "longitude": 3.854591,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 620,
+      "name": "Texaco Raalte",
+      "latitude": 52.388498,
+      "longitude": 6.289662,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 621,
+      "name": "Th. Wenting BV",
+      "latitude": 51.958994,
+      "longitude": 6.286767,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 622,
+      "name": "The Car Spa",
+      "latitude": 52.192754,
+      "longitude": 5.407412,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 623,
+      "name": "The Wash",
+      "latitude": 52.290351,
+      "longitude": 6.772246,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 624,
+      "name": "Tiger Wash",
+      "latitude": 51.488707,
+      "longitude": 4.308628,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 625,
+      "name": "Tiger Wash",
+      "latitude": 51.968246,
+      "longitude": 6.716086,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 626,
+      "name": "Tiger Wash",
+      "latitude": 52.030532,
+      "longitude": 5.579535,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 627,
+      "name": "Tiger Wash",
+      "latitude": 52.073848,
+      "longitude": 4.511477,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 628,
+      "name": "Tiger Wash",
+      "latitude": 52.111709,
+      "longitude": 4.299301,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 629,
+      "name": "Tiger Wash",
+      "latitude": 52.137953,
+      "longitude": 6.624637,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 630,
+      "name": "Tiger Wash",
+      "latitude": 52.211925,
+      "longitude": 4.496873,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 631,
+      "name": "Tiger Wash",
+      "latitude": 52.784351,
+      "longitude": 4.79119,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 632,
+      "name": "TinQ",
+      "latitude": 52.370769,
+      "longitude": 5.754757,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 633,
+      "name": "TinQ",
+      "latitude": 53.165553,
+      "longitude": 6.379725,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 634,
+      "name": "TinQ carwash",
+      "latitude": 52.231462,
+      "longitude": 5.365122,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 635,
+      "name": "TipTop Car & Truckcleaning B.V.",
+      "latitude": 51.946223,
+      "longitude": 6.283633,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 636,
+      "name": "Tom's carwash",
+      "latitude": 51.389807,
+      "longitude": 6.184022,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 637,
+      "name": "TopWash",
+      "latitude": 52.223681,
+      "longitude": 6.942962,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 638,
+      "name": "Truck Wash Asten",
+      "latitude": 51.4163,
+      "longitude": 5.75673,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 639,
+      "name": "Truck Wash for v Wieren transportation.",
+      "latitude": 52.699102,
+      "longitude": 5.751106,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 640,
+      "name": "Truck-Wash",
+      "latitude": 51.586446,
+      "longitude": 4.730701,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 641,
+      "name": "Truckstop 8",
+      "latitude": 51.466118,
+      "longitude": 5.418618,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 642,
+      "name": "Truckwash",
+      "latitude": 52.233757,
+      "longitude": 6.835172,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 643,
+      "name": "Truckwash 1",
+      "latitude": 51.4222,
+      "longitude": 4.191411,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 644,
+      "name": "Truckwash 1 Bodegraven",
+      "latitude": 52.069786,
+      "longitude": 4.744518,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 645,
+      "name": "Truckwash 1 Roosendaal",
+      "latitude": 51.553949,
+      "longitude": 4.463956,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 646,
+      "name": "Truckwash A58",
+      "latitude": 51.537065,
+      "longitude": 5.040228,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 647,
+      "name": "Truckwash Adam",
+      "latitude": 52.395922,
+      "longitude": 4.80074,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 648,
+      "name": "Truckwash Fresh Park",
+      "latitude": 51.407657,
+      "longitude": 6.128553,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 649,
+      "name": "Truckwash Surhuisterveen",
+      "latitude": 53.181463,
+      "longitude": 6.179242,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 650,
+      "name": "Truckwash Utrecht",
+      "latitude": 52.105698,
+      "longitude": 5.063531,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 651,
+      "name": "Vakgarage Heinneman",
+      "latitude": 53.221631,
+      "longitude": 6.8067,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 652,
+      "name": "Vakgarage Verbree",
+      "latitude": 52.015634,
+      "longitude": 5.055421,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 653,
+      "name": "Van Dijk",
+      "latitude": 52.040282,
+      "longitude": 4.718495,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 654,
+      "name": "Van Essen",
+      "latitude": 51.977978,
+      "longitude": 4.265366,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 655,
+      "name": "Van Leeuwen",
+      "latitude": 51.931952,
+      "longitude": 5.591087,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 656,
+      "name": "Van Oorspronk",
+      "latitude": 52.118376,
+      "longitude": 6.020636,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 657,
+      "name": "Van Staveren",
+      "latitude": 52.698089,
+      "longitude": 5.748606,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 658,
+      "name": "Van Veen",
+      "latitude": 52.994886,
+      "longitude": 6.535505,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 659,
+      "name": "Van Veldhuizen",
+      "latitude": 53.087688,
+      "longitude": 6.663503,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 660,
+      "name": "Van Zessen",
+      "latitude": 51.95796,
+      "longitude": 5.033012,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 661,
+      "name": "Van den Berg",
+      "latitude": 51.494727,
+      "longitude": 3.883923,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 662,
+      "name": "Van der Have",
+      "latitude": 51.652338,
+      "longitude": 4.027825,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 663,
+      "name": "Van der Weerd",
+      "latitude": 52.775625,
+      "longitude": 6.915023,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 664,
+      "name": "Veersedam Carwash",
+      "latitude": 51.571954,
+      "longitude": 3.615835,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 665,
+      "name": "Vermeer & Kersten",
+      "latitude": 51.863946,
+      "longitude": 5.75248,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 666,
+      "name": "Vissers Autowascentrum",
+      "latitude": 51.439983,
+      "longitude": 6.048594,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 667,
+      "name": "Vissinga Autoservice",
+      "latitude": 51.971972,
+      "longitude": 5.933836,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 668,
+      "name": "Volta Carwash",
+      "latitude": 51.984813,
+      "longitude": 4.373916,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 669,
+      "name": "Vossenbrink",
+      "latitude": 52.259697,
+      "longitude": 6.719374,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 670,
+      "name": "W. van Wees",
+      "latitude": 52.258397,
+      "longitude": 5.223544,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 671,
+      "name": "Walvis wasstraat",
+      "latitude": 51.831812,
+      "longitude": 4.70574,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 672,
+      "name": "Was bij Duurstede",
+      "latitude": 52.001034,
+      "longitude": 5.302548,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 673,
+      "name": "Wasbeer",
+      "latitude": 53.321196,
+      "longitude": 6.019526,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 674,
+      "name": "Wasbox",
+      "latitude": 51.690026,
+      "longitude": 4.870461,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 675,
+      "name": "Wasbox",
+      "latitude": 52.005751,
+      "longitude": 6.032032,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 676,
+      "name": "Wasbox 1",
+      "latitude": 51.666145,
+      "longitude": 5.053863,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 677,
+      "name": "Wasbox 1",
+      "latitude": 52.326857,
+      "longitude": 4.970382,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 678,
+      "name": "Wasbox 1",
+      "latitude": 52.385617,
+      "longitude": 7.017741,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 679,
+      "name": "Wasbox 2",
+      "latitude": 51.666106,
+      "longitude": 5.053865,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 680,
+      "name": "Wasbox 2",
+      "latitude": 52.326893,
+      "longitude": 4.970342,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 681,
+      "name": "Wasbox 2",
+      "latitude": 52.385576,
+      "longitude": 7.017846,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 682,
+      "name": "Wasbox 3",
+      "latitude": 52.32693,
+      "longitude": 4.970302,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 683,
+      "name": "Wasbox 3",
+      "latitude": 52.385448,
+      "longitude": 7.018067,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 684,
+      "name": "Wasbox 4",
+      "latitude": 52.326967,
+      "longitude": 4.970262,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 685,
+      "name": "Wasbox 4",
+      "latitude": 52.385404,
+      "longitude": 7.018021,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 686,
+      "name": "Wasbox 5",
+      "latitude": 52.385351,
+      "longitude": 7.017966,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 687,
+      "name": "Wasbox 6",
+      "latitude": 52.385314,
+      "longitude": 7.017927,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 688,
+      "name": "Wasboxen",
+      "latitude": 51.792287,
+      "longitude": 4.551781,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 689,
+      "name": "Wasboxen",
+      "latitude": 52.075277,
+      "longitude": 4.896731,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 690,
+      "name": "Wasboxen OK Trumpi",
+      "latitude": 51.569981,
+      "longitude": 4.800921,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 691,
+      "name": "Wascentrum Vissers",
+      "latitude": 51.570247,
+      "longitude": 4.659412,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 692,
+      "name": "Wascircus",
+      "latitude": 51.869918,
+      "longitude": 4.373396,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 693,
+      "name": "Wasdas Drachten",
+      "latitude": 53.123737,
+      "longitude": 6.077803,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 694,
+      "name": "Wasdas Emmen",
+      "latitude": 52.76844,
+      "longitude": 6.902373,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 695,
+      "name": "Wasdas Hardenberg",
+      "latitude": 52.561041,
+      "longitude": 6.630345,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 696,
+      "name": "Wasdas Veendam",
+      "latitude": 53.120637,
+      "longitude": 6.892236,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 697,
+      "name": "Wash",
+      "latitude": 50.85905,
+      "longitude": 6.06342,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 698,
+      "name": "Wash",
+      "latitude": 50.908903,
+      "longitude": 5.936935,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 699,
+      "name": "Wash",
+      "latitude": 50.933065,
+      "longitude": 5.950506,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 700,
+      "name": "Wash",
+      "latitude": 51.166634,
+      "longitude": 5.962485,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 701,
+      "name": "Wash",
+      "latitude": 51.267282,
+      "longitude": 3.893532,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 702,
+      "name": "Wash",
+      "latitude": 51.488766,
+      "longitude": 3.961568,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 703,
+      "name": "Wash",
+      "latitude": 51.495106,
+      "longitude": 5.666532,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 704,
+      "name": "Wash",
+      "latitude": 51.508481,
+      "longitude": 5.401145,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 705,
+      "name": "Wash",
+      "latitude": 51.508651,
+      "longitude": 4.303452,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 706,
+      "name": "Wash",
+      "latitude": 51.50977,
+      "longitude": 4.305871,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 707,
+      "name": "Wash",
+      "latitude": 51.531715,
+      "longitude": 5.084003,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 708,
+      "name": "Wash",
+      "latitude": 51.546532,
+      "longitude": 4.602583,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 709,
+      "name": "Wash",
+      "latitude": 51.556141,
+      "longitude": 4.584005,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 710,
+      "name": "Wash",
+      "latitude": 51.574155,
+      "longitude": 5.065869,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 711,
+      "name": "Wash",
+      "latitude": 51.583415,
+      "longitude": 4.802267,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 712,
+      "name": "Wash",
+      "latitude": 51.599247,
+      "longitude": 5.516461,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 713,
+      "name": "Wash",
+      "latitude": 51.609446,
+      "longitude": 4.721266,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 714,
+      "name": "Wash",
+      "latitude": 51.610754,
+      "longitude": 5.539997,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 715,
+      "name": "Wash",
+      "latitude": 51.64637,
+      "longitude": 4.617932,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 716,
+      "name": "Wash",
+      "latitude": 51.677796,
+      "longitude": 5.058884,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 717,
+      "name": "Wash",
+      "latitude": 51.693349,
+      "longitude": 5.079953,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 718,
+      "name": "Wash",
+      "latitude": 51.697718,
+      "longitude": 4.881339,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 719,
+      "name": "Wash",
+      "latitude": 51.710079,
+      "longitude": 5.300292,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 720,
+      "name": "Wash",
+      "latitude": 51.845149,
+      "longitude": 4.51012,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 721,
+      "name": "Wash",
+      "latitude": 51.845907,
+      "longitude": 5.093693,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 722,
+      "name": "Wash",
+      "latitude": 51.864625,
+      "longitude": 4.473585,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 723,
+      "name": "Wash",
+      "latitude": 51.884762,
+      "longitude": 5.407578,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 724,
+      "name": "Wash",
+      "latitude": 51.886274,
+      "longitude": 4.568084,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 725,
+      "name": "Wash",
+      "latitude": 51.930302,
+      "longitude": 4.403541,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 726,
+      "name": "Wash",
+      "latitude": 51.937573,
+      "longitude": 4.533629,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 727,
+      "name": "Wash",
+      "latitude": 51.948008,
+      "longitude": 5.833095,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 728,
+      "name": "Wash",
+      "latitude": 51.949506,
+      "longitude": 4.460976,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 729,
+      "name": "Wash",
+      "latitude": 51.987569,
+      "longitude": 4.355531,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 730,
+      "name": "Wash",
+      "latitude": 51.989511,
+      "longitude": 5.087877,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 731,
+      "name": "Wash",
+      "latitude": 52.024708,
+      "longitude": 5.140101,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 732,
+      "name": "Wash",
+      "latitude": 52.052803,
+      "longitude": 4.399153,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 733,
+      "name": "Wash",
+      "latitude": 52.05468,
+      "longitude": 4.47141,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 734,
+      "name": "Wash",
+      "latitude": 52.082228,
+      "longitude": 4.866405,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 735,
+      "name": "Wash",
+      "latitude": 52.1165,
+      "longitude": 5.175441,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 736,
+      "name": "Wash",
+      "latitude": 52.133887,
+      "longitude": 5.749633,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 737,
+      "name": "Wash",
+      "latitude": 52.143256,
+      "longitude": 5.418024,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 738,
+      "name": "Wash",
+      "latitude": 52.145285,
+      "longitude": 4.674389,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 739,
+      "name": "Wash",
+      "latitude": 52.156813,
+      "longitude": 4.448172,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 740,
+      "name": "Wash",
+      "latitude": 52.18627,
+      "longitude": 5.413064,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 741,
+      "name": "Wash",
+      "latitude": 52.261731,
+      "longitude": 4.687463,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 742,
+      "name": "Wash",
+      "latitude": 52.286531,
+      "longitude": 5.161174,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 743,
+      "name": "Wash",
+      "latitude": 52.304274,
+      "longitude": 4.751504,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 744,
+      "name": "Wash",
+      "latitude": 52.312938,
+      "longitude": 4.983234,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 745,
+      "name": "Wash",
+      "latitude": 52.315382,
+      "longitude": 4.963836,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 746,
+      "name": "Wash",
+      "latitude": 52.317812,
+      "longitude": 4.96315,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 747,
+      "name": "Wash",
+      "latitude": 52.33406,
+      "longitude": 4.928368,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 748,
+      "name": "Wash",
+      "latitude": 52.342655,
+      "longitude": 4.856616,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 749,
+      "name": "Wash",
+      "latitude": 52.416413,
+      "longitude": 4.912498,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 750,
+      "name": "Wash",
+      "latitude": 52.438862,
+      "longitude": 4.654835,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 751,
+      "name": "Wash",
+      "latitude": 52.453877,
+      "longitude": 4.632982,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 752,
+      "name": "Wash",
+      "latitude": 52.461787,
+      "longitude": 4.797066,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 753,
+      "name": "Wash",
+      "latitude": 52.480832,
+      "longitude": 6.057573,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 754,
+      "name": "Wash",
+      "latitude": 52.484561,
+      "longitude": 4.961658,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 755,
+      "name": "Wash",
+      "latitude": 52.513848,
+      "longitude": 4.653244,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 756,
+      "name": "Wash",
+      "latitude": 52.525762,
+      "longitude": 5.439947,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 757,
+      "name": "Wash",
+      "latitude": 52.587821,
+      "longitude": 4.701229,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 758,
+      "name": "Wash",
+      "latitude": 52.617953,
+      "longitude": 4.648075,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 759,
+      "name": "Wash",
+      "latitude": 52.626176,
+      "longitude": 4.954879,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 760,
+      "name": "Wash",
+      "latitude": 52.633525,
+      "longitude": 4.725773,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 761,
+      "name": "Wash",
+      "latitude": 52.63723,
+      "longitude": 6.207414,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 762,
+      "name": "Wash",
+      "latitude": 52.643002,
+      "longitude": 5.079302,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 763,
+      "name": "Wash",
+      "latitude": 52.655599,
+      "longitude": 5.075481,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 764,
+      "name": "Wash",
+      "latitude": 52.672583,
+      "longitude": 4.891286,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 765,
+      "name": "Wash",
+      "latitude": 52.672625,
+      "longitude": 4.836793,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 766,
+      "name": "Wash",
+      "latitude": 52.679045,
+      "longitude": 6.191616,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 767,
+      "name": "Wash",
+      "latitude": 52.691009,
+      "longitude": 5.028168,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 768,
+      "name": "Wash",
+      "latitude": 52.696018,
+      "longitude": 4.820816,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 769,
+      "name": "Wash",
+      "latitude": 52.899362,
+      "longitude": 4.943602,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 770,
+      "name": "Wash",
+      "latitude": 52.929772,
+      "longitude": 4.756753,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 771,
+      "name": "Wash",
+      "latitude": 52.975758,
+      "longitude": 6.954506,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 772,
+      "name": "Wash",
+      "latitude": 53.025428,
+      "longitude": 6.571903,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 773,
+      "name": "Wash",
+      "latitude": 53.116357,
+      "longitude": 6.097327,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 774,
+      "name": "Wash",
+      "latitude": 53.169248,
+      "longitude": 6.606894,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 775,
+      "name": "Wash",
+      "latitude": 53.247393,
+      "longitude": 6.586012,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 776,
+      "name": "Wash 'n Go",
+      "latitude": 51.303771,
+      "longitude": 6.061729,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 777,
+      "name": "Wash 'n Go",
+      "latitude": 51.357496,
+      "longitude": 5.336393,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 778,
+      "name": "Wash 'n Go",
+      "latitude": 51.565578,
+      "longitude": 5.688209,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 779,
+      "name": "Wash 'n Go",
+      "latitude": 52.399478,
+      "longitude": 6.048395,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 780,
+      "name": "Wash 'n Go",
+      "latitude": 52.442321,
+      "longitude": 4.811821,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 781,
+      "name": "Wash n Go",
+      "latitude": 51.898667,
+      "longitude": 4.982103,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 782,
+      "name": "WashEasy",
+      "latitude": 51.989104,
+      "longitude": 4.476008,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 783,
+      "name": "Washbox",
+      "latitude": 52.38456,
+      "longitude": 4.922803,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 784,
+      "name": "Washers",
+      "latitude": 52.012476,
+      "longitude": 4.319173,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 785,
+      "name": "Washin7",
+      "latitude": 51.35228,
+      "longitude": 6.15061,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 786,
+      "name": "Washin7",
+      "latitude": 51.388446,
+      "longitude": 6.180772,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 787,
+      "name": "Washin7",
+      "latitude": 51.428093,
+      "longitude": 5.434699,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 788,
+      "name": "Washin7",
+      "latitude": 51.435775,
+      "longitude": 5.501073,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 789,
+      "name": "Washin7",
+      "latitude": 51.488735,
+      "longitude": 4.309666,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 790,
+      "name": "Washin7",
+      "latitude": 51.564352,
+      "longitude": 4.472315,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 791,
+      "name": "Washin7",
+      "latitude": 51.704612,
+      "longitude": 5.269724,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 792,
+      "name": "Washin7",
+      "latitude": 51.723703,
+      "longitude": 5.346753,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 793,
+      "name": "Washmobile Truck & Tank cleaning",
+      "latitude": 52.975,
+      "longitude": 5.94798,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 794,
+      "name": "Wasland",
+      "latitude": 53.114605,
+      "longitude": 6.141282,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 795,
+      "name": "Wasserette Assen",
+      "latitude": 53.003476,
+      "longitude": 6.575778,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 796,
+      "name": "Wasstraat De Jong",
+      "latitude": 52.201632,
+      "longitude": 4.416181,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 797,
+      "name": "Wasstraat De Wouw",
+      "latitude": 51.468421,
+      "longitude": 4.656613,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 798,
+      "name": "Wasstraat Dorenbos",
+      "latitude": 53.067653,
+      "longitude": 6.457019,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 799,
+      "name": "Wasstraat Ernst",
+      "latitude": 53.129415,
+      "longitude": 6.592095,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 800,
+      "name": "Wasstraat Gadering",
+      "latitude": 51.872935,
+      "longitude": 4.373107,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 801,
+      "name": "Wasstraat Kiefte",
+      "latitude": 52.895733,
+      "longitude": 4.763153,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 802,
+      "name": "Wasstraat Qbuzz Groningen",
+      "latitude": 53.208459,
+      "longitude": 6.542413,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 803,
+      "name": "Wasstraat Vissers",
+      "latitude": 51.570708,
+      "longitude": 4.659089,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 804,
+      "name": "Wastol",
+      "latitude": 51.564275,
+      "longitude": 4.609214,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 805,
+      "name": "WeWash",
+      "latitude": 52.34823,
+      "longitude": 5.174577,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 806,
+      "name": "Wiggerts Autowasservice",
+      "latitude": 52.213554,
+      "longitude": 5.143654,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 807,
+      "name": "Winston's Car Cleaning",
+      "latitude": 52.20725,
+      "longitude": 5.984406,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 808,
+      "name": "XL Carwash",
+      "latitude": 52.14568,
+      "longitude": 4.485275,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 809,
+      "name": "XXL Carwash",
+      "latitude": 52.126806,
+      "longitude": 4.649393,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 810,
+      "name": "XXL Carwash",
+      "latitude": 52.333916,
+      "longitude": 5.025044,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 811,
+      "name": "ZD Autoreiniging",
+      "latitude": 52.276837,
+      "longitude": 4.612226,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 812,
+      "name": "Zaagman Autopoetsbedrijf",
+      "latitude": 53.167549,
+      "longitude": 6.378243,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 813,
+      "name": "Ziedewij Carwash",
+      "latitude": 51.845276,
+      "longitude": 4.519406,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 814,
+      "name": "Zuijl en Weerd",
+      "latitude": 51.673185,
+      "longitude": 4.824025,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 815,
+      "name": "Zuijl en Weerd",
+      "latitude": 52.096012,
+      "longitude": 4.946179,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 816,
+      "name": "Zuiver Sittard",
+      "latitude": 51.018713,
+      "longitude": 5.867999,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 817,
+      "name": "Zwart",
+      "latitude": 52.354801,
+      "longitude": 4.769603,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 818,
+      "name": "carwash Deventer",
+      "latitude": 52.249996,
+      "longitude": 6.229851,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 819,
+      "name": "de Croon",
+      "latitude": 52.265786,
+      "longitude": 6.131482,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 820,
+      "name": "easyWash",
+      "latitude": 52.045543,
+      "longitude": 4.243925,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 821,
+      "name": "haan carwash",
+      "latitude": 51.547364,
+      "longitude": 5.078439,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 822,
+      "name": "iClean Carwash",
+      "latitude": 52.5303,
+      "longitude": 6.420917,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 823,
+      "name": "iClean Carwash Brunssum",
+      "latitude": 50.95938,
+      "longitude": 5.97731,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 824,
+      "name": "van den Belt",
+      "latitude": 53.195852,
+      "longitude": 5.844866,
+      "osm_klasse": "amenity=car_wash"
+    },
+    {
+      "id": 825,
+      "name": "van den Berg",
+      "latitude": 52.265661,
+      "longitude": 4.645332,
+      "osm_klasse": "amenity=car_wash"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: car wash (amenity=car_wash) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=car_wash in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 825 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: car wash (amenity=car_wash) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: car wash (amenity=car_wash) — 825 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 825 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

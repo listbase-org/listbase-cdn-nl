@@ -1,0 +1,2270 @@
+{
+  "id": "nl-osm-man-made-tower",
+  "name": "Netherlands OSM: tower (man_made=tower)",
+  "title": "Netherlands OSM: tower (man_made=tower)",
+  "description": "Named OpenStreetMap features tagged man_made=tower in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 317,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "A'DAM Toren",
+      "latitude": 52.383809,
+      "longitude": 4.902202,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 2,
+      "name": "Accijnstoren",
+      "latitude": 52.628415,
+      "longitude": 4.75478,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 3,
+      "name": "Advertising",
+      "latitude": 51.801849,
+      "longitude": 5.25796,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 4,
+      "name": "Advertising",
+      "latitude": 52.346858,
+      "longitude": 4.83559,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 5,
+      "name": "Affakkelinstallatie",
+      "latitude": 53.275633,
+      "longitude": 6.316355,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 6,
+      "name": "Anna Borema toren",
+      "latitude": 53.260345,
+      "longitude": 6.444007,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 7,
+      "name": "Argusmast",
+      "latitude": 52.050836,
+      "longitude": 4.184531,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 8,
+      "name": "Aussichtsturm",
+      "latitude": 52.037653,
+      "longitude": 6.72665,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 9,
+      "name": "Aviodrome - Noodverkeerstoren Schiphol",
+      "latitude": 52.458674,
+      "longitude": 5.529547,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 10,
+      "name": "Bagijnetoren",
+      "latitude": 52.013133,
+      "longitude": 4.351949,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 11,
+      "name": "Baken op Het Oerd",
+      "latitude": 53.463137,
+      "longitude": 5.929118,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 12,
+      "name": "Barbaratoren",
+      "latitude": 51.956791,
+      "longitude": 5.22616,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 13,
+      "name": "Barbaratoren",
+      "latitude": 52.008026,
+      "longitude": 4.710041,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 14,
+      "name": "Belfort De Vossenberg",
+      "latitude": 51.348127,
+      "longitude": 5.847747,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 15,
+      "name": "Belvedere toren",
+      "latitude": 52.141792,
+      "longitude": 6.428271,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 16,
+      "name": "Belvedère",
+      "latitude": 52.949843,
+      "longitude": 5.979751,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 17,
+      "name": "Benedictustoren",
+      "latitude": 52.04185,
+      "longitude": 4.320382,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 18,
+      "name": "Beschuittoren",
+      "latitude": 52.499603,
+      "longitude": 4.816559,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 19,
+      "name": "Beulakertoren",
+      "latitude": 52.693937,
+      "longitude": 6.024494,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 20,
+      "name": "Boortoren 16",
+      "latitude": 52.242006,
+      "longitude": 6.788734,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 21,
+      "name": "Bosbergtoren",
+      "latitude": 52.951178,
+      "longitude": 6.341304,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 22,
+      "name": "Bostoren",
+      "latitude": 52.249342,
+      "longitude": 5.62812,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 23,
+      "name": "Bouke ten Brinke Toren",
+      "latitude": 52.003303,
+      "longitude": 6.600054,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 24,
+      "name": "Bourgonjetoren",
+      "latitude": 52.13945,
+      "longitude": 6.193106,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 25,
+      "name": "Brandtoren",
+      "latitude": 51.445252,
+      "longitude": 5.138902,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 26,
+      "name": "Brandtoren",
+      "latitude": 52.039943,
+      "longitude": 5.987589,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 27,
+      "name": "Brinktoren",
+      "latitude": 52.263893,
+      "longitude": 6.792503,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 28,
+      "name": "Burgumer Mar - Uitkijktoren",
+      "latitude": 53.205107,
+      "longitude": 6.028363,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 29,
+      "name": "C2000 mast",
+      "latitude": 51.603667,
+      "longitude": 4.921331,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 30,
+      "name": "Camperlicht carillon",
+      "latitude": 53.33654,
+      "longitude": 6.912756,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 31,
+      "name": "Carillion",
+      "latitude": 52.039743,
+      "longitude": 4.650915,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 32,
+      "name": "Carillion",
+      "latitude": 52.308084,
+      "longitude": 4.981101,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 33,
+      "name": "Carillon",
+      "latitude": 51.986163,
+      "longitude": 5.665781,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 34,
+      "name": "Carillon",
+      "latitude": 52.203631,
+      "longitude": 6.797991,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 35,
+      "name": "Carillon",
+      "latitude": 52.241661,
+      "longitude": 6.850582,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 36,
+      "name": "Cattentoren",
+      "latitude": 51.198464,
+      "longitude": 5.991687,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 37,
+      "name": "Cellnex",
+      "latitude": 52.168085,
+      "longitude": 5.896548,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 38,
+      "name": "Compagnonsbossen",
+      "latitude": 52.968941,
+      "longitude": 6.399718,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 39,
+      "name": "Controltower Schiphol Centre",
+      "latitude": 52.307517,
+      "longitude": 4.762439,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 40,
+      "name": "Controltower Schiphol West",
+      "latitude": 52.331704,
+      "longitude": 4.717912,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 41,
+      "name": "De Duinvogel",
+      "latitude": 52.08842,
+      "longitude": 4.268169,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 42,
+      "name": "De Haelberg",
+      "latitude": 52.383976,
+      "longitude": 5.948533,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 43,
+      "name": "De Kaap",
+      "latitude": 52.041635,
+      "longitude": 5.36552,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 44,
+      "name": "De Klot",
+      "latitude": 51.421866,
+      "longitude": 4.534055,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 45,
+      "name": "De Koepel",
+      "latitude": 52.082928,
+      "longitude": 5.648054,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 46,
+      "name": "De Marke",
+      "latitude": 52.298785,
+      "longitude": 5.243047,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 47,
+      "name": "De Oijense Wachter",
+      "latitude": 51.817484,
+      "longitude": 5.485389,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 48,
+      "name": "De Oude Toren",
+      "latitude": 51.638366,
+      "longitude": 5.350121,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 49,
+      "name": "De Oude Toren",
+      "latitude": 51.877622,
+      "longitude": 5.590782,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 50,
+      "name": "De Oude Toren",
+      "latitude": 51.878494,
+      "longitude": 5.630516,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 51,
+      "name": "De Pier",
+      "latitude": 52.11778,
+      "longitude": 4.280002,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 52,
+      "name": "De Pyloon",
+      "latitude": 51.925185,
+      "longitude": 4.333267,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 53,
+      "name": "De Reek",
+      "latitude": 50.84425,
+      "longitude": 5.686289,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 54,
+      "name": "De Stip",
+      "latitude": 51.515512,
+      "longitude": 5.821912,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 55,
+      "name": "De Tureluur",
+      "latitude": 51.98042,
+      "longitude": 4.410831,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 56,
+      "name": "De Vijf Koppen",
+      "latitude": 50.844828,
+      "longitude": 5.694986,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 57,
+      "name": "De Villa van Houten",
+      "latitude": 52.010328,
+      "longitude": 5.188526,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 58,
+      "name": "De Vink",
+      "latitude": 51.923372,
+      "longitude": 4.222193,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 59,
+      "name": "De Zandloper",
+      "latitude": 52.170069,
+      "longitude": 5.761353,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 60,
+      "name": "De Zeearend",
+      "latitude": 51.758476,
+      "longitude": 3.848931,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 61,
+      "name": "Diessens Broek",
+      "latitude": 51.491825,
+      "longitude": 5.18041,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 62,
+      "name": "Dieventoren",
+      "latitude": 52.156107,
+      "longitude": 5.392862,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 63,
+      "name": "Dikke Toren Varik",
+      "latitude": 51.826055,
+      "longitude": 5.377456,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 64,
+      "name": "Domtoren",
+      "latitude": 52.090609,
+      "longitude": 5.12132,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 65,
+      "name": "Doopgezinde Gemeente",
+      "latitude": 52.722504,
+      "longitude": 6.089951,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 66,
+      "name": "Duiventoren",
+      "latitude": 51.382234,
+      "longitude": 5.58284,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 67,
+      "name": "Duursche Waarden - Uitkijktoren",
+      "latitude": 52.371878,
+      "longitude": 6.089933,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 68,
+      "name": "Eeftink",
+      "latitude": 52.325833,
+      "longitude": 4.963282,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 69,
+      "name": "Egeldonk",
+      "latitude": 52.326704,
+      "longitude": 4.965822,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 70,
+      "name": "Egelven",
+      "latitude": 51.357869,
+      "longitude": 5.489164,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 71,
+      "name": "Einderheide",
+      "latitude": 51.371091,
+      "longitude": 5.407047,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 72,
+      "name": "Emder Kaap",
+      "latitude": 53.541404,
+      "longitude": 6.575744,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 73,
+      "name": "Emma Piramide",
+      "latitude": 52.016544,
+      "longitude": 5.978646,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 74,
+      "name": "Entabeni",
+      "latitude": 52.324957,
+      "longitude": 4.960722,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 75,
+      "name": "Eschertoren",
+      "latitude": 52.168937,
+      "longitude": 4.49433,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 76,
+      "name": "Euromast",
+      "latitude": 51.905399,
+      "longitude": 4.466606,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 77,
+      "name": "Excalibur",
+      "latitude": 53.240867,
+      "longitude": 6.600992,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 78,
+      "name": "FBTO-carillon",
+      "latitude": 53.198368,
+      "longitude": 5.788677,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 79,
+      "name": "Faunatoren",
+      "latitude": 52.030028,
+      "longitude": 5.588787,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 80,
+      "name": "Flaestoren",
+      "latitude": 51.428346,
+      "longitude": 5.173601,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 81,
+      "name": "Fonteinsnol",
+      "latitude": 53.053046,
+      "longitude": 4.743573,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 82,
+      "name": "Fort Blauwesluis",
+      "latitude": 51.753176,
+      "longitude": 5.349986,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 83,
+      "name": "GSM/EDGE/3G Mast",
+      "latitude": 51.179437,
+      "longitude": 5.718689,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 84,
+      "name": "Goede Rede",
+      "latitude": 52.33602,
+      "longitude": 5.220809,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 85,
+      "name": "Grashut",
+      "latitude": 51.304739,
+      "longitude": 5.66077,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 86,
+      "name": "Haet ende Nijt",
+      "latitude": 50.844282,
+      "longitude": 5.693659,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 87,
+      "name": "Haldertoren",
+      "latitude": 50.864695,
+      "longitude": 5.830923,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 88,
+      "name": "Hamtoren",
+      "latitude": 52.105861,
+      "longitude": 4.995474,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 89,
+      "name": "Heilige Andreas en Antonius van Paduatoren",
+      "latitude": 51.471285,
+      "longitude": 5.270433,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 90,
+      "name": "Hemelplatvorm Achter de Zwarten",
+      "latitude": 53.388239,
+      "longitude": 6.20395,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 91,
+      "name": "Het Beeld",
+      "latitude": 53.158253,
+      "longitude": 6.526946,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 92,
+      "name": "Het Carrillon van de Speeltoren",
+      "latitude": 52.512347,
+      "longitude": 5.046944,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 93,
+      "name": "Het Hooghe Huys",
+      "latitude": 52.150468,
+      "longitude": 4.779785,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 94,
+      "name": "Het Paard",
+      "latitude": 52.09597,
+      "longitude": 5.111647,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 95,
+      "name": "Het Poldernest",
+      "latitude": 52.287507,
+      "longitude": 4.9102,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 96,
+      "name": "Het Weusthag",
+      "latitude": 52.288512,
+      "longitude": 6.793302,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 97,
+      "name": "Heuvelcarillon",
+      "latitude": 51.573957,
+      "longitude": 4.751437,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 98,
+      "name": "IJzeren Kaap",
+      "latitude": 53.078369,
+      "longitude": 4.89645,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 99,
+      "name": "Jekertoren",
+      "latitude": 50.845543,
+      "longitude": 5.694757,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 100,
+      "name": "Johannes Evangelist",
+      "latitude": 51.649468,
+      "longitude": 4.000328,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 101,
+      "name": "Julianatoren",
+      "latitude": 52.227553,
+      "longitude": 5.916336,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 102,
+      "name": "KNMI-radar Herwijnen",
+      "latitude": 51.836925,
+      "longitude": 5.138041,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 103,
+      "name": "KPN Telecom",
+      "latitude": 51.482111,
+      "longitude": 3.600077,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 104,
+      "name": "KPN Telecom",
+      "latitude": 52.344125,
+      "longitude": 5.640568,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 105,
+      "name": "KPN mast",
+      "latitude": 53.296784,
+      "longitude": 5.073711,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 106,
+      "name": "KPN toren",
+      "latitude": 52.388151,
+      "longitude": 4.669671,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 107,
+      "name": "KPN zendmast",
+      "latitude": 51.495413,
+      "longitude": 4.948268,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 108,
+      "name": "Kaap Engelsmanplaat",
+      "latitude": 53.455448,
+      "longitude": 6.057927,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 109,
+      "name": "Kaap Garmt",
+      "latitude": 53.338685,
+      "longitude": 6.295837,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 110,
+      "name": "Kaap Griend",
+      "latitude": 53.252225,
+      "longitude": 5.250975,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 111,
+      "name": "Kaap Kobbeduinen",
+      "latitude": 53.485923,
+      "longitude": 6.225928,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 112,
+      "name": "Kaap Willemsduin",
+      "latitude": 53.496618,
+      "longitude": 6.297675,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 113,
+      "name": "Kaapduinen Hoog",
+      "latitude": 51.473286,
+      "longitude": 3.518806,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 114,
+      "name": "Kaapduinen Laag",
+      "latitude": 51.474568,
+      "longitude": 3.516373,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 115,
+      "name": "Kasteeltoren",
+      "latitude": 52.020844,
+      "longitude": 5.042318,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 116,
+      "name": "Kempentoren",
+      "latitude": 51.561586,
+      "longitude": 5.072271,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 117,
+      "name": "Kerktoren Nicolaaskerk",
+      "latitude": 52.681699,
+      "longitude": 5.948109,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 118,
+      "name": "Kerktoren Westerdijkshorn",
+      "latitude": 53.30851,
+      "longitude": 6.575621,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 119,
+      "name": "Kerktoren van Oud-Leusden",
+      "latitude": 52.13131,
+      "longitude": 5.372361,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 120,
+      "name": "Klokkenstoel",
+      "latitude": 52.132011,
+      "longitude": 5.365636,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 121,
+      "name": "Klokkenstoel",
+      "latitude": 52.341323,
+      "longitude": 4.965186,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 122,
+      "name": "Klokkenstoel",
+      "latitude": 52.70261,
+      "longitude": 4.890464,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 123,
+      "name": "Klokkenstoel",
+      "latitude": 53.224416,
+      "longitude": 6.333868,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 124,
+      "name": "Klokkentoren",
+      "latitude": 52.206947,
+      "longitude": 5.301582,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 125,
+      "name": "Klokkentoren",
+      "latitude": 52.360127,
+      "longitude": 4.885754,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 126,
+      "name": "Klokkestoel",
+      "latitude": 51.963607,
+      "longitude": 5.234558,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 127,
+      "name": "Kompastoren",
+      "latitude": 52.206373,
+      "longitude": 4.87081,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 128,
+      "name": "Krusende flerken",
+      "latitude": 52.67033,
+      "longitude": 5.947182,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 129,
+      "name": "Lambertustoren",
+      "latitude": 51.660599,
+      "longitude": 5.298083,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 130,
+      "name": "Landmark",
+      "latitude": 52.131667,
+      "longitude": 5.050097,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 131,
+      "name": "Lange Jan",
+      "latitude": 51.499565,
+      "longitude": 3.614776,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 132,
+      "name": "Lebuïnustoren",
+      "latitude": 52.251684,
+      "longitude": 6.154675,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 133,
+      "name": "Living Tree Pavillion",
+      "latitude": 52.008954,
+      "longitude": 4.369808,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 134,
+      "name": "Luchtwachttoren",
+      "latitude": 51.248888,
+      "longitude": 3.446922,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 135,
+      "name": "Luchtwachttoren",
+      "latitude": 51.295134,
+      "longitude": 4.156995,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 136,
+      "name": "Luchtwachttoren 5K3",
+      "latitude": 51.722022,
+      "longitude": 4.615564,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 137,
+      "name": "Luchtwachttoren 7O1",
+      "latitude": 53.347664,
+      "longitude": 6.425446,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 138,
+      "name": "Luchtwachttoren 7O3",
+      "latitude": 53.301877,
+      "longitude": 6.589414,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 139,
+      "name": "Luchtwachttoren 7T1",
+      "latitude": 53.146925,
+      "longitude": 7.010288,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 140,
+      "name": "Luchtwachttoren 7X3",
+      "latitude": 52.733498,
+      "longitude": 6.38365,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 141,
+      "name": "Luchtwachttoren 7Z3",
+      "latitude": 52.651148,
+      "longitude": 6.87819,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 142,
+      "name": "Luchtwachttoren 8C1",
+      "latitude": 51.360024,
+      "longitude": 5.21835,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 143,
+      "name": "Luchtwachttoren Koewacht",
+      "latitude": 51.232266,
+      "longitude": 3.971238,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 144,
+      "name": "Maaspunttoren",
+      "latitude": 50.845904,
+      "longitude": 5.698659,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 145,
+      "name": "Magere josje",
+      "latitude": 51.597904,
+      "longitude": 5.316019,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 146,
+      "name": "Marathontoren",
+      "latitude": 52.343771,
+      "longitude": 4.855423,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 147,
+      "name": "Mariatoren",
+      "latitude": 51.351589,
+      "longitude": 5.273744,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 148,
+      "name": "Martinitoren",
+      "latitude": 53.219372,
+      "longitude": 6.568191,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 149,
+      "name": "Martinustoren",
+      "latitude": 52.263636,
+      "longitude": 7.007239,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 150,
+      "name": "Mauritstoren Bemmel",
+      "latitude": 51.878888,
+      "longitude": 5.892031,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 151,
+      "name": "Meetstoel U99",
+      "latitude": 52.424249,
+      "longitude": 5.625979,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 152,
+      "name": "Mobirail",
+      "latitude": 51.897264,
+      "longitude": 4.416532,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 153,
+      "name": "Mookerschans",
+      "latitude": 51.758135,
+      "longitude": 5.884197,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 154,
+      "name": "Motte",
+      "latitude": 51.712557,
+      "longitude": 4.573409,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 155,
+      "name": "Munttoren",
+      "latitude": 51.500098,
+      "longitude": 3.614643,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 156,
+      "name": "Munttoren",
+      "latitude": 52.367057,
+      "longitude": 4.893213,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 157,
+      "name": "Muurtoren Oostenrijk",
+      "latitude": 52.153597,
+      "longitude": 4.492793,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 158,
+      "name": "Natuurobservatietoren 'De Needse Berg'",
+      "latitude": 52.144407,
+      "longitude": 6.597456,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 159,
+      "name": "Nederlands Hervormde Kerk",
+      "latitude": 52.661194,
+      "longitude": 5.183532,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 160,
+      "name": "Nieuwe Toren",
+      "latitude": 52.559094,
+      "longitude": 5.916169,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 161,
+      "name": "Nieuwkoopse Plassen - Uitkijktoren",
+      "latitude": 52.150835,
+      "longitude": 4.839797,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 162,
+      "name": "NodeRabo",
+      "latitude": 52.16949,
+      "longitude": 4.489009,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 163,
+      "name": "Noordkaap",
+      "latitude": 53.440922,
+      "longitude": 5.515086,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 164,
+      "name": "OLV ter Eem",
+      "latitude": 52.145334,
+      "longitude": 5.352945,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 165,
+      "name": "Obervatietoren Montfort",
+      "latitude": 51.142016,
+      "longitude": 5.933025,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 166,
+      "name": "Observatorium",
+      "latitude": 52.097225,
+      "longitude": 5.022633,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 167,
+      "name": "Oldehove",
+      "latitude": 53.202975,
+      "longitude": 5.789719,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 168,
+      "name": "Onafhankelijkheidstoren",
+      "latitude": 52.077954,
+      "longitude": 4.812152,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 169,
+      "name": "Onverflout",
+      "latitude": 51.667213,
+      "longitude": 5.354961,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 170,
+      "name": "Onze Lieve Vrouwetoren",
+      "latitude": 52.155176,
+      "longitude": 5.387219,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 171,
+      "name": "Oude Toren",
+      "latitude": 51.454809,
+      "longitude": 5.480753,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 172,
+      "name": "Oude Toren",
+      "latitude": 51.491463,
+      "longitude": 5.613178,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 173,
+      "name": "Oude Toren",
+      "latitude": 51.492427,
+      "longitude": 5.514988,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 174,
+      "name": "Oude Toren",
+      "latitude": 51.526313,
+      "longitude": 5.627632,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 175,
+      "name": "Oude Toren",
+      "latitude": 51.576355,
+      "longitude": 5.138533,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 176,
+      "name": "Oude Toren",
+      "latitude": 51.597203,
+      "longitude": 5.214529,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 177,
+      "name": "Oude Toren",
+      "latitude": 51.861852,
+      "longitude": 4.668018,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 178,
+      "name": "PTT tower",
+      "latitude": 52.08569,
+      "longitude": 4.388773,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 179,
+      "name": "Paal 83",
+      "latitude": 51.932191,
+      "longitude": 4.200019,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 180,
+      "name": "Panoramaflat",
+      "latitude": 52.080566,
+      "longitude": 4.284714,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 181,
+      "name": "Pater Vinktoren",
+      "latitude": 50.845393,
+      "longitude": 5.693632,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 182,
+      "name": "Peperbus",
+      "latitude": 52.512183,
+      "longitude": 6.089736,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 183,
+      "name": "Plieger - commercial",
+      "latitude": 51.80218,
+      "longitude": 5.259392,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 184,
+      "name": "Plompetoren",
+      "latitude": 51.683395,
+      "longitude": 3.775205,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 185,
+      "name": "Poolshoogte",
+      "latitude": 52.872874,
+      "longitude": 6.816977,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 186,
+      "name": "Radartoren",
+      "latitude": 52.304867,
+      "longitude": 4.816365,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 187,
+      "name": "Raponsje",
+      "latitude": 51.649923,
+      "longitude": 5.046716,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 188,
+      "name": "Rattentoren",
+      "latitude": 51.196996,
+      "longitude": 5.9843,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 189,
+      "name": "Rembrandttoren",
+      "latitude": 52.345124,
+      "longitude": 4.91706,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 190,
+      "name": "Restanten Kasteeltoren Stevensweert",
+      "latitude": 51.131407,
+      "longitude": 5.844933,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 191,
+      "name": "Rietveldse Toren",
+      "latitude": 52.01499,
+      "longitude": 4.363131,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 192,
+      "name": "Romaanse kerktoren",
+      "latitude": 51.600647,
+      "longitude": 6.031644,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 193,
+      "name": "Romboutstoren",
+      "latitude": 51.783909,
+      "longitude": 5.053572,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 194,
+      "name": "Romeinse Wachttoren",
+      "latitude": 52.088878,
+      "longitude": 5.043124,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 195,
+      "name": "Romeinse wachttoren 'De Spees'",
+      "latitude": 51.940559,
+      "longitude": 5.601811,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 196,
+      "name": "Romsicht",
+      "latitude": 53.114724,
+      "longitude": 5.947374,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 197,
+      "name": "Schanstoren",
+      "latitude": 51.472682,
+      "longitude": 6.179493,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 198,
+      "name": "Schelmentoren",
+      "latitude": 50.887954,
+      "longitude": 5.980451,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 199,
+      "name": "Scheve Jan",
+      "latitude": 52.012506,
+      "longitude": 4.355427,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 200,
+      "name": "Scheve Toren",
+      "latitude": 52.013153,
+      "longitude": 4.433012,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 201,
+      "name": "Scheve toren",
+      "latitude": 51.879067,
+      "longitude": 5.137221,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 202,
+      "name": "Schietpaal",
+      "latitude": 52.233476,
+      "longitude": 4.449964,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 203,
+      "name": "Schonauwen",
+      "latitude": 52.012307,
+      "longitude": 5.175088,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 204,
+      "name": "Schuilmijt",
+      "latitude": 52.823802,
+      "longitude": 7.04184,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 205,
+      "name": "Signaal",
+      "latitude": 52.341815,
+      "longitude": 4.890787,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 206,
+      "name": "Sint Stephanus",
+      "latitude": 52.308693,
+      "longitude": 6.655736,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 207,
+      "name": "Sint-Gertrudistoren/De Peperbus",
+      "latitude": 51.494457,
+      "longitude": 4.287951,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 208,
+      "name": "Sint-Huybrechtstoren",
+      "latitude": 52.016826,
+      "longitude": 4.360522,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 209,
+      "name": "Sint-Jacobstoren",
+      "latitude": 52.077364,
+      "longitude": 4.306594,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 210,
+      "name": "Sint-Janskerk",
+      "latitude": 52.010712,
+      "longitude": 4.710623,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 211,
+      "name": "Sint-Janstoren",
+      "latitude": 51.63574,
+      "longitude": 5.964624,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 212,
+      "name": "Sint-Janstoren",
+      "latitude": 51.784677,
+      "longitude": 5.720871,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 213,
+      "name": "Sint-Lievensmonstertoren",
+      "latitude": 51.650281,
+      "longitude": 3.914746,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 214,
+      "name": "Sint-Martinustoren",
+      "latitude": 51.700373,
+      "longitude": 5.972478,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 215,
+      "name": "Sint-Pancratiustoren",
+      "latitude": 51.397701,
+      "longitude": 5.270272,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 216,
+      "name": "Sky Tower",
+      "latitude": 52.622413,
+      "longitude": 6.564346,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 217,
+      "name": "Stadhuistoren",
+      "latitude": 52.158078,
+      "longitude": 4.491005,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 218,
+      "name": "Stadsmarkering S09 Architektron Urania",
+      "latitude": 53.199158,
+      "longitude": 6.59879,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 219,
+      "name": "Sterrentoren",
+      "latitude": 52.085658,
+      "longitude": 5.174349,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 220,
+      "name": "TAQA",
+      "latitude": 52.650591,
+      "longitude": 4.71689,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 221,
+      "name": "TAR West",
+      "latitude": 52.326777,
+      "longitude": 4.721262,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 222,
+      "name": "TS 003",
+      "latitude": 53.358556,
+      "longitude": 5.211068,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 223,
+      "name": "Telecommast",
+      "latitude": 51.619983,
+      "longitude": 4.950827,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 224,
+      "name": "Televisietoren Markelo",
+      "latitude": 52.236881,
+      "longitude": 6.441619,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 225,
+      "name": "Toekantoren Van der Valk Harderwijk",
+      "latitude": 52.333875,
+      "longitude": 5.638956,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 226,
+      "name": "Toren",
+      "latitude": 53.201098,
+      "longitude": 5.80807,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 227,
+      "name": "Toren Nieuwe Kerk",
+      "latitude": 52.012099,
+      "longitude": 4.360215,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 228,
+      "name": "Toren Vliegbasis Eindhoven",
+      "latitude": 51.448646,
+      "longitude": 5.379611,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 229,
+      "name": "Toren van Goedereede",
+      "latitude": 51.818418,
+      "longitude": 3.975755,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 230,
+      "name": "Torentje van Spiek",
+      "latitude": 53.390321,
+      "longitude": 6.836893,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 231,
+      "name": "Tour Baudouin",
+      "latitude": 50.75412,
+      "longitude": 6.020889,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 232,
+      "name": "Tripolis 100",
+      "latitude": 52.339867,
+      "longitude": 4.855527,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 233,
+      "name": "Tripolis 200",
+      "latitude": 52.339251,
+      "longitude": 4.856686,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 234,
+      "name": "Tripolis 300",
+      "latitude": 52.339157,
+      "longitude": 4.855708,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 235,
+      "name": "Tureluur",
+      "latitude": 51.736407,
+      "longitude": 4.367863,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 236,
+      "name": "Tuurtoren",
+      "latitude": 52.314276,
+      "longitude": 5.467664,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 237,
+      "name": "Uilentoren",
+      "latitude": 52.01827,
+      "longitude": 5.428663,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 238,
+      "name": "Uitkijkpost 't Kopje",
+      "latitude": 52.408911,
+      "longitude": 4.606775,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 239,
+      "name": "Uitkijkpunt Tespelduyn",
+      "latitude": 52.279785,
+      "longitude": 4.529113,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 240,
+      "name": "Uitkijktoren",
+      "latitude": 51.192367,
+      "longitude": 6.0387,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 241,
+      "name": "Uitkijktoren",
+      "latitude": 51.800276,
+      "longitude": 5.358106,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 242,
+      "name": "Uitkijktoren",
+      "latitude": 51.936443,
+      "longitude": 4.508707,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 243,
+      "name": "Uitkijktoren",
+      "latitude": 52.263478,
+      "longitude": 7.030102,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 244,
+      "name": "Uitkijktoren",
+      "latitude": 52.37015,
+      "longitude": 5.783758,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 245,
+      "name": "Uitkijktoren",
+      "latitude": 52.47433,
+      "longitude": 4.822702,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 246,
+      "name": "Uitkijktoren",
+      "latitude": 52.787438,
+      "longitude": 5.893035,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 247,
+      "name": "Uitkijktoren",
+      "latitude": 52.859439,
+      "longitude": 6.251869,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 248,
+      "name": "Uitkijktoren",
+      "latitude": 52.898516,
+      "longitude": 6.244091,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 249,
+      "name": "Uitkijktoren",
+      "latitude": 53.002873,
+      "longitude": 6.445785,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 250,
+      "name": "Uitkijktoren",
+      "latitude": 53.399789,
+      "longitude": 6.262028,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 251,
+      "name": "Uitkijktoren",
+      "latitude": 53.402137,
+      "longitude": 6.29089,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 252,
+      "name": "Uitkijktoren (gesloten)",
+      "latitude": 52.427675,
+      "longitude": 6.288055,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 253,
+      "name": "Uitkijktoren Achter de Zwarten",
+      "latitude": 53.381288,
+      "longitude": 6.205965,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 254,
+      "name": "Uitkijktoren Baarlo",
+      "latitude": 51.340426,
+      "longitude": 6.116188,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 255,
+      "name": "Uitkijktoren Blauwestad",
+      "latitude": 53.165768,
+      "longitude": 7.036505,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 256,
+      "name": "Uitkijktoren Boersberg",
+      "latitude": 51.9706,
+      "longitude": 5.782322,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 257,
+      "name": "Uitkijktoren De Baak",
+      "latitude": 53.327786,
+      "longitude": 6.232706,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 258,
+      "name": "Uitkijktoren De Bult",
+      "latitude": 52.094872,
+      "longitude": 5.698569,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 259,
+      "name": "Uitkijktoren De Drie Polders",
+      "latitude": 53.195478,
+      "longitude": 6.400673,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 260,
+      "name": "Uitkijktoren De Heeskijk",
+      "latitude": 51.653176,
+      "longitude": 5.430116,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 261,
+      "name": "Uitkijktoren Geuzenbos",
+      "latitude": 52.397402,
+      "longitude": 4.760136,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 262,
+      "name": "Uitkijktoren Herperduin",
+      "latitude": 51.76291,
+      "longitude": 5.617262,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 263,
+      "name": "Uitkijktoren Hoef en Haag",
+      "latitude": 51.985112,
+      "longitude": 5.120425,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 264,
+      "name": "Uitkijktoren Holmers-Halkenbroek",
+      "latitude": 52.912395,
+      "longitude": 6.629544,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 265,
+      "name": "Uitkijktoren Hulzenberg",
+      "latitude": 51.884247,
+      "longitude": 6.202203,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 266,
+      "name": "Uitkijktoren IJhorst Reestdal",
+      "latitude": 52.66224,
+      "longitude": 6.289711,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 267,
+      "name": "Uitkijktoren Kraaijenberg",
+      "latitude": 51.46784,
+      "longitude": 4.291035,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 268,
+      "name": "Uitkijktoren Krammersluizen",
+      "latitude": 51.6598,
+      "longitude": 4.162342,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 269,
+      "name": "Uitkijktoren Kruisberg",
+      "latitude": 52.523299,
+      "longitude": 4.626476,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 270,
+      "name": "Uitkijktoren Mescherheide",
+      "latitude": 50.773164,
+      "longitude": 5.747606,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 271,
+      "name": "Uitkijktoren Reestdal",
+      "latitude": 52.683677,
+      "longitude": 6.213311,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 272,
+      "name": "Uitkijktoren Reiderwolde",
+      "latitude": 53.160744,
+      "longitude": 7.066509,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 273,
+      "name": "Uitkijktoren Rond door Recht",
+      "latitude": 51.560843,
+      "longitude": 5.441792,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 274,
+      "name": "Uitkijktoren Sarsven",
+      "latitude": 51.265875,
+      "longitude": 5.787467,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 275,
+      "name": "Uitkijktoren Ter Wupping",
+      "latitude": 53.045424,
+      "longitude": 7.065826,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 276,
+      "name": "Uitkijktoren Tour de Frans",
+      "latitude": 51.554321,
+      "longitude": 5.281791,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 277,
+      "name": "Uitkijktoren Trapjesberg",
+      "latitude": 52.098428,
+      "longitude": 5.984099,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 278,
+      "name": "Uitkijktoren Wellerlooi",
+      "latitude": 51.530698,
+      "longitude": 6.127523,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 279,
+      "name": "Uitkijktoren Woldberg (24,05 m)",
+      "latitude": 52.8059,
+      "longitude": 6.097765,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 280,
+      "name": "Uitkijktoren de Stokte",
+      "latitude": 52.519732,
+      "longitude": 6.298092,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 281,
+      "name": "Uitkijktoren de Veenman",
+      "latitude": 53.185921,
+      "longitude": 6.424501,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 282,
+      "name": "Uitzichtpunt Binnenhof",
+      "latitude": 52.079286,
+      "longitude": 4.311253,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 283,
+      "name": "Uitzichtpunt Niemandsland",
+      "latitude": 51.242882,
+      "longitude": 4.054807,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 284,
+      "name": "Uitzichttoren Groote Peel",
+      "latitude": 51.335841,
+      "longitude": 5.802047,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 285,
+      "name": "Uitzichttoren N.O.P.",
+      "latitude": 52.614668,
+      "longitude": 5.842926,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 286,
+      "name": "Uitzichttoren Pompejus",
+      "latitude": 51.529586,
+      "longitude": 4.301368,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 287,
+      "name": "Ut Vuurtjen",
+      "latitude": 52.656805,
+      "longitude": 5.597655,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 288,
+      "name": "Verkeerstoren Valkenburg",
+      "latitude": 52.16515,
+      "longitude": 4.423413,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 289,
+      "name": "Verkeerstoren Ypenburg",
+      "latitude": 52.043333,
+      "longitude": 4.376644,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 290,
+      "name": "Verkentoren",
+      "latitude": 52.473333,
+      "longitude": 6.071148,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 291,
+      "name": "Vlaggentoren",
+      "latitude": 52.360309,
+      "longitude": 4.885395,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 292,
+      "name": "Vlietermonument",
+      "latitude": 52.968989,
+      "longitude": 5.108952,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 293,
+      "name": "Voormalig Teerose II",
+      "latitude": 52.036257,
+      "longitude": 5.998575,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 294,
+      "name": "Voormalig Teerose II",
+      "latitude": 52.037991,
+      "longitude": 5.993097,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 295,
+      "name": "Voormalig Teerose III",
+      "latitude": 52.0619,
+      "longitude": 5.975889,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 296,
+      "name": "Vredestoren",
+      "latitude": 52.08634,
+      "longitude": 4.295883,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 297,
+      "name": "Walradar",
+      "latitude": 52.091945,
+      "longitude": 5.07749,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 298,
+      "name": "Westertoren",
+      "latitude": 52.374531,
+      "longitude": 4.883516,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 299,
+      "name": "Wierickewachter",
+      "latitude": 52.041649,
+      "longitude": 4.783247,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 300,
+      "name": "Wijkertoren",
+      "latitude": 52.485856,
+      "longitude": 4.658124,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 301,
+      "name": "Wijnhuistoren",
+      "latitude": 52.141413,
+      "longitude": 6.195089,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 302,
+      "name": "Wilhelminatoren",
+      "latitude": 50.76179,
+      "longitude": 6.017085,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 303,
+      "name": "Willibrordustoren",
+      "latitude": 51.336978,
+      "longitude": 3.824917,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 304,
+      "name": "Windmolen \"De Boerenzwaluw\"",
+      "latitude": 53.265571,
+      "longitude": 6.213909,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 305,
+      "name": "Zendmast Emmaberg",
+      "latitude": 50.875068,
+      "longitude": 5.846606,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 306,
+      "name": "Zendmast Wieringermeer",
+      "latitude": 52.908529,
+      "longitude": 5.058321,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 307,
+      "name": "Zuiderkerkstoren",
+      "latitude": 52.370221,
+      "longitude": 4.899522,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 308,
+      "name": "Zwaluwentoren",
+      "latitude": 51.541423,
+      "longitude": 5.173037,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 309,
+      "name": "carillon",
+      "latitude": 51.993858,
+      "longitude": 4.476582,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 310,
+      "name": "d'Olle Witte",
+      "latitude": 53.14261,
+      "longitude": 7.039078,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 311,
+      "name": "de Dierense Toren",
+      "latitude": 52.041232,
+      "longitude": 6.105406,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 312,
+      "name": "klokkenstoel",
+      "latitude": 52.401079,
+      "longitude": 4.575733,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 313,
+      "name": "toren Wikelslân",
+      "latitude": 53.142458,
+      "longitude": 5.942935,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 314,
+      "name": "toren van de Oude Kerk",
+      "latitude": 52.083472,
+      "longitude": 5.237147,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 315,
+      "name": "uitkijktoren",
+      "latitude": 51.817251,
+      "longitude": 5.277581,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 316,
+      "name": "uitkijktoren Loetbos",
+      "latitude": 51.930715,
+      "longitude": 4.690099,
+      "osm_klasse": "man_made=tower"
+    },
+    {
+      "id": 317,
+      "name": "walradar",
+      "latitude": 51.591334,
+      "longitude": 3.989173,
+      "osm_klasse": "man_made=tower"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: tower (man_made=tower) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged man_made=tower in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 317 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: tower (man_made=tower) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: tower (man_made=tower) — 317 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 317 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

@@ -1,0 +1,5511 @@
+{
+  "id": "nl-osm-amenity-ice-cream",
+  "name": "Netherlands OSM: ice cream (amenity=ice_cream)",
+  "title": "Netherlands OSM: ice cream (amenity=ice_cream)",
+  "description": "Named OpenStreetMap features tagged amenity=ice_cream in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 780,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'N ICE",
+      "latitude": 51.500358,
+      "longitude": 3.482509,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 2,
+      "name": "'N ICE 2 Go",
+      "latitude": 51.500037,
+      "longitude": 3.485056,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 3,
+      "name": "'t Boerinneke",
+      "latitude": 52.352496,
+      "longitude": 5.62118,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 4,
+      "name": "'t Geertje",
+      "latitude": 52.094503,
+      "longitude": 4.504712,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 5,
+      "name": "'t IJshofje",
+      "latitude": 51.345205,
+      "longitude": 5.884678,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 6,
+      "name": "'t IJssalonekke bij Hierneffe",
+      "latitude": 51.545256,
+      "longitude": 5.184022,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 7,
+      "name": "'t IJswinkeltje",
+      "latitude": 52.022276,
+      "longitude": 4.217547,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 8,
+      "name": "'t Zeepaardje",
+      "latitude": 52.095521,
+      "longitude": 4.26205,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 9,
+      "name": "'t ijsboerinneke",
+      "latitude": 51.54836,
+      "longitude": 5.222022,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 10,
+      "name": "A g'n Boomsjoeel",
+      "latitude": 50.771916,
+      "longitude": 5.819974,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 11,
+      "name": "Aarle IJs",
+      "latitude": 51.477644,
+      "longitude": 5.019821,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 12,
+      "name": "Amorino",
+      "latitude": 52.375088,
+      "longitude": 4.894609,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 13,
+      "name": "Amorino",
+      "latitude": 52.523368,
+      "longitude": 5.440157,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 14,
+      "name": "Amy's",
+      "latitude": 51.920009,
+      "longitude": 4.48651,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 15,
+      "name": "Anderz ijssalon en chocolaterie",
+      "latitude": 52.232964,
+      "longitude": 6.586451,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 16,
+      "name": "Angelati",
+      "latitude": 50.777857,
+      "longitude": 5.702541,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 17,
+      "name": "Anne",
+      "latitude": 52.263068,
+      "longitude": 6.712408,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 18,
+      "name": "Aris Laan",
+      "latitude": 52.961228,
+      "longitude": 4.762158,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 19,
+      "name": "At Delicious",
+      "latitude": 51.519442,
+      "longitude": 5.056313,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 20,
+      "name": "Australian",
+      "latitude": 51.308223,
+      "longitude": 3.385227,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 21,
+      "name": "Bacio",
+      "latitude": 51.251461,
+      "longitude": 5.71182,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 22,
+      "name": "Bacio",
+      "latitude": 51.404118,
+      "longitude": 5.745237,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 23,
+      "name": "Bacio",
+      "latitude": 51.442738,
+      "longitude": 5.618617,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 24,
+      "name": "Bananas",
+      "latitude": 51.659567,
+      "longitude": 5.614648,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 25,
+      "name": "Bartoli",
+      "latitude": 52.380886,
+      "longitude": 4.636534,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 26,
+      "name": "Bastani",
+      "latitude": 51.438216,
+      "longitude": 5.475923,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 27,
+      "name": "Beaart",
+      "latitude": 52.009892,
+      "longitude": 4.370586,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 28,
+      "name": "Bei 't Patricia",
+      "latitude": 50.893897,
+      "longitude": 6.05961,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 29,
+      "name": "Belga",
+      "latitude": 51.843244,
+      "longitude": 5.860424,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 30,
+      "name": "Belicio Cheatday",
+      "latitude": 51.814541,
+      "longitude": 4.66878,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 31,
+      "name": "Bella IJs & Espresso",
+      "latitude": 51.909722,
+      "longitude": 4.445725,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 32,
+      "name": "Bella Toscana Gelateria",
+      "latitude": 53.098429,
+      "longitude": 4.763841,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 33,
+      "name": "Bella's Ice & Candy Store",
+      "latitude": 52.068875,
+      "longitude": 4.221938,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 34,
+      "name": "Belliniez",
+      "latitude": 52.207047,
+      "longitude": 5.080099,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 35,
+      "name": "Bellissimo",
+      "latitude": 51.376882,
+      "longitude": 5.577981,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 36,
+      "name": "Bellliniez",
+      "latitude": 52.222395,
+      "longitude": 5.486744,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 37,
+      "name": "Ben & Jerry's",
+      "latitude": 52.113395,
+      "longitude": 4.28302,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 38,
+      "name": "Ben & Jerry's",
+      "latitude": 52.440631,
+      "longitude": 5.764597,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 39,
+      "name": "Bernardo",
+      "latitude": 52.047192,
+      "longitude": 5.669931,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 40,
+      "name": "Bertie's IJssalon",
+      "latitude": 51.833124,
+      "longitude": 5.261462,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 41,
+      "name": "Bij Lotje",
+      "latitude": 52.081418,
+      "longitude": 4.298404,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 42,
+      "name": "Bijkerk IJs",
+      "latitude": 52.465984,
+      "longitude": 6.622711,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 43,
+      "name": "Biltse Boer",
+      "latitude": 52.101897,
+      "longitude": 5.199873,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 44,
+      "name": "Bliss",
+      "latitude": 50.862971,
+      "longitude": 5.830215,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 45,
+      "name": "Bloem",
+      "latitude": 51.847531,
+      "longitude": 5.863074,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 46,
+      "name": "Boerderij te Winkel ijs Clara Bella",
+      "latitude": 51.99408,
+      "longitude": 6.773117,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 47,
+      "name": "Boerderijwinkel en IJssalon",
+      "latitude": 52.705667,
+      "longitude": 5.197101,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 48,
+      "name": "Boeren Softijs",
+      "latitude": 53.150771,
+      "longitude": 6.555929,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 49,
+      "name": "Boerenijs",
+      "latitude": 51.927157,
+      "longitude": 6.695969,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 50,
+      "name": "Boerenroomĳs",
+      "latitude": 52.334955,
+      "longitude": 6.235608,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 51,
+      "name": "Boeronijs bij MijnBoerin",
+      "latitude": 52.801954,
+      "longitude": 6.466346,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 52,
+      "name": "Bon Appetit",
+      "latitude": 51.589068,
+      "longitude": 4.780299,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 53,
+      "name": "Bonvanie IJs & Chocolade",
+      "latitude": 52.357451,
+      "longitude": 6.593036,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 54,
+      "name": "Bosgoed",
+      "latitude": 52.332806,
+      "longitude": 6.281714,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 55,
+      "name": "Brouwer",
+      "latitude": 52.194715,
+      "longitude": 6.004862,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 56,
+      "name": "Brouwer",
+      "latitude": 52.205968,
+      "longitude": 5.969176,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 57,
+      "name": "Bunch ijsje",
+      "latitude": 52.458545,
+      "longitude": 4.618329,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 58,
+      "name": "ByMitch",
+      "latitude": 50.949914,
+      "longitude": 5.908371,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 59,
+      "name": "Cafetaria IJssalon Manders",
+      "latitude": 51.263304,
+      "longitude": 5.922379,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 60,
+      "name": "Cafetaria van Putten",
+      "latitude": 51.890751,
+      "longitude": 4.477855,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 61,
+      "name": "Cappello Giallo",
+      "latitude": 51.549877,
+      "longitude": 3.669235,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 62,
+      "name": "Capri",
+      "latitude": 50.865352,
+      "longitude": 6.062338,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 63,
+      "name": "Capri IJs",
+      "latitude": 51.919528,
+      "longitude": 4.475489,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 64,
+      "name": "Casa Infante",
+      "latitude": 52.354677,
+      "longitude": 4.893393,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 65,
+      "name": "Casa Italia",
+      "latitude": 52.083349,
+      "longitude": 5.140098,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 66,
+      "name": "Casa Piccola",
+      "latitude": 52.449161,
+      "longitude": 5.832015,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 67,
+      "name": "Casa Piccola",
+      "latitude": 52.449865,
+      "longitude": 5.830899,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 68,
+      "name": "Cherry ice cream",
+      "latitude": 52.160955,
+      "longitude": 4.49983,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 69,
+      "name": "Chielato's",
+      "latitude": 52.297393,
+      "longitude": 5.231341,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 70,
+      "name": "Chocolade & Meer..",
+      "latitude": 52.07543,
+      "longitude": 6.180903,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 71,
+      "name": "Clevers IJsbar",
+      "latitude": 51.196227,
+      "longitude": 5.985478,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 72,
+      "name": "Clevers IJsbar",
+      "latitude": 51.371774,
+      "longitude": 6.171478,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 73,
+      "name": "Clevers IJsbar",
+      "latitude": 51.831559,
+      "longitude": 5.779884,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 74,
+      "name": "Cone Corner",
+      "latitude": 50.997802,
+      "longitude": 5.869857,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 75,
+      "name": "Cool 'N Cold IJssalon",
+      "latitude": 51.980245,
+      "longitude": 4.581696,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 76,
+      "name": "Crusio",
+      "latitude": 51.495074,
+      "longitude": 4.290239,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 77,
+      "name": "D'n Italiaan",
+      "latitude": 51.443172,
+      "longitude": 4.927741,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 78,
+      "name": "DPS",
+      "latitude": 51.192983,
+      "longitude": 5.722764,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 79,
+      "name": "Da Vinci",
+      "latitude": 52.293058,
+      "longitude": 4.853492,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 80,
+      "name": "Da Vinci",
+      "latitude": 52.359731,
+      "longitude": 4.628435,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 81,
+      "name": "DaVinci",
+      "latitude": 52.343769,
+      "longitude": 4.857459,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 82,
+      "name": "Daans Droomijs",
+      "latitude": 52.046026,
+      "longitude": 4.948666,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 83,
+      "name": "Daisy's",
+      "latitude": 51.684892,
+      "longitude": 5.288621,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 84,
+      "name": "Daisy's Ice, Coffee & More",
+      "latitude": 51.885365,
+      "longitude": 5.437438,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 85,
+      "name": "Dame Bl'ans",
+      "latitude": 52.134694,
+      "longitude": 5.49601,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 86,
+      "name": "Danice",
+      "latitude": 52.186818,
+      "longitude": 4.471048,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 87,
+      "name": "David's Gelato",
+      "latitude": 52.011048,
+      "longitude": 4.710488,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 88,
+      "name": "David's Gelato",
+      "latitude": 52.01155,
+      "longitude": 4.71289,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 89,
+      "name": "De Baleine",
+      "latitude": 52.472249,
+      "longitude": 4.815682,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 90,
+      "name": "De Bank",
+      "latitude": 52.331987,
+      "longitude": 5.829296,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 91,
+      "name": "De Beertuin",
+      "latitude": 51.133126,
+      "longitude": 5.847913,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 92,
+      "name": "De Boer's Bakkerij",
+      "latitude": 53.010827,
+      "longitude": 5.621778,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 93,
+      "name": "De Bonte Koe",
+      "latitude": 51.915553,
+      "longitude": 4.467031,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 94,
+      "name": "De Gebroeders",
+      "latitude": 51.503906,
+      "longitude": 5.741436,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 95,
+      "name": "De IJsBar",
+      "latitude": 53.055331,
+      "longitude": 4.798531,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 96,
+      "name": "De IJsbakkers",
+      "latitude": 52.510951,
+      "longitude": 6.090229,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 97,
+      "name": "De IJscobar",
+      "latitude": 53.214632,
+      "longitude": 6.565548,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 98,
+      "name": "De IJscolademan",
+      "latitude": 51.661933,
+      "longitude": 5.031124,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 99,
+      "name": "De IJsgalerij",
+      "latitude": 52.492153,
+      "longitude": 4.59097,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 100,
+      "name": "De IJskoning Tilburg",
+      "latitude": 51.56784,
+      "longitude": 5.043453,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 101,
+      "name": "De IJskuip",
+      "latitude": 52.392205,
+      "longitude": 7.02824,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 102,
+      "name": "De IJsmaker",
+      "latitude": 51.915064,
+      "longitude": 4.465759,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 103,
+      "name": "De IJsmaker",
+      "latitude": 51.916291,
+      "longitude": 4.47941,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 104,
+      "name": "De IJsmaker",
+      "latitude": 51.922218,
+      "longitude": 4.477791,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 105,
+      "name": "De IJsmaker",
+      "latitude": 51.933365,
+      "longitude": 4.478374,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 106,
+      "name": "De IJsmaker",
+      "latitude": 52.202991,
+      "longitude": 6.832953,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 107,
+      "name": "De IJsmakerij",
+      "latitude": 52.146116,
+      "longitude": 5.405092,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 108,
+      "name": "De IJspoort",
+      "latitude": 50.951849,
+      "longitude": 5.855569,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 109,
+      "name": "De IJspraktijk",
+      "latitude": 52.392395,
+      "longitude": 4.954074,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 110,
+      "name": "De IJssalon",
+      "latitude": 51.855441,
+      "longitude": 4.539669,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 111,
+      "name": "De IJssalon",
+      "latitude": 51.874557,
+      "longitude": 4.069746,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 112,
+      "name": "De IJssalon",
+      "latitude": 51.920053,
+      "longitude": 4.467643,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 113,
+      "name": "De IJssalon",
+      "latitude": 51.920143,
+      "longitude": 4.487265,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 114,
+      "name": "De IJssalon",
+      "latitude": 51.922925,
+      "longitude": 4.483891,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 115,
+      "name": "De IJssalon",
+      "latitude": 51.999696,
+      "longitude": 4.329976,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 116,
+      "name": "De IJssalon",
+      "latitude": 52.156163,
+      "longitude": 6.741888,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 117,
+      "name": "De IJssalon Mijdrecht",
+      "latitude": 52.21078,
+      "longitude": 4.867836,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 118,
+      "name": "De IJssalon van Leerdam",
+      "latitude": 51.892701,
+      "longitude": 5.092856,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 119,
+      "name": "De IJstijd",
+      "latitude": 50.867123,
+      "longitude": 6.02475,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 120,
+      "name": "De IJstuin Dronryp",
+      "latitude": 53.1897,
+      "longitude": 5.652037,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 121,
+      "name": "De IJsvlinder",
+      "latitude": 51.579026,
+      "longitude": 4.99764,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 122,
+      "name": "De IJsvogel",
+      "latitude": 51.563904,
+      "longitude": 3.497845,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 123,
+      "name": "De IJsvogel",
+      "latitude": 51.688666,
+      "longitude": 5.304528,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 124,
+      "name": "De IJswachter",
+      "latitude": 52.50397,
+      "longitude": 6.685943,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 125,
+      "name": "De IJswinckel",
+      "latitude": 51.44405,
+      "longitude": 3.575292,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 126,
+      "name": "De IJswinckel",
+      "latitude": 51.501845,
+      "longitude": 3.887731,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 127,
+      "name": "De IJswinckel",
+      "latitude": 51.732712,
+      "longitude": 3.773829,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 128,
+      "name": "De IJswinckel",
+      "latitude": 51.79427,
+      "longitude": 4.70484,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 129,
+      "name": "De IJswinckel",
+      "latitude": 51.822391,
+      "longitude": 4.651563,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 130,
+      "name": "De IJswinckel",
+      "latitude": 51.834995,
+      "longitude": 4.646442,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 131,
+      "name": "De IJswinckel",
+      "latitude": 51.838629,
+      "longitude": 4.134255,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 132,
+      "name": "De IJswinckel",
+      "latitude": 51.855265,
+      "longitude": 4.561573,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 133,
+      "name": "De IJswinckel",
+      "latitude": 51.869094,
+      "longitude": 4.599357,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 134,
+      "name": "De IJswinckel",
+      "latitude": 51.899583,
+      "longitude": 4.509572,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 135,
+      "name": "De IJswinckel",
+      "latitude": 51.908989,
+      "longitude": 4.343864,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 136,
+      "name": "De IJswinckel",
+      "latitude": 51.93435,
+      "longitude": 4.377115,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 137,
+      "name": "De IJswinckel",
+      "latitude": 51.945584,
+      "longitude": 4.477809,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 138,
+      "name": "De IJswinckel",
+      "latitude": 51.989444,
+      "longitude": 4.501267,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 139,
+      "name": "De IJswinckel",
+      "latitude": 51.996304,
+      "longitude": 4.351177,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 140,
+      "name": "De IJswinckel",
+      "latitude": 52.012955,
+      "longitude": 4.335834,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 141,
+      "name": "De IJswinckel",
+      "latitude": 52.08171,
+      "longitude": 5.414761,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 142,
+      "name": "De IJswinkel",
+      "latitude": 53.383038,
+      "longitude": 5.28723,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 143,
+      "name": "De IJszee",
+      "latitude": 53.360085,
+      "longitude": 5.214642,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 144,
+      "name": "De Kazerne",
+      "latitude": 52.703842,
+      "longitude": 6.124877,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 145,
+      "name": "De Kleine Haan",
+      "latitude": 51.010939,
+      "longitude": 5.835793,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 146,
+      "name": "De Kleine IJsbeer",
+      "latitude": 52.702024,
+      "longitude": 4.693651,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 147,
+      "name": "De Kleine Molen",
+      "latitude": 52.529349,
+      "longitude": 4.731477,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 148,
+      "name": "De Koale Kant",
+      "latitude": 52.262866,
+      "longitude": 7.007921,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 149,
+      "name": "De Lelie",
+      "latitude": 52.009686,
+      "longitude": 4.363321,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 150,
+      "name": "De Meulenhorst",
+      "latitude": 52.478778,
+      "longitude": 6.47269,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 151,
+      "name": "De Papegaai",
+      "latitude": 51.570898,
+      "longitude": 5.952703,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 152,
+      "name": "De Parel",
+      "latitude": 52.259921,
+      "longitude": 5.607599,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 153,
+      "name": "De Parlevincker",
+      "latitude": 51.647633,
+      "longitude": 5.052624,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 154,
+      "name": "De Schellenberg",
+      "latitude": 52.38644,
+      "longitude": 6.111081,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 155,
+      "name": "De Smaak!",
+      "latitude": 51.360503,
+      "longitude": 5.307936,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 156,
+      "name": "De Smaak!",
+      "latitude": 51.366178,
+      "longitude": 5.215289,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 157,
+      "name": "De Spieker",
+      "latitude": 52.235118,
+      "longitude": 6.49419,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 158,
+      "name": "De Vergulde IJshoorn",
+      "latitude": 51.759547,
+      "longitude": 4.162843,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 159,
+      "name": "De Verleiding",
+      "latitude": 51.527242,
+      "longitude": 5.975034,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 160,
+      "name": "De Vorstelijke Vrieskamer",
+      "latitude": 51.649971,
+      "longitude": 5.048538,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 161,
+      "name": "De Zoete Inval",
+      "latitude": 52.085732,
+      "longitude": 4.748127,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 162,
+      "name": "De Zoete Zonde",
+      "latitude": 51.42165,
+      "longitude": 5.561243,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 163,
+      "name": "De ijsmaker Jeroen",
+      "latitude": 51.921819,
+      "longitude": 4.253891,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 164,
+      "name": "De mijsjes",
+      "latitude": 52.662886,
+      "longitude": 4.628087,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 165,
+      "name": "Delano",
+      "latitude": 52.628059,
+      "longitude": 4.753797,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 166,
+      "name": "Delisio IJs & Chocolade",
+      "latitude": 51.361958,
+      "longitude": 5.160931,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 167,
+      "name": "Delizia Dolce",
+      "latitude": 52.130285,
+      "longitude": 5.428192,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 168,
+      "name": "Deliziosa!",
+      "latitude": 51.862283,
+      "longitude": 4.661044,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 169,
+      "name": "Di Paulos",
+      "latitude": 52.220899,
+      "longitude": 6.894138,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 170,
+      "name": "Die Pickewijn",
+      "latitude": 51.516686,
+      "longitude": 5.102815,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 171,
+      "name": "Dieks IJssalon",
+      "latitude": 52.193954,
+      "longitude": 6.36482,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 172,
+      "name": "Dizzies Ice Cream",
+      "latitude": 52.442198,
+      "longitude": 5.765224,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 173,
+      "name": "Do Ijssalon",
+      "latitude": 51.438492,
+      "longitude": 5.479259,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 174,
+      "name": "Dolce & Gelato",
+      "latitude": 52.366881,
+      "longitude": 4.89402,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 175,
+      "name": "Dolce & Gelato",
+      "latitude": 52.372087,
+      "longitude": 4.895449,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 176,
+      "name": "Dolce & Gelato",
+      "latitude": 52.375118,
+      "longitude": 4.898416,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 177,
+      "name": "Dolce & Gelato Bio",
+      "latitude": 52.371411,
+      "longitude": 4.897336,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 178,
+      "name": "Dolce Creme Gelato",
+      "latitude": 51.449693,
+      "longitude": 5.473469,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 179,
+      "name": "Dolce Freddo",
+      "latitude": 52.088299,
+      "longitude": 4.31007,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 180,
+      "name": "Dolomiti IJssalon",
+      "latitude": 52.066048,
+      "longitude": 4.280372,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 181,
+      "name": "Donna Gelateria",
+      "latitude": 52.045155,
+      "longitude": 4.392669,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 182,
+      "name": "Donna Gelateria",
+      "latitude": 52.066978,
+      "longitude": 4.25348,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 183,
+      "name": "Donna Gelateria",
+      "latitude": 52.067861,
+      "longitude": 4.36304,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 184,
+      "name": "Donna Gelateria",
+      "latitude": 52.076536,
+      "longitude": 4.260152,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 185,
+      "name": "Dorenzo",
+      "latitude": 50.949235,
+      "longitude": 5.796599,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 186,
+      "name": "Dutch Homemade",
+      "latitude": 51.436607,
+      "longitude": 5.475035,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 187,
+      "name": "Dutch Homemade",
+      "latitude": 52.09129,
+      "longitude": 5.112376,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 188,
+      "name": "DutchHomemade",
+      "latitude": 51.193384,
+      "longitude": 5.985386,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 189,
+      "name": "Eisautomaat",
+      "latitude": 52.606782,
+      "longitude": 4.959746,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 190,
+      "name": "Eisdiele",
+      "latitude": 50.849372,
+      "longitude": 5.692919,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 191,
+      "name": "Engelenveld",
+      "latitude": 51.15604,
+      "longitude": 5.79482,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 192,
+      "name": "Ensing en Toon",
+      "latitude": 53.443496,
+      "longitude": 5.634755,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 193,
+      "name": "Evita Gelato",
+      "latitude": 52.074034,
+      "longitude": 4.316147,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 194,
+      "name": "Eyske",
+      "latitude": 51.492052,
+      "longitude": 4.050033,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 195,
+      "name": "FYN YS",
+      "latitude": 52.194244,
+      "longitude": 5.430761,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 196,
+      "name": "Fior di Gelato",
+      "latitude": 52.363355,
+      "longitude": 4.888477,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 197,
+      "name": "Florencia",
+      "latitude": 52.078581,
+      "longitude": 4.304831,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 198,
+      "name": "Foodstation Avanti IJssalon",
+      "latitude": 52.959127,
+      "longitude": 4.761806,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 199,
+      "name": "Frank & Lydia's IJssalon",
+      "latitude": 52.380572,
+      "longitude": 4.853913,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 200,
+      "name": "Fratelli",
+      "latitude": 51.986362,
+      "longitude": 5.844109,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 201,
+      "name": "Freddy's IJssalon",
+      "latitude": 51.831998,
+      "longitude": 4.146788,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 202,
+      "name": "Fresh or Frozen",
+      "latitude": 52.096941,
+      "longitude": 5.106769,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 203,
+      "name": "Freski",
+      "latitude": 52.154049,
+      "longitude": 4.493908,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 204,
+      "name": "Fressini",
+      "latitude": 52.084852,
+      "longitude": 5.242781,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 205,
+      "name": "Fressini",
+      "latitude": 52.089288,
+      "longitude": 5.246677,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 206,
+      "name": "Frezzo",
+      "latitude": 51.582992,
+      "longitude": 4.777219,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 207,
+      "name": "Frezzo IJs",
+      "latitude": 51.69018,
+      "longitude": 5.299896,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 208,
+      "name": "Friends More than ice",
+      "latitude": 51.88344,
+      "longitude": 5.289426,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 209,
+      "name": "Frizzia",
+      "latitude": 52.94373,
+      "longitude": 5.629184,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 210,
+      "name": "Frosty's",
+      "latitude": 52.243357,
+      "longitude": 6.852349,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 211,
+      "name": "Fyn Ys",
+      "latitude": 52.137327,
+      "longitude": 5.428368,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 212,
+      "name": "Garrone",
+      "latitude": 52.376586,
+      "longitude": 4.631403,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 213,
+      "name": "Gebo Gelato",
+      "latitude": 52.33076,
+      "longitude": 5.544682,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 214,
+      "name": "Gebo Gelato Papendrecht",
+      "latitude": 51.826931,
+      "longitude": 4.68449,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 215,
+      "name": "Gelateria Davide",
+      "latitude": 51.688765,
+      "longitude": 5.309079,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 216,
+      "name": "Gelateria Geletti",
+      "latitude": 51.983047,
+      "longitude": 5.904654,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 217,
+      "name": "Gelateria Gusto",
+      "latitude": 51.953413,
+      "longitude": 5.847907,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 218,
+      "name": "Gelateria Il Trattamento",
+      "latitude": 50.939902,
+      "longitude": 5.794047,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 219,
+      "name": "Gelateria Martino",
+      "latitude": 52.281557,
+      "longitude": 6.422151,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 220,
+      "name": "Gelateria Talamini",
+      "latitude": 51.972243,
+      "longitude": 6.720012,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 221,
+      "name": "Gelateria Talamini",
+      "latitude": 52.357127,
+      "longitude": 6.591706,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 222,
+      "name": "Gelateria Villabate",
+      "latitude": 53.136812,
+      "longitude": 6.430615,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 223,
+      "name": "Gelati",
+      "latitude": 53.377454,
+      "longitude": 6.161224,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 224,
+      "name": "Gelati Milano",
+      "latitude": 52.20804,
+      "longitude": 4.396476,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 225,
+      "name": "Gelato Buon Gusto",
+      "latitude": 51.322003,
+      "longitude": 5.358704,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 226,
+      "name": "Gelato Burano",
+      "latitude": 52.086719,
+      "longitude": 5.0856,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 227,
+      "name": "Gelato Burano",
+      "latitude": 52.104512,
+      "longitude": 5.183852,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 228,
+      "name": "Gelato Burano",
+      "latitude": 52.128643,
+      "longitude": 5.207533,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 229,
+      "name": "Gelato Burano",
+      "latitude": 52.139734,
+      "longitude": 5.039091,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 230,
+      "name": "Gelato Cadde",
+      "latitude": 52.153885,
+      "longitude": 5.384886,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 231,
+      "name": "Gelato Queno",
+      "latitude": 52.042223,
+      "longitude": 6.616855,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 232,
+      "name": "Gelato di casa",
+      "latitude": 51.12952,
+      "longitude": 5.944966,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 233,
+      "name": "Geletaria Delfino",
+      "latitude": 52.116735,
+      "longitude": 4.284802,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 234,
+      "name": "Gemelli",
+      "latitude": 52.200055,
+      "longitude": 5.959464,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 235,
+      "name": "Ghiani",
+      "latitude": 51.834552,
+      "longitude": 5.880509,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 236,
+      "name": "Gia Gelato",
+      "latitude": 52.302013,
+      "longitude": 4.84647,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 237,
+      "name": "Gie Gelato",
+      "latitude": 51.931213,
+      "longitude": 4.460508,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 238,
+      "name": "Gijzen",
+      "latitude": 51.534173,
+      "longitude": 4.596225,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 239,
+      "name": "Gimmerse Verleiding",
+      "latitude": 51.557971,
+      "longitude": 5.682585,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 240,
+      "name": "Gio's Velp",
+      "latitude": 51.99571,
+      "longitude": 5.974469,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 241,
+      "name": "Giraudi",
+      "latitude": 52.372399,
+      "longitude": 4.526965,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 242,
+      "name": "Goed Toeven",
+      "latitude": 51.345562,
+      "longitude": 5.225645,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 243,
+      "name": "Good Vibes",
+      "latitude": 52.047845,
+      "longitude": 4.292073,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 244,
+      "name": "Gracy's",
+      "latitude": 52.204242,
+      "longitude": 4.394742,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 245,
+      "name": "Gulle Goedzak",
+      "latitude": 52.365478,
+      "longitude": 6.46085,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 246,
+      "name": "Gusti Factory",
+      "latitude": 51.57788,
+      "longitude": 4.779609,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 247,
+      "name": "Happiness",
+      "latitude": 52.372549,
+      "longitude": 4.894181,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 248,
+      "name": "Heere IJs",
+      "latitude": 52.705205,
+      "longitude": 4.692117,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 249,
+      "name": "Helenahoeve",
+      "latitude": 50.773974,
+      "longitude": 5.855083,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 250,
+      "name": "Helvacı Ali Denhaag",
+      "latitude": 52.066591,
+      "longitude": 4.284134,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 251,
+      "name": "Herberg Swaen ijssallon",
+      "latitude": 52.464176,
+      "longitude": 6.495424,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 252,
+      "name": "Het IJs & Taartmoment",
+      "latitude": 51.694839,
+      "longitude": 5.219149,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 253,
+      "name": "Het IJs Atelier",
+      "latitude": 52.407962,
+      "longitude": 6.897123,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 254,
+      "name": "Het IJsbuffet van Schoonhoven",
+      "latitude": 51.944134,
+      "longitude": 4.85165,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 255,
+      "name": "Het IJsdomein",
+      "latitude": 52.090583,
+      "longitude": 5.120544,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 256,
+      "name": "Het IJskabinet",
+      "latitude": 52.079651,
+      "longitude": 4.309997,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 257,
+      "name": "Het IJsparadijs",
+      "latitude": 52.412665,
+      "longitude": 4.651269,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 258,
+      "name": "Het IJsplein",
+      "latitude": 52.213926,
+      "longitude": 5.975114,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 259,
+      "name": "Hoeve Willem III",
+      "latitude": 51.419646,
+      "longitude": 5.894541,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 260,
+      "name": "I Fiori",
+      "latitude": 51.974017,
+      "longitude": 4.254894,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 261,
+      "name": "IIskâld",
+      "latitude": 53.028925,
+      "longitude": 5.658813,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 262,
+      "name": "IJS & MORE",
+      "latitude": 51.937824,
+      "longitude": 6.128756,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 263,
+      "name": "IJS Fantasy Uitgeest",
+      "latitude": 52.524138,
+      "longitude": 4.710092,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 264,
+      "name": "IJSmo",
+      "latitude": 51.735297,
+      "longitude": 4.434168,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 265,
+      "name": "IJs & Zo",
+      "latitude": 51.831519,
+      "longitude": 5.587303,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 266,
+      "name": "IJs & Zo",
+      "latitude": 51.986344,
+      "longitude": 6.026776,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 267,
+      "name": "IJs & Zo",
+      "latitude": 52.01079,
+      "longitude": 4.362988,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 268,
+      "name": "IJs & Zo",
+      "latitude": 52.079965,
+      "longitude": 4.398323,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 269,
+      "name": "IJs & Zo",
+      "latitude": 52.144137,
+      "longitude": 4.393451,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 270,
+      "name": "IJs & Zo",
+      "latitude": 52.365218,
+      "longitude": 6.460847,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 271,
+      "name": "IJs Krimpen",
+      "latitude": 51.916011,
+      "longitude": 4.588971,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 272,
+      "name": "IJs Paradijs",
+      "latitude": 52.043891,
+      "longitude": 4.259564,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 273,
+      "name": "IJs bij Marc",
+      "latitude": 51.823006,
+      "longitude": 3.908647,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 274,
+      "name": "IJs bij Pinoccio",
+      "latitude": 52.670046,
+      "longitude": 4.703326,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 275,
+      "name": "IJs bij de Brug",
+      "latitude": 51.955819,
+      "longitude": 4.518058,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 276,
+      "name": "IJs de Saks",
+      "latitude": 53.03753,
+      "longitude": 6.400649,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 277,
+      "name": "IJs van Capri",
+      "latitude": 51.650466,
+      "longitude": 3.919696,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 278,
+      "name": "IJs van Co",
+      "latitude": 52.118786,
+      "longitude": 5.882694,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 279,
+      "name": "IJs van Kruik",
+      "latitude": 51.759897,
+      "longitude": 4.163735,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 280,
+      "name": "IJs van Matthijs",
+      "latitude": 52.160818,
+      "longitude": 4.488705,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 281,
+      "name": "IJs van Oost",
+      "latitude": 52.363869,
+      "longitude": 4.934706,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 282,
+      "name": "IJs van Vitelli",
+      "latitude": 52.162352,
+      "longitude": 5.379298,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 283,
+      "name": "IJs-sol",
+      "latitude": 52.044373,
+      "longitude": 6.107062,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 284,
+      "name": "IJsCocker",
+      "latitude": 52.359696,
+      "longitude": 4.654454,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 285,
+      "name": "IJsbaas",
+      "latitude": 50.815157,
+      "longitude": 5.844748,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 286,
+      "name": "IJsbar 80",
+      "latitude": 51.638683,
+      "longitude": 5.349179,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 287,
+      "name": "IJsboerderij 't Dommerholt",
+      "latitude": 52.107834,
+      "longitude": 6.520978,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 288,
+      "name": "IJsboerderij Catsop",
+      "latitude": 50.93974,
+      "longitude": 5.766984,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 289,
+      "name": "IJsboerderij De Gerdahoeve",
+      "latitude": 51.485521,
+      "longitude": 4.499742,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 290,
+      "name": "IJsboerderij De Koehoorn",
+      "latitude": 51.526858,
+      "longitude": 3.527651,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 291,
+      "name": "IJsboerderij De Schoonheuvel",
+      "latitude": 51.766294,
+      "longitude": 5.241868,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 292,
+      "name": "IJsboerderij De Veldweide",
+      "latitude": 51.412449,
+      "longitude": 6.021979,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 293,
+      "name": "IJsboerderij Den Boer",
+      "latitude": 51.86748,
+      "longitude": 4.907972,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 294,
+      "name": "IJsboerderij Foxhill",
+      "latitude": 51.799772,
+      "longitude": 5.947453,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 295,
+      "name": "IJsboerderij Heidehoeve",
+      "latitude": 51.556755,
+      "longitude": 4.686141,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 296,
+      "name": "IJsboerderij Labora",
+      "latitude": 53.144036,
+      "longitude": 4.866308,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 297,
+      "name": "IJsboerderij Middelbroeck",
+      "latitude": 51.883188,
+      "longitude": 4.848418,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 298,
+      "name": "IJsboerderij Middelbroeck",
+      "latitude": 51.929521,
+      "longitude": 4.987893,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 299,
+      "name": "IJsboerderij Noordwolde",
+      "latitude": 53.285418,
+      "longitude": 6.569353,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 300,
+      "name": "IJsboerderij Vrederust",
+      "latitude": 52.036642,
+      "longitude": 5.286052,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 301,
+      "name": "IJsboerderij de Grens",
+      "latitude": 51.552642,
+      "longitude": 4.864254,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 302,
+      "name": "IJsboerderij de Onnerpolder",
+      "latitude": 53.150954,
+      "longitude": 6.646577,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 303,
+      "name": "IJsboerke",
+      "latitude": 50.755077,
+      "longitude": 6.020229,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 304,
+      "name": "IJsboet De Waag Texel",
+      "latitude": 53.054327,
+      "longitude": 4.797151,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 305,
+      "name": "IJsboutique Groko",
+      "latitude": 52.243479,
+      "longitude": 4.430021,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 306,
+      "name": "IJscafe Antonio",
+      "latitude": 52.43325,
+      "longitude": 4.997907,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 307,
+      "name": "IJscafe da Benito",
+      "latitude": 52.3994,
+      "longitude": 4.644003,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 308,
+      "name": "IJscafé Danice",
+      "latitude": 52.15915,
+      "longitude": 4.527809,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 309,
+      "name": "IJscafé Danice",
+      "latitude": 52.159206,
+      "longitude": 4.491264,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 310,
+      "name": "IJscafé Danice",
+      "latitude": 52.163484,
+      "longitude": 4.532492,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 311,
+      "name": "IJscafé Gelamio",
+      "latitude": 50.969087,
+      "longitude": 5.765726,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 312,
+      "name": "IJscafé Soet",
+      "latitude": 52.371606,
+      "longitude": 4.618236,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 313,
+      "name": "IJsclusief",
+      "latitude": 52.005228,
+      "longitude": 6.03578,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 314,
+      "name": "IJsco Fantastico",
+      "latitude": 51.369571,
+      "longitude": 6.164354,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 315,
+      "name": "IJscuypje",
+      "latitude": 51.925022,
+      "longitude": 4.468988,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 316,
+      "name": "IJscuypje",
+      "latitude": 52.223771,
+      "longitude": 5.177345,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 317,
+      "name": "IJscuypje",
+      "latitude": 52.303391,
+      "longitude": 4.861758,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 318,
+      "name": "IJscuypje",
+      "latitude": 52.337488,
+      "longitude": 4.966611,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 319,
+      "name": "IJscuypje",
+      "latitude": 52.351212,
+      "longitude": 4.856517,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 320,
+      "name": "IJscuypje",
+      "latitude": 52.352243,
+      "longitude": 5.007446,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 321,
+      "name": "IJscuypje",
+      "latitude": 52.352984,
+      "longitude": 4.932182,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 322,
+      "name": "IJscuypje",
+      "latitude": 52.355866,
+      "longitude": 4.893052,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 323,
+      "name": "IJscuypje",
+      "latitude": 52.355976,
+      "longitude": 4.911966,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 324,
+      "name": "IJscuypje",
+      "latitude": 52.363898,
+      "longitude": 4.937481,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 325,
+      "name": "IJscuypje",
+      "latitude": 52.366843,
+      "longitude": 4.911936,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 326,
+      "name": "IJscuypje",
+      "latitude": 52.367853,
+      "longitude": 4.891091,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 327,
+      "name": "IJscuypje",
+      "latitude": 52.369863,
+      "longitude": 4.850618,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 328,
+      "name": "IJscuypje",
+      "latitude": 52.370402,
+      "longitude": 4.882398,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 329,
+      "name": "IJscuypje",
+      "latitude": 52.371333,
+      "longitude": 4.871465,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 330,
+      "name": "IJscuypje",
+      "latitude": 52.37305,
+      "longitude": 4.838218,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 331,
+      "name": "IJscuypje",
+      "latitude": 52.373796,
+      "longitude": 4.938724,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 332,
+      "name": "IJscuypje",
+      "latitude": 52.378751,
+      "longitude": 4.900573,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 333,
+      "name": "IJscuypje",
+      "latitude": 52.386405,
+      "longitude": 4.872388,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 334,
+      "name": "IJscuypje",
+      "latitude": 52.401938,
+      "longitude": 4.890849,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 335,
+      "name": "IJscuypje",
+      "latitude": 52.458265,
+      "longitude": 4.615849,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 336,
+      "name": "IJscuypje",
+      "latitude": 52.494478,
+      "longitude": 4.787547,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 337,
+      "name": "IJsfabriek de Noordpool",
+      "latitude": 52.698909,
+      "longitude": 6.86726,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 338,
+      "name": "IJsfabrique",
+      "latitude": 52.479786,
+      "longitude": 4.65527,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 339,
+      "name": "IJshaven",
+      "latitude": 52.161545,
+      "longitude": 4.50149,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 340,
+      "name": "IJshuys De Ster",
+      "latitude": 52.295305,
+      "longitude": 5.164299,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 341,
+      "name": "IJskiosk Majaka",
+      "latitude": 52.782568,
+      "longitude": 6.89019,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 342,
+      "name": "IJskoh",
+      "latitude": 52.357975,
+      "longitude": 4.990619,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 343,
+      "name": "IJskootje",
+      "latitude": 51.812801,
+      "longitude": 5.244781,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 344,
+      "name": "IJskoud bij de Branderie",
+      "latitude": 52.218251,
+      "longitude": 6.895885,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 345,
+      "name": "IJskoud de Beste",
+      "latitude": 52.349479,
+      "longitude": 4.827819,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 346,
+      "name": "IJskoudum",
+      "latitude": 52.914881,
+      "longitude": 5.450087,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 347,
+      "name": "IJsmakerij Schep",
+      "latitude": 52.041604,
+      "longitude": 5.076346,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 348,
+      "name": "IJsmakers",
+      "latitude": 52.646623,
+      "longitude": 6.207904,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 349,
+      "name": "IJsmakers",
+      "latitude": 52.699334,
+      "longitude": 6.189128,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 350,
+      "name": "IJsmakers",
+      "latitude": 52.722497,
+      "longitude": 6.078214,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 351,
+      "name": "IJsmakers",
+      "latitude": 52.786693,
+      "longitude": 6.116011,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 352,
+      "name": "IJspaleis Bergen",
+      "latitude": 52.669877,
+      "longitude": 4.701073,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 353,
+      "name": "IJspaleis Driehuis",
+      "latitude": 52.448872,
+      "longitude": 4.637956,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 354,
+      "name": "IJsparadijs",
+      "latitude": 52.957749,
+      "longitude": 4.765916,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 355,
+      "name": "IJspressi",
+      "latitude": 52.34673,
+      "longitude": 5.149922,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 356,
+      "name": "IJspret",
+      "latitude": 52.342319,
+      "longitude": 4.906432,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 357,
+      "name": "IJssalon",
+      "latitude": 52.434032,
+      "longitude": 6.438556,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 358,
+      "name": "IJssalon 'Snoepers'",
+      "latitude": 52.640129,
+      "longitude": 6.070819,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 359,
+      "name": "IJssalon 't Hoekje",
+      "latitude": 52.226969,
+      "longitude": 6.872784,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 360,
+      "name": "IJssalon 't Melkmeisje",
+      "latitude": 52.237973,
+      "longitude": 5.609244,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 361,
+      "name": "IJssalon - Belicio Cheatday",
+      "latitude": 51.58743,
+      "longitude": 4.776408,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 362,
+      "name": "IJssalon Antonio",
+      "latitude": 51.968853,
+      "longitude": 5.668184,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 363,
+      "name": "IJssalon Bemer",
+      "latitude": 52.187854,
+      "longitude": 5.283372,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 364,
+      "name": "IJssalon Bij Ons",
+      "latitude": 52.019093,
+      "longitude": 4.431765,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 365,
+      "name": "IJssalon Bij Zegers",
+      "latitude": 51.332578,
+      "longitude": 3.831736,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 366,
+      "name": "IJssalon Bij de Sluis",
+      "latitude": 53.212858,
+      "longitude": 6.558263,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 367,
+      "name": "IJssalon Buongiorno",
+      "latitude": 51.979453,
+      "longitude": 5.908601,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 368,
+      "name": "IJssalon By ús Thús",
+      "latitude": 52.992501,
+      "longitude": 5.547874,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 369,
+      "name": "IJssalon Cadore",
+      "latitude": 52.234057,
+      "longitude": 4.835148,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 370,
+      "name": "IJssalon Cadore",
+      "latitude": 52.260609,
+      "longitude": 4.554625,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 371,
+      "name": "IJssalon Cadore",
+      "latitude": 52.294223,
+      "longitude": 4.580501,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 372,
+      "name": "IJssalon Catarina",
+      "latitude": 51.90983,
+      "longitude": 4.442407,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 373,
+      "name": "IJssalon Cicuto",
+      "latitude": 51.96719,
+      "longitude": 5.663836,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 374,
+      "name": "IJssalon Clevers",
+      "latitude": 50.898,
+      "longitude": 5.824147,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 375,
+      "name": "IJssalon Clevers",
+      "latitude": 50.993243,
+      "longitude": 5.825394,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 376,
+      "name": "IJssalon Clevers",
+      "latitude": 51.161729,
+      "longitude": 5.84211,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 377,
+      "name": "IJssalon Clevers",
+      "latitude": 51.250311,
+      "longitude": 5.89946,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 378,
+      "name": "IJssalon Clevers",
+      "latitude": 51.291923,
+      "longitude": 6.058693,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 379,
+      "name": "IJssalon Clevers",
+      "latitude": 51.419698,
+      "longitude": 6.147288,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 380,
+      "name": "IJssalon Clevers",
+      "latitude": 51.47382,
+      "longitude": 6.179461,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 381,
+      "name": "IJssalon Clevers",
+      "latitude": 51.495197,
+      "longitude": 6.092967,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 382,
+      "name": "IJssalon Clevers",
+      "latitude": 51.569658,
+      "longitude": 5.948245,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 383,
+      "name": "IJssalon Clevers",
+      "latitude": 51.73664,
+      "longitude": 5.919835,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 384,
+      "name": "IJssalon Clevers",
+      "latitude": 51.865146,
+      "longitude": 6.05439,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 385,
+      "name": "IJssalon Danice",
+      "latitude": 52.08879,
+      "longitude": 4.38487,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 386,
+      "name": "IJssalon De Harmonie",
+      "latitude": 52.300826,
+      "longitude": 6.757955,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 387,
+      "name": "IJssalon De Hoop",
+      "latitude": 52.273613,
+      "longitude": 5.243346,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 388,
+      "name": "IJssalon De Iestied",
+      "latitude": 50.907,
+      "longitude": 6.02676,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 389,
+      "name": "IJssalon De Lorenzo",
+      "latitude": 52.07751,
+      "longitude": 4.269997,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 390,
+      "name": "IJssalon De Mient",
+      "latitude": 52.630718,
+      "longitude": 4.749951,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 391,
+      "name": "IJssalon De Mient",
+      "latitude": 52.640738,
+      "longitude": 5.059639,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 392,
+      "name": "IJssalon De Singel",
+      "latitude": 52.215109,
+      "longitude": 6.909496,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 393,
+      "name": "IJssalon De Zeuten Inval",
+      "latitude": 51.414782,
+      "longitude": 6.165388,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 394,
+      "name": "IJssalon Dolomiti",
+      "latitude": 52.276053,
+      "longitude": 5.159444,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 395,
+      "name": "IJssalon Don Gelato",
+      "latitude": 52.772644,
+      "longitude": 5.106659,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 396,
+      "name": "IJssalon Doppio",
+      "latitude": 51.924495,
+      "longitude": 4.510042,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 397,
+      "name": "IJssalon Eatalia",
+      "latitude": 53.034042,
+      "longitude": 5.665792,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 398,
+      "name": "IJssalon Enzo",
+      "latitude": 51.700972,
+      "longitude": 4.859217,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 399,
+      "name": "IJssalon Fanielje",
+      "latitude": 52.079931,
+      "longitude": 4.398243,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 400,
+      "name": "IJssalon Fietje",
+      "latitude": 52.040608,
+      "longitude": 4.36873,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 401,
+      "name": "IJssalon Filippo",
+      "latitude": 51.930555,
+      "longitude": 4.587242,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 402,
+      "name": "IJssalon Fresco",
+      "latitude": 51.395961,
+      "longitude": 5.4767,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 403,
+      "name": "IJssalon Fresco",
+      "latitude": 51.497704,
+      "longitude": 3.608876,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 404,
+      "name": "IJssalon Gewaagd",
+      "latitude": 52.634251,
+      "longitude": 4.749825,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 405,
+      "name": "IJssalon Hans en Grietje",
+      "latitude": 52.03812,
+      "longitude": 5.655809,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 406,
+      "name": "IJssalon Hartentroef",
+      "latitude": 51.385636,
+      "longitude": 5.712325,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 407,
+      "name": "IJssalon Heinink",
+      "latitude": 52.209942,
+      "longitude": 6.880642,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 408,
+      "name": "IJssalon Hemels",
+      "latitude": 51.854965,
+      "longitude": 4.539351,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 409,
+      "name": "IJssalon Hendrick",
+      "latitude": 52.013577,
+      "longitude": 6.137076,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 410,
+      "name": "IJssalon Hygge",
+      "latitude": 51.811572,
+      "longitude": 5.249829,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 411,
+      "name": "IJssalon ICE@SEA",
+      "latitude": 51.732084,
+      "longitude": 3.772968,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 412,
+      "name": "IJssalon IJskoud",
+      "latitude": 52.439899,
+      "longitude": 4.822927,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 413,
+      "name": "IJssalon IJskoud de Beste",
+      "latitude": 52.390547,
+      "longitude": 4.924308,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 414,
+      "name": "IJssalon IJsplein",
+      "latitude": 52.633076,
+      "longitude": 4.744132,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 415,
+      "name": "IJssalon Icy",
+      "latitude": 51.81417,
+      "longitude": 4.895316,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 416,
+      "name": "IJssalon Italia",
+      "latitude": 50.771524,
+      "longitude": 6.022714,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 417,
+      "name": "IJssalon Italia",
+      "latitude": 52.034452,
+      "longitude": 5.168971,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 418,
+      "name": "IJssalon Italia",
+      "latitude": 53.135803,
+      "longitude": 6.432399,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 419,
+      "name": "IJssalon Jacino",
+      "latitude": 51.698674,
+      "longitude": 3.742237,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 420,
+      "name": "IJssalon Jo&Zo",
+      "latitude": 52.702153,
+      "longitude": 4.948168,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 421,
+      "name": "IJssalon Jumbo",
+      "latitude": 51.731994,
+      "longitude": 3.772091,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 422,
+      "name": "IJssalon Jut & Jul",
+      "latitude": 52.406712,
+      "longitude": 6.781929,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 423,
+      "name": "IJssalon Kees",
+      "latitude": 51.415108,
+      "longitude": 5.556752,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 424,
+      "name": "IJssalon Kees",
+      "latitude": 51.437152,
+      "longitude": 5.481151,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 425,
+      "name": "IJssalon Korenbloem Schaafsma",
+      "latitude": 53.187066,
+      "longitude": 5.543767,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 426,
+      "name": "IJssalon LIC",
+      "latitude": 51.957975,
+      "longitude": 5.224664,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 427,
+      "name": "IJssalon LKKR!!!",
+      "latitude": 51.993964,
+      "longitude": 4.209462,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 428,
+      "name": "IJssalon La Calamita",
+      "latitude": 51.948481,
+      "longitude": 6.023294,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 429,
+      "name": "IJssalon La Cosina",
+      "latitude": 51.972853,
+      "longitude": 5.733816,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 430,
+      "name": "IJssalon La Dolce",
+      "latitude": 52.660922,
+      "longitude": 6.741016,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 431,
+      "name": "IJssalon La Dolce",
+      "latitude": 52.925728,
+      "longitude": 6.789841,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 432,
+      "name": "IJssalon La Farfalla",
+      "latitude": 51.995587,
+      "longitude": 5.973827,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 433,
+      "name": "IJssalon La Fontana",
+      "latitude": 51.996728,
+      "longitude": 5.675602,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 434,
+      "name": "IJssalon La Toscana",
+      "latitude": 51.511805,
+      "longitude": 5.390485,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 435,
+      "name": "IJssalon La Toscana",
+      "latitude": 51.616503,
+      "longitude": 5.43869,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 436,
+      "name": "IJssalon Likkie",
+      "latitude": 52.262184,
+      "longitude": 4.493293,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 437,
+      "name": "IJssalon Loeff",
+      "latitude": 51.890196,
+      "longitude": 5.608709,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 438,
+      "name": "IJssalon Lucca",
+      "latitude": 52.227655,
+      "longitude": 4.524235,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 439,
+      "name": "IJssalon Luciano",
+      "latitude": 51.987887,
+      "longitude": 4.345861,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 440,
+      "name": "IJssalon Luciano",
+      "latitude": 52.011599,
+      "longitude": 4.358058,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 441,
+      "name": "IJssalon Luciano",
+      "latitude": 52.013796,
+      "longitude": 4.710847,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 442,
+      "name": "IJssalon Luciano",
+      "latitude": 52.086278,
+      "longitude": 4.884996,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 443,
+      "name": "IJssalon Luciano",
+      "latitude": 52.152013,
+      "longitude": 4.452173,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 444,
+      "name": "IJssalon Luciano",
+      "latitude": 52.30672,
+      "longitude": 4.638324,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 445,
+      "name": "IJssalon Luciano",
+      "latitude": 52.359797,
+      "longitude": 4.603985,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 446,
+      "name": "IJssalon Luciano",
+      "latitude": 52.372973,
+      "longitude": 4.530453,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 447,
+      "name": "IJssalon Luciano",
+      "latitude": 52.391092,
+      "longitude": 4.609607,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 448,
+      "name": "IJssalon MIN12",
+      "latitude": 53.295923,
+      "longitude": 5.06913,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 449,
+      "name": "IJssalon Macellaio",
+      "latitude": 51.874725,
+      "longitude": 6.245083,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 450,
+      "name": "IJssalon Maddey's Halsteren",
+      "latitude": 51.522309,
+      "longitude": 4.272253,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 451,
+      "name": "IJssalon Marena",
+      "latitude": 52.559857,
+      "longitude": 5.915518,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 452,
+      "name": "IJssalon Matteucci",
+      "latitude": 51.616605,
+      "longitude": 5.542013,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 453,
+      "name": "IJssalon Maystro",
+      "latitude": 51.680236,
+      "longitude": 4.792847,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 454,
+      "name": "IJssalon Melbalino",
+      "latitude": 52.085541,
+      "longitude": 4.335858,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 455,
+      "name": "IJssalon Nino",
+      "latitude": 51.90084,
+      "longitude": 4.499811,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 456,
+      "name": "IJssalon Oberije",
+      "latitude": 50.942879,
+      "longitude": 5.969848,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 457,
+      "name": "IJssalon Ohlala",
+      "latitude": 51.882317,
+      "longitude": 5.515076,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 458,
+      "name": "IJssalon PICOBELLO",
+      "latitude": 52.78667,
+      "longitude": 4.798188,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 459,
+      "name": "IJssalon Papillon",
+      "latitude": 51.366832,
+      "longitude": 6.151395,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 460,
+      "name": "IJssalon Paveé",
+      "latitude": 51.894893,
+      "longitude": 4.486826,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 461,
+      "name": "IJssalon Pico Bello",
+      "latitude": 52.374892,
+      "longitude": 5.782326,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 462,
+      "name": "IJssalon Pink Almond",
+      "latitude": 52.065124,
+      "longitude": 4.252944,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 463,
+      "name": "IJssalon Pinoccio",
+      "latitude": 52.599907,
+      "longitude": 4.703152,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 464,
+      "name": "IJssalon Pistacchio",
+      "latitude": 52.091987,
+      "longitude": 5.117412,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 465,
+      "name": "IJssalon Pistache",
+      "latitude": 52.213742,
+      "longitude": 5.168052,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 466,
+      "name": "IJssalon Rembrandt",
+      "latitude": 51.647416,
+      "longitude": 5.950958,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 467,
+      "name": "IJssalon Roberto",
+      "latitude": 51.972317,
+      "longitude": 6.720079,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 468,
+      "name": "IJssalon Roberto",
+      "latitude": 52.023462,
+      "longitude": 4.871887,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 469,
+      "name": "IJssalon Roberto",
+      "latitude": 52.348771,
+      "longitude": 5.983707,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 470,
+      "name": "IJssalon Roethof",
+      "latitude": 52.144584,
+      "longitude": 5.390391,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 471,
+      "name": "IJssalon Rozeboom",
+      "latitude": 52.288839,
+      "longitude": 5.968114,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 472,
+      "name": "IJssalon San Marco",
+      "latitude": 51.432607,
+      "longitude": 5.395497,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 473,
+      "name": "IJssalon Scooter",
+      "latitude": 52.84448,
+      "longitude": 5.710722,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 474,
+      "name": "IJssalon Smaak",
+      "latitude": 52.855984,
+      "longitude": 6.319898,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 475,
+      "name": "IJssalon Stientje",
+      "latitude": 52.158909,
+      "longitude": 5.963675,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 476,
+      "name": "IJssalon Strijkert",
+      "latitude": 52.44706,
+      "longitude": 5.898204,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 477,
+      "name": "IJssalon Tofani",
+      "latitude": 52.371856,
+      "longitude": 4.899071,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 478,
+      "name": "IJssalon Torino",
+      "latitude": 52.085872,
+      "longitude": 4.887532,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 479,
+      "name": "IJssalon Torino",
+      "latitude": 52.299916,
+      "longitude": 5.618261,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 480,
+      "name": "IJssalon TreMonti",
+      "latitude": 52.05416,
+      "longitude": 5.288499,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 481,
+      "name": "IJssalon Verdonk",
+      "latitude": 52.51115,
+      "longitude": 4.667904,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 482,
+      "name": "IJssalon Via Via",
+      "latitude": 51.644511,
+      "longitude": 4.86125,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 483,
+      "name": "IJssalon Vincenzo",
+      "latitude": 51.845034,
+      "longitude": 5.864461,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 484,
+      "name": "IJssalon Vivaldi",
+      "latitude": 52.700521,
+      "longitude": 5.292361,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 485,
+      "name": "IJssalon Vivaldi Bovenkarspel",
+      "latitude": 52.696027,
+      "longitude": 5.234365,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 486,
+      "name": "IJssalon Vivaldi Hoorn",
+      "latitude": 52.642583,
+      "longitude": 5.056337,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 487,
+      "name": "IJssalon Vorst",
+      "latitude": 52.086854,
+      "longitude": 5.142639,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 488,
+      "name": "IJssalon W. Laan",
+      "latitude": 52.63131,
+      "longitude": 4.743832,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 489,
+      "name": "IJssalon Wendy",
+      "latitude": 52.764094,
+      "longitude": 6.359221,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 490,
+      "name": "IJssalon Willem Honingh",
+      "latitude": 52.488031,
+      "longitude": 5.058695,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 491,
+      "name": "IJssalon Wim Laan",
+      "latitude": 52.958656,
+      "longitude": 4.762525,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 492,
+      "name": "IJssalon ZAZU",
+      "latitude": 52.027766,
+      "longitude": 5.558075,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 493,
+      "name": "IJssalon ZeYa",
+      "latitude": 51.920677,
+      "longitude": 4.485062,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 494,
+      "name": "IJssalon Zoet",
+      "latitude": 52.10543,
+      "longitude": 6.065071,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 495,
+      "name": "IJssalon ci Vediamo",
+      "latitude": 52.596162,
+      "longitude": 4.654952,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 496,
+      "name": "IJssalon de IJskluis",
+      "latitude": 52.067403,
+      "longitude": 5.201118,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 497,
+      "name": "IJssalon de Schepper",
+      "latitude": 52.897847,
+      "longitude": 4.753417,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 498,
+      "name": "IJssalon de Spatel",
+      "latitude": 52.25412,
+      "longitude": 5.377876,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 499,
+      "name": "IJssalon de Zon",
+      "latitude": 51.854109,
+      "longitude": 5.865798,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 500,
+      "name": "IJssalon en Chocolaterie van der Bijl",
+      "latitude": 53.280255,
+      "longitude": 6.151333,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 501,
+      "name": "IJssalon onwIJS",
+      "latitude": 50.876161,
+      "longitude": 5.982452,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 502,
+      "name": "IJsschuur Jolink",
+      "latitude": 52.086815,
+      "longitude": 6.156115,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 503,
+      "name": "IJstijd",
+      "latitude": 51.550143,
+      "longitude": 5.069512,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 504,
+      "name": "IJstijd",
+      "latitude": 52.300154,
+      "longitude": 5.622237,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 505,
+      "name": "IJstoren",
+      "latitude": 51.574375,
+      "longitude": 6.085125,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 506,
+      "name": "IJswagen Gortel Rozeboom",
+      "latitude": 52.316054,
+      "longitude": 5.90069,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 507,
+      "name": "IJswinkel",
+      "latitude": 52.562838,
+      "longitude": 4.631167,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 508,
+      "name": "IJswinkel de Heerlijkheid",
+      "latitude": 51.911343,
+      "longitude": 5.333396,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 509,
+      "name": "IL Gusto",
+      "latitude": 52.384769,
+      "longitude": 4.851376,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 510,
+      "name": "Ice & More",
+      "latitude": 51.70986,
+      "longitude": 4.811565,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 511,
+      "name": "Ice Bakery",
+      "latitude": 52.371724,
+      "longitude": 4.896466,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 512,
+      "name": "Ice Bakery",
+      "latitude": 52.373616,
+      "longitude": 4.892786,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 513,
+      "name": "Ice&Co",
+      "latitude": 52.371302,
+      "longitude": 5.218526,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 514,
+      "name": "IceKootje",
+      "latitude": 51.967376,
+      "longitude": 5.665649,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 515,
+      "name": "Iiskâld",
+      "latitude": 52.661106,
+      "longitude": 5.601712,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 516,
+      "name": "Iiskâld",
+      "latitude": 52.844263,
+      "longitude": 5.710486,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 517,
+      "name": "Il Circo",
+      "latitude": 51.487094,
+      "longitude": 5.615825,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 518,
+      "name": "Il Primo",
+      "latitude": 51.478862,
+      "longitude": 5.652064,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 519,
+      "name": "Intelligentia Ice by Jeffrey",
+      "latitude": 51.447399,
+      "longitude": 5.456376,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 520,
+      "name": "Intermezzo",
+      "latitude": 51.556171,
+      "longitude": 5.091389,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 521,
+      "name": "Intermezzo",
+      "latitude": 51.559288,
+      "longitude": 5.090809,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 522,
+      "name": "JEF",
+      "latitude": 50.849384,
+      "longitude": 5.698264,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 523,
+      "name": "Jan Pieter IJsje",
+      "latitude": 52.362712,
+      "longitude": 4.864193,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 524,
+      "name": "Janssen's IJssalon",
+      "latitude": 52.073495,
+      "longitude": 4.659042,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 525,
+      "name": "Jaya's",
+      "latitude": 51.84694,
+      "longitude": 4.498578,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 526,
+      "name": "Jaya's",
+      "latitude": 51.855212,
+      "longitude": 4.53994,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 527,
+      "name": "Jo's IJssalon",
+      "latitude": 51.285522,
+      "longitude": 6.086384,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 528,
+      "name": "Jolink",
+      "latitude": 52.213369,
+      "longitude": 5.957113,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 529,
+      "name": "Joris",
+      "latitude": 52.159184,
+      "longitude": 5.383185,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 530,
+      "name": "Joris",
+      "latitude": 52.160681,
+      "longitude": 5.388877,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 531,
+      "name": "Jut & Jul - ijs en zo",
+      "latitude": 52.412725,
+      "longitude": 6.627626,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 532,
+      "name": "KO IJssalon",
+      "latitude": 52.229969,
+      "longitude": 5.034189,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 533,
+      "name": "Kaap Hoorn",
+      "latitude": 52.96105,
+      "longitude": 4.769163,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 534,
+      "name": "Kaasboerderij Ameland",
+      "latitude": 53.441144,
+      "longitude": 5.63712,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 535,
+      "name": "Kasper Paul",
+      "latitude": 51.986637,
+      "longitude": 6.566296,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 536,
+      "name": "Koetje Kaat",
+      "latitude": 51.321554,
+      "longitude": 5.320229,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 537,
+      "name": "Kogeloog",
+      "latitude": 51.649531,
+      "longitude": 5.047858,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 538,
+      "name": "Krijn Verdoes",
+      "latitude": 52.20408,
+      "longitude": 4.395126,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 539,
+      "name": "L'Odore",
+      "latitude": 52.852558,
+      "longitude": 6.846832,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 540,
+      "name": "L'Opera Ice Mijdrecht",
+      "latitude": 52.208871,
+      "longitude": 4.866216,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 541,
+      "name": "LUCA IJssalon",
+      "latitude": 52.092928,
+      "longitude": 5.125303,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 542,
+      "name": "La Bella Vita",
+      "latitude": 51.485377,
+      "longitude": 5.135052,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 543,
+      "name": "La Bella Vita",
+      "latitude": 51.690554,
+      "longitude": 5.066048,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 544,
+      "name": "La Dame Blanche",
+      "latitude": 51.652201,
+      "longitude": 5.048345,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 545,
+      "name": "La Differenza",
+      "latitude": 51.938325,
+      "longitude": 5.942588,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 546,
+      "name": "La Piazza",
+      "latitude": 50.947484,
+      "longitude": 5.773976,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 547,
+      "name": "La Piazza",
+      "latitude": 52.028411,
+      "longitude": 5.082065,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 548,
+      "name": "La Piazza",
+      "latitude": 52.055353,
+      "longitude": 5.27602,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 549,
+      "name": "La Piazza",
+      "latitude": 52.083193,
+      "longitude": 5.123525,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 550,
+      "name": "La Piazza",
+      "latitude": 52.129459,
+      "longitude": 4.661009,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 551,
+      "name": "La Piazza More Than Ice",
+      "latitude": 50.889339,
+      "longitude": 5.975919,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 552,
+      "name": "La Saporita",
+      "latitude": 51.892206,
+      "longitude": 5.899535,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 553,
+      "name": "La Sorpresa",
+      "latitude": 51.917843,
+      "longitude": 4.397704,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 554,
+      "name": "La Spezia",
+      "latitude": 51.309401,
+      "longitude": 3.385185,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 555,
+      "name": "La Spezia",
+      "latitude": 51.377843,
+      "longitude": 3.388055,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 556,
+      "name": "La Toscana",
+      "latitude": 51.420068,
+      "longitude": 5.492568,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 557,
+      "name": "La Toscana",
+      "latitude": 51.423052,
+      "longitude": 5.499396,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 558,
+      "name": "La Toscana",
+      "latitude": 51.509771,
+      "longitude": 5.49247,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 559,
+      "name": "La Venezia",
+      "latitude": 51.811584,
+      "longitude": 4.669354,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 560,
+      "name": "La Venezia",
+      "latitude": 52.315249,
+      "longitude": 6.987393,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 561,
+      "name": "La Venezia",
+      "latitude": 53.20477,
+      "longitude": 5.8005,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 562,
+      "name": "La Vittoria",
+      "latitude": 51.686051,
+      "longitude": 5.131721,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 563,
+      "name": "La Vittoria",
+      "latitude": 51.716649,
+      "longitude": 5.362554,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 564,
+      "name": "Lavinia",
+      "latitude": 51.65936,
+      "longitude": 5.29793,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 565,
+      "name": "Lieke's IJs",
+      "latitude": 52.082647,
+      "longitude": 4.836081,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 566,
+      "name": "Lily's IJssalon",
+      "latitude": 53.13767,
+      "longitude": 6.431891,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 567,
+      "name": "Lisa's IJssalon",
+      "latitude": 52.564454,
+      "longitude": 4.737611,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 568,
+      "name": "Lorkeers",
+      "latitude": 52.3647,
+      "longitude": 6.460927,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 569,
+      "name": "Lorkeers",
+      "latitude": 52.390798,
+      "longitude": 6.448504,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 570,
+      "name": "LouLou Gelato",
+      "latitude": 52.054878,
+      "longitude": 4.653679,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 571,
+      "name": "Love It",
+      "latitude": 51.328757,
+      "longitude": 5.979938,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 572,
+      "name": "Luciano",
+      "latitude": 51.922335,
+      "longitude": 4.253972,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 573,
+      "name": "Luciano",
+      "latitude": 52.040632,
+      "longitude": 4.652402,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 574,
+      "name": "Luciano",
+      "latitude": 52.076337,
+      "longitude": 4.281833,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 575,
+      "name": "Luciano",
+      "latitude": 52.083249,
+      "longitude": 4.330774,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 576,
+      "name": "Luciano",
+      "latitude": 52.090325,
+      "longitude": 4.274638,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 577,
+      "name": "Luciano",
+      "latitude": 52.144791,
+      "longitude": 4.393799,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 578,
+      "name": "Luigi's IJssalon",
+      "latitude": 52.017941,
+      "longitude": 5.042265,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 579,
+      "name": "Luna Rossa",
+      "latitude": 50.847175,
+      "longitude": 5.694185,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 580,
+      "name": "Luna Rossa",
+      "latitude": 50.847355,
+      "longitude": 5.699352,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 581,
+      "name": "M'ijsjes",
+      "latitude": 51.827766,
+      "longitude": 5.927606,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 582,
+      "name": "MARIE biostrandkot",
+      "latitude": 51.59207,
+      "longitude": 3.609759,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 583,
+      "name": "MIN12",
+      "latitude": 52.259973,
+      "longitude": 4.554406,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 584,
+      "name": "Macellaio",
+      "latitude": 51.875812,
+      "longitude": 6.2453,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 585,
+      "name": "Maddey's",
+      "latitude": 51.533273,
+      "longitude": 4.455239,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 586,
+      "name": "Maestro Gelato",
+      "latitude": 51.502445,
+      "longitude": 3.891497,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 587,
+      "name": "Marcello Gelato",
+      "latitude": 52.007499,
+      "longitude": 4.199179,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 588,
+      "name": "Margje 24",
+      "latitude": 53.202936,
+      "longitude": 5.787788,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 589,
+      "name": "Marie's IJsboerderij",
+      "latitude": 50.918424,
+      "longitude": 6.062173,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 590,
+      "name": "Marinello",
+      "latitude": 52.078473,
+      "longitude": 4.314114,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 591,
+      "name": "Marques Espresso",
+      "latitude": 51.944781,
+      "longitude": 4.482473,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 592,
+      "name": "Mars!",
+      "latitude": 51.710611,
+      "longitude": 4.086261,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 593,
+      "name": "Martino IJs",
+      "latitude": 51.957803,
+      "longitude": 5.565211,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 594,
+      "name": "Martino IJs",
+      "latitude": 52.035577,
+      "longitude": 5.345275,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 595,
+      "name": "Marx O'Larry's",
+      "latitude": 52.482811,
+      "longitude": 4.652179,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 596,
+      "name": "Massimo Gelato",
+      "latitude": 52.331734,
+      "longitude": 4.875949,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 597,
+      "name": "Massimo Gelato",
+      "latitude": 52.352629,
+      "longitude": 4.894689,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 598,
+      "name": "Massimo Gelato",
+      "latitude": 52.354389,
+      "longitude": 4.92092,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 599,
+      "name": "Massimo Gelato",
+      "latitude": 52.368084,
+      "longitude": 4.866506,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 600,
+      "name": "Mazzoli",
+      "latitude": 52.155775,
+      "longitude": 5.390189,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 601,
+      "name": "Mercatu",
+      "latitude": 52.057401,
+      "longitude": 4.734775,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 602,
+      "name": "Mientjes ijs, thee & zoet",
+      "latitude": 51.357489,
+      "longitude": 4.393856,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 603,
+      "name": "Min 12",
+      "latitude": 53.032255,
+      "longitude": 5.662526,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 604,
+      "name": "Min 12",
+      "latitude": 53.201457,
+      "longitude": 5.797806,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 605,
+      "name": "Min12",
+      "latitude": 53.175233,
+      "longitude": 5.414144,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 606,
+      "name": "Miuz",
+      "latitude": 52.357805,
+      "longitude": 4.890676,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 607,
+      "name": "Miuz Gelato Artigianale",
+      "latitude": 52.362226,
+      "longitude": 4.874007,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 608,
+      "name": "Mo's IJssalon",
+      "latitude": 51.454922,
+      "longitude": 5.455048,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 609,
+      "name": "Moments IJssalon",
+      "latitude": 52.125428,
+      "longitude": 4.447879,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 610,
+      "name": "Monte Pelmo",
+      "latitude": 52.403947,
+      "longitude": 4.619741,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 611,
+      "name": "Monte Pelmo Cons. IJS fabriek",
+      "latitude": 52.377526,
+      "longitude": 4.881706,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 612,
+      "name": "Moto Delicato",
+      "latitude": 53.185255,
+      "longitude": 5.546373,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 613,
+      "name": "Multi-IJs",
+      "latitude": 52.508199,
+      "longitude": 4.948086,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 614,
+      "name": "Multi-ijs",
+      "latitude": 52.428749,
+      "longitude": 4.913484,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 615,
+      "name": "Multi-ijs",
+      "latitude": 52.50837,
+      "longitude": 4.947299,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 616,
+      "name": "Nelis' IJssalon",
+      "latitude": 52.308245,
+      "longitude": 5.040983,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 617,
+      "name": "Nemanja",
+      "latitude": 51.466338,
+      "longitude": 5.634406,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 618,
+      "name": "Niëns",
+      "latitude": 51.358071,
+      "longitude": 6.05248,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 619,
+      "name": "Nonas",
+      "latitude": 52.783048,
+      "longitude": 6.693284,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 620,
+      "name": "Norberto Lekkernijen",
+      "latitude": 51.504959,
+      "longitude": 3.889973,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 621,
+      "name": "OLA Swirl's",
+      "latitude": 52.622107,
+      "longitude": 6.564148,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 622,
+      "name": "Ola Happiness Station",
+      "latitude": 51.8864,
+      "longitude": 4.489541,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 623,
+      "name": "Ola Happiness Station",
+      "latitude": 51.886497,
+      "longitude": 4.490614,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 624,
+      "name": "Ola Happiness Station",
+      "latitude": 52.339686,
+      "longitude": 4.873416,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 625,
+      "name": "Olala Chocola",
+      "latitude": 51.5817,
+      "longitude": 4.777019,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 626,
+      "name": "Ollini",
+      "latitude": 52.053491,
+      "longitude": 4.236054,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 627,
+      "name": "Oops Fruit",
+      "latitude": 52.010243,
+      "longitude": 4.361729,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 628,
+      "name": "Opa Pino",
+      "latitude": 52.095702,
+      "longitude": 4.267131,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 629,
+      "name": "Otter",
+      "latitude": 52.307077,
+      "longitude": 6.517592,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 630,
+      "name": "Oublies",
+      "latitude": 51.879741,
+      "longitude": 5.837073,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 631,
+      "name": "PURO GELATO & CAFFE",
+      "latitude": 52.041738,
+      "longitude": 5.669842,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 632,
+      "name": "PUUR",
+      "latitude": 53.199662,
+      "longitude": 5.795786,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 633,
+      "name": "PUUR IJs & Chocolade",
+      "latitude": 53.107103,
+      "longitude": 6.098256,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 634,
+      "name": "Palazzo",
+      "latitude": 52.113631,
+      "longitude": 4.282715,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 635,
+      "name": "Paradiso",
+      "latitude": 52.350135,
+      "longitude": 5.61926,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 636,
+      "name": "Passi",
+      "latitude": 51.453599,
+      "longitude": 6.052159,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 637,
+      "name": "Patagonias",
+      "latitude": 52.295991,
+      "longitude": 4.862745,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 638,
+      "name": "Paul's IJs",
+      "latitude": 52.394338,
+      "longitude": 5.281316,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 639,
+      "name": "Paul's IJsboerderij",
+      "latitude": 50.841753,
+      "longitude": 5.888526,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 640,
+      "name": "Pavarotti Dolce",
+      "latitude": 52.006878,
+      "longitude": 4.35638,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 641,
+      "name": "Pavarotti Dolce",
+      "latitude": 52.061195,
+      "longitude": 4.492622,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 642,
+      "name": "Pavarotti Dolce",
+      "latitude": 52.087848,
+      "longitude": 4.382994,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 643,
+      "name": "Pavarotti Dolce",
+      "latitude": 52.157015,
+      "longitude": 4.493754,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 644,
+      "name": "Picobello Fresh",
+      "latitude": 51.918332,
+      "longitude": 4.478685,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 645,
+      "name": "Piet",
+      "latitude": 52.081853,
+      "longitude": 4.2988,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 646,
+      "name": "Pinky",
+      "latitude": 50.847952,
+      "longitude": 5.692735,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 647,
+      "name": "Pinocchio IJssalon",
+      "latitude": 52.701672,
+      "longitude": 4.695013,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 648,
+      "name": "Pisa",
+      "latitude": 51.926725,
+      "longitude": 6.075558,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 649,
+      "name": "Pont Neuf Ice Cream",
+      "latitude": 52.386663,
+      "longitude": 4.908835,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 650,
+      "name": "Poppenhuizenpaleis",
+      "latitude": 52.161841,
+      "longitude": 6.416838,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 651,
+      "name": "Porto Koffie en IJs",
+      "latitude": 51.552949,
+      "longitude": 5.099005,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 652,
+      "name": "Portofino",
+      "latitude": 52.083575,
+      "longitude": 5.621447,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 653,
+      "name": "Pura Vida",
+      "latitude": 52.433627,
+      "longitude": 6.832585,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 654,
+      "name": "Puur",
+      "latitude": 53.061539,
+      "longitude": 5.520258,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 655,
+      "name": "Puur & Passie",
+      "latitude": 52.618278,
+      "longitude": 4.624322,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 656,
+      "name": "Raffy Gelato",
+      "latitude": 51.555104,
+      "longitude": 5.08392,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 657,
+      "name": "Razzle",
+      "latitude": 52.091613,
+      "longitude": 5.115141,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 658,
+      "name": "Receptie Camping De Lage Werf",
+      "latitude": 51.698749,
+      "longitude": 4.265008,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 659,
+      "name": "Rembrandt Meesterlijk IJs",
+      "latitude": 52.266212,
+      "longitude": 4.749725,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 660,
+      "name": "Roberto's ijssalon",
+      "latitude": 52.157748,
+      "longitude": 4.49159,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 661,
+      "name": "Roma",
+      "latitude": 53.216889,
+      "longitude": 6.562276,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 662,
+      "name": "Ron Gastrobar Supersoft",
+      "latitude": 52.256183,
+      "longitude": 5.225289,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 663,
+      "name": "Ron IJssalon",
+      "latitude": 51.360286,
+      "longitude": 5.447962,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 664,
+      "name": "Room",
+      "latitude": 53.093369,
+      "longitude": 6.684943,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 665,
+      "name": "Rosaria`s IJssalon",
+      "latitude": 52.617535,
+      "longitude": 4.621322,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 666,
+      "name": "Rotterdammert",
+      "latitude": 51.909013,
+      "longitude": 4.479027,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 667,
+      "name": "Ruit Stroopwafels & IJs",
+      "latitude": 52.009944,
+      "longitude": 4.361049,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 668,
+      "name": "Rustpunt IJsboerderij 't Olde Pietepol",
+      "latitude": 51.924854,
+      "longitude": 6.656995,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 669,
+      "name": "Salento",
+      "latitude": 51.726023,
+      "longitude": 5.307365,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 670,
+      "name": "Saluto ijssalon",
+      "latitude": 52.72207,
+      "longitude": 4.666371,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 671,
+      "name": "San Remo",
+      "latitude": 52.37199,
+      "longitude": 4.527693,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 672,
+      "name": "Sapeto",
+      "latitude": 52.364779,
+      "longitude": 4.648009,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 673,
+      "name": "Scoobs & winstons",
+      "latitude": 52.631771,
+      "longitude": 4.74407,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 674,
+      "name": "Scoop",
+      "latitude": 51.961258,
+      "longitude": 4.505328,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 675,
+      "name": "Scoop",
+      "latitude": 53.096956,
+      "longitude": 5.839579,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 676,
+      "name": "Scoops",
+      "latitude": 51.565704,
+      "longitude": 3.552629,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 677,
+      "name": "Scoops Breda Frozen Yoghurt & Ice Cream",
+      "latitude": 51.588519,
+      "longitude": 4.778212,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 678,
+      "name": "Seatrendz Lifestyle",
+      "latitude": 51.377799,
+      "longitude": 3.387708,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 679,
+      "name": "Sebastiaan",
+      "latitude": 52.136498,
+      "longitude": 4.655743,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 680,
+      "name": "Shakespeare - The Milkshake Bar",
+      "latitude": 52.352745,
+      "longitude": 4.89208,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 681,
+      "name": "Sjamaan",
+      "latitude": 51.958221,
+      "longitude": 5.223433,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 682,
+      "name": "Smeets Handgemaakt IJs",
+      "latitude": 51.832809,
+      "longitude": 4.319277,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 683,
+      "name": "Smooth Fruit Therapy",
+      "latitude": 52.511804,
+      "longitude": 6.092864,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 684,
+      "name": "Smullies",
+      "latitude": 50.850052,
+      "longitude": 5.711774,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 685,
+      "name": "So What",
+      "latitude": 53.075386,
+      "longitude": 4.757333,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 686,
+      "name": "Soetenso",
+      "latitude": 52.161805,
+      "longitude": 4.48454,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 687,
+      "name": "Solaris",
+      "latitude": 51.398264,
+      "longitude": 5.983087,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 688,
+      "name": "Sotto Zero",
+      "latitude": 52.365285,
+      "longitude": 4.875521,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 689,
+      "name": "Spaetels & co",
+      "latitude": 52.474251,
+      "longitude": 6.069645,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 690,
+      "name": "Stan & Ollie",
+      "latitude": 52.059998,
+      "longitude": 4.539908,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 691,
+      "name": "Sugar Rush",
+      "latitude": 52.369075,
+      "longitude": 4.901928,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 692,
+      "name": "Sundaes IJssalon",
+      "latitude": 52.294984,
+      "longitude": 5.264798,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 693,
+      "name": "Sweet Bakery",
+      "latitude": 52.377185,
+      "longitude": 4.896529,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 694,
+      "name": "Sweet-N-Ice",
+      "latitude": 51.736118,
+      "longitude": 5.358154,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 695,
+      "name": "Sweets & Ice",
+      "latitude": 52.037869,
+      "longitude": 5.095072,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 696,
+      "name": "Swirl's Ice Cream",
+      "latitude": 53.098587,
+      "longitude": 4.762363,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 697,
+      "name": "Swoopy",
+      "latitude": 53.097902,
+      "longitude": 4.7632,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 698,
+      "name": "Talamini",
+      "latitude": 52.056095,
+      "longitude": 4.336764,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 699,
+      "name": "Talamini",
+      "latitude": 52.253408,
+      "longitude": 6.15942,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 700,
+      "name": "Talamini",
+      "latitude": 52.384349,
+      "longitude": 6.275833,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 701,
+      "name": "Talamini",
+      "latitude": 52.512428,
+      "longitude": 6.092829,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 702,
+      "name": "Talamini Zutphen",
+      "latitude": 52.141289,
+      "longitude": 6.195492,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 703,
+      "name": "Tante Saar",
+      "latitude": 52.380062,
+      "longitude": 4.638888,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 704,
+      "name": "Terras IJssalon de Mient",
+      "latitude": 52.63058,
+      "longitude": 4.750047,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 705,
+      "name": "The Capricolo Company",
+      "latitude": 52.330092,
+      "longitude": 5.069659,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 706,
+      "name": "The Gelato District",
+      "latitude": 52.08032,
+      "longitude": 4.318139,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 707,
+      "name": "The ice cube de pier",
+      "latitude": 52.116856,
+      "longitude": 4.280797,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 708,
+      "name": "Timmy's eethuys",
+      "latitude": 51.695456,
+      "longitude": 4.874528,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 709,
+      "name": "Toeti Froetie",
+      "latitude": 51.589382,
+      "longitude": 4.776035,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 710,
+      "name": "Toetje",
+      "latitude": 52.355589,
+      "longitude": 4.927586,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 711,
+      "name": "Topa IJssalon",
+      "latitude": 52.353996,
+      "longitude": 4.67864,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 712,
+      "name": "Toscana",
+      "latitude": 51.425116,
+      "longitude": 4.322736,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 713,
+      "name": "Toscana",
+      "latitude": 52.518703,
+      "longitude": 6.421123,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 714,
+      "name": "Toscana",
+      "latitude": 52.574346,
+      "longitude": 6.618138,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 715,
+      "name": "Toscana",
+      "latitude": 52.60261,
+      "longitude": 6.458122,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 716,
+      "name": "Toscana",
+      "latitude": 52.720543,
+      "longitude": 6.476844,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 717,
+      "name": "Toscana",
+      "latitude": 52.72427,
+      "longitude": 6.988976,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 718,
+      "name": "Toscana",
+      "latitude": 52.782842,
+      "longitude": 6.896964,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 719,
+      "name": "Toscana",
+      "latitude": 52.78721,
+      "longitude": 6.894987,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 720,
+      "name": "Toscana",
+      "latitude": 52.882524,
+      "longitude": 6.86092,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 721,
+      "name": "Toscana",
+      "latitude": 52.993996,
+      "longitude": 6.563356,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 722,
+      "name": "Toscana",
+      "latitude": 53.144133,
+      "longitude": 7.036819,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 723,
+      "name": "Toscana",
+      "latitude": 53.215324,
+      "longitude": 6.564883,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 724,
+      "name": "Toscana",
+      "latitude": 53.215575,
+      "longitude": 6.569515,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 725,
+      "name": "Tsjoe Tsjoe Chill",
+      "latitude": 52.14714,
+      "longitude": 4.492756,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 726,
+      "name": "Tum Tum Icecream",
+      "latitude": 51.688801,
+      "longitude": 5.30172,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 727,
+      "name": "Twinsz IJs En Zo",
+      "latitude": 51.585926,
+      "longitude": 5.134928,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 728,
+      "name": "Udine",
+      "latitude": 52.050317,
+      "longitude": 6.100065,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 729,
+      "name": "Uit de Kunst",
+      "latitude": 52.199759,
+      "longitude": 6.553597,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 730,
+      "name": "Ut ies Sjöpke",
+      "latitude": 50.922557,
+      "longitude": 5.830072,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 731,
+      "name": "Valentino",
+      "latitude": 52.024382,
+      "longitude": 5.554044,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 732,
+      "name": "Van Swoll",
+      "latitude": 52.213596,
+      "longitude": 5.957824,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 733,
+      "name": "Van Swoll",
+      "latitude": 52.215519,
+      "longitude": 5.961313,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 734,
+      "name": "Van der Poel",
+      "latitude": 52.218635,
+      "longitude": 6.896578,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 735,
+      "name": "Van der Poel",
+      "latitude": 52.222397,
+      "longitude": 6.893033,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 736,
+      "name": "Van der Poel",
+      "latitude": 52.268344,
+      "longitude": 6.791719,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 737,
+      "name": "Van der Poel",
+      "latitude": 52.309345,
+      "longitude": 6.523866,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 738,
+      "name": "Van der Poel",
+      "latitude": 52.355027,
+      "longitude": 6.664387,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 739,
+      "name": "Van der Poel IJssalon",
+      "latitude": 52.315021,
+      "longitude": 6.930402,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 740,
+      "name": "Venetië IJs",
+      "latitude": 52.345742,
+      "longitude": 4.890678,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 741,
+      "name": "Venezia",
+      "latitude": 50.850488,
+      "longitude": 5.691234,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 742,
+      "name": "Venezia",
+      "latitude": 51.769485,
+      "longitude": 5.525022,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 743,
+      "name": "Venezia",
+      "latitude": 51.822685,
+      "longitude": 4.77701,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 744,
+      "name": "Venezia",
+      "latitude": 51.91175,
+      "longitude": 4.383291,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 745,
+      "name": "Venezia",
+      "latitude": 51.917323,
+      "longitude": 4.473725,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 746,
+      "name": "Venezia",
+      "latitude": 52.01127,
+      "longitude": 5.909623,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 747,
+      "name": "Venezia",
+      "latitude": 52.092471,
+      "longitude": 5.116751,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 748,
+      "name": "Vidaro IJs en Spijs",
+      "latitude": 52.907819,
+      "longitude": 4.963165,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 749,
+      "name": "Violento",
+      "latitude": 51.860917,
+      "longitude": 5.772019,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 750,
+      "name": "Vittorio",
+      "latitude": 51.554294,
+      "longitude": 5.103356,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 751,
+      "name": "Wesley's IJssalon",
+      "latitude": 51.80942,
+      "longitude": 3.936128,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 752,
+      "name": "Wieringer IJssalon",
+      "latitude": 52.889648,
+      "longitude": 4.92175,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 753,
+      "name": "Wijs",
+      "latitude": 51.919065,
+      "longitude": 5.842403,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 754,
+      "name": "Wijs ambachtelijk ijs",
+      "latitude": 51.891944,
+      "longitude": 5.898056,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 755,
+      "name": "Wijs, ambachtelijk ijs",
+      "latitude": 51.877528,
+      "longitude": 5.971388,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 756,
+      "name": "Wilco Ambachtelijk IJs",
+      "latitude": 51.920256,
+      "longitude": 5.288534,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 757,
+      "name": "Wingbergerhoeve",
+      "latitude": 50.772864,
+      "longitude": 5.922502,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 758,
+      "name": "Wow",
+      "latitude": 51.672532,
+      "longitude": 5.288293,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 759,
+      "name": "Wuestman Ambachtelijk IJspunt",
+      "latitude": 52.102781,
+      "longitude": 6.646587,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 760,
+      "name": "Yogen Früz",
+      "latitude": 52.302112,
+      "longitude": 4.862506,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 761,
+      "name": "Yoyo's Ice Corner",
+      "latitude": 52.346501,
+      "longitude": 4.90491,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 762,
+      "name": "Zammatteo",
+      "latitude": 51.689332,
+      "longitude": 5.306531,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 763,
+      "name": "Zinn",
+      "latitude": 52.075355,
+      "longitude": 4.359235,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 764,
+      "name": "Zoet en meer",
+      "latitude": 51.47156,
+      "longitude": 3.818174,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 765,
+      "name": "Zoet!",
+      "latitude": 51.994024,
+      "longitude": 4.475834,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 766,
+      "name": "Zomers",
+      "latitude": 52.083457,
+      "longitude": 5.037021,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 767,
+      "name": "Zomers",
+      "latitude": 52.09157,
+      "longitude": 5.088875,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 768,
+      "name": "Zuivelcoöperatie",
+      "latitude": 53.324832,
+      "longitude": 5.998155,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 769,
+      "name": "Zuliani's Gelato",
+      "latitude": 52.055442,
+      "longitude": 4.498571,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 770,
+      "name": "Zuliani's Gelato",
+      "latitude": 52.06112,
+      "longitude": 4.486974,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 771,
+      "name": "a Domani",
+      "latitude": 51.498263,
+      "longitude": 3.61107,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 772,
+      "name": "ci Vediamo Alkmaar",
+      "latitude": 52.630516,
+      "longitude": 4.743211,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 773,
+      "name": "de wolventuin",
+      "latitude": 52.545902,
+      "longitude": 6.494475,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 774,
+      "name": "ijZvogel",
+      "latitude": 52.036086,
+      "longitude": 4.315455,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 775,
+      "name": "ijs & zo",
+      "latitude": 52.249816,
+      "longitude": 6.910905,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 776,
+      "name": "ijs- en zuivelboerderij De Wieringer",
+      "latitude": 52.897822,
+      "longitude": 4.969176,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 777,
+      "name": "ijskar (bij mooi weer)",
+      "latitude": 51.554395,
+      "longitude": 5.244728,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 778,
+      "name": "la-la-ijs",
+      "latitude": 52.366725,
+      "longitude": 4.869436,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 779,
+      "name": "room",
+      "latitude": 53.217799,
+      "longitude": 6.565802,
+      "osm_klasse": "amenity=ice_cream"
+    },
+    {
+      "id": 780,
+      "name": "stenen brug hoeve ijs",
+      "latitude": 51.337161,
+      "longitude": 5.441828,
+      "osm_klasse": "amenity=ice_cream"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: ice cream (amenity=ice_cream) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=ice_cream in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 780 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: ice cream (amenity=ice_cream) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: ice cream (amenity=ice_cream) — 780 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 780 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

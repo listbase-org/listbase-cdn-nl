@@ -1,0 +1,3425 @@
+{
+  "id": "nl-osm-tourism-zoo",
+  "name": "Netherlands OSM: zoo (tourism=zoo)",
+  "title": "Netherlands OSM: zoo (tourism=zoo)",
+  "description": "Named OpenStreetMap features tagged tourism=zoo in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 482,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'T Veldje",
+      "latitude": 51.723228,
+      "longitude": 5.356267,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 2,
+      "name": "'t Brinkie",
+      "latitude": 52.30155,
+      "longitude": 4.976369,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 3,
+      "name": "'t Dijkweitje",
+      "latitude": 52.483089,
+      "longitude": 6.0595,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 4,
+      "name": "'t Geertje",
+      "latitude": 52.094915,
+      "longitude": 4.504741,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 5,
+      "name": "'t Heike",
+      "latitude": 51.722007,
+      "longitude": 5.430613,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 6,
+      "name": "'t Rundal",
+      "latitude": 51.357927,
+      "longitude": 5.34347,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 7,
+      "name": "'t Valleike",
+      "latitude": 51.57978,
+      "longitude": 4.984755,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 8,
+      "name": "'t Weidje",
+      "latitude": 52.494171,
+      "longitude": 4.805374,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 9,
+      "name": "Almere Jungle",
+      "latitude": 52.342119,
+      "longitude": 5.269165,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 10,
+      "name": "Alpaca Country",
+      "latitude": 51.61219,
+      "longitude": 4.867474,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 11,
+      "name": "Apenheul",
+      "latitude": 52.214788,
+      "longitude": 5.918377,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 12,
+      "name": "AquaZoo",
+      "latitude": 53.215002,
+      "longitude": 5.883145,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 13,
+      "name": "Artis",
+      "latitude": 52.366679,
+      "longitude": 4.91452,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 14,
+      "name": "Artisklas",
+      "latitude": 52.41343,
+      "longitude": 4.639667,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 15,
+      "name": "Avifauna",
+      "latitude": 52.139524,
+      "longitude": 4.649228,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 16,
+      "name": "Beestenboel",
+      "latitude": 51.723896,
+      "longitude": 5.370424,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 17,
+      "name": "Beestenboel Tesselweide",
+      "latitude": 52.090889,
+      "longitude": 4.260394,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 18,
+      "name": "Beleefboerderij",
+      "latitude": 51.455413,
+      "longitude": 5.953554,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 19,
+      "name": "Beleefboerderij De Kleine Carrousel",
+      "latitude": 52.227858,
+      "longitude": 6.397548,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 20,
+      "name": "Beleefboerderij De Kleine Carrousel",
+      "latitude": 52.228635,
+      "longitude": 6.397888,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 21,
+      "name": "Berkenhof Tropical Zoo",
+      "latitude": 51.439535,
+      "longitude": 3.889554,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 22,
+      "name": "BestZOO",
+      "latitude": 51.529161,
+      "longitude": 5.401281,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 23,
+      "name": "Bisteboel Jongiastate",
+      "latitude": 53.15588,
+      "longitude": 5.729937,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 24,
+      "name": "Boegbeeld",
+      "latitude": 53.237327,
+      "longitude": 6.609049,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 25,
+      "name": "Boerderij Daalhoeve",
+      "latitude": 50.843493,
+      "longitude": 5.653032,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 26,
+      "name": "Boerderij De Huydecoper",
+      "latitude": 52.215459,
+      "longitude": 5.227429,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 27,
+      "name": "Boerderij Westerpark",
+      "latitude": 52.38738,
+      "longitude": 4.865328,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 28,
+      "name": "Boerderij Wolfslaar",
+      "latitude": 51.561069,
+      "longitude": 4.801725,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 29,
+      "name": "Burgers' Zoo",
+      "latitude": 52.01029,
+      "longitude": 5.901457,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 30,
+      "name": "Buurderij De Wilde Haan",
+      "latitude": 52.995075,
+      "longitude": 6.633643,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 31,
+      "name": "Buurt Boerderij",
+      "latitude": 51.35495,
+      "longitude": 5.326458,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 32,
+      "name": "Buurtboerderij De Nijkamphoeve",
+      "latitude": 52.054132,
+      "longitude": 4.25898,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 33,
+      "name": "De Beekdalhoeve",
+      "latitude": 53.01563,
+      "longitude": 6.591259,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 34,
+      "name": "De Beestenborg",
+      "latitude": 53.231254,
+      "longitude": 6.597829,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 35,
+      "name": "De Boerenzwaluw",
+      "latitude": 52.298729,
+      "longitude": 4.701716,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 36,
+      "name": "De Boezemvriend",
+      "latitude": 51.818186,
+      "longitude": 4.427019,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 37,
+      "name": "De Bokkesprong",
+      "latitude": 51.915413,
+      "longitude": 4.428445,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 38,
+      "name": "De Buiktuin",
+      "latitude": 52.401573,
+      "longitude": 4.922692,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 39,
+      "name": "De Bunderij",
+      "latitude": 51.570286,
+      "longitude": 4.832039,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 40,
+      "name": "De Dierenborg",
+      "latitude": 53.243589,
+      "longitude": 6.978491,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 41,
+      "name": "De Dierencapel",
+      "latitude": 52.386028,
+      "longitude": 4.888724,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 42,
+      "name": "De Ezelkeet",
+      "latitude": 52.277012,
+      "longitude": 4.775941,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 43,
+      "name": "De Hazewinkel",
+      "latitude": 51.418431,
+      "longitude": 5.380836,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 44,
+      "name": "De Helderse Vallei",
+      "latitude": 52.933797,
+      "longitude": 4.732128,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 45,
+      "name": "De Hofstede",
+      "latitude": 52.986005,
+      "longitude": 6.547715,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 46,
+      "name": "De Houthoeve",
+      "latitude": 52.368596,
+      "longitude": 4.629961,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 47,
+      "name": "De Kakelhoeve",
+      "latitude": 52.208865,
+      "longitude": 6.005675,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 48,
+      "name": "De Kiboe",
+      "latitude": 52.02562,
+      "longitude": 4.223777,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 49,
+      "name": "De Kleine Kern",
+      "latitude": 51.861356,
+      "longitude": 5.866729,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 50,
+      "name": "De Klooienberg",
+      "latitude": 52.523576,
+      "longitude": 6.076815,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 51,
+      "name": "De Koperen Ezel",
+      "latitude": 52.331609,
+      "longitude": 5.988011,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 52,
+      "name": "De Korenmaat",
+      "latitude": 51.947218,
+      "longitude": 5.900535,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 53,
+      "name": "De Olievaar",
+      "latitude": 52.243345,
+      "longitude": 4.839057,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 54,
+      "name": "De Oude Zustertuin",
+      "latitude": 52.08447,
+      "longitude": 4.742707,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 55,
+      "name": "De Passiflorahoeve",
+      "latitude": 52.139729,
+      "longitude": 5.72776,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 56,
+      "name": "De Saren",
+      "latitude": 51.727306,
+      "longitude": 5.313135,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 57,
+      "name": "De Schoutenhoeve",
+      "latitude": 52.14572,
+      "longitude": 5.571466,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 58,
+      "name": "De Sik",
+      "latitude": 51.607614,
+      "longitude": 4.730014,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 59,
+      "name": "De Stekplek",
+      "latitude": 52.658951,
+      "longitude": 5.635978,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 60,
+      "name": "De Uilenburg",
+      "latitude": 51.49223,
+      "longitude": 5.14122,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 61,
+      "name": "De Vosheuvel",
+      "latitude": 52.143519,
+      "longitude": 5.405477,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 62,
+      "name": "De Vrije Loop",
+      "latitude": 51.616078,
+      "longitude": 5.789295,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 63,
+      "name": "De Wieringerberg",
+      "latitude": 50.818532,
+      "longitude": 5.724599,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 64,
+      "name": "De Woelige Stal",
+      "latitude": 52.068079,
+      "longitude": 4.295229,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 65,
+      "name": "De Woid",
+      "latitude": 52.653209,
+      "longitude": 5.045714,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 66,
+      "name": "Deer enclosure",
+      "latitude": 52.881768,
+      "longitude": 4.767555,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 67,
+      "name": "Dier- en speelweide 'Witte Winde'",
+      "latitude": 53.479355,
+      "longitude": 6.166685,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 68,
+      "name": "Dierendorp",
+      "latitude": 52.508609,
+      "longitude": 4.677177,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 69,
+      "name": "Diereneiland",
+      "latitude": 52.416437,
+      "longitude": 4.887596,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 70,
+      "name": "Dierenhof",
+      "latitude": 51.919236,
+      "longitude": 4.469877,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 71,
+      "name": "Dierenkamp Dragonder",
+      "latitude": 52.028571,
+      "longitude": 5.569986,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 72,
+      "name": "Dierenkamp Ruisseveen",
+      "latitude": 52.034266,
+      "longitude": 5.52645,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 73,
+      "name": "Dierenpark",
+      "latitude": 51.488429,
+      "longitude": 3.511284,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 74,
+      "name": "Dierenpark 't Goor",
+      "latitude": 52.092535,
+      "longitude": 6.155346,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 75,
+      "name": "Dierenpark Amersfoort",
+      "latitude": 52.149224,
+      "longitude": 5.344374,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 76,
+      "name": "Dierenpark De Bonte Koe",
+      "latitude": 52.303564,
+      "longitude": 6.759183,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 77,
+      "name": "Dierenpark De Wulverhorst",
+      "latitude": 52.028832,
+      "longitude": 4.869326,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 78,
+      "name": "Dierenpark Landzicht",
+      "latitude": 51.752686,
+      "longitude": 4.362914,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 79,
+      "name": "Dierenpark Volkel",
+      "latitude": 51.642062,
+      "longitude": 5.657504,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 80,
+      "name": "Dierenpark ZieZoo",
+      "latitude": 51.654207,
+      "longitude": 5.674636,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 81,
+      "name": "Dierenpark Zuiderpark",
+      "latitude": 51.68525,
+      "longitude": 5.317083,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 82,
+      "name": "Dierenpark de Oliemeulen",
+      "latitude": 51.570764,
+      "longitude": 5.062255,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 83,
+      "name": "Dierenparkje",
+      "latitude": 53.005113,
+      "longitude": 6.765075,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 84,
+      "name": "Dierenparkje Annen",
+      "latitude": 53.054077,
+      "longitude": 6.716786,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 85,
+      "name": "Dierenparkje Ten Woude",
+      "latitude": 52.94977,
+      "longitude": 5.939225,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 86,
+      "name": "Dierentuin Animal Farm",
+      "latitude": 52.49639,
+      "longitude": 4.671105,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 87,
+      "name": "Dierenvallei",
+      "latitude": 52.136167,
+      "longitude": 5.440462,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 88,
+      "name": "Dierenverblijf",
+      "latitude": 52.140657,
+      "longitude": 6.575939,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 89,
+      "name": "Dierenweide",
+      "latitude": 51.571552,
+      "longitude": 4.563663,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 90,
+      "name": "Dierenweide",
+      "latitude": 51.845294,
+      "longitude": 5.858496,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 91,
+      "name": "Dierenweide",
+      "latitude": 51.914782,
+      "longitude": 4.567,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 92,
+      "name": "Dierenweide",
+      "latitude": 51.967445,
+      "longitude": 4.609749,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 93,
+      "name": "Dierenweide",
+      "latitude": 51.987935,
+      "longitude": 4.49792,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 94,
+      "name": "Dierenweide",
+      "latitude": 52.085607,
+      "longitude": 5.044557,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 95,
+      "name": "Dierenweide",
+      "latitude": 52.087152,
+      "longitude": 5.091055,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 96,
+      "name": "Dierenweide",
+      "latitude": 52.103844,
+      "longitude": 5.540543,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 97,
+      "name": "Dierenweide",
+      "latitude": 52.139691,
+      "longitude": 6.002323,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 98,
+      "name": "Dierenweide",
+      "latitude": 52.144,
+      "longitude": 6.201217,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 99,
+      "name": "Dierenweide",
+      "latitude": 53.30058,
+      "longitude": 6.274832,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 100,
+      "name": "Dierenweide 't Spiker",
+      "latitude": 52.136096,
+      "longitude": 6.227635,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 101,
+      "name": "Dierenweide Abstede",
+      "latitude": 52.082826,
+      "longitude": 5.129517,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 102,
+      "name": "Dierenweide De Meern",
+      "latitude": 52.082639,
+      "longitude": 5.031528,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 103,
+      "name": "Dierenweide Dieze Oost",
+      "latitude": 52.520128,
+      "longitude": 6.10539,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 104,
+      "name": "Dierenweide Geindijk",
+      "latitude": 52.007479,
+      "longitude": 5.074952,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 105,
+      "name": "Dierenweide Goverwelle",
+      "latitude": 52.004016,
+      "longitude": 4.755267,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 106,
+      "name": "Dierenweide Haarzuilens",
+      "latitude": 52.123,
+      "longitude": 4.998251,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 107,
+      "name": "Dierenweide Harderwijk",
+      "latitude": 52.3381,
+      "longitude": 5.609162,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 108,
+      "name": "Dierenweide Het Hof",
+      "latitude": 51.910999,
+      "longitude": 4.346569,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 109,
+      "name": "Dierenweide Maasdijk",
+      "latitude": 51.959734,
+      "longitude": 4.213754,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 110,
+      "name": "Dierenweide Molenwijk",
+      "latitude": 52.782924,
+      "longitude": 4.789657,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 111,
+      "name": "Dierenweide Oostergast",
+      "latitude": 53.246742,
+      "longitude": 6.413148,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 112,
+      "name": "Dierenweide Oranjelaan",
+      "latitude": 52.003944,
+      "longitude": 4.334805,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 113,
+      "name": "Dierenweide SamenZo",
+      "latitude": 51.802316,
+      "longitude": 4.560848,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 114,
+      "name": "Dierenweide Stadspark",
+      "latitude": 52.519555,
+      "longitude": 5.492156,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 115,
+      "name": "Dierenweide Vleuten",
+      "latitude": 52.104406,
+      "longitude": 5.003808,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 116,
+      "name": "Dierenweide Weidesteyn",
+      "latitude": 52.72703,
+      "longitude": 6.463305,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 117,
+      "name": "Dierenweide Zonnehoeve",
+      "latitude": 52.201965,
+      "longitude": 5.149067,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 118,
+      "name": "Dierenweide de Aa-weide",
+      "latitude": 52.538441,
+      "longitude": 6.104789,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 119,
+      "name": "Dierenweitje 't Venneke",
+      "latitude": 51.778448,
+      "longitude": 5.930168,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 120,
+      "name": "Dierenweitje Beek",
+      "latitude": 51.829139,
+      "longitude": 5.934926,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 121,
+      "name": "Diergaarde Blijdorp",
+      "latitude": 51.926828,
+      "longitude": 4.449329,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 122,
+      "name": "DoeZoo Insektenwereld",
+      "latitude": 53.359867,
+      "longitude": 6.388523,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 123,
+      "name": "Doederij",
+      "latitude": 51.426495,
+      "longitude": 5.426235,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 124,
+      "name": "Dolfinarium",
+      "latitude": 52.353599,
+      "longitude": 5.616672,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 125,
+      "name": "Dorpsboerderij Nieuwkoop",
+      "latitude": 52.147513,
+      "longitude": 4.774311,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 126,
+      "name": "EcoMare",
+      "latitude": 53.07767,
+      "longitude": 4.745081,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 127,
+      "name": "Eelderbaan",
+      "latitude": 53.228163,
+      "longitude": 6.521268,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 128,
+      "name": "Eemhoeve",
+      "latitude": 52.258504,
+      "longitude": 5.396358,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 129,
+      "name": "Eindhoven Zoo",
+      "latitude": 51.454267,
+      "longitude": 5.582653,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 130,
+      "name": "Elsenhove",
+      "latitude": 52.296865,
+      "longitude": 4.88668,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 131,
+      "name": "Erve Vechtdal - Koesafari",
+      "latitude": 52.514648,
+      "longitude": 6.375027,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 132,
+      "name": "Ezelfarm Oisterwijk",
+      "latitude": 51.556623,
+      "longitude": 5.241751,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 133,
+      "name": "Falconcrest Valkerij Centrum",
+      "latitude": 51.493392,
+      "longitude": 5.495602,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 134,
+      "name": "Faunapark",
+      "latitude": 51.718427,
+      "longitude": 4.144045,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 135,
+      "name": "Feltsigt Recreatie en Kinderboerderij",
+      "latitude": 52.043739,
+      "longitude": 6.281418,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 136,
+      "name": "Frits' Farm",
+      "latitude": 52.664701,
+      "longitude": 5.07738,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 137,
+      "name": "Fronik Buurtboerderij",
+      "latitude": 52.434742,
+      "longitude": 4.80533,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 138,
+      "name": "GaiaZOO",
+      "latitude": 50.869625,
+      "longitude": 6.048993,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 139,
+      "name": "Geertje's Hoeve",
+      "latitude": 52.11706,
+      "longitude": 5.004163,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 140,
+      "name": "Geitenkampje",
+      "latitude": 53.079738,
+      "longitude": 6.699115,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 141,
+      "name": "Geitenweide",
+      "latitude": 51.425547,
+      "longitude": 5.35201,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 142,
+      "name": "Geitenweitje",
+      "latitude": 51.478856,
+      "longitude": 5.429211,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 143,
+      "name": "Geitenweitje",
+      "latitude": 52.208968,
+      "longitude": 4.86205,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 144,
+      "name": "Goedland",
+      "latitude": 51.700477,
+      "longitude": 5.255174,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 145,
+      "name": "Griendtsveenpark",
+      "latitude": 52.685346,
+      "longitude": 6.920052,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 146,
+      "name": "Havikshof",
+      "latitude": 52.161518,
+      "longitude": 6.071815,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 147,
+      "name": "Henk Marsman Plantsoen",
+      "latitude": 52.119155,
+      "longitude": 6.017706,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 148,
+      "name": "Hertenkamp",
+      "latitude": 51.330377,
+      "longitude": 6.161734,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 149,
+      "name": "Hertenkamp",
+      "latitude": 51.515393,
+      "longitude": 5.503975,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 150,
+      "name": "Hertenkamp",
+      "latitude": 51.614826,
+      "longitude": 5.458938,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 151,
+      "name": "Hertenkamp",
+      "latitude": 51.990787,
+      "longitude": 5.906649,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 152,
+      "name": "Hertenkamp",
+      "latitude": 52.027675,
+      "longitude": 4.376148,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 153,
+      "name": "Hertenkamp",
+      "latitude": 52.040719,
+      "longitude": 4.494029,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 154,
+      "name": "Hertenkamp",
+      "latitude": 52.084308,
+      "longitude": 5.254676,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 155,
+      "name": "Hertenkamp",
+      "latitude": 52.088404,
+      "longitude": 4.897149,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 156,
+      "name": "Hertenkamp",
+      "latitude": 52.117967,
+      "longitude": 4.429612,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 157,
+      "name": "Hertenkamp",
+      "latitude": 52.175073,
+      "longitude": 4.48158,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 158,
+      "name": "Hertenkamp",
+      "latitude": 52.2031,
+      "longitude": 4.866278,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 159,
+      "name": "Hertenkamp",
+      "latitude": 52.255493,
+      "longitude": 5.220275,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 160,
+      "name": "Hertenkamp",
+      "latitude": 52.265704,
+      "longitude": 5.182012,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 161,
+      "name": "Hertenkamp",
+      "latitude": 52.298804,
+      "longitude": 6.509219,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 162,
+      "name": "Hertenkamp",
+      "latitude": 52.404714,
+      "longitude": 6.631083,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 163,
+      "name": "Hertenkamp",
+      "latitude": 52.503485,
+      "longitude": 4.950429,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 164,
+      "name": "Hertenkamp",
+      "latitude": 52.678196,
+      "longitude": 5.952668,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 165,
+      "name": "Hertenkamp",
+      "latitude": 52.688881,
+      "longitude": 6.193431,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 166,
+      "name": "Hertenkamp",
+      "latitude": 52.701849,
+      "longitude": 6.200141,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 167,
+      "name": "Hertenkamp",
+      "latitude": 52.714827,
+      "longitude": 6.4948,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 168,
+      "name": "Hertenkamp",
+      "latitude": 52.819471,
+      "longitude": 6.467227,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 169,
+      "name": "Hertenkamp",
+      "latitude": 52.877176,
+      "longitude": 6.146001,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 170,
+      "name": "Hertenkamp",
+      "latitude": 52.905272,
+      "longitude": 6.393483,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 171,
+      "name": "Hertenkamp",
+      "latitude": 52.931214,
+      "longitude": 6.131545,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 172,
+      "name": "Hertenkamp",
+      "latitude": 52.989005,
+      "longitude": 6.282712,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 173,
+      "name": "Hertenkamp",
+      "latitude": 53.143556,
+      "longitude": 6.098215,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 174,
+      "name": "Hertenkamp",
+      "latitude": 53.151313,
+      "longitude": 7.042657,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 175,
+      "name": "Hertenkamp",
+      "latitude": 53.169744,
+      "longitude": 6.614761,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 176,
+      "name": "Hertenkamp",
+      "latitude": 53.18464,
+      "longitude": 6.174684,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 177,
+      "name": "Hertenkamp",
+      "latitude": 53.192733,
+      "longitude": 7.00022,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 178,
+      "name": "Hertenkamp",
+      "latitude": 53.212406,
+      "longitude": 6.700936,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 179,
+      "name": "Hertenkamp",
+      "latitude": 53.275731,
+      "longitude": 6.143797,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 180,
+      "name": "Hertenkamp",
+      "latitude": 53.306036,
+      "longitude": 6.595645,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 181,
+      "name": "Hertenkamp",
+      "latitude": 53.40649,
+      "longitude": 6.686353,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 182,
+      "name": "Hertenkamp Akersloot",
+      "latitude": 52.558721,
+      "longitude": 4.732951,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 183,
+      "name": "Hertenkamp Bergambacht",
+      "latitude": 51.921113,
+      "longitude": 4.783165,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 184,
+      "name": "Hertenkamp Bergen",
+      "latitude": 52.670603,
+      "longitude": 4.696567,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 185,
+      "name": "Hertenkamp Bloemendaal",
+      "latitude": 52.407342,
+      "longitude": 4.612594,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 186,
+      "name": "Hertenkamp De Roedel",
+      "latitude": 52.299381,
+      "longitude": 5.636128,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 187,
+      "name": "Hertenkamp Hartenstein",
+      "latitude": 51.987052,
+      "longitude": 5.831031,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 188,
+      "name": "Hertenkamp Scheemda",
+      "latitude": 53.175106,
+      "longitude": 6.964688,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 189,
+      "name": "Hertenkamp Schoonrewoerd",
+      "latitude": 51.921577,
+      "longitude": 5.116826,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 190,
+      "name": "Hertenkamp Spaarbankhoeve",
+      "latitude": 52.745659,
+      "longitude": 6.464843,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 191,
+      "name": "Hertenkamp Tiel",
+      "latitude": 51.88299,
+      "longitude": 5.434624,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 192,
+      "name": "Hertenkamp Uitgeest",
+      "latitude": 52.522771,
+      "longitude": 4.704144,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 193,
+      "name": "Hertenkamp Vianen",
+      "latitude": 51.990417,
+      "longitude": 5.09155,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 194,
+      "name": "Hertenkamp de Borgstee",
+      "latitude": 53.323582,
+      "longitude": 6.521025,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 195,
+      "name": "Hertenkampje",
+      "latitude": 52.949143,
+      "longitude": 6.065367,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 196,
+      "name": "Hertenkampje",
+      "latitude": 53.149952,
+      "longitude": 6.491136,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 197,
+      "name": "Hertenpark",
+      "latitude": 51.384201,
+      "longitude": 3.495798,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 198,
+      "name": "Hertenpark",
+      "latitude": 52.358162,
+      "longitude": 6.643256,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 199,
+      "name": "Hertenweide",
+      "latitude": 52.986664,
+      "longitude": 6.641813,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 200,
+      "name": "Het Broake Bos",
+      "latitude": 52.241095,
+      "longitude": 6.301103,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 201,
+      "name": "Het Ezelsbruggetje",
+      "latitude": 52.003859,
+      "longitude": 4.548719,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 202,
+      "name": "Het Ganzenbos",
+      "latitude": 51.742799,
+      "longitude": 5.872202,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 203,
+      "name": "Het Geitenweitje",
+      "latitude": 51.77494,
+      "longitude": 4.441384,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 204,
+      "name": "Het Hertenkamp",
+      "latitude": 52.290467,
+      "longitude": 5.158033,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 205,
+      "name": "Het Hertenkampje",
+      "latitude": 51.650543,
+      "longitude": 5.476664,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 206,
+      "name": "Het Hertenpark",
+      "latitude": 51.889474,
+      "longitude": 5.604338,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 207,
+      "name": "Het Nieuwe Plantsoen",
+      "latitude": 52.269198,
+      "longitude": 6.148764,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 208,
+      "name": "Hof van Eckberge",
+      "latitude": 52.097776,
+      "longitude": 6.623274,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 209,
+      "name": "Holtinger Schaapskooi",
+      "latitude": 52.786845,
+      "longitude": 6.223986,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 210,
+      "name": "Hoofdgebouw",
+      "latitude": 52.131745,
+      "longitude": 4.655678,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 211,
+      "name": "Hoofdgebouw",
+      "latitude": 52.141274,
+      "longitude": 4.689119,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 212,
+      "name": "Hooimijt",
+      "latitude": 51.644207,
+      "longitude": 5.047546,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 213,
+      "name": "Jeugdspeelpark",
+      "latitude": 51.845892,
+      "longitude": 4.622887,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 214,
+      "name": "Kakelhof",
+      "latitude": 52.062523,
+      "longitude": 4.239689,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 215,
+      "name": "Kamelenmelkerij Smits",
+      "latitude": 51.692764,
+      "longitude": 5.409666,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 216,
+      "name": "Kasteelpark Born",
+      "latitude": 51.030431,
+      "longitude": 5.811242,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 217,
+      "name": "Keuvelboerderij De Keldershoeve",
+      "latitude": 51.424846,
+      "longitude": 5.378637,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 218,
+      "name": "KiBo Schagen",
+      "latitude": 52.796839,
+      "longitude": 4.803785,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 219,
+      "name": "Kinderboederij \"Floreffehoeve\"",
+      "latitude": 51.809434,
+      "longitude": 4.901204,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 220,
+      "name": "Kinderboerderij",
+      "latitude": 51.327199,
+      "longitude": 5.426286,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 221,
+      "name": "Kinderboerderij",
+      "latitude": 51.360411,
+      "longitude": 5.428478,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 222,
+      "name": "Kinderboerderij",
+      "latitude": 51.44789,
+      "longitude": 5.963953,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 223,
+      "name": "Kinderboerderij",
+      "latitude": 51.480887,
+      "longitude": 6.21351,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 224,
+      "name": "Kinderboerderij",
+      "latitude": 51.506188,
+      "longitude": 6.155327,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 225,
+      "name": "Kinderboerderij",
+      "latitude": 51.512687,
+      "longitude": 3.898054,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 226,
+      "name": "Kinderboerderij",
+      "latitude": 51.673613,
+      "longitude": 5.99846,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 227,
+      "name": "Kinderboerderij",
+      "latitude": 51.828119,
+      "longitude": 4.694031,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 228,
+      "name": "Kinderboerderij",
+      "latitude": 51.858864,
+      "longitude": 4.605303,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 229,
+      "name": "Kinderboerderij",
+      "latitude": 51.978401,
+      "longitude": 4.246149,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 230,
+      "name": "Kinderboerderij",
+      "latitude": 52.06885,
+      "longitude": 4.306292,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 231,
+      "name": "Kinderboerderij",
+      "latitude": 52.086018,
+      "longitude": 5.769225,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 232,
+      "name": "Kinderboerderij",
+      "latitude": 52.157403,
+      "longitude": 4.530785,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 233,
+      "name": "Kinderboerderij",
+      "latitude": 52.178252,
+      "longitude": 4.508569,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 234,
+      "name": "Kinderboerderij",
+      "latitude": 52.248136,
+      "longitude": 5.750021,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 235,
+      "name": "Kinderboerderij",
+      "latitude": 52.508955,
+      "longitude": 6.088027,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 236,
+      "name": "Kinderboerderij",
+      "latitude": 52.674757,
+      "longitude": 6.772379,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 237,
+      "name": "Kinderboerderij",
+      "latitude": 52.881004,
+      "longitude": 4.768695,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 238,
+      "name": "Kinderboerderij",
+      "latitude": 53.061287,
+      "longitude": 4.802096,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 239,
+      "name": "Kinderboerderij",
+      "latitude": 53.096944,
+      "longitude": 6.847166,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 240,
+      "name": "Kinderboerderij \"De Hertenkamp\"",
+      "latitude": 52.23581,
+      "longitude": 5.166666,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 241,
+      "name": "Kinderboerderij \"Dier en Wij\"",
+      "latitude": 52.054556,
+      "longitude": 5.240141,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 242,
+      "name": "Kinderboerderij \"Kiboe\"",
+      "latitude": 52.108942,
+      "longitude": 6.052248,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 243,
+      "name": "Kinderboerderij \"de Linde\"",
+      "latitude": 51.441129,
+      "longitude": 5.45992,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 244,
+      "name": "Kinderboerderij 'De Hooizolder'",
+      "latitude": 51.82291,
+      "longitude": 4.783242,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 245,
+      "name": "Kinderboerderij 't Boerke",
+      "latitude": 51.828442,
+      "longitude": 5.808813,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 246,
+      "name": "Kinderboerderij 't Dierenduintje",
+      "latitude": 52.549554,
+      "longitude": 4.656931,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 247,
+      "name": "Kinderboerderij 't Eiterse hofje",
+      "latitude": 52.025863,
+      "longitude": 5.03156,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 248,
+      "name": "Kinderboerderij 't Hoefblad",
+      "latitude": 51.930387,
+      "longitude": 4.387111,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 249,
+      "name": "Kinderboerderij 't Meulenparkie",
+      "latitude": 52.973514,
+      "longitude": 6.474159,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 250,
+      "name": "Kinderboerderij 't Mouwtje",
+      "latitude": 52.278251,
+      "longitude": 5.175336,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 251,
+      "name": "Kinderboerderij 't Schaapsherdertje",
+      "latitude": 52.235031,
+      "longitude": 4.437137,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 252,
+      "name": "Kinderboerderij 't Weusthag",
+      "latitude": 52.281024,
+      "longitude": 6.791232,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 253,
+      "name": "Kinderboerderij + Tuin",
+      "latitude": 51.279709,
+      "longitude": 6.053678,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 254,
+      "name": "Kinderboerderij Agathahoeve",
+      "latitude": 51.913332,
+      "longitude": 4.080658,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 255,
+      "name": "Kinderboerderij Ahof Aalten",
+      "latitude": 51.925739,
+      "longitude": 6.587335,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 256,
+      "name": "Kinderboerderij Baalder",
+      "latitude": 52.579234,
+      "longitude": 6.637146,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 257,
+      "name": "Kinderboerderij Beatrixhoeve",
+      "latitude": 52.719987,
+      "longitude": 7.037767,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 258,
+      "name": "Kinderboerderij Beestenboel",
+      "latitude": 51.805658,
+      "longitude": 5.2364,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 259,
+      "name": "Kinderboerderij Beestenboetje",
+      "latitude": 52.602173,
+      "longitude": 4.70883,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 260,
+      "name": "Kinderboerderij Berkum",
+      "latitude": 52.523626,
+      "longitude": 6.146393,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 261,
+      "name": "Kinderboerderij Bijlmerweide",
+      "latitude": 52.32348,
+      "longitude": 4.990943,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 262,
+      "name": "Kinderboerderij Binnenmaas",
+      "latitude": 51.801061,
+      "longitude": 4.5192,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 263,
+      "name": "Kinderboerderij Boerenvreugd",
+      "latitude": 52.255526,
+      "longitude": 4.772167,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 264,
+      "name": "Kinderboerderij Bospark",
+      "latitude": 52.13205,
+      "longitude": 4.655898,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 265,
+      "name": "Kinderboerderij Bovenburen",
+      "latitude": 53.152782,
+      "longitude": 7.041444,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 266,
+      "name": "Kinderboerderij Boxtel",
+      "latitude": 51.587727,
+      "longitude": 5.342856,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 267,
+      "name": "Kinderboerderij Buiten-\"Gewoon\"",
+      "latitude": 51.745846,
+      "longitude": 5.708893,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 268,
+      "name": "Kinderboerderij Cantecleer",
+      "latitude": 52.556288,
+      "longitude": 5.909277,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 269,
+      "name": "Kinderboerderij Canton",
+      "latitude": 52.207476,
+      "longitude": 5.297991,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 270,
+      "name": "Kinderboerderij Coebel",
+      "latitude": 52.151056,
+      "longitude": 4.471071,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 271,
+      "name": "Kinderboerderij Contactweide",
+      "latitude": 52.067729,
+      "longitude": 4.644015,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 272,
+      "name": "Kinderboerderij Daniken",
+      "latitude": 50.958382,
+      "longitude": 5.841207,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 273,
+      "name": "Kinderboerderij De Baak",
+      "latitude": 52.481689,
+      "longitude": 4.642259,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 274,
+      "name": "Kinderboerderij De Beestenbende",
+      "latitude": 52.393371,
+      "longitude": 5.260376,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 275,
+      "name": "Kinderboerderij De Beestenboel",
+      "latitude": 52.699855,
+      "longitude": 4.820901,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 276,
+      "name": "Kinderboerderij De Brink",
+      "latitude": 52.086349,
+      "longitude": 5.227653,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 277,
+      "name": "Kinderboerderij De Elzenhoek",
+      "latitude": 51.750161,
+      "longitude": 5.503871,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 278,
+      "name": "Kinderboerderij De Goffert",
+      "latitude": 51.826863,
+      "longitude": 5.840434,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 279,
+      "name": "Kinderboerderij De Goudse Hofsteden",
+      "latitude": 52.032561,
+      "longitude": 4.69654,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 280,
+      "name": "Kinderboerderij De Heij",
+      "latitude": 51.887438,
+      "longitude": 4.424105,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 281,
+      "name": "Kinderboerderij De Klaprooshof",
+      "latitude": 52.221872,
+      "longitude": 4.486525,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 282,
+      "name": "Kinderboerderij De Kloosterhof",
+      "latitude": 52.19904,
+      "longitude": 4.496251,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 283,
+      "name": "Kinderboerderij De Kraal",
+      "latitude": 51.939824,
+      "longitude": 4.506112,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 284,
+      "name": "Kinderboerderij De Kromme Akker",
+      "latitude": 51.705524,
+      "longitude": 4.847259,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 285,
+      "name": "Kinderboerderij De Oedenstee",
+      "latitude": 51.867936,
+      "longitude": 4.357662,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 286,
+      "name": "Kinderboerderij De Plantage",
+      "latitude": 51.864841,
+      "longitude": 4.663908,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 287,
+      "name": "Kinderboerderij De Rekerhout",
+      "latitude": 52.649064,
+      "longitude": 4.756324,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 288,
+      "name": "Kinderboerderij De Schaapskooi",
+      "latitude": 52.121462,
+      "longitude": 5.185438,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 289,
+      "name": "Kinderboerderij De Stek",
+      "latitude": 52.386575,
+      "longitude": 5.206847,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 290,
+      "name": "Kinderboerderij De Strohalm",
+      "latitude": 52.376133,
+      "longitude": 4.793092,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 291,
+      "name": "Kinderboerderij De Trotse Pauw",
+      "latitude": 51.846497,
+      "longitude": 4.330999,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 292,
+      "name": "Kinderboerderij De Vechtse Hoeve",
+      "latitude": 52.138731,
+      "longitude": 5.048755,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 293,
+      "name": "Kinderboerderij De Veldmuis",
+      "latitude": 52.443687,
+      "longitude": 4.805824,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 294,
+      "name": "Kinderboerderij De Vijverhof",
+      "latitude": 52.332221,
+      "longitude": 6.103135,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 295,
+      "name": "Kinderboerderij De Vliert",
+      "latitude": 51.978405,
+      "longitude": 5.331778,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 296,
+      "name": "Kinderboerderij De Voskuilerhoeve",
+      "latitude": 52.467393,
+      "longitude": 6.014477,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 297,
+      "name": "Kinderboerderij De Werf",
+      "latitude": 52.35409,
+      "longitude": 4.944791,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 298,
+      "name": "Kinderboerderij De Wesseler",
+      "latitude": 52.190211,
+      "longitude": 6.875644,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 299,
+      "name": "Kinderboerderij De Wilgenhof",
+      "latitude": 51.953218,
+      "longitude": 4.478612,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 300,
+      "name": "Kinderboerderij De Wâldsang",
+      "latitude": 53.08478,
+      "longitude": 6.25076,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 301,
+      "name": "Kinderboerderij De proosdij",
+      "latitude": 52.040456,
+      "longitude": 5.652442,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 302,
+      "name": "Kinderboerderij Den Uylpark",
+      "latitude": 52.370713,
+      "longitude": 5.207249,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 303,
+      "name": "Kinderboerderij Diemen",
+      "latitude": 52.337294,
+      "longitude": 4.968277,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 304,
+      "name": "Kinderboerderij Dierendal",
+      "latitude": 52.042344,
+      "longitude": 4.652188,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 305,
+      "name": "Kinderboerderij Dierendal",
+      "latitude": 52.042879,
+      "longitude": 4.65261,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 306,
+      "name": "Kinderboerderij Dierenvreugd",
+      "latitude": 52.25824,
+      "longitude": 4.630858,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 307,
+      "name": "Kinderboerderij Dondertman",
+      "latitude": 52.302207,
+      "longitude": 6.389301,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 308,
+      "name": "Kinderboerderij Doniastate",
+      "latitude": 53.264418,
+      "longitude": 5.782779,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 309,
+      "name": "Kinderboerderij Eilandstede",
+      "latitude": 52.06949,
+      "longitude": 5.103562,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 310,
+      "name": "Kinderboerderij Ekenstein",
+      "latitude": 53.318465,
+      "longitude": 6.808533,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 311,
+      "name": "Kinderboerderij Emmelerbos",
+      "latitude": 52.721928,
+      "longitude": 5.758041,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 312,
+      "name": "Kinderboerderij Erve 't Wooldrik",
+      "latitude": 52.216115,
+      "longitude": 6.915041,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 313,
+      "name": "Kinderboerderij Geldrop",
+      "latitude": 51.42396,
+      "longitude": 5.558736,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 314,
+      "name": "Kinderboerderij Gliphoeve",
+      "latitude": 52.323224,
+      "longitude": 4.971115,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 315,
+      "name": "Kinderboerderij Groenendaal",
+      "latitude": 52.340521,
+      "longitude": 4.616461,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 316,
+      "name": "Kinderboerderij Hagerhof",
+      "latitude": 51.353965,
+      "longitude": 6.163826,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 317,
+      "name": "Kinderboerderij Heidestein",
+      "latitude": 51.979571,
+      "longitude": 5.750062,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 318,
+      "name": "Kinderboerderij Hertenkamp",
+      "latitude": 51.239339,
+      "longitude": 5.665996,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 319,
+      "name": "Kinderboerderij Het Akkertje",
+      "latitude": 52.052106,
+      "longitude": 4.325382,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 320,
+      "name": "Kinderboerderij Het Rijtven",
+      "latitude": 51.4636,
+      "longitude": 5.764368,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 321,
+      "name": "Kinderboerderij Het Spookbos",
+      "latitude": 52.248844,
+      "longitude": 5.241735,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 322,
+      "name": "Kinderboerderij Hoek van Holland",
+      "latitude": 51.974049,
+      "longitude": 4.134612,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 323,
+      "name": "Kinderboerderij Horsterpark",
+      "latitude": 51.949439,
+      "longitude": 5.994997,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 324,
+      "name": "Kinderboerderij Jeugddorp De Glind",
+      "latitude": 52.120713,
+      "longitude": 5.50771,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 325,
+      "name": "Kinderboerderij Jong Leven",
+      "latitude": 52.655197,
+      "longitude": 4.786126,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 326,
+      "name": "Kinderboerderij Kerkibo",
+      "latitude": 51.572127,
+      "longitude": 5.082175,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 327,
+      "name": "Kinderboerderij Kienehoeve",
+      "latitude": 51.57408,
+      "longitude": 5.450699,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 328,
+      "name": "Kinderboerderij Klaverweide",
+      "latitude": 51.940772,
+      "longitude": 4.593183,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 329,
+      "name": "Kinderboerderij Koekendaal",
+      "latitude": 51.950912,
+      "longitude": 6.322234,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 330,
+      "name": "Kinderboerderij Kokiezier",
+      "latitude": 51.96627,
+      "longitude": 6.245578,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 331,
+      "name": "Kinderboerderij Laag Buurlo",
+      "latitude": 52.221992,
+      "longitude": 6.001911,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 332,
+      "name": "Kinderboerderij Leeuwarden",
+      "latitude": 53.212624,
+      "longitude": 5.793614,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 333,
+      "name": "Kinderboerderij Limmel",
+      "latitude": 50.868731,
+      "longitude": 5.708183,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 334,
+      "name": "Kinderboerderij Lindenholt",
+      "latitude": 51.832163,
+      "longitude": 5.789368,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 335,
+      "name": "Kinderboerderij Maatjeshonk",
+      "latitude": 53.302672,
+      "longitude": 6.608147,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 336,
+      "name": "Kinderboerderij Maria Goretti",
+      "latitude": 51.564602,
+      "longitude": 5.079075,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 337,
+      "name": "Kinderboerderij Minnebeek",
+      "latitude": 51.513469,
+      "longitude": 4.453308,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 338,
+      "name": "Kinderboerderij Nijverdal",
+      "latitude": 52.361992,
+      "longitude": 6.492242,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 339,
+      "name": "Kinderboerderij Noord",
+      "latitude": 52.242434,
+      "longitude": 6.889005,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 340,
+      "name": "Kinderboerderij Ommen",
+      "latitude": 52.514747,
+      "longitude": 6.415914,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 341,
+      "name": "Kinderboerderij Oortjespad",
+      "latitude": 52.129542,
+      "longitude": 4.902743,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 342,
+      "name": "Kinderboerderij Otterspoor",
+      "latitude": 52.133419,
+      "longitude": 5.011783,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 343,
+      "name": "Kinderboerderij Parc Sandur",
+      "latitude": 52.731621,
+      "longitude": 6.901775,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 344,
+      "name": "Kinderboerderij Parkhoeve Geeren-Noord",
+      "latitude": 51.613912,
+      "longitude": 4.791912,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 345,
+      "name": "Kinderboerderij Philips van Lenneppark",
+      "latitude": 51.448186,
+      "longitude": 5.429556,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 346,
+      "name": "Kinderboerderij Poelepetaat",
+      "latitude": 52.266553,
+      "longitude": 4.538686,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 347,
+      "name": "Kinderboerderij Roomleij",
+      "latitude": 51.608808,
+      "longitude": 5.151812,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 348,
+      "name": "Kinderboerderij Rosorum",
+      "latitude": 51.937298,
+      "longitude": 6.060458,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 349,
+      "name": "Kinderboerderij SKiP",
+      "latitude": 51.994836,
+      "longitude": 4.220692,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 350,
+      "name": "Kinderboerderij Saksenhoeve",
+      "latitude": 52.22569,
+      "longitude": 4.524732,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 351,
+      "name": "Kinderboerderij Samenzó",
+      "latitude": 52.649561,
+      "longitude": 6.20193,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 352,
+      "name": "Kinderboerderij Skik",
+      "latitude": 52.693692,
+      "longitude": 5.168368,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 353,
+      "name": "Kinderboerderij Sloterpark",
+      "latitude": 52.371556,
+      "longitude": 4.814977,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 354,
+      "name": "Kinderboerderij Sneek",
+      "latitude": 53.037912,
+      "longitude": 5.648947,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 355,
+      "name": "Kinderboerderij Stadspark",
+      "latitude": 53.206032,
+      "longitude": 6.547834,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 356,
+      "name": "Kinderboerderij Stal Bertus",
+      "latitude": 51.679879,
+      "longitude": 5.512485,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 357,
+      "name": "Kinderboerderij Tanthof",
+      "latitude": 51.986198,
+      "longitude": 4.35427,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 358,
+      "name": "Kinderboerderij Terneuzen",
+      "latitude": 51.324889,
+      "longitude": 3.853107,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 359,
+      "name": "Kinderboerderij Uden",
+      "latitude": 51.672721,
+      "longitude": 5.623261,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 360,
+      "name": "Kinderboerderij Vivaldi",
+      "latitude": 52.024536,
+      "longitude": 4.179362,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 361,
+      "name": "Kinderboerderij Voorschoten",
+      "latitude": 52.118533,
+      "longitude": 4.430321,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 362,
+      "name": "Kinderboerderij Warande",
+      "latitude": 52.284753,
+      "longitude": 5.254342,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 363,
+      "name": "Kinderboerderij Westerpark",
+      "latitude": 52.387285,
+      "longitude": 4.865492,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 364,
+      "name": "Kinderboerderij Westerweide",
+      "latitude": 52.191172,
+      "longitude": 4.434869,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 365,
+      "name": "Kinderboerderij Wezenlanden",
+      "latitude": 52.505796,
+      "longitude": 6.113045,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 366,
+      "name": "Kinderboerderij Wilhelminapark",
+      "latitude": 51.498188,
+      "longitude": 5.390577,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 367,
+      "name": "Kinderboerderij Zegersloot",
+      "latitude": 52.141247,
+      "longitude": 4.689643,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 368,
+      "name": "Kinderboerderij de Beestenboel",
+      "latitude": 51.912531,
+      "longitude": 4.228668,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 369,
+      "name": "Kinderboerderij de Kiboe-hoeve",
+      "latitude": 51.819887,
+      "longitude": 4.623157,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 370,
+      "name": "Kinderboerderij de Leijhoeve",
+      "latitude": 51.519707,
+      "longitude": 4.685293,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 371,
+      "name": "Kinderboerderij de Maten",
+      "latitude": 52.198582,
+      "longitude": 5.999055,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 372,
+      "name": "Kinderboerderij de Meent",
+      "latitude": 52.264875,
+      "longitude": 5.131726,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 373,
+      "name": "Kinderboerderij de Molenwei",
+      "latitude": 51.881927,
+      "longitude": 4.466864,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 374,
+      "name": "Kinderboerderij de Oosterhoeve",
+      "latitude": 51.68711,
+      "longitude": 5.335878,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 375,
+      "name": "Kinderboerderij de Pijp",
+      "latitude": 52.349239,
+      "longitude": 4.892712,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 376,
+      "name": "Kinderboerderij de Reuvershoeve",
+      "latitude": 52.124386,
+      "longitude": 6.172415,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 377,
+      "name": "Kinderboerderij de Schoterhoeve",
+      "latitude": 52.410898,
+      "longitude": 4.645775,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 378,
+      "name": "Kinderboerderij de Schouw Zutphen",
+      "latitude": 52.128989,
+      "longitude": 6.199152,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 379,
+      "name": "Kinderboerderij de Taghof",
+      "latitude": 52.618148,
+      "longitude": 6.035898,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 380,
+      "name": "Kinderboerderij: Het Langoortje",
+      "latitude": 52.77147,
+      "longitude": 5.113811,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 381,
+      "name": "Kinderboerderĳ de Klepperhoeve",
+      "latitude": 51.488127,
+      "longitude": 3.619974,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 382,
+      "name": "Kinderdierentuin",
+      "latitude": 53.16255,
+      "longitude": 5.43219,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 383,
+      "name": "Klein Costa Rica",
+      "latitude": 51.363044,
+      "longitude": 5.715967,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 384,
+      "name": "Kleindierwandelpark Hedel",
+      "latitude": 51.745995,
+      "longitude": 5.260869,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 385,
+      "name": "Klinkboerderij",
+      "latitude": 52.315711,
+      "longitude": 5.604371,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 386,
+      "name": "Kobus",
+      "latitude": 51.837191,
+      "longitude": 5.842809,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 387,
+      "name": "Landgoed Hoenderdaell",
+      "latitude": 52.864706,
+      "longitude": 4.847888,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 388,
+      "name": "MMM Kinderboerderij",
+      "latitude": 52.337933,
+      "longitude": 5.534008,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 389,
+      "name": "Meerzoo",
+      "latitude": 52.718861,
+      "longitude": 5.90756,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 390,
+      "name": "Milieu Educatie en Kinderboerderij (MEK)",
+      "latitude": 51.647868,
+      "longitude": 4.878387,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 391,
+      "name": "Natuurboerderij BalkInn",
+      "latitude": 52.57238,
+      "longitude": 6.281277,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 392,
+      "name": "Natuurcentrum Gorinchem",
+      "latitude": 51.839383,
+      "longitude": 4.953656,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 393,
+      "name": "Natuurkwartier",
+      "latitude": 52.039126,
+      "longitude": 5.07229,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 394,
+      "name": "Natuurkwartier",
+      "latitude": 52.052207,
+      "longitude": 5.079652,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 395,
+      "name": "Nieuw Rotsoord dierentuin",
+      "latitude": 52.07408,
+      "longitude": 5.122223,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 396,
+      "name": "Nolderwoud",
+      "latitude": 52.640974,
+      "longitude": 6.428846,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 397,
+      "name": "Odilia",
+      "latitude": 51.891306,
+      "longitude": 4.51853,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 398,
+      "name": "Onze Beestenboel",
+      "latitude": 51.339171,
+      "longitude": 6.18702,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 399,
+      "name": "Ooievaarsbuitenstation Zegveld",
+      "latitude": 52.114078,
+      "longitude": 4.833422,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 400,
+      "name": "Op den Dijk",
+      "latitude": 52.026744,
+      "longitude": 4.299708,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 401,
+      "name": "Otterverblijf",
+      "latitude": 51.326323,
+      "longitude": 5.422992,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 402,
+      "name": "Ouwehands Dierenpark",
+      "latitude": 51.957847,
+      "longitude": 5.59019,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 403,
+      "name": "Paardenweide",
+      "latitude": 52.354446,
+      "longitude": 5.158362,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 404,
+      "name": "Pantropica",
+      "latitude": 52.758886,
+      "longitude": 5.83422,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 405,
+      "name": "Peelzicht",
+      "latitude": 51.611806,
+      "longitude": 5.738185,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 406,
+      "name": "Pluk!",
+      "latitude": 52.050278,
+      "longitude": 4.228954,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 407,
+      "name": "Quirijnstokpark",
+      "latitude": 51.583591,
+      "longitude": 5.107529,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 408,
+      "name": "Recreatiepark Dronten - Dierenpark",
+      "latitude": 52.527792,
+      "longitude": 5.717612,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 409,
+      "name": "Reptielenhuis De Aarde",
+      "latitude": 51.593336,
+      "longitude": 4.815345,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 410,
+      "name": "Reptielenzoo Iguana",
+      "latitude": 51.441922,
+      "longitude": 3.572806,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 411,
+      "name": "Safaripark Beekse Bergen",
+      "latitude": 51.517382,
+      "longitude": 5.1149,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 412,
+      "name": "Safaripark Beekse Bergen",
+      "latitude": 51.517641,
+      "longitude": 5.115542,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 413,
+      "name": "Schaapskooi",
+      "latitude": 52.7946,
+      "longitude": 6.251639,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 414,
+      "name": "Schaapskooi Ottoland",
+      "latitude": 51.892865,
+      "longitude": 4.870998,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 415,
+      "name": "Schaapskooi Schijndel",
+      "latitude": 51.625988,
+      "longitude": 5.466356,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 416,
+      "name": "Serpo",
+      "latitude": 52.041709,
+      "longitude": 4.337408,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 417,
+      "name": "Speelboerderij Het Buitenbeest",
+      "latitude": 52.059775,
+      "longitude": 4.47634,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 418,
+      "name": "Stadsboerderij \"De Blijde Wei\"",
+      "latitude": 51.968668,
+      "longitude": 4.540468,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 419,
+      "name": "Stadsboerderij BuytenDelft",
+      "latitude": 52.017427,
+      "longitude": 4.375082,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 420,
+      "name": "Stadsboerderij Darwinpark",
+      "latitude": 52.439803,
+      "longitude": 4.845251,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 421,
+      "name": "Stadsboerderij De Balijhoeve",
+      "latitude": 52.044832,
+      "longitude": 4.457991,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 422,
+      "name": "Stadsboerderij De Griftsteede",
+      "latitude": 52.101634,
+      "longitude": 5.128285,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 423,
+      "name": "Stadsboerderij De Kooi",
+      "latitude": 51.871271,
+      "longitude": 4.51652,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 424,
+      "name": "Stadsboerderij De Reigershof",
+      "latitude": 52.087064,
+      "longitude": 4.359457,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 425,
+      "name": "Stadsboerderij De Weidemolen",
+      "latitude": 52.059421,
+      "longitude": 4.552537,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 426,
+      "name": "Stadsboerderij Gagelhoeve",
+      "latitude": 52.069842,
+      "longitude": 4.266132,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 427,
+      "name": "Stadsboerderij Herweijerhoeve",
+      "latitude": 52.058474,
+      "longitude": 4.279056,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 428,
+      "name": "Stadsboerderij Holywood",
+      "latitude": 51.937302,
+      "longitude": 4.350884,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 429,
+      "name": "Stadsboerderij Koppelsteede",
+      "latitude": 52.056777,
+      "longitude": 5.137632,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 430,
+      "name": "Stadsboerderij Molenweide",
+      "latitude": 52.065113,
+      "longitude": 4.333655,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 431,
+      "name": "Stadsboerderij Wageningen",
+      "latitude": 51.966073,
+      "longitude": 5.667388,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 432,
+      "name": "Stadsboerderij Weizigt",
+      "latitude": 51.806502,
+      "longitude": 4.66559,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 433,
+      "name": "Stadskinderboerderij Essesteijn",
+      "latitude": 52.080298,
+      "longitude": 4.376389,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 434,
+      "name": "Stal",
+      "latitude": 52.34029,
+      "longitude": 5.27204,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 435,
+      "name": "Stichting Dierenpark",
+      "latitude": 50.843509,
+      "longitude": 5.689579,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 436,
+      "name": "Stichting Dierenparkje de Wiken",
+      "latitude": 53.115198,
+      "longitude": 6.116915,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 437,
+      "name": "Stichting Dierenweide Ooltgensplaat",
+      "latitude": 51.680158,
+      "longitude": 4.346011,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 438,
+      "name": "Stichting Zomo Wonen en Dagbesteding",
+      "latitude": 52.03133,
+      "longitude": 5.14429,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 439,
+      "name": "Taman Indonesia",
+      "latitude": 52.804308,
+      "longitude": 6.187126,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 440,
+      "name": "Texel Zoo",
+      "latitude": 53.09873,
+      "longitude": 4.857475,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 441,
+      "name": "Tonckens dierenpark",
+      "latitude": 52.677862,
+      "longitude": 6.42419,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 442,
+      "name": "Toon en Ellys' beestenboel",
+      "latitude": 51.423186,
+      "longitude": 5.508969,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 443,
+      "name": "Uilen- en Dierenpark de Paay",
+      "latitude": 51.897611,
+      "longitude": 5.167112,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 444,
+      "name": "Uylenburg",
+      "latitude": 52.367389,
+      "longitude": 4.844972,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 445,
+      "name": "Van Blanckendaell Park",
+      "latitude": 52.737475,
+      "longitude": 4.743035,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 446,
+      "name": "Velserbeek",
+      "latitude": 52.460011,
+      "longitude": 4.644534,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 447,
+      "name": "Vlinderparadijs Papiliorama",
+      "latitude": 52.785034,
+      "longitude": 6.224439,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 448,
+      "name": "Vlinders aan de Vliet",
+      "latitude": 52.101962,
+      "longitude": 4.416873,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 449,
+      "name": "Vlindorado",
+      "latitude": 52.734218,
+      "longitude": 4.825838,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 450,
+      "name": "Vogelhuis",
+      "latitude": 52.309846,
+      "longitude": 6.528738,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 451,
+      "name": "Vogelhuis",
+      "latitude": 52.434896,
+      "longitude": 6.234576,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 452,
+      "name": "Vogelpark Woerden",
+      "latitude": 52.08895,
+      "longitude": 4.88545,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 453,
+      "name": "Voliere",
+      "latitude": 51.957908,
+      "longitude": 5.753345,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 454,
+      "name": "Volière",
+      "latitude": 52.044645,
+      "longitude": 6.613886,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 455,
+      "name": "Volière Scheybeeck",
+      "latitude": 52.478341,
+      "longitude": 4.648787,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 456,
+      "name": "VéFauna",
+      "latitude": 53.031584,
+      "longitude": 6.398417,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 457,
+      "name": "Weth. Roeffenpark",
+      "latitude": 51.824526,
+      "longitude": 5.630555,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 458,
+      "name": "Weverkeshof",
+      "latitude": 51.48075,
+      "longitude": 5.554021,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 459,
+      "name": "Wijkboerderij Stadshagen",
+      "latitude": 52.533037,
+      "longitude": 6.051023,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 460,
+      "name": "Wildlands Adventure Zoo Emmen",
+      "latitude": 52.780597,
+      "longitude": 6.888428,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 461,
+      "name": "Wildpark Gangelt",
+      "latitude": 50.983244,
+      "longitude": 5.965554,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 462,
+      "name": "Wonderwereld",
+      "latitude": 52.870255,
+      "longitude": 7.077675,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 463,
+      "name": "Zimmerterrein",
+      "latitude": 52.368674,
+      "longitude": 4.864295,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 464,
+      "name": "Zoddepark",
+      "latitude": 52.563298,
+      "longitude": 5.926981,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 465,
+      "name": "Zoo Bizar",
+      "latitude": 52.843474,
+      "longitude": 6.659186,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 466,
+      "name": "Zoo Veldhoven",
+      "latitude": 51.426593,
+      "longitude": 5.349918,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 467,
+      "name": "ZooParc Overloon",
+      "latitude": 51.578198,
+      "longitude": 5.938783,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 468,
+      "name": "Zorg- en Kinderboerderij In de Krom",
+      "latitude": 51.992626,
+      "longitude": 4.659777,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 469,
+      "name": "Zorg- en Kinderboerderij Wassenaar",
+      "latitude": 52.150423,
+      "longitude": 4.417829,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 470,
+      "name": "Zorgboerderij De Kroon",
+      "latitude": 51.948077,
+      "longitude": 5.868969,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 471,
+      "name": "Zorgboerderij Wouterbergen",
+      "latitude": 51.345394,
+      "longitude": 5.712488,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 472,
+      "name": "Zuyd Maatje",
+      "latitude": 51.997392,
+      "longitude": 4.330054,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 473,
+      "name": "de Beestenbult",
+      "latitude": 52.717481,
+      "longitude": 6.444168,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 474,
+      "name": "de Hertenbaan",
+      "latitude": 52.377766,
+      "longitude": 4.597603,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 475,
+      "name": "de Kakelenburg",
+      "latitude": 51.973009,
+      "longitude": 4.318914,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 476,
+      "name": "hertenkamp",
+      "latitude": 53.38023,
+      "longitude": 6.859955,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 477,
+      "name": "het Kukelnest",
+      "latitude": 52.23868,
+      "longitude": 6.598059,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 478,
+      "name": "kinderboerderij",
+      "latitude": 51.468042,
+      "longitude": 6.063788,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 479,
+      "name": "kinderboerderij \"De Knotwilg\"",
+      "latitude": 52.513103,
+      "longitude": 5.464644,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 480,
+      "name": "kinderboerderij Het Viaduct",
+      "latitude": 52.8803,
+      "longitude": 7.055105,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 481,
+      "name": "kinderboerderij de Pluimgraaf",
+      "latitude": 52.291144,
+      "longitude": 5.159232,
+      "osm_klasse": "tourism=zoo"
+    },
+    {
+      "id": 482,
+      "name": "kinderboerderij de Stal",
+      "latitude": 52.108362,
+      "longitude": 4.711745,
+      "osm_klasse": "tourism=zoo"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: zoo (tourism=zoo) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged tourism=zoo in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 482 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: zoo (tourism=zoo) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: zoo (tourism=zoo) — 482 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 482 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

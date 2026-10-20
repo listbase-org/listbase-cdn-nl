@@ -1,0 +1,1290 @@
+{
+  "id": "nl-osm-shop-storage-rental",
+  "name": "Netherlands OSM: storage rental (shop=storage_rental)",
+  "title": "Netherlands OSM: storage rental (shop=storage_rental)",
+  "description": "Named OpenStreetMap features tagged shop=storage_rental in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 177,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "1BOX Self Storage",
+      "latitude": 52.125686,
+      "longitude": 5.093428,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 2,
+      "name": "1Box",
+      "latitude": 51.562891,
+      "longitude": 5.102957,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 3,
+      "name": "1Box",
+      "latitude": 52.044616,
+      "longitude": 4.340778,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 4,
+      "name": "1Box Self Storage",
+      "latitude": 51.487094,
+      "longitude": 5.652777,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 5,
+      "name": "1box",
+      "latitude": 51.597234,
+      "longitude": 4.798138,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 6,
+      "name": "A7 Opslag",
+      "latitude": 53.114689,
+      "longitude": 6.138048,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 7,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 50.854168,
+      "longitude": 5.724411,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 8,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 51.433311,
+      "longitude": 5.502416,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 9,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 51.481002,
+      "longitude": 3.631144,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 10,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 51.531363,
+      "longitude": 5.043295,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 11,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 51.848254,
+      "longitude": 5.834743,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 12,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 51.915463,
+      "longitude": 4.548871,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 13,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 51.976574,
+      "longitude": 5.966242,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 14,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 52.019327,
+      "longitude": 5.669509,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 15,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 52.067518,
+      "longitude": 4.386135,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 16,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 52.071203,
+      "longitude": 5.106939,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 17,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 52.102136,
+      "longitude": 5.066596,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 18,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 52.163981,
+      "longitude": 5.423064,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 19,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 52.18679,
+      "longitude": 5.982142,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 20,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 52.249779,
+      "longitude": 6.197802,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 21,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 52.259536,
+      "longitude": 6.805851,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 22,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 52.481766,
+      "longitude": 5.498221,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 23,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 52.521378,
+      "longitude": 6.118358,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 24,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 52.609631,
+      "longitude": 4.741238,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 25,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 53.02437,
+      "longitude": 6.572802,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 26,
+      "name": "ALLSAFE Mini Opslag",
+      "latitude": 53.192657,
+      "longitude": 5.814546,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 27,
+      "name": "AllSafe Mini Opslag",
+      "latitude": 51.539229,
+      "longitude": 4.4899,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 28,
+      "name": "Allsafe",
+      "latitude": 52.475776,
+      "longitude": 4.672646,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 29,
+      "name": "BOXIE24",
+      "latitude": 51.841891,
+      "longitude": 4.99219,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 30,
+      "name": "BOXIE24",
+      "latitude": 51.908805,
+      "longitude": 4.477383,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 31,
+      "name": "BOXIE24",
+      "latitude": 51.977057,
+      "longitude": 5.967244,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 32,
+      "name": "BOXIE24",
+      "latitude": 52.083226,
+      "longitude": 4.308103,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 33,
+      "name": "BOXIE24",
+      "latitude": 52.094456,
+      "longitude": 5.114752,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 34,
+      "name": "BOXIE24",
+      "latitude": 52.170211,
+      "longitude": 5.357793,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 35,
+      "name": "BOXIE24",
+      "latitude": 52.213218,
+      "longitude": 6.000764,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 36,
+      "name": "BOXIE24",
+      "latitude": 52.23949,
+      "longitude": 6.841052,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 37,
+      "name": "BOXIE24",
+      "latitude": 52.263054,
+      "longitude": 6.794378,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 38,
+      "name": "BOXIE24",
+      "latitude": 52.28946,
+      "longitude": 4.821522,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 39,
+      "name": "BOXIE24",
+      "latitude": 52.332054,
+      "longitude": 4.921316,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 40,
+      "name": "BOXIE24",
+      "latitude": 52.374741,
+      "longitude": 6.640383,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 41,
+      "name": "BOXIE24",
+      "latitude": 52.401341,
+      "longitude": 5.26276,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 42,
+      "name": "BOXIE24",
+      "latitude": 52.50915,
+      "longitude": 6.065026,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 43,
+      "name": "BOXIE24",
+      "latitude": 52.681403,
+      "longitude": 4.828431,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 44,
+      "name": "BOXIE24 Opslag huren Amsterdam",
+      "latitude": 52.366299,
+      "longitude": 4.885207,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 45,
+      "name": "Bo-Rent Self-Storage",
+      "latitude": 52.327707,
+      "longitude": 4.928615,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 46,
+      "name": "Boxx Opslagruimte",
+      "latitude": 52.324604,
+      "longitude": 4.884665,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 47,
+      "name": "BudgetRuimte",
+      "latitude": 52.171805,
+      "longitude": 5.358877,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 48,
+      "name": "Container Hotel",
+      "latitude": 52.065322,
+      "longitude": 4.382793,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 49,
+      "name": "Container Storage Arnhem",
+      "latitude": 51.977011,
+      "longitude": 5.976164,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 50,
+      "name": "Crown Storage",
+      "latitude": 52.129804,
+      "longitude": 4.625108,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 51,
+      "name": "De Bresser Verhuizingen",
+      "latitude": 51.5826,
+      "longitude": 5.192526,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 52,
+      "name": "De Nederlandse Kluis",
+      "latitude": 51.425687,
+      "longitude": 5.48569,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 53,
+      "name": "De Nederlandse Kluis",
+      "latitude": 51.560185,
+      "longitude": 5.076205,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 54,
+      "name": "De Nederlandse Kluis",
+      "latitude": 51.690599,
+      "longitude": 5.297624,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 55,
+      "name": "De Opslagconcurrent",
+      "latitude": 52.499481,
+      "longitude": 5.438557,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 56,
+      "name": "De Poel Koel- en Vrieshuis",
+      "latitude": 53.182181,
+      "longitude": 6.180438,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 57,
+      "name": "Edelbox",
+      "latitude": 52.225814,
+      "longitude": 5.975498,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 58,
+      "name": "Eurobox Self Storage",
+      "latitude": 51.499275,
+      "longitude": 4.2983,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 59,
+      "name": "Eurobox Self Storage",
+      "latitude": 51.59987,
+      "longitude": 4.755738,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 60,
+      "name": "Eurobox Self Storage",
+      "latitude": 51.817355,
+      "longitude": 4.704995,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 61,
+      "name": "Eurobox Self Storage",
+      "latitude": 51.947563,
+      "longitude": 4.463873,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 62,
+      "name": "Eurobox Self Storage",
+      "latitude": 52.023788,
+      "longitude": 4.682054,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 63,
+      "name": "Eurobox Self Storage",
+      "latitude": 52.209534,
+      "longitude": 4.438924,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 64,
+      "name": "Eurobox Self Storage",
+      "latitude": 52.29119,
+      "longitude": 4.689791,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 65,
+      "name": "Eurobox Self Storage",
+      "latitude": 52.386235,
+      "longitude": 4.663243,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 66,
+      "name": "Eurobox Self Storage Leiden",
+      "latitude": 52.142709,
+      "longitude": 4.484621,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 67,
+      "name": "Garage boxx Voorburg",
+      "latitude": 52.084442,
+      "longitude": 4.361306,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 68,
+      "name": "GaragePark",
+      "latitude": 51.820166,
+      "longitude": 5.777334,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 69,
+      "name": "GaragePark Den Haag",
+      "latitude": 52.062953,
+      "longitude": 4.36825,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 70,
+      "name": "GaragePark Noordwijk",
+      "latitude": 52.211486,
+      "longitude": 4.436084,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 71,
+      "name": "GaragePark Purmerend Baanstee",
+      "latitude": 52.519912,
+      "longitude": 4.999261,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 72,
+      "name": "GaragePark Roosendaal",
+      "latitude": 51.556297,
+      "longitude": 4.466522,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 73,
+      "name": "Green Box",
+      "latitude": 52.361307,
+      "longitude": 6.507432,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 74,
+      "name": "HobbyCentrum Zoeterwoude",
+      "latitude": 52.118182,
+      "longitude": 4.499878,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 75,
+      "name": "Holland Storage Services BV",
+      "latitude": 52.194354,
+      "longitude": 5.141335,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 76,
+      "name": "Huureenbox",
+      "latitude": 52.289243,
+      "longitude": 4.821754,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 77,
+      "name": "KP Opslag",
+      "latitude": 53.214056,
+      "longitude": 6.26724,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 78,
+      "name": "Lockers",
+      "latitude": 52.306668,
+      "longitude": 4.763032,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 79,
+      "name": "MijnSafestore Nijmegen",
+      "latitude": 51.821378,
+      "longitude": 5.782352,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 80,
+      "name": "Mini Opslag Loosdrecht",
+      "latitude": 52.206646,
+      "longitude": 5.138795,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 81,
+      "name": "Miniopslag Yerseke",
+      "latitude": 51.48245,
+      "longitude": 4.051205,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 82,
+      "name": "Multibox Papendrecht",
+      "latitude": 51.832637,
+      "longitude": 4.73585,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 83,
+      "name": "Opbergoord",
+      "latitude": 51.763059,
+      "longitude": 5.301955,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 84,
+      "name": "Opslag Beilen",
+      "latitude": 52.863399,
+      "longitude": 6.495344,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 85,
+      "name": "Opslagman",
+      "latitude": 52.002888,
+      "longitude": 5.453976,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 86,
+      "name": "Opslagman",
+      "latitude": 52.009544,
+      "longitude": 5.569429,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 87,
+      "name": "Opslagman",
+      "latitude": 52.035702,
+      "longitude": 4.495516,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 88,
+      "name": "Opslagman",
+      "latitude": 52.09944,
+      "longitude": 5.071647,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 89,
+      "name": "Opslagman",
+      "latitude": 52.172049,
+      "longitude": 5.41755,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 90,
+      "name": "Opslagman",
+      "latitude": 52.352611,
+      "longitude": 5.189997,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 91,
+      "name": "Opslagman",
+      "latitude": 52.402785,
+      "longitude": 5.252517,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 92,
+      "name": "Opslagunits Woellust",
+      "latitude": 53.291922,
+      "longitude": 6.597687,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 93,
+      "name": "Opslagunits.nl",
+      "latitude": 53.236207,
+      "longitude": 6.583365,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 94,
+      "name": "Rent a Box",
+      "latitude": 52.480787,
+      "longitude": 4.666147,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 95,
+      "name": "SAFE Ruimteverhuur",
+      "latitude": 51.541363,
+      "longitude": 4.462026,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 96,
+      "name": "Salland Storage BV",
+      "latitude": 52.249136,
+      "longitude": 6.180647,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 97,
+      "name": "Self Storage Zuidlaren",
+      "latitude": 53.098382,
+      "longitude": 6.691781,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 98,
+      "name": "Selfstorage Berkel",
+      "latitude": 51.980527,
+      "longitude": 4.45605,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 99,
+      "name": "Shurgard Self-Storage",
+      "latitude": 50.84253,
+      "longitude": 5.7147,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 100,
+      "name": "Shurgard Self-Storage",
+      "latitude": 50.855178,
+      "longitude": 6.003845,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 101,
+      "name": "Shurgard Self-Storage",
+      "latitude": 50.873045,
+      "longitude": 5.712365,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 102,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.415926,
+      "longitude": 5.425809,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 103,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.43422,
+      "longitude": 5.428015,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 104,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.437064,
+      "longitude": 5.498666,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 105,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.479523,
+      "longitude": 5.437715,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 106,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.483835,
+      "longitude": 3.626538,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 107,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.56692,
+      "longitude": 5.099943,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 108,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.602291,
+      "longitude": 4.777621,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 109,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.702833,
+      "longitude": 5.271108,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 110,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.804522,
+      "longitude": 4.648895,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 111,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.81755,
+      "longitude": 4.711209,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 112,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.847695,
+      "longitude": 5.830622,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 113,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.850283,
+      "longitude": 5.832591,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 114,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.85103,
+      "longitude": 4.307659,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 115,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.854423,
+      "longitude": 4.294092,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 116,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.895709,
+      "longitude": 4.532785,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 117,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.90047,
+      "longitude": 4.514939,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 118,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.922929,
+      "longitude": 4.420725,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 119,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.926143,
+      "longitude": 4.426866,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 120,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.948844,
+      "longitude": 4.547392,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 121,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.958735,
+      "longitude": 4.579436,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 122,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.960601,
+      "longitude": 4.58478,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 123,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.971841,
+      "longitude": 5.935636,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 124,
+      "name": "Shurgard Self-Storage",
+      "latitude": 51.988056,
+      "longitude": 4.359356,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 125,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.014652,
+      "longitude": 4.279406,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 126,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.025659,
+      "longitude": 4.363148,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 127,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.026955,
+      "longitude": 4.676651,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 128,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.027024,
+      "longitude": 5.645893,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 129,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.039172,
+      "longitude": 4.334078,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 130,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.041739,
+      "longitude": 4.243376,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 131,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.046547,
+      "longitude": 4.508908,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 132,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.046888,
+      "longitude": 4.513624,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 133,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.049762,
+      "longitude": 5.116477,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 134,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.062204,
+      "longitude": 4.316244,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 135,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.066093,
+      "longitude": 4.346067,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 136,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.100218,
+      "longitude": 5.085086,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 137,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.1061,
+      "longitude": 5.055877,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 138,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.125432,
+      "longitude": 5.092795,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 139,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.13962,
+      "longitude": 4.409953,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 140,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.168183,
+      "longitude": 5.358653,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 141,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.177768,
+      "longitude": 5.419244,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 142,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.182671,
+      "longitude": 5.9818,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 143,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.220559,
+      "longitude": 5.147604,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 144,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.274601,
+      "longitude": 6.778428,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 145,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.280139,
+      "longitude": 4.838927,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 146,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.306222,
+      "longitude": 4.940341,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 147,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.331147,
+      "longitude": 4.974102,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 148,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.331661,
+      "longitude": 4.91959,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 149,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.333292,
+      "longitude": 4.978004,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 150,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.344692,
+      "longitude": 4.628876,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 151,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.346607,
+      "longitude": 4.76517,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 152,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.346617,
+      "longitude": 4.832948,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 153,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.35226,
+      "longitude": 5.19559,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 154,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.373996,
+      "longitude": 5.272629,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 155,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.389759,
+      "longitude": 4.785121,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 156,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.392492,
+      "longitude": 4.854764,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 157,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.394937,
+      "longitude": 4.653043,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 158,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.409461,
+      "longitude": 4.88557,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 159,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.429114,
+      "longitude": 4.841252,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 160,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.516058,
+      "longitude": 4.976646,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 161,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.629267,
+      "longitude": 4.763535,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 162,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.644568,
+      "longitude": 5.095512,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 163,
+      "name": "Shurgard Self-Storage",
+      "latitude": 52.933376,
+      "longitude": 5.94803,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 164,
+      "name": "Shurgard Self-Storage",
+      "latitude": 53.203977,
+      "longitude": 6.602429,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 165,
+      "name": "Shurgard Self-Storage",
+      "latitude": 53.208267,
+      "longitude": 6.540276,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 166,
+      "name": "SlaOpBijStrang",
+      "latitude": 51.642851,
+      "longitude": 5.295461,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 167,
+      "name": "Space Winner",
+      "latitude": 52.228534,
+      "longitude": 6.849107,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 168,
+      "name": "Stalling Opslag Smilde",
+      "latitude": 52.928869,
+      "longitude": 6.412931,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 169,
+      "name": "Stalling Opslag Smilde",
+      "latitude": 52.929478,
+      "longitude": 6.414326,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 170,
+      "name": "Storage Share",
+      "latitude": 50.861675,
+      "longitude": 6.006938,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 171,
+      "name": "Storage Share",
+      "latitude": 53.197489,
+      "longitude": 5.790043,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 172,
+      "name": "Teeuwen Opslag",
+      "latitude": 52.105722,
+      "longitude": 6.328994,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 173,
+      "name": "Top Opslagbox",
+      "latitude": 53.117215,
+      "longitude": 6.077638,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 174,
+      "name": "Van Paddenburg Verhuur",
+      "latitude": 52.288444,
+      "longitude": 4.89014,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 175,
+      "name": "XL Box",
+      "latitude": 51.887163,
+      "longitude": 5.810211,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 176,
+      "name": "YourBox Self Storage",
+      "latitude": 52.183963,
+      "longitude": 5.280521,
+      "osm_klasse": "shop=storage_rental"
+    },
+    {
+      "id": 177,
+      "name": "de BOX",
+      "latitude": 52.09916,
+      "longitude": 5.074621,
+      "osm_klasse": "shop=storage_rental"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: storage rental (shop=storage_rental) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=storage_rental in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 177 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: storage rental (shop=storage_rental) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: storage rental (shop=storage_rental) — 177 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 177 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

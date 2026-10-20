@@ -1,0 +1,2529 @@
+{
+  "id": "nl-osm-historic-archaeological-site",
+  "name": "Netherlands OSM: archaeological site (historic=archaeological_site)",
+  "title": "Netherlands OSM: archaeological site (historic=archaeological_site)",
+  "description": "Named OpenStreetMap features tagged historic=archaeological_site in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 354,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Bargie",
+      "latitude": 52.999528,
+      "longitude": 6.709574,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 2,
+      "name": "'t Rond Bargie",
+      "latitude": 52.880094,
+      "longitude": 6.869659,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 3,
+      "name": "40 grafheuvels",
+      "latitude": 53.048454,
+      "longitude": 6.454064,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 4,
+      "name": "Aldringaborg",
+      "latitude": 53.310018,
+      "longitude": 6.457235,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 5,
+      "name": "Appelse walburg",
+      "latitude": 52.192351,
+      "longitude": 5.541636,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 6,
+      "name": "Archeologisch Openluchtmuseum Swifterkamp",
+      "latitude": 52.48048,
+      "longitude": 5.530257,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 7,
+      "name": "BZN 10",
+      "latitude": 53.031949,
+      "longitude": 4.937754,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 8,
+      "name": "Balloërkuil",
+      "latitude": 52.990189,
+      "longitude": 6.638777,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 9,
+      "name": "Balsvoort Boerderijen",
+      "latitude": 51.555235,
+      "longitude": 5.265458,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 10,
+      "name": "Begraafplaats;Site voormalig kasteel Opijnen",
+      "latitude": 51.833208,
+      "longitude": 5.302246,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 11,
+      "name": "Berg van Troje",
+      "latitude": 51.425867,
+      "longitude": 3.738588,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 12,
+      "name": "Bisschopsschans",
+      "latitude": 52.586595,
+      "longitude": 6.198354,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 13,
+      "name": "Bolbaken",
+      "latitude": 51.733152,
+      "longitude": 4.881546,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 14,
+      "name": "Borchbargien",
+      "latitude": 52.783349,
+      "longitude": 6.297759,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 15,
+      "name": "Borg Ulgersma",
+      "latitude": 53.238694,
+      "longitude": 6.587762,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 16,
+      "name": "Bruggeschans",
+      "latitude": 53.128493,
+      "longitude": 7.048078,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 17,
+      "name": "Bult van Buist",
+      "latitude": 53.205461,
+      "longitude": 6.508906,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 18,
+      "name": "Burcht Sevenaer",
+      "latitude": 51.926967,
+      "longitude": 6.074006,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 19,
+      "name": "Burial Mounds",
+      "latitude": 51.78726,
+      "longitude": 5.798047,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 20,
+      "name": "Caetshage",
+      "latitude": 51.949076,
+      "longitude": 5.235738,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 21,
+      "name": "Castellum Fectio",
+      "latitude": 52.057932,
+      "longitude": 5.161946,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 22,
+      "name": "Castellum Meinerswijk",
+      "latitude": 51.972192,
+      "longitude": 5.873828,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 23,
+      "name": "Celtic Field Bergeijk-De Paal",
+      "latitude": 51.341836,
+      "longitude": 5.349568,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 24,
+      "name": "Celtic Field Brakelse Akkers",
+      "latitude": 51.510467,
+      "longitude": 5.00311,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 25,
+      "name": "Celtic Field Bremheide",
+      "latitude": 51.387585,
+      "longitude": 5.340669,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 26,
+      "name": "Celtic Field Broekhuizerdijk",
+      "latitude": 51.47623,
+      "longitude": 6.115735,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 27,
+      "name": "Celtic Field De Kuijper",
+      "latitude": 51.065628,
+      "longitude": 5.921327,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 28,
+      "name": "Celtic Field De Kuijper",
+      "latitude": 51.066206,
+      "longitude": 5.921812,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 29,
+      "name": "Celtic Field Gebleektendijk",
+      "latitude": 51.287706,
+      "longitude": 5.803072,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 30,
+      "name": "Celtic Field Gebleektendijk",
+      "latitude": 51.288244,
+      "longitude": 5.804323,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 31,
+      "name": "Celtic Field Gekkengraaf",
+      "latitude": 51.435971,
+      "longitude": 6.123332,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 32,
+      "name": "Celtic Field Hasselsvennen",
+      "latitude": 51.323962,
+      "longitude": 5.504402,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 33,
+      "name": "Celtic Field Hasselsvennen",
+      "latitude": 51.324501,
+      "longitude": 5.505228,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 34,
+      "name": "Celtic Field Hazepoot",
+      "latitude": 51.482412,
+      "longitude": 6.218831,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 35,
+      "name": "Celtic Field Heibloem",
+      "latitude": 51.297401,
+      "longitude": 5.906667,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 36,
+      "name": "Celtic Field Hoenderboom",
+      "latitude": 51.38999,
+      "longitude": 5.640092,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 37,
+      "name": "Celtic Field Hoogeind-Loveren-Baarle",
+      "latitude": 51.437416,
+      "longitude": 4.908219,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 38,
+      "name": "Celtic Field Houthuizerweg Lottum",
+      "latitude": 51.442237,
+      "longitude": 6.13774,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 39,
+      "name": "Celtic Field Houthuizerweg Lottum",
+      "latitude": 51.443546,
+      "longitude": 6.135492,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 40,
+      "name": "Celtic Field Kraijel Heide",
+      "latitude": 51.381387,
+      "longitude": 6.084589,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 41,
+      "name": "Celtic Field Kraijel Heide",
+      "latitude": 51.382018,
+      "longitude": 6.085273,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 42,
+      "name": "Celtic Field Leeuwerikkeneik",
+      "latitude": 51.494258,
+      "longitude": 5.00825,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 43,
+      "name": "Celtic Field Maria-Hoop - Annendaalsbosch",
+      "latitude": 51.088501,
+      "longitude": 5.974085,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 44,
+      "name": "Celtic Field Maria-Hoop - Annendaalsbosch",
+      "latitude": 51.08935,
+      "longitude": 5.975002,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 45,
+      "name": "Celtic Field Riethoven-Grote Heide",
+      "latitude": 51.344293,
+      "longitude": 5.363385,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 46,
+      "name": "Celtic Field Riethoven-Grote Heide",
+      "latitude": 51.344557,
+      "longitude": 5.362383,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 47,
+      "name": "Celtic Field Steenheuvel",
+      "latitude": 51.157505,
+      "longitude": 6.113518,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 48,
+      "name": "Celtic Field Valkenheide",
+      "latitude": 51.46311,
+      "longitude": 6.198397,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 49,
+      "name": "Celtic Field Voordenberg",
+      "latitude": 51.353197,
+      "longitude": 5.406662,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 50,
+      "name": "Celtic Field Walbeckersweg",
+      "latitude": 51.505976,
+      "longitude": 6.203943,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 51,
+      "name": "Celtic Field Walbeckersweg",
+      "latitude": 51.506679,
+      "longitude": 6.204076,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 52,
+      "name": "Celtic Field Woenselse Heide",
+      "latitude": 51.465222,
+      "longitude": 5.439679,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 53,
+      "name": "Cultuur historisch monument Varsen",
+      "latitude": 52.514767,
+      "longitude": 6.379608,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 54,
+      "name": "D52a Pottiesbargien",
+      "latitude": 52.872307,
+      "longitude": 6.291417,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 55,
+      "name": "De Annenborch",
+      "latitude": 51.722468,
+      "longitude": 5.359625,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 56,
+      "name": "De Bult",
+      "latitude": 52.341746,
+      "longitude": 5.307397,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 57,
+      "name": "De Galgenberg van Neeritter",
+      "latitude": 51.171596,
+      "longitude": 5.791182,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 58,
+      "name": "De Germaanse Put",
+      "latitude": 52.105531,
+      "longitude": 5.657075,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 59,
+      "name": "De Gülsche Schans",
+      "latitude": 50.981072,
+      "longitude": 5.966114,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 60,
+      "name": "De Hunenborg",
+      "latitude": 52.385703,
+      "longitude": 6.931831,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 61,
+      "name": "De Kielse Kei",
+      "latitude": 52.854054,
+      "longitude": 6.734384,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 62,
+      "name": "De Sint Janskapel",
+      "latitude": 51.848298,
+      "longitude": 5.864353,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 63,
+      "name": "De Sjans",
+      "latitude": 51.193579,
+      "longitude": 5.73603,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 64,
+      "name": "De Standerdmolen van Waspik",
+      "latitude": 51.683712,
+      "longitude": 4.934489,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 65,
+      "name": "De Vossenberg Motte",
+      "latitude": 50.961423,
+      "longitude": 5.970068,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 66,
+      "name": "De Waterburcht",
+      "latitude": 53.126708,
+      "longitude": 6.56573,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 67,
+      "name": "De Worf",
+      "latitude": 53.392998,
+      "longitude": 5.33054,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 68,
+      "name": "De Zândkoele",
+      "latitude": 52.659356,
+      "longitude": 6.012789,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 69,
+      "name": "De kuil van Stoop",
+      "latitude": 52.091102,
+      "longitude": 5.313891,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 70,
+      "name": "De zwarte berg",
+      "latitude": 51.405404,
+      "longitude": 5.261033,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 71,
+      "name": "Dorpswoning",
+      "latitude": 52.055855,
+      "longitude": 5.163937,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 72,
+      "name": "Duitse loopgraaf uit de Eerste Wereldoorlog",
+      "latitude": 51.88666,
+      "longitude": 6.185986,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 73,
+      "name": "Ellerschans",
+      "latitude": 51.227139,
+      "longitude": 5.787045,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 74,
+      "name": "Emmerschans",
+      "latitude": 52.797469,
+      "longitude": 6.950857,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 75,
+      "name": "Engeler Schans",
+      "latitude": 51.717594,
+      "longitude": 5.273787,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 76,
+      "name": "Engelse Schans",
+      "latitude": 52.003865,
+      "longitude": 6.601204,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 77,
+      "name": "Eppiesbergje",
+      "latitude": 52.847667,
+      "longitude": 6.865887,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 78,
+      "name": "Exloo Zuideres",
+      "latitude": 52.86966,
+      "longitude": 6.877232,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 79,
+      "name": "Fort",
+      "latitude": 51.478481,
+      "longitude": 6.216341,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 80,
+      "name": "Fort Cantelmo",
+      "latitude": 51.092692,
+      "longitude": 5.827162,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 81,
+      "name": "Fort Hazepoot",
+      "latitude": 51.475805,
+      "longitude": 6.219491,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 82,
+      "name": "Fort Knodsenburg",
+      "latitude": 51.855018,
+      "longitude": 5.863842,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 83,
+      "name": "Fort Nijburcht",
+      "latitude": 51.954177,
+      "longitude": 5.728129,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 84,
+      "name": "Fort Pinssen",
+      "latitude": 51.516428,
+      "longitude": 4.291958,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 85,
+      "name": "Fort Sint-Michiel",
+      "latitude": 51.372237,
+      "longitude": 6.157512,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 86,
+      "name": "Forum Hadriani",
+      "latitude": 52.060375,
+      "longitude": 4.348132,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 87,
+      "name": "Galgenberg",
+      "latitude": 52.143026,
+      "longitude": 5.365676,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 88,
+      "name": "Galgenberg",
+      "latitude": 52.814578,
+      "longitude": 6.771187,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 89,
+      "name": "Galgenberg",
+      "latitude": 53.060752,
+      "longitude": 6.696561,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 90,
+      "name": "Galgenveld",
+      "latitude": 52.409994,
+      "longitude": 6.54851,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 91,
+      "name": "Gemeentegrot",
+      "latitude": 50.862407,
+      "longitude": 5.828709,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 92,
+      "name": "Geologisch monument",
+      "latitude": 53.244421,
+      "longitude": 5.924011,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 93,
+      "name": "Graf Klokbekervolk",
+      "latitude": 52.266519,
+      "longitude": 5.688343,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 94,
+      "name": "Graf van een vorst(in)",
+      "latitude": 51.701916,
+      "longitude": 5.599227,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 95,
+      "name": "Grafheuvel",
+      "latitude": 51.610912,
+      "longitude": 5.325213,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 96,
+      "name": "Grafheuvel",
+      "latitude": 52.814762,
+      "longitude": 6.428568,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 97,
+      "name": "Grafheuvel",
+      "latitude": 52.894732,
+      "longitude": 6.323622,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 98,
+      "name": "Grafheuvel",
+      "latitude": 52.895656,
+      "longitude": 6.664018,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 99,
+      "name": "Grafheuvel",
+      "latitude": 52.996181,
+      "longitude": 6.714884,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 100,
+      "name": "Grafheuvel Bodenpad",
+      "latitude": 52.901105,
+      "longitude": 6.816394,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 101,
+      "name": "Grafheuvel Gendersteyn",
+      "latitude": 51.385992,
+      "longitude": 5.361031,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 102,
+      "name": "Grafheuvel Generaal",
+      "latitude": 52.878445,
+      "longitude": 6.230797,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 103,
+      "name": "Grafheuvel Hattumseweg Vaassen",
+      "latitude": 52.289473,
+      "longitude": 5.909978,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 104,
+      "name": "Grafheuvel Hunzebos",
+      "latitude": 52.867807,
+      "longitude": 6.867201,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 105,
+      "name": "Grafheuvel Iemenhees",
+      "latitude": 52.896287,
+      "longitude": 6.838692,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 106,
+      "name": "Grafheuvel In de Exdel",
+      "latitude": 50.908347,
+      "longitude": 6.009485,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 107,
+      "name": "Grafheuvel Majoor",
+      "latitude": 52.879012,
+      "longitude": 6.23144,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 108,
+      "name": "Grafheuvel Monnikenbosch",
+      "latitude": 52.149284,
+      "longitude": 5.333973,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 109,
+      "name": "Grafheuvel Roghairsparren",
+      "latitude": 51.973265,
+      "longitude": 5.547684,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 110,
+      "name": "Grafveld Busjop",
+      "latitude": 51.243178,
+      "longitude": 5.911328,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 111,
+      "name": "Grafveld Prinses van Zweeloo",
+      "latitude": 52.793834,
+      "longitude": 6.741903,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 112,
+      "name": "Grenskerk",
+      "latitude": 51.306002,
+      "longitude": 5.661839,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 113,
+      "name": "Grote Doolgaard",
+      "latitude": 51.469259,
+      "longitude": 6.191921,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 114,
+      "name": "Grote Kaap",
+      "latitude": 53.457919,
+      "longitude": 6.04975,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 115,
+      "name": "Grote Kiekenbelt",
+      "latitude": 52.258204,
+      "longitude": 6.263407,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 116,
+      "name": "Helperlinie",
+      "latitude": 53.203126,
+      "longitude": 6.577388,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 117,
+      "name": "Het Bisschopsbergje",
+      "latitude": 52.17349,
+      "longitude": 5.915616,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 118,
+      "name": "Het Enghenbergje",
+      "latitude": 52.170142,
+      "longitude": 5.302922,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 119,
+      "name": "Heumense Schans",
+      "latitude": 51.764997,
+      "longitude": 5.883305,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 120,
+      "name": "Hogewerf",
+      "latitude": 51.497161,
+      "longitude": 4.039483,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 121,
+      "name": "Hoogcanne",
+      "latitude": 50.820606,
+      "longitude": 5.662231,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 122,
+      "name": "Hoogtenederzetting Plateau van Caestert",
+      "latitude": 50.809185,
+      "longitude": 5.684856,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 123,
+      "name": "Huis ter Does",
+      "latitude": 52.144478,
+      "longitude": 4.53667,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 124,
+      "name": "Huize Moerenburg",
+      "latitude": 51.55726,
+      "longitude": 5.117438,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 125,
+      "name": "Huldtoneel",
+      "latitude": 52.517477,
+      "longitude": 4.650679,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 126,
+      "name": "Hunebed D10 Gasteren",
+      "latitude": 53.04248,
+      "longitude": 6.657953,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 127,
+      "name": "Hunebed D15 Loon",
+      "latitude": 53.022734,
+      "longitude": 6.612927,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 128,
+      "name": "Hunebed D16 Balloo",
+      "latitude": 53.0004,
+      "longitude": 6.618855,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 129,
+      "name": "Hunebed D17 Rolde",
+      "latitude": 52.990186,
+      "longitude": 6.649421,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 130,
+      "name": "Hunebed D18 Rolde",
+      "latitude": 52.989551,
+      "longitude": 6.649181,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 131,
+      "name": "Hunebed D21 Bronneger",
+      "latitude": 52.944202,
+      "longitude": 6.800257,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 132,
+      "name": "Hunebed D22 Bronneger",
+      "latitude": 52.944339,
+      "longitude": 6.800505,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 133,
+      "name": "Hunebed D31a Exloo",
+      "latitude": 52.86825,
+      "longitude": 6.878624,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 134,
+      "name": "Hunebed D32 Odoorn",
+      "latitude": 52.856848,
+      "longitude": 6.839533,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 135,
+      "name": "Hunebed D34 Valthe West",
+      "latitude": 52.84266,
+      "longitude": 6.867546,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 136,
+      "name": "Hunebed D35 Valthe Zuid-west",
+      "latitude": 52.835225,
+      "longitude": 6.870823,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 137,
+      "name": "Hunebed D36 Valthe-O",
+      "latitude": 52.839742,
+      "longitude": 6.894658,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 138,
+      "name": "Hunebed D37 Valthe-O",
+      "latitude": 52.839768,
+      "longitude": 6.895023,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 139,
+      "name": "Hunebed D38 Boswachterij Emmen",
+      "latitude": 52.811311,
+      "longitude": 6.887556,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 140,
+      "name": "Hunebed D39 Boswachterij Emmen",
+      "latitude": 52.81108,
+      "longitude": 6.887447,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 141,
+      "name": "Hunebed D40 Boswachterij Emmen",
+      "latitude": 52.810861,
+      "longitude": 6.888195,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 142,
+      "name": "Hunebed D41 Emmen Noord",
+      "latitude": 52.799926,
+      "longitude": 6.885882,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 143,
+      "name": "Hunebed D43 Emmen Schimmeres",
+      "latitude": 52.793208,
+      "longitude": 6.887139,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 144,
+      "name": "Hunebed D44 Emmen Westenesch",
+      "latitude": 52.787722,
+      "longitude": 6.87223,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 145,
+      "name": "Hunebed D45 Emmerdennen",
+      "latitude": 52.791568,
+      "longitude": 6.907639,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 146,
+      "name": "Hunebed D46 Emmen - Angelslo",
+      "latitude": 52.783841,
+      "longitude": 6.935691,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 147,
+      "name": "Hunebed D47 Emmen - Angelslo",
+      "latitude": 52.781162,
+      "longitude": 6.937827,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 148,
+      "name": "Hunebed D49 Papeloze kerk",
+      "latitude": 52.820063,
+      "longitude": 6.773862,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 149,
+      "name": "Hunebed D50 Noord-Sleen",
+      "latitude": 52.796066,
+      "longitude": 6.787218,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 150,
+      "name": "Hunebed D51 Noord-Sleen",
+      "latitude": 52.794735,
+      "longitude": 6.786506,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 151,
+      "name": "Hunebed D52 Diever",
+      "latitude": 52.858983,
+      "longitude": 6.331161,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 152,
+      "name": "Hunebed D53 Havelterberg",
+      "latitude": 52.792554,
+      "longitude": 6.218132,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 153,
+      "name": "Hunebed D54 Havelterberg",
+      "latitude": 52.792589,
+      "longitude": 6.220491,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 154,
+      "name": "Hunebed Westenesch-N D42",
+      "latitude": 52.795881,
+      "longitude": 6.870404,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 155,
+      "name": "Hunnenkerkhof",
+      "latitude": 52.742559,
+      "longitude": 6.730968,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 156,
+      "name": "Hunneschans",
+      "latitude": 51.971696,
+      "longitude": 5.812011,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 157,
+      "name": "IJsselhavensluis",
+      "latitude": 52.007151,
+      "longitude": 4.713717,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 158,
+      "name": "IJzerkuilen",
+      "latitude": 52.163701,
+      "longitude": 5.931154,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 159,
+      "name": "Inlaatsluis Westervoort (IJssellinie)",
+      "latitude": 51.941872,
+      "longitude": 5.968631,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 160,
+      "name": "Kaboutersberg",
+      "latitude": 51.401844,
+      "longitude": 5.279794,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 161,
+      "name": "Karolingisch Fort",
+      "latitude": 50.867928,
+      "longitude": 5.646997,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 162,
+      "name": "Karolingische ringwalburg",
+      "latitude": 51.463319,
+      "longitude": 3.604316,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 163,
+      "name": "Karrensporen",
+      "latitude": 53.067107,
+      "longitude": 6.690919,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 164,
+      "name": "Kartuizerklooster 'Sint Bartholomeus in Jeruzalem'",
+      "latitude": 52.002189,
+      "longitude": 4.343077,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 165,
+      "name": "Kasteel Bronckhorst",
+      "latitude": 52.076192,
+      "longitude": 6.177068,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 166,
+      "name": "Kasteel Cranendonck",
+      "latitude": 51.303967,
+      "longitude": 5.591583,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 167,
+      "name": "Kasteel Duyvesteyn",
+      "latitude": 51.787167,
+      "longitude": 4.568991,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 168,
+      "name": "Kasteel Hedel",
+      "latitude": 51.745272,
+      "longitude": 5.26211,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 169,
+      "name": "Kasteel Heumen",
+      "latitude": 51.759771,
+      "longitude": 5.838788,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 170,
+      "name": "Kasteel Nijevelt",
+      "latitude": 52.08184,
+      "longitude": 5.015713,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 171,
+      "name": "Kasteel Oud Haerlem",
+      "latitude": 52.500817,
+      "longitude": 4.688094,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 172,
+      "name": "Kasteel Selwerd",
+      "latitude": 53.244347,
+      "longitude": 6.543839,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 173,
+      "name": "Kasteel Wolfswaard",
+      "latitude": 51.887398,
+      "longitude": 5.19611,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 174,
+      "name": "Kastelen Zernikelaan",
+      "latitude": 53.245075,
+      "longitude": 6.53078,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 175,
+      "name": "Kerensheide",
+      "latitude": 50.970835,
+      "longitude": 5.797186,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 176,
+      "name": "Kerkhof Klein Maarslag",
+      "latitude": 53.345489,
+      "longitude": 6.442407,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 177,
+      "name": "Kerkhof van Paveijen",
+      "latitude": 51.92986,
+      "longitude": 5.187592,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 178,
+      "name": "Kerktoren Wolbrandskerke of Cruyskerke",
+      "latitude": 51.792005,
+      "longitude": 4.677946,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 179,
+      "name": "Keutershoogte",
+      "latitude": 52.743245,
+      "longitude": 6.654787,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 180,
+      "name": "Kleine Kaap",
+      "latitude": 53.457334,
+      "longitude": 6.046864,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 181,
+      "name": "Klinkenberg",
+      "latitude": 52.742956,
+      "longitude": 6.65475,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 182,
+      "name": "Kloosterboerderij Munnikenhof",
+      "latitude": 51.805851,
+      "longitude": 5.026688,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 183,
+      "name": "Kloosterkerk Sion",
+      "latitude": 52.015304,
+      "longitude": 4.325131,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 184,
+      "name": "Kochbunker",
+      "latitude": 51.884734,
+      "longitude": 6.185091,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 185,
+      "name": "Kochbunker",
+      "latitude": 51.891331,
+      "longitude": 6.259158,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 186,
+      "name": "Kochbunker",
+      "latitude": 51.898,
+      "longitude": 6.205552,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 187,
+      "name": "Kochbunker",
+      "latitude": 51.912402,
+      "longitude": 6.209014,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 188,
+      "name": "Kochbunker",
+      "latitude": 51.916196,
+      "longitude": 6.205749,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 189,
+      "name": "Kochbunker",
+      "latitude": 51.926007,
+      "longitude": 6.237889,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 190,
+      "name": "Kochbunker",
+      "latitude": 51.928119,
+      "longitude": 6.239639,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 191,
+      "name": "Kochbunker Kale Jacob 3",
+      "latitude": 51.924139,
+      "longitude": 6.23669,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 192,
+      "name": "Kogelvanger Boordwapenschietbaan",
+      "latitude": 52.276985,
+      "longitude": 6.91008,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 193,
+      "name": "Kogge",
+      "latitude": 52.261809,
+      "longitude": 5.449558,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 194,
+      "name": "Kolibrie motorproefstand",
+      "latitude": 52.682865,
+      "longitude": 5.927068,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 195,
+      "name": "Koningsheuvel",
+      "latitude": 51.991373,
+      "longitude": 5.785062,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 196,
+      "name": "Koningstafel",
+      "latitude": 51.952346,
+      "longitude": 5.60243,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 197,
+      "name": "Lammerschans",
+      "latitude": 50.972969,
+      "longitude": 6.007524,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 198,
+      "name": "Linie Abeltjeshuis",
+      "latitude": 53.00864,
+      "longitude": 7.21376,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 199,
+      "name": "Liniedijk",
+      "latitude": 51.284327,
+      "longitude": 4.066373,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 200,
+      "name": "Liniedijk",
+      "latitude": 51.292912,
+      "longitude": 4.081613,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 201,
+      "name": "Liniedijk",
+      "latitude": 51.299722,
+      "longitude": 4.094108,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 202,
+      "name": "Loozensche Linie",
+      "latitude": 52.593629,
+      "longitude": 6.655738,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 203,
+      "name": "Luursemaborg",
+      "latitude": 53.303892,
+      "longitude": 6.468038,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 204,
+      "name": "Maelstede",
+      "latitude": 51.28353,
+      "longitude": 4.0679,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 205,
+      "name": "Malderburcht",
+      "latitude": 51.779032,
+      "longitude": 5.842636,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 206,
+      "name": "Mander grafveld",
+      "latitude": 52.458791,
+      "longitude": 6.842642,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 207,
+      "name": "Matilo",
+      "latitude": 52.149965,
+      "longitude": 4.517628,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 208,
+      "name": "Meisje van Yde",
+      "latitude": 53.096646,
+      "longitude": 6.585879,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 209,
+      "name": "Mergelp",
+      "latitude": 51.820571,
+      "longitude": 5.943607,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 210,
+      "name": "Mijlpalen van het Wateringse Veld",
+      "latitude": 52.027457,
+      "longitude": 4.286974,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 211,
+      "name": "Mookerschans",
+      "latitude": 51.758541,
+      "longitude": 5.883857,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 212,
+      "name": "Motte De Struyver",
+      "latitude": 50.89744,
+      "longitude": 5.934839,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 213,
+      "name": "Motte De Tombe",
+      "latitude": 50.825839,
+      "longitude": 5.676932,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 214,
+      "name": "Motte Den Burgh",
+      "latitude": 52.053911,
+      "longitude": 4.323682,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 215,
+      "name": "Motte Eijsden",
+      "latitude": 50.778133,
+      "longitude": 5.710937,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 216,
+      "name": "Motte Eys",
+      "latitude": 50.82597,
+      "longitude": 5.935228,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 217,
+      "name": "Motte Gracht Burggraaf",
+      "latitude": 50.820154,
+      "longitude": 5.89352,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 218,
+      "name": "Motte Terborgh",
+      "latitude": 50.944537,
+      "longitude": 5.862253,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 219,
+      "name": "Motte Wijnandsrade",
+      "latitude": 50.903063,
+      "longitude": 5.883253,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 220,
+      "name": "Muurtoren",
+      "latitude": 52.007027,
+      "longitude": 4.713088,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 221,
+      "name": "Neanderthalerkamp",
+      "latitude": 50.85582,
+      "longitude": 5.640049,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 222,
+      "name": "Nigrum Pullum",
+      "latitude": 52.104972,
+      "longitude": 4.715949,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 223,
+      "name": "O1 De Eese",
+      "latitude": 52.844229,
+      "longitude": 6.128873,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 224,
+      "name": "O2 Mander",
+      "latitude": 52.456794,
+      "longitude": 6.841301,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 225,
+      "name": "Ommerschans",
+      "latitude": 52.58738,
+      "longitude": 6.391559,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 226,
+      "name": "Onderduikershut Brakerweg",
+      "latitude": 52.013814,
+      "longitude": 6.605862,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 227,
+      "name": "Ondergrondse resten kasteel Middelburg",
+      "latitude": 52.636545,
+      "longitude": 4.764391,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 228,
+      "name": "Oppidum Caestert",
+      "latitude": 50.806858,
+      "longitude": 5.687111,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 229,
+      "name": "Oterdum",
+      "latitude": 53.311003,
+      "longitude": 6.997161,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 230,
+      "name": "Oud Orvelte / Orvelterveen",
+      "latitude": 52.86674,
+      "longitude": 6.700007,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 231,
+      "name": "Oud Rijswijkse put",
+      "latitude": 52.055385,
+      "longitude": 4.334442,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 232,
+      "name": "Oude Herptsche Poort",
+      "latitude": 51.735535,
+      "longitude": 5.141849,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 233,
+      "name": "Oude Kaap",
+      "latitude": 53.457009,
+      "longitude": 6.058005,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 234,
+      "name": "Oudeschans",
+      "latitude": 53.138321,
+      "longitude": 7.140264,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 235,
+      "name": "Overwelfde watergang",
+      "latitude": 52.640096,
+      "longitude": 5.059038,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 236,
+      "name": "Prehistorisch duin Ypenburg",
+      "latitude": 52.040132,
+      "longitude": 4.369778,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 237,
+      "name": "Prehistorisch urnenveld",
+      "latitude": 51.247828,
+      "longitude": 5.641885,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 238,
+      "name": "Prehistorische vuursteenmijn",
+      "latitude": 50.865581,
+      "longitude": 5.823218,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 239,
+      "name": "Raatakker",
+      "latitude": 51.120305,
+      "longitude": 5.993964,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 240,
+      "name": "Raatakker Putbroekerweg",
+      "latitude": 51.109579,
+      "longitude": 5.991096,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 241,
+      "name": "Raatakkers",
+      "latitude": 53.068504,
+      "longitude": 6.522645,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 242,
+      "name": "Raatakkers",
+      "latitude": 53.080151,
+      "longitude": 6.501625,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 243,
+      "name": "Reconstructie grafheuvels Slabroekse heide",
+      "latitude": 51.702169,
+      "longitude": 5.601607,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 244,
+      "name": "Redoute Bakoven",
+      "latitude": 53.013705,
+      "longitude": 7.198061,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 245,
+      "name": "Reimerswaal",
+      "latitude": 51.516343,
+      "longitude": 4.149198,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 246,
+      "name": "Replica Grafheuvel Elspeetse Heide",
+      "latitude": 52.3205,
+      "longitude": 5.814275,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 247,
+      "name": "Ridderhofstad Den Engh",
+      "latitude": 52.108527,
+      "longitude": 5.034967,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 248,
+      "name": "Ringwalburg (Reconstructie)",
+      "latitude": 51.69035,
+      "longitude": 3.736955,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 249,
+      "name": "Ringwalgrafheuvel",
+      "latitude": 51.471517,
+      "longitude": 4.939363,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 250,
+      "name": "Rolandseck",
+      "latitude": 51.974379,
+      "longitude": 5.791897,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 251,
+      "name": "Romeins Marskamp Ermelosche Heide",
+      "latitude": 52.284467,
+      "longitude": 5.690031,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 252,
+      "name": "Romeins schip Woerden 7",
+      "latitude": 52.085942,
+      "longitude": 4.881845,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 253,
+      "name": "Romeinse Maas Brug",
+      "latitude": 51.730577,
+      "longitude": 5.884541,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 254,
+      "name": "Romeinse Wachtpost Heumensoord",
+      "latitude": 51.792364,
+      "longitude": 5.869878,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 255,
+      "name": "Romeinse heiligdom Herwen-Hemeling",
+      "latitude": 51.88082,
+      "longitude": 6.074001,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 256,
+      "name": "Romeinse villa Groot Haasdal-Billich",
+      "latitude": 50.891123,
+      "longitude": 5.830907,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 257,
+      "name": "Romeinse villa Kaalheide",
+      "latitude": 50.862951,
+      "longitude": 6.042008,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 258,
+      "name": "Romeinse villa Meerssen-Onderste Herkenberg",
+      "latitude": 50.882925,
+      "longitude": 5.761945,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 259,
+      "name": "Romeinse villa Plasmolen",
+      "latitude": 51.739074,
+      "longitude": 5.924188,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 260,
+      "name": "Romeinse villa Rijswijk-de Bult",
+      "latitude": 52.030927,
+      "longitude": 4.326714,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 261,
+      "name": "Romeinse villa Steenland",
+      "latitude": 50.895793,
+      "longitude": 5.83425,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 262,
+      "name": "Romeinse wachttoren",
+      "latitude": 52.094564,
+      "longitude": 5.051181,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 263,
+      "name": "Ruitenburgerschans",
+      "latitude": 51.91771,
+      "longitude": 6.684726,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 264,
+      "name": "Ruscher Schans",
+      "latitude": 50.957421,
+      "longitude": 5.998976,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 265,
+      "name": "Russcherleen",
+      "latitude": 50.966519,
+      "longitude": 6.008343,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 266,
+      "name": "Ruïne Kasteel Egmond",
+      "latitude": 52.621881,
+      "longitude": 4.654092,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 267,
+      "name": "Schans",
+      "latitude": 51.193226,
+      "longitude": 5.800118,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 268,
+      "name": "Schans De Katshaar",
+      "latitude": 52.666821,
+      "longitude": 6.82212,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 269,
+      "name": "Schansberg De Hering",
+      "latitude": 50.982201,
+      "longitude": 6.017576,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 270,
+      "name": "Schanzberg",
+      "latitude": 50.983232,
+      "longitude": 6.004213,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 271,
+      "name": "Scheepswrak",
+      "latitude": 53.452312,
+      "longitude": 5.786976,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 272,
+      "name": "Schepen van Zwammerdam",
+      "latitude": 52.10638,
+      "longitude": 4.716014,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 273,
+      "name": "Schuilenburg",
+      "latitude": 52.407593,
+      "longitude": 6.470571,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 274,
+      "name": "Schuilkelder bij Gronselenput",
+      "latitude": 50.84293,
+      "longitude": 5.876048,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 275,
+      "name": "Sint-Barbara",
+      "latitude": 51.460056,
+      "longitude": 6.177613,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 276,
+      "name": "Site burcht te Rhenoy",
+      "latitude": 51.885378,
+      "longitude": 5.152045,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 277,
+      "name": "Slijpsteen van Slenaken",
+      "latitude": 50.766145,
+      "longitude": 5.869451,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 278,
+      "name": "Slot Heenvliet",
+      "latitude": 51.862933,
+      "longitude": 4.242559,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 279,
+      "name": "Slot Ravensteyn",
+      "latitude": 51.500686,
+      "longitude": 3.917115,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 280,
+      "name": "Slot Smallegange",
+      "latitude": 51.482926,
+      "longitude": 3.922235,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 281,
+      "name": "Slot ter Nisse",
+      "latitude": 51.453727,
+      "longitude": 3.852849,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 282,
+      "name": "Slotbosse Toren",
+      "latitude": 51.655222,
+      "longitude": 4.858779,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 283,
+      "name": "Spieker heuvel Olidam",
+      "latitude": 52.227027,
+      "longitude": 6.581847,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 284,
+      "name": "Spinolaschans",
+      "latitude": 51.625188,
+      "longitude": 4.772017,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 285,
+      "name": "Stadspoort",
+      "latitude": 52.006953,
+      "longitude": 4.711759,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 286,
+      "name": "Stadspoort",
+      "latitude": 52.006973,
+      "longitude": 4.712661,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 287,
+      "name": "Steenkist",
+      "latitude": 52.855401,
+      "longitude": 5.488273,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 288,
+      "name": "Steenkist",
+      "latitude": 52.861301,
+      "longitude": 6.336452,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 289,
+      "name": "Steentijdhuis",
+      "latitude": 52.019003,
+      "longitude": 4.318297,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 290,
+      "name": "Stenen Kamer",
+      "latitude": 52.044667,
+      "longitude": 4.221376,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 291,
+      "name": "Tankversperring uit WW2",
+      "latitude": 51.921264,
+      "longitude": 6.022459,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 292,
+      "name": "Terrein van voormalig kasteel Huis Ter Eem",
+      "latitude": 52.227167,
+      "longitude": 5.313171,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 293,
+      "name": "Thier de Caster",
+      "latitude": 50.805563,
+      "longitude": 5.688554,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 294,
+      "name": "Torenberg",
+      "latitude": 51.31043,
+      "longitude": 3.91567,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 295,
+      "name": "Trechterbeker grafveld",
+      "latitude": 52.514639,
+      "longitude": 6.275481,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 296,
+      "name": "Urnenveld Koelingsveld",
+      "latitude": 52.87106,
+      "longitude": 6.22944,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 297,
+      "name": "VINDplaats Zenit",
+      "latitude": 52.400615,
+      "longitude": 5.296507,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 298,
+      "name": "Valkenisse",
+      "latitude": 51.403869,
+      "longitude": 4.095122,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 299,
+      "name": "Valtherschans",
+      "latitude": 52.846658,
+      "longitude": 6.900645,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 300,
+      "name": "Varanda",
+      "latitude": 52.056212,
+      "longitude": 5.162972,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 301,
+      "name": "Veenbrug Smilde",
+      "latitude": 52.946206,
+      "longitude": 6.469838,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 302,
+      "name": "Venebrugger Schans",
+      "latitude": 52.562853,
+      "longitude": 6.673328,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 303,
+      "name": "Viereckschanze Niederbusch",
+      "latitude": 50.979478,
+      "longitude": 6.026196,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 304,
+      "name": "Vijfsprongschans",
+      "latitude": 50.969588,
+      "longitude": 6.01317,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 305,
+      "name": "Vindplaats Romeins badhuis",
+      "latitude": 52.087579,
+      "longitude": 5.041753,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 306,
+      "name": "Vindplaats Romeins schip \"De Meern 1\"",
+      "latitude": 52.080939,
+      "longitude": 5.020225,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 307,
+      "name": "Vindplaats Romeins schip \"De Meern 4\"",
+      "latitude": 52.080605,
+      "longitude": 5.022817,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 308,
+      "name": "Vindplaats Romeinse wachttoren",
+      "latitude": 52.08045,
+      "longitude": 5.023715,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 309,
+      "name": "Vindplaats Romeinse wachttoren",
+      "latitude": 52.090795,
+      "longitude": 4.997167,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 310,
+      "name": "Vindplaats Romeinse wachttoren",
+      "latitude": 52.091468,
+      "longitude": 5.005093,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 311,
+      "name": "Vlake",
+      "latitude": 51.474284,
+      "longitude": 4.007913,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 312,
+      "name": "Vliedberg",
+      "latitude": 51.669277,
+      "longitude": 3.919594,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 313,
+      "name": "Voormalig Huis te Andelst",
+      "latitude": 51.904639,
+      "longitude": 5.720927,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 314,
+      "name": "Voormalig Klooster Claercamp",
+      "latitude": 53.307881,
+      "longitude": 5.927339,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 315,
+      "name": "Voormalige kleinschalige landbouw",
+      "latitude": 52.189529,
+      "longitude": 4.391248,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 316,
+      "name": "Voormalige locatie Alberdaheerd",
+      "latitude": 53.362778,
+      "longitude": 6.784945,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 317,
+      "name": "Voormalige locatie Borg Baukema",
+      "latitude": 53.349147,
+      "longitude": 6.774401,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 318,
+      "name": "Voormalige locatie Borg Duirsum",
+      "latitude": 53.331111,
+      "longitude": 6.722622,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 319,
+      "name": "Voormalige locatie Borg Eelsum",
+      "latitude": 53.346991,
+      "longitude": 6.760209,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 320,
+      "name": "Voormalige locatie Borg Juckema",
+      "latitude": 53.353244,
+      "longitude": 6.743664,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 321,
+      "name": "Voormalige locatie Borg Kroonsfeld",
+      "latitude": 53.230325,
+      "longitude": 6.337522,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 322,
+      "name": "Voormalige locatie Borg Luinga",
+      "latitude": 53.380582,
+      "longitude": 6.860639,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 323,
+      "name": "Voormalige locatie Borg Nittersum",
+      "latitude": 53.322111,
+      "longitude": 6.696105,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 324,
+      "name": "Voormalige locatie Borg Ompteda",
+      "latitude": 53.372639,
+      "longitude": 6.787782,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 325,
+      "name": "Voormalige locatie Fraamborg",
+      "latitude": 53.352056,
+      "longitude": 6.671522,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 326,
+      "name": "Voormalige locatie Huis Bijma",
+      "latitude": 53.230067,
+      "longitude": 6.377529,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 327,
+      "name": "Voormalige locatie Premonstratenzer Klooster",
+      "latitude": 53.213811,
+      "longitude": 6.32491,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 328,
+      "name": "Vorstengraf",
+      "latitude": 51.515357,
+      "longitude": 6.172777,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 329,
+      "name": "Vorstengraf",
+      "latitude": 51.73306,
+      "longitude": 5.566894,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 330,
+      "name": "Vrakselbergjes",
+      "latitude": 52.945629,
+      "longitude": 6.754092,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 331,
+      "name": "Waterpoort",
+      "latitude": 51.689623,
+      "longitude": 5.305157,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 332,
+      "name": "Waterput",
+      "latitude": 52.785541,
+      "longitude": 6.118116,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 333,
+      "name": "Wierde",
+      "latitude": 53.391635,
+      "longitude": 6.6148,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 334,
+      "name": "Wierdekerkhof Olle Weem",
+      "latitude": 53.342866,
+      "longitude": 6.348346,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 335,
+      "name": "Zes grafheuvels",
+      "latitude": 52.182256,
+      "longitude": 5.228606,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 336,
+      "name": "Zwartendijksterschans",
+      "latitude": 53.085004,
+      "longitude": 6.353317,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 337,
+      "name": "celtic fields",
+      "latitude": 52.294595,
+      "longitude": 5.913847,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 338,
+      "name": "celtic fields",
+      "latitude": 52.298776,
+      "longitude": 5.922828,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 339,
+      "name": "celtic fields",
+      "latitude": 53.007632,
+      "longitude": 6.646038,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 340,
+      "name": "de Groe",
+      "latitude": 51.481065,
+      "longitude": 3.904024,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 341,
+      "name": "grafheuvel",
+      "latitude": 51.990932,
+      "longitude": 5.816369,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 342,
+      "name": "grafheuvel",
+      "latitude": 51.991079,
+      "longitude": 5.817179,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 343,
+      "name": "grafheuvel",
+      "latitude": 51.991109,
+      "longitude": 5.814779,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 344,
+      "name": "grafheuvel",
+      "latitude": 51.991254,
+      "longitude": 5.8179,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 345,
+      "name": "het Bolwerk",
+      "latitude": 53.129393,
+      "longitude": 6.653993,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 346,
+      "name": "kasteelberg Koppelberg",
+      "latitude": 51.073763,
+      "longitude": 5.850294,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 347,
+      "name": "klooster Yesse",
+      "latitude": 53.191622,
+      "longitude": 6.60545,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 348,
+      "name": "locatie van Romeins amfitheater",
+      "latitude": 51.838205,
+      "longitude": 5.878811,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 349,
+      "name": "middeleeuwse kasteelheuvel Bolleberg",
+      "latitude": 51.095522,
+      "longitude": 5.96358,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 350,
+      "name": "motte Baexem",
+      "latitude": 51.215295,
+      "longitude": 5.887225,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 351,
+      "name": "motteheuvel Bolberg",
+      "latitude": 51.113292,
+      "longitude": 6.042496,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 352,
+      "name": "pingoruine",
+      "latitude": 52.835,
+      "longitude": 6.891001,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 353,
+      "name": "urnenveld",
+      "latitude": 51.367055,
+      "longitude": 5.976281,
+      "osm_klasse": "historic=archaeological_site"
+    },
+    {
+      "id": 354,
+      "name": "urnenveld",
+      "latitude": 52.040069,
+      "longitude": 5.730409,
+      "osm_klasse": "historic=archaeological_site"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: archaeological site (historic=archaeological_site) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged historic=archaeological_site in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 354 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: archaeological site (historic=archaeological_site) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: archaeological site (historic=archaeological_site) — 354 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 354 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

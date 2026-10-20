@@ -1,0 +1,7401 @@
+{
+  "id": "nl-osm-man-made-pier",
+  "name": "Netherlands OSM: pier (man_made=pier)",
+  "title": "Netherlands OSM: pier (man_made=pier)",
+  "description": "Named OpenStreetMap features tagged man_made=pier in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1050,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Gat van Dornspiek",
+      "latitude": 52.523999,
+      "longitude": 5.692149,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 2,
+      "name": "'t Voske",
+      "latitude": 51.710807,
+      "longitude": 4.806481,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 3,
+      "name": "1. Meersteiger",
+      "latitude": 51.855082,
+      "longitude": 6.091876,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 4,
+      "name": "100",
+      "latitude": 51.951515,
+      "longitude": 4.142982,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 5,
+      "name": "102-101",
+      "latitude": 51.95247,
+      "longitude": 4.141325,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 6,
+      "name": "103",
+      "latitude": 51.954078,
+      "longitude": 4.137937,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 7,
+      "name": "104",
+      "latitude": 51.953618,
+      "longitude": 4.132062,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 8,
+      "name": "2. Meersteiger",
+      "latitude": 51.855777,
+      "longitude": 6.092322,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 9,
+      "name": "3. Steiger RWS/Markerink BV",
+      "latitude": 51.857294,
+      "longitude": 6.091902,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 10,
+      "name": "4. Faciliteitensteiger",
+      "latitude": 51.85781,
+      "longitude": 6.090764,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 11,
+      "name": "5. Meersteiger",
+      "latitude": 51.858198,
+      "longitude": 6.089361,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 12,
+      "name": "720",
+      "latitude": 51.447763,
+      "longitude": 3.60082,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 13,
+      "name": "82",
+      "latitude": 51.681788,
+      "longitude": 4.395948,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 14,
+      "name": "A",
+      "latitude": 51.190986,
+      "longitude": 5.976637,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 15,
+      "name": "A",
+      "latitude": 51.193722,
+      "longitude": 5.964923,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 16,
+      "name": "A",
+      "latitude": 51.195944,
+      "longitude": 5.980847,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 17,
+      "name": "A",
+      "latitude": 51.551113,
+      "longitude": 3.811639,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 18,
+      "name": "A",
+      "latitude": 51.569055,
+      "longitude": 6.061841,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 19,
+      "name": "A",
+      "latitude": 51.670803,
+      "longitude": 4.087322,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 20,
+      "name": "A",
+      "latitude": 51.675362,
+      "longitude": 3.755019,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 21,
+      "name": "A",
+      "latitude": 51.729386,
+      "longitude": 3.912524,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 22,
+      "name": "A",
+      "latitude": 51.73876,
+      "longitude": 3.84733,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 23,
+      "name": "A",
+      "latitude": 51.742052,
+      "longitude": 3.890889,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 24,
+      "name": "A",
+      "latitude": 52.09671,
+      "longitude": 4.266837,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 25,
+      "name": "A",
+      "latitude": 52.698645,
+      "longitude": 5.283905,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 26,
+      "name": "A",
+      "latitude": 52.838661,
+      "longitude": 5.70688,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 27,
+      "name": "A",
+      "latitude": 52.875866,
+      "longitude": 5.363771,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 28,
+      "name": "A",
+      "latitude": 52.902242,
+      "longitude": 5.470984,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 29,
+      "name": "A",
+      "latitude": 52.902742,
+      "longitude": 5.472592,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 30,
+      "name": "A",
+      "latitude": 52.944291,
+      "longitude": 5.403987,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 31,
+      "name": "A",
+      "latitude": 52.946252,
+      "longitude": 5.628544,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 32,
+      "name": "A",
+      "latitude": 52.968719,
+      "longitude": 5.418115,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 33,
+      "name": "A",
+      "latitude": 53.044522,
+      "longitude": 4.857376,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 34,
+      "name": "A en B-pier",
+      "latitude": 52.402312,
+      "longitude": 4.8864,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 35,
+      "name": "A | B",
+      "latitude": 51.696648,
+      "longitude": 4.438725,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 36,
+      "name": "A-B",
+      "latitude": 51.39138,
+      "longitude": 6.150377,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 37,
+      "name": "A-pier",
+      "latitude": 52.40198,
+      "longitude": 4.886659,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 38,
+      "name": "A-steiger",
+      "latitude": 51.496091,
+      "longitude": 4.052772,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 39,
+      "name": "A/B",
+      "latitude": 51.604298,
+      "longitude": 4.108247,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 40,
+      "name": "AB",
+      "latitude": 52.963421,
+      "longitude": 5.715969,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 41,
+      "name": "Aanleg Saenliefde",
+      "latitude": 52.492902,
+      "longitude": 4.792994,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 42,
+      "name": "Aanleg steiger Supermarkt JUMBO",
+      "latitude": 53.09481,
+      "longitude": 5.830957,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 43,
+      "name": "Aanlegplaats Thorn",
+      "latitude": 51.156618,
+      "longitude": 5.846615,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 44,
+      "name": "Aanlegsteiger Stampersgat",
+      "latitude": 51.614559,
+      "longitude": 4.446197,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 45,
+      "name": "Aanlegsteiger Wander Island",
+      "latitude": 52.248578,
+      "longitude": 4.962605,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 46,
+      "name": "Aanmeld Steiger",
+      "latitude": 51.972519,
+      "longitude": 5.359462,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 47,
+      "name": "Alblasserdam, Kade",
+      "latitude": 51.862353,
+      "longitude": 4.650291,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 48,
+      "name": "Alle Hospervijver",
+      "latitude": 52.609232,
+      "longitude": 4.704895,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 49,
+      "name": "Alle Hospervijver",
+      "latitude": 52.609701,
+      "longitude": 4.705532,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 50,
+      "name": "Amstel Boathouse - Dock & Dine",
+      "latitude": 52.338292,
+      "longitude": 4.907017,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 51,
+      "name": "Amsterdecks",
+      "latitude": 52.3328,
+      "longitude": 4.846716,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 52,
+      "name": "Anleger Campingplatz Marina Oolderhuuske (privat!)",
+      "latitude": 51.189355,
+      "longitude": 5.957195,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 53,
+      "name": "Anleger Campingplatz Marina Oolderhuuske (privat!)",
+      "latitude": 51.189999,
+      "longitude": 5.955461,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 54,
+      "name": "Anleger Campingplatz Marina Oolderhuuske (privat!)",
+      "latitude": 51.191061,
+      "longitude": 5.955044,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 55,
+      "name": "Anleger Tankstelle Hermus Watersport",
+      "latitude": 51.195613,
+      "longitude": 5.967601,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 56,
+      "name": "Arkenpark De Plashoeve",
+      "latitude": 52.237989,
+      "longitude": 4.969606,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 57,
+      "name": "Arkenpark De Plashoeve",
+      "latitude": 52.238896,
+      "longitude": 4.968334,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 58,
+      "name": "Arkenpark De Plashoeve",
+      "latitude": 52.239176,
+      "longitude": 4.966756,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 59,
+      "name": "Atol",
+      "latitude": 52.325947,
+      "longitude": 5.549912,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 60,
+      "name": "Auto afzetponton",
+      "latitude": 51.8883,
+      "longitude": 4.311848,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 61,
+      "name": "Auto afzetponton",
+      "latitude": 51.931256,
+      "longitude": 4.037424,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 62,
+      "name": "Autosteiger 5",
+      "latitude": 51.85105,
+      "longitude": 6.138858,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 63,
+      "name": "B",
+      "latitude": 51.191248,
+      "longitude": 5.977042,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 64,
+      "name": "B",
+      "latitude": 51.193504,
+      "longitude": 5.964929,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 65,
+      "name": "B",
+      "latitude": 51.195985,
+      "longitude": 5.980428,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 66,
+      "name": "B",
+      "latitude": 51.551611,
+      "longitude": 3.811399,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 67,
+      "name": "B",
+      "latitude": 51.568874,
+      "longitude": 6.062075,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 68,
+      "name": "B",
+      "latitude": 51.670427,
+      "longitude": 4.086826,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 69,
+      "name": "B",
+      "latitude": 51.675632,
+      "longitude": 3.756003,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 70,
+      "name": "B",
+      "latitude": 51.738702,
+      "longitude": 3.847606,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 71,
+      "name": "B",
+      "latitude": 51.742048,
+      "longitude": 3.892481,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 72,
+      "name": "B",
+      "latitude": 51.757596,
+      "longitude": 3.856818,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 73,
+      "name": "B",
+      "latitude": 52.838363,
+      "longitude": 5.706898,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 74,
+      "name": "B",
+      "latitude": 52.875281,
+      "longitude": 5.363075,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 75,
+      "name": "B",
+      "latitude": 52.902774,
+      "longitude": 5.471404,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 76,
+      "name": "B",
+      "latitude": 52.944669,
+      "longitude": 5.404473,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 77,
+      "name": "B",
+      "latitude": 52.946128,
+      "longitude": 5.628241,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 78,
+      "name": "B",
+      "latitude": 52.947758,
+      "longitude": 4.778397,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 79,
+      "name": "B",
+      "latitude": 52.968477,
+      "longitude": 5.418271,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 80,
+      "name": "B",
+      "latitude": 53.04458,
+      "longitude": 4.857789,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 81,
+      "name": "B",
+      "latitude": 53.04873,
+      "longitude": 5.825467,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 82,
+      "name": "B",
+      "latitude": 53.2962,
+      "longitude": 5.090398,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 83,
+      "name": "B / A",
+      "latitude": 51.566358,
+      "longitude": 3.699997,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 84,
+      "name": "B / C",
+      "latitude": 52.095335,
+      "longitude": 4.264893,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 85,
+      "name": "B / C",
+      "latitude": 52.095954,
+      "longitude": 4.265674,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 86,
+      "name": "B — C",
+      "latitude": 52.698603,
+      "longitude": 5.285397,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 87,
+      "name": "B — C",
+      "latitude": 52.698687,
+      "longitude": 5.284341,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 88,
+      "name": "B-pier",
+      "latitude": 52.402148,
+      "longitude": 4.88687,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 89,
+      "name": "B-steiger",
+      "latitude": 51.496236,
+      "longitude": 4.053225,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 90,
+      "name": "B/C",
+      "latitude": 51.728897,
+      "longitude": 3.913235,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 91,
+      "name": "Ballumerbocht",
+      "latitude": 53.435963,
+      "longitude": 5.717788,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 92,
+      "name": "Bank van de Ketel",
+      "latitude": 52.576245,
+      "longitude": 5.75714,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 93,
+      "name": "Beatrixpark Dock",
+      "latitude": 52.37655,
+      "longitude": 5.198319,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 94,
+      "name": "Biesbosch Hoeve",
+      "latitude": 51.735241,
+      "longitude": 4.757654,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 95,
+      "name": "Boodschappensteiger",
+      "latitude": 52.257765,
+      "longitude": 4.717731,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 96,
+      "name": "Bootpassage 15",
+      "latitude": 52.12859,
+      "longitude": 4.785946,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 97,
+      "name": "Borneosteiger",
+      "latitude": 52.36971,
+      "longitude": 4.937846,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 98,
+      "name": "Braakmansteiger",
+      "latitude": 51.346106,
+      "longitude": 3.768213,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 99,
+      "name": "Brede Hard",
+      "latitude": 52.385677,
+      "longitude": 5.287204,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 100,
+      "name": "Breezand",
+      "latitude": 52.6354,
+      "longitude": 5.060938,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 101,
+      "name": "Brejenbrug",
+      "latitude": 52.525114,
+      "longitude": 5.69804,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 102,
+      "name": "Buitendijk",
+      "latitude": 51.705411,
+      "longitude": 4.538604,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 103,
+      "name": "C",
+      "latitude": 51.191587,
+      "longitude": 5.977328,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 104,
+      "name": "C",
+      "latitude": 51.193285,
+      "longitude": 5.964933,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 105,
+      "name": "C",
+      "latitude": 51.552022,
+      "longitude": 3.811122,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 106,
+      "name": "C",
+      "latitude": 51.568633,
+      "longitude": 6.062317,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 107,
+      "name": "C",
+      "latitude": 51.670121,
+      "longitude": 4.086538,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 108,
+      "name": "C",
+      "latitude": 51.67602,
+      "longitude": 3.756952,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 109,
+      "name": "C",
+      "latitude": 51.738586,
+      "longitude": 3.84793,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 110,
+      "name": "C",
+      "latitude": 51.741905,
+      "longitude": 3.891915,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 111,
+      "name": "C",
+      "latitude": 51.757836,
+      "longitude": 3.857128,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 112,
+      "name": "C",
+      "latitude": 52.838109,
+      "longitude": 5.706656,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 113,
+      "name": "C",
+      "latitude": 52.874904,
+      "longitude": 5.363313,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 114,
+      "name": "C",
+      "latitude": 52.902996,
+      "longitude": 5.47113,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 115,
+      "name": "C",
+      "latitude": 52.945096,
+      "longitude": 5.404327,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 116,
+      "name": "C",
+      "latitude": 52.946066,
+      "longitude": 5.627742,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 117,
+      "name": "C",
+      "latitude": 52.947879,
+      "longitude": 4.777989,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 118,
+      "name": "C",
+      "latitude": 52.968278,
+      "longitude": 5.41838,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 119,
+      "name": "C",
+      "latitude": 53.044886,
+      "longitude": 4.858309,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 120,
+      "name": "C",
+      "latitude": 53.296624,
+      "longitude": 5.090067,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 121,
+      "name": "C / D",
+      "latitude": 53.048681,
+      "longitude": 5.825065,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 122,
+      "name": "C en D-pier",
+      "latitude": 52.402559,
+      "longitude": 4.886667,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 123,
+      "name": "C | D",
+      "latitude": 51.696784,
+      "longitude": 4.438198,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 124,
+      "name": "C-D",
+      "latitude": 51.391813,
+      "longitude": 6.150129,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 125,
+      "name": "C-pier",
+      "latitude": 52.402311,
+      "longitude": 4.887074,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 126,
+      "name": "C-steiger",
+      "latitude": 51.496077,
+      "longitude": 4.053649,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 127,
+      "name": "C/D",
+      "latitude": 51.604686,
+      "longitude": 4.107394,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 128,
+      "name": "CD",
+      "latitude": 52.963652,
+      "longitude": 5.715713,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 129,
+      "name": "Cantina del Corazón",
+      "latitude": 52.259115,
+      "longitude": 4.872992,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 130,
+      "name": "Cortembergstraat",
+      "latitude": 51.677655,
+      "longitude": 5.075658,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 131,
+      "name": "D",
+      "latitude": 51.19194,
+      "longitude": 5.977643,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 132,
+      "name": "D",
+      "latitude": 51.193028,
+      "longitude": 5.96496,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 133,
+      "name": "D",
+      "latitude": 51.55241,
+      "longitude": 3.810962,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 134,
+      "name": "D",
+      "latitude": 51.568263,
+      "longitude": 6.062441,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 135,
+      "name": "D",
+      "latitude": 51.669863,
+      "longitude": 4.086284,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 136,
+      "name": "D",
+      "latitude": 51.675286,
+      "longitude": 3.756775,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 137,
+      "name": "D",
+      "latitude": 51.738466,
+      "longitude": 3.848254,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 138,
+      "name": "D",
+      "latitude": 51.74179,
+      "longitude": 3.891436,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 139,
+      "name": "D",
+      "latitude": 51.75812,
+      "longitude": 3.857267,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 140,
+      "name": "D",
+      "latitude": 52.837796,
+      "longitude": 5.706596,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 141,
+      "name": "D",
+      "latitude": 52.903472,
+      "longitude": 5.470772,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 142,
+      "name": "D",
+      "latitude": 52.945302,
+      "longitude": 5.403377,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 143,
+      "name": "D",
+      "latitude": 52.946014,
+      "longitude": 5.627286,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 144,
+      "name": "D",
+      "latitude": 52.96796,
+      "longitude": 5.418635,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 145,
+      "name": "D",
+      "latitude": 53.045138,
+      "longitude": 4.858717,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 146,
+      "name": "D",
+      "latitude": 53.296885,
+      "longitude": 5.089641,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 147,
+      "name": "D / C",
+      "latitude": 51.566216,
+      "longitude": 3.700024,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 148,
+      "name": "D — E",
+      "latitude": 52.698732,
+      "longitude": 5.284811,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 149,
+      "name": "D-pier",
+      "latitude": 52.402384,
+      "longitude": 4.887164,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 150,
+      "name": "D-steiger",
+      "latitude": 51.495899,
+      "longitude": 4.053903,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 151,
+      "name": "D/E",
+      "latitude": 51.728566,
+      "longitude": 3.913534,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 152,
+      "name": "DHG - Watertaxi",
+      "latitude": 51.903967,
+      "longitude": 4.486917,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 153,
+      "name": "De Hoge Waard",
+      "latitude": 51.779483,
+      "longitude": 5.086149,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 154,
+      "name": "De Hoge Waard",
+      "latitude": 51.779656,
+      "longitude": 5.085376,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 155,
+      "name": "De Kaai",
+      "latitude": 52.440731,
+      "longitude": 4.824974,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 156,
+      "name": "De Kaai",
+      "latitude": 52.442719,
+      "longitude": 4.823776,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 157,
+      "name": "De Kant",
+      "latitude": 52.513409,
+      "longitude": 5.583383,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 158,
+      "name": "De Kluut",
+      "latitude": 52.372675,
+      "longitude": 5.633929,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 159,
+      "name": "De Kluut",
+      "latitude": 52.373614,
+      "longitude": 5.637211,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 160,
+      "name": "De Voert",
+      "latitude": 52.66185,
+      "longitude": 4.685367,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 161,
+      "name": "De Zegge",
+      "latitude": 52.331942,
+      "longitude": 5.560073,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 162,
+      "name": "De Ôde Dyk",
+      "latitude": 53.383162,
+      "longitude": 5.344679,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 163,
+      "name": "Dienstensteiger",
+      "latitude": 51.340627,
+      "longitude": 3.769877,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 164,
+      "name": "Dienstensteiger takelplaats",
+      "latitude": 52.37451,
+      "longitude": 4.970131,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 165,
+      "name": "Dode Hond",
+      "latitude": 52.291085,
+      "longitude": 5.327382,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 166,
+      "name": "Doksteiger 3/8",
+      "latitude": 51.89763,
+      "longitude": 4.422312,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 167,
+      "name": "Dordrecht, Hollandse Biesbosch",
+      "latitude": 51.814751,
+      "longitude": 4.766337,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 168,
+      "name": "Dordrecht, Hooikade",
+      "latitude": 51.814874,
+      "longitude": 4.658245,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 169,
+      "name": "Dordrecht, Merwekade",
+      "latitude": 51.819377,
+      "longitude": 4.675204,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 170,
+      "name": "Duikersteiger",
+      "latitude": 52.27668,
+      "longitude": 5.067239,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 171,
+      "name": "E",
+      "latitude": 51.192158,
+      "longitude": 5.977791,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 172,
+      "name": "E",
+      "latitude": 51.192772,
+      "longitude": 5.964963,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 173,
+      "name": "E",
+      "latitude": 51.55271,
+      "longitude": 3.810755,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 174,
+      "name": "E",
+      "latitude": 51.567871,
+      "longitude": 6.062802,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 175,
+      "name": "E",
+      "latitude": 51.669554,
+      "longitude": 4.086259,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 176,
+      "name": "E",
+      "latitude": 51.675017,
+      "longitude": 3.756367,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 177,
+      "name": "E",
+      "latitude": 51.738384,
+      "longitude": 3.848616,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 178,
+      "name": "E",
+      "latitude": 51.741687,
+      "longitude": 3.890988,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 179,
+      "name": "E",
+      "latitude": 51.758466,
+      "longitude": 3.857433,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 180,
+      "name": "E",
+      "latitude": 52.837333,
+      "longitude": 5.706827,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 181,
+      "name": "E",
+      "latitude": 52.874203,
+      "longitude": 5.364202,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 182,
+      "name": "E",
+      "latitude": 52.903846,
+      "longitude": 5.470816,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 183,
+      "name": "E",
+      "latitude": 52.945463,
+      "longitude": 5.404132,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 184,
+      "name": "E",
+      "latitude": 52.945896,
+      "longitude": 5.62691,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 185,
+      "name": "E",
+      "latitude": 52.967856,
+      "longitude": 5.419081,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 186,
+      "name": "E",
+      "latitude": 53.04549,
+      "longitude": 4.858977,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 187,
+      "name": "E",
+      "latitude": 53.297107,
+      "longitude": 5.089136,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 188,
+      "name": "E / F",
+      "latitude": 53.048464,
+      "longitude": 5.824578,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 189,
+      "name": "E | F",
+      "latitude": 51.696718,
+      "longitude": 4.4376,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 190,
+      "name": "E- en F-pier",
+      "latitude": 52.403412,
+      "longitude": 4.884848,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 191,
+      "name": "E-F",
+      "latitude": 51.39223,
+      "longitude": 6.149888,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 192,
+      "name": "E-steiger",
+      "latitude": 51.495748,
+      "longitude": 4.05408,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 193,
+      "name": "E/F",
+      "latitude": 51.604782,
+      "longitude": 4.107193,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 194,
+      "name": "Ebenezer Howardpark",
+      "latitude": 52.371383,
+      "longitude": 5.242297,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 195,
+      "name": "Eetcafe Herbergh 1883",
+      "latitude": 52.23088,
+      "longitude": 4.829069,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 196,
+      "name": "Elburgkade",
+      "latitude": 52.363929,
+      "longitude": 5.211695,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 197,
+      "name": "F",
+      "latitude": 51.192301,
+      "longitude": 5.978092,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 198,
+      "name": "F",
+      "latitude": 51.192518,
+      "longitude": 5.964982,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 199,
+      "name": "F",
+      "latitude": 51.552948,
+      "longitude": 3.810526,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 200,
+      "name": "F",
+      "latitude": 51.567462,
+      "longitude": 6.062852,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 201,
+      "name": "F",
+      "latitude": 51.670489,
+      "longitude": 4.083755,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 202,
+      "name": "F",
+      "latitude": 51.674939,
+      "longitude": 3.755497,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 203,
+      "name": "F",
+      "latitude": 51.738251,
+      "longitude": 3.848969,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 204,
+      "name": "F",
+      "latitude": 51.741587,
+      "longitude": 3.890607,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 205,
+      "name": "F",
+      "latitude": 51.759037,
+      "longitude": 3.857811,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 206,
+      "name": "F",
+      "latitude": 52.095331,
+      "longitude": 4.265637,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 207,
+      "name": "F",
+      "latitude": 52.837041,
+      "longitude": 5.706436,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 208,
+      "name": "F",
+      "latitude": 52.873941,
+      "longitude": 5.364688,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 209,
+      "name": "F",
+      "latitude": 52.903863,
+      "longitude": 5.471695,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 210,
+      "name": "F",
+      "latitude": 52.945435,
+      "longitude": 5.404705,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 211,
+      "name": "F",
+      "latitude": 52.945605,
+      "longitude": 5.628097,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 212,
+      "name": "F",
+      "latitude": 52.947222,
+      "longitude": 4.777476,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 213,
+      "name": "F",
+      "latitude": 52.967595,
+      "longitude": 5.419329,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 214,
+      "name": "F",
+      "latitude": 53.045887,
+      "longitude": 4.859306,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 215,
+      "name": "F",
+      "latitude": 53.297283,
+      "longitude": 5.088687,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 216,
+      "name": "F / E",
+      "latitude": 51.565934,
+      "longitude": 3.699781,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 217,
+      "name": "F — G",
+      "latitude": 52.698785,
+      "longitude": 5.285329,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 218,
+      "name": "F-steiger",
+      "latitude": 51.496506,
+      "longitude": 4.05395,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 219,
+      "name": "F/G",
+      "latitude": 51.728285,
+      "longitude": 3.913833,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 220,
+      "name": "FL 05",
+      "latitude": 52.958471,
+      "longitude": 5.514943,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 221,
+      "name": "FL 08B",
+      "latitude": 52.979475,
+      "longitude": 5.514,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 222,
+      "name": "FL 08C",
+      "latitude": 52.979644,
+      "longitude": 5.513756,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 223,
+      "name": "FL 15A",
+      "latitude": 52.969092,
+      "longitude": 5.517014,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 224,
+      "name": "FL 15B",
+      "latitude": 52.968895,
+      "longitude": 5.517444,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 225,
+      "name": "FL 16B",
+      "latitude": 52.965471,
+      "longitude": 5.516616,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 226,
+      "name": "FL 16C",
+      "latitude": 52.964504,
+      "longitude": 5.516272,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 227,
+      "name": "FL 18A",
+      "latitude": 52.966515,
+      "longitude": 5.516069,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 228,
+      "name": "FL 18B",
+      "latitude": 52.966676,
+      "longitude": 5.518706,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 229,
+      "name": "FL 18D",
+      "latitude": 52.967907,
+      "longitude": 5.517999,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 230,
+      "name": "FL 18E",
+      "latitude": 52.968259,
+      "longitude": 5.520313,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 231,
+      "name": "FL 18G",
+      "latitude": 52.968872,
+      "longitude": 5.519226,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 232,
+      "name": "FL 41A",
+      "latitude": 52.932547,
+      "longitude": 5.477294,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 233,
+      "name": "FL 41B",
+      "latitude": 52.932339,
+      "longitude": 5.479384,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 234,
+      "name": "FL 43",
+      "latitude": 52.981115,
+      "longitude": 5.505202,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 235,
+      "name": "FL20",
+      "latitude": 52.967129,
+      "longitude": 5.631016,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 236,
+      "name": "FL23A",
+      "latitude": 52.943933,
+      "longitude": 5.507721,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 237,
+      "name": "FL23A",
+      "latitude": 52.94799,
+      "longitude": 5.546284,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 238,
+      "name": "FL23A",
+      "latitude": 52.948886,
+      "longitude": 5.544781,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 239,
+      "name": "FL23A",
+      "latitude": 52.94924,
+      "longitude": 5.544177,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 240,
+      "name": "FL23A",
+      "latitude": 52.949748,
+      "longitude": 5.543563,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 241,
+      "name": "FL23A",
+      "latitude": 52.950191,
+      "longitude": 5.543336,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 242,
+      "name": "FL23B",
+      "latitude": 52.943662,
+      "longitude": 5.508073,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 243,
+      "name": "FL23C",
+      "latitude": 52.943407,
+      "longitude": 5.50849,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 244,
+      "name": "FL23E",
+      "latitude": 52.949279,
+      "longitude": 5.551297,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 245,
+      "name": "FL24C",
+      "latitude": 52.944872,
+      "longitude": 5.565159,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 246,
+      "name": "FL24C",
+      "latitude": 52.944946,
+      "longitude": 5.565925,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 247,
+      "name": "FL28A",
+      "latitude": 52.931314,
+      "longitude": 5.509697,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 248,
+      "name": "FL28C",
+      "latitude": 52.931005,
+      "longitude": 5.513365,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 249,
+      "name": "FL28D",
+      "latitude": 52.931686,
+      "longitude": 5.512245,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 250,
+      "name": "FL36",
+      "latitude": 52.966644,
+      "longitude": 5.639984,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 251,
+      "name": "FL42B",
+      "latitude": 53.175745,
+      "longitude": 5.593164,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 252,
+      "name": "Ferry",
+      "latitude": 51.909475,
+      "longitude": 4.175346,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 253,
+      "name": "Fiets-voetveer Vlissingen - Breskens",
+      "latitude": 51.444101,
+      "longitude": 3.597584,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 254,
+      "name": "Fittinghavenpad",
+      "latitude": 51.499903,
+      "longitude": 3.622818,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 255,
+      "name": "Flevo",
+      "latitude": 52.634449,
+      "longitude": 5.060003,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 256,
+      "name": "Florijnhaven",
+      "latitude": 51.919973,
+      "longitude": 4.401397,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 257,
+      "name": "G",
+      "latitude": 51.190357,
+      "longitude": 5.977012,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 258,
+      "name": "G",
+      "latitude": 51.192234,
+      "longitude": 5.964997,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 259,
+      "name": "G",
+      "latitude": 51.392474,
+      "longitude": 6.149992,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 260,
+      "name": "G",
+      "latitude": 51.55336,
+      "longitude": 3.810537,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 261,
+      "name": "G",
+      "latitude": 51.670719,
+      "longitude": 4.084035,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 262,
+      "name": "G",
+      "latitude": 51.738122,
+      "longitude": 3.849322,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 263,
+      "name": "G",
+      "latitude": 51.741501,
+      "longitude": 3.890261,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 264,
+      "name": "G",
+      "latitude": 51.759585,
+      "longitude": 3.858092,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 265,
+      "name": "G",
+      "latitude": 52.873903,
+      "longitude": 5.365691,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 266,
+      "name": "G",
+      "latitude": 52.9043,
+      "longitude": 5.471728,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 267,
+      "name": "G",
+      "latitude": 52.945384,
+      "longitude": 5.62845,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 268,
+      "name": "G",
+      "latitude": 52.945434,
+      "longitude": 5.405259,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 269,
+      "name": "G",
+      "latitude": 52.967236,
+      "longitude": 5.419402,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 270,
+      "name": "G",
+      "latitude": 53.046678,
+      "longitude": 4.859828,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 271,
+      "name": "G",
+      "latitude": 53.297419,
+      "longitude": 5.088173,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 272,
+      "name": "G / H",
+      "latitude": 52.094566,
+      "longitude": 4.264142,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 273,
+      "name": "G | H",
+      "latitude": 51.696638,
+      "longitude": 4.436896,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 274,
+      "name": "G- en H-pier",
+      "latitude": 52.403605,
+      "longitude": 4.88589,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 275,
+      "name": "G- en H-pier",
+      "latitude": 52.403945,
+      "longitude": 4.88535,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 276,
+      "name": "G-steiger",
+      "latitude": 51.49646,
+      "longitude": 4.052736,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 277,
+      "name": "G/H",
+      "latitude": 51.6049,
+      "longitude": 4.10658,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 278,
+      "name": "Gat van Ems",
+      "latitude": 52.70844,
+      "longitude": 5.815994,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 279,
+      "name": "Gorredijk Passantenhaven",
+      "latitude": 52.999519,
+      "longitude": 6.071521,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 280,
+      "name": "Grachtenrondvaart",
+      "latitude": 52.632383,
+      "longitude": 4.750984,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 281,
+      "name": "Groene Ree",
+      "latitude": 52.033178,
+      "longitude": 4.736929,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 282,
+      "name": "Grôôt Ôôd",
+      "latitude": 51.521736,
+      "longitude": 3.43993,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 283,
+      "name": "Grûnspaad",
+      "latitude": 52.977592,
+      "longitude": 5.495297,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 284,
+      "name": "H",
+      "latitude": 51.19195,
+      "longitude": 5.964989,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 285,
+      "name": "H",
+      "latitude": 51.553659,
+      "longitude": 3.810311,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 286,
+      "name": "H",
+      "latitude": 51.671057,
+      "longitude": 4.08413,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 287,
+      "name": "H",
+      "latitude": 51.737979,
+      "longitude": 3.849706,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 288,
+      "name": "H",
+      "latitude": 51.739321,
+      "longitude": 3.847054,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 289,
+      "name": "H",
+      "latitude": 51.740376,
+      "longitude": 3.892124,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 290,
+      "name": "H",
+      "latitude": 51.75995,
+      "longitude": 3.858276,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 291,
+      "name": "H",
+      "latitude": 51.824602,
+      "longitude": 5.543357,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 292,
+      "name": "H",
+      "latitude": 52.87329,
+      "longitude": 5.36579,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 293,
+      "name": "H",
+      "latitude": 52.904882,
+      "longitude": 5.472462,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 294,
+      "name": "H",
+      "latitude": 52.94544,
+      "longitude": 5.405809,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 295,
+      "name": "H",
+      "latitude": 52.967142,
+      "longitude": 5.420019,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 296,
+      "name": "H",
+      "latitude": 53.046472,
+      "longitude": 4.860079,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 297,
+      "name": "H",
+      "latitude": 53.29748,
+      "longitude": 5.087545,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 298,
+      "name": "H / G",
+      "latitude": 51.565667,
+      "longitude": 3.699462,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 299,
+      "name": "H / G",
+      "latitude": 53.048315,
+      "longitude": 5.824219,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 300,
+      "name": "H — I",
+      "latitude": 52.698842,
+      "longitude": 5.28589,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 301,
+      "name": "H-K",
+      "latitude": 51.392989,
+      "longitude": 6.149928,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 302,
+      "name": "H-steiger",
+      "latitude": 51.497091,
+      "longitude": 4.054672,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 303,
+      "name": "H/K",
+      "latitude": 51.728038,
+      "longitude": 3.914108,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 304,
+      "name": "Hanneke's Boom",
+      "latitude": 52.376202,
+      "longitude": 4.911901,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 305,
+      "name": "Haparandasteiger",
+      "latitude": 52.396503,
+      "longitude": 4.880706,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 306,
+      "name": "Haparandasteiger",
+      "latitude": 52.396586,
+      "longitude": 4.882609,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 307,
+      "name": "Haringbuisdijk",
+      "latitude": 52.364105,
+      "longitude": 4.980915,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 308,
+      "name": "Haringbuisdijk",
+      "latitude": 52.364354,
+      "longitude": 4.982559,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 309,
+      "name": "Haringbuisdijk",
+      "latitude": 52.365026,
+      "longitude": 4.980235,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 310,
+      "name": "Haringbuisdijk",
+      "latitude": 52.365099,
+      "longitude": 4.981842,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 311,
+      "name": "Haringbuisdijk",
+      "latitude": 52.36525,
+      "longitude": 4.981046,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 312,
+      "name": "Haringbuisdijk",
+      "latitude": 52.365321,
+      "longitude": 4.982549,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 313,
+      "name": "Haringbuisdijk",
+      "latitude": 52.365835,
+      "longitude": 4.982362,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 314,
+      "name": "Haringkade",
+      "latitude": 52.205018,
+      "longitude": 4.412482,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 315,
+      "name": "Harlingersteiger",
+      "latitude": 52.699626,
+      "longitude": 5.293981,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 316,
+      "name": "Harm Smeengekade",
+      "latitude": 52.511179,
+      "longitude": 6.086447,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 317,
+      "name": "Haven Nijega",
+      "latitude": 53.140986,
+      "longitude": 6.024212,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 318,
+      "name": "Haventje van Sil",
+      "latitude": 53.158032,
+      "longitude": 4.878273,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 319,
+      "name": "Heiligegeestlaan",
+      "latitude": 52.207508,
+      "longitude": 4.657675,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 320,
+      "name": "Hemmeerpolder",
+      "latitude": 52.212886,
+      "longitude": 4.521474,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 321,
+      "name": "Hendrik-Ido-Ambacht, Noordeinde",
+      "latitude": 51.850073,
+      "longitude": 4.657741,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 322,
+      "name": "Henk Sprengerweg",
+      "latitude": 52.398426,
+      "longitude": 5.318504,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 323,
+      "name": "Henk Sprengerweg",
+      "latitude": 52.398783,
+      "longitude": 5.319411,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 324,
+      "name": "Hoekeinde",
+      "latitude": 51.819705,
+      "longitude": 4.960194,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 325,
+      "name": "Hollandsekade",
+      "latitude": 52.149521,
+      "longitude": 4.830596,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 326,
+      "name": "Hop",
+      "latitude": 52.634695,
+      "longitude": 5.058446,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 327,
+      "name": "Houten hoofd",
+      "latitude": 52.636954,
+      "longitude": 5.063392,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 328,
+      "name": "Houthaven",
+      "latitude": 52.148761,
+      "longitude": 6.187592,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 329,
+      "name": "Houthaven",
+      "latitude": 52.149727,
+      "longitude": 6.187791,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 330,
+      "name": "Houtrib",
+      "latitude": 52.635659,
+      "longitude": 5.058193,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 331,
+      "name": "I",
+      "latitude": 51.1935,
+      "longitude": 5.963973,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 332,
+      "name": "I",
+      "latitude": 51.553946,
+      "longitude": 3.81011,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 333,
+      "name": "I",
+      "latitude": 51.671348,
+      "longitude": 4.084413,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 334,
+      "name": "I",
+      "latitude": 51.741178,
+      "longitude": 3.893426,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 335,
+      "name": "I",
+      "latitude": 51.760357,
+      "longitude": 3.858474,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 336,
+      "name": "I",
+      "latitude": 52.905141,
+      "longitude": 5.472976,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 337,
+      "name": "I",
+      "latitude": 52.946101,
+      "longitude": 5.405105,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 338,
+      "name": "I",
+      "latitude": 52.966903,
+      "longitude": 5.4204,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 339,
+      "name": "I",
+      "latitude": 53.297776,
+      "longitude": 5.087121,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 340,
+      "name": "I / J",
+      "latitude": 52.094746,
+      "longitude": 4.26385,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 341,
+      "name": "I / J",
+      "latitude": 53.048155,
+      "longitude": 5.823903,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 342,
+      "name": "I | J",
+      "latitude": 51.696737,
+      "longitude": 4.436101,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 343,
+      "name": "I- en J-pier",
+      "latitude": 52.404368,
+      "longitude": 4.885837,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 344,
+      "name": "I-steiger",
+      "latitude": 51.497181,
+      "longitude": 4.054261,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 345,
+      "name": "I/J",
+      "latitude": 51.605162,
+      "longitude": 4.106228,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 346,
+      "name": "IJ watertappunt",
+      "latitude": 52.397297,
+      "longitude": 4.886176,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 347,
+      "name": "J",
+      "latitude": 51.55401,
+      "longitude": 3.809575,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 348,
+      "name": "J",
+      "latitude": 51.671534,
+      "longitude": 4.08544,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 349,
+      "name": "J",
+      "latitude": 51.741019,
+      "longitude": 3.892764,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 350,
+      "name": "J",
+      "latitude": 52.905484,
+      "longitude": 5.473394,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 351,
+      "name": "J",
+      "latitude": 52.946564,
+      "longitude": 5.40413,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 352,
+      "name": "J",
+      "latitude": 52.96663,
+      "longitude": 5.420781,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 353,
+      "name": "J",
+      "latitude": 53.29735,
+      "longitude": 5.086556,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 354,
+      "name": "J / I",
+      "latitude": 51.565349,
+      "longitude": 3.699085,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 355,
+      "name": "J — K",
+      "latitude": 52.698905,
+      "longitude": 5.28653,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 356,
+      "name": "J-Steiger",
+      "latitude": 51.496534,
+      "longitude": 4.054698,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 357,
+      "name": "Jachthaven BAAI",
+      "latitude": 51.593448,
+      "longitude": 4.771078,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 358,
+      "name": "Jachthaven BAAI",
+      "latitude": 51.593931,
+      "longitude": 4.77097,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 359,
+      "name": "Jollensteiger",
+      "latitude": 51.68628,
+      "longitude": 4.52747,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 360,
+      "name": "Jollensteiger",
+      "latitude": 52.191088,
+      "longitude": 4.714346,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 361,
+      "name": "Jollensteiger",
+      "latitude": 53.026587,
+      "longitude": 5.734835,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 362,
+      "name": "K",
+      "latitude": 51.193276,
+      "longitude": 5.963991,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 363,
+      "name": "K",
+      "latitude": 51.554193,
+      "longitude": 3.810056,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 364,
+      "name": "K",
+      "latitude": 51.672007,
+      "longitude": 4.082318,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 365,
+      "name": "K",
+      "latitude": 51.737832,
+      "longitude": 3.850094,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 366,
+      "name": "K",
+      "latitude": 51.740881,
+      "longitude": 3.892197,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 367,
+      "name": "K",
+      "latitude": 52.90568,
+      "longitude": 5.473908,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 368,
+      "name": "K",
+      "latitude": 52.94645,
+      "longitude": 5.404641,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 369,
+      "name": "K",
+      "latitude": 52.966252,
+      "longitude": 5.420976,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 370,
+      "name": "K",
+      "latitude": 53.296775,
+      "longitude": 5.087673,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 371,
+      "name": "K / L",
+      "latitude": 52.094904,
+      "longitude": 4.263576,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 372,
+      "name": "K / L",
+      "latitude": 53.047996,
+      "longitude": 5.823618,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 373,
+      "name": "K | L",
+      "latitude": 51.696845,
+      "longitude": 4.435435,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 374,
+      "name": "K- en L-pier",
+      "latitude": 52.404773,
+      "longitude": 4.886218,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 375,
+      "name": "K-steiger",
+      "latitude": 51.496487,
+      "longitude": 4.055404,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 376,
+      "name": "K/L",
+      "latitude": 51.605395,
+      "longitude": 4.105998,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 377,
+      "name": "Kano in-/uitstapplaats",
+      "latitude": 52.673064,
+      "longitude": 4.817814,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 378,
+      "name": "Kanorustplaats",
+      "latitude": 52.521638,
+      "longitude": 4.826905,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 379,
+      "name": "Kanosteiger",
+      "latitude": 51.889118,
+      "longitude": 6.387515,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 380,
+      "name": "Kanosteiger",
+      "latitude": 52.658663,
+      "longitude": 4.746413,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 381,
+      "name": "Kanosteiger, zwemsteiger",
+      "latitude": 52.077176,
+      "longitude": 4.810503,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 382,
+      "name": "Kids Haven",
+      "latitude": 51.456811,
+      "longitude": 5.949621,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 383,
+      "name": "Kids Haven",
+      "latitude": 52.260116,
+      "longitude": 5.399547,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 384,
+      "name": "Kleihoogt",
+      "latitude": 52.005803,
+      "longitude": 4.474827,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 385,
+      "name": "Kleine Zwaan",
+      "latitude": 52.491814,
+      "longitude": 5.846349,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 386,
+      "name": "Kleine Zwaan",
+      "latitude": 52.492515,
+      "longitude": 5.84687,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 387,
+      "name": "Knar",
+      "latitude": 52.634223,
+      "longitude": 5.060387,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 388,
+      "name": "Kogjespolder",
+      "latitude": 52.210672,
+      "longitude": 4.547947,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 389,
+      "name": "Kraanbaan 2",
+      "latitude": 51.898362,
+      "longitude": 4.423643,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 390,
+      "name": "Kreil",
+      "latitude": 52.635743,
+      "longitude": 5.059291,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 391,
+      "name": "Krimpen aan den IJssel, Stormpolder",
+      "latitude": 51.904643,
+      "longitude": 4.574455,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 392,
+      "name": "Kruishoofd",
+      "latitude": 51.394369,
+      "longitude": 3.456403,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 393,
+      "name": "Kwelderpad",
+      "latitude": 52.460001,
+      "longitude": 4.561813,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 394,
+      "name": "L",
+      "latitude": 51.193019,
+      "longitude": 5.963873,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 395,
+      "name": "L",
+      "latitude": 51.195246,
+      "longitude": 5.979569,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 396,
+      "name": "L",
+      "latitude": 51.393839,
+      "longitude": 6.14995,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 397,
+      "name": "L",
+      "latitude": 51.671723,
+      "longitude": 4.080867,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 398,
+      "name": "L",
+      "latitude": 51.727806,
+      "longitude": 3.914249,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 399,
+      "name": "L",
+      "latitude": 51.738487,
+      "longitude": 3.851042,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 400,
+      "name": "L",
+      "latitude": 51.740753,
+      "longitude": 3.891683,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 401,
+      "name": "L",
+      "latitude": 51.761178,
+      "longitude": 3.859069,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 402,
+      "name": "L",
+      "latitude": 52.906041,
+      "longitude": 5.474389,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 403,
+      "name": "L",
+      "latitude": 52.946441,
+      "longitude": 5.405176,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 404,
+      "name": "L",
+      "latitude": 53.296111,
+      "longitude": 5.089511,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 405,
+      "name": "L / K",
+      "latitude": 51.565022,
+      "longitude": 3.698416,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 406,
+      "name": "L — M",
+      "latitude": 52.698982,
+      "longitude": 5.287284,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 407,
+      "name": "L-Steiger",
+      "latitude": 51.497155,
+      "longitude": 4.055168,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 408,
+      "name": "L-steiger",
+      "latitude": 51.496779,
+      "longitude": 4.0559,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 409,
+      "name": "LM08",
+      "latitude": 53.292736,
+      "longitude": 6.07455,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 410,
+      "name": "LM09A",
+      "latitude": 53.201531,
+      "longitude": 6.037098,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 411,
+      "name": "LM09B",
+      "latitude": 53.200983,
+      "longitude": 6.038004,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 412,
+      "name": "LM09D",
+      "latitude": 53.200274,
+      "longitude": 6.038603,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 413,
+      "name": "LM09E",
+      "latitude": 53.198921,
+      "longitude": 6.040117,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 414,
+      "name": "LM09F",
+      "latitude": 53.198628,
+      "longitude": 6.039128,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 415,
+      "name": "LM09G",
+      "latitude": 53.197883,
+      "longitude": 6.039784,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 416,
+      "name": "LM09H",
+      "latitude": 53.197978,
+      "longitude": 6.040856,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 417,
+      "name": "LM11",
+      "latitude": 53.224569,
+      "longitude": 5.871586,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 418,
+      "name": "LM12",
+      "latitude": 53.222797,
+      "longitude": 5.884754,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 419,
+      "name": "LM15",
+      "latitude": 53.304936,
+      "longitude": 6.146497,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 420,
+      "name": "LM16",
+      "latitude": 53.321461,
+      "longitude": 5.955119,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 421,
+      "name": "LM18",
+      "latitude": 53.310615,
+      "longitude": 5.917918,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 422,
+      "name": "LM21",
+      "latitude": 53.246209,
+      "longitude": 5.832236,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 423,
+      "name": "LM24A",
+      "latitude": 53.326739,
+      "longitude": 6.177681,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 424,
+      "name": "LM24B",
+      "latitude": 53.326586,
+      "longitude": 6.178053,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 425,
+      "name": "LM24C",
+      "latitude": 53.326311,
+      "longitude": 6.177988,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 426,
+      "name": "LM24D",
+      "latitude": 53.326223,
+      "longitude": 6.178003,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 427,
+      "name": "LM24E",
+      "latitude": 53.326136,
+      "longitude": 6.178018,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 428,
+      "name": "LM24F",
+      "latitude": 53.327302,
+      "longitude": 6.176893,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 429,
+      "name": "LM25",
+      "latitude": 53.338358,
+      "longitude": 6.180436,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 430,
+      "name": "LM26B",
+      "latitude": 53.344036,
+      "longitude": 6.176269,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 431,
+      "name": "LM27A",
+      "latitude": 53.34942,
+      "longitude": 6.227002,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 432,
+      "name": "LM27B",
+      "latitude": 53.344316,
+      "longitude": 6.231792,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 433,
+      "name": "LM27C",
+      "latitude": 53.343469,
+      "longitude": 6.23391,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 434,
+      "name": "LM27D",
+      "latitude": 53.346257,
+      "longitude": 6.244209,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 435,
+      "name": "LM28A",
+      "latitude": 53.318325,
+      "longitude": 6.12264,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 436,
+      "name": "LM28B",
+      "latitude": 53.312102,
+      "longitude": 6.13519,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 437,
+      "name": "LM28C",
+      "latitude": 53.305578,
+      "longitude": 6.132866,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 438,
+      "name": "LM30",
+      "latitude": 53.218179,
+      "longitude": 6.033999,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 439,
+      "name": "LM31A",
+      "latitude": 53.24562,
+      "longitude": 6.021746,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 440,
+      "name": "LM31B",
+      "latitude": 53.245216,
+      "longitude": 6.021532,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 441,
+      "name": "LM32",
+      "latitude": 53.266306,
+      "longitude": 6.029527,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 442,
+      "name": "LM33A",
+      "latitude": 53.288939,
+      "longitude": 6.049207,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 443,
+      "name": "LM33B",
+      "latitude": 53.287853,
+      "longitude": 6.048545,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 444,
+      "name": "LM35",
+      "latitude": 53.298896,
+      "longitude": 6.123377,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 445,
+      "name": "LM36",
+      "latitude": 53.300555,
+      "longitude": 6.143333,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 446,
+      "name": "LM37",
+      "latitude": 53.30618,
+      "longitude": 6.148479,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 447,
+      "name": "LM38",
+      "latitude": 53.23075,
+      "longitude": 5.818473,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 448,
+      "name": "LM39",
+      "latitude": 53.241041,
+      "longitude": 5.830892,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 449,
+      "name": "LM40B",
+      "latitude": 53.275209,
+      "longitude": 5.836565,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 450,
+      "name": "LM42A",
+      "latitude": 53.269372,
+      "longitude": 6.030043,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 451,
+      "name": "LM42B",
+      "latitude": 53.269167,
+      "longitude": 6.030071,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 452,
+      "name": "LM44",
+      "latitude": 53.219715,
+      "longitude": 5.866244,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 453,
+      "name": "LM45",
+      "latitude": 53.219568,
+      "longitude": 5.86696,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 454,
+      "name": "LM46",
+      "latitude": 53.21954,
+      "longitude": 5.867739,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 455,
+      "name": "LM47",
+      "latitude": 53.218625,
+      "longitude": 5.870936,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 456,
+      "name": "LM48",
+      "latitude": 53.21863,
+      "longitude": 5.871488,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 457,
+      "name": "LM49",
+      "latitude": 53.218622,
+      "longitude": 5.872222,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 458,
+      "name": "LM50",
+      "latitude": 53.219,
+      "longitude": 5.875887,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 459,
+      "name": "LM51",
+      "latitude": 53.220171,
+      "longitude": 5.878433,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 460,
+      "name": "LM52",
+      "latitude": 53.220094,
+      "longitude": 5.879279,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 461,
+      "name": "LM53",
+      "latitude": 53.220272,
+      "longitude": 5.881504,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 462,
+      "name": "LM55A",
+      "latitude": 53.173931,
+      "longitude": 5.854818,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 463,
+      "name": "LM55B",
+      "latitude": 53.175176,
+      "longitude": 5.855403,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 464,
+      "name": "LM55C",
+      "latitude": 53.176441,
+      "longitude": 5.856032,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 465,
+      "name": "LM61",
+      "latitude": 53.272121,
+      "longitude": 5.868398,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 466,
+      "name": "LM62",
+      "latitude": 53.285223,
+      "longitude": 5.8486,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 467,
+      "name": "LM63",
+      "latitude": 53.371181,
+      "longitude": 6.20994,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 468,
+      "name": "LM64C",
+      "latitude": 53.3643,
+      "longitude": 6.212077,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 469,
+      "name": "LM68",
+      "latitude": 53.150347,
+      "longitude": 5.477949,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 470,
+      "name": "LM72A",
+      "latitude": 53.196414,
+      "longitude": 5.732457,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 471,
+      "name": "LM72B",
+      "latitude": 53.196827,
+      "longitude": 5.733086,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 472,
+      "name": "LM72C",
+      "latitude": 53.197243,
+      "longitude": 5.733701,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 473,
+      "name": "LM72D",
+      "latitude": 53.197663,
+      "longitude": 5.734312,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 474,
+      "name": "LM72E",
+      "latitude": 53.198083,
+      "longitude": 5.73492,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 475,
+      "name": "Lacon",
+      "latitude": 52.635625,
+      "longitude": 5.060394,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 476,
+      "name": "Lambikstraat",
+      "latitude": 52.397592,
+      "longitude": 5.318584,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 477,
+      "name": "Lange Hoofd",
+      "latitude": 53.33782,
+      "longitude": 6.295357,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 478,
+      "name": "Langenackervlonder",
+      "latitude": 52.293508,
+      "longitude": 4.928478,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 479,
+      "name": "Langenackervlonder",
+      "latitude": 52.293855,
+      "longitude": 4.925044,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 480,
+      "name": "Linielaantje",
+      "latitude": 52.59176,
+      "longitude": 6.657687,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 481,
+      "name": "Linielaantje",
+      "latitude": 52.592394,
+      "longitude": 6.656927,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 482,
+      "name": "M",
+      "latitude": 51.192762,
+      "longitude": 5.963885,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 483,
+      "name": "M",
+      "latitude": 51.391661,
+      "longitude": 6.149821,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 484,
+      "name": "M",
+      "latitude": 51.671967,
+      "longitude": 4.080259,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 485,
+      "name": "M",
+      "latitude": 51.738618,
+      "longitude": 3.850486,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 486,
+      "name": "M",
+      "latitude": 51.740645,
+      "longitude": 3.891246,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 487,
+      "name": "M",
+      "latitude": 52.906766,
+      "longitude": 5.475578,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 488,
+      "name": "M",
+      "latitude": 52.946438,
+      "longitude": 5.405706,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 489,
+      "name": "M / N",
+      "latitude": 53.047817,
+      "longitude": 5.823229,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 490,
+      "name": "M- en N-pier",
+      "latitude": 52.405112,
+      "longitude": 4.886693,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 491,
+      "name": "M-N",
+      "latitude": 51.647674,
+      "longitude": 4.382269,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 492,
+      "name": "M/N",
+      "latitude": 51.605618,
+      "longitude": 4.105625,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 493,
+      "name": "Marken",
+      "latitude": 52.634605,
+      "longitude": 5.058833,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 494,
+      "name": "Markerink BV",
+      "latitude": 51.856649,
+      "longitude": 6.092683,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 495,
+      "name": "Marrekrite",
+      "latitude": 52.992606,
+      "longitude": 5.503197,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 496,
+      "name": "Marrekritte",
+      "latitude": 52.993129,
+      "longitude": 5.503624,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 497,
+      "name": "Meld Steiger",
+      "latitude": 51.67193,
+      "longitude": 4.083492,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 498,
+      "name": "Meld steiger",
+      "latitude": 51.69718,
+      "longitude": 4.43822,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 499,
+      "name": "Meldsteiger",
+      "latitude": 51.593865,
+      "longitude": 3.718526,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 500,
+      "name": "Meldsteiger",
+      "latitude": 51.736559,
+      "longitude": 5.135742,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 501,
+      "name": "Meldsteiger",
+      "latitude": 51.996506,
+      "longitude": 6.063237,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 502,
+      "name": "Meldsteiger",
+      "latitude": 52.138221,
+      "longitude": 6.192563,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 503,
+      "name": "Meldsteiger",
+      "latitude": 52.31155,
+      "longitude": 5.148942,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 504,
+      "name": "Meldsteiger",
+      "latitude": 52.338296,
+      "longitude": 5.130801,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 505,
+      "name": "Meppelerdiepkade",
+      "latitude": 52.638793,
+      "longitude": 6.07074,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 506,
+      "name": "Mindervalidensteiger",
+      "latitude": 52.077252,
+      "longitude": 4.810525,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 507,
+      "name": "Multifunctionele Steiger Willemkade",
+      "latitude": 53.173724,
+      "longitude": 5.409822,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 508,
+      "name": "N",
+      "latitude": 51.192431,
+      "longitude": 5.963757,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 509,
+      "name": "N",
+      "latitude": 51.67209,
+      "longitude": 4.079495,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 510,
+      "name": "N",
+      "latitude": 51.73879,
+      "longitude": 3.849969,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 511,
+      "name": "N",
+      "latitude": 51.740558,
+      "longitude": 3.890847,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 512,
+      "name": "N",
+      "latitude": 51.761602,
+      "longitude": 3.85927,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 513,
+      "name": "N",
+      "latitude": 52.946524,
+      "longitude": 5.403318,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 514,
+      "name": "N — O",
+      "latitude": 52.699068,
+      "longitude": 5.288136,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 515,
+      "name": "NDSM-pier",
+      "latitude": 52.400511,
+      "longitude": 4.888806,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 516,
+      "name": "Naviculakade",
+      "latitude": 53.006048,
+      "longitude": 4.793822,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 517,
+      "name": "Nieuwe Harlingersteiger",
+      "latitude": 52.701424,
+      "longitude": 5.296851,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 518,
+      "name": "Noodsteiger",
+      "latitude": 51.951259,
+      "longitude": 4.143465,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 519,
+      "name": "Noordzijdse Kade",
+      "latitude": 52.011093,
+      "longitude": 4.910049,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 520,
+      "name": "O",
+      "latitude": 51.672438,
+      "longitude": 4.079106,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 521,
+      "name": "O",
+      "latitude": 51.739005,
+      "longitude": 3.849571,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 522,
+      "name": "O",
+      "latitude": 51.761977,
+      "longitude": 3.85948,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 523,
+      "name": "O",
+      "latitude": 52.94647,
+      "longitude": 5.402837,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 524,
+      "name": "O / P",
+      "latitude": 53.047625,
+      "longitude": 5.822807,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 525,
+      "name": "O- en P-pier",
+      "latitude": 52.405421,
+      "longitude": 4.887038,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 526,
+      "name": "O-P",
+      "latitude": 51.647296,
+      "longitude": 4.38278,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 527,
+      "name": "O/P",
+      "latitude": 51.605822,
+      "longitude": 4.105312,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 528,
+      "name": "OT steiger",
+      "latitude": 51.346726,
+      "longitude": 3.761172,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 529,
+      "name": "Oceandock",
+      "latitude": 51.339712,
+      "longitude": 3.770414,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 530,
+      "name": "Oedevlietsepark",
+      "latitude": 51.858619,
+      "longitude": 4.350014,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 531,
+      "name": "Opstapplaats Rondvaart Binnendieze",
+      "latitude": 51.685259,
+      "longitude": 5.30836,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 532,
+      "name": "Ostara (Spido)",
+      "latitude": 51.907674,
+      "longitude": 4.480972,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 533,
+      "name": "Oude Veerstraat",
+      "latitude": 51.041413,
+      "longitude": 5.765773,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 534,
+      "name": "Oudewater",
+      "latitude": 51.971812,
+      "longitude": 4.826634,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 535,
+      "name": "P",
+      "latitude": 51.391863,
+      "longitude": 6.149427,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 536,
+      "name": "P",
+      "latitude": 51.554258,
+      "longitude": 3.806113,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 537,
+      "name": "P",
+      "latitude": 51.672628,
+      "longitude": 4.078623,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 538,
+      "name": "P",
+      "latitude": 51.674722,
+      "longitude": 3.755074,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 539,
+      "name": "P",
+      "latitude": 51.739094,
+      "longitude": 3.849066,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 540,
+      "name": "P",
+      "latitude": 51.762205,
+      "longitude": 3.859937,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 541,
+      "name": "P",
+      "latitude": 52.699087,
+      "longitude": 5.288786,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 542,
+      "name": "P. Verburgweg",
+      "latitude": 52.021415,
+      "longitude": 4.477276,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 543,
+      "name": "PR 44",
+      "latitude": 53.095972,
+      "longitude": 5.896272,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 544,
+      "name": "PR04E1",
+      "latitude": 53.133218,
+      "longitude": 5.901291,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 545,
+      "name": "PR04E2",
+      "latitude": 53.133167,
+      "longitude": 5.900494,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 546,
+      "name": "PR04F1",
+      "latitude": 53.132975,
+      "longitude": 5.89933,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 547,
+      "name": "PR04F2",
+      "latitude": 53.132755,
+      "longitude": 5.898543,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 548,
+      "name": "PR04H",
+      "latitude": 53.131846,
+      "longitude": 5.892494,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 549,
+      "name": "PR04I",
+      "latitude": 53.130775,
+      "longitude": 5.891729,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 550,
+      "name": "PR04J",
+      "latitude": 53.13106,
+      "longitude": 5.890691,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 551,
+      "name": "PR04L",
+      "latitude": 53.131196,
+      "longitude": 5.892926,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 552,
+      "name": "PR04M",
+      "latitude": 53.131042,
+      "longitude": 5.894227,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 553,
+      "name": "PR04N",
+      "latitude": 53.130291,
+      "longitude": 5.893204,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 554,
+      "name": "PR04O",
+      "latitude": 53.130086,
+      "longitude": 5.893986,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 555,
+      "name": "PR05B",
+      "latitude": 53.119602,
+      "longitude": 5.91085,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 556,
+      "name": "PR05C",
+      "latitude": 53.119929,
+      "longitude": 5.911195,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 557,
+      "name": "PR10B",
+      "latitude": 53.115232,
+      "longitude": 5.92161,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 558,
+      "name": "PR11A",
+      "latitude": 53.113246,
+      "longitude": 5.924023,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 559,
+      "name": "PR11B",
+      "latitude": 53.112884,
+      "longitude": 5.924494,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 560,
+      "name": "PR16A",
+      "latitude": 53.109189,
+      "longitude": 5.910253,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 561,
+      "name": "PR16A",
+      "latitude": 53.109283,
+      "longitude": 5.912162,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 562,
+      "name": "PR17",
+      "latitude": 53.109009,
+      "longitude": 5.90814,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 563,
+      "name": "PR18A",
+      "latitude": 53.107149,
+      "longitude": 5.882963,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 564,
+      "name": "PR18B",
+      "latitude": 53.107397,
+      "longitude": 5.885729,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 565,
+      "name": "PR20A",
+      "latitude": 53.115206,
+      "longitude": 5.879329,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 566,
+      "name": "PR21A",
+      "latitude": 53.112226,
+      "longitude": 5.882268,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 567,
+      "name": "PR21B",
+      "latitude": 53.112442,
+      "longitude": 5.885212,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 568,
+      "name": "PR22A",
+      "latitude": 53.111908,
+      "longitude": 5.883858,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 569,
+      "name": "PR22B",
+      "latitude": 53.112207,
+      "longitude": 5.885395,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 570,
+      "name": "PR22B",
+      "latitude": 53.112383,
+      "longitude": 5.886285,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 571,
+      "name": "PR23A",
+      "latitude": 53.112846,
+      "longitude": 5.887272,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 572,
+      "name": "PR23B",
+      "latitude": 53.113291,
+      "longitude": 5.887857,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 573,
+      "name": "PR24A",
+      "latitude": 53.112723,
+      "longitude": 5.887675,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 574,
+      "name": "PR25A",
+      "latitude": 53.114498,
+      "longitude": 5.887441,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 575,
+      "name": "PR25B",
+      "latitude": 53.115024,
+      "longitude": 5.886819,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 576,
+      "name": "PR27",
+      "latitude": 53.095635,
+      "longitude": 5.850564,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 577,
+      "name": "PR32",
+      "latitude": 53.099392,
+      "longitude": 5.886542,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 578,
+      "name": "PR33",
+      "latitude": 53.108495,
+      "longitude": 6.014035,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 579,
+      "name": "PR36",
+      "latitude": 53.094721,
+      "longitude": 5.935082,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 580,
+      "name": "PR37",
+      "latitude": 53.096138,
+      "longitude": 5.937018,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 581,
+      "name": "PR38",
+      "latitude": 53.095711,
+      "longitude": 5.933062,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 582,
+      "name": "PR40",
+      "latitude": 53.099882,
+      "longitude": 5.916759,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 583,
+      "name": "PR42",
+      "latitude": 53.101377,
+      "longitude": 5.906645,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 584,
+      "name": "PR45C",
+      "latitude": 53.091761,
+      "longitude": 5.883204,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 585,
+      "name": "PR45H",
+      "latitude": 53.092764,
+      "longitude": 5.883916,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 586,
+      "name": "PR45I",
+      "latitude": 53.092067,
+      "longitude": 5.884099,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 587,
+      "name": "PR45J",
+      "latitude": 53.091297,
+      "longitude": 5.884085,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 588,
+      "name": "PR45K",
+      "latitude": 53.091656,
+      "longitude": 5.882036,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 589,
+      "name": "PR45L",
+      "latitude": 53.091873,
+      "longitude": 5.881283,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 590,
+      "name": "PR45M",
+      "latitude": 53.092346,
+      "longitude": 5.880423,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 591,
+      "name": "PR46A",
+      "latitude": 53.091691,
+      "longitude": 5.879283,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 592,
+      "name": "PR46B",
+      "latitude": 53.092197,
+      "longitude": 5.87995,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 593,
+      "name": "PR46C",
+      "latitude": 53.092959,
+      "longitude": 5.881714,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 594,
+      "name": "PR46D",
+      "latitude": 53.091057,
+      "longitude": 5.878242,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 595,
+      "name": "PR47",
+      "latitude": 53.090491,
+      "longitude": 5.878919,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 596,
+      "name": "PR48",
+      "latitude": 53.013001,
+      "longitude": 6.099783,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 597,
+      "name": "PR51A",
+      "latitude": 53.089049,
+      "longitude": 5.857099,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 598,
+      "name": "PR51B",
+      "latitude": 53.089502,
+      "longitude": 5.857682,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 599,
+      "name": "PR51C",
+      "latitude": 53.089142,
+      "longitude": 5.858093,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 600,
+      "name": "PR51D",
+      "latitude": 53.089595,
+      "longitude": 5.85876,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 601,
+      "name": "PR51E",
+      "latitude": 53.090226,
+      "longitude": 5.859238,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 602,
+      "name": "PR51G",
+      "latitude": 53.091357,
+      "longitude": 5.858577,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 603,
+      "name": "PR56",
+      "latitude": 53.089487,
+      "longitude": 5.87315,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 604,
+      "name": "PR57",
+      "latitude": 53.088801,
+      "longitude": 5.871775,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 605,
+      "name": "PR65A",
+      "latitude": 53.101718,
+      "longitude": 5.951846,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 606,
+      "name": "PR65B",
+      "latitude": 53.101571,
+      "longitude": 5.95318,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 607,
+      "name": "PR65C",
+      "latitude": 53.101729,
+      "longitude": 5.954301,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 608,
+      "name": "PR65E",
+      "latitude": 53.102299,
+      "longitude": 5.95836,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 609,
+      "name": "PR65G",
+      "latitude": 53.102175,
+      "longitude": 5.960555,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 610,
+      "name": "PR66",
+      "latitude": 53.023702,
+      "longitude": 6.123768,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 611,
+      "name": "PR67",
+      "latitude": 53.056607,
+      "longitude": 5.974072,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 612,
+      "name": "PR68A",
+      "latitude": 53.136346,
+      "longitude": 5.917631,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 613,
+      "name": "PR68B",
+      "latitude": 53.133047,
+      "longitude": 5.921487,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 614,
+      "name": "PR69A",
+      "latitude": 53.109626,
+      "longitude": 6.021194,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 615,
+      "name": "PR69B",
+      "latitude": 53.109862,
+      "longitude": 6.023468,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 616,
+      "name": "PR69C",
+      "latitude": 53.110111,
+      "longitude": 6.025588,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 617,
+      "name": "PR70A",
+      "latitude": 53.06781,
+      "longitude": 5.851941,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 618,
+      "name": "PR70B",
+      "latitude": 53.0675,
+      "longitude": 5.85144,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 619,
+      "name": "PR70C",
+      "latitude": 53.067403,
+      "longitude": 5.851278,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 620,
+      "name": "PR71A",
+      "latitude": 53.089984,
+      "longitude": 5.803441,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 621,
+      "name": "PR71B",
+      "latitude": 53.09317,
+      "longitude": 5.814527,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 622,
+      "name": "PR72E",
+      "latitude": 53.151208,
+      "longitude": 6.062112,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 623,
+      "name": "PR73A",
+      "latitude": 53.163867,
+      "longitude": 6.062887,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 624,
+      "name": "PR77",
+      "latitude": 53.155123,
+      "longitude": 6.077848,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 625,
+      "name": "PR79",
+      "latitude": 53.018343,
+      "longitude": 5.919244,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 626,
+      "name": "PR81",
+      "latitude": 53.005622,
+      "longitude": 5.86467,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 627,
+      "name": "Pampus",
+      "latitude": 52.634407,
+      "longitude": 5.059224,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 628,
+      "name": "Pampushaven",
+      "latitude": 52.383325,
+      "longitude": 5.129178,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 629,
+      "name": "Papendrecht, Noordhoek",
+      "latitude": 51.834001,
+      "longitude": 4.673229,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 630,
+      "name": "Papendrecht, Rosmolenweg",
+      "latitude": 51.824029,
+      "longitude": 4.729309,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 631,
+      "name": "Papendrecht, Veerdam",
+      "latitude": 51.822127,
+      "longitude": 4.682177,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 632,
+      "name": "Passanten",
+      "latitude": 51.647948,
+      "longitude": 4.381926,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 633,
+      "name": "Passantenhaven Breda",
+      "latitude": 51.589277,
+      "longitude": 4.772082,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 634,
+      "name": "Passantenhaven Breda",
+      "latitude": 51.59201,
+      "longitude": 4.771337,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 635,
+      "name": "Passantenhaven Delft",
+      "latitude": 52.005306,
+      "longitude": 4.360207,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 636,
+      "name": "Passantensteiger",
+      "latitude": 51.496507,
+      "longitude": 4.054263,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 637,
+      "name": "Passanthaven Hoogeveen",
+      "latitude": 52.710888,
+      "longitude": 6.477983,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 638,
+      "name": "Passenger Terminal Amsterdam",
+      "latitude": 52.377951,
+      "longitude": 4.917549,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 639,
+      "name": "Pier 1",
+      "latitude": 52.37581,
+      "longitude": 4.89707,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 640,
+      "name": "Pier 2",
+      "latitude": 52.375968,
+      "longitude": 4.897318,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 641,
+      "name": "Pier 3",
+      "latitude": 52.376137,
+      "longitude": 4.89756,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 642,
+      "name": "Pier 4",
+      "latitude": 52.376248,
+      "longitude": 4.897734,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 643,
+      "name": "Pier 5",
+      "latitude": 52.376362,
+      "longitude": 4.897884,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 644,
+      "name": "Pier 6",
+      "latitude": 52.376475,
+      "longitude": 4.898031,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 645,
+      "name": "Pierland",
+      "latitude": 52.391635,
+      "longitude": 5.691095,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 646,
+      "name": "Polsbroek",
+      "latitude": 51.971781,
+      "longitude": 4.826672,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 647,
+      "name": "Pondveer Steiger",
+      "latitude": 52.25334,
+      "longitude": 4.714526,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 648,
+      "name": "Ponton Ontdek Tilburg",
+      "latitude": 51.552306,
+      "longitude": 5.092983,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 649,
+      "name": "Prinsendyk PR 10",
+      "latitude": 53.115269,
+      "longitude": 5.921494,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 650,
+      "name": "Q",
+      "latitude": 51.55393,
+      "longitude": 3.806184,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 651,
+      "name": "Q",
+      "latitude": 51.739248,
+      "longitude": 3.848615,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 652,
+      "name": "Q — R",
+      "latitude": 52.697245,
+      "longitude": 5.28712,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 653,
+      "name": "Q- en R-pier",
+      "latitude": 52.405703,
+      "longitude": 4.887445,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 654,
+      "name": "Q-R",
+      "latitude": 51.646927,
+      "longitude": 4.383271,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 655,
+      "name": "Q/R",
+      "latitude": 51.605991,
+      "longitude": 4.105019,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 656,
+      "name": "R",
+      "latitude": 51.553509,
+      "longitude": 3.806488,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 657,
+      "name": "R",
+      "latitude": 51.73938,
+      "longitude": 3.848225,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 658,
+      "name": "R / Q",
+      "latitude": 53.047461,
+      "longitude": 5.822462,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 659,
+      "name": "Remmingwerk",
+      "latitude": 51.829447,
+      "longitude": 4.966038,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 660,
+      "name": "Rent a Boat",
+      "latitude": 51.309331,
+      "longitude": 3.384057,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 661,
+      "name": "Rhoon",
+      "latitude": 51.842371,
+      "longitude": 4.423342,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 662,
+      "name": "Ridderkerk, De Schans",
+      "latitude": 51.886845,
+      "longitude": 4.619359,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 663,
+      "name": "Rijkssteiger",
+      "latitude": 53.178635,
+      "longitude": 5.414664,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 664,
+      "name": "Rijnhaven",
+      "latitude": 52.138157,
+      "longitude": 4.644157,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 665,
+      "name": "Ringvaart-Cruquiusdijk",
+      "latitude": 52.339437,
+      "longitude": 4.643757,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 666,
+      "name": "Ringvaart-Hillegommerdijk",
+      "latitude": 52.288833,
+      "longitude": 4.59381,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 667,
+      "name": "Rising Risk",
+      "latitude": 51.866309,
+      "longitude": 5.126399,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 668,
+      "name": "RoBoat pier",
+      "latitude": 52.373441,
+      "longitude": 4.915394,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 669,
+      "name": "Roeivlot",
+      "latitude": 51.432202,
+      "longitude": 5.526656,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 670,
+      "name": "Rotterdam, Erasmusbrug",
+      "latitude": 51.908648,
+      "longitude": 4.482162,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 671,
+      "name": "Rotterdam, Heijplaat-RDM",
+      "latitude": 51.897475,
+      "longitude": 4.421014,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 672,
+      "name": "Rotterdam, Katendrecht",
+      "latitude": 51.897445,
+      "longitude": 4.470041,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 673,
+      "name": "Rotterdam, Katendrecht",
+      "latitude": 51.897593,
+      "longitude": 4.473304,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 674,
+      "name": "Rotterdam, Katendrecht",
+      "latitude": 51.898276,
+      "longitude": 4.471553,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 675,
+      "name": "Rotterdam, Piekstraat",
+      "latitude": 51.906334,
+      "longitude": 4.514267,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 676,
+      "name": "Rotterdam, Plantagelaan",
+      "latitude": 51.913076,
+      "longitude": 4.517228,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 677,
+      "name": "Rotterdam, Sint Jobshaven",
+      "latitude": 51.904058,
+      "longitude": 4.461402,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 678,
+      "name": "Rouaanse steiger",
+      "latitude": 52.635567,
+      "longitude": 5.063209,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 679,
+      "name": "Ruijterkade Oost RO1",
+      "latitude": 52.378578,
+      "longitude": 4.907248,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 680,
+      "name": "S",
+      "latitude": 51.552948,
+      "longitude": 3.806784,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 681,
+      "name": "S",
+      "latitude": 51.606017,
+      "longitude": 4.104651,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 682,
+      "name": "S",
+      "latitude": 51.739264,
+      "longitude": 3.846281,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 683,
+      "name": "S",
+      "latitude": 52.697035,
+      "longitude": 5.286703,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 684,
+      "name": "S",
+      "latitude": 53.047326,
+      "longitude": 5.822098,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 685,
+      "name": "S- en T-pier",
+      "latitude": 52.405986,
+      "longitude": 4.887719,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 686,
+      "name": "S-T",
+      "latitude": 51.646557,
+      "longitude": 4.383788,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 687,
+      "name": "SL03B",
+      "latitude": 52.88594,
+      "longitude": 5.660764,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 688,
+      "name": "SL03D",
+      "latitude": 52.885309,
+      "longitude": 5.660361,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 689,
+      "name": "SL06",
+      "latitude": 52.914919,
+      "longitude": 5.594673,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 690,
+      "name": "SN 44A",
+      "latitude": 53.006909,
+      "longitude": 5.673501,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 691,
+      "name": "SN 44B",
+      "latitude": 53.002962,
+      "longitude": 5.674349,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 692,
+      "name": "SN 44B",
+      "latitude": 53.00638,
+      "longitude": 5.673254,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 693,
+      "name": "SN 45A",
+      "latitude": 53.003527,
+      "longitude": 5.663953,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 694,
+      "name": "SN 45B",
+      "latitude": 53.00355,
+      "longitude": 5.664609,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 695,
+      "name": "SN 59",
+      "latitude": 52.965062,
+      "longitude": 5.694338,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 696,
+      "name": "SN 97",
+      "latitude": 53.003697,
+      "longitude": 5.661115,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 697,
+      "name": "SN-44a",
+      "latitude": 53.003209,
+      "longitude": 5.674147,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 698,
+      "name": "SN-50b",
+      "latitude": 52.990844,
+      "longitude": 5.680535,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 699,
+      "name": "SN03A",
+      "latitude": 53.054895,
+      "longitude": 5.826374,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 700,
+      "name": "SN06A",
+      "latitude": 53.038578,
+      "longitude": 5.799826,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 701,
+      "name": "SN06B",
+      "latitude": 53.039175,
+      "longitude": 5.800328,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 702,
+      "name": "SN06C",
+      "latitude": 53.039667,
+      "longitude": 5.801424,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 703,
+      "name": "SN07A",
+      "latitude": 53.038349,
+      "longitude": 5.801959,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 704,
+      "name": "SN07B",
+      "latitude": 53.038141,
+      "longitude": 5.801323,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 705,
+      "name": "SN07C",
+      "latitude": 53.038026,
+      "longitude": 5.800518,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 706,
+      "name": "SN08A",
+      "latitude": 53.037907,
+      "longitude": 5.789613,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 707,
+      "name": "SN08B",
+      "latitude": 53.03823,
+      "longitude": 5.790052,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 708,
+      "name": "SN08C",
+      "latitude": 53.038928,
+      "longitude": 5.791293,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 709,
+      "name": "SN08D",
+      "latitude": 53.039475,
+      "longitude": 5.792176,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 710,
+      "name": "SN08E",
+      "latitude": 53.039836,
+      "longitude": 5.79313,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 711,
+      "name": "SN09A",
+      "latitude": 53.036531,
+      "longitude": 5.799901,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 712,
+      "name": "SN09B",
+      "latitude": 53.035973,
+      "longitude": 5.799114,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 713,
+      "name": "SN100",
+      "latitude": 53.123331,
+      "longitude": 5.754719,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 714,
+      "name": "SN118",
+      "latitude": 53.020854,
+      "longitude": 5.752762,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 715,
+      "name": "SN118",
+      "latitude": 53.02115,
+      "longitude": 5.754158,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 716,
+      "name": "SN121",
+      "latitude": 53.013595,
+      "longitude": 5.749441,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 717,
+      "name": "SN12A",
+      "latitude": 53.031092,
+      "longitude": 5.806659,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 718,
+      "name": "SN14B",
+      "latitude": 53.031172,
+      "longitude": 5.773318,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 719,
+      "name": "SN15A",
+      "latitude": 53.029712,
+      "longitude": 5.771827,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 720,
+      "name": "SN16B",
+      "latitude": 53.036488,
+      "longitude": 5.805428,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 721,
+      "name": "SN18",
+      "latitude": 53.023668,
+      "longitude": 5.697684,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 722,
+      "name": "SN19A",
+      "latitude": 53.023002,
+      "longitude": 5.714635,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 723,
+      "name": "SN19C",
+      "latitude": 53.023666,
+      "longitude": 5.716645,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 724,
+      "name": "SN20A",
+      "latitude": 53.023788,
+      "longitude": 5.719002,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 725,
+      "name": "SN20B",
+      "latitude": 53.023989,
+      "longitude": 5.719428,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 726,
+      "name": "SN23A",
+      "latitude": 53.01821,
+      "longitude": 5.727768,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 727,
+      "name": "SN23B",
+      "latitude": 53.01719,
+      "longitude": 5.729778,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 728,
+      "name": "SN26A",
+      "latitude": 53.020175,
+      "longitude": 5.750091,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 729,
+      "name": "SN26B",
+      "latitude": 53.019834,
+      "longitude": 5.75065,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 730,
+      "name": "SN26G",
+      "latitude": 53.019661,
+      "longitude": 5.752268,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 731,
+      "name": "SN26I",
+      "latitude": 53.019244,
+      "longitude": 5.762424,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 732,
+      "name": "SN26J",
+      "latitude": 53.019702,
+      "longitude": 5.763399,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 733,
+      "name": "SN26N",
+      "latitude": 53.021244,
+      "longitude": 5.755338,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 734,
+      "name": "SN28C",
+      "latitude": 53.017553,
+      "longitude": 5.744222,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 735,
+      "name": "SN28D",
+      "latitude": 53.017768,
+      "longitude": 5.744602,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 736,
+      "name": "SN29A",
+      "latitude": 53.018486,
+      "longitude": 5.749747,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 737,
+      "name": "SN29B",
+      "latitude": 53.018108,
+      "longitude": 5.749468,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 738,
+      "name": "SN29C",
+      "latitude": 53.015173,
+      "longitude": 5.750823,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 739,
+      "name": "SN29F",
+      "latitude": 53.010418,
+      "longitude": 5.748161,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 740,
+      "name": "SN30A",
+      "latitude": 53.014442,
+      "longitude": 5.737141,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 741,
+      "name": "SN30A",
+      "latitude": 53.01457,
+      "longitude": 5.740974,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 742,
+      "name": "SN30B",
+      "latitude": 53.014201,
+      "longitude": 5.738888,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 743,
+      "name": "SN30B",
+      "latitude": 53.014857,
+      "longitude": 5.741353,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 744,
+      "name": "SN31B",
+      "latitude": 53.009088,
+      "longitude": 5.748567,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 745,
+      "name": "SN32",
+      "latitude": 53.007767,
+      "longitude": 5.757613,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 746,
+      "name": "SN33",
+      "latitude": 53.006599,
+      "longitude": 5.757437,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 747,
+      "name": "SN37A",
+      "latitude": 53.004055,
+      "longitude": 5.736592,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 748,
+      "name": "SN37B",
+      "latitude": 53.00473,
+      "longitude": 5.738908,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 749,
+      "name": "SN38A",
+      "latitude": 53.001681,
+      "longitude": 5.732651,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 750,
+      "name": "SN38B",
+      "latitude": 53.001522,
+      "longitude": 5.733237,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 751,
+      "name": "SN38C",
+      "latitude": 53.001861,
+      "longitude": 5.733578,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 752,
+      "name": "SN38D",
+      "latitude": 53.002187,
+      "longitude": 5.734081,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 753,
+      "name": "SN39A",
+      "latitude": 53.002276,
+      "longitude": 5.736585,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 754,
+      "name": "SN39C",
+      "latitude": 53.003898,
+      "longitude": 5.737783,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 755,
+      "name": "SN40A",
+      "latitude": 53.001585,
+      "longitude": 5.73848,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 756,
+      "name": "SN40B",
+      "latitude": 53.001526,
+      "longitude": 5.739234,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 757,
+      "name": "SN40C",
+      "latitude": 53.001826,
+      "longitude": 5.740051,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 758,
+      "name": "SN41",
+      "latitude": 53.004978,
+      "longitude": 5.722108,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 759,
+      "name": "SN42",
+      "latitude": 53.006475,
+      "longitude": 5.721861,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 760,
+      "name": "SN43",
+      "latitude": 53.007538,
+      "longitude": 5.681376,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 761,
+      "name": "SN47A",
+      "latitude": 52.993443,
+      "longitude": 5.687894,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 762,
+      "name": "SN47B",
+      "latitude": 52.993232,
+      "longitude": 5.687068,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 763,
+      "name": "SN48",
+      "latitude": 52.990533,
+      "longitude": 5.689021,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 764,
+      "name": "SN49A",
+      "latitude": 52.98984,
+      "longitude": 5.683354,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 765,
+      "name": "SN49B",
+      "latitude": 52.990783,
+      "longitude": 5.68293,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 766,
+      "name": "SN50A",
+      "latitude": 52.990621,
+      "longitude": 5.681438,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 767,
+      "name": "SN50B",
+      "latitude": 52.990879,
+      "longitude": 5.680428,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 768,
+      "name": "SN52A",
+      "latitude": 52.98594,
+      "longitude": 5.687369,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 769,
+      "name": "SN52B",
+      "latitude": 52.984971,
+      "longitude": 5.687325,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 770,
+      "name": "SN52C",
+      "latitude": 52.984531,
+      "longitude": 5.686629,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 771,
+      "name": "SN54A",
+      "latitude": 52.984759,
+      "longitude": 5.706354,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 772,
+      "name": "SN54B",
+      "latitude": 52.985038,
+      "longitude": 5.70723,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 773,
+      "name": "SN55",
+      "latitude": 52.981119,
+      "longitude": 5.703831,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 774,
+      "name": "SN57",
+      "latitude": 52.998085,
+      "longitude": 5.722887,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 775,
+      "name": "SN60",
+      "latitude": 53.002424,
+      "longitude": 5.757062,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 776,
+      "name": "SN61A",
+      "latitude": 53.001132,
+      "longitude": 5.755858,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 777,
+      "name": "SN61B",
+      "latitude": 53.000429,
+      "longitude": 5.754237,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 778,
+      "name": "SN61C",
+      "latitude": 52.999933,
+      "longitude": 5.753554,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 779,
+      "name": "SN62A",
+      "latitude": 52.996817,
+      "longitude": 5.751362,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 780,
+      "name": "SN62B",
+      "latitude": 52.995762,
+      "longitude": 5.751735,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 781,
+      "name": "SN62C",
+      "latitude": 52.991821,
+      "longitude": 5.756466,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 782,
+      "name": "SN62D",
+      "latitude": 52.990844,
+      "longitude": 5.757977,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 783,
+      "name": "SN64E",
+      "latitude": 52.979672,
+      "longitude": 5.762972,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 784,
+      "name": "SN64G",
+      "latitude": 52.980135,
+      "longitude": 5.762902,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 785,
+      "name": "SN64J",
+      "latitude": 52.978453,
+      "longitude": 5.762268,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 786,
+      "name": "SN65A",
+      "latitude": 52.941994,
+      "longitude": 5.673613,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 787,
+      "name": "SN65B",
+      "latitude": 52.941761,
+      "longitude": 5.676904,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 788,
+      "name": "SN66",
+      "latitude": 53.006689,
+      "longitude": 5.861826,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 789,
+      "name": "SN68",
+      "latitude": 53.014751,
+      "longitude": 5.73568,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 790,
+      "name": "SN69A",
+      "latitude": 53.028599,
+      "longitude": 5.778918,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 791,
+      "name": "SN69C",
+      "latitude": 53.027685,
+      "longitude": 5.783108,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 792,
+      "name": "SN69D",
+      "latitude": 53.026749,
+      "longitude": 5.785234,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 793,
+      "name": "SN69E",
+      "latitude": 53.02651,
+      "longitude": 5.785491,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 794,
+      "name": "SN69F",
+      "latitude": 53.02628,
+      "longitude": 5.785316,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 795,
+      "name": "SN70A",
+      "latitude": 52.994634,
+      "longitude": 5.739665,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 796,
+      "name": "SN70B",
+      "latitude": 52.994581,
+      "longitude": 5.740848,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 797,
+      "name": "SN70C",
+      "latitude": 52.99469,
+      "longitude": 5.742433,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 798,
+      "name": "SN70D",
+      "latitude": 52.992995,
+      "longitude": 5.742048,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 799,
+      "name": "SN70E",
+      "latitude": 52.991844,
+      "longitude": 5.742536,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 800,
+      "name": "SN71",
+      "latitude": 52.998565,
+      "longitude": 5.736334,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 801,
+      "name": "SN77",
+      "latitude": 53.015705,
+      "longitude": 5.629373,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 802,
+      "name": "SN79",
+      "latitude": 52.967044,
+      "longitude": 5.705465,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 803,
+      "name": "SN85",
+      "latitude": 52.976145,
+      "longitude": 5.758988,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 804,
+      "name": "SN86A",
+      "latitude": 52.983689,
+      "longitude": 5.763212,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 805,
+      "name": "SN86A",
+      "latitude": 52.987779,
+      "longitude": 5.761818,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 806,
+      "name": "SN86B",
+      "latitude": 52.985193,
+      "longitude": 5.763372,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 807,
+      "name": "SN87",
+      "latitude": 52.978791,
+      "longitude": 5.725237,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 808,
+      "name": "SN88A",
+      "latitude": 52.977092,
+      "longitude": 5.710141,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 809,
+      "name": "SN88B",
+      "latitude": 52.977113,
+      "longitude": 5.710581,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 810,
+      "name": "SN89A",
+      "latitude": 52.961153,
+      "longitude": 5.730161,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 811,
+      "name": "SN89B",
+      "latitude": 52.960838,
+      "longitude": 5.730539,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 812,
+      "name": "SN90B",
+      "latitude": 53.044819,
+      "longitude": 5.748927,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 813,
+      "name": "SN91A",
+      "latitude": 52.987515,
+      "longitude": 5.74155,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 814,
+      "name": "SN91A",
+      "latitude": 52.98837,
+      "longitude": 5.741316,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 815,
+      "name": "SN91B",
+      "latitude": 52.985764,
+      "longitude": 5.741313,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 816,
+      "name": "Sassteiger",
+      "latitude": 53.175518,
+      "longitude": 5.410639,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 817,
+      "name": "Scheldesteiger",
+      "latitude": 51.350491,
+      "longitude": 3.788005,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 818,
+      "name": "Scheveningse pier",
+      "latitude": 52.117073,
+      "longitude": 4.280832,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 819,
+      "name": "Schiedam, Maasboulevard",
+      "latitude": 51.901258,
+      "longitude": 4.407472,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 820,
+      "name": "Schoonhoven",
+      "latitude": 51.971756,
+      "longitude": 4.826641,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 821,
+      "name": "Schotsman Watersportcentrum",
+      "latitude": 51.571449,
+      "longitude": 3.651331,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 822,
+      "name": "Sint Janspontje",
+      "latitude": 51.576544,
+      "longitude": 5.37928,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 823,
+      "name": "Slachtehiem",
+      "latitude": 53.145619,
+      "longitude": 5.519545,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 824,
+      "name": "Sliedrecht, Middeldiep",
+      "latitude": 51.817397,
+      "longitude": 4.777356,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 825,
+      "name": "Sluisbuurt",
+      "latitude": 52.375816,
+      "longitude": 4.955989,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 826,
+      "name": "Smilde",
+      "latitude": 52.947361,
+      "longitude": 6.442957,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 827,
+      "name": "Smilde",
+      "latitude": 52.948026,
+      "longitude": 6.443682,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 828,
+      "name": "Spiek",
+      "latitude": 52.634054,
+      "longitude": 5.060848,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 829,
+      "name": "Spijkenisse",
+      "latitude": 51.830945,
+      "longitude": 4.394553,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 830,
+      "name": "Sporenburg",
+      "latitude": 52.374464,
+      "longitude": 4.949749,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 831,
+      "name": "Sportvissteiger",
+      "latitude": 53.178581,
+      "longitude": 5.415209,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 832,
+      "name": "St 33",
+      "latitude": 51.887809,
+      "longitude": 4.368223,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 833,
+      "name": "St 34",
+      "latitude": 51.887368,
+      "longitude": 4.371231,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 834,
+      "name": "St-1",
+      "latitude": 51.889714,
+      "longitude": 4.343974,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 835,
+      "name": "St-10",
+      "latitude": 51.884874,
+      "longitude": 4.34456,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 836,
+      "name": "St-11",
+      "latitude": 51.884612,
+      "longitude": 4.346214,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 837,
+      "name": "St-12",
+      "latitude": 51.88265,
+      "longitude": 4.34681,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 838,
+      "name": "St-13",
+      "latitude": 51.88131,
+      "longitude": 4.347026,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 839,
+      "name": "St-18a",
+      "latitude": 51.884336,
+      "longitude": 4.348301,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 840,
+      "name": "St-2",
+      "latitude": 51.888077,
+      "longitude": 4.344445,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 841,
+      "name": "St-3",
+      "latitude": 51.886535,
+      "longitude": 4.34385,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 842,
+      "name": "St-5",
+      "latitude": 51.882486,
+      "longitude": 4.340221,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 843,
+      "name": "St-8",
+      "latitude": 51.882695,
+      "longitude": 4.342285,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 844,
+      "name": "St-9",
+      "latitude": 51.883769,
+      "longitude": 4.343425,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 845,
+      "name": "St-9a",
+      "latitude": 51.883232,
+      "longitude": 4.342891,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 846,
+      "name": "St.35",
+      "latitude": 51.886862,
+      "longitude": 4.374258,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 847,
+      "name": "Stadswerfpark",
+      "latitude": 52.33922,
+      "longitude": 5.223573,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 848,
+      "name": "Staverno",
+      "latitude": 52.375574,
+      "longitude": 4.876492,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 849,
+      "name": "Staverno",
+      "latitude": 52.376293,
+      "longitude": 4.876897,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 850,
+      "name": "Steiger",
+      "latitude": 51.936004,
+      "longitude": 4.633934,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 851,
+      "name": "Steiger 1",
+      "latitude": 51.849296,
+      "longitude": 6.134086,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 852,
+      "name": "Steiger 1",
+      "latitude": 52.340151,
+      "longitude": 4.848061,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 853,
+      "name": "Steiger 1",
+      "latitude": 52.340872,
+      "longitude": 4.848557,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 854,
+      "name": "Steiger 1",
+      "latitude": 52.37385,
+      "longitude": 4.911228,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 855,
+      "name": "Steiger 1",
+      "latitude": 52.401338,
+      "longitude": 4.901084,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 856,
+      "name": "Steiger 10",
+      "latitude": 51.848297,
+      "longitude": 6.144408,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 857,
+      "name": "Steiger 14",
+      "latitude": 52.381305,
+      "longitude": 4.89849,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 858,
+      "name": "Steiger 2",
+      "latitude": 51.73033,
+      "longitude": 4.859675,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 859,
+      "name": "Steiger 2",
+      "latitude": 51.850248,
+      "longitude": 6.134147,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 860,
+      "name": "Steiger 2",
+      "latitude": 52.339981,
+      "longitude": 4.848115,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 861,
+      "name": "Steiger 2",
+      "latitude": 52.341045,
+      "longitude": 4.848516,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 862,
+      "name": "Steiger 2",
+      "latitude": 52.373601,
+      "longitude": 4.91098,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 863,
+      "name": "Steiger 2",
+      "latitude": 52.401519,
+      "longitude": 4.901337,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 864,
+      "name": "Steiger 20/21",
+      "latitude": 52.955431,
+      "longitude": 4.787408,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 865,
+      "name": "Steiger 22/23",
+      "latitude": 52.956468,
+      "longitude": 4.791789,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 866,
+      "name": "Steiger 3",
+      "latitude": 51.729878,
+      "longitude": 4.859476,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 867,
+      "name": "Steiger 3",
+      "latitude": 51.851312,
+      "longitude": 6.135512,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 868,
+      "name": "Steiger 3",
+      "latitude": 52.339799,
+      "longitude": 4.848121,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 869,
+      "name": "Steiger 3",
+      "latitude": 52.341229,
+      "longitude": 4.848512,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 870,
+      "name": "Steiger 3",
+      "latitude": 52.373381,
+      "longitude": 4.910547,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 871,
+      "name": "Steiger 3",
+      "latitude": 52.401618,
+      "longitude": 4.901554,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 872,
+      "name": "Steiger 4",
+      "latitude": 51.730189,
+      "longitude": 4.858896,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 873,
+      "name": "Steiger 4",
+      "latitude": 51.851396,
+      "longitude": 6.137562,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 874,
+      "name": "Steiger 4",
+      "latitude": 52.339616,
+      "longitude": 4.848152,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 875,
+      "name": "Steiger 4",
+      "latitude": 52.341423,
+      "longitude": 4.848583,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 876,
+      "name": "Steiger 4",
+      "latitude": 52.373028,
+      "longitude": 4.910398,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 877,
+      "name": "Steiger 4",
+      "latitude": 52.401731,
+      "longitude": 4.901751,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 878,
+      "name": "Steiger 42a",
+      "latitude": 52.954335,
+      "longitude": 4.779717,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 879,
+      "name": "Steiger 42b",
+      "latitude": 52.9542,
+      "longitude": 4.779937,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 880,
+      "name": "Steiger 5",
+      "latitude": 51.730111,
+      "longitude": 4.858498,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 881,
+      "name": "Steiger 5",
+      "latitude": 52.33943,
+      "longitude": 4.848145,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 882,
+      "name": "Steiger 5",
+      "latitude": 52.341613,
+      "longitude": 4.848611,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 883,
+      "name": "Steiger 5",
+      "latitude": 52.372787,
+      "longitude": 4.910165,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 884,
+      "name": "Steiger 53a",
+      "latitude": 52.950348,
+      "longitude": 4.78645,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 885,
+      "name": "Steiger 6",
+      "latitude": 51.851367,
+      "longitude": 6.139835,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 886,
+      "name": "Steiger 6",
+      "latitude": 52.339245,
+      "longitude": 4.84814,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 887,
+      "name": "Steiger 6",
+      "latitude": 52.341805,
+      "longitude": 4.848669,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 888,
+      "name": "Steiger 6a",
+      "latitude": 51.729912,
+      "longitude": 4.858,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 889,
+      "name": "Steiger 6b",
+      "latitude": 51.729816,
+      "longitude": 4.857789,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 890,
+      "name": "Steiger 7",
+      "latitude": 51.729601,
+      "longitude": 4.857339,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 891,
+      "name": "Steiger 7",
+      "latitude": 51.851373,
+      "longitude": 6.141403,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 892,
+      "name": "Steiger 7",
+      "latitude": 52.339063,
+      "longitude": 4.848149,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 893,
+      "name": "Steiger 7",
+      "latitude": 52.341991,
+      "longitude": 4.84872,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 894,
+      "name": "Steiger 8",
+      "latitude": 51.729441,
+      "longitude": 4.85702,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 895,
+      "name": "Steiger 8",
+      "latitude": 51.850726,
+      "longitude": 6.143258,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 896,
+      "name": "Steiger 8",
+      "latitude": 52.338875,
+      "longitude": 4.848153,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 897,
+      "name": "Steiger 9",
+      "latitude": 51.729069,
+      "longitude": 4.856859,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 898,
+      "name": "Steiger 9",
+      "latitude": 51.849061,
+      "longitude": 6.144711,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 899,
+      "name": "Steiger A",
+      "latitude": 52.363378,
+      "longitude": 4.982625,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 900,
+      "name": "Steiger B",
+      "latitude": 52.363049,
+      "longitude": 4.982812,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 901,
+      "name": "Steiger C",
+      "latitude": 52.362776,
+      "longitude": 4.983114,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 902,
+      "name": "Steiger Cafë de Brêge",
+      "latitude": 53.068505,
+      "longitude": 5.996202,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 903,
+      "name": "Steiger D",
+      "latitude": 52.36245,
+      "longitude": 4.983309,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 904,
+      "name": "Steiger O",
+      "latitude": 51.12753,
+      "longitude": 5.81636,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 905,
+      "name": "Steiger P",
+      "latitude": 51.128078,
+      "longitude": 5.81677,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 906,
+      "name": "Steigers ENMJ Drimmelen Ost",
+      "latitude": 51.707668,
+      "longitude": 4.81867,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 907,
+      "name": "Steigers ENMJ Drimmelen West",
+      "latitude": 51.708229,
+      "longitude": 4.814246,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 908,
+      "name": "Steigers ENMJ Drimmelen West",
+      "latitude": 51.708286,
+      "longitude": 4.813204,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 909,
+      "name": "Steigers ENMJ Drimmelen Zuid",
+      "latitude": 51.706556,
+      "longitude": 4.81203,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 910,
+      "name": "Steigers WSV Biesbosch",
+      "latitude": 51.709132,
+      "longitude": 4.814035,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 911,
+      "name": "Steigers WSV Biesbosch",
+      "latitude": 51.709229,
+      "longitude": 4.811937,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 912,
+      "name": "Steigers WSV Biesbosch",
+      "latitude": 51.709386,
+      "longitude": 4.812997,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 913,
+      "name": "Steigers WSV Drimmelen",
+      "latitude": 51.706123,
+      "longitude": 4.815244,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 914,
+      "name": "Steigers WV De Amer",
+      "latitude": 51.708863,
+      "longitude": 4.81846,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 915,
+      "name": "Strand in Zicht",
+      "latitude": 52.39522,
+      "longitude": 5.212414,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 916,
+      "name": "Strandvier",
+      "latitude": 52.459262,
+      "longitude": 5.053636,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 917,
+      "name": "T",
+      "latitude": 51.605355,
+      "longitude": 4.105123,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 918,
+      "name": "T",
+      "latitude": 52.696946,
+      "longitude": 5.286574,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 919,
+      "name": "T",
+      "latitude": 53.047894,
+      "longitude": 5.822178,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 920,
+      "name": "TEAM Jetty 1",
+      "latitude": 51.9511,
+      "longitude": 4.146314,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 921,
+      "name": "TEAM Jetty 2",
+      "latitude": 51.942048,
+      "longitude": 4.160317,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 922,
+      "name": "TEAM Jetty 3",
+      "latitude": 51.945109,
+      "longitude": 4.159275,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 923,
+      "name": "TJ01A",
+      "latitude": 52.913884,
+      "longitude": 5.792124,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 924,
+      "name": "TJ02",
+      "latitude": 52.888099,
+      "longitude": 5.747316,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 925,
+      "name": "TJ08A",
+      "latitude": 52.900207,
+      "longitude": 5.770216,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 926,
+      "name": "TJ08B",
+      "latitude": 52.901375,
+      "longitude": 5.771102,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 927,
+      "name": "TJ08D",
+      "latitude": 52.903076,
+      "longitude": 5.773361,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 928,
+      "name": "TJ08E",
+      "latitude": 52.902842,
+      "longitude": 5.77447,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 929,
+      "name": "TJ08F",
+      "latitude": 52.902952,
+      "longitude": 5.775702,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 930,
+      "name": "TJ08G",
+      "latitude": 52.902226,
+      "longitude": 5.775661,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 931,
+      "name": "TJ08H",
+      "latitude": 52.90132,
+      "longitude": 5.775278,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 932,
+      "name": "TJ08I",
+      "latitude": 52.900475,
+      "longitude": 5.775133,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 933,
+      "name": "TJ08J",
+      "latitude": 52.899736,
+      "longitude": 5.774583,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 934,
+      "name": "TJ09A",
+      "latitude": 52.836752,
+      "longitude": 5.955599,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 935,
+      "name": "TJ09B",
+      "latitude": 52.835733,
+      "longitude": 5.956116,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 936,
+      "name": "TJ09C",
+      "latitude": 52.835029,
+      "longitude": 5.956486,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 937,
+      "name": "TJ09D",
+      "latitude": 52.835542,
+      "longitude": 5.95092,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 938,
+      "name": "TJ09E",
+      "latitude": 52.835732,
+      "longitude": 5.950459,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 939,
+      "name": "TJ09F",
+      "latitude": 52.836126,
+      "longitude": 5.949531,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 940,
+      "name": "TJ10A",
+      "latitude": 52.845691,
+      "longitude": 5.977128,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 941,
+      "name": "TJ10B",
+      "latitude": 52.845975,
+      "longitude": 5.977345,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 942,
+      "name": "TJ10C",
+      "latitude": 52.846126,
+      "longitude": 5.976912,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 943,
+      "name": "TJ11 B",
+      "latitude": 52.848881,
+      "longitude": 5.982067,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 944,
+      "name": "TJ11A",
+      "latitude": 52.848629,
+      "longitude": 5.9806,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 945,
+      "name": "TJ12",
+      "latitude": 52.852354,
+      "longitude": 6.013698,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 946,
+      "name": "TJ13A",
+      "latitude": 52.866503,
+      "longitude": 6.041888,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 947,
+      "name": "TJ13B",
+      "latitude": 52.868054,
+      "longitude": 6.050487,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 948,
+      "name": "TJ14A",
+      "latitude": 52.898933,
+      "longitude": 5.80439,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 949,
+      "name": "TJ14D",
+      "latitude": 52.899858,
+      "longitude": 5.805063,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 950,
+      "name": "TJ14G",
+      "latitude": 52.898963,
+      "longitude": 5.803186,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 951,
+      "name": "TJ15A",
+      "latitude": 52.884654,
+      "longitude": 5.779588,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 952,
+      "name": "TJ15B",
+      "latitude": 52.884199,
+      "longitude": 5.780134,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 953,
+      "name": "TJ15C",
+      "latitude": 52.88379,
+      "longitude": 5.780758,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 954,
+      "name": "TJ15E",
+      "latitude": 52.884715,
+      "longitude": 5.781505,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 955,
+      "name": "TJ15F",
+      "latitude": 52.884234,
+      "longitude": 5.781468,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 956,
+      "name": "TJ15G",
+      "latitude": 52.88377,
+      "longitude": 5.781981,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 957,
+      "name": "TJ15H",
+      "latitude": 52.886049,
+      "longitude": 5.781342,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 958,
+      "name": "TJ15J",
+      "latitude": 52.885285,
+      "longitude": 5.783867,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 959,
+      "name": "TJ16",
+      "latitude": 52.856932,
+      "longitude": 6.021533,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 960,
+      "name": "TJ18",
+      "latitude": 52.843559,
+      "longitude": 5.840863,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 961,
+      "name": "TJ19",
+      "latitude": 52.878993,
+      "longitude": 5.868279,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 962,
+      "name": "TJ22",
+      "latitude": 52.865078,
+      "longitude": 5.846649,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 963,
+      "name": "TJ23",
+      "latitude": 52.881696,
+      "longitude": 5.871576,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 964,
+      "name": "TJ25",
+      "latitude": 52.825559,
+      "longitude": 5.825228,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 965,
+      "name": "TJ27",
+      "latitude": 52.854922,
+      "longitude": 5.910789,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 966,
+      "name": "TJ28",
+      "latitude": 52.828875,
+      "longitude": 5.923216,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 967,
+      "name": "Trintel",
+      "latitude": 52.635794,
+      "longitude": 5.058788,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 968,
+      "name": "Tuigsteiger",
+      "latitude": 51.892074,
+      "longitude": 4.221027,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 969,
+      "name": "Tuigsteiger",
+      "latitude": 53.178836,
+      "longitude": 6.047043,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 970,
+      "name": "U",
+      "latitude": 51.605045,
+      "longitude": 4.105322,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 971,
+      "name": "Urkwal",
+      "latitude": 52.364043,
+      "longitude": 5.212046,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 972,
+      "name": "V",
+      "latitude": 52.696628,
+      "longitude": 5.285993,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 973,
+      "name": "V-steiger",
+      "latitude": 51.498056,
+      "longitude": 4.054889,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 974,
+      "name": "V1",
+      "latitude": 51.551238,
+      "longitude": 3.811289,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 975,
+      "name": "V2",
+      "latitude": 51.551698,
+      "longitude": 3.810918,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 976,
+      "name": "V4",
+      "latitude": 51.553452,
+      "longitude": 3.810001,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 977,
+      "name": "Veersteiger",
+      "latitude": 51.825759,
+      "longitude": 5.37999,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 978,
+      "name": "Veersteiger",
+      "latitude": 51.826836,
+      "longitude": 5.386708,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 979,
+      "name": "Veersteiger",
+      "latitude": 51.876887,
+      "longitude": 5.775766,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 980,
+      "name": "Veersteiger",
+      "latitude": 51.879191,
+      "longitude": 5.783337,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 981,
+      "name": "Veersteiger",
+      "latitude": 51.897682,
+      "longitude": 5.603173,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 982,
+      "name": "Veersteiger",
+      "latitude": 51.900462,
+      "longitude": 5.604856,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 983,
+      "name": "Verdronken Bos",
+      "latitude": 52.004395,
+      "longitude": 5.154439,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 984,
+      "name": "Verhuur Winkeloord.nl",
+      "latitude": 52.249446,
+      "longitude": 4.961976,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 985,
+      "name": "Verkoopsteiger",
+      "latitude": 51.592031,
+      "longitude": 3.719401,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 986,
+      "name": "Verkoopsteiger/Passantensteiger",
+      "latitude": 51.760699,
+      "longitude": 3.858845,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 987,
+      "name": "Verlengde Breevaart",
+      "latitude": 52.056274,
+      "longitude": 4.735559,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 988,
+      "name": "Vertreksteiger Praamvaren",
+      "latitude": 53.201182,
+      "longitude": 5.792368,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 989,
+      "name": "Vesta Terminal Flushing",
+      "latitude": 51.44981,
+      "longitude": 3.597695,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 990,
+      "name": "Vingerpier 1",
+      "latitude": 51.9169,
+      "longitude": 4.206844,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 991,
+      "name": "Vingerpier 2",
+      "latitude": 51.915891,
+      "longitude": 4.21487,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 992,
+      "name": "Vingerpier 3",
+      "latitude": 51.916611,
+      "longitude": 4.203495,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 993,
+      "name": "Vlieter",
+      "latitude": 52.635688,
+      "longitude": 5.059893,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 994,
+      "name": "Vlist",
+      "latitude": 51.971806,
+      "longitude": 4.826583,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 995,
+      "name": "Vlonderpad",
+      "latitude": 51.535842,
+      "longitude": 4.76936,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 996,
+      "name": "W",
+      "latitude": 52.696319,
+      "longitude": 5.28543,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 997,
+      "name": "WAL",
+      "latitude": 51.552909,
+      "longitude": 3.811926,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 998,
+      "name": "WSV Boxmeer",
+      "latitude": 51.668891,
+      "longitude": 5.956817,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 999,
+      "name": "WV Kinsbergen",
+      "latitude": 52.463708,
+      "longitude": 5.823129,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1000,
+      "name": "WV Kraggenburg",
+      "latitude": 52.667062,
+      "longitude": 5.900878,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1001,
+      "name": "WV Kraggenburg",
+      "latitude": 52.668343,
+      "longitude": 5.902549,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1002,
+      "name": "Wachtsteiger",
+      "latitude": 51.813979,
+      "longitude": 4.658743,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1003,
+      "name": "Wachtsteiger Sport",
+      "latitude": 52.688584,
+      "longitude": 5.293374,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1004,
+      "name": "Wachtsteiger Sport",
+      "latitude": 52.850065,
+      "longitude": 5.675446,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1005,
+      "name": "Wachtsteiger Sport",
+      "latitude": 52.854597,
+      "longitude": 5.67871,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1006,
+      "name": "Waterpendel Katwijk-Leiden",
+      "latitude": 52.204904,
+      "longitude": 4.400018,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1007,
+      "name": "Watertaxi - Marconistraat / M4H",
+      "latitude": 51.912047,
+      "longitude": 4.423203,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1008,
+      "name": "Werk aan de Groeneweg",
+      "latitude": 51.964164,
+      "longitude": 5.189292,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1009,
+      "name": "X",
+      "latitude": 51.739747,
+      "longitude": 3.845839,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1010,
+      "name": "Y",
+      "latitude": 51.739432,
+      "longitude": 3.844826,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1011,
+      "name": "Z",
+      "latitude": 51.739016,
+      "longitude": 3.845549,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1012,
+      "name": "Z",
+      "latitude": 52.095524,
+      "longitude": 4.264463,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1013,
+      "name": "Z",
+      "latitude": 52.096047,
+      "longitude": 4.265195,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1014,
+      "name": "Z-steiger",
+      "latitude": 51.497617,
+      "longitude": 4.056249,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1015,
+      "name": "ZV het Y",
+      "latitude": 52.37748,
+      "longitude": 4.993949,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1016,
+      "name": "ZV het Y",
+      "latitude": 52.378028,
+      "longitude": 4.993295,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1017,
+      "name": "ZV het Y",
+      "latitude": 52.378324,
+      "longitude": 4.993946,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1018,
+      "name": "Zaagtandsteiger",
+      "latitude": 53.180504,
+      "longitude": 5.415237,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1019,
+      "name": "Zamenhofstraat",
+      "latitude": 52.384776,
+      "longitude": 4.930883,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1020,
+      "name": "Zandeiland drie",
+      "latitude": 52.239026,
+      "longitude": 4.963318,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1021,
+      "name": "Zandeiland één",
+      "latitude": 52.249065,
+      "longitude": 4.961626,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1022,
+      "name": "Zeebrug Hoofdplaat",
+      "latitude": 51.375262,
+      "longitude": 3.664668,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1023,
+      "name": "Zeesteiger 1",
+      "latitude": 51.915515,
+      "longitude": 4.217363,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1024,
+      "name": "Zeesteiger 2",
+      "latitude": 51.91476,
+      "longitude": 4.219822,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1025,
+      "name": "Zeewaterponton Diergaarde Blijdorp",
+      "latitude": 51.92994,
+      "longitude": 4.439571,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1026,
+      "name": "Zuid Schalkwijkerweg",
+      "latitude": 52.339491,
+      "longitude": 4.643728,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1027,
+      "name": "Zuiderpier Steiger",
+      "latitude": 53.172359,
+      "longitude": 5.408723,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1028,
+      "name": "Zuiderpier steiger",
+      "latitude": 53.170348,
+      "longitude": 5.412054,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1029,
+      "name": "Zwarte Polder",
+      "latitude": 51.38556,
+      "longitude": 3.439513,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1030,
+      "name": "Zwijndrecht, Veerplein",
+      "latitude": 51.818191,
+      "longitude": 4.658566,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1031,
+      "name": "boerderijcamping het Klokhuis",
+      "latitude": 52.97742,
+      "longitude": 5.559358,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1032,
+      "name": "de Muur",
+      "latitude": 51.742775,
+      "longitude": 3.879601,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1033,
+      "name": "filling station",
+      "latitude": 52.980964,
+      "longitude": 5.887863,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1034,
+      "name": "guest pier",
+      "latitude": 51.826515,
+      "longitude": 5.53979,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1035,
+      "name": "historische schepen pad",
+      "latitude": 52.503595,
+      "longitude": 5.416559,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1036,
+      "name": "lm57",
+      "latitude": 53.231634,
+      "longitude": 5.605303,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1037,
+      "name": "paalbeugel",
+      "latitude": 51.127631,
+      "longitude": 5.817861,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1038,
+      "name": "passantensteiger",
+      "latitude": 51.550905,
+      "longitude": 3.811899,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1039,
+      "name": "passantensteiger",
+      "latitude": 51.603201,
+      "longitude": 4.107263,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1040,
+      "name": "passantensteiger",
+      "latitude": 51.604404,
+      "longitude": 4.105975,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1041,
+      "name": "sn-106",
+      "latitude": 53.107401,
+      "longitude": 5.668737,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1042,
+      "name": "sn-107",
+      "latitude": 53.110104,
+      "longitude": 5.669326,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1043,
+      "name": "sn100b",
+      "latitude": 53.09948,
+      "longitude": 5.724289,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1044,
+      "name": "sn101",
+      "latitude": 53.090268,
+      "longitude": 5.7096,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1045,
+      "name": "sn73",
+      "latitude": 52.99641,
+      "longitude": 5.625431,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1046,
+      "name": "sn92",
+      "latitude": 53.012332,
+      "longitude": 5.605153,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1047,
+      "name": "sn96a",
+      "latitude": 53.00085,
+      "longitude": 5.650955,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1048,
+      "name": "sn96b",
+      "latitude": 53.001182,
+      "longitude": 5.65308,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1049,
+      "name": "steiger politieboot",
+      "latitude": 51.815925,
+      "longitude": 4.660666,
+      "osm_klasse": "man_made=pier"
+    },
+    {
+      "id": 1050,
+      "name": "vlonder",
+      "latitude": 52.358265,
+      "longitude": 4.809577,
+      "osm_klasse": "man_made=pier"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: pier (man_made=pier) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged man_made=pier in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 1050 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: pier (man_made=pier) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: pier (man_made=pier) — 1050 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 1050 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

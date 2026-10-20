@@ -1,0 +1,3264 @@
+{
+  "id": "nl-osm-amenity-townhall",
+  "name": "Netherlands OSM: townhall (amenity=townhall)",
+  "title": "Netherlands OSM: townhall (amenity=townhall)",
+  "description": "Named OpenStreetMap features tagged amenity=townhall in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 459,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Raedthuys Haastrecht",
+      "latitude": 52.001569,
+      "longitude": 4.774477,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 2,
+      "name": "BEL Combinatie",
+      "latitude": 52.247069,
+      "longitude": 5.251898,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 3,
+      "name": "Bestuurscentrum Pijnacker-Nootdorp",
+      "latitude": 52.013321,
+      "longitude": 4.438039,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 4,
+      "name": "Dorpsraad Driemond",
+      "latitude": 52.308663,
+      "longitude": 5.014474,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 5,
+      "name": "Gemeente Aalten",
+      "latitude": 51.927284,
+      "longitude": 6.581241,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 6,
+      "name": "Gemeente Deventer Publiekszaken",
+      "latitude": 52.251535,
+      "longitude": 6.156634,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 7,
+      "name": "Gemeente Groningen, loket Centrum",
+      "latitude": 53.219672,
+      "longitude": 6.568041,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 8,
+      "name": "Gemeente Groningen, loket Haren",
+      "latitude": 53.173901,
+      "longitude": 6.603258,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 9,
+      "name": "Gemeente Groningen, loket Hoogkerk",
+      "latitude": 53.20833,
+      "longitude": 6.507629,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 10,
+      "name": "Gemeente Groningen, loket Lewenborg",
+      "latitude": 53.23758,
+      "longitude": 6.622873,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 11,
+      "name": "Gemeente Groningen, loket Ten Boer",
+      "latitude": 53.275245,
+      "longitude": 6.692163,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 12,
+      "name": "Gemeente Hengelo",
+      "latitude": 52.266629,
+      "longitude": 6.791639,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 13,
+      "name": "GemeenteLoket",
+      "latitude": 50.851594,
+      "longitude": 5.693575,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 14,
+      "name": "Gemeentehuis",
+      "latitude": 52.155018,
+      "longitude": 6.742159,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 15,
+      "name": "Gemeentehuis",
+      "latitude": 52.299971,
+      "longitude": 6.757269,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 16,
+      "name": "Gemeentehuis",
+      "latitude": 52.31246,
+      "longitude": 6.930242,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 17,
+      "name": "Gemeentehuis",
+      "latitude": 52.355671,
+      "longitude": 6.59284,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 18,
+      "name": "Gemeentehuis",
+      "latitude": 52.408209,
+      "longitude": 6.78069,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 19,
+      "name": "Gemeentehuis Aa en Hunze",
+      "latitude": 53.004793,
+      "longitude": 6.760221,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 20,
+      "name": "Gemeentehuis Aalsmeer",
+      "latitude": 52.267063,
+      "longitude": 4.750315,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 21,
+      "name": "Gemeentehuis Achtkarspelen",
+      "latitude": 53.25547,
+      "longitude": 6.143258,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 22,
+      "name": "Gemeentehuis Albasserdam",
+      "latitude": 51.861604,
+      "longitude": 4.65801,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 23,
+      "name": "Gemeentehuis Albrandswaard",
+      "latitude": 51.859865,
+      "longitude": 4.42082,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 24,
+      "name": "Gemeentehuis Alphen aan den Rijn",
+      "latitude": 52.129399,
+      "longitude": 4.659204,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 25,
+      "name": "Gemeentehuis Alphen-Chaam",
+      "latitude": 51.482988,
+      "longitude": 4.954736,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 26,
+      "name": "Gemeentehuis Altena",
+      "latitude": 51.770851,
+      "longitude": 4.939603,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 27,
+      "name": "Gemeentehuis Ameland",
+      "latitude": 53.44161,
+      "longitude": 5.68743,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 28,
+      "name": "Gemeentehuis Amstelveen",
+      "latitude": 52.301016,
+      "longitude": 4.844607,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 29,
+      "name": "Gemeentehuis Asten",
+      "latitude": 51.403868,
+      "longitude": 5.745233,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 30,
+      "name": "Gemeentehuis Baarle-Hertog",
+      "latitude": 51.44009,
+      "longitude": 4.927075,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 31,
+      "name": "Gemeentehuis Baarle-Nassau",
+      "latitude": 51.443456,
+      "longitude": 4.931085,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 32,
+      "name": "Gemeentehuis Baarn",
+      "latitude": 52.211029,
+      "longitude": 5.291664,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 33,
+      "name": "Gemeentehuis Barendrecht",
+      "latitude": 51.856743,
+      "longitude": 4.539258,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 34,
+      "name": "Gemeentehuis Barneveld",
+      "latitude": 52.139874,
+      "longitude": 5.586577,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 35,
+      "name": "Gemeentehuis Beek",
+      "latitude": 50.939103,
+      "longitude": 5.794496,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 36,
+      "name": "Gemeentehuis Beekdaelen - Bezoekadres Nuth",
+      "latitude": 50.918906,
+      "longitude": 5.887057,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 37,
+      "name": "Gemeentehuis Beekdaelen - Bezoekadres Schinnen",
+      "latitude": 50.942969,
+      "longitude": 5.887207,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 38,
+      "name": "Gemeentehuis Beekdaelen - Bezoekadres Schinveld",
+      "latitude": 50.967064,
+      "longitude": 5.981479,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 39,
+      "name": "Gemeentehuis Beesel",
+      "latitude": 51.283702,
+      "longitude": 6.077614,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 40,
+      "name": "Gemeentehuis Berg en Dal",
+      "latitude": 51.777615,
+      "longitude": 5.932446,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 41,
+      "name": "Gemeentehuis Bergeijk",
+      "latitude": 51.320428,
+      "longitude": 5.357676,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 42,
+      "name": "Gemeentehuis Bergen",
+      "latitude": 51.60307,
+      "longitude": 6.049425,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 43,
+      "name": "Gemeentehuis Bergen",
+      "latitude": 52.644214,
+      "longitude": 4.725376,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 44,
+      "name": "Gemeentehuis Berkelland",
+      "latitude": 52.116461,
+      "longitude": 6.526833,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 45,
+      "name": "Gemeentehuis Bernheze",
+      "latitude": 51.734617,
+      "longitude": 5.527196,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 46,
+      "name": "Gemeentehuis Best",
+      "latitude": 51.511841,
+      "longitude": 5.395459,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 47,
+      "name": "Gemeentehuis Beuningen",
+      "latitude": 51.863604,
+      "longitude": 5.780347,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 48,
+      "name": "Gemeentehuis Beverwijk",
+      "latitude": 52.478297,
+      "longitude": 4.654625,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 49,
+      "name": "Gemeentehuis Bladel",
+      "latitude": 51.366549,
+      "longitude": 5.214829,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 50,
+      "name": "Gemeentehuis Blaricum",
+      "latitude": 52.271054,
+      "longitude": 5.249957,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 51,
+      "name": "Gemeentehuis Bloemendaal",
+      "latitude": 52.396621,
+      "longitude": 4.612581,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 52,
+      "name": "Gemeentehuis Bodegraven-Reeuwijk",
+      "latitude": 52.086214,
+      "longitude": 4.748153,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 53,
+      "name": "Gemeentehuis Boekel",
+      "latitude": 51.603285,
+      "longitude": 5.673193,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 54,
+      "name": "Gemeentehuis Borger-Odoorn",
+      "latitude": 52.882854,
+      "longitude": 6.863872,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 55,
+      "name": "Gemeentehuis Borsele",
+      "latitude": 51.472166,
+      "longitude": 3.821173,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 56,
+      "name": "Gemeentehuis Boxtel",
+      "latitude": 51.588203,
+      "longitude": 5.327809,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 57,
+      "name": "Gemeentehuis Bronckhorst",
+      "latitude": 52.045376,
+      "longitude": 6.303717,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 58,
+      "name": "Gemeentehuis Brummen",
+      "latitude": 52.088233,
+      "longitude": 6.147003,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 59,
+      "name": "Gemeentehuis Brunssum",
+      "latitude": 50.943891,
+      "longitude": 5.970838,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 60,
+      "name": "Gemeentehuis Bunnik",
+      "latitude": 52.055182,
+      "longitude": 5.226165,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 61,
+      "name": "Gemeentehuis Bunschoten",
+      "latitude": 52.243262,
+      "longitude": 5.373983,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 62,
+      "name": "Gemeentehuis Buren",
+      "latitude": 51.956161,
+      "longitude": 5.424911,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 63,
+      "name": "Gemeentehuis Castricum",
+      "latitude": 52.549586,
+      "longitude": 4.672122,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 64,
+      "name": "Gemeentehuis Cranendonck",
+      "latitude": 51.273335,
+      "longitude": 5.576372,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 65,
+      "name": "Gemeentehuis Dalfsen",
+      "latitude": 52.50222,
+      "longitude": 6.256735,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 66,
+      "name": "Gemeentehuis Dantumadiel",
+      "latitude": 53.291024,
+      "longitude": 5.995045,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 67,
+      "name": "Gemeentehuis De Bilt",
+      "latitude": 52.121615,
+      "longitude": 5.196539,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 68,
+      "name": "Gemeentehuis De Fryske Marren",
+      "latitude": 52.970373,
+      "longitude": 5.79039,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 69,
+      "name": "Gemeentehuis De Ronde Venen",
+      "latitude": 52.207059,
+      "longitude": 4.866783,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 70,
+      "name": "Gemeentehuis De Wolden",
+      "latitude": 52.67509,
+      "longitude": 6.430884,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 71,
+      "name": "Gemeentehuis Deurne",
+      "latitude": 51.463652,
+      "longitude": 5.794731,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 72,
+      "name": "Gemeentehuis Diemen",
+      "latitude": 52.341595,
+      "longitude": 4.964834,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 73,
+      "name": "Gemeentehuis Dijk en Waard",
+      "latitude": 52.664822,
+      "longitude": 4.824591,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 74,
+      "name": "Gemeentehuis Dinkelland",
+      "latitude": 52.374093,
+      "longitude": 7.005142,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 75,
+      "name": "Gemeentehuis Doetinchem",
+      "latitude": 51.963044,
+      "longitude": 6.292288,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 76,
+      "name": "Gemeentehuis Dongen",
+      "latitude": 51.630228,
+      "longitude": 4.9366,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 77,
+      "name": "Gemeentehuis Drechterland",
+      "latitude": 52.695168,
+      "longitude": 5.178449,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 78,
+      "name": "Gemeentehuis Drimmelen",
+      "latitude": 51.676672,
+      "longitude": 4.795569,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 79,
+      "name": "Gemeentehuis Dronten",
+      "latitude": 52.523734,
+      "longitude": 5.716511,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 80,
+      "name": "Gemeentehuis Drunen",
+      "latitude": 51.686522,
+      "longitude": 5.13172,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 81,
+      "name": "Gemeentehuis Druten",
+      "latitude": 51.888489,
+      "longitude": 5.605035,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 82,
+      "name": "Gemeentehuis Duiven",
+      "latitude": 51.948659,
+      "longitude": 6.024744,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 83,
+      "name": "Gemeentehuis Echt-Susteren",
+      "latitude": 51.1027,
+      "longitude": 5.872318,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 84,
+      "name": "Gemeentehuis Eemnes",
+      "latitude": 52.247149,
+      "longitude": 5.25208,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 85,
+      "name": "Gemeentehuis Eemsdelta - Appingedam",
+      "latitude": 53.324073,
+      "longitude": 6.863237,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 86,
+      "name": "Gemeentehuis Eemsdelta - Loppersum",
+      "latitude": 53.333591,
+      "longitude": 6.746117,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 87,
+      "name": "Gemeentehuis Eemsdelta - locatie Delfzijl",
+      "latitude": 53.332146,
+      "longitude": 6.923385,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 88,
+      "name": "Gemeentehuis Eersel",
+      "latitude": 51.356956,
+      "longitude": 5.311591,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 89,
+      "name": "Gemeentehuis Eijsden-Margraten",
+      "latitude": 50.820723,
+      "longitude": 5.822568,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 90,
+      "name": "Gemeentehuis Elburg",
+      "latitude": 52.441882,
+      "longitude": 5.855404,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 91,
+      "name": "Gemeentehuis Emmen",
+      "latitude": 52.784537,
+      "longitude": 6.892479,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 92,
+      "name": "Gemeentehuis Epe",
+      "latitude": 52.349104,
+      "longitude": 5.986015,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 93,
+      "name": "Gemeentehuis Ermelo",
+      "latitude": 52.300668,
+      "longitude": 5.617772,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 94,
+      "name": "Gemeentehuis Geertruidenberg",
+      "latitude": 51.694618,
+      "longitude": 4.872629,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 95,
+      "name": "Gemeentehuis Geldrop-Mierlo",
+      "latitude": 51.42384,
+      "longitude": 5.560855,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 96,
+      "name": "Gemeentehuis Gemert-Bakel",
+      "latitude": 51.553945,
+      "longitude": 5.683007,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 97,
+      "name": "Gemeentehuis Gilze en Rijen",
+      "latitude": 51.59006,
+      "longitude": 4.911875,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 98,
+      "name": "Gemeentehuis Goeree-Overflakkee",
+      "latitude": 51.755123,
+      "longitude": 4.161219,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 99,
+      "name": "Gemeentehuis Goirle",
+      "latitude": 51.521801,
+      "longitude": 5.069593,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 100,
+      "name": "Gemeentehuis Gooise Meren",
+      "latitude": 52.277925,
+      "longitude": 5.16378,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 101,
+      "name": "Gemeentehuis Gulpen-Wittem",
+      "latitude": 50.815542,
+      "longitude": 5.888171,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 102,
+      "name": "Gemeentehuis Halderberge",
+      "latitude": 51.587806,
+      "longitude": 4.532028,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 103,
+      "name": "Gemeentehuis Hardenberg",
+      "latitude": 52.573542,
+      "longitude": 6.618955,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 104,
+      "name": "Gemeentehuis Hardinxveld-Giessendam",
+      "latitude": 51.824102,
+      "longitude": 4.834244,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 105,
+      "name": "Gemeentehuis Harlingen",
+      "latitude": 53.175074,
+      "longitude": 5.41798,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 106,
+      "name": "Gemeentehuis Heemskerk",
+      "latitude": 52.507248,
+      "longitude": 4.670254,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 107,
+      "name": "Gemeentehuis Heerde",
+      "latitude": 52.387844,
+      "longitude": 6.042658,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 108,
+      "name": "Gemeentehuis Heerenveen",
+      "latitude": 52.961657,
+      "longitude": 5.921297,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 109,
+      "name": "Gemeentehuis Heeze-Leende",
+      "latitude": 51.379571,
+      "longitude": 5.577188,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 110,
+      "name": "Gemeentehuis Heiloo",
+      "latitude": 52.600806,
+      "longitude": 4.699502,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 111,
+      "name": "Gemeentehuis Hendrik-Ido-Ambacht",
+      "latitude": 51.844755,
+      "longitude": 4.637444,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 112,
+      "name": "Gemeentehuis Het Hogeland",
+      "latitude": 53.327669,
+      "longitude": 6.514897,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 113,
+      "name": "Gemeentehuis Het Hogeland",
+      "latitude": 53.407362,
+      "longitude": 6.672876,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 114,
+      "name": "Gemeentehuis Heumen",
+      "latitude": 51.78102,
+      "longitude": 5.852011,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 115,
+      "name": "Gemeentehuis Heusden",
+      "latitude": 51.697363,
+      "longitude": 5.222811,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 116,
+      "name": "Gemeentehuis Hillegom",
+      "latitude": 52.290688,
+      "longitude": 4.579595,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 117,
+      "name": "Gemeentehuis Hilvarenbeek",
+      "latitude": 51.484901,
+      "longitude": 5.135328,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 118,
+      "name": "Gemeentehuis Hoeksche Waard",
+      "latitude": 51.82022,
+      "longitude": 4.406146,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 119,
+      "name": "Gemeentehuis Hof van Twente",
+      "latitude": 52.233254,
+      "longitude": 6.584973,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 120,
+      "name": "Gemeentehuis Hollands Kroon",
+      "latitude": 52.861499,
+      "longitude": 4.817967,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 121,
+      "name": "Gemeentehuis Horst aan de Maas",
+      "latitude": 51.454208,
+      "longitude": 6.052109,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 122,
+      "name": "Gemeentehuis Houten",
+      "latitude": 52.03445,
+      "longitude": 5.166942,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 123,
+      "name": "Gemeentehuis Huizen",
+      "latitude": 52.298457,
+      "longitude": 5.242162,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 124,
+      "name": "Gemeentehuis Kaag en Braassem",
+      "latitude": 52.20233,
+      "longitude": 4.631305,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 125,
+      "name": "Gemeentehuis Kapelle",
+      "latitude": 51.486231,
+      "longitude": 3.957143,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 126,
+      "name": "Gemeentehuis Katwijk",
+      "latitude": 52.199347,
+      "longitude": 4.413653,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 127,
+      "name": "Gemeentehuis Koggenland",
+      "latitude": 52.624873,
+      "longitude": 4.948271,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 128,
+      "name": "Gemeentehuis Krimpen aan den IJssel",
+      "latitude": 51.913976,
+      "longitude": 4.587785,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 129,
+      "name": "Gemeentehuis Krimpenerwaard",
+      "latitude": 51.972426,
+      "longitude": 4.771241,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 130,
+      "name": "Gemeentehuis Laarbeek",
+      "latitude": 51.53433,
+      "longitude": 5.633123,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 131,
+      "name": "Gemeentehuis Land van Cuijk - Balie Boxmeer",
+      "latitude": 51.648792,
+      "longitude": 5.947452,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 132,
+      "name": "Gemeentehuis Landgraaf",
+      "latitude": 50.905088,
+      "longitude": 6.024155,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 133,
+      "name": "Gemeentehuis Landsmeer",
+      "latitude": 52.432243,
+      "longitude": 4.915151,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 134,
+      "name": "Gemeentehuis Lansingerland",
+      "latitude": 51.981578,
+      "longitude": 4.493435,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 135,
+      "name": "Gemeentehuis Leeuwarden",
+      "latitude": 53.202353,
+      "longitude": 5.790018,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 136,
+      "name": "Gemeentehuis Leiderdorp",
+      "latitude": 52.154099,
+      "longitude": 4.538115,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 137,
+      "name": "Gemeentehuis Leidschendam-Voorburg",
+      "latitude": 52.067496,
+      "longitude": 4.364316,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 138,
+      "name": "Gemeentehuis Leidschendam-Voorburg",
+      "latitude": 52.084983,
+      "longitude": 4.393734,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 139,
+      "name": "Gemeentehuis Leudal",
+      "latitude": 51.249738,
+      "longitude": 5.90614,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 140,
+      "name": "Gemeentehuis Lisse",
+      "latitude": 52.257968,
+      "longitude": 4.552585,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 141,
+      "name": "Gemeentehuis Lochem",
+      "latitude": 52.165021,
+      "longitude": 6.415718,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 142,
+      "name": "Gemeentehuis Loon op Zand",
+      "latitude": 51.659791,
+      "longitude": 5.032625,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 143,
+      "name": "Gemeentehuis Lopik",
+      "latitude": 51.971934,
+      "longitude": 4.950455,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 144,
+      "name": "Gemeentehuis Losser",
+      "latitude": 52.26285,
+      "longitude": 7.005848,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 145,
+      "name": "Gemeentehuis Maasdriel",
+      "latitude": 51.771217,
+      "longitude": 5.337713,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 146,
+      "name": "Gemeentehuis Maasgouw",
+      "latitude": 51.147582,
+      "longitude": 5.892816,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 147,
+      "name": "Gemeentehuis Maashorst",
+      "latitude": 51.656534,
+      "longitude": 5.617182,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 148,
+      "name": "Gemeentehuis Medemblik",
+      "latitude": 52.686911,
+      "longitude": 5.02818,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 149,
+      "name": "Gemeentehuis Meierijstad",
+      "latitude": 51.614168,
+      "longitude": 5.545686,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 150,
+      "name": "Gemeentehuis Meierijstad Locatie Schijndel",
+      "latitude": 51.622058,
+      "longitude": 5.437584,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 151,
+      "name": "Gemeentehuis Meierijstad locatie Sint-Oedenrode",
+      "latitude": 51.560168,
+      "longitude": 5.460617,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 152,
+      "name": "Gemeentehuis Midden-Delfland",
+      "latitude": 51.980099,
+      "longitude": 4.318785,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 153,
+      "name": "Gemeentehuis Midden-Drenthe",
+      "latitude": 52.860478,
+      "longitude": 6.514872,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 154,
+      "name": "Gemeentehuis Midden-Drenthe",
+      "latitude": 52.953442,
+      "longitude": 6.4507,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 155,
+      "name": "Gemeentehuis Midden-Groningen",
+      "latitude": 53.153656,
+      "longitude": 6.757486,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 156,
+      "name": "Gemeentehuis Midden-Groningen - Locatie Slochteren",
+      "latitude": 53.219272,
+      "longitude": 6.80712,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 157,
+      "name": "Gemeentehuis Moerdijk",
+      "latitude": 51.641918,
+      "longitude": 4.60477,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 158,
+      "name": "Gemeentehuis Molenlanden",
+      "latitude": 51.870386,
+      "longitude": 4.784756,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 159,
+      "name": "Gemeentehuis Montferland",
+      "latitude": 51.931148,
+      "longitude": 6.13406,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 160,
+      "name": "Gemeentehuis Mook en Middelaar",
+      "latitude": 51.750996,
+      "longitude": 5.881153,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 161,
+      "name": "Gemeentehuis Neder-Betuwe",
+      "latitude": 51.933511,
+      "longitude": 5.630161,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 162,
+      "name": "Gemeentehuis Nederweert",
+      "latitude": 51.283208,
+      "longitude": 5.747077,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 163,
+      "name": "Gemeentehuis Nieuwkoop",
+      "latitude": 52.190249,
+      "longitude": 4.759884,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 164,
+      "name": "Gemeentehuis Nijkerk",
+      "latitude": 52.216189,
+      "longitude": 5.475567,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 165,
+      "name": "Gemeentehuis Noardeast-Fryslân locatie Dokkum",
+      "latitude": 53.32595,
+      "longitude": 5.997119,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 166,
+      "name": "Gemeentehuis Noord-Beveland",
+      "latitude": 51.585013,
+      "longitude": 3.747078,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 167,
+      "name": "Gemeentehuis Noordenveld",
+      "latitude": 53.136975,
+      "longitude": 6.433608,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 168,
+      "name": "Gemeentehuis Noordoostpolder",
+      "latitude": 52.709717,
+      "longitude": 5.747583,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 169,
+      "name": "Gemeentehuis Noordwijk",
+      "latitude": 52.233891,
+      "longitude": 4.448776,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 170,
+      "name": "Gemeentehuis Nuenen",
+      "latitude": 51.479318,
+      "longitude": 5.553066,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 171,
+      "name": "Gemeentehuis Nunspeet",
+      "latitude": 52.376725,
+      "longitude": 5.784053,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 172,
+      "name": "Gemeentehuis Oegstgeest",
+      "latitude": 52.178165,
+      "longitude": 4.462335,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 173,
+      "name": "Gemeentehuis Oirschot",
+      "latitude": 51.505462,
+      "longitude": 5.313669,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 174,
+      "name": "Gemeentehuis Oldambt",
+      "latitude": 53.14437,
+      "longitude": 7.039479,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 175,
+      "name": "Gemeentehuis Oldebroek",
+      "latitude": 52.445894,
+      "longitude": 5.899739,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 176,
+      "name": "Gemeentehuis Olst-Wijhe",
+      "latitude": 52.385129,
+      "longitude": 6.129568,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 177,
+      "name": "Gemeentehuis Ommen",
+      "latitude": 52.525637,
+      "longitude": 6.423677,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 178,
+      "name": "Gemeentehuis Oost Gelre",
+      "latitude": 51.988093,
+      "longitude": 6.562967,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 179,
+      "name": "Gemeentehuis Oostellingwerf",
+      "latitude": 52.994778,
+      "longitude": 6.294047,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 180,
+      "name": "Gemeentehuis Oostzaan",
+      "latitude": 52.440287,
+      "longitude": 4.875926,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 181,
+      "name": "Gemeentehuis Opmeer",
+      "latitude": 52.706353,
+      "longitude": 4.944815,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 182,
+      "name": "Gemeentehuis Oss",
+      "latitude": 51.764597,
+      "longitude": 5.524638,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 183,
+      "name": "Gemeentehuis Oude IJsselstreek",
+      "latitude": 51.877642,
+      "longitude": 6.374844,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 184,
+      "name": "Gemeentehuis Ouder-Amstel",
+      "latitude": 52.297342,
+      "longitude": 4.904278,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 185,
+      "name": "Gemeentehuis Overbetuwe",
+      "latitude": 51.918325,
+      "longitude": 5.84545,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 186,
+      "name": "Gemeentehuis Papendrecht",
+      "latitude": 51.826372,
+      "longitude": 4.682617,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 187,
+      "name": "Gemeentehuis Peel en Maas",
+      "latitude": 51.329682,
+      "longitude": 5.978655,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 188,
+      "name": "Gemeentehuis Pekela",
+      "latitude": 53.104308,
+      "longitude": 7.008294,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 189,
+      "name": "Gemeentehuis Pijnacker-Nootdorp",
+      "latitude": 52.013116,
+      "longitude": 4.43862,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 190,
+      "name": "Gemeentehuis Putten",
+      "latitude": 52.261704,
+      "longitude": 5.607614,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 191,
+      "name": "Gemeentehuis Raalte",
+      "latitude": 52.388241,
+      "longitude": 6.272224,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 192,
+      "name": "Gemeentehuis Reimerswaal",
+      "latitude": 51.450028,
+      "longitude": 4.033139,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 193,
+      "name": "Gemeentehuis Renkum",
+      "latitude": 51.988246,
+      "longitude": 5.842337,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 194,
+      "name": "Gemeentehuis Renswoude",
+      "latitude": 52.07171,
+      "longitude": 5.546592,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 195,
+      "name": "Gemeentehuis Reusel-De Mierden",
+      "latitude": 51.361634,
+      "longitude": 5.162996,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 196,
+      "name": "Gemeentehuis Rheden",
+      "latitude": 52.017991,
+      "longitude": 6.056737,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 197,
+      "name": "Gemeentehuis Ridderkerk",
+      "latitude": 51.871876,
+      "longitude": 4.599586,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 198,
+      "name": "Gemeentehuis Rijssen-Holten",
+      "latitude": 52.307356,
+      "longitude": 6.521939,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 199,
+      "name": "Gemeentehuis Rijswijk",
+      "latitude": 52.048055,
+      "longitude": 4.330151,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 200,
+      "name": "Gemeentehuis Roerdalen",
+      "latitude": 51.141915,
+      "longitude": 5.992723,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 201,
+      "name": "Gemeentehuis Rozendaal",
+      "latitude": 52.008018,
+      "longitude": 5.964963,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 202,
+      "name": "Gemeentehuis Rucphen",
+      "latitude": 51.538887,
+      "longitude": 4.579038,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 203,
+      "name": "Gemeentehuis Schagen",
+      "latitude": 52.786271,
+      "longitude": 4.80068,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 204,
+      "name": "Gemeentehuis Scherpenzeel",
+      "latitude": 52.081433,
+      "longitude": 5.47011,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 205,
+      "name": "Gemeentehuis Schiermonnikoog",
+      "latitude": 53.478991,
+      "longitude": 6.161582,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 206,
+      "name": "Gemeentehuis Schouwen-Duiveland",
+      "latitude": 51.653944,
+      "longitude": 3.914134,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 207,
+      "name": "Gemeentehuis Simpelveld",
+      "latitude": 50.835459,
+      "longitude": 5.984389,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 208,
+      "name": "Gemeentehuis Sint-Michielsgestel",
+      "latitude": 51.640331,
+      "longitude": 5.347107,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 209,
+      "name": "Gemeentehuis Sluis",
+      "latitude": 51.326114,
+      "longitude": 3.486988,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 210,
+      "name": "Gemeentehuis Smallingerland",
+      "latitude": 53.10352,
+      "longitude": 6.096935,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 211,
+      "name": "Gemeentehuis Soest",
+      "latitude": 52.177132,
+      "longitude": 5.294029,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 212,
+      "name": "Gemeentehuis Someren",
+      "latitude": 51.385695,
+      "longitude": 5.714032,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 213,
+      "name": "Gemeentehuis Son en Breugel",
+      "latitude": 51.510582,
+      "longitude": 5.491464,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 214,
+      "name": "Gemeentehuis Stadskanaal",
+      "latitude": 52.989659,
+      "longitude": 6.954865,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 215,
+      "name": "Gemeentehuis Staphorst",
+      "latitude": 52.643894,
+      "longitude": 6.210601,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 216,
+      "name": "Gemeentehuis Stede Broec",
+      "latitude": 52.696255,
+      "longitude": 5.235335,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 217,
+      "name": "Gemeentehuis Steenbergen",
+      "latitude": 51.59091,
+      "longitude": 4.315235,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 218,
+      "name": "Gemeentehuis Steenwijkerland",
+      "latitude": 52.782874,
+      "longitude": 6.116966,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 219,
+      "name": "Gemeentehuis Stein",
+      "latitude": 50.968301,
+      "longitude": 5.777041,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 220,
+      "name": "Gemeentehuis Súdwest-Fryslân",
+      "latitude": 53.032848,
+      "longitude": 5.659288,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 221,
+      "name": "Gemeentehuis Terschelling",
+      "latitude": 53.36411,
+      "longitude": 5.216988,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 222,
+      "name": "Gemeentehuis Texel",
+      "latitude": 53.050534,
+      "longitude": 4.802803,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 223,
+      "name": "Gemeentehuis Teylingen",
+      "latitude": 52.222977,
+      "longitude": 4.487312,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 224,
+      "name": "Gemeentehuis Tholen",
+      "latitude": 51.532295,
+      "longitude": 4.205187,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 225,
+      "name": "Gemeentehuis Twenterand",
+      "latitude": 52.408853,
+      "longitude": 6.624651,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 226,
+      "name": "Gemeentehuis Tynaarlo",
+      "latitude": 53.079446,
+      "longitude": 6.582997,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 227,
+      "name": "Gemeentehuis Tytsjerksteradiel",
+      "latitude": 53.188618,
+      "longitude": 5.989788,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 228,
+      "name": "Gemeentehuis Uitgeest",
+      "latitude": 52.528209,
+      "longitude": 4.71312,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 229,
+      "name": "Gemeentehuis Uithoorn",
+      "latitude": 52.232913,
+      "longitude": 4.826996,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 230,
+      "name": "Gemeentehuis Urk",
+      "latitude": 52.6636,
+      "longitude": 5.602047,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 231,
+      "name": "Gemeentehuis Vaals",
+      "latitude": 50.770677,
+      "longitude": 6.018837,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 232,
+      "name": "Gemeentehuis Valkenswaard",
+      "latitude": 51.349995,
+      "longitude": 5.460795,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 233,
+      "name": "Gemeentehuis Veendam",
+      "latitude": 53.104455,
+      "longitude": 6.877745,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 234,
+      "name": "Gemeentehuis Veenendaal",
+      "latitude": 52.023754,
+      "longitude": 5.557518,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 235,
+      "name": "Gemeentehuis Veere",
+      "latitude": 51.559529,
+      "longitude": 3.501171,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 236,
+      "name": "Gemeentehuis Veldhoven",
+      "latitude": 51.420867,
+      "longitude": 5.404788,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 237,
+      "name": "Gemeentehuis Velsen",
+      "latitude": 52.460907,
+      "longitude": 4.624188,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 238,
+      "name": "Gemeentehuis Venray",
+      "latitude": 51.528847,
+      "longitude": 5.9757,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 239,
+      "name": "Gemeentehuis Vijfheerenlanden - Locatie Meerkerk",
+      "latitude": 51.920479,
+      "longitude": 4.995737,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 240,
+      "name": "Gemeentehuis Vlieland",
+      "latitude": 53.29501,
+      "longitude": 5.065623,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 241,
+      "name": "Gemeentehuis Voerendaal",
+      "latitude": 50.87884,
+      "longitude": 5.930753,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 242,
+      "name": "Gemeentehuis Voorne aan Zee",
+      "latitude": 51.823581,
+      "longitude": 4.130031,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 243,
+      "name": "Gemeentehuis Voorne aan Zee - balie Brielle",
+      "latitude": 51.904689,
+      "longitude": 4.168449,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 244,
+      "name": "Gemeentehuis Voorne aan Zee - balie Rockanje",
+      "latitude": 51.87426,
+      "longitude": 4.064239,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 245,
+      "name": "Gemeentehuis Voorschoten",
+      "latitude": 52.127206,
+      "longitude": 4.448753,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 246,
+      "name": "Gemeentehuis Voorst",
+      "latitude": 52.236698,
+      "longitude": 6.109386,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 247,
+      "name": "Gemeentehuis Waadhoeke",
+      "latitude": 53.184809,
+      "longitude": 5.531776,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 248,
+      "name": "Gemeentehuis Waalre",
+      "latitude": 51.39181,
+      "longitude": 5.461897,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 249,
+      "name": "Gemeentehuis Waddinxveen",
+      "latitude": 52.04423,
+      "longitude": 4.655316,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 250,
+      "name": "Gemeentehuis Wageningen",
+      "latitude": 51.964501,
+      "longitude": 5.663326,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 251,
+      "name": "Gemeentehuis Waterland",
+      "latitude": 52.454382,
+      "longitude": 5.037371,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 252,
+      "name": "Gemeentehuis West Betuwe",
+      "latitude": 51.881777,
+      "longitude": 5.282209,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 253,
+      "name": "Gemeentehuis West Maas en Waal",
+      "latitude": 51.883684,
+      "longitude": 5.517455,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 254,
+      "name": "Gemeentehuis Westerkwartier - locatie Grootegast",
+      "latitude": 53.213679,
+      "longitude": 6.278125,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 255,
+      "name": "Gemeentehuis Westerkwartier - locatie Marum",
+      "latitude": 53.146042,
+      "longitude": 6.267039,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 256,
+      "name": "Gemeentehuis Westerkwartier - locatie Zuidhorn",
+      "latitude": 53.248986,
+      "longitude": 6.406836,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 257,
+      "name": "Gemeentehuis Westerveld",
+      "latitude": 52.858919,
+      "longitude": 6.309791,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 258,
+      "name": "Gemeentehuis Westervoort",
+      "latitude": 51.963119,
+      "longitude": 5.967732,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 259,
+      "name": "Gemeentehuis Westerwolde - Sellingen",
+      "latitude": 52.946715,
+      "longitude": 7.145693,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 260,
+      "name": "Gemeentehuis Westerwolde - Wedde",
+      "latitude": 53.068999,
+      "longitude": 7.071154,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 261,
+      "name": "Gemeentehuis Westland",
+      "latitude": 51.993973,
+      "longitude": 4.21097,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 262,
+      "name": "Gemeentehuis Weststellingwerf",
+      "latitude": 52.876236,
+      "longitude": 6.006082,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 263,
+      "name": "Gemeentehuis Wijdemeren",
+      "latitude": 52.207917,
+      "longitude": 5.140705,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 264,
+      "name": "Gemeentehuis Wijk bij Duurstede",
+      "latitude": 51.975247,
+      "longitude": 5.341432,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 265,
+      "name": "Gemeentehuis Woensdrecht",
+      "latitude": 51.42317,
+      "longitude": 4.325934,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 266,
+      "name": "Gemeentehuis Woerden",
+      "latitude": 52.079098,
+      "longitude": 4.888615,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 267,
+      "name": "Gemeentehuis Wormerland",
+      "latitude": 52.490154,
+      "longitude": 4.808519,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 268,
+      "name": "Gemeentehuis Woudenberg",
+      "latitude": 52.08133,
+      "longitude": 5.414797,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 269,
+      "name": "Gemeentehuis Zandvoort",
+      "latitude": 52.372588,
+      "longitude": 4.529297,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 270,
+      "name": "Gemeentehuis Zeewolde",
+      "latitude": 52.331758,
+      "longitude": 5.544664,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 271,
+      "name": "Gemeentehuis Zeist",
+      "latitude": 52.082381,
+      "longitude": 5.238968,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 272,
+      "name": "Gemeentehuis Zevenaar",
+      "latitude": 51.924169,
+      "longitude": 6.075106,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 273,
+      "name": "Gemeentehuis Zoeterwoude",
+      "latitude": 52.125388,
+      "longitude": 4.498094,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 274,
+      "name": "Gemeentehuis Zuidplas",
+      "latitude": 51.967891,
+      "longitude": 4.616968,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 275,
+      "name": "Gemeentehuis Zundert",
+      "latitude": 51.47298,
+      "longitude": 4.664328,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 276,
+      "name": "Gemeentehuis Zwartewaterland",
+      "latitude": 52.59206,
+      "longitude": 6.095853,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 277,
+      "name": "Gemeentehuis Zwijndrecht",
+      "latitude": 51.817883,
+      "longitude": 4.647139,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 278,
+      "name": "Gemeentekantoor Aalten",
+      "latitude": 51.926098,
+      "longitude": 6.582626,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 279,
+      "name": "Gemeentekantoor Beukenhorst",
+      "latitude": 52.288475,
+      "longitude": 4.707268,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 280,
+      "name": "Gemeentekantoor Heerde",
+      "latitude": 52.385647,
+      "longitude": 6.035693,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 281,
+      "name": "Gemeentekantoor Lingewaard",
+      "latitude": 51.890102,
+      "longitude": 5.895048,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 282,
+      "name": "Gemeentekantoor Oisterwijk",
+      "latitude": 51.580903,
+      "longitude": 5.199228,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 283,
+      "name": "Gemeentekantoor Polderlanden",
+      "latitude": 52.302273,
+      "longitude": 4.693461,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 284,
+      "name": "Gemeentekantoor Sliedrecht",
+      "latitude": 51.819212,
+      "longitude": 4.768593,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 285,
+      "name": "Gemeentekantoor Stichtse Vecht",
+      "latitude": 52.144572,
+      "longitude": 5.032985,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 286,
+      "name": "Gemeentekantoor Teylingen",
+      "latitude": 52.227162,
+      "longitude": 4.5187,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 287,
+      "name": "Gemeentekantoor Vught",
+      "latitude": 51.656652,
+      "longitude": 5.299228,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 288,
+      "name": "Gemeentekantoor Wassenaar",
+      "latitude": 52.145616,
+      "longitude": 4.398503,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 289,
+      "name": "Gemeentekantoor Winterswijik",
+      "latitude": 51.968682,
+      "longitude": 6.7155,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 290,
+      "name": "Gemeentekantoor Zaltbommel",
+      "latitude": 51.799365,
+      "longitude": 5.257047,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 291,
+      "name": "Gemeenteloket Bolsward",
+      "latitude": 53.061941,
+      "longitude": 5.523009,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 292,
+      "name": "Gemeenteloket Sneek",
+      "latitude": 53.032327,
+      "longitude": 5.658714,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 293,
+      "name": "Gemeenteloket Zuid",
+      "latitude": 51.958188,
+      "longitude": 5.897502,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 294,
+      "name": "Hof van Coevorden",
+      "latitude": 52.661599,
+      "longitude": 6.741133,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 295,
+      "name": "Holstohus",
+      "latitude": 52.336658,
+      "longitude": 6.111271,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 296,
+      "name": "Huis van Leusden",
+      "latitude": 52.130454,
+      "longitude": 5.428989,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 297,
+      "name": "Huis van de Gemeente Wijchen",
+      "latitude": 51.808454,
+      "longitude": 5.730637,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 298,
+      "name": "Huis van de gemeente Rhenen",
+      "latitude": 51.961584,
+      "longitude": 5.568026,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 299,
+      "name": "Huis voor Cultuur en Bestuur",
+      "latitude": 52.364324,
+      "longitude": 6.46136,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 300,
+      "name": "Klant Contact Centrum Meerssen",
+      "latitude": 50.884122,
+      "longitude": 5.753804,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 301,
+      "name": "Loket Burgerzaken",
+      "latitude": 52.281291,
+      "longitude": 6.421664,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 302,
+      "name": "Oude Stadhuis",
+      "latitude": 52.156618,
+      "longitude": 5.385506,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 303,
+      "name": "Poort van Gennep",
+      "latitude": 51.701937,
+      "longitude": 5.968301,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 304,
+      "name": "Publiekscentrum Gemeente Opsterland",
+      "latitude": 53.059093,
+      "longitude": 6.079713,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 305,
+      "name": "Publiekscentrum Gemeente Utrechtse Heuvelrug",
+      "latitude": 52.033352,
+      "longitude": 5.344062,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 306,
+      "name": "Publieksdienst Hardenberg",
+      "latitude": 52.602642,
+      "longitude": 6.457083,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 307,
+      "name": "Publiekshal gemeente Haarlem",
+      "latitude": 52.382062,
+      "longitude": 4.629491,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 308,
+      "name": "Publiekslocatie Centrum",
+      "latitude": 51.922473,
+      "longitude": 4.4871,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 309,
+      "name": "Publiekslocatie Charlois",
+      "latitude": 51.872901,
+      "longitude": 4.478318,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 310,
+      "name": "Publiekslocatie Charlois",
+      "latitude": 51.887265,
+      "longitude": 4.487176,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 311,
+      "name": "Publiekslocatie Delfshaven",
+      "latitude": 51.904704,
+      "longitude": 4.454583,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 312,
+      "name": "Publiekslocatie Feijenoord",
+      "latitude": 51.899108,
+      "longitude": 4.496338,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 313,
+      "name": "Publiekslocatie Hillegersberg-Schiebroek",
+      "latitude": 51.960547,
+      "longitude": 4.489872,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 314,
+      "name": "Publiekslocatie Hoek van Holland",
+      "latitude": 51.977181,
+      "longitude": 4.137726,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 315,
+      "name": "Publiekslocatie Hoogvliet",
+      "latitude": 51.865428,
+      "longitude": 4.357425,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 316,
+      "name": "Publiekslocatie IJsselmonde",
+      "latitude": 51.888137,
+      "longitude": 4.547785,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 317,
+      "name": "Publiekslocatie Kralingen-Crooswijk",
+      "latitude": 51.922338,
+      "longitude": 4.501739,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 318,
+      "name": "Publiekslocatie Noord",
+      "latitude": 51.932427,
+      "longitude": 4.470977,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 319,
+      "name": "Publiekslocatie Overschie",
+      "latitude": 51.934763,
+      "longitude": 4.42802,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 320,
+      "name": "Publiekslocatie Pernis",
+      "latitude": 51.888091,
+      "longitude": 4.386915,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 321,
+      "name": "Publiekslocatie Prins Alexander",
+      "latitude": 51.95135,
+      "longitude": 4.553011,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 322,
+      "name": "Publiekslocatie Rozenburg",
+      "latitude": 51.903834,
+      "longitude": 4.249017,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 323,
+      "name": "Raadhuis",
+      "latitude": 51.820246,
+      "longitude": 4.769857,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 324,
+      "name": "Raadhuis Appingedam",
+      "latitude": 53.320151,
+      "longitude": 6.8576,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 325,
+      "name": "Raadhuis De Paauw",
+      "latitude": 52.13576,
+      "longitude": 4.398354,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 326,
+      "name": "Raadhuis Ede",
+      "latitude": 52.04566,
+      "longitude": 5.675198,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 327,
+      "name": "Raadhuis Heemstede",
+      "latitude": 52.346522,
+      "longitude": 4.619571,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 328,
+      "name": "Raadhuis Hilversum",
+      "latitude": 52.229291,
+      "longitude": 5.169247,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 329,
+      "name": "Raadhuis Hoogeveen",
+      "latitude": 52.72616,
+      "longitude": 6.474867,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 330,
+      "name": "Raadhuis Kerkrade",
+      "latitude": 50.86525,
+      "longitude": 6.062008,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 331,
+      "name": "Raadhuis Laren",
+      "latitude": 52.255839,
+      "longitude": 5.229602,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 332,
+      "name": "Raadhuis Oisterwijk",
+      "latitude": 51.581027,
+      "longitude": 5.198117,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 333,
+      "name": "Servicecentrum Halfweg",
+      "latitude": 52.385635,
+      "longitude": 4.742741,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 334,
+      "name": "Servicecentrum Nieuw-Vennep",
+      "latitude": 52.26353,
+      "longitude": 4.629958,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 335,
+      "name": "Servicecentrum Noord",
+      "latitude": 52.23898,
+      "longitude": 6.885299,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 336,
+      "name": "Servicepunt Balk",
+      "latitude": 52.898886,
+      "longitude": 5.583674,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 337,
+      "name": "Servicepunt Lemmer",
+      "latitude": 52.844263,
+      "longitude": 5.712109,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 338,
+      "name": "Servicepunt Maasdam",
+      "latitude": 51.792955,
+      "longitude": 4.555805,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 339,
+      "name": "Staddeelkantoor Segbroek",
+      "latitude": 52.072843,
+      "longitude": 4.274935,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 340,
+      "name": "Stadhuis",
+      "latitude": 51.813944,
+      "longitude": 4.66436,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 341,
+      "name": "Stadhuis",
+      "latitude": 52.091998,
+      "longitude": 5.11961,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 342,
+      "name": "Stadhuis",
+      "latitude": 52.219477,
+      "longitude": 6.896777,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 343,
+      "name": "Stadhuis",
+      "latitude": 52.265972,
+      "longitude": 6.791751,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 344,
+      "name": "Stadhuis",
+      "latitude": 52.295777,
+      "longitude": 5.163763,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 345,
+      "name": "Stadhuis",
+      "latitude": 52.357217,
+      "longitude": 6.65929,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 346,
+      "name": "Stadhuis 's-Hertogenbosch",
+      "latitude": 51.688443,
+      "longitude": 5.303101,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 347,
+      "name": "Stadhuis Alkmaar",
+      "latitude": 52.631928,
+      "longitude": 4.74571,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 348,
+      "name": "Stadhuis Almere",
+      "latitude": 52.371707,
+      "longitude": 5.22161,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 349,
+      "name": "Stadhuis Amersfoort",
+      "latitude": 52.15672,
+      "longitude": 5.384165,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 350,
+      "name": "Stadhuis Apeldoorn",
+      "latitude": 52.215756,
+      "longitude": 5.963941,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 351,
+      "name": "Stadhuis Arnhem",
+      "latitude": 51.979347,
+      "longitude": 5.911045,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 352,
+      "name": "Stadhuis Assen",
+      "latitude": 52.994653,
+      "longitude": 6.565027,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 353,
+      "name": "Stadhuis Capelle aan den IJssel",
+      "latitude": 51.930247,
+      "longitude": 4.587785,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 354,
+      "name": "Stadhuis Culemborg",
+      "latitude": 51.958204,
+      "longitude": 5.224721,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 355,
+      "name": "Stadhuis Delft",
+      "latitude": 52.011507,
+      "longitude": 4.358595,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 356,
+      "name": "Stadhuis Den Haag",
+      "latitude": 52.077887,
+      "longitude": 4.317446,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 357,
+      "name": "Stadhuis Den Helder",
+      "latitude": 52.958401,
+      "longitude": 4.770689,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 358,
+      "name": "Stadhuis Deventer",
+      "latitude": 52.251838,
+      "longitude": 6.156016,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 359,
+      "name": "Stadhuis Doesburg",
+      "latitude": 52.015107,
+      "longitude": 6.133717,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 360,
+      "name": "Stadhuis Eindhoven",
+      "latitude": 51.435153,
+      "longitude": 5.48047,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 361,
+      "name": "Stadhuis Enkhuizen",
+      "latitude": 52.704143,
+      "longitude": 5.294796,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 362,
+      "name": "Stadhuis Franeker",
+      "latitude": 53.1871,
+      "longitude": 5.543389,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 363,
+      "name": "Stadhuis Gorinchem",
+      "latitude": 51.832393,
+      "longitude": 4.964531,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 364,
+      "name": "Stadhuis Groningen",
+      "latitude": 53.218569,
+      "longitude": 6.567196,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 365,
+      "name": "Stadhuis Harderwijk",
+      "latitude": 52.351731,
+      "longitude": 5.622985,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 366,
+      "name": "Stadhuis Hattem",
+      "latitude": 52.474654,
+      "longitude": 6.069913,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 367,
+      "name": "Stadhuis Heerlen",
+      "latitude": 50.886565,
+      "longitude": 5.978112,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 368,
+      "name": "Stadhuis Helmond",
+      "latitude": 51.47642,
+      "longitude": 5.657506,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 369,
+      "name": "Stadhuis Hoorn",
+      "latitude": 52.655424,
+      "longitude": 5.06296,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 370,
+      "name": "Stadhuis Hulst",
+      "latitude": 51.27944,
+      "longitude": 4.054194,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 371,
+      "name": "Stadhuis IJsselstein",
+      "latitude": 52.017837,
+      "longitude": 5.040198,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 372,
+      "name": "Stadhuis Kampen",
+      "latitude": 52.551525,
+      "longitude": 5.912923,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 373,
+      "name": "Stadhuis Leeuwarden",
+      "latitude": 53.202114,
+      "longitude": 5.795965,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 374,
+      "name": "Stadhuis Leiden",
+      "latitude": 52.158193,
+      "longitude": 4.491215,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 375,
+      "name": "Stadhuis Lelystad",
+      "latitude": 52.507891,
+      "longitude": 5.475942,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 376,
+      "name": "Stadhuis Maassluis",
+      "latitude": 51.927459,
+      "longitude": 4.238777,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 377,
+      "name": "Stadhuis Maastricht",
+      "latitude": 50.851352,
+      "longitude": 5.691374,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 378,
+      "name": "Stadhuis Meppel",
+      "latitude": 52.69923,
+      "longitude": 6.188239,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 379,
+      "name": "Stadhuis Nijmegen",
+      "latitude": 51.846516,
+      "longitude": 5.865863,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 380,
+      "name": "Stadhuis Nissewaard",
+      "latitude": 51.848091,
+      "longitude": 4.328702,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 381,
+      "name": "Stadhuis Oosterhout",
+      "latitude": 51.639056,
+      "longitude": 4.86174,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 382,
+      "name": "Stadhuis Roermond",
+      "latitude": 51.195887,
+      "longitude": 5.985812,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 383,
+      "name": "Stadhuis Rotterdam",
+      "latitude": 51.922734,
+      "longitude": 4.479259,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 384,
+      "name": "Stadhuis Terneuzen",
+      "latitude": 51.337809,
+      "longitude": 3.830474,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 385,
+      "name": "Stadhuis Tiel",
+      "latitude": 51.88587,
+      "longitude": 5.434027,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 386,
+      "name": "Stadhuis Tilburg",
+      "latitude": 51.555087,
+      "longitude": 5.087476,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 387,
+      "name": "Stadhuis Valkenburg aan de Geul",
+      "latitude": 50.868157,
+      "longitude": 5.83206,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 388,
+      "name": "Stadhuis Vijfheerenlanden - Locatie Vianen",
+      "latitude": 51.994989,
+      "longitude": 5.092343,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 389,
+      "name": "Stadhuis Vlaardingen",
+      "latitude": 51.908012,
+      "longitude": 4.341937,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 390,
+      "name": "Stadhuis Vlissingen",
+      "latitude": 51.448062,
+      "longitude": 3.569475,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 391,
+      "name": "Stadhuis Waalwijk",
+      "latitude": 51.691852,
+      "longitude": 5.065956,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 392,
+      "name": "Stadhuis Weert",
+      "latitude": 51.251199,
+      "longitude": 5.703899,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 393,
+      "name": "Stadhuis Zaanstad",
+      "latitude": 52.438315,
+      "longitude": 4.81471,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 394,
+      "name": "Stadhuis Zoetermeer",
+      "latitude": 52.060793,
+      "longitude": 4.493208,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 395,
+      "name": "Stadhuis Zutphen",
+      "latitude": 52.139994,
+      "longitude": 6.194753,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 396,
+      "name": "Stadhuis Zwolle",
+      "latitude": 52.511313,
+      "longitude": 6.092897,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 397,
+      "name": "Stadhuis van Gouda",
+      "latitude": 52.01167,
+      "longitude": 4.710546,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 398,
+      "name": "Stadhuis van Purmerend",
+      "latitude": 52.50657,
+      "longitude": 4.953685,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 399,
+      "name": "Stadsdeel Nieuw-West",
+      "latitude": 52.379106,
+      "longitude": 4.821145,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 400,
+      "name": "Stadsdeelkantoor Centrum",
+      "latitude": 52.077607,
+      "longitude": 4.316689,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 401,
+      "name": "Stadsdeelkantoor Escamp",
+      "latitude": 52.044892,
+      "longitude": 4.280594,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 402,
+      "name": "Stadsdeelkantoor Haagse Hout",
+      "latitude": 52.086021,
+      "longitude": 4.346728,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 403,
+      "name": "Stadsdeelkantoor Laak",
+      "latitude": 52.063756,
+      "longitude": 4.322482,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 404,
+      "name": "Stadsdeelkantoor Leidschenveen-Ypenburg",
+      "latitude": 52.054455,
+      "longitude": 4.388654,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 405,
+      "name": "Stadsdeelkantoor Loosduinen",
+      "latitude": 52.053587,
+      "longitude": 4.234943,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 406,
+      "name": "Stadsdeelkantoor Scheveningen",
+      "latitude": 52.102661,
+      "longitude": 4.279045,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 407,
+      "name": "Stadshuis Nieuwegein",
+      "latitude": 52.027823,
+      "longitude": 5.085083,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 408,
+      "name": "Stadskantoor 's-Hertogenbosch",
+      "latitude": 51.687077,
+      "longitude": 5.302946,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 409,
+      "name": "Stadskantoor 6",
+      "latitude": 51.560704,
+      "longitude": 5.078557,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 410,
+      "name": "Stadskantoor Alkmaar",
+      "latitude": 52.635365,
+      "longitude": 4.74613,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 411,
+      "name": "Stadskantoor Arnhem",
+      "latitude": 51.976631,
+      "longitude": 5.915335,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 412,
+      "name": "Stadskantoor Bergen op Zoom",
+      "latitude": 51.491572,
+      "longitude": 4.292614,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 413,
+      "name": "Stadskantoor Breda",
+      "latitude": 51.58742,
+      "longitude": 4.783109,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 414,
+      "name": "Stadskantoor Culemborg",
+      "latitude": 51.956921,
+      "longitude": 5.227669,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 415,
+      "name": "Stadskantoor Delft",
+      "latitude": 52.007231,
+      "longitude": 4.356108,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 416,
+      "name": "Stadskantoor Dordrecht",
+      "latitude": 51.81195,
+      "longitude": 4.66149,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 417,
+      "name": "Stadskantoor Edam-Volendam",
+      "latitude": 52.500847,
+      "longitude": 5.054334,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 418,
+      "name": "Stadskantoor Eindhoven",
+      "latitude": 51.434894,
+      "longitude": 5.479583,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 419,
+      "name": "Stadskantoor Enkhuizen",
+      "latitude": 52.704459,
+      "longitude": 5.295698,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 420,
+      "name": "Stadskantoor Enschede",
+      "latitude": 52.223018,
+      "longitude": 6.891333,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 421,
+      "name": "Stadskantoor Etten-Leur",
+      "latitude": 51.568843,
+      "longitude": 4.634171,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 422,
+      "name": "Stadskantoor Goes",
+      "latitude": 51.499344,
+      "longitude": 3.886082,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 423,
+      "name": "Stadskantoor Gouda",
+      "latitude": 52.018076,
+      "longitude": 4.707313,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 424,
+      "name": "Stadskantoor Hilversum",
+      "latitude": 52.229021,
+      "longitude": 5.171003,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 425,
+      "name": "Stadskantoor Kerkrade",
+      "latitude": 50.86518,
+      "longitude": 6.062834,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 426,
+      "name": "Stadskantoor Leiden",
+      "latitude": 52.165923,
+      "longitude": 4.480403,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 427,
+      "name": "Stadskantoor Middelburg",
+      "latitude": 51.497609,
+      "longitude": 3.62436,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 428,
+      "name": "Stadskantoor Montfoort",
+      "latitude": 52.04423,
+      "longitude": 4.950501,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 429,
+      "name": "Stadskantoor Oudewater",
+      "latitude": 52.020378,
+      "longitude": 4.874857,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 430,
+      "name": "Stadskantoor Roermond",
+      "latitude": 51.197971,
+      "longitude": 5.986251,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 431,
+      "name": "Stadskantoor Roosendaal",
+      "latitude": 51.535641,
+      "longitude": 4.456805,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 432,
+      "name": "Stadskantoor Schiedam",
+      "latitude": 51.918155,
+      "longitude": 4.403616,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 433,
+      "name": "Stadskantoor Sittard-Geleen",
+      "latitude": 50.994751,
+      "longitude": 5.869023,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 434,
+      "name": "Stadskantoor Utrecht",
+      "latitude": 52.089481,
+      "longitude": 5.108235,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 435,
+      "name": "Stadskantoor Venlo",
+      "latitude": 51.367259,
+      "longitude": 6.164191,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 436,
+      "name": "Stadskantoor Vijfheerenlanden - Locatie Leerdam",
+      "latitude": 51.893756,
+      "longitude": 5.092061,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 437,
+      "name": "Stadskantoor Vlaardingen",
+      "latitude": 51.908092,
+      "longitude": 4.341171,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 438,
+      "name": "Stadskantoor Zwolle",
+      "latitude": 52.503212,
+      "longitude": 6.09112,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 439,
+      "name": "Stadsloket Centrum",
+      "latitude": 52.367684,
+      "longitude": 4.900226,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 440,
+      "name": "Stadsloket Nieuw-West",
+      "latitude": 52.358051,
+      "longitude": 4.805397,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 441,
+      "name": "Stadsloket Noord",
+      "latitude": 52.400928,
+      "longitude": 4.932977,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 442,
+      "name": "Stadsloket Oost",
+      "latitude": 52.356747,
+      "longitude": 4.930896,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 443,
+      "name": "Stadsloket Weesp",
+      "latitude": 52.306515,
+      "longitude": 5.04277,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 444,
+      "name": "Stadsloket West",
+      "latitude": 52.378139,
+      "longitude": 4.845261,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 445,
+      "name": "Stadsloket Zuid",
+      "latitude": 52.340478,
+      "longitude": 4.893953,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 446,
+      "name": "Stadsloket Zuidoost",
+      "latitude": 52.316241,
+      "longitude": 4.956475,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 447,
+      "name": "Stadswinkel",
+      "latitude": 51.845326,
+      "longitude": 5.867245,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 448,
+      "name": "Stadswinkel Berkel-Enschot",
+      "latitude": 51.587437,
+      "longitude": 5.137447,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 449,
+      "name": "Stadswinkel Born",
+      "latitude": 51.030933,
+      "longitude": 5.810558,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 450,
+      "name": "Stadswinkel Centrum",
+      "latitude": 51.554362,
+      "longitude": 5.08879,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 451,
+      "name": "Stadswinkel Noord",
+      "latitude": 51.58324,
+      "longitude": 5.084683,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 452,
+      "name": "Stadswinkel Reeshof",
+      "latitude": 51.575167,
+      "longitude": 4.994855,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 453,
+      "name": "Stadswinkel Sittard-Geleen",
+      "latitude": 50.970052,
+      "longitude": 5.826736,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 454,
+      "name": "Stadswinkel Udenhout",
+      "latitude": 51.609801,
+      "longitude": 5.142301,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 455,
+      "name": "Steunpunt Stadswinkel Dukenburg",
+      "latitude": 51.811953,
+      "longitude": 5.801072,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 456,
+      "name": "Voormalig Gemeentehuis Giethoorn",
+      "latitude": 52.722509,
+      "longitude": 6.086109,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 457,
+      "name": "Wijkservicecentrum Vleuten-De Meern",
+      "latitude": 52.107242,
+      "longitude": 5.011177,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 458,
+      "name": "Wijkteamkantoor Almere Buiten Noord-West",
+      "latitude": 52.397493,
+      "longitude": 5.26253,
+      "osm_klasse": "amenity=townhall"
+    },
+    {
+      "id": 459,
+      "name": "Zaltbommel",
+      "latitude": 51.813691,
+      "longitude": 5.24697,
+      "osm_klasse": "amenity=townhall"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: townhall (amenity=townhall) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=townhall in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 459 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: townhall (amenity=townhall) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: townhall (amenity=townhall) — 459 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 459 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

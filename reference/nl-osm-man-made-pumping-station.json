@@ -1,0 +1,4006 @@
+{
+  "id": "nl-osm-man-made-pumping-station",
+  "name": "Netherlands OSM: pumping station (man_made=pumping_station)",
+  "title": "Netherlands OSM: pumping station (man_made=pumping_station)",
+  "description": "Named OpenStreetMap features tagged man_made=pumping_station in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 565,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Kooike",
+      "latitude": 51.783077,
+      "longitude": 4.863116,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 2,
+      "name": "'t Laeg",
+      "latitude": 52.717789,
+      "longitude": 4.966468,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 3,
+      "name": "0152 Stoomgemaal Bern",
+      "latitude": 51.74647,
+      "longitude": 5.183225,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 4,
+      "name": "4.001.0081",
+      "latitude": 51.096233,
+      "longitude": 5.843164,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 5,
+      "name": "A.S. Kanaaldijk",
+      "latitude": 52.180425,
+      "longitude": 5.130622,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 6,
+      "name": "AWTG Schiphol Oostlob",
+      "latitude": 52.274017,
+      "longitude": 4.742198,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 7,
+      "name": "AWTG Schiphol-Rijk",
+      "latitude": 52.28101,
+      "longitude": 4.75108,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 8,
+      "name": "Aanvoergemaal Ter Apelkanaal",
+      "latitude": 52.915951,
+      "longitude": 7.048023,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 9,
+      "name": "Achterste Veen",
+      "latitude": 53.105496,
+      "longitude": 6.473711,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 10,
+      "name": "Banisgemaal",
+      "latitude": 52.363477,
+      "longitude": 6.680211,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 11,
+      "name": "Barnewinkel",
+      "latitude": 52.20059,
+      "longitude": 6.013161,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 12,
+      "name": "Boezemgemaal Halfweg",
+      "latitude": 52.392483,
+      "longitude": 4.770497,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 13,
+      "name": "Boezemgemaal Katwijk",
+      "latitude": 52.207592,
+      "longitude": 4.40629,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 14,
+      "name": "Boezemgemaal Kromme Mijdrecht",
+      "latitude": 52.188038,
+      "longitude": 4.82605,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 15,
+      "name": "Booster",
+      "latitude": 52.373689,
+      "longitude": 4.966448,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 16,
+      "name": "Bovengemaal van de polder Berkel",
+      "latitude": 51.977047,
+      "longitude": 4.430239,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 17,
+      "name": "Combigemaal Kinnum",
+      "latitude": 53.372476,
+      "longitude": 5.269922,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 18,
+      "name": "Combigemaal Lies",
+      "latitude": 53.384318,
+      "longitude": 5.346224,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 19,
+      "name": "De Aanvoerder",
+      "latitude": 52.082486,
+      "longitude": 5.077969,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 20,
+      "name": "De Drie Delfzijlen",
+      "latitude": 53.328606,
+      "longitude": 6.924922,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 21,
+      "name": "De Heining",
+      "latitude": 53.32147,
+      "longitude": 5.759054,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 22,
+      "name": "De Jordaan",
+      "latitude": 53.300069,
+      "longitude": 5.898249,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 23,
+      "name": "De Koudenhoek",
+      "latitude": 51.803884,
+      "longitude": 3.965514,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 24,
+      "name": "De Kroon",
+      "latitude": 51.772742,
+      "longitude": 4.793889,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 25,
+      "name": "De Kruimeldief",
+      "latitude": 52.103462,
+      "longitude": 5.037348,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 26,
+      "name": "De Leyens",
+      "latitude": 52.073416,
+      "longitude": 4.495697,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 27,
+      "name": "De Putten",
+      "latitude": 53.16783,
+      "longitude": 6.047777,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 28,
+      "name": "De Slokkert",
+      "latitude": 52.993196,
+      "longitude": 6.468003,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 29,
+      "name": "De Tol",
+      "latitude": 52.164934,
+      "longitude": 4.973166,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 30,
+      "name": "De Verbetering",
+      "latitude": 53.210681,
+      "longitude": 6.533315,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 31,
+      "name": "De Volharding",
+      "latitude": 51.989598,
+      "longitude": 5.996452,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 32,
+      "name": "De Zalm-Oost",
+      "latitude": 51.76386,
+      "longitude": 4.810235,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 33,
+      "name": "De Zalm-West",
+      "latitude": 51.766101,
+      "longitude": 4.796224,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 34,
+      "name": "Dieselgemaal J. Leegwater",
+      "latitude": 52.621829,
+      "longitude": 4.748248,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 35,
+      "name": "Dijkgemaal",
+      "latitude": 51.968268,
+      "longitude": 5.713586,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 36,
+      "name": "Doorspoelgemaal Kleverlaan",
+      "latitude": 52.396814,
+      "longitude": 4.626385,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 37,
+      "name": "Eindgemaal Rivierenbuurt",
+      "latitude": 52.340845,
+      "longitude": 4.897761,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 38,
+      "name": "Electrisch gemaal de Neust",
+      "latitude": 51.89383,
+      "longitude": 5.246204,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 39,
+      "name": "Evides pumping station",
+      "latitude": 51.752777,
+      "longitude": 4.222804,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 40,
+      "name": "Flat Gravestein",
+      "latitude": 52.32306,
+      "longitude": 4.969493,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 41,
+      "name": "Gasontvangststation",
+      "latitude": 52.074976,
+      "longitude": 4.28786,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 42,
+      "name": "Gasontvangststation N489 Ter Apel",
+      "latitude": 52.880645,
+      "longitude": 7.050295,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 43,
+      "name": "Gemaal",
+      "latitude": 51.541621,
+      "longitude": 5.033065,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 44,
+      "name": "Gemaal",
+      "latitude": 51.827575,
+      "longitude": 4.662445,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 45,
+      "name": "Gemaal",
+      "latitude": 52.092782,
+      "longitude": 4.398308,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 46,
+      "name": "Gemaal",
+      "latitude": 52.252636,
+      "longitude": 4.904105,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 47,
+      "name": "Gemaal",
+      "latitude": 52.875171,
+      "longitude": 5.859772,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 48,
+      "name": "Gemaal",
+      "latitude": 52.93528,
+      "longitude": 6.074799,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 49,
+      "name": "Gemaal",
+      "latitude": 53.136286,
+      "longitude": 5.996146,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 50,
+      "name": "Gemaal 't Fort",
+      "latitude": 51.385995,
+      "longitude": 3.813393,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 51,
+      "name": "Gemaal 't Gansje",
+      "latitude": 52.587531,
+      "longitude": 5.913857,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 52,
+      "name": "Gemaal 't Sas",
+      "latitude": 51.648834,
+      "longitude": 3.934091,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 53,
+      "name": "Gemaal 114SAM",
+      "latitude": 51.621123,
+      "longitude": 5.944631,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 54,
+      "name": "Gemaal A.F. Stroink",
+      "latitude": 52.704134,
+      "longitude": 5.973222,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 55,
+      "name": "Gemaal Aalkeetbuitenpolder",
+      "latitude": 51.916925,
+      "longitude": 4.287148,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 56,
+      "name": "Gemaal Abelstok",
+      "latitude": 53.351457,
+      "longitude": 6.449865,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 57,
+      "name": "Gemaal Abraham Kroes",
+      "latitude": 51.977076,
+      "longitude": 4.652776,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 58,
+      "name": "Gemaal Abraham Kroes",
+      "latitude": 51.977809,
+      "longitude": 4.651784,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 59,
+      "name": "Gemaal Achtermolen",
+      "latitude": 51.979527,
+      "longitude": 4.303614,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 60,
+      "name": "Gemaal Ackerdijkschepolder",
+      "latitude": 51.967699,
+      "longitude": 4.390451,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 61,
+      "name": "Gemaal Adriaan",
+      "latitude": 51.556213,
+      "longitude": 3.825111,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 62,
+      "name": "Gemaal Aetsveld-Oost",
+      "latitude": 52.303578,
+      "longitude": 5.024117,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 63,
+      "name": "Gemaal Albrandswaard",
+      "latitude": 51.847223,
+      "longitude": 4.405663,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 64,
+      "name": "Gemaal Ald Pijp",
+      "latitude": 53.301103,
+      "longitude": 5.837997,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 65,
+      "name": "Gemaal Alexander",
+      "latitude": 52.576024,
+      "longitude": 4.792246,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 66,
+      "name": "Gemaal Auke Algera",
+      "latitude": 52.856936,
+      "longitude": 5.91568,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 67,
+      "name": "Gemaal Baafjespolder",
+      "latitude": 52.613793,
+      "longitude": 4.696805,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 68,
+      "name": "Gemaal Baakse Beek",
+      "latitude": 52.090867,
+      "longitude": 6.21893,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 69,
+      "name": "Gemaal Baambrugge Westzijds",
+      "latitude": 52.261392,
+      "longitude": 4.97344,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 70,
+      "name": "Gemaal Baarland",
+      "latitude": 51.406658,
+      "longitude": 3.87411,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 71,
+      "name": "Gemaal Bakerwaard",
+      "latitude": 52.088721,
+      "longitude": 6.220303,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 72,
+      "name": "Gemaal Battenoord",
+      "latitude": 51.707021,
+      "longitude": 4.128732,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 73,
+      "name": "Gemaal Beatrix",
+      "latitude": 52.60693,
+      "longitude": 4.88343,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 74,
+      "name": "Gemaal Beerschoten",
+      "latitude": 52.064845,
+      "longitude": 5.249981,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 75,
+      "name": "Gemaal Beijum",
+      "latitude": 53.258667,
+      "longitude": 6.590917,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 76,
+      "name": "Gemaal Bergboezem Berkel",
+      "latitude": 51.978368,
+      "longitude": 4.429956,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 77,
+      "name": "Gemaal Berggierslanden",
+      "latitude": 52.67491,
+      "longitude": 6.182943,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 78,
+      "name": "Gemaal Bergpolder",
+      "latitude": 51.941272,
+      "longitude": 4.457934,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 79,
+      "name": "Gemaal Bethunepolder",
+      "latitude": 52.156087,
+      "longitude": 5.04726,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 80,
+      "name": "Gemaal Bevermeer",
+      "latitude": 51.999372,
+      "longitude": 6.156168,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 81,
+      "name": "Gemaal Bijleveld",
+      "latitude": 52.088423,
+      "longitude": 4.972182,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 82,
+      "name": "Gemaal Binnenpolder",
+      "latitude": 52.083924,
+      "longitude": 4.736007,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 83,
+      "name": "Gemaal Blijkpolder",
+      "latitude": 52.264261,
+      "longitude": 5.055119,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 84,
+      "name": "Gemaal Bloemers",
+      "latitude": 51.831418,
+      "longitude": 5.591386,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 85,
+      "name": "Gemaal Boezemvliet",
+      "latitude": 51.798576,
+      "longitude": 4.566885,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 86,
+      "name": "Gemaal Boreel",
+      "latitude": 51.491806,
+      "longitude": 3.608071,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 87,
+      "name": "Gemaal Born",
+      "latitude": 51.036042,
+      "longitude": 5.796132,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 88,
+      "name": "Gemaal Botmar",
+      "latitude": 53.07683,
+      "longitude": 5.862455,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 89,
+      "name": "Gemaal Botshol groot",
+      "latitude": 52.265982,
+      "longitude": 4.924428,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 90,
+      "name": "Gemaal Braakman",
+      "latitude": 51.335737,
+      "longitude": 3.76937,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 91,
+      "name": "Gemaal Breeman",
+      "latitude": 51.841422,
+      "longitude": 4.494009,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 92,
+      "name": "Gemaal Breukelen-Proosdij",
+      "latitude": 52.183156,
+      "longitude": 5.007498,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 93,
+      "name": "Gemaal Broekse Sluis",
+      "latitude": 51.85504,
+      "longitude": 5.047364,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 94,
+      "name": "Gemaal Bulaeus Brack",
+      "latitude": 52.083739,
+      "longitude": 4.735598,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 95,
+      "name": "Gemaal Buma",
+      "latitude": 52.837437,
+      "longitude": 5.713597,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 96,
+      "name": "Gemaal Burgvlietkade",
+      "latitude": 52.022415,
+      "longitude": 4.720225,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 97,
+      "name": "Gemaal C. Mantel",
+      "latitude": 52.60206,
+      "longitude": 5.016932,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 98,
+      "name": "Gemaal Cadzand",
+      "latitude": 51.376954,
+      "longitude": 3.382193,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 99,
+      "name": "Gemaal Campen",
+      "latitude": 51.364438,
+      "longitude": 3.958506,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 100,
+      "name": "Gemaal Casper Hommes",
+      "latitude": 53.270738,
+      "longitude": 6.6028,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 101,
+      "name": "Gemaal Catspolder",
+      "latitude": 52.861176,
+      "longitude": 6.030982,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 102,
+      "name": "Gemaal Cellemuiden",
+      "latitude": 52.610523,
+      "longitude": 6.08,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 103,
+      "name": "Gemaal Colijn",
+      "latitude": 52.579121,
+      "longitude": 5.757422,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 104,
+      "name": "Gemaal Coudorpe",
+      "latitude": 51.387279,
+      "longitude": 3.814631,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 105,
+      "name": "Gemaal Cromstrijen",
+      "latitude": 51.715705,
+      "longitude": 4.474673,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 106,
+      "name": "Gemaal De Antagonist (buiten gebruik)",
+      "latitude": 52.080199,
+      "longitude": 4.415233,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 107,
+      "name": "Gemaal De Blocq van Kuffeler",
+      "latitude": 52.41755,
+      "longitude": 5.224686,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 108,
+      "name": "Gemaal De Boezemloozende door Strijensas",
+      "latitude": 51.714195,
+      "longitude": 4.585754,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 109,
+      "name": "Gemaal De Bolstra",
+      "latitude": 52.282351,
+      "longitude": 4.776344,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 110,
+      "name": "Gemaal De Bommelse Polders",
+      "latitude": 51.716795,
+      "longitude": 4.280279,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 111,
+      "name": "Gemaal De Braemmeule",
+      "latitude": 52.747945,
+      "longitude": 6.127438,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 112,
+      "name": "Gemaal De Dongeradelen",
+      "latitude": 53.358794,
+      "longitude": 6.148059,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 113,
+      "name": "Gemaal De Drie Polders",
+      "latitude": 51.709273,
+      "longitude": 4.085541,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 114,
+      "name": "Gemaal De Eendracht",
+      "latitude": 51.525891,
+      "longitude": 4.216406,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 115,
+      "name": "Gemaal De Eendracht",
+      "latitude": 51.682206,
+      "longitude": 4.214576,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 116,
+      "name": "Gemaal De Haar",
+      "latitude": 52.224421,
+      "longitude": 5.315396,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 117,
+      "name": "Gemaal De Haas van Dorsser",
+      "latitude": 51.693496,
+      "longitude": 4.224899,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 118,
+      "name": "Gemaal De Helsdeur",
+      "latitude": 52.946526,
+      "longitude": 4.788588,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 119,
+      "name": "Gemaal De Kievit",
+      "latitude": 52.670828,
+      "longitude": 5.664425,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 120,
+      "name": "Gemaal De Koekoek",
+      "latitude": 51.960504,
+      "longitude": 4.929739,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 121,
+      "name": "Gemaal De Lege Wâlden",
+      "latitude": 53.021794,
+      "longitude": 5.78284,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 122,
+      "name": "Gemaal De Mars",
+      "latitude": 51.861764,
+      "longitude": 6.139558,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 123,
+      "name": "Gemaal De Moer",
+      "latitude": 51.480791,
+      "longitude": 4.007286,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 124,
+      "name": "Gemaal De Nesse",
+      "latitude": 51.965486,
+      "longitude": 4.635919,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 125,
+      "name": "Gemaal De Neust",
+      "latitude": 51.893683,
+      "longitude": 5.246724,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 126,
+      "name": "Gemaal De Noord",
+      "latitude": 51.55347,
+      "longitude": 4.045543,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 127,
+      "name": "Gemaal De Pieper",
+      "latitude": 52.614285,
+      "longitude": 6.012122,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 128,
+      "name": "Gemaal De Piet",
+      "latitude": 51.518539,
+      "longitude": 3.752978,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 129,
+      "name": "Gemaal De Pleyt",
+      "latitude": 52.024978,
+      "longitude": 4.919084,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 130,
+      "name": "Gemaal De Poel",
+      "latitude": 51.47515,
+      "longitude": 3.897378,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 131,
+      "name": "Gemaal De Schans",
+      "latitude": 53.03033,
+      "longitude": 4.826922,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 132,
+      "name": "Gemaal De Tol",
+      "latitude": 52.080728,
+      "longitude": 4.401426,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 133,
+      "name": "Gemaal De Volharding",
+      "latitude": 51.818125,
+      "longitude": 4.339716,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 134,
+      "name": "Gemaal De Waterwolf",
+      "latitude": 53.313251,
+      "longitude": 6.355089,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 135,
+      "name": "Gemaal De Welle",
+      "latitude": 52.985436,
+      "longitude": 5.872832,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 136,
+      "name": "Gemaal De Wenden",
+      "latitude": 52.511721,
+      "longitude": 5.893165,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 137,
+      "name": "Gemaal De Wolden",
+      "latitude": 53.267616,
+      "longitude": 6.598644,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 138,
+      "name": "Gemaal Den Deel",
+      "latitude": 53.337212,
+      "longitude": 6.6065,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 139,
+      "name": "Gemaal Den Osse",
+      "latitude": 51.740703,
+      "longitude": 3.889148,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 140,
+      "name": "Gemaal Derde Dijk",
+      "latitude": 51.571581,
+      "longitude": 4.040309,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 141,
+      "name": "Gemaal Dijkmanshuizen",
+      "latitude": 53.055558,
+      "longitude": 4.872119,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 142,
+      "name": "Gemaal Dorppolder Noord",
+      "latitude": 51.979312,
+      "longitude": 4.30173,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 143,
+      "name": "Gemaal Dorssewaard",
+      "latitude": 52.239451,
+      "longitude": 5.037948,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 144,
+      "name": "Gemaal Dreischor",
+      "latitude": 51.707256,
+      "longitude": 4.000491,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 145,
+      "name": "Gemaal Drie Grote Polders",
+      "latitude": 51.59974,
+      "longitude": 4.178692,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 146,
+      "name": "Gemaal Driemond",
+      "latitude": 52.303071,
+      "longitude": 5.020234,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 147,
+      "name": "Gemaal Driepoorten",
+      "latitude": 51.979356,
+      "longitude": 5.943961,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 148,
+      "name": "Gemaal Duurswold",
+      "latitude": 53.326442,
+      "longitude": 6.930281,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 149,
+      "name": "Gemaal Eemnes",
+      "latitude": 52.247732,
+      "longitude": 5.302838,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 150,
+      "name": "Gemaal Eijerland",
+      "latitude": 53.157233,
+      "longitude": 4.876963,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 151,
+      "name": "Gemaal F.C. Colenbrander",
+      "latitude": 52.117843,
+      "longitude": 6.178875,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 152,
+      "name": "Gemaal Fort Honswijk",
+      "latitude": 51.975611,
+      "longitude": 5.159295,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 153,
+      "name": "Gemaal Gaatkensoog",
+      "latitude": 51.850769,
+      "longitude": 4.490896,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 154,
+      "name": "Gemaal Gansoyen",
+      "latitude": 51.713934,
+      "longitude": 5.074085,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 155,
+      "name": "Gemaal Geestmerambacht",
+      "latitude": 52.691993,
+      "longitude": 4.759871,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 156,
+      "name": "Gemaal Gerverscop",
+      "latitude": 52.108559,
+      "longitude": 4.938051,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 157,
+      "name": "Gemaal Gewande",
+      "latitude": 51.753984,
+      "longitude": 5.355527,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 158,
+      "name": "Gemaal Goese Sas",
+      "latitude": 51.537898,
+      "longitude": 3.926455,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 159,
+      "name": "Gemaal Gorzeman",
+      "latitude": 51.823668,
+      "longitude": 4.134492,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 160,
+      "name": "Gemaal Groenendaal",
+      "latitude": 51.737687,
+      "longitude": 5.204807,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 161,
+      "name": "Gemaal Groenewege",
+      "latitude": 51.425811,
+      "longitude": 3.915923,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 162,
+      "name": "Gemaal Grootdammerpolder",
+      "latitude": 52.719629,
+      "longitude": 4.704379,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 163,
+      "name": "Gemaal H.D. Louwes",
+      "latitude": 53.342501,
+      "longitude": 6.305562,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 164,
+      "name": "Gemaal H.J. Ankersmit",
+      "latitude": 52.245615,
+      "longitude": 6.168787,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 165,
+      "name": "Gemaal HWVZ Diemerbroek Oost",
+      "latitude": 52.059308,
+      "longitude": 4.871657,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 166,
+      "name": "Gemaal HWVZ Diemerbroek West",
+      "latitude": 52.058839,
+      "longitude": 4.870499,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 167,
+      "name": "Gemaal Haarrijn",
+      "latitude": 52.146437,
+      "longitude": 5.013816,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 168,
+      "name": "Gemaal Hagoort",
+      "latitude": 51.7142,
+      "longitude": 5.012364,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 169,
+      "name": "Gemaal Hanepraai",
+      "latitude": 52.007264,
+      "longitude": 4.716004,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 170,
+      "name": "Gemaal Hellewoud",
+      "latitude": 51.386878,
+      "longitude": 3.817766,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 171,
+      "name": "Gemaal Heumen",
+      "latitude": 51.767966,
+      "longitude": 5.850912,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 172,
+      "name": "Gemaal Hilversumse Ondermeent",
+      "latitude": 52.274663,
+      "longitude": 5.123923,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 173,
+      "name": "Gemaal Hippolytushoef",
+      "latitude": 52.895732,
+      "longitude": 4.9798,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 174,
+      "name": "Gemaal Hitland",
+      "latitude": 51.935398,
+      "longitude": 4.618001,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 175,
+      "name": "Gemaal Hoekpolder",
+      "latitude": 52.018269,
+      "longitude": 4.315535,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 176,
+      "name": "Gemaal Hoeksedijk",
+      "latitude": 51.794485,
+      "longitude": 4.563988,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 177,
+      "name": "Gemaal Hoenwaard",
+      "latitude": 52.463276,
+      "longitude": 6.08733,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 178,
+      "name": "Gemaal Hogerwaard",
+      "latitude": 51.432463,
+      "longitude": 4.238056,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 179,
+      "name": "Gemaal Homolenpolder",
+      "latitude": 52.977825,
+      "longitude": 5.450803,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 180,
+      "name": "Gemaal Hondsbroekse Pleij",
+      "latitude": 51.961827,
+      "longitude": 5.956967,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 181,
+      "name": "Gemaal Honswijk",
+      "latitude": 52.317027,
+      "longitude": 5.061247,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 182,
+      "name": "Gemaal Horn en Kuyer",
+      "latitude": 52.271679,
+      "longitude": 5.031353,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 183,
+      "name": "Gemaal Horstermeer",
+      "latitude": 52.248319,
+      "longitude": 5.054471,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 184,
+      "name": "Gemaal Hovendaal",
+      "latitude": 51.883077,
+      "longitude": 4.521061,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 185,
+      "name": "Gemaal Ijsvogel",
+      "latitude": 52.683471,
+      "longitude": 5.678437,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 186,
+      "name": "Gemaal Ir. J.M. Leemhuis Stout",
+      "latitude": 51.981923,
+      "longitude": 4.551862,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 187,
+      "name": "Gemaal J.A. van der Graaf",
+      "latitude": 51.434506,
+      "longitude": 4.194648,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 188,
+      "name": "Gemaal J.C. de Leeuw",
+      "latitude": 52.883033,
+      "longitude": 4.869496,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 189,
+      "name": "Gemaal Jacoba",
+      "latitude": 51.563615,
+      "longitude": 3.695124,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 190,
+      "name": "Gemaal Jasonweg",
+      "latitude": 51.965022,
+      "longitude": 4.485742,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 191,
+      "name": "Gemaal Jisperveldstraat",
+      "latitude": 52.401012,
+      "longitude": 4.951546,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 192,
+      "name": "Gemaal Joh. Glerum",
+      "latitude": 51.433775,
+      "longitude": 4.03514,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 193,
+      "name": "Gemaal Johannes Vis",
+      "latitude": 51.756248,
+      "longitude": 4.686543,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 194,
+      "name": "Gemaal K. Breebaart Jzn",
+      "latitude": 52.790452,
+      "longitude": 4.909879,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 195,
+      "name": "Gemaal Kaagpolder",
+      "latitude": 52.79743,
+      "longitude": 4.874346,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 196,
+      "name": "Gemaal Kadoelen",
+      "latitude": 52.408732,
+      "longitude": 4.909244,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 197,
+      "name": "Gemaal Katwijk",
+      "latitude": 52.210461,
+      "longitude": 4.400922,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 198,
+      "name": "Gemaal Keijzershof",
+      "latitude": 52.005742,
+      "longitude": 4.432089,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 199,
+      "name": "Gemaal Keizersdijk",
+      "latitude": 51.76706,
+      "longitude": 4.546894,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 200,
+      "name": "Gemaal Keizersveer",
+      "latitude": 51.711576,
+      "longitude": 4.905036,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 201,
+      "name": "Gemaal Kilhaven",
+      "latitude": 51.79425,
+      "longitude": 3.888698,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 202,
+      "name": "Gemaal Kleverskerke",
+      "latitude": 51.542362,
+      "longitude": 3.668757,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 203,
+      "name": "Gemaal Kloosterweg",
+      "latitude": 51.760387,
+      "longitude": 4.480512,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 204,
+      "name": "Gemaal Koert",
+      "latitude": 51.756495,
+      "longitude": 4.216214,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 205,
+      "name": "Gemaal Kolhorn",
+      "latitude": 52.797286,
+      "longitude": 4.880072,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 206,
+      "name": "Gemaal Koning Willem I",
+      "latitude": 52.346589,
+      "longitude": 4.66504,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 207,
+      "name": "Gemaal Kortenhoef",
+      "latitude": 52.242831,
+      "longitude": 5.046585,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 208,
+      "name": "Gemaal Krassekeet",
+      "latitude": 53.099966,
+      "longitude": 4.897313,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 209,
+      "name": "Gemaal Kreekkade",
+      "latitude": 51.895579,
+      "longitude": 4.539593,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 210,
+      "name": "Gemaal Kreekrak",
+      "latitude": 51.435118,
+      "longitude": 4.237169,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 211,
+      "name": "Gemaal Krimpenerwaard",
+      "latitude": 51.907741,
+      "longitude": 4.743564,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 212,
+      "name": "Gemaal Kuipersveer",
+      "latitude": 51.822865,
+      "longitude": 4.553355,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 213,
+      "name": "Gemaal LQ",
+      "latitude": 52.745944,
+      "longitude": 4.683261,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 214,
+      "name": "Gemaal Laaksche Vaart",
+      "latitude": 51.62434,
+      "longitude": 4.601897,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 215,
+      "name": "Gemaal Lageland",
+      "latitude": 53.235623,
+      "longitude": 6.700323,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 216,
+      "name": "Gemaal Lageweg",
+      "latitude": 51.639076,
+      "longitude": 4.152697,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 217,
+      "name": "Gemaal Lakerveld",
+      "latitude": 51.933919,
+      "longitude": 5.034876,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 218,
+      "name": "Gemaal Lange Weide",
+      "latitude": 52.041848,
+      "longitude": 4.782908,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 219,
+      "name": "Gemaal Leemans",
+      "latitude": 52.921108,
+      "longitude": 5.038546,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 220,
+      "name": "Gemaal Leemsloot",
+      "latitude": 52.888394,
+      "longitude": 6.55908,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 221,
+      "name": "Gemaal Leenders",
+      "latitude": 52.690615,
+      "longitude": 6.154066,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 222,
+      "name": "Gemaal Leeuw van Putten",
+      "latitude": 51.852862,
+      "longitude": 4.329807,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 223,
+      "name": "Gemaal Leidingstraat",
+      "latitude": 51.850129,
+      "longitude": 4.469825,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 224,
+      "name": "Gemaal Lely",
+      "latitude": 52.776323,
+      "longitude": 5.103406,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 225,
+      "name": "Gemaal Lepelaarsingel",
+      "latitude": 51.920133,
+      "longitude": 4.630804,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 226,
+      "name": "Gemaal Leursche Haven",
+      "latitude": 51.623772,
+      "longitude": 4.622185,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 227,
+      "name": "Gemaal Lindegracht",
+      "latitude": 52.228772,
+      "longitude": 5.034598,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 228,
+      "name": "Gemaal Lindepolder",
+      "latitude": 52.864122,
+      "longitude": 6.025213,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 229,
+      "name": "Gemaal Loohoek",
+      "latitude": 51.524927,
+      "longitude": 4.137567,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 230,
+      "name": "Gemaal Loosdrecht",
+      "latitude": 52.201894,
+      "longitude": 5.02155,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 231,
+      "name": "Gemaal Lovenpolder",
+      "latitude": 51.328836,
+      "longitude": 3.756329,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 232,
+      "name": "Gemaal Lovink",
+      "latitude": 52.371127,
+      "longitude": 5.615066,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 233,
+      "name": "Gemaal Lutkemeerweg",
+      "latitude": 52.354956,
+      "longitude": 4.761255,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 234,
+      "name": "Gemaal Maarssenbroek",
+      "latitude": 52.144659,
+      "longitude": 5.01659,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 235,
+      "name": "Gemaal Maasbracht",
+      "latitude": 51.141976,
+      "longitude": 5.880385,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 236,
+      "name": "Gemaal Maasdijk",
+      "latitude": 51.792935,
+      "longitude": 4.474397,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 237,
+      "name": "Gemaal Maelstede",
+      "latitude": 51.452005,
+      "longitude": 3.923817,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 238,
+      "name": "Gemaal Meijepolder",
+      "latitude": 52.087472,
+      "longitude": 4.786247,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 239,
+      "name": "Gemaal Middelbeek",
+      "latitude": 52.180685,
+      "longitude": 6.164611,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 240,
+      "name": "Gemaal Middelkoop",
+      "latitude": 51.932932,
+      "longitude": 5.035512,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 241,
+      "name": "Gemaal Miedema",
+      "latitude": 53.309165,
+      "longitude": 5.625834,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 242,
+      "name": "Gemaal Mijnsherenweg",
+      "latitude": 52.752349,
+      "longitude": 5.045929,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 243,
+      "name": "Gemaal Molendijk Puttershoek",
+      "latitude": 51.802053,
+      "longitude": 4.575443,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 244,
+      "name": "Gemaal Molengoot",
+      "latitude": 52.572578,
+      "longitude": 6.609925,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 245,
+      "name": "Gemaal Monnickendam",
+      "latitude": 52.465752,
+      "longitude": 5.032211,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 246,
+      "name": "Gemaal Mr. Dr. C.P. Zaayer",
+      "latitude": 51.914237,
+      "longitude": 4.258683,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 247,
+      "name": "Gemaal Mr. G.A.J. v Engelen vd Veen",
+      "latitude": 52.522383,
+      "longitude": 5.892195,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 248,
+      "name": "Gemaal Mr. U.G. Schilthuis",
+      "latitude": 51.924209,
+      "longitude": 4.497323,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 249,
+      "name": "Gemaal Mr. V.M. Vennix",
+      "latitude": 52.966878,
+      "longitude": 7.006739,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 250,
+      "name": "Gemaal Nico Broekhuysen",
+      "latitude": 52.376297,
+      "longitude": 4.789021,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 251,
+      "name": "Gemaal Nieuw Kruisland",
+      "latitude": 53.298891,
+      "longitude": 6.244193,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 252,
+      "name": "Gemaal Nieuw-Kraaijer",
+      "latitude": 51.767553,
+      "longitude": 4.105562,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 253,
+      "name": "Gemaal Nieuwe Gouw",
+      "latitude": 52.393236,
+      "longitude": 4.984935,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 254,
+      "name": "Gemaal Nieuwe Robbengat",
+      "latitude": 53.391322,
+      "longitude": 6.237517,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 255,
+      "name": "Gemaal Nieuwe Sluis",
+      "latitude": 51.404632,
+      "longitude": 3.504968,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 256,
+      "name": "Gemaal Noordpolder",
+      "latitude": 52.006786,
+      "longitude": 4.484174,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 257,
+      "name": "Gemaal Nootdorp",
+      "latitude": 52.022747,
+      "longitude": 4.369074,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 258,
+      "name": "Gemaal Nummer Een",
+      "latitude": 51.384588,
+      "longitude": 3.599505,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 259,
+      "name": "Gemaal Offerhaus",
+      "latitude": 53.135343,
+      "longitude": 5.953435,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 260,
+      "name": "Gemaal Onnerpolder",
+      "latitude": 53.166517,
+      "longitude": 6.670896,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 261,
+      "name": "Gemaal Oosterland",
+      "latitude": 51.545866,
+      "longitude": 3.817139,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 262,
+      "name": "Gemaal Oostermoer",
+      "latitude": 53.107022,
+      "longitude": 6.704789,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 263,
+      "name": "Gemaal Oostgaarde",
+      "latitude": 51.933567,
+      "longitude": 4.617642,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 264,
+      "name": "Gemaal Oostmolen",
+      "latitude": 51.802593,
+      "longitude": 4.528922,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 265,
+      "name": "Gemaal Oostvlietpolder",
+      "latitude": 52.134822,
+      "longitude": 4.480295,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 266,
+      "name": "Gemaal Oostwatering",
+      "latitude": 51.5424,
+      "longitude": 3.666171,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 267,
+      "name": "Gemaal Othene",
+      "latitude": 51.335225,
+      "longitude": 3.857312,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 268,
+      "name": "Gemaal Oud-Heinenoord",
+      "latitude": 51.825962,
+      "longitude": 4.472837,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 269,
+      "name": "Gemaal Oud-Kamerik",
+      "latitude": 52.140979,
+      "longitude": 4.871785,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 270,
+      "name": "Gemaal Oude Meije",
+      "latitude": 52.137944,
+      "longitude": 4.834793,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 271,
+      "name": "Gemaal Oude en Nieuwe Broekpolder",
+      "latitude": 51.999953,
+      "longitude": 4.274217,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 272,
+      "name": "Gemaal Oude polder van Pijnacker",
+      "latitude": 52.016673,
+      "longitude": 4.421985,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 273,
+      "name": "Gemaal Oudendijk",
+      "latitude": 51.775907,
+      "longitude": 4.488169,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 274,
+      "name": "Gemaal Oudenhoorn",
+      "latitude": 51.816661,
+      "longitude": 4.168524,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 275,
+      "name": "Gemaal P.J.J. Dekker",
+      "latitude": 51.527452,
+      "longitude": 3.969158,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 276,
+      "name": "Gemaal Paardeweide",
+      "latitude": 52.731448,
+      "longitude": 6.201538,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 277,
+      "name": "Gemaal Pabstendam",
+      "latitude": 51.961274,
+      "longitude": 5.659396,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 278,
+      "name": "Gemaal Palenstein",
+      "latitude": 52.087814,
+      "longitude": 4.514507,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 279,
+      "name": "Gemaal Panheel",
+      "latitude": 51.174845,
+      "longitude": 5.863385,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 280,
+      "name": "Gemaal Pardeel",
+      "latitude": 53.28655,
+      "longitude": 6.17519,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 281,
+      "name": "Gemaal Pelikaan",
+      "latitude": 52.026088,
+      "longitude": 5.231959,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 282,
+      "name": "Gemaal Philippinekanaal",
+      "latitude": 51.307025,
+      "longitude": 3.736255,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 283,
+      "name": "Gemaal Piet Oberman",
+      "latitude": 52.667892,
+      "longitude": 5.680367,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 284,
+      "name": "Gemaal Pieter Engel",
+      "latitude": 52.485931,
+      "longitude": 4.770543,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 285,
+      "name": "Gemaal Plaspoel- en Schaapweipolder",
+      "latitude": 52.035585,
+      "longitude": 4.344971,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 286,
+      "name": "Gemaal Polder Oudshoorn-Zuid",
+      "latitude": 52.14374,
+      "longitude": 4.700019,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 287,
+      "name": "Gemaal Poppekinderen",
+      "latitude": 51.512073,
+      "longitude": 3.647289,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 288,
+      "name": "Gemaal Portengen",
+      "latitude": 52.338395,
+      "longitude": 4.950142,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 289,
+      "name": "Gemaal Pouwel Bakhuis",
+      "latitude": 52.437756,
+      "longitude": 6.090155,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 290,
+      "name": "Gemaal Prins Hendrik",
+      "latitude": 53.017909,
+      "longitude": 4.803582,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 291,
+      "name": "Gemaal Prinsenheuvel",
+      "latitude": 51.753683,
+      "longitude": 4.666629,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 292,
+      "name": "Gemaal Prinses Marijke sluis",
+      "latitude": 51.955238,
+      "longitude": 5.356393,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 293,
+      "name": "Gemaal Prommelsluis",
+      "latitude": 51.675561,
+      "longitude": 3.864441,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 294,
+      "name": "Gemaal Quarles",
+      "latitude": 51.473599,
+      "longitude": 3.723121,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 295,
+      "name": "Gemaal R",
+      "latitude": 52.75842,
+      "longitude": 4.667364,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 296,
+      "name": "Gemaal Ridderveld en De Bijlen",
+      "latitude": 52.143738,
+      "longitude": 4.695807,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 297,
+      "name": "Gemaal Rijk",
+      "latitude": 52.297164,
+      "longitude": 4.733705,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 298,
+      "name": "Gemaal Rodervaart",
+      "latitude": 53.164209,
+      "longitude": 6.440863,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 299,
+      "name": "Gemaal Rozema",
+      "latitude": 53.30184,
+      "longitude": 7.038235,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 300,
+      "name": "Gemaal Ruigenhoek",
+      "latitude": 52.127556,
+      "longitude": 5.130598,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 301,
+      "name": "Gemaal Sans Souci",
+      "latitude": 53.262815,
+      "longitude": 6.795885,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 302,
+      "name": "Gemaal Schaphalsterzijl",
+      "latitude": 53.328855,
+      "longitude": 6.464136,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 303,
+      "name": "Gemaal Scheveningen",
+      "latitude": 52.094169,
+      "longitude": 4.263935,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 304,
+      "name": "Gemaal Schore",
+      "latitude": 51.454359,
+      "longitude": 3.988179,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 305,
+      "name": "Gemaal Sint Bernarduspolder",
+      "latitude": 52.389416,
+      "longitude": 4.940168,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 306,
+      "name": "Gemaal Smeenge",
+      "latitude": 52.668893,
+      "longitude": 5.930263,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 307,
+      "name": "Gemaal Spiegelpolder",
+      "latitude": 52.279884,
+      "longitude": 5.063332,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 308,
+      "name": "Gemaal Stad & Lande",
+      "latitude": 53.250458,
+      "longitude": 6.580576,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 309,
+      "name": "Gemaal Stadwijck",
+      "latitude": 52.335751,
+      "longitude": 4.905406,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 310,
+      "name": "Gemaal Stellendam",
+      "latitude": 51.804732,
+      "longitude": 4.030107,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 311,
+      "name": "Gemaal Stellingenweg",
+      "latitude": 52.881311,
+      "longitude": 6.027599,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 312,
+      "name": "Gemaal Steven Rippen",
+      "latitude": 52.71538,
+      "longitude": 5.657266,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 313,
+      "name": "Gemaal Stougjesdijk",
+      "latitude": 51.816965,
+      "longitude": 4.439466,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 314,
+      "name": "Gemaal Streukelerzijl",
+      "latitude": 52.581887,
+      "longitude": 6.112748,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 315,
+      "name": "Gemaal Ter Hunnepe",
+      "latitude": 52.237167,
+      "longitude": 6.203999,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 316,
+      "name": "Gemaal Ter Idzard",
+      "latitude": 52.91588,
+      "longitude": 6.033643,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 317,
+      "name": "Gemaal Terwijde",
+      "latitude": 52.101788,
+      "longitude": 5.060789,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 318,
+      "name": "Gemaal Teylingens",
+      "latitude": 52.099211,
+      "longitude": 4.894071,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 319,
+      "name": "Gemaal Tilhouten",
+      "latitude": 53.291123,
+      "longitude": 6.158182,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 320,
+      "name": "Gemaal Tjongerpad Oost",
+      "latitude": 52.931004,
+      "longitude": 5.993996,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 321,
+      "name": "Gemaal Toegang",
+      "latitude": 52.137284,
+      "longitude": 4.862748,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 322,
+      "name": "Gemaal Trambaan",
+      "latitude": 51.78241,
+      "longitude": 4.557881,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 323,
+      "name": "Gemaal Trouw",
+      "latitude": 51.850405,
+      "longitude": 4.185002,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 324,
+      "name": "Gemaal Tweede Blok",
+      "latitude": 52.032142,
+      "longitude": 4.637586,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 325,
+      "name": "Gemaal Tydeman",
+      "latitude": 52.231429,
+      "longitude": 5.306045,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 326,
+      "name": "Gemaal Usquert",
+      "latitude": 53.3837,
+      "longitude": 6.593176,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 327,
+      "name": "Gemaal Veendam",
+      "latitude": 53.08532,
+      "longitude": 6.899997,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 328,
+      "name": "Gemaal Veendijk",
+      "latitude": 52.731456,
+      "longitude": 6.201587,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 329,
+      "name": "Gemaal Veluwe",
+      "latitude": 52.437959,
+      "longitude": 6.089025,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 330,
+      "name": "Gemaal Verdoold",
+      "latitude": 51.98365,
+      "longitude": 4.672672,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 331,
+      "name": "Gemaal Vier Noorder Koggen",
+      "latitude": 52.739279,
+      "longitude": 5.14688,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 332,
+      "name": "Gemaal Vissering",
+      "latitude": 52.657315,
+      "longitude": 5.603405,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 333,
+      "name": "Gemaal Vlotwatering",
+      "latitude": 52.025837,
+      "longitude": 4.163572,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 334,
+      "name": "Gemaal Vogelenzang",
+      "latitude": 51.594367,
+      "longitude": 5.582163,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 335,
+      "name": "Gemaal Voorafsche polder",
+      "latitude": 52.016614,
+      "longitude": 4.471049,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 336,
+      "name": "Gemaal Voorburg",
+      "latitude": 52.229465,
+      "longitude": 5.008509,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 337,
+      "name": "Gemaal Voordijkhoornse polder",
+      "latitude": 52.004683,
+      "longitude": 4.339353,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 338,
+      "name": "Gemaal Voorweg",
+      "latitude": 51.765844,
+      "longitude": 4.527306,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 339,
+      "name": "Gemaal Vuylcop West",
+      "latitude": 52.02499,
+      "longitude": 5.129074,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 340,
+      "name": "Gemaal Waalblok",
+      "latitude": 52.007493,
+      "longitude": 4.158054,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 341,
+      "name": "Gemaal Waardassacker",
+      "latitude": 52.27798,
+      "longitude": 4.952007,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 342,
+      "name": "Gemaal Waardsedijk",
+      "latitude": 52.027743,
+      "longitude": 4.898373,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 343,
+      "name": "Gemaal Waleweg Buisleidingenstraat",
+      "latitude": 51.748148,
+      "longitude": 4.519831,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 344,
+      "name": "Gemaal Weegje",
+      "latitude": 51.850721,
+      "longitude": 4.478082,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 345,
+      "name": "Gemaal Westdijk",
+      "latitude": 52.267016,
+      "longitude": 5.357626,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 346,
+      "name": "Gemaal Westelijke Rijkswaterleiding",
+      "latitude": 51.331307,
+      "longitude": 3.812019,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 347,
+      "name": "Gemaal Westerveld",
+      "latitude": 52.546471,
+      "longitude": 6.09075,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 348,
+      "name": "Gemaal Westland",
+      "latitude": 51.954233,
+      "longitude": 4.173835,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 349,
+      "name": "Gemaal Westmolen",
+      "latitude": 51.794549,
+      "longitude": 4.482607,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 350,
+      "name": "Gemaal Wetering",
+      "latitude": 52.689729,
+      "longitude": 6.242977,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 351,
+      "name": "Gemaal Wilgenrijk",
+      "latitude": 51.931513,
+      "longitude": 4.241794,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 352,
+      "name": "Gemaal Wilhelmina",
+      "latitude": 51.537971,
+      "longitude": 3.860334,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 353,
+      "name": "Gemaal Willem",
+      "latitude": 51.555209,
+      "longitude": 3.766286,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 354,
+      "name": "Gemaal Wold en Weer",
+      "latitude": 53.280269,
+      "longitude": 6.88653,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 355,
+      "name": "Gemaal Wortman",
+      "latitude": 52.503184,
+      "longitude": 5.420389,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 356,
+      "name": "Gemaal Woudbloem",
+      "latitude": 53.21429,
+      "longitude": 6.741961,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 357,
+      "name": "Gemaal Woudse Polder",
+      "latitude": 52.006063,
+      "longitude": 4.3124,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 358,
+      "name": "Gemaal Zeeburg",
+      "latitude": 52.367016,
+      "longitude": 4.952937,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 359,
+      "name": "Gemaal Zonnemaire",
+      "latitude": 51.715883,
+      "longitude": 3.968433,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 360,
+      "name": "Gemaal Zoute Polder",
+      "latitude": 51.336105,
+      "longitude": 3.686193,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 361,
+      "name": "Gemaal Zuiderdiep",
+      "latitude": 51.803748,
+      "longitude": 4.090833,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 362,
+      "name": "Gemaal Zuiderdiep",
+      "latitude": 51.82628,
+      "longitude": 4.028395,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 363,
+      "name": "Gemaal Zuidhoek",
+      "latitude": 51.645299,
+      "longitude": 3.917756,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 364,
+      "name": "Gemaal Zuidhof",
+      "latitude": 51.418711,
+      "longitude": 4.219079,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 365,
+      "name": "Gemaal Zuidwatering",
+      "latitude": 51.443244,
+      "longitude": 3.617603,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 366,
+      "name": "Gemaal Zuidzijderpolder",
+      "latitude": 52.069373,
+      "longitude": 4.784833,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 367,
+      "name": "Gemaal de Blikken",
+      "latitude": 53.30598,
+      "longitude": 6.195273,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 368,
+      "name": "Gemaal de Valle",
+      "latitude": 51.601495,
+      "longitude": 3.842261,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 369,
+      "name": "Gemaal de Volharding",
+      "latitude": 51.717083,
+      "longitude": 4.58957,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 370,
+      "name": "Gemaal de Wilde Venen",
+      "latitude": 52.045585,
+      "longitude": 4.562962,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 371,
+      "name": "Gemaal ir. J.J de Graaf",
+      "latitude": 52.030316,
+      "longitude": 4.559787,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 372,
+      "name": "Gemaal ir. Sjerp Sipkema",
+      "latitude": 53.167731,
+      "longitude": 6.403604,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 373,
+      "name": "Gemaal mr. L.A.S.J. baron van der Feltz",
+      "latitude": 52.180626,
+      "longitude": 6.16351,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 374,
+      "name": "Gemaal van Borssele",
+      "latitude": 51.412078,
+      "longitude": 3.736749,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 375,
+      "name": "Gemaal van Hooipolder",
+      "latitude": 51.99797,
+      "longitude": 4.328627,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 376,
+      "name": "Gemaal van de Duifpolder",
+      "latitude": 51.953118,
+      "longitude": 4.316742,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 377,
+      "name": "Gemaal van de Harnaschpolder",
+      "latitude": 52.006651,
+      "longitude": 4.312689,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 378,
+      "name": "Gemaal van de Kerkpolder",
+      "latitude": 51.980327,
+      "longitude": 4.317645,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 379,
+      "name": "Gemaal van de Lage Broekpolder",
+      "latitude": 52.025807,
+      "longitude": 4.355151,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 380,
+      "name": "Gemaal van de Noordpolder van Delfgauw",
+      "latitude": 52.010455,
+      "longitude": 4.397769,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 381,
+      "name": "Gemaal van de Woudse Droogmakerij",
+      "latitude": 52.010725,
+      "longitude": 4.308046,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 382,
+      "name": "Gemaal van de Zuidpolder van Delfgauw",
+      "latitude": 51.995562,
+      "longitude": 4.371795,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 383,
+      "name": "Graafstra",
+      "latitude": 52.916775,
+      "longitude": 6.357238,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 384,
+      "name": "Halle",
+      "latitude": 51.630869,
+      "longitude": 4.664805,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 385,
+      "name": "Hellingwijk",
+      "latitude": 52.934531,
+      "longitude": 6.432275,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 386,
+      "name": "Hevel Oostendam",
+      "latitude": 51.855198,
+      "longitude": 4.645918,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 387,
+      "name": "Hoofdgemaal Wippolder",
+      "latitude": 52.030106,
+      "longitude": 4.298074,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 388,
+      "name": "Hoofdgemaal van de Nieuwe of Drooggemaakte Polder van Pijnacker",
+      "latitude": 52.018529,
+      "longitude": 4.420597,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 389,
+      "name": "Hooge Hof",
+      "latitude": 51.748871,
+      "longitude": 4.740204,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 390,
+      "name": "Houtrak-gemaal",
+      "latitude": 52.429651,
+      "longitude": 4.739564,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 391,
+      "name": "Hulpbemaling Maasdamseweg",
+      "latitude": 51.784084,
+      "longitude": 4.574177,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 392,
+      "name": "Ingenieur G.N. Kok / Overwaard gemaal",
+      "latitude": 51.888602,
+      "longitude": 4.638166,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 393,
+      "name": "Innamepompstation Bergsche Maas",
+      "latitude": 51.717648,
+      "longitude": 4.848736,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 394,
+      "name": "Ir M.A. Brinkman Visser Gemaal",
+      "latitude": 51.972411,
+      "longitude": 5.895923,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 395,
+      "name": "Isabellagemaal",
+      "latitude": 51.271637,
+      "longitude": 3.712131,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 396,
+      "name": "J.L. Hooglandgemaal",
+      "latitude": 52.878075,
+      "longitude": 5.36436,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 397,
+      "name": "J.S. Gerbrandy-gemaal",
+      "latitude": 53.045204,
+      "longitude": 5.740541,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 398,
+      "name": "J.U. Smit / Nederwaard gemaal",
+      "latitude": 51.888331,
+      "longitude": 4.636854,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 399,
+      "name": "Kandia Gemaal",
+      "latitude": 51.913537,
+      "longitude": 5.997953,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 400,
+      "name": "Kostverlorenzijl",
+      "latitude": 52.637348,
+      "longitude": 6.081214,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 401,
+      "name": "La Cabine",
+      "latitude": 52.008815,
+      "longitude": 5.841246,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 402,
+      "name": "Laag Helbergen",
+      "latitude": 52.114868,
+      "longitude": 6.184177,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 403,
+      "name": "Leemdijk",
+      "latitude": 52.937826,
+      "longitude": 6.398045,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 404,
+      "name": "Linge-gemaal Mr. G.J.H. Kuijk",
+      "latitude": 51.949353,
+      "longitude": 5.672633,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 405,
+      "name": "Maasdam Hoeksedijk",
+      "latitude": 51.788967,
+      "longitude": 4.557217,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 406,
+      "name": "Mr. Dr. G. Kolffgemaal",
+      "latitude": 51.821183,
+      "longitude": 4.858532,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 407,
+      "name": "Nieuw gemaal Eefde",
+      "latitude": 52.159853,
+      "longitude": 6.233959,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 408,
+      "name": "Noordergemaal",
+      "latitude": 53.101845,
+      "longitude": 5.982362,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 409,
+      "name": "OG De Heul/AS De Heul",
+      "latitude": 52.214818,
+      "longitude": 5.014728,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 410,
+      "name": "Oasen Drinkwaterleidingbedrijf",
+      "latitude": 51.821139,
+      "longitude": 4.661323,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 411,
+      "name": "Obdam 1972",
+      "latitude": 52.672908,
+      "longitude": 4.874136,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 412,
+      "name": "Oostersluisgemaal",
+      "latitude": 53.227969,
+      "longitude": 6.591967,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 413,
+      "name": "Oostpolder",
+      "latitude": 53.128278,
+      "longitude": 6.671891,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 414,
+      "name": "Opbemaling Marktplein",
+      "latitude": 51.827231,
+      "longitude": 4.411549,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 415,
+      "name": "Opvoergemaal Ajaxpad",
+      "latitude": 52.346796,
+      "longitude": 4.960605,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 416,
+      "name": "Opvoergemaal Stichtsch Ankeveen",
+      "latitude": 52.265329,
+      "longitude": 5.068128,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 417,
+      "name": "Oud gemaal Eefde",
+      "latitude": 52.159497,
+      "longitude": 6.234059,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 418,
+      "name": "Oud-Nieuw Reijerwaard",
+      "latitude": 51.89858,
+      "longitude": 4.580953,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 419,
+      "name": "Oude Secretarie",
+      "latitude": 52.282078,
+      "longitude": 4.668783,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 420,
+      "name": "Pannerling",
+      "latitude": 51.894968,
+      "longitude": 6.021555,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 421,
+      "name": "Pax",
+      "latitude": 52.30081,
+      "longitude": 4.684977,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 422,
+      "name": "Polder gemaal Haarlemmerweg",
+      "latitude": 52.38577,
+      "longitude": 4.864494,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 423,
+      "name": "Poldergemaal Breukelen Noord",
+      "latitude": 52.185479,
+      "longitude": 4.9966,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 424,
+      "name": "Poldergemaal Derde Bedijking",
+      "latitude": 52.185129,
+      "longitude": 4.842084,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 425,
+      "name": "Poldergemaal Dooijersluis",
+      "latitude": 52.168253,
+      "longitude": 4.929431,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 426,
+      "name": "Poldergemaal Dwarswijk",
+      "latitude": 52.169511,
+      "longitude": 5.092235,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 427,
+      "name": "Poldergemaal Floris Versterlaan",
+      "latitude": 52.171533,
+      "longitude": 4.491901,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 428,
+      "name": "Poldergemaal Groot- en Klein Duivendrechtse Polder",
+      "latitude": 52.312246,
+      "longitude": 4.906106,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 429,
+      "name": "Poldergemaal Holendrechter- en Bullewijkerpolder",
+      "latitude": 52.281954,
+      "longitude": 4.927355,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 430,
+      "name": "Poldergemaal Kerstanjewetering",
+      "latitude": 52.016383,
+      "longitude": 4.334978,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 431,
+      "name": "Poldergemaal Mijnden",
+      "latitude": 52.196139,
+      "longitude": 5.014948,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 432,
+      "name": "Poldergemaal Nauerna",
+      "latitude": 52.44024,
+      "longitude": 4.74949,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 433,
+      "name": "Poldergemaal Noordse Buurt",
+      "latitude": 52.175933,
+      "longitude": 4.860689,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 434,
+      "name": "Poldergemaal Starrevaart",
+      "latitude": 52.089613,
+      "longitude": 4.409668,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 435,
+      "name": "Poldergemaal Vijfbruggenpad",
+      "latitude": 52.181169,
+      "longitude": 4.777042,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 436,
+      "name": "Poldergemaal Voorhof",
+      "latitude": 51.991002,
+      "longitude": 4.364115,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 437,
+      "name": "Poldergemaal de Oostvlietpolder",
+      "latitude": 52.136169,
+      "longitude": 4.47892,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 438,
+      "name": "Poldermolen Oostmolen",
+      "latitude": 51.802638,
+      "longitude": 4.528858,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 439,
+      "name": "Pomp Haveloozeweg",
+      "latitude": 51.742309,
+      "longitude": 4.108444,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 440,
+      "name": "Pomp Kerkring",
+      "latitude": 51.746027,
+      "longitude": 4.103272,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 441,
+      "name": "Pomp Korteweegje",
+      "latitude": 51.748984,
+      "longitude": 4.117181,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 442,
+      "name": "Pomp Krommepad",
+      "latitude": 51.751282,
+      "longitude": 4.099154,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 443,
+      "name": "Pomp Mozartsingel",
+      "latitude": 51.752747,
+      "longitude": 4.098698,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 444,
+      "name": "Pomp Scharrezeepolder",
+      "latitude": 51.803913,
+      "longitude": 4.031318,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 445,
+      "name": "Pomp Woutrina",
+      "latitude": 51.794118,
+      "longitude": 4.028332,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 446,
+      "name": "Pompgebouw Muiden",
+      "latitude": 52.331893,
+      "longitude": 5.054196,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 447,
+      "name": "Pomphuisje",
+      "latitude": 52.276627,
+      "longitude": 4.65223,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 448,
+      "name": "Pompje Oud Bonaventurasedijk",
+      "latitude": 51.7475,
+      "longitude": 4.557186,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 449,
+      "name": "Pompstation",
+      "latitude": 52.344078,
+      "longitude": 4.576835,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 450,
+      "name": "Pompstation Amstelveenseweg",
+      "latitude": 52.336032,
+      "longitude": 4.856288,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 451,
+      "name": "Pompstation Bremerberg",
+      "latitude": 52.418334,
+      "longitude": 5.726191,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 452,
+      "name": "Pompstation Bremerberg",
+      "latitude": 52.418548,
+      "longitude": 5.725487,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 453,
+      "name": "Pompstation Haarlemmerweg",
+      "latitude": 52.383694,
+      "longitude": 4.866782,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 454,
+      "name": "Pompstation Heer",
+      "latitude": 50.82999,
+      "longitude": 5.736092,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 455,
+      "name": "Pompstation Waterschap Scheldestromen",
+      "latitude": 51.496653,
+      "longitude": 4.036546,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 456,
+      "name": "Pompstation Waterschap Scheldestromen",
+      "latitude": 51.501426,
+      "longitude": 4.046151,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 457,
+      "name": "Productiebedrijf Vitens Archemerberg",
+      "latitude": 52.474978,
+      "longitude": 6.421507,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 458,
+      "name": "Productiebedrijf Vitens Archemerberg",
+      "latitude": 52.475394,
+      "longitude": 6.415639,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 459,
+      "name": "Prunje",
+      "latitude": 51.703276,
+      "longitude": 3.861872,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 460,
+      "name": "Ravensmeeren",
+      "latitude": 52.982174,
+      "longitude": 6.450186,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 461,
+      "name": "Ravenswoud",
+      "latitude": 52.957558,
+      "longitude": 6.400101,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 462,
+      "name": "Ravenswoud",
+      "latitude": 52.969091,
+      "longitude": 6.384469,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 463,
+      "name": "Rietvink",
+      "latitude": 52.084325,
+      "longitude": 4.403032,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 464,
+      "name": "Rioolgemaal",
+      "latitude": 52.707674,
+      "longitude": 5.099201,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 465,
+      "name": "Rioolgemaal",
+      "latitude": 53.22063,
+      "longitude": 6.582417,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 466,
+      "name": "Rioolgemaal Almere-Poort",
+      "latitude": 52.355018,
+      "longitude": 5.162829,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 467,
+      "name": "Rioolgemaal Berkel",
+      "latitude": 51.986049,
+      "longitude": 4.462017,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 468,
+      "name": "Rioolgemaal De Bosschen",
+      "latitude": 51.826804,
+      "longitude": 4.428874,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 469,
+      "name": "Rioolgemaal Drechtwaard",
+      "latitude": 51.835375,
+      "longitude": 4.536595,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 470,
+      "name": "Rioolgemaal Ell",
+      "latitude": 51.223059,
+      "longitude": 5.78355,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 471,
+      "name": "Rioolgemaal Emmahof",
+      "latitude": 51.96228,
+      "longitude": 4.613155,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 472,
+      "name": "Rioolgemaal Europaweg",
+      "latitude": 51.951303,
+      "longitude": 6.27504,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 473,
+      "name": "Rioolgemaal Goirle",
+      "latitude": 51.517367,
+      "longitude": 5.077688,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 474,
+      "name": "Rioolgemaal Grevenbicht",
+      "latitude": 51.043557,
+      "longitude": 5.770099,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 475,
+      "name": "Rioolgemaal Harense Broek",
+      "latitude": 51.802752,
+      "longitude": 5.558547,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 476,
+      "name": "Rioolgemaal Heeze Engelse Tuin",
+      "latitude": 51.393471,
+      "longitude": 5.581345,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 477,
+      "name": "Rioolgemaal Heinenoord",
+      "latitude": 51.828707,
+      "longitude": 4.47849,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 478,
+      "name": "Rioolgemaal Irenestraat",
+      "latitude": 51.822591,
+      "longitude": 4.419594,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 479,
+      "name": "Rioolgemaal Kerkdriel Paterstraat 6",
+      "latitude": 51.76669,
+      "longitude": 5.339678,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 480,
+      "name": "Rioolgemaal Laakwijk",
+      "latitude": 52.060474,
+      "longitude": 4.315604,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 481,
+      "name": "Rioolgemaal Mijlpolder",
+      "latitude": 51.792019,
+      "longitude": 4.616507,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 482,
+      "name": "Rioolgemaal Molendijk",
+      "latitude": 51.726597,
+      "longitude": 4.435012,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 483,
+      "name": "Rioolgemaal Naaldwijk Zuid",
+      "latitude": 51.986226,
+      "longitude": 4.207564,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 484,
+      "name": "Rioolgemaal Oosterse Gorzen",
+      "latitude": 51.827008,
+      "longitude": 4.426522,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 485,
+      "name": "Rioolgemaal P01",
+      "latitude": 51.874697,
+      "longitude": 4.601925,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 486,
+      "name": "Rioolgemaal Postjesweg",
+      "latitude": 52.363868,
+      "longitude": 4.834623,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 487,
+      "name": "Rioolgemaal Riel",
+      "latitude": 51.530031,
+      "longitude": 5.029283,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 488,
+      "name": "Rioolgemaal Schiestraat",
+      "latitude": 52.07764,
+      "longitude": 4.330803,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 489,
+      "name": "Rioolgemaal Schijdel",
+      "latitude": 51.62767,
+      "longitude": 5.440977,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 490,
+      "name": "Rioolgemaal Staelduinen",
+      "latitude": 51.966336,
+      "longitude": 4.190369,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 491,
+      "name": "Rioolgemaal Westersingel",
+      "latitude": 51.912142,
+      "longitude": 4.47631,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 492,
+      "name": "Rioolgemaal Westmaas",
+      "latitude": 51.792445,
+      "longitude": 4.473427,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 493,
+      "name": "Rioolgemaal Zijplaan",
+      "latitude": 51.738285,
+      "longitude": 4.436512,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 494,
+      "name": "Rioolgemaal Zuid Beijerland",
+      "latitude": 51.7481,
+      "longitude": 4.365544,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 495,
+      "name": "Rioolgemaal Zuiderparkweg",
+      "latitude": 51.884239,
+      "longitude": 4.488647,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 496,
+      "name": "Rioolgemaal Zuidplantsoen",
+      "latitude": 52.00452,
+      "longitude": 4.370864,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 497,
+      "name": "Rioolgemaal nr. 10",
+      "latitude": 51.925378,
+      "longitude": 4.495039,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 498,
+      "name": "Rioolgemaal nr. 12",
+      "latitude": 51.928312,
+      "longitude": 4.413694,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 499,
+      "name": "Rioolgemaal nr. 14",
+      "latitude": 51.987675,
+      "longitude": 4.131519,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 500,
+      "name": "Rioolgemaal nr. 15",
+      "latitude": 51.974092,
+      "longitude": 4.143652,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 501,
+      "name": "Rioolgemaal nr. 19 Zevenkamp",
+      "latitude": 51.961918,
+      "longitude": 4.574215,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 502,
+      "name": "Rioolgemaal nr. 21",
+      "latitude": 51.867475,
+      "longitude": 4.362474,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 503,
+      "name": "Rioolgemaal nr. 22",
+      "latitude": 51.860833,
+      "longitude": 4.355439,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 504,
+      "name": "Rioolgemaal nr. 3",
+      "latitude": 51.912921,
+      "longitude": 4.454942,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 505,
+      "name": "Rioolgemaal nr. 4",
+      "latitude": 51.918709,
+      "longitude": 4.423149,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 506,
+      "name": "Rioolgermaal Geervliet",
+      "latitude": 51.861609,
+      "longitude": 4.262716,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 507,
+      "name": "Rioolgermaal Heenvliet",
+      "latitude": 51.865762,
+      "longitude": 4.246647,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 508,
+      "name": "Rodervaart",
+      "latitude": 53.164194,
+      "longitude": 6.440858,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 509,
+      "name": "Roelof Booijswijk",
+      "latitude": 52.681489,
+      "longitude": 6.502395,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 510,
+      "name": "Ropta",
+      "latitude": 53.209366,
+      "longitude": 5.439426,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 511,
+      "name": "Schiegemaal",
+      "latitude": 51.904299,
+      "longitude": 4.399014,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 512,
+      "name": "Schuddebeurs",
+      "latitude": 51.714374,
+      "longitude": 4.674369,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 513,
+      "name": "Schöpfwerk",
+      "latitude": 53.228969,
+      "longitude": 7.213135,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 514,
+      "name": "Spuisluis \"Rozenburg\"",
+      "latitude": 51.935705,
+      "longitude": 4.107936,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 515,
+      "name": "Steenen Kamer",
+      "latitude": 51.691369,
+      "longitude": 5.35932,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 516,
+      "name": "Stoomgemaal",
+      "latitude": 52.693362,
+      "longitude": 4.919825,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 517,
+      "name": "Stoomgemaal Hertog Reijnout",
+      "latitude": 52.250669,
+      "longitude": 5.436959,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 518,
+      "name": "Stuw Daalmeer",
+      "latitude": 52.673764,
+      "longitude": 4.769065,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 519,
+      "name": "Stuw Essendijk",
+      "latitude": 51.847161,
+      "longitude": 4.485836,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 520,
+      "name": "Stuw Nieuweweg",
+      "latitude": 51.863765,
+      "longitude": 4.450249,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 521,
+      "name": "Stuw Weipoort",
+      "latitude": 52.069864,
+      "longitude": 4.791599,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 522,
+      "name": "Stuw Zilverling",
+      "latitude": 51.858688,
+      "longitude": 4.46136,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 523,
+      "name": "Sudergemaal",
+      "latitude": 53.056935,
+      "longitude": 5.973843,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 524,
+      "name": "Tichelwaark",
+      "latitude": 53.199794,
+      "longitude": 6.949128,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 525,
+      "name": "Tunnelgemaal Rhoonse Baan",
+      "latitude": 51.860129,
+      "longitude": 4.445721,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 526,
+      "name": "Vakgemaal Abessinië",
+      "latitude": 52.066001,
+      "longitude": 4.753285,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 527,
+      "name": "Vakgemaal De Leyens",
+      "latitude": 52.073468,
+      "longitude": 4.495731,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 528,
+      "name": "Vakgemaal Koolhoven",
+      "latitude": 52.283189,
+      "longitude": 4.757472,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 529,
+      "name": "Vakgemaal Polder Nieuwkoop ('t Haasje)",
+      "latitude": 52.176915,
+      "longitude": 4.769029,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 530,
+      "name": "Vakgemaal Roodenburg",
+      "latitude": 52.169702,
+      "longitude": 4.506811,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 531,
+      "name": "Vitens Buitenterp",
+      "latitude": 52.404693,
+      "longitude": 5.265624,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 532,
+      "name": "Vogelenzang",
+      "latitude": 51.76911,
+      "longitude": 4.836066,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 533,
+      "name": "W.H. Staring",
+      "latitude": 51.789821,
+      "longitude": 4.757261,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 534,
+      "name": "W165 Vuren",
+      "latitude": 51.827167,
+      "longitude": 5.049576,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 535,
+      "name": "Westerkogge",
+      "latitude": 52.624861,
+      "longitude": 5.014906,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 536,
+      "name": "Willem Jongsmagemaal",
+      "latitude": 52.848085,
+      "longitude": 5.923881,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 537,
+      "name": "Willem Snel",
+      "latitude": 52.60119,
+      "longitude": 6.663388,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 538,
+      "name": "Zaangemaal",
+      "latitude": 52.438988,
+      "longitude": 4.825841,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 539,
+      "name": "Zedemuden",
+      "latitude": 52.637806,
+      "longitude": 6.079671,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 540,
+      "name": "Zuid Bijlmer",
+      "latitude": 52.309952,
+      "longitude": 5.000915,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 541,
+      "name": "Zuidermaden",
+      "latitude": 53.166807,
+      "longitude": 6.475388,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 542,
+      "name": "Zuidplasweg",
+      "latitude": 51.979952,
+      "longitude": 4.630521,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 543,
+      "name": "Zuidpolder van Berkelgemaal",
+      "latitude": 51.972294,
+      "longitude": 4.450595,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 544,
+      "name": "Zwaanshoek",
+      "latitude": 52.302348,
+      "longitude": 4.628698,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 545,
+      "name": "de Sluis",
+      "latitude": 51.90732,
+      "longitude": 4.744283,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 546,
+      "name": "drukriolering",
+      "latitude": 51.527295,
+      "longitude": 5.043128,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 547,
+      "name": "gemaal Bijlmer Zandpad",
+      "latitude": 52.322493,
+      "longitude": 4.991581,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 548,
+      "name": "gemaal Buitenkaaik",
+      "latitude": 52.478498,
+      "longitude": 4.728769,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 549,
+      "name": "gemaal De Luyster",
+      "latitude": 51.613908,
+      "longitude": 4.143554,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 550,
+      "name": "gemaal De Ruiter",
+      "latitude": 52.220247,
+      "longitude": 4.973231,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 551,
+      "name": "gemaal Duiveland",
+      "latitude": 51.618604,
+      "longitude": 3.992104,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 552,
+      "name": "gemaal Galathee",
+      "latitude": 51.661862,
+      "longitude": 4.314344,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 553,
+      "name": "gemaal Holierhoekse en Zouteveense polder",
+      "latitude": 51.947169,
+      "longitude": 4.321263,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 554,
+      "name": "gemaal Nieuw-Vennep",
+      "latitude": 52.273375,
+      "longitude": 4.645336,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 555,
+      "name": "gemaal Paal",
+      "latitude": 51.355852,
+      "longitude": 4.1012,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 556,
+      "name": "gemaal Schipsloot",
+      "latitude": 53.16353,
+      "longitude": 6.582818,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 557,
+      "name": "gemaal Tilburg",
+      "latitude": 53.310601,
+      "longitude": 6.531646,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 558,
+      "name": "gemaal Waarde",
+      "latitude": 51.41339,
+      "longitude": 4.069276,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 559,
+      "name": "gemaal polder van nooddorp",
+      "latitude": 52.022451,
+      "longitude": 4.369385,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 560,
+      "name": "gemaal van de Klaas Engelbrechtspolder",
+      "latitude": 51.985167,
+      "longitude": 4.319831,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 561,
+      "name": "ir. A.J.A.M. Segers gemaal",
+      "latitude": 51.66783,
+      "longitude": 5.303509,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 562,
+      "name": "poldergemaal Schellinkhout",
+      "latitude": 52.63602,
+      "longitude": 5.1101,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 563,
+      "name": "rioolgemaal",
+      "latitude": 51.187799,
+      "longitude": 5.993112,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 564,
+      "name": "rioolgemaal Delft",
+      "latitude": 52.00771,
+      "longitude": 4.342098,
+      "osm_klasse": "man_made=pumping_station"
+    },
+    {
+      "id": 565,
+      "name": "vijzelgemaal Ennemaborgh",
+      "latitude": 53.169911,
+      "longitude": 7.002428,
+      "osm_klasse": "man_made=pumping_station"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: pumping station (man_made=pumping_station) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged man_made=pumping_station in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 565 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: pumping station (man_made=pumping_station) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: pumping station (man_made=pumping_station) — 565 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 565 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

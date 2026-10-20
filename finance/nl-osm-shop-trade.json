@@ -1,0 +1,4153 @@
+{
+  "id": "nl-osm-shop-trade",
+  "name": "Netherlands OSM: trade (shop=trade)",
+  "title": "Netherlands OSM: trade (shop=trade)",
+  "description": "Named OpenStreetMap features tagged shop=trade in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 586,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "123impregneer.nl",
+      "latitude": 52.077131,
+      "longitude": 6.461099,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 2,
+      "name": "Aalten",
+      "latitude": 52.22709,
+      "longitude": 6.085594,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 3,
+      "name": "Abelia Stenen",
+      "latitude": 51.82349,
+      "longitude": 5.811575,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 4,
+      "name": "Accuservice Lijnema B.V.",
+      "latitude": 53.41046,
+      "longitude": 6.674439,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 5,
+      "name": "Agrarisch Centrum Snijders",
+      "latitude": 52.723651,
+      "longitude": 6.74679,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 6,
+      "name": "Algemene Houthandel & Timmerfabriek van der Meer",
+      "latitude": 52.009409,
+      "longitude": 4.375491,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 7,
+      "name": "All4feet",
+      "latitude": 52.114896,
+      "longitude": 6.019183,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 8,
+      "name": "Amsterdamsche Fijnhouthandel",
+      "latitude": 52.39938,
+      "longitude": 4.875562,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 9,
+      "name": "Apeldoornse Houthandel",
+      "latitude": 52.208158,
+      "longitude": 5.983988,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 10,
+      "name": "Arbon",
+      "latitude": 51.975997,
+      "longitude": 5.526982,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 11,
+      "name": "Arnhemse Fijnhouthandel",
+      "latitude": 51.975845,
+      "longitude": 5.940532,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 12,
+      "name": "BMN",
+      "latitude": 52.326003,
+      "longitude": 4.928883,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 13,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 50.876217,
+      "longitude": 5.715446,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 14,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.263482,
+      "longitude": 5.728901,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 15,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.432034,
+      "longitude": 5.438638,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 16,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.435932,
+      "longitude": 5.49441,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 17,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.447085,
+      "longitude": 5.799934,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 18,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.451687,
+      "longitude": 3.582052,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 19,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.490312,
+      "longitude": 3.877846,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 20,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.492993,
+      "longitude": 3.63953,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 21,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.502515,
+      "longitude": 5.46899,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 22,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.502603,
+      "longitude": 5.414595,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 23,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.545242,
+      "longitude": 4.459538,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 24,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.551122,
+      "longitude": 5.980343,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 25,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.565651,
+      "longitude": 5.110374,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 26,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.596117,
+      "longitude": 4.743623,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 27,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.603436,
+      "longitude": 5.528451,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 28,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.710297,
+      "longitude": 5.269096,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 29,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.745929,
+      "longitude": 4.451448,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 30,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.807725,
+      "longitude": 5.265128,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 31,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.816876,
+      "longitude": 4.722323,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 32,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.847851,
+      "longitude": 5.833132,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 33,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.897007,
+      "longitude": 4.535526,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 34,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.906988,
+      "longitude": 4.366799,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 35,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.910616,
+      "longitude": 5.431296,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 36,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.929938,
+      "longitude": 4.40484,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 37,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.937634,
+      "longitude": 5.213471,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 38,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.955045,
+      "longitude": 6.29847,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 39,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.965172,
+      "longitude": 6.721684,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 40,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.97492,
+      "longitude": 5.964741,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 41,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 51.994798,
+      "longitude": 4.370066,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 42,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.001255,
+      "longitude": 5.548383,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 43,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.003486,
+      "longitude": 4.743074,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 44,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.03024,
+      "longitude": 5.106121,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 45,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.031472,
+      "longitude": 5.625269,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 46,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.043186,
+      "longitude": 4.244314,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 47,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.055815,
+      "longitude": 4.660401,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 48,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.060237,
+      "longitude": 4.30478,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 49,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.063959,
+      "longitude": 4.31782,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 50,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.085643,
+      "longitude": 4.866166,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 51,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.096002,
+      "longitude": 5.281782,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 52,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.14305,
+      "longitude": 4.486051,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 53,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.147164,
+      "longitude": 6.192926,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 54,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.155406,
+      "longitude": 6.73035,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 55,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.163359,
+      "longitude": 5.603656,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 56,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.166943,
+      "longitude": 5.351027,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 57,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.178865,
+      "longitude": 5.27555,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 58,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.179627,
+      "longitude": 5.973124,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 59,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.20002,
+      "longitude": 4.427963,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 60,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.200474,
+      "longitude": 4.42881,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 61,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.22076,
+      "longitude": 6.854213,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 62,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.223438,
+      "longitude": 5.149235,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 63,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.23097,
+      "longitude": 6.581189,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 64,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.235391,
+      "longitude": 5.972002,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 65,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.250108,
+      "longitude": 6.177193,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 66,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.255065,
+      "longitude": 6.808954,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 67,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.273786,
+      "longitude": 4.573109,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 68,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.281857,
+      "longitude": 6.770683,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 69,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.298467,
+      "longitude": 6.906898,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 70,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.315416,
+      "longitude": 6.503111,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 71,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.336093,
+      "longitude": 4.628496,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 72,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.353385,
+      "longitude": 6.498613,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 73,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.359191,
+      "longitude": 5.637171,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 74,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.371425,
+      "longitude": 5.791364,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 75,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.382129,
+      "longitude": 6.290007,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 76,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.394806,
+      "longitude": 4.653105,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 77,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.402805,
+      "longitude": 4.85355,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 78,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.412458,
+      "longitude": 6.634191,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 79,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.432031,
+      "longitude": 4.775523,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 80,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.487752,
+      "longitude": 6.138916,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 81,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.508776,
+      "longitude": 5.007052,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 82,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.510596,
+      "longitude": 6.051926,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 83,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.538361,
+      "longitude": 5.519644,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 84,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.565264,
+      "longitude": 6.620936,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 85,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.565368,
+      "longitude": 5.880469,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 86,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.592334,
+      "longitude": 6.286756,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 87,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.612481,
+      "longitude": 4.756759,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 88,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.642547,
+      "longitude": 5.083287,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 89,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.654983,
+      "longitude": 6.726345,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 90,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.669436,
+      "longitude": 5.059749,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 91,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.692425,
+      "longitude": 5.274069,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 92,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.69425,
+      "longitude": 5.756508,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 93,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.729351,
+      "longitude": 6.511572,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 94,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.757624,
+      "longitude": 6.924326,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 95,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.763999,
+      "longitude": 5.096044,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 96,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.794302,
+      "longitude": 4.785447,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 97,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.842384,
+      "longitude": 5.713379,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 98,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.871507,
+      "longitude": 7.075126,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 99,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.883209,
+      "longitude": 5.993023,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 100,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.93015,
+      "longitude": 5.94052,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 101,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.943952,
+      "longitude": 4.773278,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 102,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 52.979113,
+      "longitude": 6.972216,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 103,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 53.000878,
+      "longitude": 6.573567,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 104,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 53.108266,
+      "longitude": 6.068468,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 105,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 53.132846,
+      "longitude": 7.051323,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 106,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 53.136252,
+      "longitude": 6.866319,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 107,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 53.183293,
+      "longitude": 5.508745,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 108,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 53.196969,
+      "longitude": 5.766719,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 109,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 53.212902,
+      "longitude": 6.602547,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 110,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 53.221345,
+      "longitude": 6.317187,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 111,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 53.303095,
+      "longitude": 6.861466,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 112,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 53.327065,
+      "longitude": 5.977114,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 113,
+      "name": "BMN Bouwmaterialen",
+      "latitude": 53.356808,
+      "longitude": 6.375569,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 114,
+      "name": "BMN Erven Feenstra",
+      "latitude": 53.021203,
+      "longitude": 5.680879,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 115,
+      "name": "BMN IJzerwaren",
+      "latitude": 51.564533,
+      "longitude": 5.110285,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 116,
+      "name": "BMN IJzerwaren",
+      "latitude": 51.895819,
+      "longitude": 4.521235,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 117,
+      "name": "BMN IJzerwaren",
+      "latitude": 51.931191,
+      "longitude": 4.409739,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 118,
+      "name": "BMN IJzerwaren",
+      "latitude": 51.974686,
+      "longitude": 5.964803,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 119,
+      "name": "BMN IJzerwaren",
+      "latitude": 52.043296,
+      "longitude": 4.244475,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 120,
+      "name": "BMN IJzerwaren",
+      "latitude": 52.220617,
+      "longitude": 6.854436,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 121,
+      "name": "BMN IJzerwaren",
+      "latitude": 52.394666,
+      "longitude": 4.653123,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 122,
+      "name": "BMN IJzerwaren",
+      "latitude": 52.400256,
+      "longitude": 4.844542,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 123,
+      "name": "BMN IJzerwaren",
+      "latitude": 52.944514,
+      "longitude": 4.772459,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 124,
+      "name": "BMN Nelemans",
+      "latitude": 51.463706,
+      "longitude": 4.64679,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 125,
+      "name": "BMN Nelemans",
+      "latitude": 51.558672,
+      "longitude": 4.611388,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 126,
+      "name": "BMN Nelemans",
+      "latitude": 51.563374,
+      "longitude": 4.473015,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 127,
+      "name": "BMN Nelemans",
+      "latitude": 51.586744,
+      "longitude": 5.029487,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 128,
+      "name": "BMN Nelemans",
+      "latitude": 51.598767,
+      "longitude": 4.740385,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 129,
+      "name": "BMN Nelemans",
+      "latitude": 51.663475,
+      "longitude": 4.855346,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 130,
+      "name": "BMN Stucgoed",
+      "latitude": 51.69561,
+      "longitude": 5.284338,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 131,
+      "name": "BMN Stucgoed",
+      "latitude": 51.847024,
+      "longitude": 5.805321,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 132,
+      "name": "BMN Stucgoed",
+      "latitude": 52.028379,
+      "longitude": 5.630178,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 133,
+      "name": "BMN Stucgoed",
+      "latitude": 52.503852,
+      "longitude": 5.079143,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 134,
+      "name": "BMN Stucgoed",
+      "latitude": 52.565786,
+      "longitude": 5.871781,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 135,
+      "name": "BMN Van Keulen",
+      "latitude": 51.545429,
+      "longitude": 4.459171,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 136,
+      "name": "BMN Van Keulen",
+      "latitude": 51.846902,
+      "longitude": 5.805469,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 137,
+      "name": "BMN Van Keulen",
+      "latitude": 52.410455,
+      "longitude": 4.879075,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 138,
+      "name": "BTN De Haas",
+      "latitude": 53.217673,
+      "longitude": 6.609432,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 139,
+      "name": "Bakker de Houthandel",
+      "latitude": 52.690565,
+      "longitude": 5.186684,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 140,
+      "name": "Bestratingsmarkt",
+      "latitude": 52.399231,
+      "longitude": 6.038682,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 141,
+      "name": "Betonblock Group B.V.",
+      "latitude": 52.707225,
+      "longitude": 4.864445,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 142,
+      "name": "Bidfood",
+      "latitude": 52.039008,
+      "longitude": 5.108235,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 143,
+      "name": "Bleijenbergh-Fassaert",
+      "latitude": 51.269888,
+      "longitude": 4.041436,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 144,
+      "name": "Boeve en Hop Houthandel",
+      "latitude": 52.256517,
+      "longitude": 5.792205,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 145,
+      "name": "Bogers Dakpannenhandel",
+      "latitude": 51.672822,
+      "longitude": 5.050271,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 146,
+      "name": "Bohaco",
+      "latitude": 51.7046,
+      "longitude": 5.302781,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 147,
+      "name": "Boom Land Tuin en Parkmachines",
+      "latitude": 51.898383,
+      "longitude": 4.692134,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 148,
+      "name": "Bosveld Houthandel",
+      "latitude": 51.986002,
+      "longitude": 5.912813,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 149,
+      "name": "Bouwbedrijf Geerts",
+      "latitude": 53.050704,
+      "longitude": 6.546157,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 150,
+      "name": "Bouwbedrijf Thijs",
+      "latitude": 53.05373,
+      "longitude": 6.544258,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 151,
+      "name": "Bouwbedrijf en houthandel Ulehake",
+      "latitude": 52.453356,
+      "longitude": 4.578298,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 152,
+      "name": "Bouwcenter RAB",
+      "latitude": 52.07903,
+      "longitude": 5.045997,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 153,
+      "name": "Bouwcenter RAB",
+      "latitude": 52.94528,
+      "longitude": 4.77069,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 154,
+      "name": "Bouwcentrr RAB",
+      "latitude": 52.326046,
+      "longitude": 4.924856,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 155,
+      "name": "Buurman",
+      "latitude": 52.104406,
+      "longitude": 5.086292,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 156,
+      "name": "Buurman Rotterdam",
+      "latitude": 51.902124,
+      "longitude": 4.449869,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 157,
+      "name": "C. Veldman",
+      "latitude": 52.441701,
+      "longitude": 6.53395,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 158,
+      "name": "Cees van Woudenberg",
+      "latitude": 51.939459,
+      "longitude": 5.782359,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 159,
+      "name": "Colibri Oak",
+      "latitude": 52.510483,
+      "longitude": 5.00564,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 160,
+      "name": "Collé Rental & Services",
+      "latitude": 51.953511,
+      "longitude": 5.025026,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 161,
+      "name": "DH Holland",
+      "latitude": 52.43468,
+      "longitude": 6.585068,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 162,
+      "name": "DYKA",
+      "latitude": 51.014993,
+      "longitude": 5.860471,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 163,
+      "name": "DYKA",
+      "latitude": 51.433755,
+      "longitude": 5.437381,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 164,
+      "name": "DYKA",
+      "latitude": 51.49544,
+      "longitude": 3.878037,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 165,
+      "name": "DYKA",
+      "latitude": 51.574202,
+      "longitude": 5.116844,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 166,
+      "name": "DYKA",
+      "latitude": 51.617115,
+      "longitude": 4.768166,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 167,
+      "name": "DYKA",
+      "latitude": 51.702155,
+      "longitude": 5.268805,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 168,
+      "name": "DYKA",
+      "latitude": 51.778744,
+      "longitude": 4.636346,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 169,
+      "name": "DYKA",
+      "latitude": 51.852702,
+      "longitude": 5.808453,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 170,
+      "name": "DYKA",
+      "latitude": 51.928313,
+      "longitude": 4.416075,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 171,
+      "name": "DYKA",
+      "latitude": 51.970207,
+      "longitude": 6.263438,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 172,
+      "name": "DYKA",
+      "latitude": 52.064076,
+      "longitude": 4.318623,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 173,
+      "name": "DYKA",
+      "latitude": 52.118671,
+      "longitude": 5.041214,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 174,
+      "name": "DYKA",
+      "latitude": 52.167985,
+      "longitude": 5.356179,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 175,
+      "name": "DYKA",
+      "latitude": 52.252367,
+      "longitude": 6.17585,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 176,
+      "name": "DYKA",
+      "latitude": 52.281678,
+      "longitude": 6.774557,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 177,
+      "name": "DYKA",
+      "latitude": 52.30442,
+      "longitude": 4.937433,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 178,
+      "name": "DYKA",
+      "latitude": 52.400751,
+      "longitude": 4.838201,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 179,
+      "name": "DYKA",
+      "latitude": 52.606082,
+      "longitude": 4.747656,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 180,
+      "name": "DYKA",
+      "latitude": 52.792881,
+      "longitude": 6.100677,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 181,
+      "name": "DYKA",
+      "latitude": 53.198351,
+      "longitude": 5.83986,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 182,
+      "name": "DYKA",
+      "latitude": 53.209371,
+      "longitude": 6.609394,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 183,
+      "name": "Dakpannenhandel Westera VOF",
+      "latitude": 52.919706,
+      "longitude": 6.962474,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 184,
+      "name": "Damen Schelde Marine Services",
+      "latitude": 51.454789,
+      "longitude": 3.59465,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 185,
+      "name": "Danenberg Shop",
+      "latitude": 52.706837,
+      "longitude": 4.956757,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 186,
+      "name": "De Broedkorf",
+      "latitude": 52.01832,
+      "longitude": 4.872608,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 187,
+      "name": "De Dieze postzegels",
+      "latitude": 51.689259,
+      "longitude": 5.306511,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 188,
+      "name": "De Geest Steigerhout",
+      "latitude": 53.180771,
+      "longitude": 6.16044,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 189,
+      "name": "De Hillegomse",
+      "latitude": 52.947241,
+      "longitude": 4.772563,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 190,
+      "name": "De Houtboer",
+      "latitude": 53.115575,
+      "longitude": 6.073883,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 191,
+      "name": "De Houthandelaar",
+      "latitude": 52.072617,
+      "longitude": 4.306275,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 192,
+      "name": "De Jong Hout & Staalhandel BV",
+      "latitude": 51.966868,
+      "longitude": 5.582667,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 193,
+      "name": "De Lunterse Houtmarkt",
+      "latitude": 52.088029,
+      "longitude": 5.618976,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 194,
+      "name": "Deco Verf",
+      "latitude": 52.206111,
+      "longitude": 5.955744,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 195,
+      "name": "Delta Tools",
+      "latitude": 51.81276,
+      "longitude": 4.026185,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 196,
+      "name": "Dikhout Fijnhouthandel",
+      "latitude": 53.219461,
+      "longitude": 6.591728,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 197,
+      "name": "Dove Natuursteen",
+      "latitude": 52.218036,
+      "longitude": 6.844777,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 198,
+      "name": "Dozon",
+      "latitude": 51.910075,
+      "longitude": 5.428163,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 199,
+      "name": "Dozon",
+      "latitude": 51.937839,
+      "longitude": 6.087901,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 200,
+      "name": "Dozon",
+      "latitude": 51.947142,
+      "longitude": 6.275926,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 201,
+      "name": "Dozon",
+      "latitude": 51.986953,
+      "longitude": 6.586615,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 202,
+      "name": "Dozon",
+      "latitude": 52.006448,
+      "longitude": 5.566514,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 203,
+      "name": "Dozon",
+      "latitude": 52.029431,
+      "longitude": 5.644911,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 204,
+      "name": "Dozon",
+      "latitude": 52.123113,
+      "longitude": 6.53881,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 205,
+      "name": "Dozon",
+      "latitude": 52.223477,
+      "longitude": 6.869369,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 206,
+      "name": "Dozon",
+      "latitude": 52.278061,
+      "longitude": 6.777063,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 207,
+      "name": "Drents Camperhuis",
+      "latitude": 52.69403,
+      "longitude": 6.263198,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 208,
+      "name": "Droogers Koel- en Keukeninnovatie",
+      "latitude": 53.17414,
+      "longitude": 6.182339,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 209,
+      "name": "Dékavé",
+      "latitude": 51.593369,
+      "longitude": 5.143682,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 210,
+      "name": "Eco-Paviljoen",
+      "latitude": 52.393499,
+      "longitude": 4.829699,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 211,
+      "name": "Eijkemans aluminium",
+      "latitude": 51.631998,
+      "longitude": 5.416363,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 212,
+      "name": "Engeldot",
+      "latitude": 51.918997,
+      "longitude": 6.568633,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 213,
+      "name": "Esco Vloeren Westerhoven",
+      "latitude": 51.33969,
+      "longitude": 5.4078,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 214,
+      "name": "FALK Bouwsystemen",
+      "latitude": 52.043782,
+      "longitude": 5.617749,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 215,
+      "name": "Frank Pouwer Historische Bouwmaterialen",
+      "latitude": 51.962446,
+      "longitude": 5.781903,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 216,
+      "name": "GBI Van den Heuvel",
+      "latitude": 52.165991,
+      "longitude": 5.370399,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 217,
+      "name": "Gadero Houthandel",
+      "latitude": 53.218763,
+      "longitude": 6.599269,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 218,
+      "name": "GeWOONhout",
+      "latitude": 51.945453,
+      "longitude": 6.22684,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 219,
+      "name": "Gebr. Bonenkamp Techniek en Handel bv",
+      "latitude": 52.014658,
+      "longitude": 5.058538,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 220,
+      "name": "Gebr. Eveleens",
+      "latitude": 52.285496,
+      "longitude": 4.800485,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 221,
+      "name": "Gebr. Hoen",
+      "latitude": 53.235222,
+      "longitude": 6.585553,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 222,
+      "name": "Gelderland Hekwerken",
+      "latitude": 52.05199,
+      "longitude": 6.10724,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 223,
+      "name": "Gelderse Handelsmij",
+      "latitude": 52.051806,
+      "longitude": 6.106503,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 224,
+      "name": "Gerard Swinkels Mechanisatie",
+      "latitude": 51.447803,
+      "longitude": 5.614842,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 225,
+      "name": "Gering Hout & Beton B.V.",
+      "latitude": 52.223835,
+      "longitude": 6.974472,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 226,
+      "name": "GibaHout",
+      "latitude": 53.197747,
+      "longitude": 5.634466,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 227,
+      "name": "Goos Horeca",
+      "latitude": 52.325984,
+      "longitude": 4.92398,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 228,
+      "name": "H.O. Caprea BV",
+      "latitude": 51.946766,
+      "longitude": 6.229956,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 229,
+      "name": "H2O Noord Waterontharders",
+      "latitude": 53.407332,
+      "longitude": 6.674366,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 230,
+      "name": "Haagse Fijnhouthandel BV",
+      "latitude": 52.06468,
+      "longitude": 4.339056,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 231,
+      "name": "HaardenHuijs Gelderland",
+      "latitude": 52.347852,
+      "longitude": 5.980131,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 232,
+      "name": "Haardhout Wijlhuizen",
+      "latitude": 52.005479,
+      "longitude": 5.871155,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 233,
+      "name": "Hakog",
+      "latitude": 52.225833,
+      "longitude": 5.481795,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 234,
+      "name": "Hard- en Zachthout",
+      "latitude": 52.124716,
+      "longitude": 6.02993,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 235,
+      "name": "Heftruckservice Gemert",
+      "latitude": 51.56072,
+      "longitude": 5.706487,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 236,
+      "name": "Heidelberg Materials",
+      "latitude": 52.168463,
+      "longitude": 5.365086,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 237,
+      "name": "Henry van Ommeren",
+      "latitude": 51.892279,
+      "longitude": 4.194573,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 238,
+      "name": "Hoebeke metaalhandel",
+      "latitude": 51.476497,
+      "longitude": 4.05527,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 239,
+      "name": "Hoogenberg Natuursteen",
+      "latitude": 52.205746,
+      "longitude": 5.94957,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 240,
+      "name": "Hout voor weinig",
+      "latitude": 53.305613,
+      "longitude": 6.479734,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 241,
+      "name": "Houtexclusief",
+      "latitude": 52.035643,
+      "longitude": 4.656271,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 242,
+      "name": "Houthandel",
+      "latitude": 52.623826,
+      "longitude": 6.55427,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 243,
+      "name": "Houthandel & Zagerij Bulthuis",
+      "latitude": 52.321099,
+      "longitude": 6.927923,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 244,
+      "name": "Houthandel Barkmeijer",
+      "latitude": 53.284056,
+      "longitude": 6.15877,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 245,
+      "name": "Houthandel Bolding",
+      "latitude": 52.908013,
+      "longitude": 6.696334,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 246,
+      "name": "Houthandel Bos",
+      "latitude": 52.769211,
+      "longitude": 6.917928,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 247,
+      "name": "Houthandel Bullinga",
+      "latitude": 51.949543,
+      "longitude": 5.631487,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 248,
+      "name": "Houthandel De Holtplas",
+      "latitude": 51.920111,
+      "longitude": 6.685431,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 249,
+      "name": "Houthandel Gebr.van Soest",
+      "latitude": 52.008471,
+      "longitude": 5.180699,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 250,
+      "name": "Houthandel Gebroeders Rouwenhorst",
+      "latitude": 52.206989,
+      "longitude": 5.983202,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 251,
+      "name": "Houthandel Harkema",
+      "latitude": 53.29233,
+      "longitude": 6.596369,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 252,
+      "name": "Houthandel Het Anker",
+      "latitude": 51.904867,
+      "longitude": 6.358675,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 253,
+      "name": "Houthandel Houtex",
+      "latitude": 52.050085,
+      "longitude": 4.660194,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 254,
+      "name": "Houthandel Hudson",
+      "latitude": 52.361848,
+      "longitude": 5.204399,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 255,
+      "name": "Houthandel J. de Boer",
+      "latitude": 52.873945,
+      "longitude": 5.824763,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 256,
+      "name": "Houthandel Jan Sok",
+      "latitude": 52.699526,
+      "longitude": 6.172642,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 257,
+      "name": "Houthandel Jansen",
+      "latitude": 51.991197,
+      "longitude": 5.708352,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 258,
+      "name": "Houthandel Katsman",
+      "latitude": 51.514708,
+      "longitude": 3.895139,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 259,
+      "name": "Houthandel RTT",
+      "latitude": 52.247094,
+      "longitude": 6.600148,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 260,
+      "name": "Houthandel Westerwolde",
+      "latitude": 53.039579,
+      "longitude": 7.045719,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 261,
+      "name": "Houthandel v/d Leeden",
+      "latitude": 52.30604,
+      "longitude": 5.58919,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 262,
+      "name": "Houthandel van Wanrooij",
+      "latitude": 51.614154,
+      "longitude": 5.468593,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 263,
+      "name": "Houtnet",
+      "latitude": 53.180141,
+      "longitude": 6.369912,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 264,
+      "name": "Huijskes-Boevink",
+      "latitude": 52.03856,
+      "longitude": 6.622984,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 265,
+      "name": "ICS",
+      "latitude": 51.632554,
+      "longitude": 5.420148,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 266,
+      "name": "IJzerhandel Gort",
+      "latitude": 52.843873,
+      "longitude": 5.714005,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 267,
+      "name": "Iron Design",
+      "latitude": 52.071449,
+      "longitude": 6.223662,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 268,
+      "name": "Isero",
+      "latitude": 51.433512,
+      "longitude": 5.438843,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 269,
+      "name": "Isero",
+      "latitude": 51.865034,
+      "longitude": 4.457771,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 270,
+      "name": "Isero",
+      "latitude": 51.941415,
+      "longitude": 4.471793,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 271,
+      "name": "Isero",
+      "latitude": 52.084614,
+      "longitude": 4.866734,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 272,
+      "name": "Isero",
+      "latitude": 52.256793,
+      "longitude": 4.628298,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 273,
+      "name": "Isero",
+      "latitude": 52.944757,
+      "longitude": 4.770871,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 274,
+      "name": "Isero",
+      "latitude": 53.023399,
+      "longitude": 5.679672,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 275,
+      "name": "Isero Regts",
+      "latitude": 53.197914,
+      "longitude": 5.836351,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 276,
+      "name": "Jan BV",
+      "latitude": 52.154868,
+      "longitude": 6.191599,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 277,
+      "name": "Jan P Boogert",
+      "latitude": 51.652908,
+      "longitude": 4.031716,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 278,
+      "name": "Jan Timmermans Modestoffen",
+      "latitude": 52.221875,
+      "longitude": 6.084553,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 279,
+      "name": "Jansen Sierbestrating b.v.",
+      "latitude": 51.797738,
+      "longitude": 5.752141,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 280,
+      "name": "Johnny Matthijsse Techniek",
+      "latitude": 51.485765,
+      "longitude": 3.559216,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 281,
+      "name": "Jongeneel",
+      "latitude": 50.885835,
+      "longitude": 5.717787,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 282,
+      "name": "Jongeneel",
+      "latitude": 50.999422,
+      "longitude": 5.847704,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 283,
+      "name": "Jongeneel",
+      "latitude": 51.168552,
+      "longitude": 6.046522,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 284,
+      "name": "Jongeneel",
+      "latitude": 51.286082,
+      "longitude": 3.85475,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 285,
+      "name": "Jongeneel",
+      "latitude": 51.376058,
+      "longitude": 5.706539,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 286,
+      "name": "Jongeneel",
+      "latitude": 51.381766,
+      "longitude": 6.140368,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 287,
+      "name": "Jongeneel",
+      "latitude": 51.434251,
+      "longitude": 5.49891,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 288,
+      "name": "Jongeneel",
+      "latitude": 51.499275,
+      "longitude": 4.273963,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 289,
+      "name": "Jongeneel",
+      "latitude": 51.564922,
+      "longitude": 5.10814,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 290,
+      "name": "Jongeneel",
+      "latitude": 51.610025,
+      "longitude": 4.76873,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 291,
+      "name": "Jongeneel",
+      "latitude": 51.696013,
+      "longitude": 5.279763,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 292,
+      "name": "Jongeneel",
+      "latitude": 51.783364,
+      "longitude": 5.549955,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 293,
+      "name": "Jongeneel",
+      "latitude": 51.785295,
+      "longitude": 4.641881,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 294,
+      "name": "Jongeneel",
+      "latitude": 51.84111,
+      "longitude": 5.816291,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 295,
+      "name": "Jongeneel",
+      "latitude": 51.896475,
+      "longitude": 4.459244,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 296,
+      "name": "Jongeneel",
+      "latitude": 51.904524,
+      "longitude": 4.411689,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 297,
+      "name": "Jongeneel",
+      "latitude": 51.905752,
+      "longitude": 5.432802,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 298,
+      "name": "Jongeneel",
+      "latitude": 51.971792,
+      "longitude": 5.943602,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 299,
+      "name": "Jongeneel",
+      "latitude": 51.993415,
+      "longitude": 6.583947,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 300,
+      "name": "Jongeneel",
+      "latitude": 52.020963,
+      "longitude": 4.209664,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 301,
+      "name": "Jongeneel",
+      "latitude": 52.045763,
+      "longitude": 4.248893,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 302,
+      "name": "Jongeneel",
+      "latitude": 52.053198,
+      "longitude": 6.114522,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 303,
+      "name": "Jongeneel",
+      "latitude": 52.06988,
+      "longitude": 4.334376,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 304,
+      "name": "Jongeneel",
+      "latitude": 52.084327,
+      "longitude": 4.865661,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 305,
+      "name": "Jongeneel",
+      "latitude": 52.108962,
+      "longitude": 5.065361,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 306,
+      "name": "Jongeneel",
+      "latitude": 52.12757,
+      "longitude": 5.086466,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 307,
+      "name": "Jongeneel",
+      "latitude": 52.13975,
+      "longitude": 4.637364,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 308,
+      "name": "Jongeneel",
+      "latitude": 52.160206,
+      "longitude": 4.507982,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 309,
+      "name": "Jongeneel",
+      "latitude": 52.21703,
+      "longitude": 5.9724,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 310,
+      "name": "Jongeneel",
+      "latitude": 52.219608,
+      "longitude": 6.847945,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 311,
+      "name": "Jongeneel",
+      "latitude": 52.248265,
+      "longitude": 6.176959,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 312,
+      "name": "Jongeneel",
+      "latitude": 52.257214,
+      "longitude": 6.806219,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 313,
+      "name": "Jongeneel",
+      "latitude": 52.372106,
+      "longitude": 4.614289,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 314,
+      "name": "Jongeneel",
+      "latitude": 52.394956,
+      "longitude": 4.875435,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 315,
+      "name": "Jongeneel",
+      "latitude": 52.423881,
+      "longitude": 4.856318,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 316,
+      "name": "Jongeneel",
+      "latitude": 52.491706,
+      "longitude": 6.127181,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 317,
+      "name": "Jongeneel",
+      "latitude": 52.613392,
+      "longitude": 4.764519,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 318,
+      "name": "Jongeneel",
+      "latitude": 52.661341,
+      "longitude": 6.731431,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 319,
+      "name": "Jongeneel",
+      "latitude": 52.702827,
+      "longitude": 5.146624,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 320,
+      "name": "Jongeneel",
+      "latitude": 53.029305,
+      "longitude": 5.651555,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 321,
+      "name": "Jongeneel",
+      "latitude": 53.218251,
+      "longitude": 6.5943,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 322,
+      "name": "Joostema",
+      "latitude": 52.442977,
+      "longitude": 6.07258,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 323,
+      "name": "KaRo",
+      "latitude": 52.7,
+      "longitude": 5.144505,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 324,
+      "name": "Kees van 't Hullenaar Hout B.V.",
+      "latitude": 51.903723,
+      "longitude": 5.867557,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 325,
+      "name": "Kicken Transport",
+      "latitude": 50.875727,
+      "longitude": 5.922538,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 326,
+      "name": "Kippersluis Sierbestrating",
+      "latitude": 52.316878,
+      "longitude": 5.108304,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 327,
+      "name": "Klinkerduijn",
+      "latitude": 51.411057,
+      "longitude": 3.767125,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 328,
+      "name": "Kluijtmans Natuursteen",
+      "latitude": 51.434558,
+      "longitude": 5.510569,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 329,
+      "name": "Knaap Horeca",
+      "latitude": 51.471598,
+      "longitude": 3.588528,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 330,
+      "name": "Knoppert Vorkheftrucks",
+      "latitude": 52.253233,
+      "longitude": 5.594259,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 331,
+      "name": "Kotra Fresh",
+      "latitude": 51.478522,
+      "longitude": 4.055822,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 332,
+      "name": "Kotra Frozen",
+      "latitude": 51.476654,
+      "longitude": 4.05628,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 333,
+      "name": "Kozijnen Limburg",
+      "latitude": 51.176892,
+      "longitude": 6.021855,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 334,
+      "name": "Kuiper Koekange",
+      "latitude": 52.703042,
+      "longitude": 6.316011,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 335,
+      "name": "Kuipers Bouwmaterialen en Steenhandel",
+      "latitude": 52.382323,
+      "longitude": 7.023214,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 336,
+      "name": "Kuipers Houthandel",
+      "latitude": 52.788335,
+      "longitude": 6.098913,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 337,
+      "name": "L. Walet & Zonen",
+      "latitude": 52.206925,
+      "longitude": 5.457693,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 338,
+      "name": "Lankhorst - Agrarisch Drenthe",
+      "latitude": 52.716837,
+      "longitude": 6.242389,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 339,
+      "name": "Legobeton B.V.",
+      "latitude": 52.707164,
+      "longitude": 4.864539,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 340,
+      "name": "Lokhoff",
+      "latitude": 51.649788,
+      "longitude": 5.43669,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 341,
+      "name": "MB Bouwstoffen",
+      "latitude": 51.448074,
+      "longitude": 5.615445,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 342,
+      "name": "MH Vloeren",
+      "latitude": 51.177669,
+      "longitude": 6.01893,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 343,
+      "name": "MKZ / Bax Houthandel",
+      "latitude": 52.047498,
+      "longitude": 4.510613,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 344,
+      "name": "Mammoet",
+      "latitude": 52.068039,
+      "longitude": 4.271719,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 345,
+      "name": "Mastermate",
+      "latitude": 52.337278,
+      "longitude": 4.927117,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 346,
+      "name": "Max Trade",
+      "latitude": 52.73538,
+      "longitude": 6.511742,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 347,
+      "name": "Mega Hout",
+      "latitude": 53.11279,
+      "longitude": 6.127904,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 348,
+      "name": "Mega Meat",
+      "latitude": 52.213843,
+      "longitude": 5.985061,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 349,
+      "name": "Mijn Thuis Jac Klijn",
+      "latitude": 51.663325,
+      "longitude": 5.026673,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 350,
+      "name": "Minco Bouwmaterialenw",
+      "latitude": 53.257161,
+      "longitude": 6.141933,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 351,
+      "name": "Mol Coatings",
+      "latitude": 51.974819,
+      "longitude": 5.527897,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 352,
+      "name": "Motor-Parts Nederland",
+      "latitude": 51.561764,
+      "longitude": 4.610778,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 353,
+      "name": "N. Boer B.V.",
+      "latitude": 52.071935,
+      "longitude": 5.692126,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 354,
+      "name": "Naber LMB",
+      "latitude": 52.671327,
+      "longitude": 6.653602,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 355,
+      "name": "Neefjes Houthandel",
+      "latitude": 52.730232,
+      "longitude": 5.166115,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 356,
+      "name": "Nijhoff",
+      "latitude": 52.360486,
+      "longitude": 6.495154,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 357,
+      "name": "Noorderlicht Reclame Team bv",
+      "latitude": 53.416119,
+      "longitude": 6.694127,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 358,
+      "name": "Oldenboom Doetinchem",
+      "latitude": 51.970886,
+      "longitude": 6.268712,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 359,
+      "name": "P. van der Kooi Dienstverlening",
+      "latitude": 53.18393,
+      "longitude": 6.175734,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 360,
+      "name": "PAC Polderdijk Zonweringen",
+      "latitude": 51.472814,
+      "longitude": 3.590641,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 361,
+      "name": "Palletkachels Aanhangwagens",
+      "latitude": 51.47352,
+      "longitude": 3.590338,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 362,
+      "name": "Pedro",
+      "latitude": 51.989232,
+      "longitude": 5.481954,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 363,
+      "name": "Peter Mesu",
+      "latitude": 51.686051,
+      "longitude": 5.30627,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 364,
+      "name": "Peter's Hout",
+      "latitude": 53.066473,
+      "longitude": 5.506342,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 365,
+      "name": "Piet Redert",
+      "latitude": 51.820234,
+      "longitude": 4.039584,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 366,
+      "name": "Plankencentrale.nl",
+      "latitude": 51.986397,
+      "longitude": 5.741831,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 367,
+      "name": "Poly-Service BV",
+      "latitude": 52.339664,
+      "longitude": 4.925757,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 368,
+      "name": "Raadsma",
+      "latitude": 53.194805,
+      "longitude": 5.760375,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 369,
+      "name": "Rantsoenspecialist De Eendracht",
+      "latitude": 52.584674,
+      "longitude": 6.195837,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 370,
+      "name": "Rian Roosendaal",
+      "latitude": 51.537927,
+      "longitude": 4.471889,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 371,
+      "name": "Riethandel Brasjen",
+      "latitude": 52.400168,
+      "longitude": 6.046907,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 372,
+      "name": "Romal",
+      "latitude": 52.026808,
+      "longitude": 5.105085,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 373,
+      "name": "Roof-Parts",
+      "latitude": 51.94027,
+      "longitude": 6.471826,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 374,
+      "name": "Rotil Communications",
+      "latitude": 51.472912,
+      "longitude": 3.588224,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 375,
+      "name": "Rozut Houtbewerking",
+      "latitude": 52.154868,
+      "longitude": 6.189776,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 376,
+      "name": "Rubberselect",
+      "latitude": 51.975707,
+      "longitude": 5.527262,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 377,
+      "name": "SON Steigerbouw",
+      "latitude": 51.650032,
+      "longitude": 5.433873,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 378,
+      "name": "Sangers",
+      "latitude": 52.20663,
+      "longitude": 5.984271,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 379,
+      "name": "Schaafstra",
+      "latitude": 51.615949,
+      "longitude": 4.969474,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 380,
+      "name": "Schaafstra Hout-en Bouwmaterialenhandel",
+      "latitude": 51.485997,
+      "longitude": 5.147396,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 381,
+      "name": "Schramheckwerk",
+      "latitude": 51.976895,
+      "longitude": 4.259017,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 382,
+      "name": "Schutboom Bouwmaterialen",
+      "latitude": 51.604347,
+      "longitude": 5.665343,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 383,
+      "name": "Showroom Vandersanden Spijk",
+      "latitude": 51.846938,
+      "longitude": 6.155289,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 384,
+      "name": "Sierbestrating van der Beek",
+      "latitude": 53.181669,
+      "longitude": 5.550541,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 385,
+      "name": "Sikkens Center Gelderse Poort",
+      "latitude": 51.840048,
+      "longitude": 5.814291,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 386,
+      "name": "Sikkens Center Van Eijk",
+      "latitude": 52.023376,
+      "longitude": 5.102531,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 387,
+      "name": "Sikkens Center Van Eijk",
+      "latitude": 52.075518,
+      "longitude": 4.885737,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 388,
+      "name": "Sikkens Center Van Eijk",
+      "latitude": 52.110269,
+      "longitude": 5.048132,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 389,
+      "name": "Sikkens Center Van Eijk",
+      "latitude": 52.129514,
+      "longitude": 4.647612,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 390,
+      "name": "Sikkens Center Van Eijk",
+      "latitude": 52.314197,
+      "longitude": 4.690596,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 391,
+      "name": "Sikkens Center Van Eijk",
+      "latitude": 52.36557,
+      "longitude": 4.611834,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 392,
+      "name": "Sikkens Center Van Eijk",
+      "latitude": 52.391336,
+      "longitude": 4.777152,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 393,
+      "name": "Sikkens Center Van Eijk",
+      "latitude": 52.391723,
+      "longitude": 4.655477,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 394,
+      "name": "Sikkens Center Van Eijk",
+      "latitude": 52.394279,
+      "longitude": 4.868449,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 395,
+      "name": "Sikkens Center Van Eijk",
+      "latitude": 52.407258,
+      "longitude": 4.887623,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 396,
+      "name": "Sleiderink Bouwmaterialen",
+      "latitude": 52.385533,
+      "longitude": 7.015262,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 397,
+      "name": "Sligro",
+      "latitude": 51.49223,
+      "longitude": 3.885726,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 398,
+      "name": "Smederij Matthijsse",
+      "latitude": 51.517813,
+      "longitude": 3.509387,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 399,
+      "name": "Smulders Isolatie",
+      "latitude": 51.649437,
+      "longitude": 5.437932,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 400,
+      "name": "Solide Deur Kozijn",
+      "latitude": 51.446152,
+      "longitude": 4.041756,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 401,
+      "name": "Soprema Center",
+      "latitude": 53.217677,
+      "longitude": 6.608439,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 402,
+      "name": "Stadshout",
+      "latitude": 52.355584,
+      "longitude": 4.900444,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 403,
+      "name": "Staman",
+      "latitude": 52.356397,
+      "longitude": 6.497206,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 404,
+      "name": "Stoomhoutzagerij Nahuis",
+      "latitude": 52.032659,
+      "longitude": 6.627379,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 405,
+      "name": "Stora Enso Timber DIY Products",
+      "latitude": 52.411369,
+      "longitude": 4.807473,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 406,
+      "name": "Stukbouw Schijndel",
+      "latitude": 51.633219,
+      "longitude": 5.421549,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 407,
+      "name": "Technische Unie",
+      "latitude": 51.865388,
+      "longitude": 4.458585,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 408,
+      "name": "Technische Unie",
+      "latitude": 53.18263,
+      "longitude": 5.755843,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 409,
+      "name": "Tegel en Sanitair Specialist",
+      "latitude": 51.984278,
+      "longitude": 5.740268,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 410,
+      "name": "Thermostaat.eu",
+      "latitude": 52.51249,
+      "longitude": 5.006558,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 411,
+      "name": "Timmerfabriek Brand \"Solide\"",
+      "latitude": 51.831942,
+      "longitude": 4.840579,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 412,
+      "name": "Timmerman Sierbestrating",
+      "latitude": 52.719012,
+      "longitude": 6.240299,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 413,
+      "name": "Touw- en Staalkabel",
+      "latitude": 53.261166,
+      "longitude": 6.474795,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 414,
+      "name": "Triflor",
+      "latitude": 52.722807,
+      "longitude": 4.863971,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 415,
+      "name": "Tulp-Bijl",
+      "latitude": 52.168648,
+      "longitude": 5.348211,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 416,
+      "name": "Tuulk",
+      "latitude": 52.266616,
+      "longitude": 6.798495,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 417,
+      "name": "Twente Wood",
+      "latitude": 52.172515,
+      "longitude": 6.741746,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 418,
+      "name": "V.O.F Willy Schellekens",
+      "latitude": 51.619976,
+      "longitude": 5.357326,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 419,
+      "name": "Van Buuren",
+      "latitude": 52.179349,
+      "longitude": 5.981033,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 420,
+      "name": "Van Dijk Bouwmaterialen",
+      "latitude": 52.010781,
+      "longitude": 5.328045,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 421,
+      "name": "Van Dorp Hout",
+      "latitude": 52.066149,
+      "longitude": 4.449363,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 422,
+      "name": "Van Es Glas en Verf",
+      "latitude": 51.826504,
+      "longitude": 4.800715,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 423,
+      "name": "Van Liempd Bestratingsmaterialen",
+      "latitude": 51.607861,
+      "longitude": 5.446461,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 424,
+      "name": "Van Reel Groep",
+      "latitude": 52.590453,
+      "longitude": 6.219305,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 425,
+      "name": "Van Schip Alphen B.V.",
+      "latitude": 52.150367,
+      "longitude": 4.646992,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 426,
+      "name": "Van Swaay",
+      "latitude": 51.607582,
+      "longitude": 5.480485,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 427,
+      "name": "Van Swaay",
+      "latitude": 53.178984,
+      "longitude": 5.438283,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 428,
+      "name": "Van Wijk Sierbestrating",
+      "latitude": 52.116988,
+      "longitude": 4.686559,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 429,
+      "name": "Van Wijngaarden + Co",
+      "latitude": 51.895384,
+      "longitude": 4.457692,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 430,
+      "name": "Van de Wal houthandel & buitenspeelgoed",
+      "latitude": 51.484459,
+      "longitude": 5.170912,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 431,
+      "name": "Van den Broek Bestratingen",
+      "latitude": 51.538544,
+      "longitude": 4.613049,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 432,
+      "name": "Van der Kamp",
+      "latitude": 52.168516,
+      "longitude": 5.365524,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 433,
+      "name": "Van der Plas Flowers and Plants",
+      "latitude": 52.19108,
+      "longitude": 4.453422,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 434,
+      "name": "Van der Wiel",
+      "latitude": 53.209775,
+      "longitude": 6.603186,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 435,
+      "name": "Vandersanden Group",
+      "latitude": 51.847624,
+      "longitude": 6.157298,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 436,
+      "name": "Vihamij",
+      "latitude": 52.169724,
+      "longitude": 5.356535,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 437,
+      "name": "Voku",
+      "latitude": 52.288257,
+      "longitude": 4.841296,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 438,
+      "name": "Voskamp",
+      "latitude": 52.179319,
+      "longitude": 5.973806,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 439,
+      "name": "Vredenburg Plastics",
+      "latitude": 51.878516,
+      "longitude": 4.516606,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 440,
+      "name": "Vuurzon",
+      "latitude": 52.043762,
+      "longitude": 4.580199,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 441,
+      "name": "WEBA Bouwmaterialen",
+      "latitude": 51.632684,
+      "longitude": 4.873367,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 442,
+      "name": "Walstra antieke bouwmaterialen",
+      "latitude": 53.065455,
+      "longitude": 5.503006,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 443,
+      "name": "Warmteservice",
+      "latitude": 50.873861,
+      "longitude": 5.708236,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 444,
+      "name": "Warmteservice",
+      "latitude": 50.895873,
+      "longitude": 5.956304,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 445,
+      "name": "Warmteservice",
+      "latitude": 51.0181,
+      "longitude": 5.865923,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 446,
+      "name": "Warmteservice",
+      "latitude": 51.194438,
+      "longitude": 6.02396,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 447,
+      "name": "Warmteservice",
+      "latitude": 51.247546,
+      "longitude": 5.739383,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 448,
+      "name": "Warmteservice",
+      "latitude": 51.377888,
+      "longitude": 6.153636,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 449,
+      "name": "Warmteservice",
+      "latitude": 51.433077,
+      "longitude": 5.441733,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 450,
+      "name": "Warmteservice",
+      "latitude": 51.456329,
+      "longitude": 3.584994,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 451,
+      "name": "Warmteservice",
+      "latitude": 51.47129,
+      "longitude": 5.67907,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 452,
+      "name": "Warmteservice",
+      "latitude": 51.489223,
+      "longitude": 3.876321,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 453,
+      "name": "Warmteservice",
+      "latitude": 51.508688,
+      "longitude": 4.301301,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 454,
+      "name": "Warmteservice",
+      "latitude": 51.524396,
+      "longitude": 6.007106,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 455,
+      "name": "Warmteservice",
+      "latitude": 51.556084,
+      "longitude": 4.461683,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 456,
+      "name": "Warmteservice",
+      "latitude": 51.567574,
+      "longitude": 5.113045,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 457,
+      "name": "Warmteservice",
+      "latitude": 51.5912,
+      "longitude": 4.739569,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 458,
+      "name": "Warmteservice",
+      "latitude": 51.649403,
+      "longitude": 4.850345,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 459,
+      "name": "Warmteservice",
+      "latitude": 51.652125,
+      "longitude": 5.640778,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 460,
+      "name": "Warmteservice",
+      "latitude": 51.679286,
+      "longitude": 5.052058,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 461,
+      "name": "Warmteservice",
+      "latitude": 51.681016,
+      "longitude": 5.97626,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 462,
+      "name": "Warmteservice",
+      "latitude": 51.7095,
+      "longitude": 5.334487,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 463,
+      "name": "Warmteservice",
+      "latitude": 51.762061,
+      "longitude": 5.546831,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 464,
+      "name": "Warmteservice",
+      "latitude": 51.779198,
+      "longitude": 4.644691,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 465,
+      "name": "Warmteservice",
+      "latitude": 51.819113,
+      "longitude": 5.822195,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 466,
+      "name": "Warmteservice",
+      "latitude": 51.82797,
+      "longitude": 4.628261,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 467,
+      "name": "Warmteservice",
+      "latitude": 51.831482,
+      "longitude": 4.755391,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 468,
+      "name": "Warmteservice",
+      "latitude": 51.831703,
+      "longitude": 4.962269,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 469,
+      "name": "Warmteservice",
+      "latitude": 51.837506,
+      "longitude": 4.170756,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 470,
+      "name": "Warmteservice",
+      "latitude": 51.852943,
+      "longitude": 4.303925,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 471,
+      "name": "Warmteservice",
+      "latitude": 51.891336,
+      "longitude": 4.52288,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 472,
+      "name": "Warmteservice",
+      "latitude": 51.898924,
+      "longitude": 5.446976,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 473,
+      "name": "Warmteservice",
+      "latitude": 51.929158,
+      "longitude": 4.418943,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 474,
+      "name": "Warmteservice",
+      "latitude": 51.947654,
+      "longitude": 6.278956,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 475,
+      "name": "Warmteservice",
+      "latitude": 51.947707,
+      "longitude": 4.542243,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 476,
+      "name": "Warmteservice",
+      "latitude": 51.977569,
+      "longitude": 5.960804,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 477,
+      "name": "Warmteservice",
+      "latitude": 51.999247,
+      "longitude": 4.212941,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 478,
+      "name": "Warmteservice",
+      "latitude": 52.024348,
+      "longitude": 4.67771,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 479,
+      "name": "Warmteservice",
+      "latitude": 52.03077,
+      "longitude": 4.357906,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 480,
+      "name": "Warmteservice",
+      "latitude": 52.031842,
+      "longitude": 5.644287,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 481,
+      "name": "Warmteservice",
+      "latitude": 52.037379,
+      "longitude": 4.505267,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 482,
+      "name": "Warmteservice",
+      "latitude": 52.043306,
+      "longitude": 6.625217,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 483,
+      "name": "Warmteservice",
+      "latitude": 52.049479,
+      "longitude": 5.116913,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 484,
+      "name": "Warmteservice",
+      "latitude": 52.058584,
+      "longitude": 4.30242,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 485,
+      "name": "Warmteservice",
+      "latitude": 52.101969,
+      "longitude": 5.253643,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 486,
+      "name": "Warmteservice",
+      "latitude": 52.126436,
+      "longitude": 4.649971,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 487,
+      "name": "Warmteservice",
+      "latitude": 52.12885,
+      "longitude": 5.039605,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 488,
+      "name": "Warmteservice",
+      "latitude": 52.152078,
+      "longitude": 6.198099,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 489,
+      "name": "Warmteservice",
+      "latitude": 52.160314,
+      "longitude": 5.375827,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 490,
+      "name": "Warmteservice",
+      "latitude": 52.174584,
+      "longitude": 4.497416,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 491,
+      "name": "Warmteservice",
+      "latitude": 52.20172,
+      "longitude": 4.435015,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 492,
+      "name": "Warmteservice",
+      "latitude": 52.211381,
+      "longitude": 6.884198,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 493,
+      "name": "Warmteservice",
+      "latitude": 52.222781,
+      "longitude": 5.149562,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 494,
+      "name": "Warmteservice",
+      "latitude": 52.226543,
+      "longitude": 5.975593,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 495,
+      "name": "Warmteservice",
+      "latitude": 52.240295,
+      "longitude": 4.838213,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 496,
+      "name": "Warmteservice",
+      "latitude": 52.240778,
+      "longitude": 5.481065,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 497,
+      "name": "Warmteservice",
+      "latitude": 52.241554,
+      "longitude": 6.178861,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 498,
+      "name": "Warmteservice",
+      "latitude": 52.272845,
+      "longitude": 6.777376,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 499,
+      "name": "Warmteservice",
+      "latitude": 52.274414,
+      "longitude": 4.572906,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 500,
+      "name": "Warmteservice",
+      "latitude": 52.300022,
+      "longitude": 5.156371,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 501,
+      "name": "Warmteservice",
+      "latitude": 52.340644,
+      "longitude": 6.660113,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 502,
+      "name": "Warmteservice",
+      "latitude": 52.342004,
+      "longitude": 4.867989,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 503,
+      "name": "Warmteservice",
+      "latitude": 52.343844,
+      "longitude": 4.630844,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 504,
+      "name": "Warmteservice",
+      "latitude": 52.355218,
+      "longitude": 5.634213,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 505,
+      "name": "Warmteservice",
+      "latitude": 52.360915,
+      "longitude": 4.7841,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 506,
+      "name": "Warmteservice",
+      "latitude": 52.367628,
+      "longitude": 4.92979,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 507,
+      "name": "Warmteservice",
+      "latitude": 52.375437,
+      "longitude": 4.643679,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 508,
+      "name": "Warmteservice",
+      "latitude": 52.38374,
+      "longitude": 4.865239,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 509,
+      "name": "Warmteservice",
+      "latitude": 52.386158,
+      "longitude": 5.214979,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 510,
+      "name": "Warmteservice",
+      "latitude": 52.44509,
+      "longitude": 4.838948,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 511,
+      "name": "Warmteservice",
+      "latitude": 52.476274,
+      "longitude": 4.660024,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 512,
+      "name": "Warmteservice",
+      "latitude": 52.489429,
+      "longitude": 6.126832,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 513,
+      "name": "Warmteservice",
+      "latitude": 52.504352,
+      "longitude": 5.444127,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 514,
+      "name": "Warmteservice",
+      "latitude": 52.509734,
+      "longitude": 4.781357,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 515,
+      "name": "Warmteservice",
+      "latitude": 52.516706,
+      "longitude": 4.979486,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 516,
+      "name": "Warmteservice",
+      "latitude": 52.576473,
+      "longitude": 6.594735,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 517,
+      "name": "Warmteservice",
+      "latitude": 52.617761,
+      "longitude": 4.766267,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 518,
+      "name": "Warmteservice",
+      "latitude": 52.662755,
+      "longitude": 5.063531,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 519,
+      "name": "Warmteservice",
+      "latitude": 52.693076,
+      "longitude": 5.217624,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 520,
+      "name": "Warmteservice",
+      "latitude": 52.729488,
+      "longitude": 6.506616,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 521,
+      "name": "Warmteservice",
+      "latitude": 52.778996,
+      "longitude": 4.813213,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 522,
+      "name": "Warmteservice",
+      "latitude": 52.789983,
+      "longitude": 6.096121,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 523,
+      "name": "Warmteservice",
+      "latitude": 52.798445,
+      "longitude": 6.902121,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 524,
+      "name": "Warmteservice",
+      "latitude": 52.964002,
+      "longitude": 5.907742,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 525,
+      "name": "Warmteservice",
+      "latitude": 53.100437,
+      "longitude": 6.884619,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 526,
+      "name": "Warmteservice",
+      "latitude": 53.110375,
+      "longitude": 6.074427,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 527,
+      "name": "Warmteservice",
+      "latitude": 53.197596,
+      "longitude": 5.84345,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 528,
+      "name": "Warmteservice",
+      "latitude": 53.217809,
+      "longitude": 6.604755,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 529,
+      "name": "Wasco",
+      "latitude": 50.875062,
+      "longitude": 5.715777,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 530,
+      "name": "Wasco",
+      "latitude": 50.905142,
+      "longitude": 5.940622,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 531,
+      "name": "Wasco",
+      "latitude": 50.958427,
+      "longitude": 5.814465,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 532,
+      "name": "Wasco",
+      "latitude": 51.386177,
+      "longitude": 6.181881,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 533,
+      "name": "Wasco",
+      "latitude": 51.427031,
+      "longitude": 5.439223,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 534,
+      "name": "Wasco",
+      "latitude": 51.494303,
+      "longitude": 3.653345,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 535,
+      "name": "Wasco",
+      "latitude": 51.569788,
+      "longitude": 5.108846,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 536,
+      "name": "Wasco",
+      "latitude": 51.611419,
+      "longitude": 4.71935,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 537,
+      "name": "Wasco",
+      "latitude": 51.703683,
+      "longitude": 5.271203,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 538,
+      "name": "Wasco",
+      "latitude": 51.779908,
+      "longitude": 4.632676,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 539,
+      "name": "Wasco",
+      "latitude": 51.83947,
+      "longitude": 5.814984,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 540,
+      "name": "Wasco",
+      "latitude": 51.875125,
+      "longitude": 4.55704,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 541,
+      "name": "Wasco",
+      "latitude": 51.944483,
+      "longitude": 4.411537,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 542,
+      "name": "Wasco",
+      "latitude": 51.973905,
+      "longitude": 5.948108,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 543,
+      "name": "Wasco",
+      "latitude": 52.030673,
+      "longitude": 5.644039,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 544,
+      "name": "Wasco",
+      "latitude": 52.050778,
+      "longitude": 4.259011,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 545,
+      "name": "Wasco",
+      "latitude": 52.065856,
+      "longitude": 4.366519,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 546,
+      "name": "Wasco",
+      "latitude": 52.091251,
+      "longitude": 5.28598,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 547,
+      "name": "Wasco",
+      "latitude": 52.123706,
+      "longitude": 5.088045,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 548,
+      "name": "Wasco",
+      "latitude": 52.160324,
+      "longitude": 4.511427,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 549,
+      "name": "Wasco",
+      "latitude": 52.169077,
+      "longitude": 5.428001,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 550,
+      "name": "Wasco",
+      "latitude": 52.17886,
+      "longitude": 5.97882,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 551,
+      "name": "Wasco",
+      "latitude": 52.216179,
+      "longitude": 6.846275,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 552,
+      "name": "Wasco",
+      "latitude": 52.221148,
+      "longitude": 5.146774,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 553,
+      "name": "Wasco",
+      "latitude": 52.247031,
+      "longitude": 6.176195,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 554,
+      "name": "Wasco",
+      "latitude": 52.30774,
+      "longitude": 4.937496,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 555,
+      "name": "Wasco",
+      "latitude": 52.31377,
+      "longitude": 4.695056,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 556,
+      "name": "Wasco",
+      "latitude": 52.370716,
+      "longitude": 5.277192,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 557,
+      "name": "Wasco",
+      "latitude": 52.376131,
+      "longitude": 6.649954,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 558,
+      "name": "Wasco",
+      "latitude": 52.399119,
+      "longitude": 4.660693,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 559,
+      "name": "Wasco",
+      "latitude": 52.406972,
+      "longitude": 4.888808,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 560,
+      "name": "Wasco",
+      "latitude": 52.516828,
+      "longitude": 6.055268,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 561,
+      "name": "Wasco",
+      "latitude": 52.619289,
+      "longitude": 4.760769,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 562,
+      "name": "Wasco",
+      "latitude": 52.748278,
+      "longitude": 6.941756,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 563,
+      "name": "Wasco",
+      "latitude": 53.19319,
+      "longitude": 5.855269,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 564,
+      "name": "Wasco",
+      "latitude": 53.216195,
+      "longitude": 6.609675,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 565,
+      "name": "Wigbold",
+      "latitude": 53.238543,
+      "longitude": 6.564184,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 566,
+      "name": "Wiko dakkapellen",
+      "latitude": 52.213399,
+      "longitude": 6.842856,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 567,
+      "name": "Wikro",
+      "latitude": 51.985091,
+      "longitude": 5.740551,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 568,
+      "name": "Wildkamp",
+      "latitude": 51.485433,
+      "longitude": 3.880133,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 569,
+      "name": "Wildkamp Enschede",
+      "latitude": 52.223257,
+      "longitude": 6.958258,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 570,
+      "name": "Wilgenburg Loon- en Grondverzetbedrijf",
+      "latitude": 53.210524,
+      "longitude": 6.283095,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 571,
+      "name": "Willie's Hout",
+      "latitude": 53.238523,
+      "longitude": 5.644432,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 572,
+      "name": "Witzand Bouwmaterialen",
+      "latitude": 51.986397,
+      "longitude": 6.586609,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 573,
+      "name": "Witzand Bouwmaterialen",
+      "latitude": 52.0776,
+      "longitude": 6.459332,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 574,
+      "name": "Witzand Bouwmaterialen",
+      "latitude": 52.090348,
+      "longitude": 6.646368,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 575,
+      "name": "Witzand Bouwmaterialen",
+      "latitude": 52.218245,
+      "longitude": 6.842901,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 576,
+      "name": "Witzand Bouwmaterialen",
+      "latitude": 52.362035,
+      "longitude": 6.658763,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 577,
+      "name": "Witzand Bouwmaterialen",
+      "latitude": 52.402423,
+      "longitude": 6.59919,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 578,
+      "name": "Woerden Houthandel",
+      "latitude": 52.074759,
+      "longitude": 4.90057,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 579,
+      "name": "Wood and Stones",
+      "latitude": 52.229093,
+      "longitude": 6.85023,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 580,
+      "name": "Wytske",
+      "latitude": 53.079744,
+      "longitude": 5.456427,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 581,
+      "name": "Zenith Rubber Europe",
+      "latitude": 51.975863,
+      "longitude": 5.527117,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 582,
+      "name": "Zirkzee",
+      "latitude": 52.174249,
+      "longitude": 4.497641,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 583,
+      "name": "Zuidzijde trailers",
+      "latitude": 51.907523,
+      "longitude": 4.909186,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 584,
+      "name": "Zutphense Houthandel",
+      "latitude": 52.110553,
+      "longitude": 6.221097,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 585,
+      "name": "cohose slangen & koppelingen",
+      "latitude": 51.177542,
+      "longitude": 6.01829,
+      "osm_klasse": "shop=trade"
+    },
+    {
+      "id": 586,
+      "name": "van der Veens Houthandel",
+      "latitude": 52.483593,
+      "longitude": 4.654559,
+      "osm_klasse": "shop=trade"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: trade (shop=trade) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=trade in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 586 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: trade (shop=trade) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: trade (shop=trade) — 586 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 586 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

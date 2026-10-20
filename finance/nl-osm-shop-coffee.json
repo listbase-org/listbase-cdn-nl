@@ -1,0 +1,1283 @@
+{
+  "id": "nl-osm-shop-coffee",
+  "name": "Netherlands OSM: coffee (shop=coffee)",
+  "title": "Netherlands OSM: coffee (shop=coffee)",
+  "description": "Named OpenStreetMap features tagged shop=coffee in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 176,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Koffiehuus",
+      "latitude": 51.873691,
+      "longitude": 6.244221,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 2,
+      "name": "30ML",
+      "latitude": 51.555016,
+      "longitude": 5.084051,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 3,
+      "name": "30ML",
+      "latitude": 52.389232,
+      "longitude": 4.879923,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 4,
+      "name": "30ML Coffee & Food",
+      "latitude": 51.951333,
+      "longitude": 4.557853,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 5,
+      "name": "30ml Hof van Hoorn",
+      "latitude": 52.649816,
+      "longitude": 5.050125,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 6,
+      "name": "4spresso",
+      "latitude": 52.044541,
+      "longitude": 4.654306,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 7,
+      "name": "ADULIS",
+      "latitude": 52.225964,
+      "longitude": 5.179064,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 8,
+      "name": "Abiga Coffee",
+      "latitude": 52.16097,
+      "longitude": 4.488181,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 9,
+      "name": "Aroma",
+      "latitude": 50.889764,
+      "longitude": 5.976251,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 10,
+      "name": "Badeta Koffiebranders",
+      "latitude": 52.350541,
+      "longitude": 4.938551,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 11,
+      "name": "Badeta Koffiebranders",
+      "latitude": 52.356957,
+      "longitude": 4.899473,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 12,
+      "name": "Bagels & Beans",
+      "latitude": 52.02532,
+      "longitude": 5.557789,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 13,
+      "name": "Baken Vlieland",
+      "latitude": 53.296968,
+      "longitude": 5.091732,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 14,
+      "name": "Baristabar Zoetig",
+      "latitude": 51.883151,
+      "longitude": 5.289499,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 15,
+      "name": "Beans & Machines",
+      "latitude": 52.056044,
+      "longitude": 4.399878,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 16,
+      "name": "Bianco Nero",
+      "latitude": 52.08728,
+      "longitude": 4.308406,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 17,
+      "name": "Blanche Dael",
+      "latitude": 50.84818,
+      "longitude": 5.692537,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 18,
+      "name": "Blanche Dael",
+      "latitude": 50.855592,
+      "longitude": 5.686998,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 19,
+      "name": "Blaze Lifestyle",
+      "latitude": 52.142573,
+      "longitude": 5.04037,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 20,
+      "name": "Blue Monday",
+      "latitude": 50.864908,
+      "longitude": 6.06531,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 21,
+      "name": "Bonnebella",
+      "latitude": 52.720931,
+      "longitude": 6.484201,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 22,
+      "name": "Boot Koffie",
+      "latitude": 52.211571,
+      "longitude": 5.288552,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 23,
+      "name": "Buno Coffee",
+      "latitude": 52.346053,
+      "longitude": 4.919312,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 24,
+      "name": "Buongiorno Espresso Bar",
+      "latitude": 52.379001,
+      "longitude": 4.84703,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 25,
+      "name": "Café Imagine",
+      "latitude": 51.967426,
+      "longitude": 5.66691,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 26,
+      "name": "Chique-o-latte",
+      "latitude": 52.379781,
+      "longitude": 4.822072,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 27,
+      "name": "Coffee & Dreams",
+      "latitude": 52.163789,
+      "longitude": 4.485879,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 28,
+      "name": "Coffee & More",
+      "latitude": 51.373431,
+      "longitude": 6.17303,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 29,
+      "name": "Coffee & More",
+      "latitude": 52.391239,
+      "longitude": 4.640516,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 30,
+      "name": "Coffee & Toffee",
+      "latitude": 51.249817,
+      "longitude": 5.893798,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 31,
+      "name": "Coffee Culture",
+      "latitude": 52.275259,
+      "longitude": 5.173096,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 32,
+      "name": "Coffee Roasters",
+      "latitude": 52.368881,
+      "longitude": 4.885134,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 33,
+      "name": "Coffeeted",
+      "latitude": 51.844804,
+      "longitude": 5.865385,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 34,
+      "name": "DE Cafe",
+      "latitude": 52.088183,
+      "longitude": 4.384931,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 35,
+      "name": "Dak Showroom",
+      "latitude": 52.368406,
+      "longitude": 4.867313,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 36,
+      "name": "Danvi",
+      "latitude": 51.967116,
+      "longitude": 5.664551,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 37,
+      "name": "De Compagnie",
+      "latitude": 51.58874,
+      "longitude": 4.774754,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 38,
+      "name": "De Eenhoorn",
+      "latitude": 52.557869,
+      "longitude": 5.917439,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 39,
+      "name": "De Huismeesters",
+      "latitude": 52.309989,
+      "longitude": 4.940939,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 40,
+      "name": "De Koffie Winkel",
+      "latitude": 53.172826,
+      "longitude": 6.603042,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 41,
+      "name": "De Koffiethuiswinkel",
+      "latitude": 52.052493,
+      "longitude": 6.096978,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 42,
+      "name": "De Ouwe Smidte",
+      "latitude": 53.383241,
+      "longitude": 5.287469,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 43,
+      "name": "De Pelikaan Eerbeek",
+      "latitude": 52.105174,
+      "longitude": 6.066015,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 44,
+      "name": "De Stadsbranderij",
+      "latitude": 51.813156,
+      "longitude": 4.668521,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 45,
+      "name": "Dorothy's Koffie",
+      "latitude": 53.166694,
+      "longitude": 6.375178,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 46,
+      "name": "Effe Anders",
+      "latitude": 52.043059,
+      "longitude": 5.669569,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 47,
+      "name": "Elisabeth",
+      "latitude": 52.660761,
+      "longitude": 6.740832,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 48,
+      "name": "Espressimo",
+      "latitude": 52.088491,
+      "longitude": 4.309617,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 49,
+      "name": "Espresso Company",
+      "latitude": 53.057515,
+      "longitude": 6.725102,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 50,
+      "name": "Espresso.nl | Caffè Tiramisu",
+      "latitude": 52.350758,
+      "longitude": 5.618861,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 51,
+      "name": "Evermore",
+      "latitude": 51.907554,
+      "longitude": 4.455058,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 52,
+      "name": "Fortin Coffee",
+      "latitude": 51.688301,
+      "longitude": 5.303695,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 53,
+      "name": "Frans De Grebber",
+      "latitude": 52.697997,
+      "longitude": 6.191712,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 54,
+      "name": "Giraffe Coffee Bar",
+      "latitude": 51.922702,
+      "longitude": 4.493391,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 55,
+      "name": "Gusto",
+      "latitude": 52.547047,
+      "longitude": 4.664187,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 56,
+      "name": "Hagen Espresso Bar",
+      "latitude": 52.362565,
+      "longitude": 4.883527,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 57,
+      "name": "Harar Coffee",
+      "latitude": 52.374529,
+      "longitude": 4.873805,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 58,
+      "name": "Heilige Boon",
+      "latitude": 52.346725,
+      "longitude": 5.332248,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 59,
+      "name": "Het Coffy Huys",
+      "latitude": 52.703906,
+      "longitude": 5.289737,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 60,
+      "name": "Het Koffie Cultuur Centrum",
+      "latitude": 52.374064,
+      "longitude": 4.891275,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 61,
+      "name": "Het Koffiestation",
+      "latitude": 53.230841,
+      "longitude": 6.5848,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 62,
+      "name": "Hoeksche Branders",
+      "latitude": 51.825881,
+      "longitude": 4.47728,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 63,
+      "name": "House of Chocolate & Coffee (HOCC)",
+      "latitude": 52.599428,
+      "longitude": 4.70183,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 64,
+      "name": "Ief&Ido koffiebranderij",
+      "latitude": 52.079809,
+      "longitude": 4.304139,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 65,
+      "name": "Illimani",
+      "latitude": 52.087089,
+      "longitude": 4.338715,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 66,
+      "name": "JC Koffie & Thee",
+      "latitude": 52.000448,
+      "longitude": 5.675752,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 67,
+      "name": "Jan Notenbranderij",
+      "latitude": 52.215295,
+      "longitude": 6.896,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 68,
+      "name": "JanZSmaakPalet",
+      "latitude": 52.346803,
+      "longitude": 5.984467,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 69,
+      "name": "Jansen & Janssen",
+      "latitude": 50.886818,
+      "longitude": 5.97895,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 70,
+      "name": "Joe & The Juice",
+      "latitude": 52.35297,
+      "longitude": 4.891256,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 71,
+      "name": "Kaffa",
+      "latitude": 52.370342,
+      "longitude": 4.930138,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 72,
+      "name": "Kaldi",
+      "latitude": 50.849078,
+      "longitude": 5.69149,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 73,
+      "name": "Kaldi",
+      "latitude": 50.849548,
+      "longitude": 5.698718,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 74,
+      "name": "Kaldi",
+      "latitude": 51.254255,
+      "longitude": 5.706259,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 75,
+      "name": "Kaldi",
+      "latitude": 51.479715,
+      "longitude": 5.653486,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 76,
+      "name": "Kaldi",
+      "latitude": 51.495367,
+      "longitude": 4.287128,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 77,
+      "name": "Kaldi",
+      "latitude": 51.557341,
+      "longitude": 5.086633,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 78,
+      "name": "Kaldi",
+      "latitude": 51.688071,
+      "longitude": 5.301629,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 79,
+      "name": "Kaldi",
+      "latitude": 51.849233,
+      "longitude": 4.326202,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 80,
+      "name": "Kaldi",
+      "latitude": 51.979442,
+      "longitude": 5.908049,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 81,
+      "name": "Kaldi",
+      "latitude": 52.010111,
+      "longitude": 4.361419,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 82,
+      "name": "Kaldi",
+      "latitude": 52.01122,
+      "longitude": 4.709991,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 83,
+      "name": "Kaldi",
+      "latitude": 52.141189,
+      "longitude": 6.197468,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 84,
+      "name": "Kaldi",
+      "latitude": 52.215928,
+      "longitude": 5.960844,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 85,
+      "name": "Kaldi",
+      "latitude": 52.252994,
+      "longitude": 6.159839,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 86,
+      "name": "Kaldi",
+      "latitude": 52.26638,
+      "longitude": 6.794698,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 87,
+      "name": "Kaldi",
+      "latitude": 52.350023,
+      "longitude": 4.621555,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 88,
+      "name": "Kaldi",
+      "latitude": 52.357328,
+      "longitude": 4.89967,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 89,
+      "name": "Kaldi",
+      "latitude": 52.361675,
+      "longitude": 4.899235,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 90,
+      "name": "Kaldi",
+      "latitude": 52.370243,
+      "longitude": 4.886527,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 91,
+      "name": "Kaldi",
+      "latitude": 52.392899,
+      "longitude": 4.641313,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 92,
+      "name": "Kaldi",
+      "latitude": 52.431172,
+      "longitude": 4.644119,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 93,
+      "name": "Kaldi",
+      "latitude": 52.511135,
+      "longitude": 6.090766,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 94,
+      "name": "Kaldi",
+      "latitude": 52.632289,
+      "longitude": 4.749256,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 95,
+      "name": "Kaldi",
+      "latitude": 52.788093,
+      "longitude": 6.893427,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 96,
+      "name": "Kaldi",
+      "latitude": 53.20254,
+      "longitude": 5.791507,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 97,
+      "name": "Kaldi",
+      "latitude": 53.215183,
+      "longitude": 6.557137,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 98,
+      "name": "Ketelbinkie Koffie",
+      "latitude": 51.909964,
+      "longitude": 4.482606,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 99,
+      "name": "Koffie En Thee Winkel",
+      "latitude": 51.195019,
+      "longitude": 5.987344,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 100,
+      "name": "Koffie Mok",
+      "latitude": 52.46072,
+      "longitude": 4.811067,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 101,
+      "name": "Koffie Thee & zo",
+      "latitude": 51.917969,
+      "longitude": 4.400902,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 102,
+      "name": "Koffie in de bakkerij",
+      "latitude": 51.89107,
+      "longitude": 5.094271,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 103,
+      "name": "Koffie van Hoorn",
+      "latitude": 52.639811,
+      "longitude": 5.059592,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 104,
+      "name": "Koffie van Kees",
+      "latitude": 52.418452,
+      "longitude": 4.871709,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 105,
+      "name": "Koffiebakkers",
+      "latitude": 51.521132,
+      "longitude": 5.069132,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 106,
+      "name": "Koffiebranderij",
+      "latitude": 51.449106,
+      "longitude": 5.512163,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 107,
+      "name": "Koffiebranderij Rozema & van Schijndel",
+      "latitude": 51.581341,
+      "longitude": 5.188438,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 108,
+      "name": "Koffiebranderij Venetië",
+      "latitude": 51.966332,
+      "longitude": 6.289569,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 109,
+      "name": "Koffieplein",
+      "latitude": 53.111398,
+      "longitude": 6.88531,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 110,
+      "name": "Koffieplein",
+      "latitude": 53.15515,
+      "longitude": 6.757102,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 111,
+      "name": "Koffiestore",
+      "latitude": 52.303693,
+      "longitude": 5.240384,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 112,
+      "name": "Kohi",
+      "latitude": 52.37403,
+      "longitude": 4.636759,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 113,
+      "name": "Krups",
+      "latitude": 52.522572,
+      "longitude": 5.439559,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 114,
+      "name": "L'inizio Espresso Bar",
+      "latitude": 51.586383,
+      "longitude": 4.765072,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 115,
+      "name": "La Jeu",
+      "latitude": 51.688387,
+      "longitude": 5.313249,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 116,
+      "name": "Little Roastery",
+      "latitude": 52.166231,
+      "longitude": 5.371869,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 117,
+      "name": "Loof",
+      "latitude": 53.032821,
+      "longitude": 5.662046,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 118,
+      "name": "Lucifer Coffee Roasters H.Q.",
+      "latitude": 51.435676,
+      "longitude": 5.485002,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 119,
+      "name": "Lucifer Coffee Roasters KB",
+      "latitude": 51.436684,
+      "longitude": 5.475111,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 120,
+      "name": "Markoffie",
+      "latitude": 51.856553,
+      "longitude": 4.506161,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 121,
+      "name": "Meccaffé Espressotechniek",
+      "latitude": 53.244979,
+      "longitude": 6.572395,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 122,
+      "name": "Medellin Secret",
+      "latitude": 52.077387,
+      "longitude": 4.270336,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 123,
+      "name": "Mertens - Kaffee",
+      "latitude": 50.771217,
+      "longitude": 6.024839,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 124,
+      "name": "Miss Morrison",
+      "latitude": 52.013127,
+      "longitude": 4.356166,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 125,
+      "name": "Mocca d'Or",
+      "latitude": 52.500622,
+      "longitude": 6.130464,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 126,
+      "name": "Natuurlijk",
+      "latitude": 51.901164,
+      "longitude": 4.500405,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 127,
+      "name": "Nemisto",
+      "latitude": 52.172593,
+      "longitude": 5.355078,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 128,
+      "name": "Nespresso",
+      "latitude": 50.84923,
+      "longitude": 5.69337,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 129,
+      "name": "Nespresso",
+      "latitude": 51.439574,
+      "longitude": 5.479334,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 130,
+      "name": "Nespresso",
+      "latitude": 51.688102,
+      "longitude": 5.305976,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 131,
+      "name": "Nespresso",
+      "latitude": 51.921999,
+      "longitude": 4.48161,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 132,
+      "name": "Nespresso",
+      "latitude": 51.922391,
+      "longitude": 4.474588,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 133,
+      "name": "Nespresso",
+      "latitude": 51.981547,
+      "longitude": 5.907826,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 134,
+      "name": "Nespresso",
+      "latitude": 52.077634,
+      "longitude": 4.312075,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 135,
+      "name": "Nespresso",
+      "latitude": 52.079741,
+      "longitude": 4.308912,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 136,
+      "name": "Nespresso",
+      "latitude": 52.087959,
+      "longitude": 4.384562,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 137,
+      "name": "Nespresso",
+      "latitude": 52.091346,
+      "longitude": 5.11977,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 138,
+      "name": "Nespresso",
+      "latitude": 52.303366,
+      "longitude": 4.859385,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 139,
+      "name": "Nespresso",
+      "latitude": 52.358178,
+      "longitude": 4.878231,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 140,
+      "name": "Nespresso",
+      "latitude": 52.382007,
+      "longitude": 4.635154,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 141,
+      "name": "Op de Weis",
+      "latitude": 52.089681,
+      "longitude": 4.319217,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 142,
+      "name": "Perron Noord",
+      "latitude": 51.933229,
+      "longitude": 4.480909,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 143,
+      "name": "Pipes & Beans",
+      "latitude": 52.349198,
+      "longitude": 4.849097,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 144,
+      "name": "Roemar Koffiebranderij",
+      "latitude": 52.253526,
+      "longitude": 6.161387,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 145,
+      "name": "Rum Baba",
+      "latitude": 52.355992,
+      "longitude": 4.926538,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 146,
+      "name": "Rum Baba",
+      "latitude": 52.369139,
+      "longitude": 4.878709,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 147,
+      "name": "SIJL Coffee",
+      "latitude": 52.995139,
+      "longitude": 6.562177,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 148,
+      "name": "Santas Koffie",
+      "latitude": 51.906875,
+      "longitude": 4.431967,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 149,
+      "name": "Shokunin BV",
+      "latitude": 51.908358,
+      "longitude": 4.433701,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 150,
+      "name": "Simon Levelt",
+      "latitude": 52.302062,
+      "longitude": 4.862538,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 151,
+      "name": "Simon Levelt",
+      "latitude": 52.511131,
+      "longitude": 6.090658,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 152,
+      "name": "Simon Lévelt",
+      "latitude": 51.981636,
+      "longitude": 5.909906,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 153,
+      "name": "Simon Lévelt",
+      "latitude": 52.366319,
+      "longitude": 4.869336,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 154,
+      "name": "Simon Lévelt",
+      "latitude": 52.37822,
+      "longitude": 4.631465,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 155,
+      "name": "Simon Lévelt",
+      "latitude": 52.631305,
+      "longitude": 4.749632,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 156,
+      "name": "Sips",
+      "latitude": 52.142172,
+      "longitude": 6.195698,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 157,
+      "name": "Smaak van de Streek",
+      "latitude": 52.641016,
+      "longitude": 5.057378,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 158,
+      "name": "Smaak van de Streek",
+      "latitude": 52.697375,
+      "longitude": 5.234534,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 159,
+      "name": "Soesa",
+      "latitude": 51.55527,
+      "longitude": 5.082672,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 160,
+      "name": "Sophias Coffee",
+      "latitude": 52.139818,
+      "longitude": 5.584348,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 161,
+      "name": "Special Roast",
+      "latitude": 52.167007,
+      "longitude": 5.365132,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 162,
+      "name": "Starbucks",
+      "latitude": 52.30288,
+      "longitude": 4.861775,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 163,
+      "name": "Sweet Art",
+      "latitude": 52.363117,
+      "longitude": 4.888324,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 164,
+      "name": "The Coffee Harbour",
+      "latitude": 52.110422,
+      "longitude": 5.125213,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 165,
+      "name": "Tiramisu - La Casa del Caffè",
+      "latitude": 52.223037,
+      "longitude": 5.173156,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 166,
+      "name": "Troost & Leut Koffie en Thee",
+      "latitude": 51.644335,
+      "longitude": 4.860346,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 167,
+      "name": "Usawa Coffee koffiebranders",
+      "latitude": 51.555212,
+      "longitude": 5.681712,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 168,
+      "name": "Wakuli",
+      "latitude": 52.078306,
+      "longitude": 4.269507,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 169,
+      "name": "Wakuli",
+      "latitude": 52.083657,
+      "longitude": 5.123264,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 170,
+      "name": "Wakuli",
+      "latitude": 52.092983,
+      "longitude": 5.124549,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 171,
+      "name": "Wakuli",
+      "latitude": 52.355968,
+      "longitude": 4.900123,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 172,
+      "name": "Welter",
+      "latitude": 52.177403,
+      "longitude": 4.469429,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 173,
+      "name": "Wennekes",
+      "latitude": 51.966979,
+      "longitude": 5.664648,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 174,
+      "name": "de Pelikaan Koffie en Thee",
+      "latitude": 52.139459,
+      "longitude": 6.198251,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 175,
+      "name": "il-limone",
+      "latitude": 52.357446,
+      "longitude": 6.493015,
+      "osm_klasse": "shop=coffee"
+    },
+    {
+      "id": 176,
+      "name": "the count of coffee",
+      "latitude": 51.480443,
+      "longitude": 5.657006,
+      "osm_klasse": "shop=coffee"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: coffee (shop=coffee) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=coffee in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 176 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: coffee (shop=coffee) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: coffee (shop=coffee) — 176 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 176 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

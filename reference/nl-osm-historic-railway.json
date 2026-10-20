@@ -1,0 +1,1367 @@
+{
+  "id": "nl-osm-historic-railway",
+  "name": "Netherlands OSM: railway (historic=railway)",
+  "title": "Netherlands OSM: railway (historic=railway)",
+  "description": "Named OpenStreetMap features tagged historic=railway in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 188,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Amsterdam-Monnickendam",
+      "latitude": 52.431545,
+      "longitude": 4.993575,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 2,
+      "name": "Amsterdam-Monnickendam",
+      "latitude": 52.450508,
+      "longitude": 5.027076,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 3,
+      "name": "Amsterdam-Monnickendam",
+      "latitude": 52.451773,
+      "longitude": 5.027981,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 4,
+      "name": "Amsterdam-Monnickendam",
+      "latitude": 52.4534,
+      "longitude": 5.029144,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 5,
+      "name": "Amsterdam-Monnickendam",
+      "latitude": 52.455891,
+      "longitude": 5.031061,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 6,
+      "name": "Amsterdam-Monnickendam/Purmerend",
+      "latitude": 52.4204,
+      "longitude": 4.950946,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 7,
+      "name": "Amsterdam-Purmerend",
+      "latitude": 52.424667,
+      "longitude": 4.95097,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 8,
+      "name": "Amsterdam-Purmerend",
+      "latitude": 52.426383,
+      "longitude": 4.950955,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 9,
+      "name": "Amsterdam-Purmerend",
+      "latitude": 52.426924,
+      "longitude": 4.950956,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 10,
+      "name": "Amsterdam-Purmerend",
+      "latitude": 52.478624,
+      "longitude": 4.947605,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 11,
+      "name": "Amsterdam-Purmerend",
+      "latitude": 52.494859,
+      "longitude": 4.948382,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 12,
+      "name": "Amsterdam-Purmerend",
+      "latitude": 52.500127,
+      "longitude": 4.946483,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 13,
+      "name": "Amsterdam-Purmerend",
+      "latitude": 52.502309,
+      "longitude": 4.946132,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 14,
+      "name": "Brettenpad",
+      "latitude": 52.385873,
+      "longitude": 4.858088,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 15,
+      "name": "Brettenpad",
+      "latitude": 52.386312,
+      "longitude": 4.849175,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 16,
+      "name": "Brettenpad",
+      "latitude": 52.38646,
+      "longitude": 4.86541,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 17,
+      "name": "Brettenpad",
+      "latitude": 52.38745,
+      "longitude": 4.868762,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 18,
+      "name": "Buikslotermeerdijk",
+      "latitude": 52.409428,
+      "longitude": 4.946387,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 19,
+      "name": "Busken Huetpad",
+      "latitude": 52.348101,
+      "longitude": 5.641603,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 20,
+      "name": "De Bilt-Zeist",
+      "latitude": 52.105087,
+      "longitude": 5.255862,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 21,
+      "name": "De Bilt-Zeist",
+      "latitude": 52.130993,
+      "longitude": 5.209997,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 22,
+      "name": "De Zarken",
+      "latitude": 52.456296,
+      "longitude": 5.031521,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 23,
+      "name": "De Zarken",
+      "latitude": 52.456894,
+      "longitude": 5.03225,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 24,
+      "name": "De Zarken",
+      "latitude": 52.457475,
+      "longitude": 5.033033,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 25,
+      "name": "Edam-Kwadijk",
+      "latitude": 52.512093,
+      "longitude": 5.039008,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 26,
+      "name": "Edam-Kwadijk",
+      "latitude": 52.526391,
+      "longitude": 4.99885,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 27,
+      "name": "Edammerweg",
+      "latitude": 52.518381,
+      "longitude": 5.021156,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 28,
+      "name": "Edammerweg",
+      "latitude": 52.52002,
+      "longitude": 5.016696,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 29,
+      "name": "Edammerweg E",
+      "latitude": 52.513781,
+      "longitude": 5.033592,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 30,
+      "name": "Edammerweg E",
+      "latitude": 52.516498,
+      "longitude": 5.026244,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 31,
+      "name": "Eilandweg",
+      "latitude": 52.432312,
+      "longitude": 4.995303,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 32,
+      "name": "Eilandweg",
+      "latitude": 52.432824,
+      "longitude": 4.996532,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 33,
+      "name": "Eilandweg",
+      "latitude": 52.433304,
+      "longitude": 4.997848,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 34,
+      "name": "Grafelijksheidsbrug",
+      "latitude": 52.463645,
+      "longitude": 5.034309,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 35,
+      "name": "Jaagweg",
+      "latitude": 52.4582,
+      "longitude": 4.950864,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 36,
+      "name": "Jaagweg",
+      "latitude": 52.460898,
+      "longitude": 4.950272,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 37,
+      "name": "Jaagweg",
+      "latitude": 52.462742,
+      "longitude": 4.949591,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 38,
+      "name": "Jaagweg",
+      "latitude": 52.464024,
+      "longitude": 4.949218,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 39,
+      "name": "Jaagweg",
+      "latitude": 52.464585,
+      "longitude": 4.948876,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 40,
+      "name": "Jaagweg",
+      "latitude": 52.465972,
+      "longitude": 4.948294,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 41,
+      "name": "Jaagweg",
+      "latitude": 52.467099,
+      "longitude": 5.032788,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 42,
+      "name": "Jaagweg",
+      "latitude": 52.46884,
+      "longitude": 5.032635,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 43,
+      "name": "Jaagweg",
+      "latitude": 52.472585,
+      "longitude": 4.947339,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 44,
+      "name": "Jaagweg",
+      "latitude": 52.495391,
+      "longitude": 4.94821,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 45,
+      "name": "Jaagweg",
+      "latitude": 52.497403,
+      "longitude": 4.947533,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 46,
+      "name": "Jaagweg",
+      "latitude": 52.49884,
+      "longitude": 4.946862,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 47,
+      "name": "Jaagweg",
+      "latitude": 52.504187,
+      "longitude": 4.945276,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 48,
+      "name": "Kanaaldijk",
+      "latitude": 52.425465,
+      "longitude": 4.95096,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 49,
+      "name": "Kanaaldijk",
+      "latitude": 52.429671,
+      "longitude": 4.951011,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 50,
+      "name": "Kanaaldijk",
+      "latitude": 52.435709,
+      "longitude": 4.951135,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 51,
+      "name": "Kanaaldijk",
+      "latitude": 52.438219,
+      "longitude": 4.950934,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 52,
+      "name": "Kanaaldijk",
+      "latitude": 52.440641,
+      "longitude": 4.950536,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 53,
+      "name": "Kanaaldijk",
+      "latitude": 52.442527,
+      "longitude": 4.950195,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 54,
+      "name": "Kanaaldijk",
+      "latitude": 52.446247,
+      "longitude": 4.949477,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 55,
+      "name": "Kanaaldijk",
+      "latitude": 52.448906,
+      "longitude": 4.948925,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 56,
+      "name": "Kanaaldijk",
+      "latitude": 52.451542,
+      "longitude": 4.948708,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 57,
+      "name": "Kanaaldijk",
+      "latitude": 52.454928,
+      "longitude": 4.949618,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 58,
+      "name": "Kanaalkade",
+      "latitude": 52.510781,
+      "longitude": 4.943943,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 59,
+      "name": "Kanaalkade",
+      "latitude": 52.511833,
+      "longitude": 4.944144,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 60,
+      "name": "Kanaalschans",
+      "latitude": 52.510182,
+      "longitude": 4.943536,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 61,
+      "name": "Kanaalschans",
+      "latitude": 52.510698,
+      "longitude": 4.943881,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 62,
+      "name": "Kerkstraat",
+      "latitude": 52.458656,
+      "longitude": 5.034622,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 63,
+      "name": "Kwekerspad",
+      "latitude": 52.351003,
+      "longitude": 5.636654,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 64,
+      "name": "Middenweg",
+      "latitude": 52.429772,
+      "longitude": 4.989422,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 65,
+      "name": "Middenweg Broekermeer",
+      "latitude": 52.422013,
+      "longitude": 4.955859,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 66,
+      "name": "Middenweg Broekermeer",
+      "latitude": 52.42231,
+      "longitude": 4.960642,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 67,
+      "name": "Middenweg Broekermeer",
+      "latitude": 52.423038,
+      "longitude": 4.971866,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 68,
+      "name": "Middenweg Broekermeer",
+      "latitude": 52.426237,
+      "longitude": 4.981162,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 69,
+      "name": "Nekkerweg",
+      "latitude": 52.531473,
+      "longitude": 4.931958,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 70,
+      "name": "Nekkerweg",
+      "latitude": 52.534339,
+      "longitude": 4.933629,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 71,
+      "name": "Nekkerweg",
+      "latitude": 52.535906,
+      "longitude": 4.934637,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 72,
+      "name": "Nieuwendam",
+      "latitude": 52.463977,
+      "longitude": 5.034073,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 73,
+      "name": "Nieuwendam",
+      "latitude": 52.464311,
+      "longitude": 5.033414,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 74,
+      "name": "Nieuwendam",
+      "latitude": 52.464955,
+      "longitude": 5.032524,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 75,
+      "name": "Noordeinde",
+      "latitude": 52.459528,
+      "longitude": 5.035586,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 76,
+      "name": "Noordeinde",
+      "latitude": 52.461518,
+      "longitude": 5.03527,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 77,
+      "name": "Noordeinde",
+      "latitude": 52.463134,
+      "longitude": 5.034801,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 78,
+      "name": "Noordeinde",
+      "latitude": 52.463545,
+      "longitude": 5.034349,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 79,
+      "name": "Noordervaart",
+      "latitude": 52.599841,
+      "longitude": 4.876102,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 80,
+      "name": "Noordervaart",
+      "latitude": 52.600227,
+      "longitude": 4.874303,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 81,
+      "name": "Noordervaart",
+      "latitude": 52.600908,
+      "longitude": 4.871099,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 82,
+      "name": "Noordervaart",
+      "latitude": 52.605134,
+      "longitude": 4.850798,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 83,
+      "name": "Noordervaart",
+      "latitude": 52.609963,
+      "longitude": 4.827633,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 84,
+      "name": "Noordervaart",
+      "latitude": 52.611038,
+      "longitude": 4.822478,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 85,
+      "name": "Noordervaart",
+      "latitude": 52.611591,
+      "longitude": 4.819818,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 86,
+      "name": "Noordervaart",
+      "latitude": 52.612517,
+      "longitude": 4.815387,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 87,
+      "name": "Noordervaart",
+      "latitude": 52.614861,
+      "longitude": 4.804009,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 88,
+      "name": "Noordervaart",
+      "latitude": 52.616339,
+      "longitude": 4.796817,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 89,
+      "name": "Noordervaart",
+      "latitude": 52.617775,
+      "longitude": 4.790028,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 90,
+      "name": "Noordervaart",
+      "latitude": 52.619344,
+      "longitude": 4.782496,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 91,
+      "name": "Noordervaart",
+      "latitude": 52.620312,
+      "longitude": 4.777866,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 92,
+      "name": "Omval",
+      "latitude": 52.621367,
+      "longitude": 4.772811,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 93,
+      "name": "Opgeheven Spoorlijn Bilthoven-Zeist",
+      "latitude": 52.094934,
+      "longitude": 5.24979,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 94,
+      "name": "Oude Spoordijk",
+      "latitude": 52.272266,
+      "longitude": 4.757945,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 95,
+      "name": "Provincialeweg",
+      "latitude": 52.597709,
+      "longitude": 4.893397,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 96,
+      "name": "Provincialeweg",
+      "latitude": 52.598226,
+      "longitude": 4.891173,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 97,
+      "name": "Provincialeweg",
+      "latitude": 52.598601,
+      "longitude": 4.889422,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 98,
+      "name": "Purmerend-Alkmaar",
+      "latitude": 52.508566,
+      "longitude": 4.943094,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 99,
+      "name": "Purmerend-Alkmaar",
+      "latitude": 52.512897,
+      "longitude": 4.945085,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 100,
+      "name": "Purmerend-Alkmaar",
+      "latitude": 52.534493,
+      "longitude": 4.933812,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 101,
+      "name": "Purmerend-Alkmaar",
+      "latitude": 52.55071,
+      "longitude": 4.901841,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 102,
+      "name": "Purmerenderweg",
+      "latitude": 52.513089,
+      "longitude": 4.945887,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 103,
+      "name": "Purmerenderweg",
+      "latitude": 52.514261,
+      "longitude": 4.945654,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 104,
+      "name": "Purmerenderweg",
+      "latitude": 52.516597,
+      "longitude": 4.945174,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 105,
+      "name": "Purmerenderweg",
+      "latitude": 52.517543,
+      "longitude": 4.944983,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 106,
+      "name": "Purmerenderweg",
+      "latitude": 52.518779,
+      "longitude": 4.944971,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 107,
+      "name": "Purmerenderweg",
+      "latitude": 52.52164,
+      "longitude": 4.946495,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 108,
+      "name": "Rijperweg",
+      "latitude": 52.54369,
+      "longitude": 4.932769,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 109,
+      "name": "Rijperweg",
+      "latitude": 52.545533,
+      "longitude": 4.924651,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 110,
+      "name": "Rijperweg",
+      "latitude": 52.545966,
+      "longitude": 4.922757,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 111,
+      "name": "Rijperweg",
+      "latitude": 52.546656,
+      "longitude": 4.919737,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 112,
+      "name": "Rijperweg",
+      "latitude": 52.547653,
+      "longitude": 4.91534,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 113,
+      "name": "Rijperweg",
+      "latitude": 52.548338,
+      "longitude": 4.912325,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 114,
+      "name": "Rijperweg",
+      "latitude": 52.54877,
+      "longitude": 4.910393,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 115,
+      "name": "Rijperweg",
+      "latitude": 52.549148,
+      "longitude": 4.908714,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 116,
+      "name": "Rijperweg",
+      "latitude": 52.549929,
+      "longitude": 4.905279,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 117,
+      "name": "Rijperweg",
+      "latitude": 52.5509,
+      "longitude": 4.90102,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 118,
+      "name": "Rijperweg",
+      "latitude": 52.55117,
+      "longitude": 4.899837,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 119,
+      "name": "Rijperweg",
+      "latitude": 52.553118,
+      "longitude": 4.891298,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 120,
+      "name": "Rijperweg",
+      "latitude": 52.554122,
+      "longitude": 4.886896,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 121,
+      "name": "Rijperweg",
+      "latitude": 52.555421,
+      "longitude": 4.881195,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 122,
+      "name": "Rijperweg",
+      "latitude": 52.557065,
+      "longitude": 4.874025,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 123,
+      "name": "Rijperweg",
+      "latitude": 52.557608,
+      "longitude": 4.871574,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 124,
+      "name": "Rijperweg",
+      "latitude": 52.558091,
+      "longitude": 4.869419,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 125,
+      "name": "Rijperweg",
+      "latitude": 52.558801,
+      "longitude": 4.866275,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 126,
+      "name": "Rijperweg",
+      "latitude": 52.559833,
+      "longitude": 4.861716,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 127,
+      "name": "Rijssens Leemspoor",
+      "latitude": 52.293474,
+      "longitude": 6.519454,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 128,
+      "name": "Rijssens Leemspoor",
+      "latitude": 52.295551,
+      "longitude": 6.527598,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 129,
+      "name": "Santpoord Noord-IJmuiden",
+      "latitude": 52.43844,
+      "longitude": 4.633644,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 130,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.290099,
+      "longitude": 4.837529,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 131,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.290605,
+      "longitude": 4.838568,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 132,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.292104,
+      "longitude": 4.840083,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 133,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.293075,
+      "longitude": 4.84078,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 134,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.294507,
+      "longitude": 4.841738,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 135,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.29848,
+      "longitude": 4.844753,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 136,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.30195,
+      "longitude": 4.848414,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 137,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.302623,
+      "longitude": 4.849247,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 138,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.303387,
+      "longitude": 4.849886,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 139,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.304489,
+      "longitude": 4.850522,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 140,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.309818,
+      "longitude": 4.85115,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 141,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.313689,
+      "longitude": 4.853837,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 142,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.31481,
+      "longitude": 4.854868,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 143,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.316415,
+      "longitude": 4.855703,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 144,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.318399,
+      "longitude": 4.85626,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 145,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.320683,
+      "longitude": 4.856481,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 146,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.325891,
+      "longitude": 4.85653,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 147,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.328883,
+      "longitude": 4.856582,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 148,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.330234,
+      "longitude": 4.856205,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 149,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.330853,
+      "longitude": 4.855993,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 150,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.332225,
+      "longitude": 4.855513,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 151,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.333618,
+      "longitude": 4.855028,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 152,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.335304,
+      "longitude": 4.854441,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 153,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.34025,
+      "longitude": 4.852693,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 154,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.34329,
+      "longitude": 4.851443,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 155,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.344181,
+      "longitude": 4.851072,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 156,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.344918,
+      "longitude": 4.85095,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 157,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.345578,
+      "longitude": 4.851171,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 158,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.346396,
+      "longitude": 4.851844,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 159,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.346863,
+      "longitude": 4.851877,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 160,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.348324,
+      "longitude": 4.855397,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 161,
+      "name": "Spoorlijn Aalsmeer - Amsterdam Willemspark",
+      "latitude": 52.348962,
+      "longitude": 4.856865,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 162,
+      "name": "Spoorlijn Bovenkerk - Uithoorn",
+      "latitude": 52.28977,
+      "longitude": 4.838271,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 163,
+      "name": "Spoorlijn Bovenkerk - Uithoorn",
+      "latitude": 52.2904,
+      "longitude": 4.838761,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 164,
+      "name": "Spoorlijn Bovenkerk - Uithoorn",
+      "latitude": 52.291473,
+      "longitude": 4.839596,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 165,
+      "name": "Spoorpad",
+      "latitude": 52.351565,
+      "longitude": 5.635022,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 166,
+      "name": "Spoorpad",
+      "latitude": 52.351761,
+      "longitude": 5.633654,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 167,
+      "name": "Spoorpad",
+      "latitude": 52.352735,
+      "longitude": 5.631221,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 168,
+      "name": "Spoorpad",
+      "latitude": 52.353805,
+      "longitude": 5.630028,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 169,
+      "name": "Spoorweg Apeldoorn-Dieren",
+      "latitude": 52.195632,
+      "longitude": 5.981962,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 170,
+      "name": "Spoorweg Apeldoorn-Dieren",
+      "latitude": 52.208304,
+      "longitude": 5.977721,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 171,
+      "name": "Spoorweg Apeldoorn-Dieren",
+      "latitude": 52.208817,
+      "longitude": 5.976253,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 172,
+      "name": "Termieterweg",
+      "latitude": 52.409857,
+      "longitude": 4.946595,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 173,
+      "name": "Termieterweg",
+      "latitude": 52.41088,
+      "longitude": 4.946764,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 174,
+      "name": "Termieterweg",
+      "latitude": 52.412285,
+      "longitude": 4.946895,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 175,
+      "name": "Termieterweg",
+      "latitude": 52.416679,
+      "longitude": 4.949062,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 176,
+      "name": "Tienenwal",
+      "latitude": 52.629301,
+      "longitude": 4.757815,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 177,
+      "name": "Trambaan",
+      "latitude": 52.434052,
+      "longitude": 4.999764,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 178,
+      "name": "Trambrug",
+      "latitude": 52.511054,
+      "longitude": 5.044576,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 179,
+      "name": "Tramlijn Zutphen-Emmerik",
+      "latitude": 52.076616,
+      "longitude": 6.22474,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 180,
+      "name": "Tramlijn Zutphen-Emmerik",
+      "latitude": 52.140297,
+      "longitude": 6.191407,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 181,
+      "name": "Volgerweg",
+      "latitude": 52.522958,
+      "longitude": 4.944938,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 182,
+      "name": "Volgerweg",
+      "latitude": 52.525789,
+      "longitude": 4.932476,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 183,
+      "name": "Westdijk",
+      "latitude": 52.579298,
+      "longitude": 4.877585,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 184,
+      "name": "Westdijk",
+      "latitude": 52.586766,
+      "longitude": 4.8868,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 185,
+      "name": "Westdijk",
+      "latitude": 52.593746,
+      "longitude": 4.890351,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 186,
+      "name": "Westdijk",
+      "latitude": 52.597133,
+      "longitude": 4.893387,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 187,
+      "name": "Zarken",
+      "latitude": 52.457924,
+      "longitude": 5.033296,
+      "osm_klasse": "historic=railway"
+    },
+    {
+      "id": 188,
+      "name": "ex spoor Bilthoven-Zeist",
+      "latitude": 52.098336,
+      "longitude": 5.249321,
+      "osm_klasse": "historic=railway"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: railway (historic=railway) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged historic=railway in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 188 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: railway (historic=railway) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: railway (historic=railway) — 188 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 188 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

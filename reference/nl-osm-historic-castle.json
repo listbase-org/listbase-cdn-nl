@@ -1,0 +1,2795 @@
+{
+  "id": "nl-osm-historic-castle",
+  "name": "Netherlands OSM: castle (historic=castle)",
+  "title": "Netherlands OSM: castle (historic=castle)",
+  "description": "Named OpenStreetMap features tagged historic=castle in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 392,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Joppe",
+      "latitude": 52.206033,
+      "longitude": 6.240844,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 2,
+      "name": "'t Medler",
+      "latitude": 52.105184,
+      "longitude": 6.383876,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 3,
+      "name": "Allersmaborg",
+      "latitude": 53.319137,
+      "longitude": 6.452932,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 4,
+      "name": "Belvédère",
+      "latitude": 51.847412,
+      "longitude": 5.872542,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 5,
+      "name": "Berbice",
+      "latitude": 52.134524,
+      "longitude": 4.462104,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 6,
+      "name": "Beverweerd",
+      "latitude": 52.031951,
+      "longitude": 5.24974,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 7,
+      "name": "Boerhaavehuis",
+      "latitude": 52.220268,
+      "longitude": 4.484041,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 8,
+      "name": "Borg Ewsum",
+      "latitude": 53.353483,
+      "longitude": 6.646368,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 9,
+      "name": "Borg Verhildersum",
+      "latitude": 53.362548,
+      "longitude": 6.393106,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 10,
+      "name": "Breedenborg",
+      "latitude": 53.386533,
+      "longitude": 6.540063,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 11,
+      "name": "Broekbergen",
+      "latitude": 52.042376,
+      "longitude": 5.27628,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 12,
+      "name": "Camphuysen",
+      "latitude": 51.907943,
+      "longitude": 6.103314,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 13,
+      "name": "Château Neercanne",
+      "latitude": 50.81865,
+      "longitude": 5.667442,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 14,
+      "name": "Citadel van 's-Hertogenbosch",
+      "latitude": 51.695138,
+      "longitude": 5.30319,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 15,
+      "name": "Coendersborg",
+      "latitude": 53.148249,
+      "longitude": 6.300864,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 16,
+      "name": "Crackstate",
+      "latitude": 52.961252,
+      "longitude": 5.921839,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 17,
+      "name": "De Berckt",
+      "latitude": 51.342486,
+      "longitude": 6.111761,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 18,
+      "name": "De Binckhorst",
+      "latitude": 52.067025,
+      "longitude": 4.337353,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 19,
+      "name": "De Boom",
+      "latitude": 52.099638,
+      "longitude": 5.419376,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 20,
+      "name": "De Borggraaf",
+      "latitude": 51.461919,
+      "longitude": 6.165779,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 21,
+      "name": "De Brink",
+      "latitude": 52.086695,
+      "longitude": 5.230076,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 22,
+      "name": "De Burcht",
+      "latitude": 52.15898,
+      "longitude": 4.492438,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 23,
+      "name": "De Burght",
+      "latitude": 50.836872,
+      "longitude": 5.719943,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 24,
+      "name": "De Heiligenberg",
+      "latitude": 52.138495,
+      "longitude": 5.409298,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 25,
+      "name": "De Kelder",
+      "latitude": 51.977886,
+      "longitude": 6.282768,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 26,
+      "name": "De Kemnade",
+      "latitude": 51.939281,
+      "longitude": 6.297387,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 27,
+      "name": "De Kinkelenburg",
+      "latitude": 51.88962,
+      "longitude": 5.896095,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 28,
+      "name": "De Klencke",
+      "latitude": 52.763989,
+      "longitude": 6.74783,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 29,
+      "name": "De Oosterhof",
+      "latitude": 52.309734,
+      "longitude": 6.535639,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 30,
+      "name": "De Tegelarije",
+      "latitude": 51.206219,
+      "longitude": 6.023188,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 31,
+      "name": "De Thooren",
+      "latitude": 51.195937,
+      "longitude": 6.011168,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 32,
+      "name": "De Wientjesvoort",
+      "latitude": 52.105556,
+      "longitude": 6.349626,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 33,
+      "name": "De Wildenborch",
+      "latitude": 52.121182,
+      "longitude": 6.384509,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 34,
+      "name": "Dekemastate",
+      "latitude": 53.233257,
+      "longitude": 5.783656,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 35,
+      "name": "Den Bramel",
+      "latitude": 52.121775,
+      "longitude": 6.311204,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 36,
+      "name": "Drakensteyn",
+      "latitude": 52.17984,
+      "longitude": 5.227132,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 37,
+      "name": "Duinlust",
+      "latitude": 52.385846,
+      "longitude": 4.594568,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 38,
+      "name": "Duivenvoorde",
+      "latitude": 52.111357,
+      "longitude": 4.417457,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 39,
+      "name": "Eikenhorst",
+      "latitude": 52.124504,
+      "longitude": 4.397205,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 40,
+      "name": "Ekenstein",
+      "latitude": 53.317476,
+      "longitude": 6.806976,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 41,
+      "name": "Endegeest",
+      "latitude": 52.17262,
+      "longitude": 4.463135,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 42,
+      "name": "Epemastate",
+      "latitude": 53.040207,
+      "longitude": 5.632569,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 43,
+      "name": "Eyckenlust",
+      "latitude": 51.533918,
+      "longitude": 5.64255,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 44,
+      "name": "Fletcher Hotel Erenstein",
+      "latitude": 50.869507,
+      "longitude": 6.053688,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 45,
+      "name": "Fogelsanghstate",
+      "latitude": 53.264635,
+      "longitude": 6.110168,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 46,
+      "name": "Fraeylemaborg",
+      "latitude": 53.215465,
+      "longitude": 6.809602,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 47,
+      "name": "Gebroken Slot",
+      "latitude": 51.410369,
+      "longitude": 6.147762,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 48,
+      "name": "Gelderse Toren",
+      "latitude": 52.061254,
+      "longitude": 6.134233,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 49,
+      "name": "Geleenhof",
+      "latitude": 50.883592,
+      "longitude": 5.967613,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 50,
+      "name": "Groenestein",
+      "latitude": 53.200773,
+      "longitude": 6.587975,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 51,
+      "name": "Groot Buggenum",
+      "latitude": 51.188061,
+      "longitude": 5.85267,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 52,
+      "name": "Hardenbroek",
+      "latitude": 52.011297,
+      "longitude": 5.28418,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 53,
+      "name": "Harinxmastate",
+      "latitude": 53.059842,
+      "longitude": 6.084803,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 54,
+      "name": "Harstastate",
+      "latitude": 53.336058,
+      "longitude": 5.857934,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 55,
+      "name": "Haus Hardenberg",
+      "latitude": 51.869981,
+      "longitude": 6.398396,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 56,
+      "name": "Havezathe Batinghe",
+      "latitude": 52.835095,
+      "longitude": 6.354236,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 57,
+      "name": "Havixhorst",
+      "latitude": 52.674243,
+      "longitude": 6.258483,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 58,
+      "name": "Hellenburg",
+      "latitude": 51.409054,
+      "longitude": 3.879459,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 59,
+      "name": "Heremastate",
+      "latitude": 52.970436,
+      "longitude": 5.790705,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 60,
+      "name": "Hernen",
+      "latitude": 51.834624,
+      "longitude": 5.676213,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 61,
+      "name": "Het Barge",
+      "latitude": 52.171367,
+      "longitude": 6.230696,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 62,
+      "name": "Het Bos",
+      "latitude": 51.586854,
+      "longitude": 4.015006,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 63,
+      "name": "Het Enzerinck",
+      "latitude": 52.121193,
+      "longitude": 6.320926,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 64,
+      "name": "Het Holthuis",
+      "latitude": 52.241862,
+      "longitude": 6.115176,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 65,
+      "name": "Het Onstein",
+      "latitude": 52.08852,
+      "longitude": 6.375232,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 66,
+      "name": "Het Oude Hof",
+      "latitude": 52.664408,
+      "longitude": 4.69019,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 67,
+      "name": "Het Oude Koningshuys",
+      "latitude": 52.225933,
+      "longitude": 4.517741,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 68,
+      "name": "Het Stenen Huis",
+      "latitude": 50.796199,
+      "longitude": 5.76483,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 69,
+      "name": "Het Witte Kasteel",
+      "latitude": 51.624561,
+      "longitude": 5.074392,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 70,
+      "name": "Hoenshuis",
+      "latitude": 50.884643,
+      "longitude": 5.917329,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 71,
+      "name": "Hoeve Overhuizen",
+      "latitude": 50.817816,
+      "longitude": 6.015821,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 72,
+      "name": "Hoeve Sint Antoniusbank",
+      "latitude": 50.844754,
+      "longitude": 5.763365,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 73,
+      "name": "Huis 't Zelle",
+      "latitude": 52.068991,
+      "longitude": 6.377145,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 74,
+      "name": "Huis Baak",
+      "latitude": 52.077527,
+      "longitude": 6.232688,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 75,
+      "name": "Huis Bloemendal",
+      "latitude": 50.772815,
+      "longitude": 6.013108,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 76,
+      "name": "Huis Cammingha",
+      "latitude": 52.072185,
+      "longitude": 5.196774,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 77,
+      "name": "Huis De Dohm",
+      "latitude": 50.871057,
+      "longitude": 5.968986,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 78,
+      "name": "Huis De Puthof",
+      "latitude": 50.797168,
+      "longitude": 5.835855,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 79,
+      "name": "Huis De Rees",
+      "latitude": 52.080104,
+      "longitude": 6.146988,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 80,
+      "name": "Huis De Torentjes",
+      "latitude": 50.831689,
+      "longitude": 5.69407,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 81,
+      "name": "Huis Den Bosch",
+      "latitude": 52.078738,
+      "longitude": 6.136506,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 82,
+      "name": "Huis Dever",
+      "latitude": 52.248975,
+      "longitude": 4.547212,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 83,
+      "name": "Huis Eyll",
+      "latitude": 50.835902,
+      "longitude": 5.725376,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 84,
+      "name": "Huis Heiligenberg",
+      "latitude": 50.899134,
+      "longitude": 5.728064,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 85,
+      "name": "Huis Heyenhoven",
+      "latitude": 50.964333,
+      "longitude": 5.974117,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 86,
+      "name": "Huis Kaldenbroek",
+      "latitude": 51.435499,
+      "longitude": 6.139262,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 87,
+      "name": "Huis Loowaard",
+      "latitude": 51.922404,
+      "longitude": 5.988853,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 88,
+      "name": "Huis Malborgh",
+      "latitude": 51.229936,
+      "longitude": 5.985073,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 89,
+      "name": "Huis Nederhoven",
+      "latitude": 51.18103,
+      "longitude": 5.905918,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 90,
+      "name": "Huis Oudegein",
+      "latitude": 52.022101,
+      "longitude": 5.087259,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 91,
+      "name": "Huis Rhienderstein",
+      "latitude": 52.097407,
+      "longitude": 6.145483,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 92,
+      "name": "Huis Sevenaer",
+      "latitude": 51.926944,
+      "longitude": 6.077768,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 93,
+      "name": "Huis Severen",
+      "latitude": 50.862766,
+      "longitude": 5.726834,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 94,
+      "name": "Huis Stoutenburg",
+      "latitude": 52.152629,
+      "longitude": 5.450533,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 95,
+      "name": "Huis Strijthagen",
+      "latitude": 50.875372,
+      "longitude": 5.969702,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 96,
+      "name": "Huis Ten Dijcken",
+      "latitude": 50.940952,
+      "longitude": 5.854053,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 97,
+      "name": "Huis Verwolde",
+      "latitude": 52.20044,
+      "longitude": 6.391947,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 98,
+      "name": "Huis Zypendaal",
+      "latitude": 51.999285,
+      "longitude": 5.893126,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 99,
+      "name": "Huis de Velhorst",
+      "latitude": 52.15661,
+      "longitude": 6.333946,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 100,
+      "name": "Huis de Voorst",
+      "latitude": 52.152144,
+      "longitude": 6.243112,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 101,
+      "name": "Huis het Velde",
+      "latitude": 52.144771,
+      "longitude": 6.244456,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 102,
+      "name": "Huis te Echten",
+      "latitude": 52.71268,
+      "longitude": 6.402698,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 103,
+      "name": "Huis te Glimmen",
+      "latitude": 53.139055,
+      "longitude": 6.615714,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 104,
+      "name": "Huis te Vogelenzang",
+      "latitude": 52.326223,
+      "longitude": 4.56834,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 105,
+      "name": "Huis ten Bosch",
+      "latitude": 52.093172,
+      "longitude": 4.343731,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 106,
+      "name": "Huis ter Kleef",
+      "latitude": 52.395969,
+      "longitude": 4.634672,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 107,
+      "name": "Huis ter Wadding",
+      "latitude": 52.149127,
+      "longitude": 4.462035,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 108,
+      "name": "Huize Almelo",
+      "latitude": 52.357659,
+      "longitude": 6.669116,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 109,
+      "name": "Huize Babberich",
+      "latitude": 51.90354,
+      "longitude": 6.122479,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 110,
+      "name": "Huize Den Treek",
+      "latitude": 52.104501,
+      "longitude": 5.390896,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 111,
+      "name": "Huize Diepenheim",
+      "latitude": 52.201456,
+      "longitude": 6.545167,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 112,
+      "name": "Huize Hoevelaken",
+      "latitude": 52.175532,
+      "longitude": 5.444201,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 113,
+      "name": "Huize Holtum",
+      "latitude": 51.050738,
+      "longitude": 5.82209,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 114,
+      "name": "Huize Lemferdinge",
+      "latitude": 53.145321,
+      "longitude": 6.575419,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 115,
+      "name": "Huize Randenbroek",
+      "latitude": 52.149192,
+      "longitude": 5.397448,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 116,
+      "name": "Huize Retersbeek",
+      "latitude": 50.883288,
+      "longitude": 5.889187,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 117,
+      "name": "Huize Schothorst",
+      "latitude": 52.177675,
+      "longitude": 5.384581,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 118,
+      "name": "Huize Vliek",
+      "latitude": 50.901188,
+      "longitude": 5.772036,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 119,
+      "name": "Huize Witham",
+      "latitude": 51.035847,
+      "longitude": 5.857454,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 120,
+      "name": "Huize de Wiersse",
+      "latitude": 52.098588,
+      "longitude": 6.405388,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 121,
+      "name": "Huys te Warmont",
+      "latitude": 52.202992,
+      "longitude": 4.512796,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 122,
+      "name": "Huys ter Horst",
+      "latitude": 51.465596,
+      "longitude": 6.05834,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 123,
+      "name": "Iwema Steenhuis",
+      "latitude": 53.156872,
+      "longitude": 6.326136,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 124,
+      "name": "Jachthuis Sint Hubertus",
+      "latitude": 52.121513,
+      "longitude": 5.832798,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 125,
+      "name": "Jachtslot De Mookerheide",
+      "latitude": 51.770136,
+      "longitude": 5.889594,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 126,
+      "name": "Jacobaburcht",
+      "latitude": 51.91647,
+      "longitude": 4.103935,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 127,
+      "name": "Kasteel 't Reelaer",
+      "latitude": 52.421457,
+      "longitude": 6.256879,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 128,
+      "name": "Kasteel 't Suideras",
+      "latitude": 52.093578,
+      "longitude": 6.25052,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 129,
+      "name": "Kasteel Aerwinkel",
+      "latitude": 51.126524,
+      "longitude": 6.011383,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 130,
+      "name": "Kasteel Aldenghoor",
+      "latitude": 51.231661,
+      "longitude": 5.954042,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 131,
+      "name": "Kasteel Amerongen",
+      "latitude": 51.995414,
+      "longitude": 5.458583,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 132,
+      "name": "Kasteel Ammersoyen",
+      "latitude": 51.751556,
+      "longitude": 5.229395,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 133,
+      "name": "Kasteel Ampsen",
+      "latitude": 52.172984,
+      "longitude": 6.423351,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 134,
+      "name": "Kasteel Amstenrade",
+      "latitude": 50.939983,
+      "longitude": 5.925961,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 135,
+      "name": "Kasteel Arcen",
+      "latitude": 51.471346,
+      "longitude": 6.184829,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 136,
+      "name": "Kasteel Baexem",
+      "latitude": 51.218122,
+      "longitude": 5.88415,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 137,
+      "name": "Kasteel Biljoen",
+      "latitude": 51.996678,
+      "longitude": 5.992738,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 138,
+      "name": "Kasteel Blankenberg",
+      "latitude": 50.820512,
+      "longitude": 5.785694,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 139,
+      "name": "Kasteel Bleijenbeek",
+      "latitude": 51.635921,
+      "longitude": 6.052768,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 140,
+      "name": "Kasteel Borgharen",
+      "latitude": 50.877721,
+      "longitude": 5.686188,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 141,
+      "name": "Kasteel Borgitter",
+      "latitude": 51.160564,
+      "longitude": 5.803485,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 142,
+      "name": "Kasteel Bouvigne",
+      "latitude": 51.562623,
+      "longitude": 4.783417,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 143,
+      "name": "Kasteel Cartils",
+      "latitude": 50.822439,
+      "longitude": 5.902161,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 144,
+      "name": "Kasteel Cortenbach",
+      "latitude": 50.884737,
+      "longitude": 5.934349,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 145,
+      "name": "Kasteel Crabbehoff",
+      "latitude": 51.791918,
+      "longitude": 4.667062,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 146,
+      "name": "Kasteel Croy",
+      "latitude": 51.500101,
+      "longitude": 5.624928,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 147,
+      "name": "Kasteel D'Erp",
+      "latitude": 51.32952,
+      "longitude": 6.099574,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 148,
+      "name": "Kasteel Daelenbroeck",
+      "latitude": 51.150077,
+      "longitude": 6.073548,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 149,
+      "name": "Kasteel De Bockhof",
+      "latitude": 50.894661,
+      "longitude": 5.825375,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 150,
+      "name": "Kasteel De Bongard",
+      "latitude": 50.823132,
+      "longitude": 6.003445,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 151,
+      "name": "Kasteel De Essenburgh",
+      "latitude": 52.359213,
+      "longitude": 5.69796,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 152,
+      "name": "Kasteel De Raay",
+      "latitude": 51.325371,
+      "longitude": 6.082466,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 153,
+      "name": "Kasteel De Schaffelaar",
+      "latitude": 52.14264,
+      "longitude": 5.591253,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 154,
+      "name": "Kasteel Den Halder",
+      "latitude": 50.864692,
+      "longitude": 5.831015,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 155,
+      "name": "Kasteel Doenrade",
+      "latitude": 50.961533,
+      "longitude": 5.908798,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 156,
+      "name": "Kasteel Doornenburg",
+      "latitude": 51.893891,
+      "longitude": 5.999054,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 157,
+      "name": "Kasteel Doorwerth",
+      "latitude": 51.966411,
+      "longitude": 5.788334,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 158,
+      "name": "Kasteel Dussen",
+      "latitude": 51.733883,
+      "longitude": 4.96959,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 159,
+      "name": "Kasteel Duurstede",
+      "latitude": 51.96947,
+      "longitude": 5.343493,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 160,
+      "name": "Kasteel Eckart",
+      "latitude": 51.465568,
+      "longitude": 5.506031,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 161,
+      "name": "Kasteel Eerde",
+      "latitude": 52.48454,
+      "longitude": 6.452781,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 162,
+      "name": "Kasteel Eijsden",
+      "latitude": 50.773617,
+      "longitude": 5.69962,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 163,
+      "name": "Kasteel Elsloo",
+      "latitude": 50.947269,
+      "longitude": 5.757724,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 164,
+      "name": "Kasteel Erenstein",
+      "latitude": 50.871363,
+      "longitude": 6.054755,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 165,
+      "name": "Kasteel Geijsteren",
+      "latitude": 51.555066,
+      "longitude": 6.055577,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 166,
+      "name": "Kasteel Geldrop",
+      "latitude": 51.42505,
+      "longitude": 5.559707,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 167,
+      "name": "Kasteel Genbroek",
+      "latitude": 50.933558,
+      "longitude": 5.789797,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 168,
+      "name": "Kasteel Genhoes",
+      "latitude": 50.855501,
+      "longitude": 5.856216,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 169,
+      "name": "Kasteel Geulle",
+      "latitude": 50.925093,
+      "longitude": 5.740354,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 170,
+      "name": "Kasteel Geusselt",
+      "latitude": 50.860284,
+      "longitude": 5.719946,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 171,
+      "name": "Kasteel Goedenraad",
+      "latitude": 50.824798,
+      "longitude": 5.952515,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 172,
+      "name": "Kasteel Grasbroek",
+      "latitude": 51.022703,
+      "longitude": 5.819534,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 173,
+      "name": "Kasteel Groeneveld",
+      "latitude": 52.218625,
+      "longitude": 5.254874,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 174,
+      "name": "Kasteel Gronsveld",
+      "latitude": 50.811254,
+      "longitude": 5.728682,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 175,
+      "name": "Kasteel Hackfort",
+      "latitude": 52.100201,
+      "longitude": 6.276623,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 176,
+      "name": "Kasteel Haeren",
+      "latitude": 50.880517,
+      "longitude": 5.915187,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 177,
+      "name": "Kasteel Heel",
+      "latitude": 51.175225,
+      "longitude": 5.895626,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 178,
+      "name": "Kasteel Heemstede",
+      "latitude": 52.033008,
+      "longitude": 5.125166,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 179,
+      "name": "Kasteel Heeswijk",
+      "latitude": 51.655875,
+      "longitude": 5.441389,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 180,
+      "name": "Kasteel Heeze",
+      "latitude": 51.381208,
+      "longitude": 5.587277,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 181,
+      "name": "Kasteel Henkenshage",
+      "latitude": 51.558874,
+      "longitude": 5.456437,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 182,
+      "name": "Kasteel Het Oude Loo",
+      "latitude": 52.235352,
+      "longitude": 5.942509,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 183,
+      "name": "Kasteel Het Regelink",
+      "latitude": 52.058578,
+      "longitude": 6.3184,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 184,
+      "name": "Kasteel Hillenraad",
+      "latitude": 51.221566,
+      "longitude": 6.033982,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 185,
+      "name": "Kasteel Hoekelum",
+      "latitude": 52.015528,
+      "longitude": 5.676735,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 186,
+      "name": "Kasteel Hoensbroek",
+      "latitude": 50.916621,
+      "longitude": 5.918078,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 187,
+      "name": "Kasteel Holtmühle",
+      "latitude": 51.331101,
+      "longitude": 6.136447,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 188,
+      "name": "Kasteel Hoogenweerth",
+      "latitude": 50.821528,
+      "longitude": 5.699433,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 189,
+      "name": "Kasteel Horn",
+      "latitude": 51.208259,
+      "longitude": 5.95155,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 190,
+      "name": "Kasteel Huis Bergh",
+      "latitude": 51.874113,
+      "longitude": 6.241309,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 191,
+      "name": "Kasteel Huize Harmelen",
+      "latitude": 52.096061,
+      "longitude": 4.967494,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 192,
+      "name": "Kasteel Huize Ruurlo",
+      "latitude": 52.07884,
+      "longitude": 6.445155,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 193,
+      "name": "Kasteel Huys Heijen",
+      "latitude": 51.671507,
+      "longitude": 5.976522,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 194,
+      "name": "Kasteel Karsveld",
+      "latitude": 50.789275,
+      "longitude": 5.859885,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 195,
+      "name": "Kasteel Keppel",
+      "latitude": 51.993486,
+      "longitude": 6.227282,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 196,
+      "name": "Kasteel Keukenhof",
+      "latitude": 52.267726,
+      "longitude": 4.540152,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 197,
+      "name": "Kasteel Keverberg",
+      "latitude": 51.290688,
+      "longitude": 6.055944,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 198,
+      "name": "Kasteel Lemiers",
+      "latitude": 50.789462,
+      "longitude": 5.995103,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 199,
+      "name": "Kasteel Limbricht",
+      "latitude": 51.016462,
+      "longitude": 5.838631,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 200,
+      "name": "Kasteel Loenersloot",
+      "latitude": 52.229545,
+      "longitude": 4.997355,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 201,
+      "name": "Kasteel Lunenburg",
+      "latitude": 52.012151,
+      "longitude": 5.320026,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 202,
+      "name": "Kasteel Maurick",
+      "latitude": 51.658346,
+      "longitude": 5.306151,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 203,
+      "name": "Kasteel Meerssenhoven",
+      "latitude": 50.889566,
+      "longitude": 5.719763,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 204,
+      "name": "Kasteel Meezenbroek",
+      "latitude": 50.898913,
+      "longitude": 5.983154,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 205,
+      "name": "Kasteel Mheer",
+      "latitude": 50.780589,
+      "longitude": 5.790729,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 206,
+      "name": "Kasteel Middachten",
+      "latitude": 52.019041,
+      "longitude": 6.069735,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 207,
+      "name": "Kasteel Millen",
+      "latitude": 51.024739,
+      "longitude": 5.875797,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 208,
+      "name": "Kasteel Moersbergen",
+      "latitude": 52.027124,
+      "longitude": 5.320094,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 209,
+      "name": "Kasteel Montfoort",
+      "latitude": 52.04455,
+      "longitude": 4.950037,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 210,
+      "name": "Kasteel Nederhemert",
+      "latitude": 51.753651,
+      "longitude": 5.154195,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 211,
+      "name": "Kasteel Nederhorst",
+      "latitude": 52.261624,
+      "longitude": 5.041932,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 212,
+      "name": "Kasteel Neerijnen",
+      "latitude": 51.832762,
+      "longitude": 5.280484,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 213,
+      "name": "Kasteel Nemerlaer",
+      "latitude": 51.58923,
+      "longitude": 5.231811,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 214,
+      "name": "Kasteel Neubourg",
+      "latitude": 50.808002,
+      "longitude": 5.882427,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 215,
+      "name": "Kasteel Nieuwenbroeck",
+      "latitude": 51.26694,
+      "longitude": 6.043189,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 216,
+      "name": "Kasteel Nijenbeek",
+      "latitude": 52.186679,
+      "longitude": 6.16172,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 217,
+      "name": "Kasteel Nijenborgh",
+      "latitude": 51.256519,
+      "longitude": 5.708908,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 218,
+      "name": "Kasteel Nijenrode",
+      "latitude": 52.163998,
+      "longitude": 5.009477,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 219,
+      "name": "Kasteel Nijswiller",
+      "latitude": 50.806505,
+      "longitude": 5.959972,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 220,
+      "name": "Kasteel Obbicht",
+      "latitude": 51.021815,
+      "longitude": 5.77916,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 221,
+      "name": "Kasteel Oldenaller",
+      "latitude": 52.249496,
+      "longitude": 5.523996,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 222,
+      "name": "Kasteel Ooijen",
+      "latitude": 51.506025,
+      "longitude": 6.155813,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 223,
+      "name": "Kasteel Oost",
+      "latitude": 50.796172,
+      "longitude": 5.706064,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 224,
+      "name": "Kasteel Oost",
+      "latitude": 50.861878,
+      "longitude": 5.841752,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 225,
+      "name": "Kasteel Ouborg",
+      "latitude": 51.231795,
+      "longitude": 6.025562,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 226,
+      "name": "Kasteel Oudaen",
+      "latitude": 52.160517,
+      "longitude": 5.014887,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 227,
+      "name": "Kasteel Passarts-Nieuwenhagen",
+      "latitude": 50.927999,
+      "longitude": 5.948461,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 228,
+      "name": "Kasteel Prattenburg",
+      "latitude": 52.009498,
+      "longitude": 5.529422,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 229,
+      "name": "Kasteel Puth",
+      "latitude": 50.888599,
+      "longitude": 5.925403,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 230,
+      "name": "Kasteel Rechteren",
+      "latitude": 52.497784,
+      "longitude": 6.28932,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 231,
+      "name": "Kasteel Reijmersbeek",
+      "latitude": 50.932534,
+      "longitude": 5.885883,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 232,
+      "name": "Kasteel Renswoude",
+      "latitude": 52.070609,
+      "longitude": 5.544608,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 233,
+      "name": "Kasteel Reuversweerd",
+      "latitude": 52.108105,
+      "longitude": 6.194452,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 234,
+      "name": "Kasteel Rhijnauwen",
+      "latitude": 52.069143,
+      "longitude": 5.177767,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 235,
+      "name": "Kasteel Rijckholt",
+      "latitude": 50.799548,
+      "longitude": 5.727424,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 236,
+      "name": "Kasteel Rivieren",
+      "latitude": 50.896815,
+      "longitude": 5.924311,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 237,
+      "name": "Kasteel Rosendael",
+      "latitude": 52.009391,
+      "longitude": 5.963399,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 238,
+      "name": "Kasteel Rossum",
+      "latitude": 51.801314,
+      "longitude": 5.342157,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 239,
+      "name": "Kasteel Salentein te Nijkerk",
+      "latitude": 52.235383,
+      "longitude": 5.496249,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 240,
+      "name": "Kasteel Sandenburg",
+      "latitude": 52.00708,
+      "longitude": 5.342331,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 241,
+      "name": "Kasteel Schelluinen",
+      "latitude": 51.841789,
+      "longitude": 4.925963,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 242,
+      "name": "Kasteel Scheres",
+      "latitude": 51.329441,
+      "longitude": 6.088563,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 243,
+      "name": "Kasteel Slangenburg",
+      "latitude": 51.960393,
+      "longitude": 6.360782,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 244,
+      "name": "Kasteel Soelen",
+      "latitude": 51.910073,
+      "longitude": 5.401385,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 245,
+      "name": "Kasteel Stapelen",
+      "latitude": 51.583263,
+      "longitude": 5.324354,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 246,
+      "name": "Kasteel Staverden",
+      "latitude": 52.285464,
+      "longitude": 5.738596,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 247,
+      "name": "Kasteel Stein",
+      "latitude": 50.962912,
+      "longitude": 5.755411,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 248,
+      "name": "Kasteel Strijthagen",
+      "latitude": 50.884672,
+      "longitude": 6.032985,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 249,
+      "name": "Kasteel Ten Hove",
+      "latitude": 51.192056,
+      "longitude": 5.853238,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 250,
+      "name": "Kasteel Terborgh",
+      "latitude": 50.944971,
+      "longitude": 5.862919,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 251,
+      "name": "Kasteel Terworm",
+      "latitude": 50.889474,
+      "longitude": 5.949642,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 252,
+      "name": "Kasteel Tongelaar",
+      "latitude": 51.712926,
+      "longitude": 5.780011,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 253,
+      "name": "Kasteel Ulenpas",
+      "latitude": 52.011894,
+      "longitude": 6.194522,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 254,
+      "name": "Kasteel Vaalsbroek",
+      "latitude": 50.76764,
+      "longitude": 5.994314,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 255,
+      "name": "Kasteel Vaeshartelt",
+      "latitude": 50.879491,
+      "longitude": 5.725839,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 256,
+      "name": "Kasteel Valkenburg",
+      "latitude": 50.861943,
+      "longitude": 5.830812,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 257,
+      "name": "Kasteel Vorden",
+      "latitude": 52.101413,
+      "longitude": 6.322457,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 258,
+      "name": "Kasteel Waardenburg",
+      "latitude": 51.831773,
+      "longitude": 5.266668,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 259,
+      "name": "Kasteel Well",
+      "latitude": 51.552393,
+      "longitude": 6.088761,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 260,
+      "name": "Kasteel Westhove",
+      "latitude": 51.569813,
+      "longitude": 3.521738,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 261,
+      "name": "Kasteel Wijlre",
+      "latitude": 50.830085,
+      "longitude": 5.890484,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 262,
+      "name": "Kasteel Wijnandsrade",
+      "latitude": 50.902351,
+      "longitude": 5.882576,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 263,
+      "name": "Kasteel Wisch",
+      "latitude": 51.917438,
+      "longitude": 6.356192,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 264,
+      "name": "Kasteel Wittem",
+      "latitude": 50.813916,
+      "longitude": 5.90956,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 265,
+      "name": "Kasteel Wolfrath",
+      "latitude": 51.047063,
+      "longitude": 5.833785,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 266,
+      "name": "Kasteel Zuidewijn",
+      "latitude": 51.684776,
+      "longitude": 5.014502,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 267,
+      "name": "Kasteel d'Oultremont",
+      "latitude": 51.692894,
+      "longitude": 5.169643,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 268,
+      "name": "Kasteel de Haar",
+      "latitude": 52.121452,
+      "longitude": 4.986265,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 269,
+      "name": "Kasteel het Nijenhuis",
+      "latitude": 52.416448,
+      "longitude": 6.213532,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 270,
+      "name": "Kasteel van Breda",
+      "latitude": 51.591402,
+      "longitude": 4.774923,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 271,
+      "name": "Kasteel van Coevorden",
+      "latitude": 52.662463,
+      "longitude": 6.741328,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 272,
+      "name": "Kasteel van Helmond",
+      "latitude": 51.477113,
+      "longitude": 5.653108,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 273,
+      "name": "Kasteel van Rhoon",
+      "latitude": 51.861332,
+      "longitude": 4.418602,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 274,
+      "name": "Kasteel van Woerden",
+      "latitude": 52.085142,
+      "longitude": 4.887946,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 275,
+      "name": "Kasteelruïne Hemmen",
+      "latitude": 51.934894,
+      "longitude": 5.696611,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 276,
+      "name": "Kiefskamp",
+      "latitude": 52.084174,
+      "longitude": 6.328337,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 277,
+      "name": "Koninklijk Paleis",
+      "latitude": 52.373134,
+      "longitude": 4.891335,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 278,
+      "name": "La Grande Suisse",
+      "latitude": 50.871322,
+      "longitude": 5.721723,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 279,
+      "name": "La Petite Suisse",
+      "latitude": 50.86919,
+      "longitude": 5.719919,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 280,
+      "name": "Laarwoud",
+      "latitude": 53.095883,
+      "longitude": 6.689844,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 281,
+      "name": "Landhuis Enghuizen",
+      "latitude": 52.014748,
+      "longitude": 6.229977,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 282,
+      "name": "Langwyck",
+      "latitude": 53.179159,
+      "longitude": 6.685052,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 283,
+      "name": "Leusderend",
+      "latitude": 52.131279,
+      "longitude": 5.39268,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 284,
+      "name": "Leusveld",
+      "latitude": 52.103314,
+      "longitude": 6.114892,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 285,
+      "name": "Liauckamastate",
+      "latitude": 53.220588,
+      "longitude": 5.47629,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 286,
+      "name": "Lyndenstein",
+      "latitude": 53.059777,
+      "longitude": 6.073439,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 287,
+      "name": "Ma Retraite",
+      "latitude": 52.092172,
+      "longitude": 5.225906,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 288,
+      "name": "Maarten van Rossumhuis",
+      "latitude": 51.811292,
+      "longitude": 5.248999,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 289,
+      "name": "Maelstede",
+      "latitude": 51.489246,
+      "longitude": 3.962923,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 290,
+      "name": "Mariënwaerdt",
+      "latitude": 51.889707,
+      "longitude": 5.220526,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 291,
+      "name": "Marquette",
+      "latitude": 52.520962,
+      "longitude": 4.667898,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 292,
+      "name": "Mathena",
+      "latitude": 51.922994,
+      "longitude": 6.075305,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 293,
+      "name": "Mauritshuis",
+      "latitude": 52.080391,
+      "longitude": 4.314367,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 294,
+      "name": "Menkemaborg",
+      "latitude": 53.404955,
+      "longitude": 6.683817,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 295,
+      "name": "Mensinge",
+      "latitude": 53.134518,
+      "longitude": 6.434926,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 296,
+      "name": "Molecaten",
+      "latitude": 52.464572,
+      "longitude": 6.052722,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 297,
+      "name": "Muiderslot",
+      "latitude": 52.334349,
+      "longitude": 5.071343,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 298,
+      "name": "Museum Kasteel Wijchen",
+      "latitude": 51.80854,
+      "longitude": 5.727599,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 299,
+      "name": "Nijenhuis",
+      "latitude": 52.203379,
+      "longitude": 6.574372,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 300,
+      "name": "Oenemastate",
+      "latitude": 52.960004,
+      "longitude": 5.924998,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 301,
+      "name": "Oldengaerde",
+      "latitude": 52.822832,
+      "longitude": 6.346344,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 302,
+      "name": "Oostersteyn",
+      "latitude": 51.625402,
+      "longitude": 4.016116,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 303,
+      "name": "Orangerie Kasteel Salentein",
+      "latitude": 52.235443,
+      "longitude": 5.497346,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 304,
+      "name": "Osingastate",
+      "latitude": 52.958411,
+      "longitude": 5.721038,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 305,
+      "name": "Oud Poelgeest",
+      "latitude": 52.179632,
+      "longitude": 4.484856,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 306,
+      "name": "Overcinge",
+      "latitude": 52.7675,
+      "longitude": 6.226977,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 307,
+      "name": "Paleis Lofen",
+      "latitude": 52.090822,
+      "longitude": 5.120494,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 308,
+      "name": "Paleis Noordeinde",
+      "latitude": 52.080899,
+      "longitude": 4.306592,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 309,
+      "name": "Paleis Soestdijk",
+      "latitude": 52.193524,
+      "longitude": 5.279351,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 310,
+      "name": "Paleis het Loo",
+      "latitude": 52.233791,
+      "longitude": 5.946393,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 311,
+      "name": "Paleis-Raadhuis",
+      "latitude": 51.554728,
+      "longitude": 5.086864,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 312,
+      "name": "Piloersemaborg",
+      "latitude": 53.276277,
+      "longitude": 6.417027,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 313,
+      "name": "Poptaslot",
+      "latitude": 53.209718,
+      "longitude": 5.729114,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 314,
+      "name": "Prinsenhof",
+      "latitude": 53.220875,
+      "longitude": 6.56902,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 315,
+      "name": "Rensumaborg",
+      "latitude": 53.415245,
+      "longitude": 6.714323,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 316,
+      "name": "Rhijnestein",
+      "latitude": 51.997018,
+      "longitude": 5.315744,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 317,
+      "name": "Rhijnhof",
+      "latitude": 52.160615,
+      "longitude": 4.449752,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 318,
+      "name": "Ridderhofstad Bolenstein",
+      "latitude": 52.140162,
+      "longitude": 5.0364,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 319,
+      "name": "Ridderhofstad Gunterstein",
+      "latitude": 52.172242,
+      "longitude": 5.005808,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 320,
+      "name": "Ridderhofstad Sterkenburg",
+      "latitude": 52.023602,
+      "longitude": 5.283885,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 321,
+      "name": "Rijnhuizen",
+      "latitude": 52.037105,
+      "longitude": 5.097392,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 322,
+      "name": "Rinsma State",
+      "latitude": 53.298337,
+      "longitude": 6.054152,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 323,
+      "name": "Roptastate",
+      "latitude": 53.206558,
+      "longitude": 5.445569,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 324,
+      "name": "Rusthoven",
+      "latitude": 53.318201,
+      "longitude": 6.801622,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 325,
+      "name": "Ruïne Lichtenberg",
+      "latitude": 50.822681,
+      "longitude": 5.69464,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 326,
+      "name": "Sandwijck",
+      "latitude": 52.101953,
+      "longitude": 5.173606,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 327,
+      "name": "Schierstins",
+      "latitude": 53.239523,
+      "longitude": 5.990597,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 328,
+      "name": "Schloß Rimburg",
+      "latitude": 50.91383,
+      "longitude": 6.089469,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 329,
+      "name": "Schoonheten",
+      "latitude": 52.351275,
+      "longitude": 6.294145,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 330,
+      "name": "Schultehuis",
+      "latitude": 52.854936,
+      "longitude": 6.316984,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 331,
+      "name": "Sibberhuuske",
+      "latitude": 50.846708,
+      "longitude": 5.820694,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 332,
+      "name": "Slot Assumburg",
+      "latitude": 52.505108,
+      "longitude": 4.685133,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 333,
+      "name": "Slot Baarland",
+      "latitude": 51.408731,
+      "longitude": 3.886721,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 334,
+      "name": "Slot Crayenstein",
+      "latitude": 51.685875,
+      "longitude": 3.73455,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 335,
+      "name": "Slot Doddendael",
+      "latitude": 51.874261,
+      "longitude": 5.747584,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 336,
+      "name": "Slot Haamstede",
+      "latitude": 51.697707,
+      "longitude": 3.741943,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 337,
+      "name": "Slot Loevestein",
+      "latitude": 51.8164,
+      "longitude": 5.02137,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 338,
+      "name": "Slot Moermond",
+      "latitude": 51.733534,
+      "longitude": 3.78646,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 339,
+      "name": "Slot Moermond",
+      "latitude": 51.73387,
+      "longitude": 3.785497,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 340,
+      "name": "Slot Schagen",
+      "latitude": 52.785821,
+      "longitude": 4.797142,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 341,
+      "name": "Slot Zeist",
+      "latitude": 52.078925,
+      "longitude": 5.234468,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 342,
+      "name": "Slot Zuylen",
+      "latitude": 52.127153,
+      "longitude": 5.073116,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 343,
+      "name": "Slot van Well",
+      "latitude": 51.746522,
+      "longitude": 5.2067,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 344,
+      "name": "Spreeuwenstein",
+      "latitude": 51.802867,
+      "longitude": 3.941812,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 345,
+      "name": "Staverden Koetshuis",
+      "latitude": 52.285663,
+      "longitude": 5.739851,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 346,
+      "name": "Sypesteyn",
+      "latitude": 52.193542,
+      "longitude": 5.122415,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 347,
+      "name": "Te Werve",
+      "latitude": 52.046739,
+      "longitude": 4.321363,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 348,
+      "name": "Ter Horst",
+      "latitude": 52.115945,
+      "longitude": 4.415868,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 349,
+      "name": "Twickel",
+      "latitude": 52.26639,
+      "longitude": 6.715016,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 350,
+      "name": "Vesting Aardenburg",
+      "latitude": 51.273023,
+      "longitude": 3.446109,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 351,
+      "name": "Vesting Bourtange",
+      "latitude": 53.006927,
+      "longitude": 7.192353,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 352,
+      "name": "Vesting Gorinchem",
+      "latitude": 51.830326,
+      "longitude": 4.977798,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 353,
+      "name": "Vesting Hellevoetsluis",
+      "latitude": 51.825737,
+      "longitude": 4.129465,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 354,
+      "name": "Vesting Heusden",
+      "latitude": 51.732749,
+      "longitude": 5.138703,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 355,
+      "name": "Vesting Hulst",
+      "latitude": 51.279767,
+      "longitude": 4.053286,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 356,
+      "name": "Vesting IJsselstein",
+      "latitude": 52.019707,
+      "longitude": 5.043598,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 357,
+      "name": "Vesting Muiden",
+      "latitude": 52.330749,
+      "longitude": 5.069153,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 358,
+      "name": "Vesting Naarden",
+      "latitude": 52.295992,
+      "longitude": 5.162053,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 359,
+      "name": "Vesting Nieuwpoort",
+      "latitude": 51.934669,
+      "longitude": 4.869683,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 360,
+      "name": "Vesting Sluis",
+      "latitude": 51.312931,
+      "longitude": 3.385269,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 361,
+      "name": "Vesting Steenwijk",
+      "latitude": 52.787229,
+      "longitude": 6.116641,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 362,
+      "name": "Vesting Tholen",
+      "latitude": 51.53222,
+      "longitude": 4.220186,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 363,
+      "name": "Vesting Weesp",
+      "latitude": 52.307433,
+      "longitude": 5.042355,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 364,
+      "name": "Vesting Woudrichem",
+      "latitude": 51.81649,
+      "longitude": 5.003391,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 365,
+      "name": "Vesting Zaltbommel",
+      "latitude": 51.811915,
+      "longitude": 5.249911,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 366,
+      "name": "Vestingwerken Zwolle",
+      "latitude": 52.512463,
+      "longitude": 6.094633,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 367,
+      "name": "Vestingwerken in Woerden",
+      "latitude": 52.086559,
+      "longitude": 4.885504,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 368,
+      "name": "Vestingwerken van Klundert",
+      "latitude": 51.662818,
+      "longitude": 4.53554,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 369,
+      "name": "Vestingwerken van Leiden",
+      "latitude": 52.159107,
+      "longitude": 4.49416,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 370,
+      "name": "Vestingwerken van Willemstad",
+      "latitude": 51.692601,
+      "longitude": 4.439245,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 371,
+      "name": "Villa Kruisdonk",
+      "latitude": 50.87611,
+      "longitude": 5.73054,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 372,
+      "name": "Vliethoven",
+      "latitude": 53.319377,
+      "longitude": 6.905379,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 373,
+      "name": "Vredespaleis",
+      "latitude": 52.086444,
+      "longitude": 4.294628,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 374,
+      "name": "Vreeburg",
+      "latitude": 52.143766,
+      "longitude": 4.386848,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 375,
+      "name": "Vuylcop",
+      "latitude": 51.998742,
+      "longitude": 5.170374,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 376,
+      "name": "Walenburg",
+      "latitude": 52.006193,
+      "longitude": 5.338621,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 377,
+      "name": "Warmelo",
+      "latitude": 52.196439,
+      "longitude": 6.547422,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 378,
+      "name": "Weerdesteyn",
+      "latitude": 52.011255,
+      "longitude": 5.299911,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 379,
+      "name": "Weldam",
+      "latitude": 52.217377,
+      "longitude": 6.582725,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 380,
+      "name": "Welgelegen",
+      "latitude": 53.154609,
+      "longitude": 6.797285,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 381,
+      "name": "Westbeer",
+      "latitude": 51.279896,
+      "longitude": 3.754531,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 382,
+      "name": "Westrup",
+      "latitude": 52.836049,
+      "longitude": 6.366485,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 383,
+      "name": "Wijenburg",
+      "latitude": 51.909437,
+      "longitude": 5.500312,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 384,
+      "name": "Withuishof",
+      "latitude": 50.853026,
+      "longitude": 5.736949,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 385,
+      "name": "Zandbergen",
+      "latitude": 52.112538,
+      "longitude": 5.257279,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 386,
+      "name": "Zuylestein",
+      "latitude": 52.001338,
+      "longitude": 5.443166,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 387,
+      "name": "Zwaluwenburg",
+      "latitude": 52.433419,
+      "longitude": 5.875961,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 388,
+      "name": "Zwijnsbergen",
+      "latitude": 51.642219,
+      "longitude": 5.222067,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 389,
+      "name": "kasteel De Schrieken",
+      "latitude": 51.446067,
+      "longitude": 5.006763,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 390,
+      "name": "kasteel Heukelum",
+      "latitude": 51.878204,
+      "longitude": 5.090288,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 391,
+      "name": "kasteel Spelderholt",
+      "latitude": 52.160289,
+      "longitude": 5.940454,
+      "osm_klasse": "historic=castle"
+    },
+    {
+      "id": 392,
+      "name": "vestingwerken van Brielle",
+      "latitude": 51.903101,
+      "longitude": 4.164592,
+      "osm_klasse": "historic=castle"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: castle (historic=castle) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged historic=castle in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 392 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: castle (historic=castle) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: castle (historic=castle) — 392 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 392 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

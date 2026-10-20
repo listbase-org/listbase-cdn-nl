@@ -1,0 +1,1325 @@
+{
+  "id": "nl-osm-amenity-vending-machine",
+  "name": "Netherlands OSM: vending machine (amenity=vending_machine)",
+  "title": "Netherlands OSM: vending machine (amenity=vending_machine)",
+  "description": "Named OpenStreetMap features tagged amenity=vending_machine in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 182,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Zuivelhuysje",
+      "latitude": 51.98124,
+      "longitude": 5.300677,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 2,
+      "name": "12701",
+      "latitude": 52.345161,
+      "longitude": 4.843844,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 3,
+      "name": "13615",
+      "latitude": 52.360288,
+      "longitude": 4.92918,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 4,
+      "name": "24-uurs Medicatie Automaat",
+      "latitude": 51.974793,
+      "longitude": 5.343936,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 5,
+      "name": "24-uurs automaat Apotheek Veersche Poort",
+      "latitude": 51.505863,
+      "longitude": 3.628305,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 6,
+      "name": "254 50",
+      "latitude": 52.275296,
+      "longitude": 5.158457,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 7,
+      "name": "254 52",
+      "latitude": 52.273475,
+      "longitude": 5.159007,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 8,
+      "name": "72001",
+      "latitude": 52.632016,
+      "longitude": 4.748181,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 9,
+      "name": "72001",
+      "latitude": 52.632324,
+      "longitude": 4.749605,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 10,
+      "name": "72001",
+      "latitude": 52.632804,
+      "longitude": 4.749543,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 11,
+      "name": "72001",
+      "latitude": 52.632816,
+      "longitude": 4.745958,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 12,
+      "name": "72001",
+      "latitude": 52.632902,
+      "longitude": 4.750967,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 13,
+      "name": "72001",
+      "latitude": 52.632945,
+      "longitude": 4.747239,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 14,
+      "name": "72001",
+      "latitude": 52.633601,
+      "longitude": 4.748508,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 15,
+      "name": "72001",
+      "latitude": 52.633791,
+      "longitude": 4.745507,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 16,
+      "name": "72001",
+      "latitude": 52.633837,
+      "longitude": 4.74261,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 17,
+      "name": "72001",
+      "latitude": 52.634097,
+      "longitude": 4.74677,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 18,
+      "name": "72001",
+      "latitude": 52.6343,
+      "longitude": 4.743678,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 19,
+      "name": "72001",
+      "latitude": 52.634874,
+      "longitude": 4.745296,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 20,
+      "name": "72002",
+      "latitude": 52.628811,
+      "longitude": 4.75363,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 21,
+      "name": "72002",
+      "latitude": 52.629374,
+      "longitude": 4.751836,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 22,
+      "name": "72002",
+      "latitude": 52.63031,
+      "longitude": 4.754801,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 23,
+      "name": "72002",
+      "latitude": 52.630698,
+      "longitude": 4.752887,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 24,
+      "name": "72002",
+      "latitude": 52.631153,
+      "longitude": 4.754523,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 25,
+      "name": "72002",
+      "latitude": 52.631215,
+      "longitude": 4.750764,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 26,
+      "name": "72002",
+      "latitude": 52.631527,
+      "longitude": 4.754049,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 27,
+      "name": "72002",
+      "latitude": 52.632417,
+      "longitude": 4.752707,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 28,
+      "name": "72003",
+      "latitude": 52.629283,
+      "longitude": 4.744793,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 29,
+      "name": "72003",
+      "latitude": 52.629515,
+      "longitude": 4.74352,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 30,
+      "name": "72003",
+      "latitude": 52.63235,
+      "longitude": 4.742809,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 31,
+      "name": "72004",
+      "latitude": 52.627117,
+      "longitude": 4.753458,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 32,
+      "name": "72004",
+      "latitude": 52.627203,
+      "longitude": 4.755518,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 33,
+      "name": "72004",
+      "latitude": 52.627649,
+      "longitude": 4.753001,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 34,
+      "name": "72004",
+      "latitude": 52.627879,
+      "longitude": 4.751054,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 35,
+      "name": "72004",
+      "latitude": 52.628518,
+      "longitude": 4.748946,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 36,
+      "name": "72004",
+      "latitude": 52.628733,
+      "longitude": 4.747766,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 37,
+      "name": "72004",
+      "latitude": 52.629295,
+      "longitude": 4.751698,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 38,
+      "name": "72010",
+      "latitude": 52.631155,
+      "longitude": 4.746589,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 39,
+      "name": "Aardappelautomaat",
+      "latitude": 51.607957,
+      "longitude": 5.422414,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 40,
+      "name": "Aardappelautomaat",
+      "latitude": 52.080133,
+      "longitude": 6.295036,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 41,
+      "name": "Activiteitenkiosk",
+      "latitude": 51.327661,
+      "longitude": 5.419292,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 42,
+      "name": "Automatiek",
+      "latitude": 51.915155,
+      "longitude": 4.398531,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 43,
+      "name": "Automatiek Clovis",
+      "latitude": 51.589301,
+      "longitude": 4.77471,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 44,
+      "name": "Automatiek De Halte",
+      "latitude": 51.456155,
+      "longitude": 5.585908,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 45,
+      "name": "Award Raspberries",
+      "latitude": 51.985989,
+      "longitude": 4.262309,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 46,
+      "name": "Baarles Ei",
+      "latitude": 51.449249,
+      "longitude": 4.951308,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 47,
+      "name": "Betaalautomaat P3",
+      "latitude": 53.240286,
+      "longitude": 6.531382,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 48,
+      "name": "Biokiosk Heemskerk",
+      "latitude": 52.503042,
+      "longitude": 4.638817,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 49,
+      "name": "Bloemotiek",
+      "latitude": 51.574908,
+      "longitude": 4.636424,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 50,
+      "name": "Boer Hopmans",
+      "latitude": 51.428019,
+      "longitude": 4.290546,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 51,
+      "name": "Boer'n Zelfbediening",
+      "latitude": 52.933862,
+      "longitude": 6.117483,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 52,
+      "name": "Boer-der-ei automaat",
+      "latitude": 52.049983,
+      "longitude": 5.45355,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 53,
+      "name": "Boerderij Valkenrouw",
+      "latitude": 52.096681,
+      "longitude": 4.575679,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 54,
+      "name": "Boerderijautomaat",
+      "latitude": 52.137218,
+      "longitude": 5.486829,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 55,
+      "name": "Boerenkaas",
+      "latitude": 51.889757,
+      "longitude": 4.950526,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 56,
+      "name": "Boerensoftijsautomaat",
+      "latitude": 51.440215,
+      "longitude": 4.398337,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 57,
+      "name": "Boft",
+      "latitude": 52.088936,
+      "longitude": 4.385841,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 58,
+      "name": "Bouwmeester Eieren",
+      "latitude": 52.081157,
+      "longitude": 6.383385,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 59,
+      "name": "Camper Kiosk",
+      "latitude": 51.707585,
+      "longitude": 4.812004,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 60,
+      "name": "Chipkaart topup",
+      "latitude": 52.374216,
+      "longitude": 4.883469,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 61,
+      "name": "D'n Dorstlesser - 't Koetshuys",
+      "latitude": 51.648362,
+      "longitude": 5.048367,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 62,
+      "name": "D'n Dorstlesser - De Hongerige Machinist",
+      "latitude": 51.648021,
+      "longitude": 5.053997,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 63,
+      "name": "D'n Dorstlesser - Frau Boltes Küche",
+      "latitude": 51.648083,
+      "longitude": 5.046656,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 64,
+      "name": "D'n Dorstlesser - Het Witte Paard",
+      "latitude": 51.652035,
+      "longitude": 5.048446,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 65,
+      "name": "Dagverse Scharreleien",
+      "latitude": 51.353476,
+      "longitude": 5.235709,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 66,
+      "name": "Daily Flowers",
+      "latitude": 52.097924,
+      "longitude": 5.063886,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 67,
+      "name": "De Gekroonde Eend",
+      "latitude": 51.65201,
+      "longitude": 5.049092,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 68,
+      "name": "De Groote Riet",
+      "latitude": 52.13054,
+      "longitude": 5.474539,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 69,
+      "name": "De Kleppenkast",
+      "latitude": 52.047681,
+      "longitude": 5.189714,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 70,
+      "name": "De Voskuilerhoef",
+      "latitude": 52.106929,
+      "longitude": 5.443888,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 71,
+      "name": "De Willemshoeve",
+      "latitude": 52.233072,
+      "longitude": 4.496187,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 72,
+      "name": "De Witte Gravin",
+      "latitude": 52.110235,
+      "longitude": 4.717141,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 73,
+      "name": "Dogwellness",
+      "latitude": 52.036214,
+      "longitude": 4.312675,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 74,
+      "name": "Ei de Vallei",
+      "latitude": 52.14641,
+      "longitude": 5.454108,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 75,
+      "name": "Eierautomaat",
+      "latitude": 52.085514,
+      "longitude": 5.438265,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 76,
+      "name": "Eierautomaat Larei",
+      "latitude": 52.324289,
+      "longitude": 5.393695,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 77,
+      "name": "Eierautomaat Pluimveebedrijf Heintjeskamp",
+      "latitude": 52.087154,
+      "longitude": 5.513934,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 78,
+      "name": "Eierautomaat Soest",
+      "latitude": 52.158333,
+      "longitude": 5.33802,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 79,
+      "name": "Eierautomaat van Hooijdonk",
+      "latitude": 51.45047,
+      "longitude": 4.384153,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 80,
+      "name": "Eierenautomaat",
+      "latitude": 52.9132,
+      "longitude": 6.75811,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 81,
+      "name": "Eierverkoopautomaat",
+      "latitude": 52.360187,
+      "longitude": 6.05349,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 82,
+      "name": "Eitomatiek",
+      "latitude": 52.316794,
+      "longitude": 6.754429,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 83,
+      "name": "Farmtoko",
+      "latitude": 52.296656,
+      "longitude": 4.639567,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 84,
+      "name": "Febo",
+      "latitude": 52.439693,
+      "longitude": 4.82315,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 85,
+      "name": "Finca Forata",
+      "latitude": 52.078329,
+      "longitude": 4.584493,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 86,
+      "name": "Foodbox 24/7",
+      "latitude": 50.882519,
+      "longitude": 5.671752,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 87,
+      "name": "Fruitautomaat",
+      "latitude": 50.768811,
+      "longitude": 6.003914,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 88,
+      "name": "Het Zoete Stationnetje",
+      "latitude": 52.389096,
+      "longitude": 4.838919,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 89,
+      "name": "Hoeve Nijverdal",
+      "latitude": 52.349508,
+      "longitude": 4.631113,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 90,
+      "name": "Inleverpunt Fabula Restaurant",
+      "latitude": 51.648924,
+      "longitude": 5.046849,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 91,
+      "name": "Inleverpunt Frau Boltes Küche",
+      "latitude": 51.648114,
+      "longitude": 5.046688,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 92,
+      "name": "Inleverpunt Game Gallery",
+      "latitude": 51.648469,
+      "longitude": 5.053014,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 93,
+      "name": "Inleverpunt Garderobe & Verhuur",
+      "latitude": 51.651015,
+      "longitude": 5.043463,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 94,
+      "name": "Inleverpunt Kleyne Klaroen",
+      "latitude": 51.650799,
+      "longitude": 5.045812,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 95,
+      "name": "Inleverpunt Witte Paard",
+      "latitude": 51.652184,
+      "longitude": 5.048736,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 96,
+      "name": "Jam en Sirop",
+      "latitude": 52.988154,
+      "longitude": 5.431486,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 97,
+      "name": "Kaasautomaat Middelbroek",
+      "latitude": 52.106618,
+      "longitude": 5.416313,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 98,
+      "name": "Kabinet der Strijdlustigen",
+      "latitude": 51.646611,
+      "longitude": 5.051903,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 99,
+      "name": "Kiosk",
+      "latitude": 51.498507,
+      "longitude": 3.889914,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 100,
+      "name": "Kipautomaat Wolfs Pluimvee",
+      "latitude": 51.528552,
+      "longitude": 5.167672,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 101,
+      "name": "Koe & Co",
+      "latitude": 51.43765,
+      "longitude": 5.130927,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 102,
+      "name": "Koffie- en thee-automaat",
+      "latitude": 52.284601,
+      "longitude": 5.737072,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 103,
+      "name": "Liggeldautomaat",
+      "latitude": 53.128826,
+      "longitude": 5.938177,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 104,
+      "name": "Liggeldbetaalautomaat",
+      "latitude": 52.843978,
+      "longitude": 5.710912,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 105,
+      "name": "Liggeldbetaalautomaat",
+      "latitude": 52.845222,
+      "longitude": 5.707303,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 106,
+      "name": "Melk & Meer",
+      "latitude": 52.771727,
+      "longitude": 6.776832,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 107,
+      "name": "Melk en Ko",
+      "latitude": 52.068317,
+      "longitude": 5.172137,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 108,
+      "name": "Melk- en IJs tap",
+      "latitude": 52.154253,
+      "longitude": 5.448027,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 109,
+      "name": "Melkautomaat",
+      "latitude": 52.863371,
+      "longitude": 6.641857,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 110,
+      "name": "Melktap",
+      "latitude": 51.576063,
+      "longitude": 3.582552,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 111,
+      "name": "Melktap",
+      "latitude": 51.889761,
+      "longitude": 4.95049,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 112,
+      "name": "Melktap",
+      "latitude": 52.164869,
+      "longitude": 4.585003,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 113,
+      "name": "Melktap",
+      "latitude": 52.285462,
+      "longitude": 6.120462,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 114,
+      "name": "Melktap",
+      "latitude": 52.413269,
+      "longitude": 4.972434,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 115,
+      "name": "Melktap Franssen",
+      "latitude": 50.795323,
+      "longitude": 5.923052,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 116,
+      "name": "Melktap Groene Grens",
+      "latitude": 52.022292,
+      "longitude": 5.595868,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 117,
+      "name": "Melktap Hof Espelo",
+      "latitude": 52.255054,
+      "longitude": 6.866652,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 118,
+      "name": "Melktap Juul",
+      "latitude": 51.384611,
+      "longitude": 4.313989,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 119,
+      "name": "Melktap Kronenburgh",
+      "latitude": 52.03752,
+      "longitude": 5.285152,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 120,
+      "name": "Melktap de Beekhoek",
+      "latitude": 52.227214,
+      "longitude": 6.981762,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 121,
+      "name": "Mosselautomaat",
+      "latitude": 51.49835,
+      "longitude": 4.053878,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 122,
+      "name": "NS kaartautomaat",
+      "latitude": 52.879693,
+      "longitude": 6.005059,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 123,
+      "name": "NS tickets",
+      "latitude": 52.06323,
+      "longitude": 5.194854,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 124,
+      "name": "NS-kaartautomaat",
+      "latitude": 52.644856,
+      "longitude": 5.053952,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 125,
+      "name": "NS-kaartautomaat",
+      "latitude": 52.645647,
+      "longitude": 5.054343,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 126,
+      "name": "OV-Chipkaart",
+      "latitude": 52.375886,
+      "longitude": 4.531212,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 127,
+      "name": "OV-Chipkaart",
+      "latitude": 52.378439,
+      "longitude": 4.899914,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 128,
+      "name": "OV-chipkaart",
+      "latitude": 52.513365,
+      "longitude": 6.123687,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 129,
+      "name": "OV-chipkaarthouders",
+      "latitude": 52.222262,
+      "longitude": 6.89032,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 130,
+      "name": "On-ridefotoatuomaat Toos-Express",
+      "latitude": 51.396883,
+      "longitude": 5.986455,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 131,
+      "name": "On-ridefotoautomaat Boosterbike",
+      "latitude": 51.398033,
+      "longitude": 5.985323,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 132,
+      "name": "On-ridefotoautomaat Djengu River",
+      "latitude": 51.398156,
+      "longitude": 5.984285,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 133,
+      "name": "On-ridefotoautomaat Dwervelwind",
+      "latitude": 51.398969,
+      "longitude": 5.985678,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 134,
+      "name": "On-ridefotoautomaat Expedition Zork",
+      "latitude": 51.397479,
+      "longitude": 5.985254,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 135,
+      "name": "On-ridefotoautomaat Maximus' Blitz Bahn",
+      "latitude": 51.397483,
+      "longitude": 5.986215,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 136,
+      "name": "On-ridefotoautomaat Troy",
+      "latitude": 51.396894,
+      "longitude": 5.982654,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 137,
+      "name": "Osmosewater Westland - Schoon Westland Producten",
+      "latitude": 52.018511,
+      "longitude": 4.16295,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 138,
+      "name": "P3",
+      "latitude": 52.661889,
+      "longitude": 4.82769,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 139,
+      "name": "Parkeerautomaat Campers",
+      "latitude": 51.588253,
+      "longitude": 4.763685,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 140,
+      "name": "Parkeerautomaten",
+      "latitude": 51.928161,
+      "longitude": 4.443735,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 141,
+      "name": "Parkscheinatomat",
+      "latitude": 51.914302,
+      "longitude": 4.398657,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 142,
+      "name": "Pharmaself 24",
+      "latitude": 51.774661,
+      "longitude": 4.681372,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 143,
+      "name": "Piccolo minikomkommers",
+      "latitude": 51.96987,
+      "longitude": 4.231123,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 144,
+      "name": "PizzaZoid",
+      "latitude": 50.773867,
+      "longitude": 6.005112,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 145,
+      "name": "Pizzapunt",
+      "latitude": 52.694294,
+      "longitude": 6.532682,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 146,
+      "name": "Pontje Kaas",
+      "latitude": 51.959009,
+      "longitude": 5.690087,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 147,
+      "name": "Q-Park",
+      "latitude": 50.856184,
+      "longitude": 5.688734,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 148,
+      "name": "Q-Park",
+      "latitude": 51.906377,
+      "longitude": 4.492631,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 149,
+      "name": "Qpark Automaat",
+      "latitude": 53.214869,
+      "longitude": 6.557162,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 150,
+      "name": "Quiosk",
+      "latitude": 51.92971,
+      "longitude": 4.240073,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 151,
+      "name": "Quiosk",
+      "latitude": 52.010969,
+      "longitude": 4.398891,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 152,
+      "name": "Quiosk",
+      "latitude": 52.032843,
+      "longitude": 4.180067,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 153,
+      "name": "Quiosk",
+      "latitude": 52.065044,
+      "longitude": 4.824256,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 154,
+      "name": "Quiosk",
+      "latitude": 52.27817,
+      "longitude": 4.513438,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 155,
+      "name": "Quiosk",
+      "latitude": 52.328589,
+      "longitude": 4.783864,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 156,
+      "name": "Quiosk",
+      "latitude": 52.467465,
+      "longitude": 4.64277,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 157,
+      "name": "Quiosk",
+      "latitude": 52.4899,
+      "longitude": 4.79061,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 158,
+      "name": "Quiosk",
+      "latitude": 52.601283,
+      "longitude": 6.396594,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 159,
+      "name": "Quiosk",
+      "latitude": 52.717673,
+      "longitude": 5.784324,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 160,
+      "name": "Quiosk",
+      "latitude": 53.107164,
+      "longitude": 5.783588,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 161,
+      "name": "Quiosk",
+      "latitude": 53.148283,
+      "longitude": 6.42985,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 162,
+      "name": "Quiosk",
+      "latitude": 53.200806,
+      "longitude": 6.512151,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 163,
+      "name": "Radboud P10",
+      "latitude": 51.822092,
+      "longitude": 5.868075,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 164,
+      "name": "Radboud P7",
+      "latitude": 51.820317,
+      "longitude": 5.867234,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 165,
+      "name": "Routes",
+      "latitude": 52.951512,
+      "longitude": 6.746516,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 166,
+      "name": "Ru-Vis Pickup Point",
+      "latitude": 52.128428,
+      "longitude": 5.427639,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 167,
+      "name": "T Hof Noord Ambacht",
+      "latitude": 51.494276,
+      "longitude": 3.5893,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 168,
+      "name": "The Pitch",
+      "latitude": 52.372716,
+      "longitude": 4.83535,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 169,
+      "name": "Tickets",
+      "latitude": 52.375877,
+      "longitude": 4.531204,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 170,
+      "name": "TotalEnergies",
+      "latitude": 52.513538,
+      "longitude": 4.992976,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 171,
+      "name": "Tram Bus",
+      "latitude": 52.378393,
+      "longitude": 4.899872,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 172,
+      "name": "Verse eieren automaat",
+      "latitude": 52.188971,
+      "longitude": 5.614747,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 173,
+      "name": "Vleesautomaat De Boskeelen",
+      "latitude": 51.383081,
+      "longitude": 4.336566,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 174,
+      "name": "Vlister Hoeve",
+      "latitude": 51.961542,
+      "longitude": 4.844607,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 175,
+      "name": "Willie's Worstenbrood",
+      "latitude": 51.603174,
+      "longitude": 5.131083,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 176,
+      "name": "Zuivelboerderij Kelder",
+      "latitude": 52.166283,
+      "longitude": 4.697992,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 177,
+      "name": "Zuivelboerderij Rofmeddow",
+      "latitude": 52.030815,
+      "longitude": 4.83484,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 178,
+      "name": "betaalautomaat",
+      "latitude": 51.584754,
+      "longitude": 4.777567,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 179,
+      "name": "de Kruif",
+      "latitude": 52.055878,
+      "longitude": 5.454902,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 180,
+      "name": "de Uitkomst",
+      "latitude": 52.529216,
+      "longitude": 4.974433,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 181,
+      "name": "eierautomaat",
+      "latitude": 51.97862,
+      "longitude": 5.376224,
+      "osm_klasse": "amenity=vending_machine"
+    },
+    {
+      "id": 182,
+      "name": "pan van persijn",
+      "latitude": 52.175066,
+      "longitude": 4.401535,
+      "osm_klasse": "amenity=vending_machine"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: vending machine (amenity=vending_machine) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=vending_machine in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 182 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: vending machine (amenity=vending_machine) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: vending machine (amenity=vending_machine) — 182 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 182 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

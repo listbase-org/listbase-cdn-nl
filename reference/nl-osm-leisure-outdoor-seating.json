@@ -1,0 +1,1500 @@
+{
+  "id": "nl-osm-leisure-outdoor-seating",
+  "name": "Netherlands OSM: outdoor seating (leisure=outdoor_seating)",
+  "title": "Netherlands OSM: outdoor seating (leisure=outdoor_seating)",
+  "description": "Named OpenStreetMap features tagged leisure=outdoor_seating in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 207,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Barretje",
+      "latitude": 52.957121,
+      "longitude": 4.770363,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 2,
+      "name": "'t Geveltje",
+      "latitude": 52.786978,
+      "longitude": 4.796276,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 3,
+      "name": "'t Paviljoen Terras",
+      "latitude": 51.531546,
+      "longitude": 4.457011,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 4,
+      "name": "'t Veerhuis Lands End",
+      "latitude": 52.964704,
+      "longitude": 4.778082,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 5,
+      "name": "Amstel Boathouse",
+      "latitude": 52.338417,
+      "longitude": 4.906371,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 6,
+      "name": "Artemis",
+      "latitude": 53.202937,
+      "longitude": 5.803779,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 7,
+      "name": "Athene's olijf grieks",
+      "latitude": 52.011091,
+      "longitude": 4.360779,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 8,
+      "name": "Bakkerijmuseum Cafe",
+      "latitude": 52.474469,
+      "longitude": 6.071118,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 9,
+      "name": "Bar Bonaire",
+      "latitude": 52.960231,
+      "longitude": 4.769057,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 10,
+      "name": "Bastion Hotel Amsterdam Noord",
+      "latitude": 52.395981,
+      "longitude": 4.929113,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 11,
+      "name": "Beach terras Buenos",
+      "latitude": 51.408366,
+      "longitude": 5.551352,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 12,
+      "name": "Belvedere Cafe",
+      "latitude": 52.011541,
+      "longitude": 4.362046,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 13,
+      "name": "Belvedere cafe",
+      "latitude": 52.01147,
+      "longitude": 4.362232,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 14,
+      "name": "Bethlehems Kerkplein",
+      "latitude": 52.510971,
+      "longitude": 6.094265,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 15,
+      "name": "Bij Groen Geluk",
+      "latitude": 52.017184,
+      "longitude": 4.830123,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 16,
+      "name": "Bij Maranth",
+      "latitude": 52.958776,
+      "longitude": 4.761229,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 17,
+      "name": "Bij Toontje Schoen Boerderij Terras",
+      "latitude": 51.50123,
+      "longitude": 4.835587,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 18,
+      "name": "Billy Beer",
+      "latitude": 52.011722,
+      "longitude": 4.362835,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 19,
+      "name": "BioPizza",
+      "latitude": 52.146097,
+      "longitude": 6.193221,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 20,
+      "name": "Bistrotel 't Amsterdammetje",
+      "latitude": 52.196284,
+      "longitude": 5.008121,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 21,
+      "name": "Bocca La",
+      "latitude": 52.011637,
+      "longitude": 4.362343,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 22,
+      "name": "Bospaviljoen De Vallei",
+      "latitude": 52.935346,
+      "longitude": 4.732934,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 23,
+      "name": "Brasserie 7",
+      "latitude": 51.648926,
+      "longitude": 5.045025,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 24,
+      "name": "Brasserie Kruisvoort 46",
+      "latitude": 51.58195,
+      "longitude": 4.731947,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 25,
+      "name": "Brasserie Oostereiland",
+      "latitude": 52.635392,
+      "longitude": 5.063013,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 26,
+      "name": "Broodwinkel De Bôltsjekoer",
+      "latitude": 53.398413,
+      "longitude": 5.349056,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 27,
+      "name": "Buno Coffee",
+      "latitude": 52.34607,
+      "longitude": 4.919378,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 28,
+      "name": "C'est Si Bon",
+      "latitude": 52.958887,
+      "longitude": 4.761463,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 29,
+      "name": "Cafe 't Noord",
+      "latitude": 52.786939,
+      "longitude": 4.796117,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 30,
+      "name": "Café Liman",
+      "latitude": 53.357615,
+      "longitude": 5.213737,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 31,
+      "name": "Café Louis-Davids",
+      "latitude": 52.340964,
+      "longitude": 4.906991,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 32,
+      "name": "Café Ons",
+      "latitude": 52.384681,
+      "longitude": 4.906868,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 33,
+      "name": "Carmel by Catch",
+      "latitude": 52.95763,
+      "longitude": 4.763292,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 34,
+      "name": "Carroll's",
+      "latitude": 52.401495,
+      "longitude": 4.891687,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 35,
+      "name": "Citadel",
+      "latitude": 52.930153,
+      "longitude": 4.714242,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 36,
+      "name": "Cycle Hub Café",
+      "latitude": 51.501194,
+      "longitude": 3.630461,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 37,
+      "name": "DSTRCT-DZ",
+      "latitude": 52.330178,
+      "longitude": 4.962105,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 38,
+      "name": "Dagcafe terras",
+      "latitude": 53.34158,
+      "longitude": 6.490786,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 39,
+      "name": "De Beren",
+      "latitude": 52.40057,
+      "longitude": 4.934609,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 40,
+      "name": "De Bliksem",
+      "latitude": 52.956836,
+      "longitude": 4.771804,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 41,
+      "name": "De Boell",
+      "latitude": 52.959511,
+      "longitude": 4.763986,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 42,
+      "name": "De Boschplaat",
+      "latitude": 53.403966,
+      "longitude": 5.37849,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 43,
+      "name": "De Boshut",
+      "latitude": 51.72669,
+      "longitude": 5.631513,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 44,
+      "name": "De Colonel",
+      "latitude": 52.087626,
+      "longitude": 5.247311,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 45,
+      "name": "De Driesprong",
+      "latitude": 51.992762,
+      "longitude": 5.973264,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 46,
+      "name": "De Eetkamer",
+      "latitude": 52.298972,
+      "longitude": 6.756542,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 47,
+      "name": "De Fortuna",
+      "latitude": 52.511433,
+      "longitude": 5.048634,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 48,
+      "name": "De Gulden Gaarde",
+      "latitude": 51.652153,
+      "longitude": 5.045977,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 49,
+      "name": "De Harmonie",
+      "latitude": 51.939571,
+      "longitude": 6.128127,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 50,
+      "name": "De Heeren van der Schelling",
+      "latitude": 53.404457,
+      "longitude": 5.380378,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 51,
+      "name": "De Kluis",
+      "latitude": 52.034737,
+      "longitude": 5.345931,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 52,
+      "name": "De Kombuys",
+      "latitude": 51.647178,
+      "longitude": 5.05261,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 53,
+      "name": "De Liefhebber",
+      "latitude": 52.011726,
+      "longitude": 4.358663,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 54,
+      "name": "De Moriaan Terras",
+      "latitude": 51.533411,
+      "longitude": 4.458073,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 55,
+      "name": "De Notabelen",
+      "latitude": 52.03491,
+      "longitude": 5.345751,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 56,
+      "name": "De Olde Smidse",
+      "latitude": 52.787015,
+      "longitude": 4.796983,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 57,
+      "name": "De Pannenkoekenbakker",
+      "latitude": 51.161436,
+      "longitude": 5.842195,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 58,
+      "name": "De Pimp",
+      "latitude": 52.960247,
+      "longitude": 4.76874,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 59,
+      "name": "De Proefzaak",
+      "latitude": 52.303573,
+      "longitude": 4.95109,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 60,
+      "name": "De Schaapjes",
+      "latitude": 51.588959,
+      "longitude": 5.218925,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 61,
+      "name": "De Smidte",
+      "latitude": 52.976717,
+      "longitude": 5.439235,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 62,
+      "name": "De Vishal 't Spoortje",
+      "latitude": 52.958828,
+      "longitude": 4.761346,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 63,
+      "name": "De Vrijheid",
+      "latitude": 51.642474,
+      "longitude": 4.856971,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 64,
+      "name": "De Wal",
+      "latitude": 51.27845,
+      "longitude": 4.051259,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 65,
+      "name": "De Waterraaf",
+      "latitude": 52.438276,
+      "longitude": 4.751025,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 66,
+      "name": "De beierd",
+      "latitude": 52.011131,
+      "longitude": 4.360848,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 67,
+      "name": "Deugeniet",
+      "latitude": 52.957683,
+      "longitude": 4.76501,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 68,
+      "name": "Dijkterras In Petto",
+      "latitude": 51.800602,
+      "longitude": 5.346847,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 69,
+      "name": "Diverzo",
+      "latitude": 52.957598,
+      "longitude": 4.765416,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 70,
+      "name": "Downtown",
+      "latitude": 51.961076,
+      "longitude": 6.213212,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 71,
+      "name": "Duinmanege van Poelenburgh",
+      "latitude": 52.686099,
+      "longitude": 4.70241,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 72,
+      "name": "Délifrance",
+      "latitude": 51.581386,
+      "longitude": 4.734954,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 73,
+      "name": "Edo Stukje Plein",
+      "latitude": 53.212795,
+      "longitude": 6.555945,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 74,
+      "name": "Eethuis de Waag",
+      "latitude": 51.946733,
+      "longitude": 4.851602,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 75,
+      "name": "Eigenbereid",
+      "latitude": 52.106095,
+      "longitude": 4.716455,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 76,
+      "name": "Engel cafe",
+      "latitude": 52.012176,
+      "longitude": 4.359848,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 77,
+      "name": "Eten aan de Waal",
+      "latitude": 52.34273,
+      "longitude": 4.902255,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 78,
+      "name": "FEBO",
+      "latitude": 52.399171,
+      "longitude": 4.935974,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 79,
+      "name": "Fat Phill's",
+      "latitude": 52.346322,
+      "longitude": 4.919277,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 80,
+      "name": "Flow",
+      "latitude": 52.957568,
+      "longitude": 4.764374,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 81,
+      "name": "Foodstation Avanti",
+      "latitude": 52.95905,
+      "longitude": 4.761775,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 82,
+      "name": "Grand Cafe Staal",
+      "latitude": 52.459832,
+      "longitude": 4.624688,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 83,
+      "name": "Grand Café Bourgogne",
+      "latitude": 52.699734,
+      "longitude": 4.69428,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 84,
+      "name": "Grand Café Willem van Oranje",
+      "latitude": 52.012006,
+      "longitude": 4.359462,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 85,
+      "name": "Grand café de Werf",
+      "latitude": 51.647181,
+      "longitude": 3.926896,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 86,
+      "name": "Groene Weide",
+      "latitude": 53.398228,
+      "longitude": 5.347203,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 87,
+      "name": "Gunay Burger",
+      "latitude": 52.322709,
+      "longitude": 4.972609,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 88,
+      "name": "Heerlijk Zo",
+      "latitude": 51.732306,
+      "longitude": 3.773927,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 89,
+      "name": "Hemels",
+      "latitude": 52.155445,
+      "longitude": 5.389476,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 90,
+      "name": "Henk Kiel plein",
+      "latitude": 52.549334,
+      "longitude": 5.891801,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 91,
+      "name": "Het Gulden ABC",
+      "latitude": 52.011858,
+      "longitude": 4.359035,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 92,
+      "name": "Het Lokaal",
+      "latitude": 52.15984,
+      "longitude": 5.38029,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 93,
+      "name": "Het Mandelahuisje",
+      "latitude": 52.381323,
+      "longitude": 4.905846,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 94,
+      "name": "Het Paviljoen",
+      "latitude": 52.008441,
+      "longitude": 4.369615,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 95,
+      "name": "Het Paviljoen",
+      "latitude": 52.358978,
+      "longitude": 4.955811,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 96,
+      "name": "Hotel-Restaurant Crasborn",
+      "latitude": 51.161441,
+      "longitude": 5.842641,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 97,
+      "name": "Hotel-Restaurant La Ville Blanche",
+      "latitude": 51.160963,
+      "longitude": 5.842743,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 98,
+      "name": "Hout Pizzeria",
+      "latitude": 51.427158,
+      "longitude": 5.488784,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 99,
+      "name": "Huis 4 Beneden",
+      "latitude": 52.148546,
+      "longitude": 5.970469,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 100,
+      "name": "Huis 4 Boven terras",
+      "latitude": 52.148444,
+      "longitude": 5.970382,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 101,
+      "name": "IJsparadijs",
+      "latitude": 52.957605,
+      "longitude": 4.765914,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 102,
+      "name": "Jelle",
+      "latitude": 53.200961,
+      "longitude": 5.793475,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 103,
+      "name": "KFC",
+      "latitude": 51.581044,
+      "longitude": 4.734289,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 104,
+      "name": "KFC",
+      "latitude": 53.027767,
+      "longitude": 6.572183,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 105,
+      "name": "Kardeis",
+      "latitude": 52.695786,
+      "longitude": 4.707179,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 106,
+      "name": "Keurslager Halman",
+      "latitude": 52.958955,
+      "longitude": 4.761599,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 107,
+      "name": "Kloppendiek",
+      "latitude": 52.05379,
+      "longitude": 6.690641,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 108,
+      "name": "Kobalt",
+      "latitude": 52.379445,
+      "longitude": 4.89462,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 109,
+      "name": "Kobus Kuch",
+      "latitude": 52.01138,
+      "longitude": 4.361955,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 110,
+      "name": "Kompaan Thuishaven & Brewery",
+      "latitude": 52.067106,
+      "longitude": 4.346111,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 111,
+      "name": "Konings huys",
+      "latitude": 52.011906,
+      "longitude": 4.359166,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 112,
+      "name": "Koninklijke Harmonie van Thorn",
+      "latitude": 51.161754,
+      "longitude": 5.84252,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 113,
+      "name": "La Cubanita",
+      "latitude": 52.011394,
+      "longitude": 4.363038,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 114,
+      "name": "Leona",
+      "latitude": 53.200863,
+      "longitude": 5.793838,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 115,
+      "name": "Loetje",
+      "latitude": 52.00642,
+      "longitude": 4.360581,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 116,
+      "name": "Mah̄alo",
+      "latitude": 53.223556,
+      "longitude": 6.553405,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 117,
+      "name": "Maia",
+      "latitude": 53.201467,
+      "longitude": 5.791825,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 118,
+      "name": "Malva",
+      "latitude": 52.34424,
+      "longitude": 4.900799,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 119,
+      "name": "Marie",
+      "latitude": 52.299692,
+      "longitude": 4.95543,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 120,
+      "name": "Marmaris",
+      "latitude": 52.651963,
+      "longitude": 5.085675,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 121,
+      "name": "McDonald's",
+      "latitude": 51.5824,
+      "longitude": 4.730592,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 122,
+      "name": "McDonald's",
+      "latitude": 51.967489,
+      "longitude": 5.989224,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 123,
+      "name": "Mexicaans Terras",
+      "latitude": 52.352042,
+      "longitude": 6.679741,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 124,
+      "name": "Miss Jones",
+      "latitude": 52.066053,
+      "longitude": 4.36007,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 125,
+      "name": "Miss Scarlett",
+      "latitude": 52.297755,
+      "longitude": 4.958149,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 126,
+      "name": "Mizunallen-plein",
+      "latitude": 51.478904,
+      "longitude": 5.651096,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 127,
+      "name": "Moeke",
+      "latitude": 52.011689,
+      "longitude": 4.36246,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 128,
+      "name": "Morlang",
+      "latitude": 52.366275,
+      "longitude": 4.886247,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 129,
+      "name": "MultiVlaai",
+      "latitude": 52.957584,
+      "longitude": 4.765148,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 130,
+      "name": "Museumcafé De Zwaan",
+      "latitude": 51.943316,
+      "longitude": 6.616476,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 131,
+      "name": "Next",
+      "latitude": 52.40147,
+      "longitude": 4.891754,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 132,
+      "name": "Nozems",
+      "latitude": 52.226061,
+      "longitude": 4.521854,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 133,
+      "name": "Nozems",
+      "latitude": 52.957601,
+      "longitude": 4.76609,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 134,
+      "name": "Om De Hoek",
+      "latitude": 52.176194,
+      "longitude": 4.540413,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 135,
+      "name": "Paaltjesmuseum",
+      "latitude": 51.917406,
+      "longitude": 4.454204,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 136,
+      "name": "Pand5",
+      "latitude": 52.786993,
+      "longitude": 4.796391,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 137,
+      "name": "Pannenkoe",
+      "latitude": 51.976101,
+      "longitude": 4.460756,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 138,
+      "name": "Pannenkoekerij Gansi",
+      "latitude": 52.323193,
+      "longitude": 4.971301,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 139,
+      "name": "Peil 5",
+      "latitude": 50.941721,
+      "longitude": 5.881734,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 140,
+      "name": "Petit Restaurant Chris",
+      "latitude": 52.034798,
+      "longitude": 5.345742,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 141,
+      "name": "Phuket",
+      "latitude": 52.95944,
+      "longitude": 4.763994,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 142,
+      "name": "Pieper",
+      "latitude": 52.366276,
+      "longitude": 4.882521,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 143,
+      "name": "Piet Pan",
+      "latitude": 52.787013,
+      "longitude": 4.796619,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 144,
+      "name": "Pizzeria Da Gino",
+      "latitude": 52.957592,
+      "longitude": 4.765608,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 145,
+      "name": "Plaza N50",
+      "latitude": 52.557656,
+      "longitude": 5.88368,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 146,
+      "name": "Poort van Groningen",
+      "latitude": 53.178743,
+      "longitude": 7.215117,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 147,
+      "name": "PopEi",
+      "latitude": 51.44954,
+      "longitude": 5.45727,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 148,
+      "name": "Popacatepetl",
+      "latitude": 52.011345,
+      "longitude": 4.362925,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 149,
+      "name": "Public Space",
+      "latitude": 52.384935,
+      "longitude": 4.903489,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 150,
+      "name": "Puurr aan de Binck",
+      "latitude": 52.064927,
+      "longitude": 4.337359,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 151,
+      "name": "Restaurant Brasserie",
+      "latitude": 52.092127,
+      "longitude": 6.033298,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 152,
+      "name": "Restaurant Kashba",
+      "latitude": 51.651699,
+      "longitude": 5.05324,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 153,
+      "name": "Reuring",
+      "latitude": 51.961434,
+      "longitude": 6.210772,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 154,
+      "name": "Schumich",
+      "latitude": 52.379304,
+      "longitude": 4.894455,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 155,
+      "name": "Snackwagen Oranje",
+      "latitude": 52.327834,
+      "longitude": 4.963148,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 156,
+      "name": "SoHo Gastrobar",
+      "latitude": 52.786888,
+      "longitude": 4.797078,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 157,
+      "name": "Sphinx",
+      "latitude": 52.960427,
+      "longitude": 4.765088,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 158,
+      "name": "Spijshuis De Dis",
+      "latitude": 52.011584,
+      "longitude": 4.363008,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 159,
+      "name": "Storm aan Zee",
+      "latitude": 52.951619,
+      "longitude": 4.721364,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 160,
+      "name": "Strandpaviljoen Oranjezon Aloha Beach",
+      "latitude": 51.594033,
+      "longitude": 3.579757,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 161,
+      "name": "Strandzuid",
+      "latitude": 52.341524,
+      "longitude": 4.88675,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 162,
+      "name": "Style",
+      "latitude": 52.959433,
+      "longitude": 4.764073,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 163,
+      "name": "Swieber cafe",
+      "latitude": 52.011603,
+      "longitude": 4.362267,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 164,
+      "name": "T-huis Arnhem",
+      "latitude": 51.985555,
+      "longitude": 5.946824,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 165,
+      "name": "Terrace Erve Kots",
+      "latitude": 52.020742,
+      "longitude": 6.590765,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 166,
+      "name": "Terrace Hoofdkwartier van de Prins",
+      "latitude": 52.020891,
+      "longitude": 6.591242,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 167,
+      "name": "Terras",
+      "latitude": 51.471971,
+      "longitude": 6.062307,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 168,
+      "name": "Terras",
+      "latitude": 52.137456,
+      "longitude": 4.767554,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 169,
+      "name": "Terras Bagels & Beans",
+      "latitude": 50.887654,
+      "longitude": 5.979498,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 170,
+      "name": "Terras Pand-P",
+      "latitude": 51.427097,
+      "longitude": 5.48883,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 171,
+      "name": "Terras PostA7",
+      "latitude": 53.173216,
+      "longitude": 6.358722,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 172,
+      "name": "Terras Restaurant Saga",
+      "latitude": 51.653092,
+      "longitude": 5.05445,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 173,
+      "name": "Terras Sandz",
+      "latitude": 52.89358,
+      "longitude": 4.728924,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 174,
+      "name": "Terras Vivre",
+      "latitude": 51.532905,
+      "longitude": 4.559246,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 175,
+      "name": "Terras cafe van Leeuwen",
+      "latitude": 52.363962,
+      "longitude": 4.898449,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 176,
+      "name": "Terras de Kloostertuin",
+      "latitude": 51.484421,
+      "longitude": 4.953942,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 177,
+      "name": "Terrasboot Grand Café Xieje",
+      "latitude": 52.068094,
+      "longitude": 4.323598,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 178,
+      "name": "Terrasboot Grandcafé Haagsche Wens",
+      "latitude": 52.068562,
+      "longitude": 4.324669,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 179,
+      "name": "The Butcher Social Club",
+      "latitude": 52.383569,
+      "longitude": 4.902199,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 180,
+      "name": "The Lobby",
+      "latitude": 52.345451,
+      "longitude": 4.925495,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 181,
+      "name": "Theetuin",
+      "latitude": 51.820991,
+      "longitude": 5.8751,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 182,
+      "name": "Theetuin 't Roosje",
+      "latitude": 53.039067,
+      "longitude": 4.787037,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 183,
+      "name": "Theetuin Kansrijk",
+      "latitude": 52.120015,
+      "longitude": 5.159745,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 184,
+      "name": "Tolhuis",
+      "latitude": 52.383091,
+      "longitude": 4.90468,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 185,
+      "name": "Tolhuis Paviljoen",
+      "latitude": 52.382981,
+      "longitude": 4.90311,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 186,
+      "name": "Toros Santiago",
+      "latitude": 52.012216,
+      "longitude": 4.359955,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 187,
+      "name": "Trattoria Sophia",
+      "latitude": 52.786615,
+      "longitude": 4.797257,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 188,
+      "name": "Van de Werf",
+      "latitude": 52.40137,
+      "longitude": 4.891941,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 189,
+      "name": "Vis van Kaatje",
+      "latitude": 52.455627,
+      "longitude": 4.627498,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 190,
+      "name": "Vishandel De Zeemeeuw",
+      "latitude": 52.390621,
+      "longitude": 4.925053,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 191,
+      "name": "Vliegveld Hoogeveen",
+      "latitude": 52.731918,
+      "longitude": 6.519076,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 192,
+      "name": "Vrijdag",
+      "latitude": 52.346936,
+      "longitude": 4.911412,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 193,
+      "name": "WVDS Sixhaven",
+      "latitude": 52.382784,
+      "longitude": 4.907661,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 194,
+      "name": "Waaghoofd",
+      "latitude": 52.159535,
+      "longitude": 4.49057,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 195,
+      "name": "Walem",
+      "latitude": 52.366305,
+      "longitude": 4.886184,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 196,
+      "name": "Welgelegen I",
+      "latitude": 53.201251,
+      "longitude": 5.792522,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 197,
+      "name": "Welgelegen II",
+      "latitude": 53.201176,
+      "longitude": 5.792773,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 198,
+      "name": "Westkop",
+      "latitude": 51.914207,
+      "longitude": 4.46995,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 199,
+      "name": "Wijkboerderij Alkmaar",
+      "latitude": 52.623474,
+      "longitude": 4.751556,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 200,
+      "name": "WijnbaRon",
+      "latitude": 52.011235,
+      "longitude": 4.362672,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 201,
+      "name": "Wispe Biertuin",
+      "latitude": 52.309039,
+      "longitude": 5.041,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 202,
+      "name": "Witte Paardplein",
+      "latitude": 51.652096,
+      "longitude": 5.048246,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 203,
+      "name": "Wonder's",
+      "latitude": 52.786723,
+      "longitude": 4.79716,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 204,
+      "name": "Zilt",
+      "latitude": 52.201253,
+      "longitude": 4.388196,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 205,
+      "name": "Zonneweelde",
+      "latitude": 53.396528,
+      "longitude": 5.34145,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 206,
+      "name": "al Ponte",
+      "latitude": 52.381864,
+      "longitude": 4.908153,
+      "osm_klasse": "leisure=outdoor_seating"
+    },
+    {
+      "id": 207,
+      "name": "de Eendracht",
+      "latitude": 52.275774,
+      "longitude": 5.225423,
+      "osm_klasse": "leisure=outdoor_seating"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: outdoor seating (leisure=outdoor_seating) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged leisure=outdoor_seating in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 207 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: outdoor seating (leisure=outdoor_seating) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: outdoor seating (leisure=outdoor_seating) — 207 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 207 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

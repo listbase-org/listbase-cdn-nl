@@ -1,0 +1,1766 @@
+{
+  "id": "nl-osm-shop-health-food",
+  "name": "Netherlands OSM: health food (shop=health_food)",
+  "title": "Netherlands OSM: health food (shop=health_food)",
+  "description": "Named OpenStreetMap features tagged shop=health_food in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "food",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 245,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Zonnetje",
+      "latitude": 51.967401,
+      "longitude": 5.667076,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 2,
+      "name": "Be Fit",
+      "latitude": 51.190582,
+      "longitude": 5.987385,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 3,
+      "name": "Boer & Natuur",
+      "latitude": 52.092526,
+      "longitude": 4.303308,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 4,
+      "name": "Care Center Golden Hands",
+      "latitude": 52.95948,
+      "longitude": 4.763049,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 5,
+      "name": "De Bionier",
+      "latitude": 53.360468,
+      "longitude": 5.21659,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 6,
+      "name": "De Ekolander",
+      "latitude": 52.519472,
+      "longitude": 5.483509,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 7,
+      "name": "De Goudsbloem",
+      "latitude": 51.760073,
+      "longitude": 4.163293,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 8,
+      "name": "De Goudsbloem",
+      "latitude": 51.826036,
+      "longitude": 4.412358,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 9,
+      "name": "De Goudsbloem",
+      "latitude": 51.83401,
+      "longitude": 4.145278,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 10,
+      "name": "De Goudsbloem",
+      "latitude": 51.849965,
+      "longitude": 4.327552,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 11,
+      "name": "De Goudsbloem",
+      "latitude": 51.929498,
+      "longitude": 4.589662,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 12,
+      "name": "De Kruiderij",
+      "latitude": 52.301093,
+      "longitude": 6.754341,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 13,
+      "name": "De Natuurwinkel",
+      "latitude": 50.886624,
+      "longitude": 5.975725,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 14,
+      "name": "De Roode Ploeg",
+      "latitude": 53.176242,
+      "longitude": 5.421412,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 15,
+      "name": "Deli Argana",
+      "latitude": 52.072492,
+      "longitude": 4.319848,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 16,
+      "name": "Delicious Food",
+      "latitude": 52.378955,
+      "longitude": 4.885553,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 17,
+      "name": "Erica",
+      "latitude": 52.153186,
+      "longitude": 5.386839,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 18,
+      "name": "Fit Preps",
+      "latitude": 52.21423,
+      "longitude": 5.281824,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 19,
+      "name": "G & W",
+      "latitude": 52.558926,
+      "longitude": 5.916299,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 20,
+      "name": "G & W Health Store",
+      "latitude": 51.579365,
+      "longitude": 4.778283,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 21,
+      "name": "G&W De Grutterij",
+      "latitude": 53.197041,
+      "longitude": 6.580482,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 22,
+      "name": "G&W De Liemers",
+      "latitude": 51.876019,
+      "longitude": 6.246175,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 23,
+      "name": "G&W De Weegschaal",
+      "latitude": 52.101526,
+      "longitude": 5.045799,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 24,
+      "name": "G&W GezondheidsWinkel",
+      "latitude": 51.855076,
+      "longitude": 4.538865,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 25,
+      "name": "G&W GezondheidsWinkel",
+      "latitude": 52.040677,
+      "longitude": 4.651855,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 26,
+      "name": "G&W GezondheidsWinkel",
+      "latitude": 52.19411,
+      "longitude": 5.430838,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 27,
+      "name": "G&W GezondheidsWinkel",
+      "latitude": 52.38696,
+      "longitude": 6.27515,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 28,
+      "name": "G&W GezondheidsWinkel",
+      "latitude": 52.482104,
+      "longitude": 4.657387,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 29,
+      "name": "G&W GezondheidsWinkel",
+      "latitude": 52.522255,
+      "longitude": 6.424547,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 30,
+      "name": "G&W GezondheidsWinkel",
+      "latitude": 52.695612,
+      "longitude": 6.190518,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 31,
+      "name": "G&W GezondheidsWinkel",
+      "latitude": 52.704103,
+      "longitude": 5.289027,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 32,
+      "name": "G&W GezondheidsWinkel",
+      "latitude": 53.003375,
+      "longitude": 6.064545,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 33,
+      "name": "G&W GezondheidsWinkel",
+      "latitude": 53.03158,
+      "longitude": 5.658888,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 34,
+      "name": "G&W GezondheidsWinkel Bolsward",
+      "latitude": 53.062149,
+      "longitude": 5.526222,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 35,
+      "name": "G&W GezondheidsWinkel De Pepermolen",
+      "latitude": 53.200601,
+      "longitude": 5.792665,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 36,
+      "name": "G&W Gezondheidswinkel Tervo",
+      "latitude": 51.443646,
+      "longitude": 4.932531,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 37,
+      "name": "G&W Natuurlijk",
+      "latitude": 53.105919,
+      "longitude": 6.878359,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 38,
+      "name": "GezondheidsWinkel De Goudsbloem",
+      "latitude": 51.834274,
+      "longitude": 4.144891,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 39,
+      "name": "Gezondheidswinkel Libra",
+      "latitude": 51.914735,
+      "longitude": 4.587325,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 40,
+      "name": "Gezondheidswinkel Maastricht",
+      "latitude": 50.849408,
+      "longitude": 5.700067,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 41,
+      "name": "Glutenvrije webshop",
+      "latitude": 52.030076,
+      "longitude": 5.603728,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 42,
+      "name": "Go Pure",
+      "latitude": 53.095484,
+      "longitude": 6.68672,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 43,
+      "name": "Goudtsjeblom",
+      "latitude": 53.191911,
+      "longitude": 5.993152,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 44,
+      "name": "Graan&Zo",
+      "latitude": 51.860169,
+      "longitude": 4.731434,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 45,
+      "name": "Het Vitamine Huis",
+      "latitude": 52.215968,
+      "longitude": 5.168471,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 46,
+      "name": "Holland & Barrett",
+      "latitude": 50.849568,
+      "longitude": 5.699777,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 47,
+      "name": "Holland & Barrett",
+      "latitude": 50.865566,
+      "longitude": 5.83365,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 48,
+      "name": "Holland & Barrett",
+      "latitude": 50.889229,
+      "longitude": 5.976425,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 49,
+      "name": "Holland & Barrett",
+      "latitude": 50.950031,
+      "longitude": 5.794491,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 50,
+      "name": "Holland & Barrett",
+      "latitude": 51.193647,
+      "longitude": 5.987185,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 51,
+      "name": "Holland & Barrett",
+      "latitude": 51.25211,
+      "longitude": 5.706366,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 52,
+      "name": "Holland & Barrett",
+      "latitude": 51.337487,
+      "longitude": 3.827515,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 53,
+      "name": "Holland & Barrett",
+      "latitude": 51.368628,
+      "longitude": 6.168112,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 54,
+      "name": "Holland & Barrett",
+      "latitude": 51.419341,
+      "longitude": 5.406941,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 55,
+      "name": "Holland & Barrett",
+      "latitude": 51.439008,
+      "longitude": 5.480306,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 56,
+      "name": "Holland & Barrett",
+      "latitude": 51.440776,
+      "longitude": 5.476777,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 57,
+      "name": "Holland & Barrett",
+      "latitude": 51.444303,
+      "longitude": 3.57468,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 58,
+      "name": "Holland & Barrett",
+      "latitude": 51.468643,
+      "longitude": 5.476404,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 59,
+      "name": "Holland & Barrett",
+      "latitude": 51.478919,
+      "longitude": 5.654209,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 60,
+      "name": "Holland & Barrett",
+      "latitude": 51.495001,
+      "longitude": 4.292317,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 61,
+      "name": "Holland & Barrett",
+      "latitude": 51.498255,
+      "longitude": 3.612607,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 62,
+      "name": "Holland & Barrett",
+      "latitude": 51.50384,
+      "longitude": 3.890928,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 63,
+      "name": "Holland & Barrett",
+      "latitude": 51.526066,
+      "longitude": 5.975826,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 64,
+      "name": "Holland & Barrett",
+      "latitude": 51.531593,
+      "longitude": 4.4549,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 65,
+      "name": "Holland & Barrett",
+      "latitude": 51.555602,
+      "longitude": 5.08561,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 66,
+      "name": "Holland & Barrett",
+      "latitude": 51.567764,
+      "longitude": 4.637352,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 67,
+      "name": "Holland & Barrett",
+      "latitude": 51.577304,
+      "longitude": 5.003495,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 68,
+      "name": "Holland & Barrett",
+      "latitude": 51.584197,
+      "longitude": 5.085723,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 69,
+      "name": "Holland & Barrett",
+      "latitude": 51.58549,
+      "longitude": 4.776706,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 70,
+      "name": "Holland & Barrett",
+      "latitude": 51.607475,
+      "longitude": 4.789903,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 71,
+      "name": "Holland & Barrett",
+      "latitude": 51.622878,
+      "longitude": 4.744113,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 72,
+      "name": "Holland & Barrett",
+      "latitude": 51.643878,
+      "longitude": 4.859196,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 73,
+      "name": "Holland & Barrett",
+      "latitude": 51.65791,
+      "longitude": 5.615879,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 74,
+      "name": "Holland & Barrett",
+      "latitude": 51.689079,
+      "longitude": 5.302584,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 75,
+      "name": "Holland & Barrett",
+      "latitude": 51.689202,
+      "longitude": 5.065136,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 76,
+      "name": "Holland & Barrett",
+      "latitude": 51.695618,
+      "longitude": 5.267285,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 77,
+      "name": "Holland & Barrett",
+      "latitude": 51.716427,
+      "longitude": 5.36222,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 78,
+      "name": "Holland & Barrett",
+      "latitude": 51.768648,
+      "longitude": 5.523816,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 79,
+      "name": "Holland & Barrett",
+      "latitude": 51.78494,
+      "longitude": 4.676633,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 80,
+      "name": "Holland & Barrett",
+      "latitude": 51.814274,
+      "longitude": 4.668667,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 81,
+      "name": "Holland & Barrett",
+      "latitude": 51.819972,
+      "longitude": 4.774733,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 82,
+      "name": "Holland & Barrett",
+      "latitude": 51.823294,
+      "longitude": 5.796292,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 83,
+      "name": "Holland & Barrett",
+      "latitude": 51.823687,
+      "longitude": 4.651421,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 84,
+      "name": "Holland & Barrett",
+      "latitude": 51.826017,
+      "longitude": 4.684374,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 85,
+      "name": "Holland & Barrett",
+      "latitude": 51.830295,
+      "longitude": 4.975712,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 86,
+      "name": "Holland & Barrett",
+      "latitude": 51.833256,
+      "longitude": 4.145469,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 87,
+      "name": "Holland & Barrett",
+      "latitude": 51.846057,
+      "longitude": 5.864328,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 88,
+      "name": "Holland & Barrett",
+      "latitude": 51.848486,
+      "longitude": 4.32896,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 89,
+      "name": "Holland & Barrett",
+      "latitude": 51.854246,
+      "longitude": 4.540109,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 90,
+      "name": "Holland & Barrett",
+      "latitude": 51.865175,
+      "longitude": 4.355256,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 91,
+      "name": "Holland & Barrett",
+      "latitude": 51.869221,
+      "longitude": 4.600024,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 92,
+      "name": "Holland & Barrett",
+      "latitude": 51.886693,
+      "longitude": 4.547928,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 93,
+      "name": "Holland & Barrett",
+      "latitude": 51.887199,
+      "longitude": 4.490784,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 94,
+      "name": "Holland & Barrett",
+      "latitude": 51.887871,
+      "longitude": 5.436077,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 95,
+      "name": "Holland & Barrett",
+      "latitude": 51.909836,
+      "longitude": 4.341027,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 96,
+      "name": "Holland & Barrett",
+      "latitude": 51.914858,
+      "longitude": 4.59004,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 97,
+      "name": "Holland & Barrett",
+      "latitude": 51.915131,
+      "longitude": 4.400242,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 98,
+      "name": "Holland & Barrett",
+      "latitude": 51.917706,
+      "longitude": 4.475483,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 99,
+      "name": "Holland & Barrett",
+      "latitude": 51.919008,
+      "longitude": 5.842747,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 100,
+      "name": "Holland & Barrett",
+      "latitude": 51.91986,
+      "longitude": 4.486917,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 101,
+      "name": "Holland & Barrett",
+      "latitude": 51.919928,
+      "longitude": 4.479397,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 102,
+      "name": "Holland & Barrett",
+      "latitude": 51.920423,
+      "longitude": 4.483745,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 103,
+      "name": "Holland & Barrett",
+      "latitude": 51.927632,
+      "longitude": 4.239098,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 104,
+      "name": "Holland & Barrett",
+      "latitude": 51.928898,
+      "longitude": 6.076944,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 105,
+      "name": "Holland & Barrett",
+      "latitude": 51.931095,
+      "longitude": 4.346607,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 106,
+      "name": "Holland & Barrett",
+      "latitude": 51.931177,
+      "longitude": 4.589722,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 107,
+      "name": "Holland & Barrett",
+      "latitude": 51.948435,
+      "longitude": 6.021456,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 108,
+      "name": "Holland & Barrett",
+      "latitude": 51.950537,
+      "longitude": 4.554408,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 109,
+      "name": "Holland & Barrett",
+      "latitude": 51.957727,
+      "longitude": 5.225316,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 110,
+      "name": "Holland & Barrett",
+      "latitude": 51.958311,
+      "longitude": 5.897001,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 111,
+      "name": "Holland & Barrett",
+      "latitude": 51.962553,
+      "longitude": 4.55259,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 112,
+      "name": "Holland & Barrett",
+      "latitude": 51.965888,
+      "longitude": 5.663154,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 113,
+      "name": "Holland & Barrett",
+      "latitude": 51.967785,
+      "longitude": 4.61832,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 114,
+      "name": "Holland & Barrett",
+      "latitude": 51.982536,
+      "longitude": 5.910839,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 115,
+      "name": "Holland & Barrett",
+      "latitude": 51.983595,
+      "longitude": 5.951999,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 116,
+      "name": "Holland & Barrett",
+      "latitude": 51.993392,
+      "longitude": 4.205565,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 117,
+      "name": "Holland & Barrett",
+      "latitude": 51.997589,
+      "longitude": 4.353548,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 118,
+      "name": "Holland & Barrett",
+      "latitude": 52.011007,
+      "longitude": 4.360046,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 119,
+      "name": "Holland & Barrett",
+      "latitude": 52.011925,
+      "longitude": 4.709931,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 120,
+      "name": "Holland & Barrett",
+      "latitude": 52.01861,
+      "longitude": 5.041658,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 121,
+      "name": "Holland & Barrett",
+      "latitude": 52.024859,
+      "longitude": 5.556769,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 122,
+      "name": "Holland & Barrett",
+      "latitude": 52.028804,
+      "longitude": 5.081092,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 123,
+      "name": "Holland & Barrett",
+      "latitude": 52.035846,
+      "longitude": 5.168137,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 124,
+      "name": "Holland & Barrett",
+      "latitude": 52.036535,
+      "longitude": 4.31654,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 125,
+      "name": "Holland & Barrett",
+      "latitude": 52.04345,
+      "longitude": 4.477382,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 126,
+      "name": "Holland & Barrett",
+      "latitude": 52.043971,
+      "longitude": 5.669848,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 127,
+      "name": "Holland & Barrett",
+      "latitude": 52.045089,
+      "longitude": 4.391482,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 128,
+      "name": "Holland & Barrett",
+      "latitude": 52.048432,
+      "longitude": 4.277024,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 129,
+      "name": "Holland & Barrett",
+      "latitude": 52.061687,
+      "longitude": 4.49252,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 130,
+      "name": "Holland & Barrett",
+      "latitude": 52.066725,
+      "longitude": 4.246023,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 131,
+      "name": "Holland & Barrett",
+      "latitude": 52.07423,
+      "longitude": 5.094928,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 132,
+      "name": "Holland & Barrett",
+      "latitude": 52.07739,
+      "longitude": 4.309747,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 133,
+      "name": "Holland & Barrett",
+      "latitude": 52.078139,
+      "longitude": 4.313217,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 134,
+      "name": "Holland & Barrett",
+      "latitude": 52.079118,
+      "longitude": 4.268616,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 135,
+      "name": "Holland & Barrett",
+      "latitude": 52.086098,
+      "longitude": 4.884861,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 136,
+      "name": "Holland & Barrett",
+      "latitude": 52.088577,
+      "longitude": 4.385609,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 137,
+      "name": "Holland & Barrett",
+      "latitude": 52.090288,
+      "longitude": 5.112052,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 138,
+      "name": "Holland & Barrett",
+      "latitude": 52.091389,
+      "longitude": 5.115876,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 139,
+      "name": "Holland & Barrett",
+      "latitude": 52.092242,
+      "longitude": 5.130515,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 140,
+      "name": "Holland & Barrett",
+      "latitude": 52.093076,
+      "longitude": 5.011946,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 141,
+      "name": "Holland & Barrett",
+      "latitude": 52.097505,
+      "longitude": 5.06399,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 142,
+      "name": "Holland & Barrett",
+      "latitude": 52.112975,
+      "longitude": 5.111856,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 143,
+      "name": "Holland & Barrett",
+      "latitude": 52.129438,
+      "longitude": 4.663374,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 144,
+      "name": "Holland & Barrett",
+      "latitude": 52.139254,
+      "longitude": 5.585207,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 145,
+      "name": "Holland & Barrett",
+      "latitude": 52.141599,
+      "longitude": 6.197047,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 146,
+      "name": "Holland & Barrett",
+      "latitude": 52.143126,
+      "longitude": 4.395201,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 147,
+      "name": "Holland & Barrett",
+      "latitude": 52.147363,
+      "longitude": 4.478363,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 148,
+      "name": "Holland & Barrett",
+      "latitude": 52.154733,
+      "longitude": 5.38836,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 149,
+      "name": "Holland & Barrett",
+      "latitude": 52.160278,
+      "longitude": 4.492964,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 150,
+      "name": "Holland & Barrett",
+      "latitude": 52.162412,
+      "longitude": 4.532876,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 151,
+      "name": "Holland & Barrett",
+      "latitude": 52.186213,
+      "longitude": 5.396765,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 152,
+      "name": "Holland & Barrett",
+      "latitude": 52.192108,
+      "longitude": 6.880479,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 153,
+      "name": "Holland & Barrett",
+      "latitude": 52.195632,
+      "longitude": 6.004592,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 154,
+      "name": "Holland & Barrett",
+      "latitude": 52.204147,
+      "longitude": 4.395895,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 155,
+      "name": "Holland & Barrett",
+      "latitude": 52.211978,
+      "longitude": 5.287024,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 156,
+      "name": "Holland & Barrett",
+      "latitude": 52.21306,
+      "longitude": 5.962458,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 157,
+      "name": "Holland & Barrett",
+      "latitude": 52.217197,
+      "longitude": 6.898565,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 158,
+      "name": "Holland & Barrett",
+      "latitude": 52.22017,
+      "longitude": 6.898624,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 159,
+      "name": "Holland & Barrett",
+      "latitude": 52.223677,
+      "longitude": 5.485952,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 160,
+      "name": "Holland & Barrett",
+      "latitude": 52.225491,
+      "longitude": 5.17521,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 161,
+      "name": "Holland & Barrett",
+      "latitude": 52.24326,
+      "longitude": 4.433394,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 162,
+      "name": "Holland & Barrett",
+      "latitude": 52.253773,
+      "longitude": 6.158963,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 163,
+      "name": "Holland & Barrett",
+      "latitude": 52.260829,
+      "longitude": 4.55943,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 164,
+      "name": "Holland & Barrett",
+      "latitude": 52.263407,
+      "longitude": 6.792149,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 165,
+      "name": "Holland & Barrett",
+      "latitude": 52.297498,
+      "longitude": 5.234768,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 166,
+      "name": "Holland & Barrett",
+      "latitude": 52.299089,
+      "longitude": 5.620311,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 167,
+      "name": "Holland & Barrett",
+      "latitude": 52.303011,
+      "longitude": 4.861261,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 168,
+      "name": "Holland & Barrett",
+      "latitude": 52.314407,
+      "longitude": 4.952493,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 169,
+      "name": "Holland & Barrett",
+      "latitude": 52.330736,
+      "longitude": 4.876861,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 170,
+      "name": "Holland & Barrett",
+      "latitude": 52.34194,
+      "longitude": 4.962813,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 171,
+      "name": "Holland & Barrett",
+      "latitude": 52.348706,
+      "longitude": 4.877627,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 172,
+      "name": "Holland & Barrett",
+      "latitude": 52.35015,
+      "longitude": 5.619182,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 173,
+      "name": "Holland & Barrett",
+      "latitude": 52.354178,
+      "longitude": 4.890814,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 174,
+      "name": "Holland & Barrett",
+      "latitude": 52.355181,
+      "longitude": 4.900744,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 175,
+      "name": "Holland & Barrett",
+      "latitude": 52.355764,
+      "longitude": 4.621054,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 176,
+      "name": "Holland & Barrett",
+      "latitude": 52.357065,
+      "longitude": 4.928912,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 177,
+      "name": "Holland & Barrett",
+      "latitude": 52.357453,
+      "longitude": 6.664864,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 178,
+      "name": "Holland & Barrett",
+      "latitude": 52.358652,
+      "longitude": 4.989338,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 179,
+      "name": "Holland & Barrett",
+      "latitude": 52.359344,
+      "longitude": 4.653938,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 180,
+      "name": "Holland & Barrett",
+      "latitude": 52.359529,
+      "longitude": 4.805316,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 181,
+      "name": "Holland & Barrett",
+      "latitude": 52.362731,
+      "longitude": 4.898613,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 182,
+      "name": "Holland & Barrett",
+      "latitude": 52.365637,
+      "longitude": 4.885566,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 183,
+      "name": "Holland & Barrett",
+      "latitude": 52.365993,
+      "longitude": 4.867016,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 184,
+      "name": "Holland & Barrett",
+      "latitude": 52.368815,
+      "longitude": 4.891183,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 185,
+      "name": "Holland & Barrett",
+      "latitude": 52.372305,
+      "longitude": 4.891922,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 186,
+      "name": "Holland & Barrett",
+      "latitude": 52.372358,
+      "longitude": 5.220612,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 187,
+      "name": "Holland & Barrett",
+      "latitude": 52.376538,
+      "longitude": 4.896178,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 188,
+      "name": "Holland & Barrett",
+      "latitude": 52.378412,
+      "longitude": 4.632346,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 189,
+      "name": "Holland & Barrett",
+      "latitude": 52.378428,
+      "longitude": 4.846486,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 190,
+      "name": "Holland & Barrett",
+      "latitude": 52.380641,
+      "longitude": 4.823137,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 191,
+      "name": "Holland & Barrett",
+      "latitude": 52.386133,
+      "longitude": 6.275266,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 192,
+      "name": "Holland & Barrett",
+      "latitude": 52.394031,
+      "longitude": 5.278962,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 193,
+      "name": "Holland & Barrett",
+      "latitude": 52.395093,
+      "longitude": 4.642056,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 194,
+      "name": "Holland & Barrett",
+      "latitude": 52.398981,
+      "longitude": 4.937085,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 195,
+      "name": "Holland & Barrett",
+      "latitude": 52.439337,
+      "longitude": 4.820007,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 196,
+      "name": "Holland & Barrett",
+      "latitude": 52.481591,
+      "longitude": 4.657342,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 197,
+      "name": "Holland & Barrett",
+      "latitude": 52.483643,
+      "longitude": 6.112258,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 198,
+      "name": "Holland & Barrett",
+      "latitude": 52.509163,
+      "longitude": 5.476088,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 199,
+      "name": "Holland & Barrett",
+      "latitude": 52.512409,
+      "longitude": 6.093907,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 200,
+      "name": "Holland & Barrett",
+      "latitude": 52.529351,
+      "longitude": 6.102618,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 201,
+      "name": "Holland & Barrett",
+      "latitude": 52.557495,
+      "longitude": 5.917486,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 202,
+      "name": "Holland & Barrett",
+      "latitude": 52.575895,
+      "longitude": 6.618577,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 203,
+      "name": "Holland & Barrett",
+      "latitude": 52.631208,
+      "longitude": 4.748108,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 204,
+      "name": "Holland & Barrett",
+      "latitude": 52.641115,
+      "longitude": 5.057851,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 205,
+      "name": "Holland & Barrett",
+      "latitude": 52.654855,
+      "longitude": 4.756851,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 206,
+      "name": "Holland & Barrett",
+      "latitude": 52.663877,
+      "longitude": 4.827503,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 207,
+      "name": "Holland & Barrett",
+      "latitude": 52.697187,
+      "longitude": 5.234808,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 208,
+      "name": "Holland & Barrett",
+      "latitude": 52.698646,
+      "longitude": 6.190019,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 209,
+      "name": "Holland & Barrett",
+      "latitude": 52.723521,
+      "longitude": 6.47751,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 210,
+      "name": "Holland & Barrett",
+      "latitude": 52.787594,
+      "longitude": 4.798021,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 211,
+      "name": "Holland & Barrett",
+      "latitude": 52.958018,
+      "longitude": 5.925257,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 212,
+      "name": "Holland & Barrett",
+      "latitude": 52.958975,
+      "longitude": 4.762054,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 213,
+      "name": "Holland & Barrett",
+      "latitude": 52.995097,
+      "longitude": 6.561032,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 214,
+      "name": "Holland & Barrett",
+      "latitude": 53.055501,
+      "longitude": 4.79852,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 215,
+      "name": "Holland & Barrett",
+      "latitude": 53.106129,
+      "longitude": 6.098495,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 216,
+      "name": "Holland & Barrett",
+      "latitude": 53.143009,
+      "longitude": 7.037783,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 217,
+      "name": "Holland & Barrett",
+      "latitude": 53.155855,
+      "longitude": 6.756503,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 218,
+      "name": "Holland & Barrett",
+      "latitude": 53.199493,
+      "longitude": 5.795565,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 219,
+      "name": "Holland & Barrett",
+      "latitude": 53.217574,
+      "longitude": 6.567085,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 220,
+      "name": "Holland & Barrett",
+      "latitude": 53.219955,
+      "longitude": 6.566431,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 221,
+      "name": "Holland & Barrett",
+      "latitude": 53.230738,
+      "longitude": 6.544386,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 222,
+      "name": "House of Grace",
+      "latitude": 51.443957,
+      "longitude": 3.57522,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 223,
+      "name": "Kuilboer Reformhuis",
+      "latitude": 52.460532,
+      "longitude": 4.623589,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 224,
+      "name": "Labori",
+      "latitude": 52.629264,
+      "longitude": 4.750549,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 225,
+      "name": "Lakenvelder boerderij Boterhuispolder",
+      "latitude": 52.191598,
+      "longitude": 4.535618,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 226,
+      "name": "Lotus Bio Shop",
+      "latitude": 53.03207,
+      "longitude": 5.66231,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 227,
+      "name": "Midicura Zorgwinkel",
+      "latitude": 51.194588,
+      "longitude": 6.026274,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 228,
+      "name": "Natushop",
+      "latitude": 51.307232,
+      "longitude": 3.387688,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 229,
+      "name": "Natuurwinkel Chili & Spruit",
+      "latitude": 51.782531,
+      "longitude": 5.852399,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 230,
+      "name": "Natuurwinkel De Liemers",
+      "latitude": 51.936905,
+      "longitude": 6.128451,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 231,
+      "name": "Newfysic",
+      "latitude": 52.156185,
+      "longitude": 4.493777,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 232,
+      "name": "Oogst Haarlem",
+      "latitude": 52.379115,
+      "longitude": 4.632129,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 233,
+      "name": "Pomona",
+      "latitude": 52.274049,
+      "longitude": 5.16289,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 234,
+      "name": "Reformhuis de Vries",
+      "latitude": 53.034684,
+      "longitude": 5.665153,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 235,
+      "name": "Rode Pilaren",
+      "latitude": 51.499257,
+      "longitude": 3.615806,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 236,
+      "name": "Rozemarijn & Thijm",
+      "latitude": 51.368456,
+      "longitude": 6.170576,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 237,
+      "name": "Rozemarijn & Thijm",
+      "latitude": 51.658507,
+      "longitude": 5.613126,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 238,
+      "name": "TMC Center Wang",
+      "latitude": 52.080243,
+      "longitude": 4.317963,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 239,
+      "name": "Terralife",
+      "latitude": 51.479555,
+      "longitude": 5.653591,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 240,
+      "name": "The Soulsisters",
+      "latitude": 52.369154,
+      "longitude": 4.87877,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 241,
+      "name": "Vegro Zorgwinkel Hilversum",
+      "latitude": 52.224592,
+      "longitude": 5.170582,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 242,
+      "name": "Verde",
+      "latitude": 52.24749,
+      "longitude": 6.216535,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 243,
+      "name": "Vitaminstore",
+      "latitude": 52.130119,
+      "longitude": 5.427685,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 244,
+      "name": "Zuiver Aarts",
+      "latitude": 51.71824,
+      "longitude": 5.362473,
+      "osm_klasse": "shop=health_food"
+    },
+    {
+      "id": 245,
+      "name": "l'Autre Coté",
+      "latitude": 51.658381,
+      "longitude": 5.29751,
+      "osm_klasse": "shop=health_food"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: health food (shop=health_food) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=health_food in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 245 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: health food (shop=health_food) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: health food (shop=health_food) — 245 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 245 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

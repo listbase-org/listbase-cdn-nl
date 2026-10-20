@@ -1,0 +1,3005 @@
+{
+  "id": "nl-osm-natural-peak",
+  "name": "Netherlands OSM: peak (natural=peak)",
+  "title": "Netherlands OSM: peak (natural=peak)",
+  "description": "Named OpenStreetMap features tagged natural=peak in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 422,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Hof Blaemskinderen",
+      "latitude": 51.472183,
+      "longitude": 3.9054,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 2,
+      "name": "Aalberg",
+      "latitude": 52.310144,
+      "longitude": 5.224505,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 3,
+      "name": "Aardjesberg",
+      "latitude": 52.250472,
+      "longitude": 5.183136,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 4,
+      "name": "Aardmansberg",
+      "latitude": 52.229183,
+      "longitude": 5.84304,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 5,
+      "name": "Action Planet",
+      "latitude": 52.448519,
+      "longitude": 4.662713,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 6,
+      "name": "Almere Boven",
+      "latitude": 52.323544,
+      "longitude": 5.291211,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 7,
+      "name": "Amerongse Berg",
+      "latitude": 52.008061,
+      "longitude": 5.482936,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 8,
+      "name": "Amersfoortse Berg",
+      "latitude": 52.143067,
+      "longitude": 5.365883,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 9,
+      "name": "Anna's Berg",
+      "latitude": 52.224406,
+      "longitude": 5.206757,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 10,
+      "name": "Anna's Hoevesche Berg",
+      "latitude": 52.220356,
+      "longitude": 5.212623,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 11,
+      "name": "Apenberg",
+      "latitude": 52.268972,
+      "longitude": 6.523445,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 12,
+      "name": "Apostelenberg",
+      "latitude": 51.991985,
+      "longitude": 5.908374,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 13,
+      "name": "Appelberg",
+      "latitude": 52.370879,
+      "longitude": 4.580773,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 14,
+      "name": "Appelenberg",
+      "latitude": 52.355876,
+      "longitude": 4.562048,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 15,
+      "name": "Archemerberg",
+      "latitude": 52.472981,
+      "longitude": 6.407478,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 16,
+      "name": "Arjensduin",
+      "latitude": 53.383152,
+      "longitude": 5.253383,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 17,
+      "name": "Arkduin",
+      "latitude": 52.300759,
+      "longitude": 4.505336,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 18,
+      "name": "Austieberg",
+      "latitude": 52.348319,
+      "longitude": 6.994771,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 19,
+      "name": "Bakenberg",
+      "latitude": 52.17066,
+      "longitude": 5.919929,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 20,
+      "name": "Bakkersberg",
+      "latitude": 51.814104,
+      "longitude": 5.891385,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 21,
+      "name": "Ballumerblinkert",
+      "latitude": 53.457659,
+      "longitude": 5.717839,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 22,
+      "name": "Ballumerduun",
+      "latitude": 53.452506,
+      "longitude": 5.698517,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 23,
+      "name": "Bedumer Bult",
+      "latitude": 53.29569,
+      "longitude": 6.609838,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 24,
+      "name": "Beerenberg",
+      "latitude": 52.048307,
+      "longitude": 5.97255,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 25,
+      "name": "Berg van Dorus",
+      "latitude": 52.308334,
+      "longitude": 4.540736,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 26,
+      "name": "Berg van Kloosterveen",
+      "latitude": 53.005233,
+      "longitude": 6.526526,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 27,
+      "name": "Berg van Mikwel",
+      "latitude": 52.333837,
+      "longitude": 4.563095,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 28,
+      "name": "Berg van de Starrenbroek",
+      "latitude": 52.304102,
+      "longitude": 4.504272,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 29,
+      "name": "Berg van de postpaal",
+      "latitude": 52.295438,
+      "longitude": 4.477761,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 30,
+      "name": "Berg van het Zegveld",
+      "latitude": 52.329788,
+      "longitude": 4.53788,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 31,
+      "name": "Berg van het westend",
+      "latitude": 52.333321,
+      "longitude": 4.526691,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 32,
+      "name": "Bergsham",
+      "latitude": 52.225096,
+      "longitude": 5.688342,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 33,
+      "name": "Besthmenerberg",
+      "latitude": 52.498938,
+      "longitude": 6.435284,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 34,
+      "name": "Beukenberg",
+      "latitude": 50.954859,
+      "longitude": 5.907489,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 35,
+      "name": "Beukenberg",
+      "latitude": 51.490857,
+      "longitude": 5.636431,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 36,
+      "name": "Bicksberg",
+      "latitude": 52.00087,
+      "longitude": 5.895368,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 37,
+      "name": "Bisschopsberg",
+      "latitude": 52.774521,
+      "longitude": 6.193953,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 38,
+      "name": "Blankenberg",
+      "latitude": 51.894315,
+      "longitude": 4.260767,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 39,
+      "name": "Blomberg",
+      "latitude": 52.323629,
+      "longitude": 4.556095,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 40,
+      "name": "Blommetjesberg",
+      "latitude": 52.333121,
+      "longitude": 4.513131,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 41,
+      "name": "Boaknbelt",
+      "latitude": 52.389891,
+      "longitude": 6.453612,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 42,
+      "name": "Boersberg",
+      "latitude": 51.972645,
+      "longitude": 5.780264,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 43,
+      "name": "Bokkebosje",
+      "latitude": 50.763734,
+      "longitude": 6.010165,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 44,
+      "name": "Bosberg",
+      "latitude": 51.233621,
+      "longitude": 6.072633,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 45,
+      "name": "Bosbergtoren",
+      "latitude": 52.951185,
+      "longitude": 6.341309,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 46,
+      "name": "Boterberg",
+      "latitude": 51.831096,
+      "longitude": 5.909462,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 47,
+      "name": "Bovenberg",
+      "latitude": 52.266891,
+      "longitude": 6.519393,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 48,
+      "name": "Braamberg",
+      "latitude": 52.156516,
+      "longitude": 5.851538,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 49,
+      "name": "Braamberg",
+      "latitude": 52.434821,
+      "longitude": 6.85245,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 50,
+      "name": "Braamberg",
+      "latitude": 52.647506,
+      "longitude": 6.512459,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 51,
+      "name": "Brederodeberg",
+      "latitude": 52.424318,
+      "longitude": 4.614178,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 52,
+      "name": "Broodberg",
+      "latitude": 52.278505,
+      "longitude": 5.84847,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 53,
+      "name": "Bruggenbelt",
+      "latitude": 52.379057,
+      "longitude": 6.46605,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 54,
+      "name": "Bult van Putman",
+      "latitude": 51.967118,
+      "longitude": 5.982781,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 55,
+      "name": "Bunkerberg",
+      "latitude": 52.343436,
+      "longitude": 4.527492,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 56,
+      "name": "Burenblinkert",
+      "latitude": 53.460776,
+      "longitude": 5.832112,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 57,
+      "name": "Buunerbult",
+      "latitude": 52.937542,
+      "longitude": 6.826066,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 58,
+      "name": "Calvarieberg",
+      "latitude": 52.313788,
+      "longitude": 6.986074,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 59,
+      "name": "Calvariënberg",
+      "latitude": 51.832815,
+      "longitude": 5.859177,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 60,
+      "name": "Cannerberg",
+      "latitude": 50.819086,
+      "longitude": 5.665791,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 61,
+      "name": "Carolinaberg",
+      "latitude": 52.043088,
+      "longitude": 6.084936,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 62,
+      "name": "Catrijper Nok",
+      "latitude": 52.711734,
+      "longitude": 4.679578,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 63,
+      "name": "Col du VAM",
+      "latitude": 52.791427,
+      "longitude": 6.524688,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 64,
+      "name": "Collendoorn",
+      "latitude": 52.60183,
+      "longitude": 6.598349,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 65,
+      "name": "D'n Observant",
+      "latitude": 50.813539,
+      "longitude": 5.68886,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 66,
+      "name": "Dak van Brabant",
+      "latitude": 51.449667,
+      "longitude": 5.576794,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 67,
+      "name": "Dak van Drenthe",
+      "latitude": 52.785641,
+      "longitude": 6.521923,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 68,
+      "name": "Dassenberg",
+      "latitude": 52.014699,
+      "longitude": 6.009413,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 69,
+      "name": "Dassenberg",
+      "latitude": 52.220564,
+      "longitude": 5.844592,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 70,
+      "name": "De Blink",
+      "latitude": 52.286942,
+      "longitude": 4.48394,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 71,
+      "name": "De Bult",
+      "latitude": 52.71915,
+      "longitude": 6.447535,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 72,
+      "name": "De Gloriëtte",
+      "latitude": 51.356493,
+      "longitude": 4.38468,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 73,
+      "name": "De Groene Berg",
+      "latitude": 52.336868,
+      "longitude": 4.548056,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 74,
+      "name": "De Haelberg",
+      "latitude": 52.383995,
+      "longitude": 5.948562,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 75,
+      "name": "De Hemmel",
+      "latitude": 52.233008,
+      "longitude": 6.513245,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 76,
+      "name": "De Hollander",
+      "latitude": 52.401694,
+      "longitude": 6.419662,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 77,
+      "name": "De Hulpe",
+      "latitude": 52.228454,
+      "longitude": 6.510659,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 78,
+      "name": "De Kamp",
+      "latitude": 52.780246,
+      "longitude": 6.134603,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 79,
+      "name": "De Knobbel / Woldberg",
+      "latitude": 52.38652,
+      "longitude": 5.911461,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 80,
+      "name": "De Kwartjesberg",
+      "latitude": 52.958357,
+      "longitude": 6.785874,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 81,
+      "name": "De Mekkelink",
+      "latitude": 52.424171,
+      "longitude": 6.447605,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 82,
+      "name": "De Muur van Emmen",
+      "latitude": 52.793343,
+      "longitude": 6.957081,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 83,
+      "name": "De Stompert",
+      "latitude": 52.132585,
+      "longitude": 5.305323,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 84,
+      "name": "De Victoria Belt",
+      "latitude": 52.393545,
+      "longitude": 6.426759,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 85,
+      "name": "De Waterberg",
+      "latitude": 52.010175,
+      "longitude": 5.917119,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 86,
+      "name": "De Weesberg",
+      "latitude": 52.36904,
+      "longitude": 5.921869,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 87,
+      "name": "Deldeneresch",
+      "latitude": 52.276865,
+      "longitude": 6.702636,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 88,
+      "name": "Dennenkop",
+      "latitude": 51.993613,
+      "longitude": 5.900894,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 89,
+      "name": "Deuzenberg",
+      "latitude": 52.332225,
+      "longitude": 6.404369,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 90,
+      "name": "Dikkenberg",
+      "latitude": 51.536638,
+      "longitude": 6.164755,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 91,
+      "name": "Dingspelerberg",
+      "latitude": 52.233245,
+      "longitude": 6.473845,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 92,
+      "name": "Donderberg",
+      "latitude": 51.773681,
+      "longitude": 5.813627,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 93,
+      "name": "Doornenberg",
+      "latitude": 52.326771,
+      "longitude": 4.554739,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 94,
+      "name": "Duivelsberg",
+      "latitude": 51.819415,
+      "longitude": 5.946065,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 95,
+      "name": "Duvelsberg",
+      "latitude": 51.506403,
+      "longitude": 5.594919,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 96,
+      "name": "Eelerberg",
+      "latitude": 52.407087,
+      "longitude": 6.420877,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 97,
+      "name": "Elsberg",
+      "latitude": 52.053926,
+      "longitude": 6.018917,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 98,
+      "name": "Elsterberg",
+      "latitude": 51.999476,
+      "longitude": 5.50703,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 99,
+      "name": "Emmapiramide",
+      "latitude": 52.01652,
+      "longitude": 5.978653,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 100,
+      "name": "Emminkhuizerberg",
+      "latitude": 52.046412,
+      "longitude": 5.526682,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 101,
+      "name": "Engelse Berg",
+      "latitude": 51.99263,
+      "longitude": 5.901039,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 102,
+      "name": "Engelsmanduin",
+      "latitude": 53.455872,
+      "longitude": 5.640624,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 103,
+      "name": "Eukenberg",
+      "latitude": 52.307665,
+      "longitude": 5.218342,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 104,
+      "name": "Ezelenberg",
+      "latitude": 52.354797,
+      "longitude": 4.564614,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 105,
+      "name": "Falieberg",
+      "latitude": 52.680091,
+      "longitude": 6.423009,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 106,
+      "name": "Favaugeberg",
+      "latitude": 52.33518,
+      "longitude": 4.51766,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 107,
+      "name": "Filipsberg",
+      "latitude": 52.4423,
+      "longitude": 6.045474,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 108,
+      "name": "Flesjesberg",
+      "latitude": 52.310401,
+      "longitude": 5.826365,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 109,
+      "name": "Flierenberg",
+      "latitude": 51.803792,
+      "longitude": 5.921873,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 110,
+      "name": "Folcoldusheuvel",
+      "latitude": 52.040992,
+      "longitude": 5.403706,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 111,
+      "name": "Franse berg",
+      "latitude": 52.094167,
+      "longitude": 5.828322,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 112,
+      "name": "Friezenberg",
+      "latitude": 52.268993,
+      "longitude": 6.5125,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 113,
+      "name": "Galgenberg",
+      "latitude": 51.824703,
+      "longitude": 5.906895,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 114,
+      "name": "Galgenberg",
+      "latitude": 51.893547,
+      "longitude": 6.253253,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 115,
+      "name": "Galgenberg",
+      "latitude": 52.063971,
+      "longitude": 5.932083,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 116,
+      "name": "Galgenberg",
+      "latitude": 52.096784,
+      "longitude": 5.959246,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 117,
+      "name": "Galgenberg",
+      "latitude": 52.333662,
+      "longitude": 5.65439,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 118,
+      "name": "Galgenberg",
+      "latitude": 52.375102,
+      "longitude": 5.99149,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 119,
+      "name": "Galgenberg",
+      "latitude": 52.4549,
+      "longitude": 6.853087,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 120,
+      "name": "Galgenberg",
+      "latitude": 52.77518,
+      "longitude": 6.402069,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 121,
+      "name": "Galgenberg",
+      "latitude": 53.014654,
+      "longitude": 6.652272,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 122,
+      "name": "Geldberg",
+      "latitude": 51.362561,
+      "longitude": 4.37757,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 123,
+      "name": "Godardsberg",
+      "latitude": 52.032769,
+      "longitude": 6.06271,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 124,
+      "name": "Gortelse Berg",
+      "latitude": 52.320549,
+      "longitude": 5.895135,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 125,
+      "name": "Goudsberg",
+      "latitude": 52.099339,
+      "longitude": 5.643037,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 126,
+      "name": "Goverskol",
+      "latitude": 52.32748,
+      "longitude": 4.543102,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 127,
+      "name": "Grauwe-duun",
+      "latitude": 53.459913,
+      "longitude": 5.804542,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 128,
+      "name": "Grebbeberg",
+      "latitude": 51.95179,
+      "longitude": 5.600888,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 129,
+      "name": "Grijze Berg",
+      "latitude": 52.056231,
+      "longitude": 5.988053,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 130,
+      "name": "Grimmeltjesberg",
+      "latitude": 52.094203,
+      "longitude": 6.024711,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 131,
+      "name": "Groene kijkberg",
+      "latitude": 52.311165,
+      "longitude": 4.527815,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 132,
+      "name": "Groot Mokum",
+      "latitude": 52.336972,
+      "longitude": 4.519797,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 133,
+      "name": "Grote Kiekenberg",
+      "latitude": 52.954707,
+      "longitude": 6.098502,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 134,
+      "name": "Grote Koningsbelt",
+      "latitude": 52.335726,
+      "longitude": 6.417246,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 135,
+      "name": "Gulperberg",
+      "latitude": 50.813443,
+      "longitude": 5.899561,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 136,
+      "name": "Haantjeduin",
+      "latitude": 52.797876,
+      "longitude": 6.920764,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 137,
+      "name": "Haarlerberg",
+      "latitude": 52.348369,
+      "longitude": 6.416358,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 138,
+      "name": "Haasvelder kijkberg",
+      "latitude": 52.309557,
+      "longitude": 4.505457,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 139,
+      "name": "Hakenberg",
+      "latitude": 52.338769,
+      "longitude": 6.989609,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 140,
+      "name": "Hakkenberg",
+      "latitude": 50.755207,
+      "longitude": 5.891073,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 141,
+      "name": "Hanenberg",
+      "latitude": 51.824875,
+      "longitude": 5.91526,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 142,
+      "name": "Haspelberg",
+      "latitude": 52.308746,
+      "longitude": 5.651566,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 143,
+      "name": "Hasseberg",
+      "latitude": 52.941935,
+      "longitude": 7.181284,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 144,
+      "name": "Havelterberg",
+      "latitude": 52.791147,
+      "longitude": 6.218972,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 145,
+      "name": "Hazenberg",
+      "latitude": 52.329473,
+      "longitude": 4.537694,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 146,
+      "name": "Hazenberg",
+      "latitude": 52.413996,
+      "longitude": 4.565112,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 147,
+      "name": "Hazenkop",
+      "latitude": 52.307447,
+      "longitude": 4.483109,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 148,
+      "name": "Hellebult",
+      "latitude": 52.330142,
+      "longitude": 6.418888,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 149,
+      "name": "Hellendoornse Berg",
+      "latitude": 52.389575,
+      "longitude": 6.429859,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 150,
+      "name": "Helmduin",
+      "latitude": 53.378067,
+      "longitude": 5.233305,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 151,
+      "name": "Hemelseberg",
+      "latitude": 51.9836,
+      "longitude": 5.827099,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 152,
+      "name": "Hengstberg",
+      "latitude": 51.834294,
+      "longitude": 5.900366,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 153,
+      "name": "Herikerberg",
+      "latitude": 52.236489,
+      "longitude": 6.538433,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 154,
+      "name": "Hessenberg",
+      "latitude": 51.846674,
+      "longitude": 5.860858,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 155,
+      "name": "Het Groene Schip",
+      "latitude": 52.426784,
+      "longitude": 4.736245,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 156,
+      "name": "Het bergje",
+      "latitude": 52.669685,
+      "longitude": 5.997928,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 157,
+      "name": "Hettenheuvel",
+      "latitude": 51.921127,
+      "longitude": 6.234495,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 158,
+      "name": "Heuvel",
+      "latitude": 52.31822,
+      "longitude": 4.836382,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 159,
+      "name": "Hezeberg",
+      "latitude": 52.40522,
+      "longitude": 6.87851,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 160,
+      "name": "Hofberg",
+      "latitude": 51.847833,
+      "longitude": 5.870252,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 161,
+      "name": "Hoge Hexel",
+      "latitude": 52.395026,
+      "longitude": 6.559051,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 162,
+      "name": "Hoge Langenberg",
+      "latitude": 51.806098,
+      "longitude": 5.885264,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 163,
+      "name": "Hokseberg",
+      "latitude": 52.416913,
+      "longitude": 5.86992,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 164,
+      "name": "Holleberg",
+      "latitude": 52.385616,
+      "longitude": 5.950535,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 165,
+      "name": "Holterberg",
+      "latitude": 52.318548,
+      "longitude": 6.421069,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 166,
+      "name": "Hondsrug",
+      "latitude": 52.854754,
+      "longitude": 6.873419,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 167,
+      "name": "Hondsrug",
+      "latitude": 52.874072,
+      "longitude": 6.872504,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 168,
+      "name": "Hoofdberg",
+      "latitude": 51.84514,
+      "longitude": 5.859319,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 169,
+      "name": "Hooge Hoenderberg",
+      "latitude": 51.780255,
+      "longitude": 5.901705,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 170,
+      "name": "Hoogste Punt van Nederland",
+      "latitude": 50.754693,
+      "longitude": 6.020757,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 171,
+      "name": "Hoogste duin van Nederland",
+      "latitude": 52.704223,
+      "longitude": 4.685019,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 172,
+      "name": "Hooidijk",
+      "latitude": 52.439664,
+      "longitude": 6.872225,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 173,
+      "name": "Hullekesberg",
+      "latitude": 52.029409,
+      "longitude": 6.067028,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 174,
+      "name": "Hulzenberg",
+      "latitude": 51.884318,
+      "longitude": 6.202382,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 175,
+      "name": "Hundisberg",
+      "latitude": 51.847777,
+      "longitude": 5.863164,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 176,
+      "name": "Hunnenkloosterberg",
+      "latitude": 52.736338,
+      "longitude": 6.36399,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 177,
+      "name": "Hunnerberg",
+      "latitude": 51.838893,
+      "longitude": 5.884909,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 178,
+      "name": "Huzarenberg",
+      "latitude": 51.356071,
+      "longitude": 4.372956,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 179,
+      "name": "Imbosberg",
+      "latitude": 52.056078,
+      "longitude": 5.997229,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 180,
+      "name": "Immenberg",
+      "latitude": 52.146918,
+      "longitude": 5.992279,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 181,
+      "name": "Jan",
+      "latitude": 51.741857,
+      "longitude": 5.959101,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 182,
+      "name": "Jan Frieseduin",
+      "latitude": 53.403443,
+      "longitude": 5.358785,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 183,
+      "name": "Jan Thijssensduin",
+      "latitude": 53.415488,
+      "longitude": 5.411448,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 184,
+      "name": "Jhr. J. Hora Siccama-hoogte",
+      "latitude": 52.462334,
+      "longitude": 6.400664,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 185,
+      "name": "Jipkesbelt",
+      "latitude": 52.375979,
+      "longitude": 6.466412,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 186,
+      "name": "Julianaduin",
+      "latitude": 52.36843,
+      "longitude": 4.590992,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 187,
+      "name": "Jäje",
+      "latitude": 51.739747,
+      "longitude": 5.961078,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 188,
+      "name": "Kaapsduin",
+      "latitude": 53.360561,
+      "longitude": 5.210859,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 189,
+      "name": "Kaapsedune",
+      "latitude": 53.405004,
+      "longitude": 5.371179,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 190,
+      "name": "Kalenberg",
+      "latitude": 52.130304,
+      "longitude": 6.441474,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 191,
+      "name": "Kapucijnenberg",
+      "latitude": 51.643265,
+      "longitude": 5.121379,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 192,
+      "name": "Kardingerheuvel",
+      "latitude": 53.240186,
+      "longitude": 6.593475,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 193,
+      "name": "Kattenberg",
+      "latitude": 52.336499,
+      "longitude": 4.536549,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 194,
+      "name": "Kattenberg",
+      "latitude": 52.611801,
+      "longitude": 4.721102,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 195,
+      "name": "Kattenrothberg",
+      "latitude": 50.755965,
+      "longitude": 5.811847,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 196,
+      "name": "Keienberg",
+      "latitude": 52.003205,
+      "longitude": 5.984835,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 197,
+      "name": "Kersberg",
+      "latitude": 52.41605,
+      "longitude": 6.880595,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 198,
+      "name": "Ketelberg",
+      "latitude": 51.828296,
+      "longitude": 5.89144,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 199,
+      "name": "Keurvorstenheuvel",
+      "latitude": 51.913391,
+      "longitude": 6.219104,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 200,
+      "name": "Kiekberg",
+      "latitude": 51.746562,
+      "longitude": 5.919528,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 201,
+      "name": "Kijkberg",
+      "latitude": 52.294517,
+      "longitude": 4.491945,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 202,
+      "name": "Kleine Kiekenberg",
+      "latitude": 52.952475,
+      "longitude": 6.094018,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 203,
+      "name": "Kleine Koningsbelt",
+      "latitude": 52.344315,
+      "longitude": 6.411504,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 204,
+      "name": "Klerkeberg",
+      "latitude": 52.331055,
+      "longitude": 4.508167,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 205,
+      "name": "Klinkenbelt",
+      "latitude": 52.373236,
+      "longitude": 6.435737,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 206,
+      "name": "Klokkenberg",
+      "latitude": 51.848106,
+      "longitude": 5.867076,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 207,
+      "name": "Koegelwieckduin",
+      "latitude": 53.404165,
+      "longitude": 5.336158,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 208,
+      "name": "Koepelberg",
+      "latitude": 52.434257,
+      "longitude": 4.623596,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 209,
+      "name": "Kogelvanger",
+      "latitude": 51.618144,
+      "longitude": 4.845107,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 210,
+      "name": "Kogelvanger",
+      "latitude": 51.619692,
+      "longitude": 4.845392,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 211,
+      "name": "Kollenberg",
+      "latitude": 50.988588,
+      "longitude": 5.880255,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 212,
+      "name": "Kompagnieberg",
+      "latitude": 52.064398,
+      "longitude": 5.839545,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 213,
+      "name": "Koningsbelt",
+      "latitude": 52.297354,
+      "longitude": 6.513629,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 214,
+      "name": "Kop van het Grote Vlak",
+      "latitude": 52.305948,
+      "longitude": 4.503895,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 215,
+      "name": "Kopje van Aerdenhout",
+      "latitude": 52.368221,
+      "longitude": 4.590495,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 216,
+      "name": "Kopje van Bloemendaal",
+      "latitude": 52.402529,
+      "longitude": 4.604119,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 217,
+      "name": "Kopje van Bloemendaal",
+      "latitude": 52.4089,
+      "longitude": 4.606799,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 218,
+      "name": "Kopje van Overveen",
+      "latitude": 52.38989,
+      "longitude": 4.595739,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 219,
+      "name": "Kops Plateau",
+      "latitude": 51.837204,
+      "longitude": 5.894673,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 220,
+      "name": "Koreaduin",
+      "latitude": 53.392112,
+      "longitude": 5.274869,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 221,
+      "name": "Kraaienberg",
+      "latitude": 52.308372,
+      "longitude": 5.896173,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 222,
+      "name": "Kraaiennest",
+      "latitude": 52.318885,
+      "longitude": 4.489983,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 223,
+      "name": "Kuiperberg",
+      "latitude": 52.406107,
+      "longitude": 6.883889,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 224,
+      "name": "Kwakkenberg",
+      "latitude": 51.829477,
+      "longitude": 5.897493,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 225,
+      "name": "Kymmelsberg",
+      "latitude": 53.068077,
+      "longitude": 6.67072,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 226,
+      "name": "Lage Langeberg",
+      "latitude": 51.803819,
+      "longitude": 5.890616,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 227,
+      "name": "Langevelderberg",
+      "latitude": 52.296979,
+      "longitude": 4.492625,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 228,
+      "name": "Leeuwenberg of Venusheuvel",
+      "latitude": 52.301628,
+      "longitude": 5.196962,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 229,
+      "name": "Leewal",
+      "latitude": 52.870852,
+      "longitude": 6.86097,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 230,
+      "name": "Lemelerberg",
+      "latitude": 52.458732,
+      "longitude": 6.397275,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 231,
+      "name": "Leverberg",
+      "latitude": 52.362147,
+      "longitude": 4.535972,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 232,
+      "name": "Liesberg",
+      "latitude": 52.321173,
+      "longitude": 5.775522,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 233,
+      "name": "Lindenberg",
+      "latitude": 51.848065,
+      "longitude": 5.867866,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 234,
+      "name": "Loabult",
+      "latitude": 52.323489,
+      "longitude": 6.989386,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 235,
+      "name": "Lochemse Berg",
+      "latitude": 52.141787,
+      "longitude": 6.428276,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 236,
+      "name": "Lokerenk",
+      "latitude": 52.274524,
+      "longitude": 6.43009,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 237,
+      "name": "Lonnekerberg",
+      "latitude": 52.27195,
+      "longitude": 6.91628,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 238,
+      "name": "Luizenberg",
+      "latitude": 52.345192,
+      "longitude": 4.556633,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 239,
+      "name": "Luttenberg",
+      "latitude": 52.396489,
+      "longitude": 6.367209,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 240,
+      "name": "Maeslantkering Uitkijkheuvel",
+      "latitude": 51.95609,
+      "longitude": 4.16866,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 241,
+      "name": "Mageleresch",
+      "latitude": 52.467824,
+      "longitude": 6.509589,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 242,
+      "name": "Marelberg",
+      "latitude": 52.32063,
+      "longitude": 4.517032,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 243,
+      "name": "Markelose Berg",
+      "latitude": 52.233287,
+      "longitude": 6.48776,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 244,
+      "name": "Meiberg",
+      "latitude": 51.81019,
+      "longitude": 5.911762,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 245,
+      "name": "Mengelenberg",
+      "latitude": 51.891311,
+      "longitude": 6.257968,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 246,
+      "name": "Middelbergen",
+      "latitude": 52.315694,
+      "longitude": 4.501459,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 247,
+      "name": "Mietjesberg",
+      "latitude": 51.820412,
+      "longitude": 5.837253,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 248,
+      "name": "Millenerberg",
+      "latitude": 51.021943,
+      "longitude": 5.873339,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 249,
+      "name": "Molenberg",
+      "latitude": 51.409421,
+      "longitude": 5.348175,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 250,
+      "name": "Molenberg",
+      "latitude": 51.643843,
+      "longitude": 4.604158,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 251,
+      "name": "Molenberg",
+      "latitude": 51.836866,
+      "longitude": 5.842888,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 252,
+      "name": "Montferland Motte",
+      "latitude": 51.895571,
+      "longitude": 6.242105,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 253,
+      "name": "Muntberg",
+      "latitude": 51.794275,
+      "longitude": 5.902767,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 254,
+      "name": "Muntheuvel",
+      "latitude": 51.8286,
+      "longitude": 5.826664,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 255,
+      "name": "Museumduin",
+      "latitude": 52.347098,
+      "longitude": 4.561707,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 256,
+      "name": "Musschenberg",
+      "latitude": 51.267604,
+      "longitude": 6.013114,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 257,
+      "name": "My Ladyberg",
+      "latitude": 52.033625,
+      "longitude": 6.077057,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 258,
+      "name": "Needse Berg",
+      "latitude": 52.141807,
+      "longitude": 6.609994,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 259,
+      "name": "Neerlands Bergje",
+      "latitude": 52.422271,
+      "longitude": 5.888554,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 260,
+      "name": "Neverest",
+      "latitude": 52.965545,
+      "longitude": 6.741667,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 261,
+      "name": "Nijverdalse Berg",
+      "latitude": 52.359972,
+      "longitude": 6.438319,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 262,
+      "name": "Noetselerberg",
+      "latitude": 52.35348,
+      "longitude": 6.431621,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 263,
+      "name": "Noordberg",
+      "latitude": 51.972058,
+      "longitude": 5.759326,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 264,
+      "name": "Nootjesberg",
+      "latitude": 51.440328,
+      "longitude": 4.371524,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 265,
+      "name": "Oasekop",
+      "latitude": 52.330714,
+      "longitude": 6.401259,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 266,
+      "name": "Oerd Blinkert",
+      "latitude": 53.457476,
+      "longitude": 5.903159,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 267,
+      "name": "Oeselenberg",
+      "latitude": 51.814068,
+      "longitude": 5.883707,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 268,
+      "name": "Onstwedder Holte",
+      "latitude": 53.054017,
+      "longitude": 7.036185,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 269,
+      "name": "Ossenberg",
+      "latitude": 52.006482,
+      "longitude": 5.99073,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 270,
+      "name": "Oude Maasheuvel",
+      "latitude": 51.840055,
+      "longitude": 4.500184,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 271,
+      "name": "Ouverberg",
+      "latitude": 50.94583,
+      "longitude": 5.992418,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 272,
+      "name": "Overview Zandafgraving",
+      "latitude": 52.718882,
+      "longitude": 4.661578,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 273,
+      "name": "Paasberg",
+      "latitude": 51.916142,
+      "longitude": 6.36766,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 274,
+      "name": "Paaschberg",
+      "latitude": 52.153098,
+      "longitude": 6.412687,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 275,
+      "name": "Paaschberg",
+      "latitude": 52.330217,
+      "longitude": 6.973967,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 276,
+      "name": "Pannelanderberg",
+      "latitude": 52.333084,
+      "longitude": 4.552981,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 277,
+      "name": "Panorama-hoogte",
+      "latitude": 52.464982,
+      "longitude": 6.405821,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 278,
+      "name": "Paosbult",
+      "latitude": 51.901646,
+      "longitude": 6.252294,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 279,
+      "name": "Papenberg",
+      "latitude": 51.757578,
+      "longitude": 5.913192,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 280,
+      "name": "Pepernotenberg",
+      "latitude": 52.068109,
+      "longitude": 5.165055,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 281,
+      "name": "Pieter Wattez-hoogte",
+      "latitude": 52.463256,
+      "longitude": 6.397025,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 282,
+      "name": "Pilberg",
+      "latitude": 51.43249,
+      "longitude": 4.384507,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 283,
+      "name": "Pinkenberg",
+      "latitude": 52.0123,
+      "longitude": 5.978891,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 284,
+      "name": "Pittelose berg",
+      "latitude": 53.015104,
+      "longitude": 6.546677,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 285,
+      "name": "Poelmansduin",
+      "latitude": 53.48711,
+      "longitude": 6.181899,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 286,
+      "name": "Pollenberg",
+      "latitude": 52.34933,
+      "longitude": 4.562438,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 287,
+      "name": "Postberg",
+      "latitude": 52.061461,
+      "longitude": 5.975157,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 288,
+      "name": "Preekstoel",
+      "latitude": 51.81165,
+      "longitude": 5.921628,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 289,
+      "name": "Prins Willemberg",
+      "latitude": 52.042279,
+      "longitude": 6.065101,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 290,
+      "name": "Pulsenberg",
+      "latitude": 51.838171,
+      "longitude": 5.848502,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 291,
+      "name": "Rakenberg",
+      "latitude": 51.789176,
+      "longitude": 5.793305,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 292,
+      "name": "Ravenberg",
+      "latitude": 51.8286,
+      "longitude": 5.917416,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 293,
+      "name": "Reeënberg",
+      "latitude": 52.132256,
+      "longitude": 5.99183,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 294,
+      "name": "Rijsberg",
+      "latitude": 51.906091,
+      "longitude": 6.216,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 295,
+      "name": "Rijsserberg",
+      "latitude": 52.289168,
+      "longitude": 6.525482,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 296,
+      "name": "Roezeberg",
+      "latitude": 52.416968,
+      "longitude": 6.859039,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 297,
+      "name": "Rondebelt",
+      "latitude": 52.311271,
+      "longitude": 6.439541,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 298,
+      "name": "Rouwenberg",
+      "latitude": 52.02738,
+      "longitude": 6.042904,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 299,
+      "name": "Rozenberg",
+      "latitude": 52.358386,
+      "longitude": 4.560509,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 300,
+      "name": "Ruigeveldsberg",
+      "latitude": 52.332559,
+      "longitude": 4.544853,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 301,
+      "name": "Ruiterberg",
+      "latitude": 52.040174,
+      "longitude": 5.377976,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 302,
+      "name": "Ruyterenberg",
+      "latitude": 51.993918,
+      "longitude": 5.908239,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 303,
+      "name": "Schalterberg",
+      "latitude": 52.117505,
+      "longitude": 5.969823,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 304,
+      "name": "Scharlebelt",
+      "latitude": 52.390328,
+      "longitude": 6.511736,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 305,
+      "name": "Schelberg",
+      "latitude": 50.971207,
+      "longitude": 5.891683,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 306,
+      "name": "Schelpjesberg",
+      "latitude": 51.495283,
+      "longitude": 4.036254,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 307,
+      "name": "Schietberg",
+      "latitude": 51.429501,
+      "longitude": 5.6017,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 308,
+      "name": "Schoonhoven",
+      "latitude": 52.698984,
+      "longitude": 6.564609,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 309,
+      "name": "Schoorlse Nok",
+      "latitude": 52.683836,
+      "longitude": 4.695111,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 310,
+      "name": "Seinpaalduin",
+      "latitude": 53.358695,
+      "longitude": 5.210907,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 311,
+      "name": "Siebe Heech",
+      "latitude": 52.944629,
+      "longitude": 6.035684,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 312,
+      "name": "Signaal Imbosch",
+      "latitude": 52.038067,
+      "longitude": 5.998974,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 313,
+      "name": "Sijsjesberg",
+      "latitude": 52.290025,
+      "longitude": 5.216866,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 314,
+      "name": "Silexberg",
+      "latitude": 50.820229,
+      "longitude": 5.683212,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 315,
+      "name": "Sint-Geertruidsberg",
+      "latitude": 51.847292,
+      "longitude": 5.872258,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 316,
+      "name": "Sint-Jansberg",
+      "latitude": 51.740576,
+      "longitude": 5.926374,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 317,
+      "name": "Sint-Jansberg",
+      "latitude": 51.848597,
+      "longitude": 5.864445,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 318,
+      "name": "Sint-Maartensberg",
+      "latitude": 51.742277,
+      "longitude": 5.932543,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 319,
+      "name": "Sint-Pietersberg",
+      "latitude": 50.826875,
+      "longitude": 5.687484,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 320,
+      "name": "Snellenberg",
+      "latitude": 52.140905,
+      "longitude": 4.35138,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 321,
+      "name": "Sousberg",
+      "latitude": 50.846854,
+      "longitude": 5.8691,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 322,
+      "name": "Sparreboomsche Berg",
+      "latitude": 51.991892,
+      "longitude": 5.537664,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 323,
+      "name": "Speelheuvel",
+      "latitude": 52.769918,
+      "longitude": 6.649765,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 324,
+      "name": "Spekberg",
+      "latitude": 51.364405,
+      "longitude": 6.108431,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 325,
+      "name": "Sprengenberg",
+      "latitude": 52.342935,
+      "longitude": 6.385592,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 326,
+      "name": "Stakenberg",
+      "latitude": 52.317074,
+      "longitude": 5.750821,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 327,
+      "name": "Stapelberg",
+      "latitude": 52.484773,
+      "longitude": 6.425238,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 328,
+      "name": "Starreberg",
+      "latitude": 52.418456,
+      "longitude": 4.599296,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 329,
+      "name": "Steenberg",
+      "latitude": 52.411924,
+      "longitude": 6.862591,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 330,
+      "name": "Steenbergerbult",
+      "latitude": 52.718332,
+      "longitude": 6.446044,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 331,
+      "name": "Sterrenberg",
+      "latitude": 51.824185,
+      "longitude": 5.928589,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 332,
+      "name": "Stoepaars",
+      "latitude": 52.381354,
+      "longitude": 6.435605,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 333,
+      "name": "Stokmansberg",
+      "latitude": 52.365591,
+      "longitude": 4.563567,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 334,
+      "name": "Stollenberg",
+      "latitude": 51.829003,
+      "longitude": 5.909207,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 335,
+      "name": "Suikerberg",
+      "latitude": 52.213421,
+      "longitude": 5.91032,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 336,
+      "name": "Tafelberg",
+      "latitude": 52.034461,
+      "longitude": 6.008545,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 337,
+      "name": "Tafelberg",
+      "latitude": 52.277135,
+      "longitude": 5.227242,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 338,
+      "name": "Tankenberg",
+      "latitude": 52.323453,
+      "longitude": 6.955535,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 339,
+      "name": "Tepelberg",
+      "latitude": 52.341621,
+      "longitude": 5.89776,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 340,
+      "name": "Theunessehil",
+      "latitude": 51.69591,
+      "longitude": 3.696993,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 341,
+      "name": "Tiesteberg",
+      "latitude": 51.438398,
+      "longitude": 4.378938,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 342,
+      "name": "Tonberg",
+      "latitude": 52.016641,
+      "longitude": 5.961537,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 343,
+      "name": "Tongerense Berg",
+      "latitude": 52.335693,
+      "longitude": 5.919,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 344,
+      "name": "Tonneblink",
+      "latitude": 52.362752,
+      "longitude": 4.561003,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 345,
+      "name": "Tonnenberg",
+      "latitude": 52.412098,
+      "longitude": 6.034159,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 346,
+      "name": "Tootjesberg",
+      "latitude": 52.360563,
+      "longitude": 4.527722,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 347,
+      "name": "Torenberg",
+      "latitude": 52.234623,
+      "longitude": 5.857884,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 348,
+      "name": "Torenberg",
+      "latitude": 52.32083,
+      "longitude": 4.553503,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 349,
+      "name": "Toverberg",
+      "latitude": 52.27564,
+      "longitude": 5.65753,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 350,
+      "name": "Trapjesberg",
+      "latitude": 52.098478,
+      "longitude": 5.98411,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 351,
+      "name": "Trapjesberg",
+      "latitude": 52.277866,
+      "longitude": 5.205344,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 352,
+      "name": "Trapjesberg",
+      "latitude": 52.306177,
+      "longitude": 4.520728,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 353,
+      "name": "Trappenberg",
+      "latitude": 51.51542,
+      "longitude": 6.173161,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 354,
+      "name": "Treekerpunt",
+      "latitude": 52.095431,
+      "longitude": 5.368614,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 355,
+      "name": "Trijselenberg",
+      "latitude": 52.464456,
+      "longitude": 6.044897,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 356,
+      "name": "Turfberg",
+      "latitude": 52.324239,
+      "longitude": 5.801077,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 357,
+      "name": "Tutenberg",
+      "latitude": 52.43599,
+      "longitude": 6.84923,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 358,
+      "name": "Tweelingbergen",
+      "latitude": 52.325486,
+      "longitude": 4.52316,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 359,
+      "name": "Uitzichtheuvel Oosterbroek",
+      "latitude": 52.447768,
+      "longitude": 4.68119,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 360,
+      "name": "Vaalserberg",
+      "latitude": 50.753479,
+      "longitude": 6.021252,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 361,
+      "name": "Valenberg",
+      "latitude": 52.06907,
+      "longitude": 5.747217,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 362,
+      "name": "Valenberg",
+      "latitude": 52.087854,
+      "longitude": 5.990038,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 363,
+      "name": "Valkenberg",
+      "latitude": 52.218525,
+      "longitude": 5.923742,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 364,
+      "name": "Velperberg",
+      "latitude": 52.044685,
+      "longitude": 5.943636,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 365,
+      "name": "Venakkerbosch",
+      "latitude": 51.268258,
+      "longitude": 5.30191,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 366,
+      "name": "Verrezicht",
+      "latitude": 51.825407,
+      "longitude": 5.892803,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 367,
+      "name": "Vijverberg",
+      "latitude": 52.004279,
+      "longitude": 5.856871,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 368,
+      "name": "Vlaggeduin",
+      "latitude": 52.192665,
+      "longitude": 4.402971,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 369,
+      "name": "Vlassenberg",
+      "latitude": 52.029454,
+      "longitude": 6.058787,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 370,
+      "name": "Vliedberg",
+      "latitude": 51.408202,
+      "longitude": 3.787268,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 371,
+      "name": "Vliedberg",
+      "latitude": 51.460805,
+      "longitude": 3.547403,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 372,
+      "name": "Vliedberg",
+      "latitude": 51.461672,
+      "longitude": 3.882771,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 373,
+      "name": "Vliedberg",
+      "latitude": 51.476524,
+      "longitude": 3.574389,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 374,
+      "name": "Vliedberg",
+      "latitude": 51.498593,
+      "longitude": 3.526498,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 375,
+      "name": "Vliedberg",
+      "latitude": 51.499706,
+      "longitude": 3.526975,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 376,
+      "name": "Vliedberg",
+      "latitude": 51.51621,
+      "longitude": 3.985792,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 377,
+      "name": "Vliedberg",
+      "latitude": 51.521144,
+      "longitude": 3.665084,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 378,
+      "name": "Vliedberg",
+      "latitude": 51.527062,
+      "longitude": 3.542081,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 379,
+      "name": "Vliedberg Boudewijnskerke",
+      "latitude": 51.518802,
+      "longitude": 3.466147,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 380,
+      "name": "Vliedberg Buttinge",
+      "latitude": 51.50226,
+      "longitude": 3.571405,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 381,
+      "name": "Vliedberg Hazenberg",
+      "latitude": 51.534289,
+      "longitude": 3.486704,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 382,
+      "name": "Vliedberg Krommenhoeke",
+      "latitude": 51.508983,
+      "longitude": 3.540093,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 383,
+      "name": "Vliedberg Meinersweg",
+      "latitude": 51.496387,
+      "longitude": 3.567338,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 384,
+      "name": "Vliedberg Sint Jan ten Heere",
+      "latitude": 51.54243,
+      "longitude": 3.484635,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 385,
+      "name": "Vliedberg de Groe",
+      "latitude": 51.480892,
+      "longitude": 3.903937,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 386,
+      "name": "Vlooienberg",
+      "latitude": 52.361449,
+      "longitude": 4.557583,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 387,
+      "name": "Voormalig Stortplaats Usquert",
+      "latitude": 53.38402,
+      "longitude": 6.588564,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 388,
+      "name": "Voormalig stortplaats Veendam",
+      "latitude": 53.104014,
+      "longitude": 6.835009,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 389,
+      "name": "Vossenberg",
+      "latitude": 52.329387,
+      "longitude": 4.539714,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 390,
+      "name": "Vossenheuvel",
+      "latitude": 51.433689,
+      "longitude": 5.923292,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 391,
+      "name": "Wageningse Berg",
+      "latitude": 51.966377,
+      "longitude": 5.696601,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 392,
+      "name": "Walsberg",
+      "latitude": 51.276929,
+      "longitude": 6.054628,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 393,
+      "name": "Wanenberg",
+      "latitude": 50.965052,
+      "longitude": 5.880954,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 394,
+      "name": "Waterberg",
+      "latitude": 52.147649,
+      "longitude": 5.892464,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 395,
+      "name": "Weperbult",
+      "latitude": 53.012832,
+      "longitude": 6.339303,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 396,
+      "name": "Westerveldse Bos",
+      "latitude": 52.54718,
+      "longitude": 6.084061,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 397,
+      "name": "Wezeperberg",
+      "latitude": 52.438698,
+      "longitude": 6.004301,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 398,
+      "name": "Wilhelminaberg",
+      "latitude": 50.87558,
+      "longitude": 6.025455,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 399,
+      "name": "Willemsduin",
+      "latitude": 53.496967,
+      "longitude": 6.299868,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 400,
+      "name": "Winterwijkse Berg",
+      "latitude": 51.956901,
+      "longitude": 6.690546,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 401,
+      "name": "Witsenberg",
+      "latitude": 51.828601,
+      "longitude": 5.882971,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 402,
+      "name": "Witte Berg",
+      "latitude": 51.440257,
+      "longitude": 6.192613,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 403,
+      "name": "Witte Berg",
+      "latitude": 52.432479,
+      "longitude": 6.058553,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 404,
+      "name": "Witteberg",
+      "latitude": 52.422311,
+      "longitude": 6.876537,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 405,
+      "name": "Woensberg",
+      "latitude": 52.282214,
+      "longitude": 5.244809,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 406,
+      "name": "Woldberg",
+      "latitude": 52.808016,
+      "longitude": 6.102898,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 407,
+      "name": "Wolfsberg",
+      "latitude": 51.771933,
+      "longitude": 5.914156,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 408,
+      "name": "Wolterholten",
+      "latitude": 52.807871,
+      "longitude": 6.087977,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 409,
+      "name": "Wullenberg",
+      "latitude": 52.298961,
+      "longitude": 6.417665,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 410,
+      "name": "Zandduin",
+      "latitude": 52.321643,
+      "longitude": 5.651269,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 411,
+      "name": "Zandvoorterberg",
+      "latitude": 52.346035,
+      "longitude": 4.57329,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 412,
+      "name": "Zijpenberg",
+      "latitude": 52.024346,
+      "longitude": 5.999473,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 413,
+      "name": "Zilverberg",
+      "latitude": 51.984402,
+      "longitude": 5.806614,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 414,
+      "name": "Zonnenberg",
+      "latitude": 52.397998,
+      "longitude": 6.868172,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 415,
+      "name": "Zonnenheuvel",
+      "latitude": 51.828485,
+      "longitude": 5.905502,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 416,
+      "name": "Zuurberg",
+      "latitude": 52.264165,
+      "longitude": 6.43369,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 417,
+      "name": "Zwarte Berg",
+      "latitude": 51.479627,
+      "longitude": 6.190013,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 418,
+      "name": "Zwarte Berg",
+      "latitude": 52.074828,
+      "longitude": 5.966819,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 419,
+      "name": "Zwarte Blink",
+      "latitude": 52.699422,
+      "longitude": 4.654583,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 420,
+      "name": "Zwiepse Berg",
+      "latitude": 52.133461,
+      "longitude": 6.436795,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 421,
+      "name": "vliedberg",
+      "latitude": 51.453408,
+      "longitude": 3.626468,
+      "osm_klasse": "natural=peak"
+    },
+    {
+      "id": 422,
+      "name": "vliedberg",
+      "latitude": 51.535905,
+      "longitude": 4.093226,
+      "osm_klasse": "natural=peak"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: peak (natural=peak) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged natural=peak in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 422 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: peak (natural=peak) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: peak (natural=peak) — 422 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 422 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

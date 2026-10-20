@@ -1,0 +1,1101 @@
+{
+  "id": "nl-osm-amenity-boat-rental",
+  "name": "Netherlands OSM: boat rental (amenity=boat_rental)",
+  "title": "Netherlands OSM: boat rental (amenity=boat_rental)",
+  "description": "Named OpenStreetMap features tagged amenity=boat_rental in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 150,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Geertje",
+      "latitude": 52.094438,
+      "longitude": 4.505407,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 2,
+      "name": "'t Zwaantje",
+      "latitude": 52.722105,
+      "longitude": 6.078149,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 3,
+      "name": "22 Shades of Blue",
+      "latitude": 51.696574,
+      "longitude": 5.299969,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 4,
+      "name": "AHH Rent",
+      "latitude": 52.68815,
+      "longitude": 6.045437,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 5,
+      "name": "Adam's Boats",
+      "latitude": 52.360685,
+      "longitude": 4.910944,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 6,
+      "name": "Akkermans",
+      "latitude": 51.624061,
+      "longitude": 4.256964,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 7,
+      "name": "Alkmaarse Bootjes Verhuur",
+      "latitude": 52.634076,
+      "longitude": 4.740719,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 8,
+      "name": "Amsterdam Boat Events",
+      "latitude": 52.3859,
+      "longitude": 4.887929,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 9,
+      "name": "Anneke's Botenverhuur",
+      "latitude": 53.166608,
+      "longitude": 5.514159,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 10,
+      "name": "Aqua Fun & Bootverhuur",
+      "latitude": 51.756752,
+      "longitude": 3.859446,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 11,
+      "name": "Aqua-Ferrytale",
+      "latitude": 52.387602,
+      "longitude": 5.220694,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 12,
+      "name": "AquaFun4You",
+      "latitude": 51.555262,
+      "longitude": 5.107191,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 13,
+      "name": "B&B and Boat rental Mol/Groenewegen",
+      "latitude": 52.72537,
+      "longitude": 6.090001,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 14,
+      "name": "Bed & Boot Mol Groenewegen",
+      "latitude": 52.72537,
+      "longitude": 6.089962,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 15,
+      "name": "Boatingworld Almere",
+      "latitude": 52.351208,
+      "longitude": 5.226154,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 16,
+      "name": "Boaty",
+      "latitude": 52.348244,
+      "longitude": 4.892679,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 17,
+      "name": "Bonte Haas",
+      "latitude": 52.010632,
+      "longitude": 4.298312,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 18,
+      "name": "Bootje Varen Breda",
+      "latitude": 51.593507,
+      "longitude": 4.770738,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 19,
+      "name": "Bootjesverhuur Bergen",
+      "latitude": 52.656823,
+      "longitude": 4.716365,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 20,
+      "name": "Bootrent",
+      "latitude": 52.514299,
+      "longitude": 6.088355,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 21,
+      "name": "Bootverhuur Cnossen",
+      "latitude": 53.176204,
+      "longitude": 6.423306,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 22,
+      "name": "Bootverhuur Gorinchem",
+      "latitude": 51.82871,
+      "longitude": 4.976213,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 23,
+      "name": "Bootverhuur Hollema",
+      "latitude": 53.131402,
+      "longitude": 5.943477,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 24,
+      "name": "Bootverhuur Manten",
+      "latitude": 52.207661,
+      "longitude": 5.079716,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 25,
+      "name": "Bootverhuur Vinkeveense Plassen",
+      "latitude": 52.253465,
+      "longitude": 4.954408,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 26,
+      "name": "Bossche Boten",
+      "latitude": 51.696901,
+      "longitude": 5.299484,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 27,
+      "name": "Botenverhuur Schoone",
+      "latitude": 52.511191,
+      "longitude": 6.086449,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 28,
+      "name": "Botenverhuur van Egmond",
+      "latitude": 52.172178,
+      "longitude": 4.51822,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 29,
+      "name": "Botenverhuurbedrijf Waddeninzicht (winterstalling)",
+      "latitude": 53.286656,
+      "longitude": 6.153215,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 30,
+      "name": "Botterhuren Harderwijk",
+      "latitude": 52.351482,
+      "longitude": 5.623855,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 31,
+      "name": "Botterwerf",
+      "latitude": 52.677086,
+      "longitude": 5.938156,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 32,
+      "name": "Breeland Recreatie",
+      "latitude": 53.055321,
+      "longitude": 6.758658,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 33,
+      "name": "Brug Jachtverhuur",
+      "latitude": 52.533109,
+      "longitude": 5.44188,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 34,
+      "name": "Brugkabouter",
+      "latitude": 52.095088,
+      "longitude": 6.089538,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 35,
+      "name": "Buiten Met Buiter",
+      "latitude": 52.628666,
+      "longitude": 4.748515,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 36,
+      "name": "Canal Motorboats",
+      "latitude": 52.38568,
+      "longitude": 4.872533,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 37,
+      "name": "Canal Motorboats",
+      "latitude": 52.388917,
+      "longitude": 4.891405,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 38,
+      "name": "Canal Tours Utrecht",
+      "latitude": 52.091591,
+      "longitude": 5.118991,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 39,
+      "name": "Canal cruises",
+      "latitude": 52.363378,
+      "longitude": 4.880659,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 40,
+      "name": "DEK Blauwestad",
+      "latitude": 53.164344,
+      "longitude": 7.038539,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 41,
+      "name": "De Betuwse Stromen",
+      "latitude": 51.884392,
+      "longitude": 5.210081,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 42,
+      "name": "De Deukten",
+      "latitude": 52.733769,
+      "longitude": 6.089623,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 43,
+      "name": "De Gele Lis",
+      "latitude": 52.806673,
+      "longitude": 5.928116,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 44,
+      "name": "De Hoek Watersport Langweer",
+      "latitude": 52.964025,
+      "longitude": 5.704991,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 45,
+      "name": "De IJsvogel",
+      "latitude": 53.042304,
+      "longitude": 5.769417,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 46,
+      "name": "De Kraak",
+      "latitude": 52.629207,
+      "longitude": 4.752245,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 47,
+      "name": "De Lytse Oosterhaven",
+      "latitude": 53.002284,
+      "longitude": 5.706192,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 48,
+      "name": "De Rijnstroom",
+      "latitude": 52.082181,
+      "longitude": 5.155829,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 49,
+      "name": "De Roerganger",
+      "latitude": 51.192836,
+      "longitude": 5.948235,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 50,
+      "name": "De Schiffart Yachtcharter - Jachthaven & Watersport",
+      "latitude": 53.043122,
+      "longitude": 5.780124,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 51,
+      "name": "Delflandhoeve",
+      "latitude": 51.974309,
+      "longitude": 4.382877,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 52,
+      "name": "Delos Yacht",
+      "latitude": 52.04633,
+      "longitude": 5.01855,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 53,
+      "name": "Dieper-Zicht",
+      "latitude": 52.214429,
+      "longitude": 4.558,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 54,
+      "name": "Dolfijn Watersport en Recreatie",
+      "latitude": 51.746542,
+      "longitude": 5.885612,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 55,
+      "name": "Drijf",
+      "latitude": 51.810002,
+      "longitude": 4.751743,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 56,
+      "name": "Drima Botenverhuur",
+      "latitude": 51.709105,
+      "longitude": 4.810308,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 57,
+      "name": "Eem Sloeptochten",
+      "latitude": 52.167537,
+      "longitude": 5.371774,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 58,
+      "name": "Ervaar Groenlo",
+      "latitude": 52.044769,
+      "longitude": 6.617315,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 59,
+      "name": "Fluisterbootverhuur",
+      "latitude": 52.407921,
+      "longitude": 6.470733,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 60,
+      "name": "Genieten op het water",
+      "latitude": 52.968428,
+      "longitude": 5.619354,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 61,
+      "name": "Giethoorn Boat Tickets",
+      "latitude": 52.717434,
+      "longitude": 6.090085,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 62,
+      "name": "Giethoorn Boatrental Centre",
+      "latitude": 52.722651,
+      "longitude": 6.086393,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 63,
+      "name": "Giethoorn Village",
+      "latitude": 52.717468,
+      "longitude": 6.090091,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 64,
+      "name": "Greenjoy",
+      "latitude": 52.634729,
+      "longitude": 4.746525,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 65,
+      "name": "Harbor Office",
+      "latitude": 51.156674,
+      "longitude": 5.853725,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 66,
+      "name": "Havenkantoor & Bootverhuur",
+      "latitude": 53.235196,
+      "longitude": 6.525491,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 67,
+      "name": "Het Toppunt",
+      "latitude": 53.023674,
+      "longitude": 5.689267,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 68,
+      "name": "Het Veerse Gat",
+      "latitude": 51.557125,
+      "longitude": 3.653552,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 69,
+      "name": "Hiawatha",
+      "latitude": 52.510153,
+      "longitude": 6.090154,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 70,
+      "name": "Hibo Yachtcharter",
+      "latitude": 52.945289,
+      "longitude": 5.638339,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 71,
+      "name": "Hoora Heeg",
+      "latitude": 52.967879,
+      "longitude": 5.614437,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 72,
+      "name": "Jachthaven 't Fissertje",
+      "latitude": 52.21226,
+      "longitude": 4.556556,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 73,
+      "name": "Kajak Maasland en Rafting",
+      "latitude": 50.880632,
+      "longitude": 5.678482,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 74,
+      "name": "Kano Haaglanden",
+      "latitude": 52.073794,
+      "longitude": 4.30916,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 75,
+      "name": "Kano Verhuur Den Haag",
+      "latitude": 52.073883,
+      "longitude": 4.317461,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 76,
+      "name": "Kano verhuur De jongens van outdoor",
+      "latitude": 52.965864,
+      "longitude": 6.383143,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 77,
+      "name": "Kanoa",
+      "latitude": 51.524611,
+      "longitude": 3.727225,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 78,
+      "name": "Kanocentrum Haastrecht",
+      "latitude": 52.00124,
+      "longitude": 4.778663,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 79,
+      "name": "Kanodorp Dwarsgracht",
+      "latitude": 52.728949,
+      "longitude": 6.052176,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 80,
+      "name": "Kanovaren Valkenswaard",
+      "latitude": 51.3389,
+      "longitude": 5.448128,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 81,
+      "name": "Kanoverhuur 'De Aker'",
+      "latitude": 52.526273,
+      "longitude": 4.735067,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 82,
+      "name": "Kanoverhuur 'Het Maalwater'",
+      "latitude": 52.613159,
+      "longitude": 4.690548,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 83,
+      "name": "Kanoverhuur Amsterdamse Bos",
+      "latitude": 52.320169,
+      "longitude": 4.827151,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 84,
+      "name": "Kanoverhuur De Appelgaard",
+      "latitude": 51.873584,
+      "longitude": 5.067128,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 85,
+      "name": "Kanoverhuur Utrecht",
+      "latitude": 52.086443,
+      "longitude": 5.121908,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 86,
+      "name": "Kids Harbour & Pedalos",
+      "latitude": 51.45673,
+      "longitude": 5.949598,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 87,
+      "name": "King's Inn",
+      "latitude": 52.632749,
+      "longitude": 4.751204,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 88,
+      "name": "Knus",
+      "latitude": 52.020941,
+      "longitude": 4.370564,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 89,
+      "name": "Landije",
+      "latitude": 52.741287,
+      "longitude": 6.08252,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 90,
+      "name": "Langweerder Sloep",
+      "latitude": 52.962524,
+      "longitude": 5.717743,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 91,
+      "name": "LeBoat",
+      "latitude": 52.945199,
+      "longitude": 5.641243,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 92,
+      "name": "Locaboat",
+      "latitude": 52.199339,
+      "longitude": 5.03357,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 93,
+      "name": "Luxury boats alkmaar",
+      "latitude": 52.639084,
+      "longitude": 4.737839,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 94,
+      "name": "Marenland Bootverhuur",
+      "latitude": 53.331885,
+      "longitude": 6.510067,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 95,
+      "name": "Mokumboot",
+      "latitude": 52.34827,
+      "longitude": 4.892199,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 96,
+      "name": "Mokumboot Amsterdam Amstel",
+      "latitude": 52.359989,
+      "longitude": 4.907414,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 97,
+      "name": "Mokumboot Amsterdam Center",
+      "latitude": 52.367319,
+      "longitude": 4.877042,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 98,
+      "name": "Mokumboot Amsterdam Oost",
+      "latitude": 52.363986,
+      "longitude": 4.922959,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 99,
+      "name": "Mokumboot Amsterdam Rai",
+      "latitude": 52.344136,
+      "longitude": 4.885891,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 100,
+      "name": "Mokumboot Amsterdam Weesper",
+      "latitude": 52.348789,
+      "longitude": 4.913285,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 101,
+      "name": "Mokumboot Amsterdam Zuid",
+      "latitude": 52.344055,
+      "longitude": 4.867511,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 102,
+      "name": "Nijstad",
+      "latitude": 52.706166,
+      "longitude": 6.423382,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 103,
+      "name": "Nikano",
+      "latitude": 52.164631,
+      "longitude": 4.825851,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 104,
+      "name": "Noël Jachtverhuur",
+      "latitude": 52.963506,
+      "longitude": 5.716548,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 105,
+      "name": "Ottenhome",
+      "latitude": 52.975226,
+      "longitude": 5.616417,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 106,
+      "name": "Ottenhome",
+      "latitude": 52.976859,
+      "longitude": 5.61369,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 107,
+      "name": "PUUR Kanoverhuur",
+      "latitude": 51.337287,
+      "longitude": 5.444982,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 108,
+      "name": "PUUR kano-opstapplaats",
+      "latitude": 51.291533,
+      "longitude": 5.438744,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 109,
+      "name": "PUUR kano-uitstapplaats",
+      "latitude": 51.336495,
+      "longitude": 5.444879,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 110,
+      "name": "Rechthuis van Zouteveen",
+      "latitude": 51.947784,
+      "longitude": 4.320686,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 111,
+      "name": "Recreatiecentrum Sneek",
+      "latitude": 53.019979,
+      "longitude": 5.701979,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 112,
+      "name": "Rederij Keur",
+      "latitude": 52.514554,
+      "longitude": 6.091605,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 113,
+      "name": "Rederij Peters",
+      "latitude": 52.517267,
+      "longitude": 6.420292,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 114,
+      "name": "SUPworx",
+      "latitude": 52.322416,
+      "longitude": 4.827167,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 115,
+      "name": "Sailcenter Limburg",
+      "latitude": 51.128698,
+      "longitude": 5.822166,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 116,
+      "name": "Sailcharter Friesland",
+      "latitude": 52.967573,
+      "longitude": 5.420296,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 117,
+      "name": "Sailcollege",
+      "latitude": 51.568066,
+      "longitude": 3.662298,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 118,
+      "name": "Schöppert's Bootverhuur",
+      "latitude": 52.317516,
+      "longitude": 6.576162,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 119,
+      "name": "Silence Boats",
+      "latitude": 52.061135,
+      "longitude": 4.4537,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 120,
+      "name": "Sloep@Rent",
+      "latitude": 52.879266,
+      "longitude": 5.373496,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 121,
+      "name": "Sloepdelen",
+      "latitude": 52.098262,
+      "longitude": 5.124623,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 122,
+      "name": "Sloepdelen.nl",
+      "latitude": 52.377272,
+      "longitude": 4.877118,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 123,
+      "name": "Sloepenbedrijf Ariadne",
+      "latitude": 52.196353,
+      "longitude": 5.014356,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 124,
+      "name": "Sloepje voor een Groepje",
+      "latitude": 51.696729,
+      "longitude": 5.299855,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 125,
+      "name": "Sloepverhuur Bootverhuur Wester Watersport",
+      "latitude": 53.129127,
+      "longitude": 5.938974,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 126,
+      "name": "Sloepverhuur De Meerkoet",
+      "latitude": 52.077845,
+      "longitude": 4.813282,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 127,
+      "name": "Sloepverhuur Friesland",
+      "latitude": 52.970083,
+      "longitude": 5.793556,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 128,
+      "name": "Smit Giethoorn",
+      "latitude": 52.710889,
+      "longitude": 6.080496,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 129,
+      "name": "Sport Visserij Groenendijk",
+      "latitude": 52.16478,
+      "longitude": 4.834229,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 130,
+      "name": "Stilvaren Zwartsluis",
+      "latitude": 52.641163,
+      "longitude": 6.068935,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 131,
+      "name": "Stromma",
+      "latitude": 52.365603,
+      "longitude": 4.886789,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 132,
+      "name": "Ten Brinke Fiets- en Kanoverhuur",
+      "latitude": 52.097345,
+      "longitude": 6.752718,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 133,
+      "name": "Teuntje de Slak",
+      "latitude": 53.180301,
+      "longitude": 6.55411,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 134,
+      "name": "Vaart Sloepen verhuur en Jachtbemiddeling",
+      "latitude": 53.01194,
+      "longitude": 5.783633,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 135,
+      "name": "Vechtzomp Hanzestad Ommen",
+      "latitude": 52.517795,
+      "longitude": 6.421379,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 136,
+      "name": "Verhuur van Elektrische Motorboten",
+      "latitude": 52.38818,
+      "longitude": 4.89036,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 137,
+      "name": "WSB Anja",
+      "latitude": 53.095604,
+      "longitude": 5.844335,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 138,
+      "name": "Waterfietsen & Kids Haven",
+      "latitude": 51.326945,
+      "longitude": 5.423413,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 139,
+      "name": "Watersport Botenverhuur",
+      "latitude": 51.708627,
+      "longitude": 4.806056,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 140,
+      "name": "Yachtcharter De Drait",
+      "latitude": 53.100862,
+      "longitude": 6.04619,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 141,
+      "name": "Yachtcharter Wetterwille",
+      "latitude": 53.046003,
+      "longitude": 5.781545,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 142,
+      "name": "Yachts4U",
+      "latitude": 52.862032,
+      "longitude": 5.853151,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 143,
+      "name": "Zeilcentrum de Friese Meren",
+      "latitude": 53.021338,
+      "longitude": 5.693304,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 144,
+      "name": "Zeilschool & Bootverhuur Het Uitgeestermeer",
+      "latitude": 52.528153,
+      "longitude": 4.721978,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 145,
+      "name": "Zeilschool De Randmeren",
+      "latitude": 52.384867,
+      "longitude": 5.633212,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 146,
+      "name": "Zeilschool De Viking",
+      "latitude": 51.547983,
+      "longitude": 3.821684,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 147,
+      "name": "Zeilschool Pean",
+      "latitude": 53.080366,
+      "longitude": 5.861585,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 148,
+      "name": "Zeilschool de Veenhoop",
+      "latitude": 53.096362,
+      "longitude": 5.944228,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 149,
+      "name": "Zelf varen Den Bosch",
+      "latitude": 51.697078,
+      "longitude": 5.299431,
+      "osm_klasse": "amenity=boat_rental"
+    },
+    {
+      "id": 150,
+      "name": "kanoverhuur camping Ekenstein",
+      "latitude": 53.318498,
+      "longitude": 6.811205,
+      "osm_klasse": "amenity=boat_rental"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: boat rental (amenity=boat_rental) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=boat_rental in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 150 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: boat rental (amenity=boat_rental) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: boat rental (amenity=boat_rental) — 150 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 150 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

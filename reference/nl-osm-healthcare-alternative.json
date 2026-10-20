@@ -1,0 +1,1374 @@
+{
+  "id": "nl-osm-healthcare-alternative",
+  "name": "Netherlands OSM: alternative (healthcare=alternative)",
+  "title": "Netherlands OSM: alternative (healthcare=alternative)",
+  "description": "Named OpenStreetMap features tagged healthcare=alternative in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 189,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Acu-point",
+      "latitude": 52.383873,
+      "longitude": 4.856189,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 2,
+      "name": "Acufit",
+      "latitude": 51.566243,
+      "longitude": 5.088934,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 3,
+      "name": "Acupunctuur \"Biao Ben\"Trudi Schlaghecke",
+      "latitude": 51.89935,
+      "longitude": 6.259313,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 4,
+      "name": "Acupunctuur Delft",
+      "latitude": 52.009639,
+      "longitude": 4.366923,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 5,
+      "name": "Acupunctuur Ji Shan Tang",
+      "latitude": 52.393905,
+      "longitude": 4.641517,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 6,
+      "name": "Acupunctuur Pure Nature Therapy Clinic",
+      "latitude": 52.082065,
+      "longitude": 4.294004,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 7,
+      "name": "Acupunctuur Van Geelen",
+      "latitude": 52.038902,
+      "longitude": 4.285531,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 8,
+      "name": "Acupunctuur Yi Xiao Tang",
+      "latitude": 52.958995,
+      "longitude": 4.762339,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 9,
+      "name": "Acupunctuur Yinxing",
+      "latitude": 52.086646,
+      "longitude": 4.312775,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 10,
+      "name": "Acupunctuur Zutphen",
+      "latitude": 52.150437,
+      "longitude": 6.206719,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 11,
+      "name": "Acupunctuur aan de Maas",
+      "latitude": 51.914418,
+      "longitude": 4.495176,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 12,
+      "name": "Acupunctuur-Gezondheidscentrum De Meridiaan",
+      "latitude": 52.056128,
+      "longitude": 4.399571,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 13,
+      "name": "Advanced Chiropractic Studio",
+      "latitude": 52.078881,
+      "longitude": 4.320098,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 14,
+      "name": "American Chiropractic",
+      "latitude": 52.077068,
+      "longitude": 4.353212,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 15,
+      "name": "AmritaAyurveda",
+      "latitude": 52.062878,
+      "longitude": 4.312801,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 16,
+      "name": "Ana",
+      "latitude": 52.38877,
+      "longitude": 4.879738,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 17,
+      "name": "Angelique Osinga – Osteopaat voor paarden",
+      "latitude": 53.221734,
+      "longitude": 5.806462,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 18,
+      "name": "Artsen Acupunctuur Centrum",
+      "latitude": 51.84157,
+      "longitude": 5.854634,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 19,
+      "name": "Ayurveda Specialist BV",
+      "latitude": 51.251591,
+      "longitude": 5.711288,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 20,
+      "name": "BSR Rotterdam",
+      "latitude": 51.969271,
+      "longitude": 4.567458,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 21,
+      "name": "Balance Hands & Feet",
+      "latitude": 51.934855,
+      "longitude": 4.373826,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 22,
+      "name": "Bewust Stromen",
+      "latitude": 52.66105,
+      "longitude": 6.653408,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 23,
+      "name": "Big Difference Lifestyle",
+      "latitude": 51.492129,
+      "longitude": 4.05042,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 24,
+      "name": "Body & Being",
+      "latitude": 50.966794,
+      "longitude": 5.828873,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 25,
+      "name": "Body Stress Release",
+      "latitude": 52.383014,
+      "longitude": 4.875112,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 26,
+      "name": "Body Stress Release Today",
+      "latitude": 52.353235,
+      "longitude": 4.890365,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 27,
+      "name": "Brocks Homeopathie",
+      "latitude": 51.577936,
+      "longitude": 4.779537,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 28,
+      "name": "Byimiola",
+      "latitude": 52.226872,
+      "longitude": 5.176005,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 29,
+      "name": "CIG Centrum Integrale Geneeskunde",
+      "latitude": 52.35892,
+      "longitude": 4.902098,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 30,
+      "name": "Centrum Volledig Leven",
+      "latitude": 52.155845,
+      "longitude": 6.20576,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 31,
+      "name": "Centrum biru Kai opleidingen",
+      "latitude": 52.696866,
+      "longitude": 6.194141,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 32,
+      "name": "Centrum voor innerlijke wijsheid",
+      "latitude": 52.164053,
+      "longitude": 5.406725,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 33,
+      "name": "Chinese Medicine Chiropractic Center",
+      "latitude": 52.075142,
+      "longitude": 4.311916,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 34,
+      "name": "Chinese Medische Praktijk",
+      "latitude": 52.378082,
+      "longitude": 4.882395,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 35,
+      "name": "Chiropractie",
+      "latitude": 52.129439,
+      "longitude": 5.426389,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 36,
+      "name": "Chiropractie Centraal",
+      "latitude": 51.921401,
+      "longitude": 4.494305,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 37,
+      "name": "Chiropractie Centraal Haarlem",
+      "latitude": 52.387041,
+      "longitude": 4.636533,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 38,
+      "name": "Chiropractie Elst",
+      "latitude": 51.920014,
+      "longitude": 5.845995,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 39,
+      "name": "Chiropractie Groesbeek",
+      "latitude": 51.792879,
+      "longitude": 5.911845,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 40,
+      "name": "Chiropractie Nijkerk",
+      "latitude": 52.222593,
+      "longitude": 5.483811,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 41,
+      "name": "Chiropractie Optimal Health",
+      "latitude": 52.512479,
+      "longitude": 6.086559,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 42,
+      "name": "Chiropractie Schijndel",
+      "latitude": 51.620431,
+      "longitude": 5.43403,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 43,
+      "name": "Chiropractie Uden-Veghel",
+      "latitude": 51.671445,
+      "longitude": 5.607132,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 44,
+      "name": "Chiropractie Westland",
+      "latitude": 51.959489,
+      "longitude": 4.215402,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 45,
+      "name": "Chiropractie Zoetermeer",
+      "latitude": 52.073311,
+      "longitude": 4.495167,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 46,
+      "name": "Clinic Totale",
+      "latitude": 52.073791,
+      "longitude": 4.322005,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 47,
+      "name": "Clinique Immunoté",
+      "latitude": 52.088537,
+      "longitude": 4.310156,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 48,
+      "name": "Cranio Purmerend",
+      "latitude": 52.515572,
+      "longitude": 4.960425,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 49,
+      "name": "Cry Cool",
+      "latitude": 52.381771,
+      "longitude": 4.871151,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 50,
+      "name": "Da Yuan Acupunctuur",
+      "latitude": 51.849867,
+      "longitude": 4.32639,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 51,
+      "name": "De Eland",
+      "latitude": 52.369343,
+      "longitude": 4.880317,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 52,
+      "name": "De Hapto Studio",
+      "latitude": 51.44082,
+      "longitude": 5.456779,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 53,
+      "name": "De Human Care Hub",
+      "latitude": 52.393586,
+      "longitude": 5.279749,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 54,
+      "name": "De Lage Linie",
+      "latitude": 51.643189,
+      "longitude": 4.742089,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 55,
+      "name": "De Praktijk",
+      "latitude": 52.052116,
+      "longitude": 5.284057,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 56,
+      "name": "De Zoutknop",
+      "latitude": 52.138615,
+      "longitude": 6.199136,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 57,
+      "name": "Diepekern Reiki",
+      "latitude": 52.078403,
+      "longitude": 4.351574,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 58,
+      "name": "Dini Krijt",
+      "latitude": 52.279744,
+      "longitude": 6.431161,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 59,
+      "name": "Double Balanced",
+      "latitude": 52.300218,
+      "longitude": 5.233804,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 60,
+      "name": "Down To Earth Shiatsu",
+      "latitude": 51.906984,
+      "longitude": 4.500907,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 61,
+      "name": "Eelco Griep Praktijk voor Acupunctuur",
+      "latitude": 53.038032,
+      "longitude": 5.651881,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 62,
+      "name": "Embody Chiro Alphen",
+      "latitude": 52.128402,
+      "longitude": 4.660973,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 63,
+      "name": "Energie in Balans",
+      "latitude": 52.136572,
+      "longitude": 5.427892,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 64,
+      "name": "Exousia",
+      "latitude": 52.080638,
+      "longitude": 6.173284,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 65,
+      "name": "Flow",
+      "latitude": 52.099689,
+      "longitude": 5.122446,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 66,
+      "name": "Fysio & Chiro de Groot",
+      "latitude": 51.699509,
+      "longitude": 5.522362,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 67,
+      "name": "Fysiotherpeutisch Instituut Alkmaar",
+      "latitude": 52.63241,
+      "longitude": 4.750653,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 68,
+      "name": "Goede Acupunctuur",
+      "latitude": 52.07047,
+      "longitude": 5.11357,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 69,
+      "name": "Golden Herb Wellness",
+      "latitude": 52.084463,
+      "longitude": 5.09531,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 70,
+      "name": "Haptonomie Amsterdam",
+      "latitude": 52.376141,
+      "longitude": 4.886205,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 71,
+      "name": "Haptotherapie aan de Vliet",
+      "latitude": 52.082591,
+      "longitude": 4.398439,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 72,
+      "name": "Hari",
+      "latitude": 52.34448,
+      "longitude": 4.89378,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 73,
+      "name": "Harmony Chiropractic",
+      "latitude": 52.083354,
+      "longitude": 4.39353,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 74,
+      "name": "Hart&Voet",
+      "latitude": 52.28148,
+      "longitude": 4.579592,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 75,
+      "name": "Head 2 toe bodycare",
+      "latitude": 51.646785,
+      "longitude": 5.952012,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 76,
+      "name": "Healthwise Kliniek Chiropractie",
+      "latitude": 52.725025,
+      "longitude": 6.98757,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 77,
+      "name": "Heart House",
+      "latitude": 52.2743,
+      "longitude": 5.171401,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 78,
+      "name": "Heavenly Healings",
+      "latitude": 52.510285,
+      "longitude": 5.010912,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 79,
+      "name": "Helemaal Mona",
+      "latitude": 52.383386,
+      "longitude": 4.888009,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 80,
+      "name": "Het Fytocentrum",
+      "latitude": 53.285814,
+      "longitude": 6.153287,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 81,
+      "name": "Homeopathie Tangel",
+      "latitude": 52.07974,
+      "longitude": 4.290057,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 82,
+      "name": "Hong Hong Health Care Centre",
+      "latitude": 52.07663,
+      "longitude": 5.114075,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 83,
+      "name": "Hua Kang",
+      "latitude": 51.482852,
+      "longitude": 5.666928,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 84,
+      "name": "Huidtherapie Verdronkenoord",
+      "latitude": 52.628632,
+      "longitude": 4.753303,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 85,
+      "name": "Huidverzorgings Instituut",
+      "latitude": 52.627701,
+      "longitude": 4.752245,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 86,
+      "name": "Hypnotherapie Jordaan",
+      "latitude": 52.376143,
+      "longitude": 4.886215,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 87,
+      "name": "Inner Diamond Path",
+      "latitude": 52.383386,
+      "longitude": 4.888009,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 88,
+      "name": "Innerstrength Coaching",
+      "latitude": 52.93467,
+      "longitude": 5.893083,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 89,
+      "name": "Inter Chiro",
+      "latitude": 52.381739,
+      "longitude": 4.871155,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 90,
+      "name": "Iris Osteopathie",
+      "latitude": 51.554848,
+      "longitude": 5.103281,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 91,
+      "name": "Jan Dingemans klassieke homeopathie",
+      "latitude": 51.692437,
+      "longitude": 5.095601,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 92,
+      "name": "Karen Ehrbecker",
+      "latitude": 51.988363,
+      "longitude": 4.467481,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 93,
+      "name": "Kinderhomeopathie",
+      "latitude": 52.508787,
+      "longitude": 6.123747,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 94,
+      "name": "Klassieke homeopathie M.L.van Royen",
+      "latitude": 51.490242,
+      "longitude": 3.91032,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 95,
+      "name": "Lein",
+      "latitude": 51.509397,
+      "longitude": 5.492202,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 96,
+      "name": "Life Chiropractisch Gezondheidscentrum",
+      "latitude": 52.50404,
+      "longitude": 4.958559,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 97,
+      "name": "Lisette Timmermans",
+      "latitude": 52.01202,
+      "longitude": 4.363788,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 98,
+      "name": "Lotus Centre",
+      "latitude": 51.613111,
+      "longitude": 5.445818,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 99,
+      "name": "Margriet Dings Natuurlijk",
+      "latitude": 52.11368,
+      "longitude": 5.130317,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 100,
+      "name": "Marianne ten Westenend",
+      "latitude": 51.654826,
+      "longitude": 5.630007,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 101,
+      "name": "Merima",
+      "latitude": 52.714418,
+      "longitude": 6.336017,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 102,
+      "name": "Meso Cura",
+      "latitude": 52.005351,
+      "longitude": 6.359517,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 103,
+      "name": "Mindfullness Younion",
+      "latitude": 52.627248,
+      "longitude": 4.75655,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 104,
+      "name": "MunayQi",
+      "latitude": 52.515532,
+      "longitude": 4.960422,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 105,
+      "name": "NEI & Holistische praktijk Heel Jij",
+      "latitude": 51.881109,
+      "longitude": 5.85632,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 106,
+      "name": "Natuurgeneeskundige Praktijk Van De Bron",
+      "latitude": 53.049108,
+      "longitude": 5.838007,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 107,
+      "name": "Natuurgeneeskundige praktijk \"Margrietje\"",
+      "latitude": 51.292951,
+      "longitude": 4.163246,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 108,
+      "name": "Natuurkundig praktijk Andich",
+      "latitude": 52.103914,
+      "longitude": 5.09417,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 109,
+      "name": "Natuurlijk Beter",
+      "latitude": 51.913805,
+      "longitude": 4.101483,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 110,
+      "name": "NewFysic",
+      "latitude": 52.632183,
+      "longitude": 4.749124,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 111,
+      "name": "Noord Straalt",
+      "latitude": 52.402927,
+      "longitude": 4.896473,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 112,
+      "name": "One",
+      "latitude": 52.158443,
+      "longitude": 5.396453,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 113,
+      "name": "One Chiropractic Studio",
+      "latitude": 52.014517,
+      "longitude": 4.709804,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 114,
+      "name": "Ont-Moet, Centrum voor Aandacht en Bewustzijn",
+      "latitude": 51.501343,
+      "longitude": 4.295454,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 115,
+      "name": "Osteopathie Amsterdam",
+      "latitude": 52.377927,
+      "longitude": 4.879936,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 116,
+      "name": "Osteopathie Chris Vos",
+      "latitude": 52.159302,
+      "longitude": 5.397975,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 117,
+      "name": "Osteopathie Daamen",
+      "latitude": 50.873738,
+      "longitude": 5.991677,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 118,
+      "name": "Osteopathie Hoekse Waard",
+      "latitude": 51.742714,
+      "longitude": 4.554664,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 119,
+      "name": "Osteopathie Mergelland",
+      "latitude": 50.875838,
+      "longitude": 5.981362,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 120,
+      "name": "Osteopathie Wijtten",
+      "latitude": 52.38603,
+      "longitude": 6.041252,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 121,
+      "name": "Osteopathie Zaanstad",
+      "latitude": 52.444835,
+      "longitude": 4.82291,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 122,
+      "name": "Osteopathie van Eijck",
+      "latitude": 51.544567,
+      "longitude": 5.046434,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 123,
+      "name": "Osteopathie van der Sanden",
+      "latitude": 51.736956,
+      "longitude": 5.357917,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 124,
+      "name": "Osteopathiepraktijk Brummelhuis",
+      "latitude": 52.30742,
+      "longitude": 6.92174,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 125,
+      "name": "Osteopraktijk.nl",
+      "latitude": 52.364883,
+      "longitude": 4.905471,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 126,
+      "name": "Osteopraktijk.nl",
+      "latitude": 52.384833,
+      "longitude": 4.960976,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 127,
+      "name": "Oxalis-coaching",
+      "latitude": 51.618603,
+      "longitude": 5.437323,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 128,
+      "name": "Pin Point Acupunctuur",
+      "latitude": 52.592143,
+      "longitude": 6.088891,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 129,
+      "name": "Podotherapie Hermanns",
+      "latitude": 52.376147,
+      "longitude": 4.886218,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 130,
+      "name": "Praktijk Acupunctuur",
+      "latitude": 52.017492,
+      "longitude": 4.33205,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 131,
+      "name": "Praktijk Ankelien Kadijk Reflexzone-therapie & Klassieke Acupunctuur",
+      "latitude": 53.29479,
+      "longitude": 5.06426,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 132,
+      "name": "Praktijk DOM",
+      "latitude": 52.09737,
+      "longitude": 5.105494,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 133,
+      "name": "Praktijk Flowers of Life",
+      "latitude": 51.547698,
+      "longitude": 5.079793,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 134,
+      "name": "Praktijk Heel",
+      "latitude": 52.661159,
+      "longitude": 6.653371,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 135,
+      "name": "Praktijk Paula Molenaar",
+      "latitude": 52.515509,
+      "longitude": 4.960423,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 136,
+      "name": "Praktijk Rozenhart",
+      "latitude": 52.079572,
+      "longitude": 5.018243,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 137,
+      "name": "Praktijk Voor De Klasieke Accupuntuur",
+      "latitude": 52.629351,
+      "longitude": 4.746271,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 138,
+      "name": "Praktijk de Korenbloem",
+      "latitude": 52.403741,
+      "longitude": 5.280343,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 139,
+      "name": "Praktijk voor Acupunctuur Utrecht",
+      "latitude": 52.078303,
+      "longitude": 5.126755,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 140,
+      "name": "Praktijk voor Acupunctuur en Coaching",
+      "latitude": 51.54759,
+      "longitude": 5.078221,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 141,
+      "name": "Praktijk voor Fysiotherapie",
+      "latitude": 52.630249,
+      "longitude": 4.744482,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 142,
+      "name": "Praktijk voor Haptotherapie",
+      "latitude": 52.015475,
+      "longitude": 4.352058,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 143,
+      "name": "Praktijk voor Klassieke Homeopathie",
+      "latitude": 52.841509,
+      "longitude": 7.04515,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 144,
+      "name": "Prikkunst",
+      "latitude": 51.938009,
+      "longitude": 4.425841,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 145,
+      "name": "Priktijk Westerpark",
+      "latitude": 52.383687,
+      "longitude": 4.872189,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 146,
+      "name": "Qi Gong",
+      "latitude": 53.227186,
+      "longitude": 6.561834,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 147,
+      "name": "Qiu Xue Cheng",
+      "latitude": 51.920223,
+      "longitude": 4.468587,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 148,
+      "name": "Quality4yourself",
+      "latitude": 53.221717,
+      "longitude": 5.806713,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 149,
+      "name": "REMINO",
+      "latitude": 51.967621,
+      "longitude": 6.283728,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 150,
+      "name": "Reijenga Osteopathie",
+      "latitude": 52.367129,
+      "longitude": 5.203973,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 151,
+      "name": "Reiki Vorden",
+      "latitude": 52.103506,
+      "longitude": 6.309425,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 152,
+      "name": "Rekicentrum Zijn",
+      "latitude": 52.084548,
+      "longitude": 4.340515,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 153,
+      "name": "SingInsideOut",
+      "latitude": 51.501509,
+      "longitude": 4.296087,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 154,
+      "name": "Solar",
+      "latitude": 52.008411,
+      "longitude": 4.354933,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 155,
+      "name": "Solar",
+      "latitude": 52.358387,
+      "longitude": 4.857204,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 156,
+      "name": "Spirit and Touch",
+      "latitude": 52.162384,
+      "longitude": 5.406874,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 157,
+      "name": "Stringer Chiropractie",
+      "latitude": 52.633261,
+      "longitude": 4.714541,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 158,
+      "name": "SumSumma",
+      "latitude": 52.394639,
+      "longitude": 4.877859,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 159,
+      "name": "Surya Veda",
+      "latitude": 52.095029,
+      "longitude": 5.065196,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 160,
+      "name": "TCM Acupunctuur",
+      "latitude": 51.441316,
+      "longitude": 5.503685,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 161,
+      "name": "TCM Praktijk Rotterdam",
+      "latitude": 51.900511,
+      "longitude": 4.49815,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 162,
+      "name": "TeRug in Balans",
+      "latitude": 53.232987,
+      "longitude": 6.57428,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 163,
+      "name": "Tessa's Healing",
+      "latitude": 51.976859,
+      "longitude": 4.316927,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 164,
+      "name": "Thrive",
+      "latitude": 52.383828,
+      "longitude": 4.88422,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 165,
+      "name": "Tianyi Health Center",
+      "latitude": 52.383313,
+      "longitude": 4.886226,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 166,
+      "name": "Tong Ji Chinese Medical Center",
+      "latitude": 52.160731,
+      "longitude": 4.497528,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 167,
+      "name": "Top Chiro Weert",
+      "latitude": 51.252305,
+      "longitude": 5.709428,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 168,
+      "name": "Topchiro",
+      "latitude": 52.076962,
+      "longitude": 5.114535,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 169,
+      "name": "Topchiro",
+      "latitude": 52.083068,
+      "longitude": 4.304856,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 170,
+      "name": "Tuina Experts Liu Tao",
+      "latitude": 52.074922,
+      "longitude": 4.316024,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 171,
+      "name": "VNS Daith",
+      "latitude": 51.656059,
+      "longitude": 5.615496,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 172,
+      "name": "Van Beek",
+      "latitude": 52.164938,
+      "longitude": 5.411759,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 173,
+      "name": "Van Duursen Osteopathie",
+      "latitude": 51.427688,
+      "longitude": 5.492205,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 174,
+      "name": "Verbruggen Reformvoeding",
+      "latitude": 51.840327,
+      "longitude": 5.872737,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 175,
+      "name": "Verwijs",
+      "latitude": 52.510071,
+      "longitude": 6.085472,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 176,
+      "name": "Vitology",
+      "latitude": 51.923997,
+      "longitude": 4.510322,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 177,
+      "name": "Voedingsadvies Purmerend",
+      "latitude": 52.515611,
+      "longitude": 4.96615,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 178,
+      "name": "Warm Medicine Center",
+      "latitude": 51.565206,
+      "longitude": 5.091053,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 179,
+      "name": "Waterland chiropractie",
+      "latitude": 52.143831,
+      "longitude": 4.393887,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 180,
+      "name": "Wonder Therapy",
+      "latitude": 52.033679,
+      "longitude": 4.654489,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 181,
+      "name": "Xing Wang Yihetang",
+      "latitude": 52.076936,
+      "longitude": 5.114105,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 182,
+      "name": "Yeung",
+      "latitude": 52.365124,
+      "longitude": 4.94029,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 183,
+      "name": "Yin & Yang Balans",
+      "latitude": 52.632658,
+      "longitude": 4.746049,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 184,
+      "name": "Yin Yang",
+      "latitude": 52.079933,
+      "longitude": 4.318299,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 185,
+      "name": "Yuan Qi Acupuncture",
+      "latitude": 51.44129,
+      "longitude": 5.503693,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 186,
+      "name": "Zhao Natural Healing",
+      "latitude": 52.101425,
+      "longitude": 5.098463,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 187,
+      "name": "Zoutkamer Veenendaal",
+      "latitude": 52.028499,
+      "longitude": 5.531518,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 188,
+      "name": "de Praktijk",
+      "latitude": 52.979847,
+      "longitude": 5.442413,
+      "osm_klasse": "healthcare=alternative"
+    },
+    {
+      "id": 189,
+      "name": "van Heuven",
+      "latitude": 52.151286,
+      "longitude": 5.391891,
+      "osm_klasse": "healthcare=alternative"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: alternative (healthcare=alternative) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged healthcare=alternative in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 189 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: alternative (healthcare=alternative) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: alternative (healthcare=alternative) — 189 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 189 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

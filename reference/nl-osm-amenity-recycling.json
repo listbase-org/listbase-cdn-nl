@@ -1,0 +1,3537 @@
+{
+  "id": "nl-osm-amenity-recycling",
+  "name": "Netherlands OSM: recycling (amenity=recycling)",
+  "title": "Netherlands OSM: recycling (amenity=recycling)",
+  "description": "Named OpenStreetMap features tagged amenity=recycling in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 498,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "1B",
+      "latitude": 52.291053,
+      "longitude": 4.959101,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 2,
+      "name": "2B",
+      "latitude": 52.29252,
+      "longitude": 4.957795,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 3,
+      "name": "2G",
+      "latitude": 52.291024,
+      "longitude": 4.959161,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 4,
+      "name": "2pl",
+      "latitude": 52.29103,
+      "longitude": 4.959045,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 5,
+      "name": "2r",
+      "latitude": 52.292985,
+      "longitude": 4.957941,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 6,
+      "name": "4G",
+      "latitude": 52.292506,
+      "longitude": 4.957738,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 7,
+      "name": "ABC Metaal Recycling",
+      "latitude": 52.69934,
+      "longitude": 6.177303,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 8,
+      "name": "ACV Afvalbrengstation Veenendaal",
+      "latitude": 52.006923,
+      "longitude": 5.577915,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 9,
+      "name": "ALBA Metaal Recycling",
+      "latitude": 53.206777,
+      "longitude": 6.60439,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 10,
+      "name": "AVR Overslagstation Binckhorst",
+      "latitude": 52.071005,
+      "longitude": 4.33197,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 11,
+      "name": "Aanbiedstation Gemeente Bunschoten-Spakenburg",
+      "latitude": 52.249233,
+      "longitude": 5.394834,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 12,
+      "name": "Afval Brengpunt Doetinchem",
+      "latitude": 51.946271,
+      "longitude": 6.297721,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 13,
+      "name": "Afval scheiding",
+      "latitude": 52.603659,
+      "longitude": 4.688427,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 14,
+      "name": "Afval scheiding",
+      "latitude": 52.609369,
+      "longitude": 4.688737,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 15,
+      "name": "Afvalaanbiedstation Albrandswaard",
+      "latitude": 51.859818,
+      "longitude": 4.434803,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 16,
+      "name": "Afvalaanbiedstation Barendrecht",
+      "latitude": 51.847335,
+      "longitude": 4.512136,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 17,
+      "name": "Afvalaanbiedstation Duiven",
+      "latitude": 51.952148,
+      "longitude": 6.019625,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 18,
+      "name": "Afvalaanbiedstation Zevenaar",
+      "latitude": 51.921393,
+      "longitude": 6.120283,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 19,
+      "name": "Afvalbakken - Ondergronds afval",
+      "latitude": 52.337767,
+      "longitude": 5.218072,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 20,
+      "name": "Afvalbakken - Ondergronds afval",
+      "latitude": 52.339357,
+      "longitude": 5.218488,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 21,
+      "name": "Afvalbrengpunt",
+      "latitude": 52.278364,
+      "longitude": 6.395001,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 22,
+      "name": "Afvalbrengpunt",
+      "latitude": 52.314325,
+      "longitude": 6.510584,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 23,
+      "name": "Afvalbrengpunt",
+      "latitude": 52.359964,
+      "longitude": 6.502451,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 24,
+      "name": "Afvalbrengpunt Gemeente Borger-Odoorn",
+      "latitude": 52.906921,
+      "longitude": 6.915895,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 25,
+      "name": "Afvalbrengpunt Gemeente Den Haag",
+      "latitude": 52.043698,
+      "longitude": 4.246527,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 26,
+      "name": "Afvalbrengpunt Gemeente Slochteren",
+      "latitude": 53.210397,
+      "longitude": 6.793138,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 27,
+      "name": "Afvalbrengpunt Hoogezand",
+      "latitude": 53.167697,
+      "longitude": 6.766489,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 28,
+      "name": "Afvalbrengpunt Oost",
+      "latitude": 52.222102,
+      "longitude": 6.955476,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 29,
+      "name": "Afvalbrengpunt West",
+      "latitude": 52.227572,
+      "longitude": 6.846146,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 30,
+      "name": "Afvalbrengpunt Zuid",
+      "latitude": 52.197606,
+      "longitude": 6.888877,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 31,
+      "name": "Afvalbrengpunt losser",
+      "latitude": 52.26166,
+      "longitude": 7.012582,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 32,
+      "name": "Afvalbrengstation",
+      "latitude": 51.958864,
+      "longitude": 5.647464,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 33,
+      "name": "Afvalbrengstation",
+      "latitude": 52.011181,
+      "longitude": 5.063357,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 34,
+      "name": "Afvalbrengstation",
+      "latitude": 52.125689,
+      "longitude": 4.499699,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 35,
+      "name": "Afvalbrengstation",
+      "latitude": 52.422754,
+      "longitude": 4.821811,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 36,
+      "name": "Afvalbrengstation",
+      "latitude": 53.136812,
+      "longitude": 7.059824,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 37,
+      "name": "Afvalbrengstation Amstelveen",
+      "latitude": 52.280539,
+      "longitude": 4.833968,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 38,
+      "name": "Afvalbrengstation Binckhorst",
+      "latitude": 52.071784,
+      "longitude": 4.331595,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 39,
+      "name": "Afvalbrengstation Gemeente Westerveld",
+      "latitude": 52.757173,
+      "longitude": 6.237581,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 40,
+      "name": "Afvalbrengstation Heerenveen Omrin",
+      "latitude": 52.9758,
+      "longitude": 5.889992,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 41,
+      "name": "Afvalbrengstation Nieuwerkerk aan den IJssel",
+      "latitude": 51.980132,
+      "longitude": 4.615925,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 42,
+      "name": "Afvalbrengstation Noord",
+      "latitude": 51.97354,
+      "longitude": 5.937028,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 43,
+      "name": "Afvalbrengstation ROVA",
+      "latitude": 52.530111,
+      "longitude": 6.180611,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 44,
+      "name": "Afvalbrengstation Raalte",
+      "latitude": 52.377389,
+      "longitude": 6.292249,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 45,
+      "name": "Afvalbrengstation Soest",
+      "latitude": 52.18215,
+      "longitude": 5.308363,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 46,
+      "name": "Afvalbrengstation Trekkersveld",
+      "latitude": 52.358534,
+      "longitude": 5.506262,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 47,
+      "name": "Afvalbrengstation Uitenhagestraat",
+      "latitude": 52.07163,
+      "longitude": 4.291057,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 48,
+      "name": "Afvalbrengstation Veendam",
+      "latitude": 53.087325,
+      "longitude": 6.870346,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 49,
+      "name": "Afvalbrengstation Vinkhuizen Zuid",
+      "latitude": 53.218164,
+      "longitude": 6.53721,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 50,
+      "name": "Afvalbrengstation Weststellingwerf",
+      "latitude": 52.885392,
+      "longitude": 5.991207,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 51,
+      "name": "Afvalbrengstation Woldjerspoor",
+      "latitude": 53.19602,
+      "longitude": 6.619288,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 52,
+      "name": "Afvalbrengstation Zeist",
+      "latitude": 52.108285,
+      "longitude": 5.263211,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 53,
+      "name": "Afvalbrengstation Zevenhuizen (Oud Verlaat) en Moerkapelle",
+      "latitude": 52.007408,
+      "longitude": 4.586194,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 54,
+      "name": "Afvalbrengstation gemeente Noordoostpolder",
+      "latitude": 52.69545,
+      "longitude": 5.747443,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 55,
+      "name": "Afvalinzamelstation",
+      "latitude": 52.249651,
+      "longitude": 5.599685,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 56,
+      "name": "Afvaloverslagstation Kloosterlaan",
+      "latitude": 53.286141,
+      "longitude": 6.974751,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 57,
+      "name": "Afvalpunt Henk Sneevlietweg",
+      "latitude": 52.343293,
+      "longitude": 4.833456,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 58,
+      "name": "Afvalpunt Marie Baronlaan",
+      "latitude": 52.369744,
+      "longitude": 4.971965,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 59,
+      "name": "Afvalpunt Meerkerkdreef",
+      "latitude": 52.302307,
+      "longitude": 4.977947,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 60,
+      "name": "Afvalpunt Rozenburglaan",
+      "latitude": 52.338883,
+      "longitude": 4.93756,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 61,
+      "name": "Afvalpunt Seineweg",
+      "latitude": 52.386007,
+      "longitude": 4.820682,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 62,
+      "name": "Afvalpunt Toetsenbordweg",
+      "latitude": 52.413607,
+      "longitude": 4.869685,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 63,
+      "name": "Afvalscheidingsdepot Maarssen",
+      "latitude": 52.150646,
+      "longitude": 5.036904,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 64,
+      "name": "Afvalscheidingsstation De Stits",
+      "latitude": 52.09054,
+      "longitude": 5.003535,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 65,
+      "name": "Afvalscheidingsstation Heerhugowaard",
+      "latitude": 52.658933,
+      "longitude": 4.858614,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 66,
+      "name": "Afvalscheidingsstation Lunetten",
+      "latitude": 52.062222,
+      "longitude": 5.143048,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 67,
+      "name": "Afvalscheidingsstation Oudkarspel",
+      "latitude": 52.702609,
+      "longitude": 4.779702,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 68,
+      "name": "Afvalscheidingsstation Tractieweg",
+      "latitude": 52.104588,
+      "longitude": 5.083088,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 69,
+      "name": "Afvalstraat",
+      "latitude": 52.38308,
+      "longitude": 5.70905,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 70,
+      "name": "Afvalzorg \"het Groene Schip\"",
+      "latitude": 52.423167,
+      "longitude": 4.733764,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 71,
+      "name": "Autodemotagebedrijf Kempenaar B.V.",
+      "latitude": 52.043572,
+      "longitude": 5.301287,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 72,
+      "name": "Avalex Afvalbrengstation Nootdorp",
+      "latitude": 52.0395,
+      "longitude": 4.388594,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 73,
+      "name": "Avalex Afvalbrengstation Rijswijk",
+      "latitude": 52.049254,
+      "longitude": 4.355167,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 74,
+      "name": "Avalex Afvaloverlaadstation",
+      "latitude": 51.983199,
+      "longitude": 4.375627,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 75,
+      "name": "B",
+      "latitude": 52.292319,
+      "longitude": 4.959309,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 76,
+      "name": "B",
+      "latitude": 52.292421,
+      "longitude": 4.958097,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 77,
+      "name": "B",
+      "latitude": 52.294606,
+      "longitude": 4.95519,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 78,
+      "name": "BA-001-G / B46#",
+      "latitude": 51.325943,
+      "longitude": 6.098031,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 79,
+      "name": "Blipvert",
+      "latitude": 52.101962,
+      "longitude": 5.244834,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 80,
+      "name": "Brengpunt Tuinafval / Gemeentelijk Depot Ureterp",
+      "latitude": 53.092352,
+      "longitude": 6.178153,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 81,
+      "name": "Car recycling",
+      "latitude": 51.584642,
+      "longitude": 5.033209,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 82,
+      "name": "Car recycling",
+      "latitude": 51.586045,
+      "longitude": 5.033736,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 83,
+      "name": "Collin Recycling",
+      "latitude": 51.391201,
+      "longitude": 6.109692,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 84,
+      "name": "DAR Bijsterhuizen",
+      "latitude": 51.832889,
+      "longitude": 5.749224,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 85,
+      "name": "DAR Kanaalstraat",
+      "latitude": 51.850337,
+      "longitude": 5.837222,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 86,
+      "name": "DAR Milieustraat",
+      "latitude": 51.889505,
+      "longitude": 5.583672,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 87,
+      "name": "Daamen Milieu",
+      "latitude": 51.867664,
+      "longitude": 6.027571,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 88,
+      "name": "De Coolhof",
+      "latitude": 51.614747,
+      "longitude": 4.932184,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 89,
+      "name": "De Graaf",
+      "latitude": 52.516251,
+      "longitude": 4.994123,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 90,
+      "name": "De Paauw",
+      "latitude": 52.244613,
+      "longitude": 6.784237,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 91,
+      "name": "Diftar",
+      "latitude": 52.211665,
+      "longitude": 5.972252,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 92,
+      "name": "Driessen Recycling B.V.",
+      "latitude": 51.442172,
+      "longitude": 6.070817,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 93,
+      "name": "Droppie",
+      "latitude": 52.072513,
+      "longitude": 5.123029,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 94,
+      "name": "Droppie",
+      "latitude": 52.086468,
+      "longitude": 4.337912,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 95,
+      "name": "Droppie",
+      "latitude": 52.384329,
+      "longitude": 4.875454,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 96,
+      "name": "Dusseldorp Inzameling/Recycling, reststoffencentrum Doetinchem Recycling",
+      "latitude": 51.944815,
+      "longitude": 6.289931,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 97,
+      "name": "Dutch Plantin",
+      "latitude": 51.609957,
+      "longitude": 5.666529,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 98,
+      "name": "Ecopark De Limes",
+      "latitude": 52.116091,
+      "longitude": 4.681517,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 99,
+      "name": "Ecopark Gouda",
+      "latitude": 52.013539,
+      "longitude": 4.685691,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 100,
+      "name": "Ecostation De Hemmen",
+      "latitude": 53.112011,
+      "longitude": 6.062731,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 101,
+      "name": "Ecostation de Boeg",
+      "latitude": 53.11346,
+      "longitude": 6.061956,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 102,
+      "name": "Elektronische apparatuur",
+      "latitude": 52.090134,
+      "longitude": 5.00375,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 103,
+      "name": "Emmaus kringloop",
+      "latitude": 52.090392,
+      "longitude": 5.003681,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 104,
+      "name": "Estafette recyclewinkel",
+      "latitude": 53.276394,
+      "longitude": 5.657606,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 105,
+      "name": "Frijlink Milieu",
+      "latitude": 52.53322,
+      "longitude": 6.417903,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 106,
+      "name": "G",
+      "latitude": 52.290941,
+      "longitude": 4.953138,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 107,
+      "name": "G",
+      "latitude": 52.292307,
+      "longitude": 4.959267,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 108,
+      "name": "G",
+      "latitude": 52.292433,
+      "longitude": 4.958053,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 109,
+      "name": "G",
+      "latitude": 52.29339,
+      "longitude": 4.959011,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 110,
+      "name": "G",
+      "latitude": 52.294651,
+      "longitude": 4.955159,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 111,
+      "name": "GAD",
+      "latitude": 52.284103,
+      "longitude": 5.164342,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 112,
+      "name": "GAD Hilversum",
+      "latitude": 52.2467,
+      "longitude": 5.170851,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 113,
+      "name": "GAD scheidingsstation",
+      "latitude": 52.312349,
+      "longitude": 5.05102,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 114,
+      "name": "GFT-afval",
+      "latitude": 52.375432,
+      "longitude": 5.246653,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 115,
+      "name": "GFT-afval",
+      "latitude": 52.376149,
+      "longitude": 5.246489,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 116,
+      "name": "Geelhoed Metaalhandel",
+      "latitude": 52.050655,
+      "longitude": 4.410881,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 117,
+      "name": "Gemeente Arnhem werf Overmaat",
+      "latitude": 51.951544,
+      "longitude": 5.880812,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 118,
+      "name": "Gemeentelijk afvalbrengpunt",
+      "latitude": 52.278447,
+      "longitude": 6.394288,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 119,
+      "name": "Gemeentelijk afvalpark Lanaken",
+      "latitude": 50.881228,
+      "longitude": 5.667503,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 120,
+      "name": "Gemeentewerf",
+      "latitude": 51.827899,
+      "longitude": 4.699284,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 121,
+      "name": "Gemeentewerf",
+      "latitude": 51.968879,
+      "longitude": 5.33614,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 122,
+      "name": "Gemeentewerf",
+      "latitude": 51.985087,
+      "longitude": 4.207321,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 123,
+      "name": "Gemeentewerf",
+      "latitude": 51.996597,
+      "longitude": 4.179358,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 124,
+      "name": "Gemeentewerf",
+      "latitude": 52.20543,
+      "longitude": 4.879586,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 125,
+      "name": "Gemeentewerf",
+      "latitude": 52.217849,
+      "longitude": 4.526894,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 126,
+      "name": "Gemeentewerf Bunnik",
+      "latitude": 52.061298,
+      "longitude": 5.21643,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 127,
+      "name": "Gemeentewerf De Moestuin",
+      "latitude": 52.00649,
+      "longitude": 5.965592,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 128,
+      "name": "Gemeentewerf Landsmeer",
+      "latitude": 52.423331,
+      "longitude": 4.906621,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 129,
+      "name": "Gemeentewerf Nieuwegein",
+      "latitude": 52.021545,
+      "longitude": 5.098957,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 130,
+      "name": "Gemeentewerf Oostellingwerf",
+      "latitude": 52.991394,
+      "longitude": 6.269411,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 131,
+      "name": "Gemeentewerf de Bovenkamp",
+      "latitude": 52.275593,
+      "longitude": 4.978641,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 132,
+      "name": "Gemeentewerken Beemster",
+      "latitude": 52.552006,
+      "longitude": 4.903611,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 133,
+      "name": "Glas, Papier",
+      "latitude": 52.402808,
+      "longitude": 5.311601,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 134,
+      "name": "Glasbak",
+      "latitude": 51.86191,
+      "longitude": 6.48952,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 135,
+      "name": "Glasbak",
+      "latitude": 52.78719,
+      "longitude": 6.109299,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 136,
+      "name": "Glasbak Aaldersbeeklaan",
+      "latitude": 51.867877,
+      "longitude": 6.489207,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 137,
+      "name": "Glasbak De Heul",
+      "latitude": 51.785313,
+      "longitude": 4.560608,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 138,
+      "name": "Glasbak Helmkamp",
+      "latitude": 51.860782,
+      "longitude": 6.478011,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 139,
+      "name": "Goese Metaalhandel Van Son",
+      "latitude": 51.496281,
+      "longitude": 3.882007,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 140,
+      "name": "Grofvuil Gemeentewerf Ferwerderadiel",
+      "latitude": 53.330678,
+      "longitude": 5.826013,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 141,
+      "name": "Grondstoffencentrum Roosendaal / Halderberge",
+      "latitude": 51.559743,
+      "longitude": 4.483277,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 142,
+      "name": "Grondstoffenpark Heerlen",
+      "latitude": 50.905952,
+      "longitude": 5.9558,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 143,
+      "name": "Grondstoffenpark Kerkrade",
+      "latitude": 50.854538,
+      "longitude": 6.015357,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 144,
+      "name": "Grondstoffenpark Landgraaf",
+      "latitude": 50.887165,
+      "longitude": 6.026485,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 145,
+      "name": "Grondstoffenpark Vaals",
+      "latitude": 50.777864,
+      "longitude": 6.015768,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 146,
+      "name": "Grondstoffenplein Waddinxveen",
+      "latitude": 52.029102,
+      "longitude": 4.651256,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 147,
+      "name": "H",
+      "latitude": 52.306785,
+      "longitude": 6.86972,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 148,
+      "name": "HVC",
+      "latitude": 52.487219,
+      "longitude": 4.628476,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 149,
+      "name": "HVC - Afvalbrengstation Bergen",
+      "latitude": 52.674989,
+      "longitude": 4.709396,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 150,
+      "name": "HVC Afvalbrengstation",
+      "latitude": 52.671329,
+      "longitude": 5.065019,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 151,
+      "name": "HVC Composteringsinstallatie",
+      "latitude": 52.512138,
+      "longitude": 5.011422,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 152,
+      "name": "HVC Milieustraat",
+      "latitude": 52.769117,
+      "longitude": 5.070527,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 153,
+      "name": "HVC recycleplein Alkmaar",
+      "latitude": 52.604258,
+      "longitude": 4.754485,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 154,
+      "name": "Haagse Milieu Services",
+      "latitude": 52.072475,
+      "longitude": 4.332526,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 155,
+      "name": "Helftheuvel",
+      "latitude": 51.694139,
+      "longitude": 5.267129,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 156,
+      "name": "Hergebruik Plus",
+      "latitude": 53.322176,
+      "longitude": 6.877311,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 157,
+      "name": "Het Groene Schip",
+      "latitude": 52.424976,
+      "longitude": 4.735057,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 158,
+      "name": "Het Groene Schip",
+      "latitude": 52.425742,
+      "longitude": 4.735399,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 159,
+      "name": "Hodzelmans BV",
+      "latitude": 50.888619,
+      "longitude": 6.075155,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 160,
+      "name": "IMPACT RECYCLING B.V.",
+      "latitude": 53.304274,
+      "longitude": 6.990117,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 161,
+      "name": "Innamepunt Het Goed",
+      "latitude": 51.42788,
+      "longitude": 5.442642,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 162,
+      "name": "Inzamel Eiland",
+      "latitude": 52.367141,
+      "longitude": 4.866864,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 163,
+      "name": "Janssen Recycling",
+      "latitude": 51.391097,
+      "longitude": 6.113715,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 164,
+      "name": "Joe's Garage",
+      "latitude": 52.355589,
+      "longitude": 4.925002,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 165,
+      "name": "Joop Rodenburg Sloopwerken & Puinrecycling",
+      "latitude": 51.88943,
+      "longitude": 5.583077,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 166,
+      "name": "Joop van Daalen's Recycling",
+      "latitude": 51.819119,
+      "longitude": 4.520359,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 167,
+      "name": "Knapzak Benelux",
+      "latitude": 51.506837,
+      "longitude": 5.054228,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 168,
+      "name": "Koterhoek",
+      "latitude": 52.792831,
+      "longitude": 6.133404,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 169,
+      "name": "Kringloop Hardenberg",
+      "latitude": 52.570839,
+      "longitude": 6.626213,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 170,
+      "name": "Kringloop Innamepunt",
+      "latitude": 51.432351,
+      "longitude": 5.368071,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 171,
+      "name": "Kringloopcentrum Hoek van Holland",
+      "latitude": 51.985582,
+      "longitude": 4.106948,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 172,
+      "name": "Kunststof Recycling Van Werven BV",
+      "latitude": 52.468972,
+      "longitude": 5.702101,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 173,
+      "name": "Langenkamp",
+      "latitude": 52.26073,
+      "longitude": 7.008321,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 174,
+      "name": "Leger de Heils - Kleding en schoenen",
+      "latitude": 52.051126,
+      "longitude": 4.238189,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 175,
+      "name": "M.R.T Metals",
+      "latitude": 51.302278,
+      "longitude": 3.848608,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 176,
+      "name": "Meerwijck",
+      "latitude": 53.149789,
+      "longitude": 6.690689,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 177,
+      "name": "Metaal Recycling Witte",
+      "latitude": 51.41767,
+      "longitude": 4.336776,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 178,
+      "name": "Metaalhandel Thijssen B.V.",
+      "latitude": 51.532359,
+      "longitude": 5.099399,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 179,
+      "name": "Metaalrecycling van Akelijen",
+      "latitude": 51.81319,
+      "longitude": 4.523745,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 180,
+      "name": "Metal recycling",
+      "latitude": 51.585302,
+      "longitude": 5.034826,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 181,
+      "name": "Mileustraat Berkel-Enschot",
+      "latitude": 51.595635,
+      "longitude": 5.142603,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 182,
+      "name": "Milieu Station",
+      "latitude": 51.261665,
+      "longitude": 5.685681,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 183,
+      "name": "Milieubrengstation ROVA Hardenberg (Bovenveld)",
+      "latitude": 52.552741,
+      "longitude": 6.526792,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 184,
+      "name": "Milieudepot, gemeente Ouder-Amstel",
+      "latitude": 52.32678,
+      "longitude": 4.940635,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 185,
+      "name": "Milieupark",
+      "latitude": 51.832207,
+      "longitude": 4.760102,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 186,
+      "name": "Milieupark Beatrixhaven",
+      "latitude": 50.881477,
+      "longitude": 5.719108,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 187,
+      "name": "Milieupark Born",
+      "latitude": 51.036502,
+      "longitude": 5.807281,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 188,
+      "name": "Milieupark Brunssum",
+      "latitude": 50.959113,
+      "longitude": 5.979185,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 189,
+      "name": "Milieupark Charlois",
+      "latitude": 51.868504,
+      "longitude": 4.454981,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 190,
+      "name": "Milieupark Geleen",
+      "latitude": 50.979066,
+      "longitude": 5.826525,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 191,
+      "name": "Milieupark Haps",
+      "latitude": 51.693651,
+      "longitude": 5.891007,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 192,
+      "name": "Milieupark Harderwijk",
+      "latitude": 52.364732,
+      "longitude": 5.640879,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 193,
+      "name": "Milieupark Hengelo",
+      "latitude": 52.277,
+      "longitude": 6.77412,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 194,
+      "name": "Milieupark Het Kanaal - Veld A",
+      "latitude": 53.007685,
+      "longitude": 6.595759,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 195,
+      "name": "Milieupark Het Rondeel",
+      "latitude": 50.859654,
+      "longitude": 5.678497,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 196,
+      "name": "Milieupark IJsselmonde",
+      "latitude": 51.872548,
+      "longitude": 4.540838,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 197,
+      "name": "Milieupark Molenhoek",
+      "latitude": 51.757822,
+      "longitude": 5.875289,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 198,
+      "name": "Milieupark Montfort",
+      "latitude": 51.144768,
+      "longitude": 5.937219,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 199,
+      "name": "Milieupark Noordam",
+      "latitude": 50.835245,
+      "longitude": 5.895632,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 200,
+      "name": "Milieupark Peel en Maas",
+      "latitude": 51.336684,
+      "longitude": 5.997114,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 201,
+      "name": "Milieupark Prins Alexander",
+      "latitude": 51.948827,
+      "longitude": 4.538249,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 202,
+      "name": "Milieupark Randwijck",
+      "latitude": 50.820379,
+      "longitude": 5.7148,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 203,
+      "name": "Milieupark van Kesteren",
+      "latitude": 51.776772,
+      "longitude": 5.945011,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 204,
+      "name": "Milieuplein Haarlem",
+      "latitude": 52.388256,
+      "longitude": 4.65518,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 205,
+      "name": "Milieustation",
+      "latitude": 51.392061,
+      "longitude": 6.104518,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 206,
+      "name": "Milieustation Breda Slingerweg",
+      "latitude": 51.591828,
+      "longitude": 4.763083,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 207,
+      "name": "Milieustation Breda Spinveld",
+      "latitude": 51.600314,
+      "longitude": 4.760653,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 208,
+      "name": "Milieustation Rosmalen",
+      "latitude": 51.728426,
+      "longitude": 5.397294,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 209,
+      "name": "Milieustation Treurenburg",
+      "latitude": 51.718742,
+      "longitude": 5.287334,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 210,
+      "name": "Milieustation Venray",
+      "latitude": 51.551084,
+      "longitude": 5.986763,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 211,
+      "name": "Milieustraat",
+      "latitude": 51.292595,
+      "longitude": 6.091866,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 212,
+      "name": "Milieustraat",
+      "latitude": 51.444504,
+      "longitude": 4.938198,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 213,
+      "name": "Milieustraat",
+      "latitude": 51.492382,
+      "longitude": 5.303387,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 214,
+      "name": "Milieustraat",
+      "latitude": 51.512894,
+      "longitude": 3.88997,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 215,
+      "name": "Milieustraat",
+      "latitude": 51.5649,
+      "longitude": 4.69571,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 216,
+      "name": "Milieustraat",
+      "latitude": 51.676603,
+      "longitude": 5.146805,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 217,
+      "name": "Milieustraat",
+      "latitude": 51.816546,
+      "longitude": 4.718723,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 218,
+      "name": "Milieustraat",
+      "latitude": 51.848147,
+      "longitude": 4.981479,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 219,
+      "name": "Milieustraat",
+      "latitude": 52.023798,
+      "longitude": 5.157336,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 220,
+      "name": "Milieustraat",
+      "latitude": 52.071443,
+      "longitude": 4.76474,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 221,
+      "name": "Milieustraat",
+      "latitude": 52.103681,
+      "longitude": 5.540213,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 222,
+      "name": "Milieustraat",
+      "latitude": 52.15985,
+      "longitude": 4.509056,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 223,
+      "name": "Milieustraat",
+      "latitude": 52.193461,
+      "longitude": 4.613098,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 224,
+      "name": "Milieustraat",
+      "latitude": 52.247053,
+      "longitude": 4.497474,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 225,
+      "name": "Milieustraat",
+      "latitude": 52.251071,
+      "longitude": 4.553363,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 226,
+      "name": "Milieustraat",
+      "latitude": 52.290244,
+      "longitude": 4.584494,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 227,
+      "name": "Milieustraat",
+      "latitude": 52.381646,
+      "longitude": 4.650473,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 228,
+      "name": "Milieustraat",
+      "latitude": 52.452803,
+      "longitude": 6.579941,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 229,
+      "name": "Milieustraat",
+      "latitude": 53.195739,
+      "longitude": 5.831064,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 230,
+      "name": "Milieustraat",
+      "latitude": 53.444576,
+      "longitude": 5.727303,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 231,
+      "name": "Milieustraat 't Spiegel",
+      "latitude": 52.143029,
+      "longitude": 5.41239,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 232,
+      "name": "Milieustraat Acht",
+      "latitude": 51.481659,
+      "longitude": 5.410847,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 233,
+      "name": "Milieustraat Albion",
+      "latitude": 51.584227,
+      "longitude": 5.030959,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 234,
+      "name": "Milieustraat Asten-Someren",
+      "latitude": 51.389153,
+      "longitude": 5.730412,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 235,
+      "name": "Milieustraat Avri",
+      "latitude": 51.869801,
+      "longitude": 5.326144,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 236,
+      "name": "Milieustraat Avri",
+      "latitude": 51.919264,
+      "longitude": 5.442569,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 237,
+      "name": "Milieustraat Avri",
+      "latitude": 51.943249,
+      "longitude": 5.22248,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 238,
+      "name": "Milieustraat Best",
+      "latitude": 51.491251,
+      "longitude": 5.403138,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 239,
+      "name": "Milieustraat Bolsward",
+      "latitude": 53.060868,
+      "longitude": 5.505984,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 240,
+      "name": "Milieustraat Borsele",
+      "latitude": 51.443115,
+      "longitude": 3.742451,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 241,
+      "name": "Milieustraat Breukelen",
+      "latitude": 52.167941,
+      "longitude": 4.996425,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 242,
+      "name": "Milieustraat Broeklanden",
+      "latitude": 52.442717,
+      "longitude": 5.869594,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 243,
+      "name": "Milieustraat Capelle",
+      "latitude": 51.927941,
+      "longitude": 4.599703,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 244,
+      "name": "Milieustraat Cranendonck",
+      "latitude": 51.309011,
+      "longitude": 5.629363,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 245,
+      "name": "Milieustraat Damwâld",
+      "latitude": 53.304431,
+      "longitude": 6.00169,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 246,
+      "name": "Milieustraat De Bilt",
+      "latitude": 52.113344,
+      "longitude": 5.173309,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 247,
+      "name": "Milieustraat Deurne",
+      "latitude": 51.448978,
+      "longitude": 5.80404,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 248,
+      "name": "Milieustraat Eersel",
+      "latitude": 51.376553,
+      "longitude": 5.314178,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 249,
+      "name": "Milieustraat Elst",
+      "latitude": 51.927815,
+      "longitude": 5.843284,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 250,
+      "name": "Milieustraat Etten-Leur",
+      "latitude": 51.570296,
+      "longitude": 4.619419,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 251,
+      "name": "Milieustraat Ferwerd",
+      "latitude": 53.330814,
+      "longitude": 5.825726,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 252,
+      "name": "Milieustraat Geldrop-Mierlo",
+      "latitude": 51.413554,
+      "longitude": 5.55517,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 253,
+      "name": "Milieustraat Gemeente De Wolden",
+      "latitude": 52.666571,
+      "longitude": 6.438456,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 254,
+      "name": "Milieustraat Gemeente Oisterwijk",
+      "latitude": 51.58788,
+      "longitude": 5.190894,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 255,
+      "name": "Milieustraat Gemeente Westvoorne",
+      "latitude": 51.910375,
+      "longitude": 4.115931,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 256,
+      "name": "Milieustraat Gemeente Woerden",
+      "latitude": 52.083294,
+      "longitude": 4.8657,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 257,
+      "name": "Milieustraat Gemert-Bakel",
+      "latitude": 51.560741,
+      "longitude": 5.712206,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 258,
+      "name": "Milieustraat Goirle",
+      "latitude": 51.508868,
+      "longitude": 5.053837,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 259,
+      "name": "Milieustraat Grou",
+      "latitude": 53.093713,
+      "longitude": 5.829667,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 260,
+      "name": "Milieustraat Haaren",
+      "latitude": 51.611917,
+      "longitude": 5.229627,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 261,
+      "name": "Milieustraat Helmond",
+      "latitude": 51.449642,
+      "longitude": 5.699606,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 262,
+      "name": "Milieustraat Hoogeveen",
+      "latitude": 52.727447,
+      "longitude": 6.497959,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 263,
+      "name": "Milieustraat Hulst",
+      "latitude": 51.272581,
+      "longitude": 4.038367,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 264,
+      "name": "Milieustraat Kapelle",
+      "latitude": 51.48176,
+      "longitude": 3.950813,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 265,
+      "name": "Milieustraat Katwijk",
+      "latitude": 52.204903,
+      "longitude": 4.43146,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 266,
+      "name": "Milieustraat Kollum",
+      "latitude": 53.268238,
+      "longitude": 6.156171,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 267,
+      "name": "Milieustraat Laarbeek",
+      "latitude": 51.51934,
+      "longitude": 5.610979,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 268,
+      "name": "Milieustraat Leiderdorp",
+      "latitude": 52.15471,
+      "longitude": 4.537053,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 269,
+      "name": "Milieustraat Lodewijkstraat",
+      "latitude": 51.433755,
+      "longitude": 5.448472,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 270,
+      "name": "Milieustraat Maassluis",
+      "latitude": 51.923116,
+      "longitude": 4.248958,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 271,
+      "name": "Milieustraat Malden",
+      "latitude": 51.78082,
+      "longitude": 5.847424,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 272,
+      "name": "Milieustraat Middelburg",
+      "latitude": 51.497185,
+      "longitude": 3.644599,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 273,
+      "name": "Milieustraat Middelharnis",
+      "latitude": 51.75233,
+      "longitude": 4.198206,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 274,
+      "name": "Milieustraat Midden-Drenthe",
+      "latitude": 52.874301,
+      "longitude": 6.522625,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 275,
+      "name": "Milieustraat Molletjesveer",
+      "latitude": 52.514711,
+      "longitude": 4.782266,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 276,
+      "name": "Milieustraat Monster",
+      "latitude": 52.018339,
+      "longitude": 4.169276,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 277,
+      "name": "Milieustraat Nieuwkoop",
+      "latitude": 52.184928,
+      "longitude": 4.754454,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 278,
+      "name": "Milieustraat Noord-Beveland",
+      "latitude": 51.577855,
+      "longitude": 3.760395,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 279,
+      "name": "Milieustraat Noordpolder",
+      "latitude": 51.856356,
+      "longitude": 4.650269,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 280,
+      "name": "Milieustraat Nuenen",
+      "latitude": 51.448606,
+      "longitude": 5.555617,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 281,
+      "name": "Milieustraat Oosterhout",
+      "latitude": 51.648185,
+      "longitude": 4.847845,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 282,
+      "name": "Milieustraat Otelaar Barneveld",
+      "latitude": 52.14551,
+      "longitude": 5.560956,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 283,
+      "name": "Milieustraat Portengen",
+      "latitude": 52.161388,
+      "longitude": 4.960451,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 284,
+      "name": "Milieustraat Reimerswaal",
+      "latitude": 51.458262,
+      "longitude": 4.037933,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 285,
+      "name": "Milieustraat Remondis",
+      "latitude": 52.074913,
+      "longitude": 5.502348,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 286,
+      "name": "Milieustraat Schiedam",
+      "latitude": 51.929881,
+      "longitude": 4.398688,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 287,
+      "name": "Milieustraat Schijndel",
+      "latitude": 51.628076,
+      "longitude": 5.441021,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 288,
+      "name": "Milieustraat Schoorl",
+      "latitude": 52.706689,
+      "longitude": 4.708488,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 289,
+      "name": "Milieustraat Schouwen-Duiveland",
+      "latitude": 51.641514,
+      "longitude": 3.913184,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 290,
+      "name": "Milieustraat Schulpstet",
+      "latitude": 52.560591,
+      "longitude": 4.663812,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 291,
+      "name": "Milieustraat Sint-Oedenrode",
+      "latitude": 51.573608,
+      "longitude": 5.484611,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 292,
+      "name": "Milieustraat Sluis",
+      "latitude": 51.331449,
+      "longitude": 3.495875,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 293,
+      "name": "Milieustraat Son en Breugel",
+      "latitude": 51.503804,
+      "longitude": 5.467735,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 294,
+      "name": "Milieustraat Stiens",
+      "latitude": 53.268038,
+      "longitude": 5.74829,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 295,
+      "name": "Milieustraat Ter Apel",
+      "latitude": 52.890509,
+      "longitude": 7.069923,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 296,
+      "name": "Milieustraat Terheijden",
+      "latitude": 51.650813,
+      "longitude": 4.75927,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 297,
+      "name": "Milieustraat Terneuzen",
+      "latitude": 51.285972,
+      "longitude": 3.856647,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 298,
+      "name": "Milieustraat Tholen",
+      "latitude": 51.546779,
+      "longitude": 4.094806,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 299,
+      "name": "Milieustraat Tweemat",
+      "latitude": 53.196031,
+      "longitude": 6.28953,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 300,
+      "name": "Milieustraat Tynaarlo",
+      "latitude": 53.081141,
+      "longitude": 6.632145,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 301,
+      "name": "Milieustraat Tytsjerksteradiel",
+      "latitude": 53.188034,
+      "longitude": 5.994183,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 302,
+      "name": "Milieustraat Uden",
+      "latitude": 51.660506,
+      "longitude": 5.661867,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 303,
+      "name": "Milieustraat Uitgeest",
+      "latitude": 52.535379,
+      "longitude": 4.716372,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 304,
+      "name": "Milieustraat Usquert",
+      "latitude": 53.385872,
+      "longitude": 6.589461,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 305,
+      "name": "Milieustraat Valkenswaard",
+      "latitude": 51.3465,
+      "longitude": 5.489814,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 306,
+      "name": "Milieustraat Veere",
+      "latitude": 51.542706,
+      "longitude": 3.592235,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 307,
+      "name": "Milieustraat Veghel",
+      "latitude": 51.606529,
+      "longitude": 5.53145,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 308,
+      "name": "Milieustraat Veldhoven",
+      "latitude": 51.432358,
+      "longitude": 5.368349,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 309,
+      "name": "Milieustraat Vlaardingen",
+      "latitude": 51.898928,
+      "longitude": 4.330031,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 310,
+      "name": "Milieustraat Vlissingen",
+      "latitude": 51.451874,
+      "longitude": 3.604761,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 311,
+      "name": "Milieustraat Voorhout",
+      "latitude": 52.214848,
+      "longitude": 4.489139,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 312,
+      "name": "Milieustraat Vught",
+      "latitude": 51.643855,
+      "longitude": 5.295971,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 313,
+      "name": "Milieustraat Waalwijk",
+      "latitude": 51.698124,
+      "longitude": 5.067832,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 314,
+      "name": "Milieustraat Weert",
+      "latitude": 51.268361,
+      "longitude": 5.738403,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 315,
+      "name": "Milieustraat Zweeloo",
+      "latitude": 52.801619,
+      "longitude": 6.735598,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 316,
+      "name": "Milieustraat gemeente Ermelo",
+      "latitude": 52.318504,
+      "longitude": 5.622634,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 317,
+      "name": "Milieustraat gemeente Nijkerk",
+      "latitude": 52.207594,
+      "longitude": 5.459167,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 318,
+      "name": "Milieuterrein Joure",
+      "latitude": 52.962399,
+      "longitude": 5.820181,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 319,
+      "name": "Milieuterrein Lutkepost",
+      "latitude": 53.238916,
+      "longitude": 6.163383,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 320,
+      "name": "Milleustraat",
+      "latitude": 52.517967,
+      "longitude": 4.986407,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 321,
+      "name": "Millieupark Roggel-RD Maasland",
+      "latitude": 51.260148,
+      "longitude": 5.904782,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 322,
+      "name": "Millieupark Sittard",
+      "latitude": 51.016063,
+      "longitude": 5.864242,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 323,
+      "name": "Millieustraat Heeg",
+      "latitude": 52.974982,
+      "longitude": 5.614654,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 324,
+      "name": "Mini-milieustraat Overloon",
+      "latitude": 51.574916,
+      "longitude": 5.977522,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 325,
+      "name": "N.V. BAR-Afvalbeheer",
+      "latitude": 51.859943,
+      "longitude": 4.435517,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 326,
+      "name": "OW01R",
+      "latitude": 52.517518,
+      "longitude": 4.962647,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 327,
+      "name": "OW02G",
+      "latitude": 52.516189,
+      "longitude": 4.963404,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 328,
+      "name": "OW02R",
+      "latitude": 52.517282,
+      "longitude": 4.960374,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 329,
+      "name": "OW03R",
+      "latitude": 52.517308,
+      "longitude": 4.960366,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 330,
+      "name": "OW04R",
+      "latitude": 52.516981,
+      "longitude": 4.957448,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 331,
+      "name": "OW09R",
+      "latitude": 52.515905,
+      "longitude": 4.962124,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 332,
+      "name": "OW10R",
+      "latitude": 52.516206,
+      "longitude": 4.963399,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 333,
+      "name": "OW17R",
+      "latitude": 52.517512,
+      "longitude": 4.962592,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 334,
+      "name": "OW33G",
+      "latitude": 52.517515,
+      "longitude": 4.96262,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 335,
+      "name": "OW45P",
+      "latitude": 52.517499,
+      "longitude": 4.962501,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 336,
+      "name": "OW46P",
+      "latitude": 52.517501,
+      "longitude": 4.96253,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 337,
+      "name": "OW47P",
+      "latitude": 52.517277,
+      "longitude": 4.960344,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 338,
+      "name": "OW48P",
+      "latitude": 52.516984,
+      "longitude": 4.957475,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 339,
+      "name": "OW52P",
+      "latitude": 52.515923,
+      "longitude": 4.962119,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 340,
+      "name": "OW54P",
+      "latitude": 52.516224,
+      "longitude": 4.963395,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 341,
+      "name": "Oud Papier",
+      "latitude": 52.717042,
+      "longitude": 6.442537,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 342,
+      "name": "Oudpapier locatie Enter",
+      "latitude": 52.284804,
+      "longitude": 6.576877,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 343,
+      "name": "Oudpapier locatie Wierden",
+      "latitude": 52.362397,
+      "longitude": 6.589667,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 344,
+      "name": "P. Knobel en Zn. BV",
+      "latitude": 51.560088,
+      "longitude": 4.481174,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 345,
+      "name": "P006",
+      "latitude": 52.6672,
+      "longitude": 4.835838,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 346,
+      "name": "PZ04G",
+      "latitude": 52.493968,
+      "longitude": 4.970635,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 347,
+      "name": "Papier",
+      "latitude": 52.379814,
+      "longitude": 4.616162,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 348,
+      "name": "Papier, Glas",
+      "latitude": 52.375693,
+      "longitude": 4.61149,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 349,
+      "name": "Papier, Glas",
+      "latitude": 52.379316,
+      "longitude": 4.64689,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 350,
+      "name": "Papier, Glas, Plastic",
+      "latitude": 52.369815,
+      "longitude": 4.613416,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 351,
+      "name": "Papier, Glas, Plastic",
+      "latitude": 52.371595,
+      "longitude": 4.624639,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 352,
+      "name": "Papier, Glas, Plastic",
+      "latitude": 52.378359,
+      "longitude": 4.620235,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 353,
+      "name": "Papier, Glas, Plastic, Kleding",
+      "latitude": 52.375827,
+      "longitude": 4.652246,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 354,
+      "name": "Papier, Glas, Plastic, Kleding",
+      "latitude": 52.379256,
+      "longitude": 4.64597,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 355,
+      "name": "Papier, Glas, Plastic, Kleding",
+      "latitude": 52.385444,
+      "longitude": 4.641756,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 356,
+      "name": "Papierbak",
+      "latitude": 52.05116,
+      "longitude": 4.238177,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 357,
+      "name": "Papiercontainer",
+      "latitude": 52.1457,
+      "longitude": 5.394471,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 358,
+      "name": "Papierinzamelpunt gereformeerde kerk vrijgemaakt",
+      "latitude": 53.42324,
+      "longitude": 6.767807,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 359,
+      "name": "Paulissen puin en tuinafval",
+      "latitude": 51.510876,
+      "longitude": 5.043341,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 360,
+      "name": "Perscontainer",
+      "latitude": 52.429696,
+      "longitude": 4.856979,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 361,
+      "name": "Plastic",
+      "latitude": 52.379783,
+      "longitude": 4.616333,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 362,
+      "name": "PreZero",
+      "latitude": 50.885366,
+      "longitude": 5.714014,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 363,
+      "name": "PreZero",
+      "latitude": 51.166472,
+      "longitude": 6.051728,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 364,
+      "name": "PreZero",
+      "latitude": 51.449601,
+      "longitude": 5.700435,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 365,
+      "name": "PreZero",
+      "latitude": 51.835105,
+      "longitude": 4.941288,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 366,
+      "name": "PreZero",
+      "latitude": 51.902656,
+      "longitude": 4.389541,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 367,
+      "name": "PreZero",
+      "latitude": 52.115561,
+      "longitude": 4.687364,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 368,
+      "name": "PreZero",
+      "latitude": 52.405647,
+      "longitude": 5.238786,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 369,
+      "name": "RAD Milieustraat Westmaas",
+      "latitude": 51.783666,
+      "longitude": 4.443396,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 370,
+      "name": "REMONDIS Gevaarlijk Afval",
+      "latitude": 52.162904,
+      "longitude": 5.375179,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 371,
+      "name": "RMB Puinrecycling",
+      "latitude": 52.552197,
+      "longitude": 6.52451,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 372,
+      "name": "ROVA Milieubrengstation",
+      "latitude": 52.164591,
+      "longitude": 5.374277,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 373,
+      "name": "ROVA Milieubrengstation",
+      "latitude": 52.780121,
+      "longitude": 6.088112,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 374,
+      "name": "Rebo Kringloop",
+      "latitude": 52.215712,
+      "longitude": 5.299918,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 375,
+      "name": "Recyclage",
+      "latitude": 52.382134,
+      "longitude": 4.629826,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 376,
+      "name": "Recycleplein",
+      "latitude": 52.246727,
+      "longitude": 6.190653,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 377,
+      "name": "Recycleplein Circulus",
+      "latitude": 52.181264,
+      "longitude": 5.98394,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 378,
+      "name": "Recycleplein Doesburg",
+      "latitude": 52.006883,
+      "longitude": 6.156112,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 379,
+      "name": "Recycleplein Lochem",
+      "latitude": 52.167635,
+      "longitude": 6.378761,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 380,
+      "name": "Recycleplein Zutphen",
+      "latitude": 52.121409,
+      "longitude": 6.222997,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 381,
+      "name": "Recycling",
+      "latitude": 52.145547,
+      "longitude": 5.397608,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 382,
+      "name": "Recycling",
+      "latitude": 52.653463,
+      "longitude": 4.814277,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 383,
+      "name": "Recycling",
+      "latitude": 52.669709,
+      "longitude": 4.702584,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 384,
+      "name": "Recycling",
+      "latitude": 52.671296,
+      "longitude": 4.701653,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 385,
+      "name": "Recycling Circulus/Foenix",
+      "latitude": 52.182206,
+      "longitude": 5.984484,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 386,
+      "name": "Recycling Kampen",
+      "latitude": 52.574749,
+      "longitude": 5.877289,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 387,
+      "name": "Recycling Station",
+      "latitude": 51.320211,
+      "longitude": 5.414282,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 388,
+      "name": "Recycling Station",
+      "latitude": 51.32101,
+      "longitude": 5.411696,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 389,
+      "name": "Recycling Station",
+      "latitude": 51.321258,
+      "longitude": 5.415264,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 390,
+      "name": "Recycling Station",
+      "latitude": 51.321713,
+      "longitude": 5.411677,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 391,
+      "name": "Recycling Station",
+      "latitude": 51.322992,
+      "longitude": 5.413974,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 392,
+      "name": "Recycling Station",
+      "latitude": 51.323026,
+      "longitude": 5.411604,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 393,
+      "name": "Recycling Station",
+      "latitude": 51.323032,
+      "longitude": 5.413154,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 394,
+      "name": "Recycling Station",
+      "latitude": 51.324277,
+      "longitude": 5.415067,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 395,
+      "name": "Recycling Station",
+      "latitude": 51.324483,
+      "longitude": 5.411524,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 396,
+      "name": "Recycling Station",
+      "latitude": 51.324736,
+      "longitude": 5.414396,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 397,
+      "name": "Recycling Station",
+      "latitude": 51.324822,
+      "longitude": 5.427108,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 398,
+      "name": "Recycling Station",
+      "latitude": 51.325053,
+      "longitude": 5.411066,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 399,
+      "name": "Recycling Station",
+      "latitude": 51.32511,
+      "longitude": 5.416703,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 400,
+      "name": "Recycling Station",
+      "latitude": 51.325284,
+      "longitude": 5.418533,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 401,
+      "name": "Recycling Station",
+      "latitude": 51.325381,
+      "longitude": 5.424133,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 402,
+      "name": "Recycling Station",
+      "latitude": 51.32542,
+      "longitude": 5.410491,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 403,
+      "name": "Recycling Station",
+      "latitude": 51.325595,
+      "longitude": 5.426714,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 404,
+      "name": "Recycling Station",
+      "latitude": 51.325698,
+      "longitude": 5.420423,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 405,
+      "name": "Recycling Station",
+      "latitude": 51.326075,
+      "longitude": 5.41121,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 406,
+      "name": "Recycling Station",
+      "latitude": 51.326128,
+      "longitude": 5.418354,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 407,
+      "name": "Recycling Station",
+      "latitude": 51.326324,
+      "longitude": 5.41459,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 408,
+      "name": "Recycling Station",
+      "latitude": 51.326655,
+      "longitude": 5.412769,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 409,
+      "name": "Recycling Station",
+      "latitude": 51.326941,
+      "longitude": 5.419357,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 410,
+      "name": "Recycling Station",
+      "latitude": 51.327193,
+      "longitude": 5.416702,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 411,
+      "name": "Recycling Station",
+      "latitude": 51.327374,
+      "longitude": 5.413973,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 412,
+      "name": "Recycling Station",
+      "latitude": 51.328026,
+      "longitude": 5.417651,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 413,
+      "name": "Recycling Station",
+      "latitude": 51.328489,
+      "longitude": 5.415833,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 414,
+      "name": "Recycling Station",
+      "latitude": 51.3289,
+      "longitude": 5.418128,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 415,
+      "name": "Recycling Station",
+      "latitude": 51.329749,
+      "longitude": 5.416042,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 416,
+      "name": "Recycling Station",
+      "latitude": 51.330216,
+      "longitude": 5.419092,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 417,
+      "name": "Recycling Station",
+      "latitude": 51.331055,
+      "longitude": 5.421431,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 418,
+      "name": "Recycling Station",
+      "latitude": 51.331402,
+      "longitude": 5.418068,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 419,
+      "name": "Recycling Station",
+      "latitude": 51.331824,
+      "longitude": 5.423413,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 420,
+      "name": "Recycling Station",
+      "latitude": 51.332475,
+      "longitude": 5.42103,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 421,
+      "name": "Recycling Westerveld bv",
+      "latitude": 52.756466,
+      "longitude": 6.237198,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 422,
+      "name": "Recycling containers",
+      "latitude": 52.358809,
+      "longitude": 4.93082,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 423,
+      "name": "Recyclingperron Almere Poort",
+      "latitude": 52.354468,
+      "longitude": 5.170408,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 424,
+      "name": "Recyclingperron Almere-Buiten",
+      "latitude": 52.400129,
+      "longitude": 5.24467,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 425,
+      "name": "Recyclingperron Almere-Haven",
+      "latitude": 52.347652,
+      "longitude": 5.221055,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 426,
+      "name": "Reko",
+      "latitude": 52.373472,
+      "longitude": 6.284353,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 427,
+      "name": "Rendac",
+      "latitude": 52.36766,
+      "longitude": 6.430422,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 428,
+      "name": "Renewi",
+      "latitude": 52.737296,
+      "longitude": 6.514456,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 429,
+      "name": "Rest-afval",
+      "latitude": 52.37545,
+      "longitude": 5.246648,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 430,
+      "name": "Rest-afval",
+      "latitude": 52.376118,
+      "longitude": 5.246498,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 431,
+      "name": "Restafval, oudpapier",
+      "latitude": 52.362896,
+      "longitude": 4.932383,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 432,
+      "name": "Restore kringloopbrengpunt",
+      "latitude": 52.007393,
+      "longitude": 5.578354,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 433,
+      "name": "Restore kringloopbrengpunt",
+      "latitude": 52.043855,
+      "longitude": 5.613391,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 434,
+      "name": "Roompot de schaapskoou",
+      "latitude": 52.345737,
+      "longitude": 5.94231,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 435,
+      "name": "Roteb Milieupark Hillegersberg-Schiebroek",
+      "latitude": 51.957779,
+      "longitude": 4.456221,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 436,
+      "name": "SHOO2K",
+      "latitude": 52.626648,
+      "longitude": 4.753349,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 437,
+      "name": "SHOO2P",
+      "latitude": 52.626661,
+      "longitude": 4.75328,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 438,
+      "name": "SZA",
+      "latitude": 52.293838,
+      "longitude": 4.954999,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 439,
+      "name": "Scheidingsdepot Uithoorn",
+      "latitude": 52.239911,
+      "longitude": 4.829126,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 440,
+      "name": "Scheidingsstation Huizen",
+      "latitude": 52.303726,
+      "longitude": 5.243127,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 441,
+      "name": "Schoneveld",
+      "latitude": 51.401547,
+      "longitude": 3.534733,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 442,
+      "name": "Smurfit Kappa Recycling Eindhoven",
+      "latitude": 51.435663,
+      "longitude": 5.501249,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 443,
+      "name": "Sortas Recycling",
+      "latitude": 52.656783,
+      "longitude": 5.634361,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 444,
+      "name": "Sortas Recycling",
+      "latitude": 52.709094,
+      "longitude": 6.192483,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 445,
+      "name": "Stadswerf",
+      "latitude": 51.860384,
+      "longitude": 4.292561,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 446,
+      "name": "Stadswerf",
+      "latitude": 51.983666,
+      "longitude": 5.097605,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 447,
+      "name": "Stadswerf Brielle",
+      "latitude": 51.88866,
+      "longitude": 4.160437,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 448,
+      "name": "Statiegeld",
+      "latitude": 51.443488,
+      "longitude": 5.479243,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 449,
+      "name": "Statiegeld",
+      "latitude": 51.498342,
+      "longitude": 3.611268,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 450,
+      "name": "Statiegeld Retourshop",
+      "latitude": 51.887208,
+      "longitude": 4.54702,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 451,
+      "name": "Statiegeld Retourshop",
+      "latitude": 52.11257,
+      "longitude": 5.11183,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 452,
+      "name": "Statiegeld Retourshop",
+      "latitude": 52.365709,
+      "longitude": 4.893191,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 453,
+      "name": "Ten Brinke",
+      "latitude": 52.32007,
+      "longitude": 6.517824,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 454,
+      "name": "Textile",
+      "latitude": 52.379768,
+      "longitude": 4.616294,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 455,
+      "name": "Textile recycling",
+      "latitude": 52.379675,
+      "longitude": 4.821048,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 456,
+      "name": "Tijo Recycling",
+      "latitude": 51.984945,
+      "longitude": 5.7412,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 457,
+      "name": "Twentse Recycling Maatschappij",
+      "latitude": 52.243362,
+      "longitude": 6.780901,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 458,
+      "name": "Upcyclecentrum",
+      "latitude": 52.351819,
+      "longitude": 5.227037,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 459,
+      "name": "Used Parts & Metals",
+      "latitude": 51.471337,
+      "longitude": 5.684119,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 460,
+      "name": "Van Gelder Recycling Groep",
+      "latitude": 52.467825,
+      "longitude": 4.642343,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 461,
+      "name": "Van Iersel Compostering",
+      "latitude": 51.532973,
+      "longitude": 4.981952,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 462,
+      "name": "Van Wijk",
+      "latitude": 51.889444,
+      "longitude": 5.854643,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 463,
+      "name": "Verzamelcontainer adval",
+      "latitude": 52.356725,
+      "longitude": 6.635813,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 464,
+      "name": "Verzamelcontainer afval",
+      "latitude": 52.356814,
+      "longitude": 6.634796,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 465,
+      "name": "Verzamelcontainer afval",
+      "latitude": 52.356885,
+      "longitude": 6.633787,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 466,
+      "name": "Verzamelcontainer afval",
+      "latitude": 52.357002,
+      "longitude": 6.632846,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 467,
+      "name": "Visser Recycling",
+      "latitude": 53.001174,
+      "longitude": 6.581694,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 468,
+      "name": "Vuiloverslag en milieustraat",
+      "latitude": 53.298277,
+      "longitude": 5.091907,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 469,
+      "name": "Waardepunt",
+      "latitude": 52.043479,
+      "longitude": 5.614261,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 470,
+      "name": "Westdijk",
+      "latitude": 52.2621,
+      "longitude": 5.369745,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 471,
+      "name": "Wijkpost Haren",
+      "latitude": 53.170674,
+      "longitude": 6.598902,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 472,
+      "name": "Wormen Hotel",
+      "latitude": 52.340699,
+      "longitude": 4.906272,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 473,
+      "name": "Wormenhotel",
+      "latitude": 52.319571,
+      "longitude": 4.978369,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 474,
+      "name": "ZO 01G",
+      "latitude": 52.517921,
+      "longitude": 4.949777,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 475,
+      "name": "ZO 05P",
+      "latitude": 52.517901,
+      "longitude": 4.949764,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 476,
+      "name": "ZO 06PMD",
+      "latitude": 52.517883,
+      "longitude": 4.949753,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 477,
+      "name": "ZRD Recycling",
+      "latitude": 51.515053,
+      "longitude": 3.893899,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 478,
+      "name": "Zeeasterweg",
+      "latitude": 52.49351,
+      "longitude": 5.53874,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 479,
+      "name": "Zuidema Groep",
+      "latitude": 52.739443,
+      "longitude": 6.519851,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 480,
+      "name": "afvalstation",
+      "latitude": 52.28059,
+      "longitude": 4.834137,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 481,
+      "name": "b",
+      "latitude": 52.2934,
+      "longitude": 4.959049,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 482,
+      "name": "centrale vuilcontainer",
+      "latitude": 52.787905,
+      "longitude": 6.146419,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 483,
+      "name": "depot groenafval",
+      "latitude": 51.812848,
+      "longitude": 5.267488,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 484,
+      "name": "gemeentewerf",
+      "latitude": 52.222787,
+      "longitude": 5.253569,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 485,
+      "name": "glas",
+      "latitude": 52.391097,
+      "longitude": 4.648531,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 486,
+      "name": "glas",
+      "latitude": 52.654815,
+      "longitude": 4.755826,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 487,
+      "name": "glasbak",
+      "latitude": 53.09707,
+      "longitude": 5.950364,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 488,
+      "name": "jhvo oud ijzer",
+      "latitude": 52.078738,
+      "longitude": 5.531552,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 489,
+      "name": "milieupark Oss",
+      "latitude": 51.785453,
+      "longitude": 5.536305,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 490,
+      "name": "milieustraat Avri",
+      "latitude": 51.813072,
+      "longitude": 5.267509,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 491,
+      "name": "papier",
+      "latitude": 52.354422,
+      "longitude": 4.829546,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 492,
+      "name": "papier",
+      "latitude": 52.391101,
+      "longitude": 4.648472,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 493,
+      "name": "papier",
+      "latitude": 52.654807,
+      "longitude": 4.75586,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 494,
+      "name": "plasitic",
+      "latitude": 52.376152,
+      "longitude": 5.246457,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 495,
+      "name": "plastic",
+      "latitude": 52.39171,
+      "longitude": 4.647716,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 496,
+      "name": "plastic",
+      "latitude": 52.654797,
+      "longitude": 4.755814,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 497,
+      "name": "restafval",
+      "latitude": 52.654798,
+      "longitude": 4.755894,
+      "osm_klasse": "amenity=recycling"
+    },
+    {
+      "id": 498,
+      "name": "schroothandel els",
+      "latitude": 52.542524,
+      "longitude": 5.525513,
+      "osm_klasse": "amenity=recycling"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: recycling (amenity=recycling) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=recycling in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 498 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: recycling (amenity=recycling) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: recycling (amenity=recycling) — 498 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 498 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

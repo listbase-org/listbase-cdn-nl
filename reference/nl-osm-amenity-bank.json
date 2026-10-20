@@ -1,0 +1,3635 @@
+{
+  "id": "nl-osm-amenity-bank",
+  "name": "Netherlands OSM: bank (amenity=bank)",
+  "title": "Netherlands OSM: bank (amenity=bank)",
+  "description": "Named OpenStreetMap features tagged amenity=bank in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 512,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "ABN AMRO",
+      "latitude": 50.841198,
+      "longitude": 5.704286,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 2,
+      "name": "ABN AMRO",
+      "latitude": 51.440044,
+      "longitude": 5.48026,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 3,
+      "name": "ABN AMRO",
+      "latitude": 51.500874,
+      "longitude": 3.888475,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 4,
+      "name": "ABN AMRO",
+      "latitude": 51.559239,
+      "longitude": 5.091449,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 5,
+      "name": "ABN AMRO",
+      "latitude": 51.588133,
+      "longitude": 4.784543,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 6,
+      "name": "ABN AMRO",
+      "latitude": 51.684583,
+      "longitude": 5.303447,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 7,
+      "name": "ABN AMRO",
+      "latitude": 51.690917,
+      "longitude": 5.307378,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 8,
+      "name": "ABN AMRO",
+      "latitude": 51.80886,
+      "longitude": 4.668484,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 9,
+      "name": "ABN AMRO",
+      "latitude": 51.845406,
+      "longitude": 5.867711,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 10,
+      "name": "ABN AMRO",
+      "latitude": 51.923749,
+      "longitude": 4.476085,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 11,
+      "name": "ABN AMRO",
+      "latitude": 52.033707,
+      "longitude": 5.343423,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 12,
+      "name": "ABN AMRO",
+      "latitude": 52.088381,
+      "longitude": 4.314245,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 13,
+      "name": "ABN AMRO",
+      "latitude": 52.09031,
+      "longitude": 5.107158,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 14,
+      "name": "ABN AMRO",
+      "latitude": 52.15228,
+      "longitude": 5.387189,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 15,
+      "name": "ABN AMRO",
+      "latitude": 52.167459,
+      "longitude": 4.482193,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 16,
+      "name": "ABN AMRO",
+      "latitude": 52.211428,
+      "longitude": 5.962506,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 17,
+      "name": "ABN AMRO",
+      "latitude": 52.22192,
+      "longitude": 6.891131,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 18,
+      "name": "ABN AMRO",
+      "latitude": 52.265509,
+      "longitude": 4.631885,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 19,
+      "name": "ABN AMRO",
+      "latitude": 52.303624,
+      "longitude": 4.858252,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 20,
+      "name": "ABN AMRO",
+      "latitude": 52.363468,
+      "longitude": 4.88226,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 21,
+      "name": "ABN AMRO",
+      "latitude": 52.368961,
+      "longitude": 5.218297,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 22,
+      "name": "ABN AMRO",
+      "latitude": 52.37457,
+      "longitude": 4.630779,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 23,
+      "name": "ABN AMRO",
+      "latitude": 52.507749,
+      "longitude": 6.085243,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 24,
+      "name": "ABN AMRO",
+      "latitude": 52.632942,
+      "longitude": 4.742893,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 25,
+      "name": "ABN AMRO",
+      "latitude": 52.71063,
+      "longitude": 5.754019,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 26,
+      "name": "ABN AMRO",
+      "latitude": 52.78181,
+      "longitude": 6.893511,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 27,
+      "name": "ABN AMRO",
+      "latitude": 53.198764,
+      "longitude": 5.792422,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 28,
+      "name": "ABN AMRO",
+      "latitude": 53.219198,
+      "longitude": 6.567466,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 29,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 50.841765,
+      "longitude": 5.691912,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 30,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 51.500825,
+      "longitude": 3.888479,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 31,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 51.559184,
+      "longitude": 5.091415,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 32,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 51.588046,
+      "longitude": 4.784513,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 33,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 51.690934,
+      "longitude": 5.307658,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 34,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 51.808779,
+      "longitude": 4.668497,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 35,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 51.845335,
+      "longitude": 5.867738,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 36,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 51.923705,
+      "longitude": 4.476104,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 37,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 51.996062,
+      "longitude": 5.97484,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 38,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 52.088445,
+      "longitude": 4.314471,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 39,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 52.090378,
+      "longitude": 5.107104,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 40,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 52.142552,
+      "longitude": 4.396643,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 41,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 52.152251,
+      "longitude": 5.387255,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 42,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 52.211453,
+      "longitude": 5.962561,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 43,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 52.262403,
+      "longitude": 6.795915,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 44,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 52.280036,
+      "longitude": 5.164361,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 45,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 52.336996,
+      "longitude": 4.874885,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 46,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 52.374639,
+      "longitude": 4.630797,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 47,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 52.508675,
+      "longitude": 6.068029,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 48,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 52.632873,
+      "longitude": 4.742852,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 49,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 53.198828,
+      "longitude": 5.79243,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 50,
+      "name": "ABN AMRO MeesPierson",
+      "latitude": 53.219184,
+      "longitude": 6.567393,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 51,
+      "name": "ASN Bank",
+      "latitude": 50.842817,
+      "longitude": 5.728293,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 52,
+      "name": "ASN Bank",
+      "latitude": 50.940448,
+      "longitude": 5.796721,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 53,
+      "name": "ASN Bank",
+      "latitude": 50.996556,
+      "longitude": 5.869441,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 54,
+      "name": "ASN Bank",
+      "latitude": 51.192654,
+      "longitude": 5.990214,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 55,
+      "name": "ASN Bank",
+      "latitude": 51.253973,
+      "longitude": 5.705863,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 56,
+      "name": "ASN Bank",
+      "latitude": 51.337658,
+      "longitude": 3.828091,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 57,
+      "name": "ASN Bank",
+      "latitude": 51.353205,
+      "longitude": 5.459261,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 58,
+      "name": "ASN Bank",
+      "latitude": 51.36992,
+      "longitude": 6.167817,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 59,
+      "name": "ASN Bank",
+      "latitude": 51.467944,
+      "longitude": 5.476121,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 60,
+      "name": "ASN Bank",
+      "latitude": 51.479007,
+      "longitude": 5.656804,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 61,
+      "name": "ASN Bank",
+      "latitude": 51.495135,
+      "longitude": 4.292564,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 62,
+      "name": "ASN Bank",
+      "latitude": 51.502853,
+      "longitude": 3.890951,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 63,
+      "name": "ASN Bank",
+      "latitude": 51.512034,
+      "longitude": 5.392932,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 64,
+      "name": "ASN Bank",
+      "latitude": 51.52604,
+      "longitude": 5.973924,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 65,
+      "name": "ASN Bank",
+      "latitude": 51.556735,
+      "longitude": 5.091593,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 66,
+      "name": "ASN Bank",
+      "latitude": 51.583157,
+      "longitude": 4.774868,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 67,
+      "name": "ASN Bank",
+      "latitude": 51.587789,
+      "longitude": 5.326367,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 68,
+      "name": "ASN Bank",
+      "latitude": 51.644101,
+      "longitude": 4.859654,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 69,
+      "name": "ASN Bank",
+      "latitude": 51.658535,
+      "longitude": 5.614519,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 70,
+      "name": "ASN Bank",
+      "latitude": 51.686689,
+      "longitude": 5.300236,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 71,
+      "name": "ASN Bank",
+      "latitude": 51.688129,
+      "longitude": 5.067212,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 72,
+      "name": "ASN Bank",
+      "latitude": 51.76913,
+      "longitude": 5.524607,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 73,
+      "name": "ASN Bank",
+      "latitude": 51.777234,
+      "longitude": 5.932871,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 74,
+      "name": "ASN Bank",
+      "latitude": 51.803166,
+      "longitude": 4.717688,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 75,
+      "name": "ASN Bank",
+      "latitude": 51.807917,
+      "longitude": 5.723644,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 76,
+      "name": "ASN Bank",
+      "latitude": 51.826313,
+      "longitude": 4.413683,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 77,
+      "name": "ASN Bank",
+      "latitude": 51.830388,
+      "longitude": 4.972609,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 78,
+      "name": "ASN Bank",
+      "latitude": 51.833649,
+      "longitude": 4.145181,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 79,
+      "name": "ASN Bank",
+      "latitude": 51.845746,
+      "longitude": 5.866438,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 80,
+      "name": "ASN Bank",
+      "latitude": 51.849204,
+      "longitude": 4.326966,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 81,
+      "name": "ASN Bank",
+      "latitude": 51.864829,
+      "longitude": 4.658628,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 82,
+      "name": "ASN Bank",
+      "latitude": 51.870792,
+      "longitude": 4.599779,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 83,
+      "name": "ASN Bank",
+      "latitude": 51.886257,
+      "longitude": 4.54835,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 84,
+      "name": "ASN Bank",
+      "latitude": 51.88813,
+      "longitude": 5.432441,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 85,
+      "name": "ASN Bank",
+      "latitude": 51.891327,
+      "longitude": 5.094843,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 86,
+      "name": "ASN Bank",
+      "latitude": 51.90965,
+      "longitude": 4.340691,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 87,
+      "name": "ASN Bank",
+      "latitude": 51.919195,
+      "longitude": 5.841602,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 88,
+      "name": "ASN Bank",
+      "latitude": 51.930745,
+      "longitude": 6.077662,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 89,
+      "name": "ASN Bank",
+      "latitude": 51.93106,
+      "longitude": 4.589962,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 90,
+      "name": "ASN Bank",
+      "latitude": 51.95425,
+      "longitude": 5.225715,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 91,
+      "name": "ASN Bank",
+      "latitude": 51.95983,
+      "longitude": 5.898459,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 92,
+      "name": "ASN Bank",
+      "latitude": 51.964734,
+      "longitude": 6.287284,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 93,
+      "name": "ASN Bank",
+      "latitude": 51.964914,
+      "longitude": 5.661604,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 94,
+      "name": "ASN Bank",
+      "latitude": 51.970338,
+      "longitude": 6.715301,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 95,
+      "name": "ASN Bank",
+      "latitude": 51.987401,
+      "longitude": 5.980227,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 96,
+      "name": "ASN Bank",
+      "latitude": 51.997455,
+      "longitude": 4.352872,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 97,
+      "name": "ASN Bank",
+      "latitude": 52.017963,
+      "longitude": 5.178058,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 98,
+      "name": "ASN Bank",
+      "latitude": 52.019116,
+      "longitude": 4.432492,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 99,
+      "name": "ASN Bank",
+      "latitude": 52.025367,
+      "longitude": 4.177911,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 100,
+      "name": "ASN Bank",
+      "latitude": 52.031901,
+      "longitude": 4.703408,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 101,
+      "name": "ASN Bank",
+      "latitude": 52.046631,
+      "longitude": 5.671385,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 102,
+      "name": "ASN Bank",
+      "latitude": 52.055319,
+      "longitude": 4.498836,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 103,
+      "name": "ASN Bank",
+      "latitude": 52.076037,
+      "longitude": 4.358585,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 104,
+      "name": "ASN Bank",
+      "latitude": 52.083704,
+      "longitude": 4.331736,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 105,
+      "name": "ASN Bank",
+      "latitude": 52.085407,
+      "longitude": 5.240853,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 106,
+      "name": "ASN Bank",
+      "latitude": 52.085859,
+      "longitude": 4.331848,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 107,
+      "name": "ASN Bank",
+      "latitude": 52.088875,
+      "longitude": 5.104452,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 108,
+      "name": "ASN Bank",
+      "latitude": 52.093103,
+      "longitude": 5.115471,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 109,
+      "name": "ASN Bank",
+      "latitude": 52.093726,
+      "longitude": 5.013284,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 110,
+      "name": "ASN Bank",
+      "latitude": 52.112988,
+      "longitude": 5.111154,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 111,
+      "name": "ASN Bank",
+      "latitude": 52.129579,
+      "longitude": 4.665246,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 112,
+      "name": "ASN Bank",
+      "latitude": 52.13046,
+      "longitude": 5.426237,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 113,
+      "name": "ASN Bank",
+      "latitude": 52.140062,
+      "longitude": 5.587543,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 114,
+      "name": "ASN Bank",
+      "latitude": 52.142652,
+      "longitude": 6.196452,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 115,
+      "name": "ASN Bank",
+      "latitude": 52.147443,
+      "longitude": 4.479346,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 116,
+      "name": "ASN Bank",
+      "latitude": 52.165677,
+      "longitude": 5.309128,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 117,
+      "name": "ASN Bank",
+      "latitude": 52.187353,
+      "longitude": 5.396965,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 118,
+      "name": "ASN Bank",
+      "latitude": 52.192067,
+      "longitude": 6.879281,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 119,
+      "name": "ASN Bank",
+      "latitude": 52.203789,
+      "longitude": 4.393847,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 120,
+      "name": "ASN Bank",
+      "latitude": 52.215658,
+      "longitude": 5.167562,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 121,
+      "name": "ASN Bank",
+      "latitude": 52.215659,
+      "longitude": 5.96239,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 122,
+      "name": "ASN Bank",
+      "latitude": 52.222959,
+      "longitude": 5.487377,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 123,
+      "name": "ASN Bank",
+      "latitude": 52.266954,
+      "longitude": 6.790759,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 124,
+      "name": "ASN Bank",
+      "latitude": 52.269137,
+      "longitude": 6.164728,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 125,
+      "name": "ASN Bank",
+      "latitude": 52.274062,
+      "longitude": 5.167372,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 126,
+      "name": "ASN Bank",
+      "latitude": 52.290983,
+      "longitude": 5.792225,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 127,
+      "name": "ASN Bank",
+      "latitude": 52.301419,
+      "longitude": 4.663029,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 128,
+      "name": "ASN Bank",
+      "latitude": 52.302321,
+      "longitude": 4.873938,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 129,
+      "name": "ASN Bank",
+      "latitude": 52.314496,
+      "longitude": 6.930141,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 130,
+      "name": "ASN Bank",
+      "latitude": 52.342668,
+      "longitude": 4.964058,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 131,
+      "name": "ASN Bank",
+      "latitude": 52.34735,
+      "longitude": 5.984906,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 132,
+      "name": "ASN Bank",
+      "latitude": 52.349525,
+      "longitude": 5.62018,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 133,
+      "name": "ASN Bank",
+      "latitude": 52.35273,
+      "longitude": 4.891935,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 134,
+      "name": "ASN Bank",
+      "latitude": 52.355627,
+      "longitude": 6.665929,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 135,
+      "name": "ASN Bank",
+      "latitude": 52.359559,
+      "longitude": 4.806391,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 136,
+      "name": "ASN Bank",
+      "latitude": 52.369238,
+      "longitude": 5.220006,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 137,
+      "name": "ASN Bank",
+      "latitude": 52.384811,
+      "longitude": 6.275297,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 138,
+      "name": "ASN Bank",
+      "latitude": 52.395397,
+      "longitude": 4.642446,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 139,
+      "name": "ASN Bank",
+      "latitude": 52.397737,
+      "longitude": 4.938288,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 140,
+      "name": "ASN Bank",
+      "latitude": 52.412977,
+      "longitude": 6.626795,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 141,
+      "name": "ASN Bank",
+      "latitude": 52.43978,
+      "longitude": 4.822279,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 142,
+      "name": "ASN Bank",
+      "latitude": 52.460532,
+      "longitude": 4.605526,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 143,
+      "name": "ASN Bank",
+      "latitude": 52.48147,
+      "longitude": 4.657157,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 144,
+      "name": "ASN Bank",
+      "latitude": 52.509265,
+      "longitude": 5.475895,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 145,
+      "name": "ASN Bank",
+      "latitude": 52.509403,
+      "longitude": 4.946001,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 146,
+      "name": "ASN Bank",
+      "latitude": 52.512818,
+      "longitude": 6.091225,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 147,
+      "name": "ASN Bank",
+      "latitude": 52.549939,
+      "longitude": 4.673971,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 148,
+      "name": "ASN Bank",
+      "latitude": 52.556439,
+      "longitude": 5.918436,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 149,
+      "name": "ASN Bank",
+      "latitude": 52.576649,
+      "longitude": 6.61815,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 150,
+      "name": "ASN Bank",
+      "latitude": 52.642476,
+      "longitude": 5.058065,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 151,
+      "name": "ASN Bank",
+      "latitude": 52.65482,
+      "longitude": 4.757019,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 152,
+      "name": "ASN Bank",
+      "latitude": 52.660865,
+      "longitude": 6.7405,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 153,
+      "name": "ASN Bank",
+      "latitude": 52.664589,
+      "longitude": 4.826459,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 154,
+      "name": "ASN Bank",
+      "latitude": 52.69635,
+      "longitude": 6.194798,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 155,
+      "name": "ASN Bank",
+      "latitude": 52.711227,
+      "longitude": 5.756237,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 156,
+      "name": "ASN Bank",
+      "latitude": 52.720773,
+      "longitude": 6.478792,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 157,
+      "name": "ASN Bank",
+      "latitude": 52.7859,
+      "longitude": 6.8921,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 158,
+      "name": "ASN Bank",
+      "latitude": 52.786689,
+      "longitude": 4.799761,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 159,
+      "name": "ASN Bank",
+      "latitude": 52.957754,
+      "longitude": 4.766033,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 160,
+      "name": "ASN Bank",
+      "latitude": 52.959691,
+      "longitude": 5.924706,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 161,
+      "name": "ASN Bank",
+      "latitude": 52.99718,
+      "longitude": 6.560299,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 162,
+      "name": "ASN Bank",
+      "latitude": 53.031508,
+      "longitude": 5.658977,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 163,
+      "name": "ASN Bank",
+      "latitude": 53.106698,
+      "longitude": 6.876509,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 164,
+      "name": "ASN Bank",
+      "latitude": 53.1076,
+      "longitude": 6.096806,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 165,
+      "name": "ASN Bank",
+      "latitude": 53.146411,
+      "longitude": 7.033575,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 166,
+      "name": "ASN Bank",
+      "latitude": 53.19557,
+      "longitude": 5.798743,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 167,
+      "name": "ASN Bank",
+      "latitude": 53.230528,
+      "longitude": 6.545359,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 168,
+      "name": "ASN Bank",
+      "latitude": 53.319021,
+      "longitude": 6.858809,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 169,
+      "name": "ASN Bank",
+      "latitude": 53.325325,
+      "longitude": 5.998002,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 170,
+      "name": "Assurantiekantoor J.T. Kloosterboer",
+      "latitude": 53.176282,
+      "longitude": 6.971501,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 171,
+      "name": "Assurantiekantoor de Smale",
+      "latitude": 51.918123,
+      "longitude": 5.848924,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 172,
+      "name": "BNG Bank",
+      "latitude": 52.085935,
+      "longitude": 4.314917,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 173,
+      "name": "BOC",
+      "latitude": 51.922676,
+      "longitude": 4.478095,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 174,
+      "name": "Banque Chaabi du Maroc",
+      "latitude": 52.067726,
+      "longitude": 4.296915,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 175,
+      "name": "Berkhof & Partners",
+      "latitude": 52.202868,
+      "longitude": 5.94927,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 176,
+      "name": "Bmce Euro Services",
+      "latitude": 52.35692,
+      "longitude": 4.827637,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 177,
+      "name": "De Hypotheekshop",
+      "latitude": 51.617358,
+      "longitude": 5.43498,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 178,
+      "name": "De Nederlandsche Bank",
+      "latitude": 52.343109,
+      "longitude": 4.917784,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 179,
+      "name": "Delen Pivate Bank",
+      "latitude": 51.686571,
+      "longitude": 5.307964,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 180,
+      "name": "FGH Bank",
+      "latitude": 52.093239,
+      "longitude": 5.110368,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 181,
+      "name": "GWK",
+      "latitude": 52.222292,
+      "longitude": 6.890535,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 182,
+      "name": "GWK",
+      "latitude": 52.507824,
+      "longitude": 5.472845,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 183,
+      "name": "GWK Travelex",
+      "latitude": 52.262113,
+      "longitude": 6.793977,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 184,
+      "name": "GWK Travelex",
+      "latitude": 52.311797,
+      "longitude": 4.947564,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 185,
+      "name": "GWX Travelex",
+      "latitude": 51.690551,
+      "longitude": 5.294628,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 186,
+      "name": "Hansen Aaldering Advies",
+      "latitude": 51.940438,
+      "longitude": 6.129668,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 187,
+      "name": "Hof Hoornemen Bankiers",
+      "latitude": 51.687377,
+      "longitude": 5.304853,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 188,
+      "name": "Holland Financial Centre",
+      "latitude": 52.336447,
+      "longitude": 4.874454,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 189,
+      "name": "Hyfass Adviesgroep",
+      "latitude": 51.601874,
+      "longitude": 6.050965,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 190,
+      "name": "Hypotheekshop",
+      "latitude": 52.08427,
+      "longitude": 4.746235,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 191,
+      "name": "ING",
+      "latitude": 50.849928,
+      "longitude": 5.687677,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 192,
+      "name": "ING",
+      "latitude": 51.367242,
+      "longitude": 6.170828,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 193,
+      "name": "ING",
+      "latitude": 51.367355,
+      "longitude": 6.151975,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 194,
+      "name": "ING",
+      "latitude": 51.422228,
+      "longitude": 5.559907,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 195,
+      "name": "ING",
+      "latitude": 51.440402,
+      "longitude": 5.479643,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 196,
+      "name": "ING",
+      "latitude": 51.498004,
+      "longitude": 3.612312,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 197,
+      "name": "ING",
+      "latitude": 51.559945,
+      "longitude": 5.083287,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 198,
+      "name": "ING",
+      "latitude": 51.569695,
+      "longitude": 4.792205,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 199,
+      "name": "ING",
+      "latitude": 51.585232,
+      "longitude": 4.77459,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 200,
+      "name": "ING",
+      "latitude": 51.687966,
+      "longitude": 5.30714,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 201,
+      "name": "ING",
+      "latitude": 51.810702,
+      "longitude": 4.667872,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 202,
+      "name": "ING",
+      "latitude": 51.845106,
+      "longitude": 5.863511,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 203,
+      "name": "ING",
+      "latitude": 51.847741,
+      "longitude": 4.499179,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 204,
+      "name": "ING",
+      "latitude": 51.894141,
+      "longitude": 5.092816,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 205,
+      "name": "ING",
+      "latitude": 51.922137,
+      "longitude": 4.478382,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 206,
+      "name": "ING",
+      "latitude": 51.923971,
+      "longitude": 4.478583,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 207,
+      "name": "ING",
+      "latitude": 51.963886,
+      "longitude": 6.292696,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 208,
+      "name": "ING",
+      "latitude": 51.983091,
+      "longitude": 5.905474,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 209,
+      "name": "ING",
+      "latitude": 52.06136,
+      "longitude": 4.486531,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 210,
+      "name": "ING",
+      "latitude": 52.081738,
+      "longitude": 4.314799,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 211,
+      "name": "ING",
+      "latitude": 52.090428,
+      "longitude": 4.384256,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 212,
+      "name": "ING",
+      "latitude": 52.090847,
+      "longitude": 4.274687,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 213,
+      "name": "ING",
+      "latitude": 52.093482,
+      "longitude": 5.116402,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 214,
+      "name": "ING",
+      "latitude": 52.097733,
+      "longitude": 5.064918,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 215,
+      "name": "ING",
+      "latitude": 52.152849,
+      "longitude": 5.383576,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 216,
+      "name": "ING",
+      "latitude": 52.166402,
+      "longitude": 4.485683,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 217,
+      "name": "ING",
+      "latitude": 52.212777,
+      "longitude": 5.964747,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 218,
+      "name": "ING",
+      "latitude": 52.218367,
+      "longitude": 6.89195,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 219,
+      "name": "ING",
+      "latitude": 52.22492,
+      "longitude": 5.173672,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 220,
+      "name": "ING",
+      "latitude": 52.302358,
+      "longitude": 4.860179,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 221,
+      "name": "ING",
+      "latitude": 52.350192,
+      "longitude": 5.620392,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 222,
+      "name": "ING",
+      "latitude": 52.353012,
+      "longitude": 4.891562,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 223,
+      "name": "ING",
+      "latitude": 52.35374,
+      "longitude": 4.930211,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 224,
+      "name": "ING",
+      "latitude": 52.35941,
+      "longitude": 4.806844,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 225,
+      "name": "ING",
+      "latitude": 52.36502,
+      "longitude": 6.460878,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 226,
+      "name": "ING",
+      "latitude": 52.371835,
+      "longitude": 5.21659,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 227,
+      "name": "ING",
+      "latitude": 52.375545,
+      "longitude": 4.63108,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 228,
+      "name": "ING",
+      "latitude": 52.44003,
+      "longitude": 4.823559,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 229,
+      "name": "ING",
+      "latitude": 52.507797,
+      "longitude": 4.948067,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 230,
+      "name": "ING",
+      "latitude": 52.519245,
+      "longitude": 5.483651,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 231,
+      "name": "ING",
+      "latitude": 52.631463,
+      "longitude": 4.743991,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 232,
+      "name": "ING",
+      "latitude": 52.78594,
+      "longitude": 6.892067,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 233,
+      "name": "ING",
+      "latitude": 53.062337,
+      "longitude": 5.521458,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 234,
+      "name": "ING",
+      "latitude": 53.136756,
+      "longitude": 6.430038,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 235,
+      "name": "ING",
+      "latitude": 53.14485,
+      "longitude": 6.268985,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 236,
+      "name": "ING",
+      "latitude": 53.197544,
+      "longitude": 5.795913,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 237,
+      "name": "ING",
+      "latitude": 53.213804,
+      "longitude": 6.569762,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 238,
+      "name": "ING servicepunt",
+      "latitude": 52.064945,
+      "longitude": 5.137222,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 239,
+      "name": "Insinger de Beaufort",
+      "latitude": 52.080917,
+      "longitude": 4.314261,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 240,
+      "name": "KBC",
+      "latitude": 51.442328,
+      "longitude": 4.931624,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 241,
+      "name": "Koos Rook Financiële Diensten",
+      "latitude": 51.910171,
+      "longitude": 4.584322,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 242,
+      "name": "Kredietbank Limburg",
+      "latitude": 50.969302,
+      "longitude": 5.826861,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 243,
+      "name": "NIBC Bank",
+      "latitude": 52.087871,
+      "longitude": 4.29729,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 244,
+      "name": "RNHB Hypotheekbank",
+      "latitude": 52.093132,
+      "longitude": 5.109268,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 245,
+      "name": "Rabobank",
+      "latitude": 50.840933,
+      "longitude": 5.705524,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 246,
+      "name": "Rabobank",
+      "latitude": 50.884905,
+      "longitude": 5.971189,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 247,
+      "name": "Rabobank",
+      "latitude": 50.998571,
+      "longitude": 5.851653,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 248,
+      "name": "Rabobank",
+      "latitude": 51.121714,
+      "longitude": 6.036963,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 249,
+      "name": "Rabobank",
+      "latitude": 51.130801,
+      "longitude": 6.072666,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 250,
+      "name": "Rabobank",
+      "latitude": 51.164858,
+      "longitude": 5.96321,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 251,
+      "name": "Rabobank",
+      "latitude": 51.255841,
+      "longitude": 5.707697,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 252,
+      "name": "Rabobank",
+      "latitude": 51.256198,
+      "longitude": 5.901469,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 253,
+      "name": "Rabobank",
+      "latitude": 51.335254,
+      "longitude": 3.827986,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 254,
+      "name": "Rabobank",
+      "latitude": 51.350183,
+      "longitude": 5.458107,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 255,
+      "name": "Rabobank",
+      "latitude": 51.366513,
+      "longitude": 5.21447,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 256,
+      "name": "Rabobank",
+      "latitude": 51.393439,
+      "longitude": 6.174231,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 257,
+      "name": "Rabobank",
+      "latitude": 51.418016,
+      "longitude": 5.559023,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 258,
+      "name": "Rabobank",
+      "latitude": 51.438817,
+      "longitude": 5.475179,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 259,
+      "name": "Rabobank",
+      "latitude": 51.467871,
+      "longitude": 5.788408,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 260,
+      "name": "Rabobank",
+      "latitude": 51.473263,
+      "longitude": 4.665793,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 261,
+      "name": "Rabobank",
+      "latitude": 51.478034,
+      "longitude": 5.655682,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 262,
+      "name": "Rabobank",
+      "latitude": 51.49199,
+      "longitude": 3.878966,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 263,
+      "name": "Rabobank",
+      "latitude": 51.492075,
+      "longitude": 4.293257,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 264,
+      "name": "Rabobank",
+      "latitude": 51.497435,
+      "longitude": 3.607223,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 265,
+      "name": "Rabobank",
+      "latitude": 51.511751,
+      "longitude": 5.396673,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 266,
+      "name": "Rabobank",
+      "latitude": 51.525223,
+      "longitude": 5.973163,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 267,
+      "name": "Rabobank",
+      "latitude": 51.559232,
+      "longitude": 5.092577,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 268,
+      "name": "Rabobank",
+      "latitude": 51.569025,
+      "longitude": 4.636804,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 269,
+      "name": "Rabobank",
+      "latitude": 51.57988,
+      "longitude": 5.194587,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 270,
+      "name": "Rabobank",
+      "latitude": 51.588163,
+      "longitude": 4.781351,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 271,
+      "name": "Rabobank",
+      "latitude": 51.614397,
+      "longitude": 5.549441,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 272,
+      "name": "Rabobank",
+      "latitude": 51.662654,
+      "longitude": 5.938209,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 273,
+      "name": "Rabobank",
+      "latitude": 51.689553,
+      "longitude": 5.290097,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 274,
+      "name": "Rabobank",
+      "latitude": 51.692158,
+      "longitude": 5.067286,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 275,
+      "name": "Rabobank",
+      "latitude": 51.750241,
+      "longitude": 4.161277,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 276,
+      "name": "Rabobank",
+      "latitude": 51.760573,
+      "longitude": 4.15658,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 277,
+      "name": "Rabobank",
+      "latitude": 51.765229,
+      "longitude": 5.524773,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 278,
+      "name": "Rabobank",
+      "latitude": 51.770928,
+      "longitude": 4.939755,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 279,
+      "name": "Rabobank",
+      "latitude": 51.796822,
+      "longitude": 5.256634,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 280,
+      "name": "Rabobank",
+      "latitude": 51.810973,
+      "longitude": 4.655079,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 281,
+      "name": "Rabobank",
+      "latitude": 51.814182,
+      "longitude": 4.496386,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 282,
+      "name": "Rabobank",
+      "latitude": 51.840308,
+      "longitude": 5.005074,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 283,
+      "name": "Rabobank",
+      "latitude": 51.842486,
+      "longitude": 5.860649,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 284,
+      "name": "Rabobank",
+      "latitude": 51.853015,
+      "longitude": 4.32508,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 285,
+      "name": "Rabobank",
+      "latitude": 51.875423,
+      "longitude": 5.281704,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 286,
+      "name": "Rabobank",
+      "latitude": 51.909517,
+      "longitude": 5.859913,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 287,
+      "name": "Rabobank",
+      "latitude": 51.918323,
+      "longitude": 4.479284,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 288,
+      "name": "Rabobank",
+      "latitude": 51.931778,
+      "longitude": 4.588774,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 289,
+      "name": "Rabobank",
+      "latitude": 51.95779,
+      "longitude": 6.297293,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 290,
+      "name": "Rabobank",
+      "latitude": 51.972002,
+      "longitude": 4.219142,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 291,
+      "name": "Rabobank",
+      "latitude": 51.987353,
+      "longitude": 5.925968,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 292,
+      "name": "Rabobank",
+      "latitude": 52.010642,
+      "longitude": 4.354904,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 293,
+      "name": "Rabobank",
+      "latitude": 52.017584,
+      "longitude": 5.04111,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 294,
+      "name": "Rabobank",
+      "latitude": 52.018121,
+      "longitude": 4.703699,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 295,
+      "name": "Rabobank",
+      "latitude": 52.027065,
+      "longitude": 5.646685,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 296,
+      "name": "Rabobank",
+      "latitude": 52.027615,
+      "longitude": 5.082932,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 297,
+      "name": "Rabobank",
+      "latitude": 52.036949,
+      "longitude": 6.623493,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 298,
+      "name": "Rabobank",
+      "latitude": 52.060947,
+      "longitude": 4.482371,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 299,
+      "name": "Rabobank",
+      "latitude": 52.072972,
+      "longitude": 5.097532,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 300,
+      "name": "Rabobank",
+      "latitude": 52.081418,
+      "longitude": 4.321019,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 301,
+      "name": "Rabobank",
+      "latitude": 52.085829,
+      "longitude": 4.892136,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 302,
+      "name": "Rabobank",
+      "latitude": 52.089184,
+      "longitude": 5.130933,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 303,
+      "name": "Rabobank",
+      "latitude": 52.097282,
+      "longitude": 5.215319,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 304,
+      "name": "Rabobank",
+      "latitude": 52.129214,
+      "longitude": 4.659961,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 305,
+      "name": "Rabobank",
+      "latitude": 52.139934,
+      "longitude": 5.583197,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 306,
+      "name": "Rabobank",
+      "latitude": 52.148072,
+      "longitude": 6.196995,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 307,
+      "name": "Rabobank",
+      "latitude": 52.167566,
+      "longitude": 4.485825,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 308,
+      "name": "Rabobank",
+      "latitude": 52.175404,
+      "longitude": 5.409633,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 309,
+      "name": "Rabobank",
+      "latitude": 52.198293,
+      "longitude": 5.946978,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 310,
+      "name": "Rabobank",
+      "latitude": 52.209655,
+      "longitude": 6.890033,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 311,
+      "name": "Rabobank",
+      "latitude": 52.223644,
+      "longitude": 5.17117,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 312,
+      "name": "Rabobank",
+      "latitude": 52.243053,
+      "longitude": 6.173226,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 313,
+      "name": "Rabobank",
+      "latitude": 52.255023,
+      "longitude": 6.157487,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 314,
+      "name": "Rabobank",
+      "latitude": 52.260792,
+      "longitude": 6.792763,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 315,
+      "name": "Rabobank",
+      "latitude": 52.261101,
+      "longitude": 4.559718,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 316,
+      "name": "Rabobank",
+      "latitude": 52.2918,
+      "longitude": 4.706146,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 317,
+      "name": "Rabobank",
+      "latitude": 52.295413,
+      "longitude": 6.57831,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 318,
+      "name": "Rabobank",
+      "latitude": 52.297106,
+      "longitude": 5.229355,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 319,
+      "name": "Rabobank",
+      "latitude": 52.297851,
+      "longitude": 4.703202,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 320,
+      "name": "Rabobank",
+      "latitude": 52.301469,
+      "longitude": 4.868416,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 321,
+      "name": "Rabobank",
+      "latitude": 52.308165,
+      "longitude": 5.039748,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 322,
+      "name": "Rabobank",
+      "latitude": 52.310232,
+      "longitude": 6.519292,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 323,
+      "name": "Rabobank",
+      "latitude": 52.313251,
+      "longitude": 6.928974,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 324,
+      "name": "Rabobank",
+      "latitude": 52.344155,
+      "longitude": 4.917492,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 325,
+      "name": "Rabobank",
+      "latitude": 52.348671,
+      "longitude": 5.621168,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 326,
+      "name": "Rabobank",
+      "latitude": 52.355365,
+      "longitude": 6.661868,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 327,
+      "name": "Rabobank",
+      "latitude": 52.355663,
+      "longitude": 4.880033,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 328,
+      "name": "Rabobank",
+      "latitude": 52.366257,
+      "longitude": 5.783146,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 329,
+      "name": "Rabobank",
+      "latitude": 52.370488,
+      "longitude": 4.628455,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 330,
+      "name": "Rabobank",
+      "latitude": 52.371956,
+      "longitude": 5.217348,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 331,
+      "name": "Rabobank",
+      "latitude": 52.376129,
+      "longitude": 5.221313,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 332,
+      "name": "Rabobank",
+      "latitude": 52.39878,
+      "longitude": 4.939078,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 333,
+      "name": "Rabobank",
+      "latitude": 52.438645,
+      "longitude": 4.817042,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 334,
+      "name": "Rabobank",
+      "latitude": 52.479375,
+      "longitude": 4.654564,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 335,
+      "name": "Rabobank",
+      "latitude": 52.502583,
+      "longitude": 5.081759,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 336,
+      "name": "Rabobank",
+      "latitude": 52.504037,
+      "longitude": 5.47434,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 337,
+      "name": "Rabobank",
+      "latitude": 52.505195,
+      "longitude": 4.956328,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 338,
+      "name": "Rabobank",
+      "latitude": 52.510528,
+      "longitude": 6.085589,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 339,
+      "name": "Rabobank",
+      "latitude": 52.525827,
+      "longitude": 5.719423,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 340,
+      "name": "Rabobank",
+      "latitude": 52.574101,
+      "longitude": 6.601511,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 341,
+      "name": "Rabobank",
+      "latitude": 52.63954,
+      "longitude": 4.723842,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 342,
+      "name": "Rabobank",
+      "latitude": 52.656782,
+      "longitude": 5.063082,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 343,
+      "name": "Rabobank",
+      "latitude": 52.689495,
+      "longitude": 5.028795,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 344,
+      "name": "Rabobank",
+      "latitude": 52.697384,
+      "longitude": 6.207066,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 345,
+      "name": "Rabobank",
+      "latitude": 52.710467,
+      "longitude": 5.754015,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 346,
+      "name": "Rabobank",
+      "latitude": 52.712685,
+      "longitude": 6.459393,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 347,
+      "name": "Rabobank",
+      "latitude": 52.720141,
+      "longitude": 6.476523,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 348,
+      "name": "Rabobank",
+      "latitude": 52.721837,
+      "longitude": 6.986998,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 349,
+      "name": "Rabobank",
+      "latitude": 52.782107,
+      "longitude": 6.892283,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 350,
+      "name": "Rabobank",
+      "latitude": 52.860681,
+      "longitude": 6.512705,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 351,
+      "name": "Rabobank",
+      "latitude": 52.874835,
+      "longitude": 7.061058,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 352,
+      "name": "Rabobank",
+      "latitude": 52.898402,
+      "longitude": 5.58519,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 353,
+      "name": "Rabobank",
+      "latitude": 52.943474,
+      "longitude": 4.769555,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 354,
+      "name": "Rabobank",
+      "latitude": 52.960617,
+      "longitude": 5.935237,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 355,
+      "name": "Rabobank",
+      "latitude": 52.990491,
+      "longitude": 6.95006,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 356,
+      "name": "Rabobank",
+      "latitude": 52.997938,
+      "longitude": 6.559962,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 357,
+      "name": "Rabobank",
+      "latitude": 53.005948,
+      "longitude": 6.760168,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 358,
+      "name": "Rabobank",
+      "latitude": 53.031232,
+      "longitude": 5.658311,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 359,
+      "name": "Rabobank",
+      "latitude": 53.052161,
+      "longitude": 4.792282,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 360,
+      "name": "Rabobank",
+      "latitude": 53.103665,
+      "longitude": 6.128585,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 361,
+      "name": "Rabobank",
+      "latitude": 53.141642,
+      "longitude": 7.038056,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 362,
+      "name": "Rabobank",
+      "latitude": 53.164288,
+      "longitude": 6.387929,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 363,
+      "name": "Rabobank",
+      "latitude": 53.199105,
+      "longitude": 5.795199,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 364,
+      "name": "Rabobank",
+      "latitude": 53.215843,
+      "longitude": 6.580995,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 365,
+      "name": "Rabobank",
+      "latitude": 53.324807,
+      "longitude": 5.998559,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 366,
+      "name": "Rabobank",
+      "latitude": 53.331971,
+      "longitude": 6.927874,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 367,
+      "name": "Rabobank Hart van de Meierij",
+      "latitude": 51.575543,
+      "longitude": 5.468462,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 368,
+      "name": "Regio Bank",
+      "latitude": 51.143263,
+      "longitude": 6.006306,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 369,
+      "name": "Regio Bank",
+      "latitude": 52.045478,
+      "longitude": 4.950248,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 370,
+      "name": "Regio Bank",
+      "latitude": 53.3311,
+      "longitude": 6.515446,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 371,
+      "name": "Regio bank",
+      "latitude": 51.567009,
+      "longitude": 3.554031,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 372,
+      "name": "RegioBank",
+      "latitude": 50.772694,
+      "longitude": 6.019511,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 373,
+      "name": "RegioBank",
+      "latitude": 50.875968,
+      "longitude": 5.982491,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 374,
+      "name": "RegioBank",
+      "latitude": 50.944248,
+      "longitude": 5.969986,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 375,
+      "name": "RegioBank",
+      "latitude": 51.357758,
+      "longitude": 6.045758,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 376,
+      "name": "RegioBank",
+      "latitude": 51.392994,
+      "longitude": 6.174461,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 377,
+      "name": "RegioBank",
+      "latitude": 51.463972,
+      "longitude": 3.600437,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 378,
+      "name": "RegioBank",
+      "latitude": 51.50068,
+      "longitude": 3.889022,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 379,
+      "name": "RegioBank",
+      "latitude": 51.549246,
+      "longitude": 3.592649,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 380,
+      "name": "RegioBank",
+      "latitude": 51.587975,
+      "longitude": 4.459341,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 381,
+      "name": "RegioBank",
+      "latitude": 51.601266,
+      "longitude": 3.847706,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 382,
+      "name": "RegioBank",
+      "latitude": 51.60303,
+      "longitude": 5.672412,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 383,
+      "name": "RegioBank",
+      "latitude": 51.686734,
+      "longitude": 5.136844,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 384,
+      "name": "RegioBank",
+      "latitude": 51.694805,
+      "longitude": 5.220885,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 385,
+      "name": "RegioBank",
+      "latitude": 51.707295,
+      "longitude": 5.306658,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 386,
+      "name": "RegioBank",
+      "latitude": 51.735865,
+      "longitude": 5.533497,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 387,
+      "name": "RegioBank",
+      "latitude": 51.746023,
+      "longitude": 5.632996,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 388,
+      "name": "RegioBank",
+      "latitude": 51.77126,
+      "longitude": 5.583738,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 389,
+      "name": "RegioBank",
+      "latitude": 51.810735,
+      "longitude": 4.683907,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 390,
+      "name": "RegioBank",
+      "latitude": 51.826935,
+      "longitude": 4.196194,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 391,
+      "name": "RegioBank",
+      "latitude": 51.851879,
+      "longitude": 4.884088,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 392,
+      "name": "RegioBank",
+      "latitude": 51.89625,
+      "longitude": 4.682676,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 393,
+      "name": "RegioBank",
+      "latitude": 51.902412,
+      "longitude": 6.257426,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 394,
+      "name": "RegioBank",
+      "latitude": 51.912863,
+      "longitude": 6.380891,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 395,
+      "name": "RegioBank",
+      "latitude": 51.968571,
+      "longitude": 6.288942,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 396,
+      "name": "RegioBank",
+      "latitude": 51.972941,
+      "longitude": 5.346189,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 397,
+      "name": "RegioBank",
+      "latitude": 51.986901,
+      "longitude": 5.84529,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 398,
+      "name": "RegioBank",
+      "latitude": 52.041602,
+      "longitude": 4.63992,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 399,
+      "name": "RegioBank",
+      "latitude": 52.045425,
+      "longitude": 4.947652,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 400,
+      "name": "RegioBank",
+      "latitude": 52.082318,
+      "longitude": 5.414998,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 401,
+      "name": "RegioBank",
+      "latitude": 52.086408,
+      "longitude": 5.620353,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 402,
+      "name": "RegioBank",
+      "latitude": 52.086748,
+      "longitude": 4.746206,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 403,
+      "name": "RegioBank",
+      "latitude": 52.087607,
+      "longitude": 6.155451,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 404,
+      "name": "RegioBank",
+      "latitude": 52.167473,
+      "longitude": 4.637139,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 405,
+      "name": "RegioBank",
+      "latitude": 52.191522,
+      "longitude": 4.442556,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 406,
+      "name": "RegioBank",
+      "latitude": 52.19263,
+      "longitude": 4.439187,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 407,
+      "name": "RegioBank",
+      "latitude": 52.201226,
+      "longitude": 4.631626,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 408,
+      "name": "RegioBank",
+      "latitude": 52.216513,
+      "longitude": 5.966349,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 409,
+      "name": "RegioBank",
+      "latitude": 52.234892,
+      "longitude": 4.445739,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 410,
+      "name": "RegioBank",
+      "latitude": 52.261162,
+      "longitude": 5.608135,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 411,
+      "name": "RegioBank",
+      "latitude": 52.261656,
+      "longitude": 7.008111,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 412,
+      "name": "RegioBank",
+      "latitude": 52.26502,
+      "longitude": 4.750296,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 413,
+      "name": "RegioBank",
+      "latitude": 52.313134,
+      "longitude": 6.987887,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 414,
+      "name": "RegioBank",
+      "latitude": 52.331948,
+      "longitude": 5.543858,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 415,
+      "name": "RegioBank",
+      "latitude": 52.388398,
+      "longitude": 6.135295,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 416,
+      "name": "RegioBank",
+      "latitude": 52.443421,
+      "longitude": 5.844138,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 417,
+      "name": "RegioBank",
+      "latitude": 52.474823,
+      "longitude": 6.068176,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 418,
+      "name": "RegioBank",
+      "latitude": 52.525966,
+      "longitude": 5.71932,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 419,
+      "name": "RegioBank",
+      "latitude": 52.590434,
+      "longitude": 6.282326,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 420,
+      "name": "RegioBank",
+      "latitude": 52.590978,
+      "longitude": 6.090591,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 421,
+      "name": "RegioBank",
+      "latitude": 52.61048,
+      "longitude": 6.675052,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 422,
+      "name": "RegioBank",
+      "latitude": 52.623883,
+      "longitude": 6.040176,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 423,
+      "name": "RegioBank",
+      "latitude": 52.639788,
+      "longitude": 6.071975,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 424,
+      "name": "RegioBank",
+      "latitude": 52.70644,
+      "longitude": 6.537206,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 425,
+      "name": "RegioBank",
+      "latitude": 52.764076,
+      "longitude": 6.359608,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 426,
+      "name": "RegioBank",
+      "latitude": 52.943186,
+      "longitude": 5.401631,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 427,
+      "name": "RegioBank",
+      "latitude": 53.105989,
+      "longitude": 6.876029,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 428,
+      "name": "RegioBank",
+      "latitude": 53.161478,
+      "longitude": 6.390833,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 429,
+      "name": "RegioBank",
+      "latitude": 53.18755,
+      "longitude": 5.542084,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 430,
+      "name": "RegioBank",
+      "latitude": 53.214152,
+      "longitude": 6.2774,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 431,
+      "name": "RegioBank",
+      "latitude": 53.320477,
+      "longitude": 6.860453,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 432,
+      "name": "RegioBank Adviescentrum Lammers",
+      "latitude": 52.066944,
+      "longitude": 5.20047,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 433,
+      "name": "RegioBank ENDASS",
+      "latitude": 51.971916,
+      "longitude": 4.770995,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 434,
+      "name": "RegioBank Goirle",
+      "latitude": 51.524638,
+      "longitude": 5.064991,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 435,
+      "name": "RegioBank Veldsink - van Loo",
+      "latitude": 51.748454,
+      "longitude": 4.101522,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 436,
+      "name": "Regiobank",
+      "latitude": 51.510574,
+      "longitude": 5.642271,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 437,
+      "name": "Regiobank",
+      "latitude": 51.652318,
+      "longitude": 5.464175,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 438,
+      "name": "Regiobank",
+      "latitude": 51.656826,
+      "longitude": 5.821543,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 439,
+      "name": "Regiobank",
+      "latitude": 51.828214,
+      "longitude": 4.83374,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 440,
+      "name": "Regiobank",
+      "latitude": 51.931295,
+      "longitude": 6.078021,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 441,
+      "name": "Regiobank",
+      "latitude": 51.986638,
+      "longitude": 6.565495,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 442,
+      "name": "Regiobank",
+      "latitude": 52.359955,
+      "longitude": 6.591854,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 443,
+      "name": "Regiobank",
+      "latitude": 52.407749,
+      "longitude": 6.780769,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 444,
+      "name": "Regiobank",
+      "latitude": 52.671814,
+      "longitude": 4.699665,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 445,
+      "name": "Regiobank",
+      "latitude": 52.882307,
+      "longitude": 6.862958,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 446,
+      "name": "Regiobank",
+      "latitude": 52.94187,
+      "longitude": 5.944107,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 447,
+      "name": "Regiobank",
+      "latitude": 53.110973,
+      "longitude": 6.097328,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 448,
+      "name": "Regiobank",
+      "latitude": 53.144572,
+      "longitude": 6.267807,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 449,
+      "name": "Regiobank",
+      "latitude": 53.263543,
+      "longitude": 6.310257,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 450,
+      "name": "Regiobank De Vos",
+      "latitude": 51.682056,
+      "longitude": 4.345744,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 451,
+      "name": "SNS",
+      "latitude": 50.850421,
+      "longitude": 5.667044,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 452,
+      "name": "SNS",
+      "latitude": 50.906483,
+      "longitude": 6.024535,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 453,
+      "name": "SNS",
+      "latitude": 51.57742,
+      "longitude": 5.003993,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 454,
+      "name": "SNS",
+      "latitude": 52.092542,
+      "longitude": 5.128999,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 455,
+      "name": "SNS",
+      "latitude": 52.489154,
+      "longitude": 4.751726,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 456,
+      "name": "SNS",
+      "latitude": 53.031753,
+      "longitude": 5.661618,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 457,
+      "name": "SNS",
+      "latitude": 53.171864,
+      "longitude": 6.604711,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 458,
+      "name": "SNS",
+      "latitude": 53.238174,
+      "longitude": 6.624654,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 459,
+      "name": "SNS Bank",
+      "latitude": 50.866233,
+      "longitude": 5.833598,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 460,
+      "name": "SNS Bank",
+      "latitude": 51.342688,
+      "longitude": 6.137648,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 461,
+      "name": "SNS Bank",
+      "latitude": 51.421206,
+      "longitude": 5.55968,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 462,
+      "name": "SNS Bank",
+      "latitude": 51.421503,
+      "longitude": 5.558009,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 463,
+      "name": "SNS Bank",
+      "latitude": 51.498834,
+      "longitude": 3.612812,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 464,
+      "name": "SNS Bank",
+      "latitude": 51.554748,
+      "longitude": 5.681946,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 465,
+      "name": "SNS Bank",
+      "latitude": 51.709491,
+      "longitude": 5.365968,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 466,
+      "name": "SNS Bank",
+      "latitude": 51.848914,
+      "longitude": 4.64409,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 467,
+      "name": "SNS Bank",
+      "latitude": 51.890966,
+      "longitude": 6.382941,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 468,
+      "name": "SNS Bank",
+      "latitude": 51.938461,
+      "longitude": 5.94245,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 469,
+      "name": "SNS Bank",
+      "latitude": 51.980589,
+      "longitude": 5.910283,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 470,
+      "name": "SNS Bank",
+      "latitude": 52.027644,
+      "longitude": 5.081607,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 471,
+      "name": "SNS Bank",
+      "latitude": 52.028898,
+      "longitude": 5.558712,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 472,
+      "name": "SNS Bank",
+      "latitude": 52.049407,
+      "longitude": 6.101633,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 473,
+      "name": "SNS Bank",
+      "latitude": 52.053278,
+      "longitude": 4.23436,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 474,
+      "name": "SNS Bank",
+      "latitude": 52.11608,
+      "longitude": 6.523575,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 475,
+      "name": "SNS Bank",
+      "latitude": 52.141766,
+      "longitude": 5.039866,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 476,
+      "name": "SNS Bank",
+      "latitude": 52.162245,
+      "longitude": 6.417424,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 477,
+      "name": "SNS Bank",
+      "latitude": 52.21163,
+      "longitude": 5.289995,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 478,
+      "name": "SNS Bank",
+      "latitude": 52.231465,
+      "longitude": 6.890639,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 479,
+      "name": "SNS Bank",
+      "latitude": 52.259629,
+      "longitude": 4.557217,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 480,
+      "name": "SNS Bank",
+      "latitude": 52.297709,
+      "longitude": 5.234606,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 481,
+      "name": "SNS Bank",
+      "latitude": 52.300121,
+      "longitude": 6.756702,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 482,
+      "name": "SNS Bank",
+      "latitude": 52.309089,
+      "longitude": 6.523584,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 483,
+      "name": "SNS Bank",
+      "latitude": 52.31448,
+      "longitude": 4.95152,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 484,
+      "name": "SNS Bank",
+      "latitude": 52.334541,
+      "longitude": 5.218085,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 485,
+      "name": "SNS Bank",
+      "latitude": 52.366337,
+      "longitude": 4.868294,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 486,
+      "name": "SNS Bank",
+      "latitude": 52.507568,
+      "longitude": 5.474286,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 487,
+      "name": "SNS Bank",
+      "latitude": 52.523409,
+      "longitude": 5.717714,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 488,
+      "name": "SNS Bank",
+      "latitude": 52.525375,
+      "longitude": 5.716747,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 489,
+      "name": "SNS Bank",
+      "latitude": 52.697667,
+      "longitude": 5.234673,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 490,
+      "name": "SNS Bank",
+      "latitude": 52.988452,
+      "longitude": 6.951031,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 491,
+      "name": "SNS Bank",
+      "latitude": 53.136839,
+      "longitude": 6.431707,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 492,
+      "name": "SNS Bank",
+      "latitude": 53.155821,
+      "longitude": 6.755813,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 493,
+      "name": "SNS Bank",
+      "latitude": 53.186725,
+      "longitude": 5.540742,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 494,
+      "name": "SNS RegioBank",
+      "latitude": 51.444614,
+      "longitude": 5.621544,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 495,
+      "name": "Smulders Financiële Diensten",
+      "latitude": 51.511631,
+      "longitude": 5.389915,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 496,
+      "name": "Staal Bankiers",
+      "latitude": 52.081595,
+      "longitude": 4.314501,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 497,
+      "name": "Stadsbank van Lening",
+      "latitude": 52.370635,
+      "longitude": 4.893768,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 498,
+      "name": "Stadtsparkasse",
+      "latitude": 51.860677,
+      "longitude": 6.498831,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 499,
+      "name": "Triodos Bank",
+      "latitude": 52.063352,
+      "longitude": 5.259559,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 500,
+      "name": "Uytam",
+      "latitude": 52.065024,
+      "longitude": 4.279206,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 501,
+      "name": "Van Lanschot",
+      "latitude": 52.227562,
+      "longitude": 5.17386,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 502,
+      "name": "Van Lanschot Bank",
+      "latitude": 51.690479,
+      "longitude": 5.301846,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 503,
+      "name": "Van Lanschot Bankiers",
+      "latitude": 51.691255,
+      "longitude": 5.292716,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 504,
+      "name": "Van Lanschot Bankiers",
+      "latitude": 51.915149,
+      "longitude": 4.473721,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 505,
+      "name": "Van Lanschot Bankiers",
+      "latitude": 52.142467,
+      "longitude": 4.397053,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 506,
+      "name": "Van Lanschot Kempen Private Banking",
+      "latitude": 52.217156,
+      "longitude": 5.967684,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 507,
+      "name": "Van der Voet",
+      "latitude": 52.000868,
+      "longitude": 4.775685,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 508,
+      "name": "Volksbank",
+      "latitude": 51.013592,
+      "longitude": 5.894534,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 509,
+      "name": "Volksbank",
+      "latitude": 51.860571,
+      "longitude": 6.501715,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 510,
+      "name": "Western Union",
+      "latitude": 51.871165,
+      "longitude": 4.353336,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 511,
+      "name": "Western Union",
+      "latitude": 51.887441,
+      "longitude": 4.491153,
+      "osm_klasse": "amenity=bank"
+    },
+    {
+      "id": 512,
+      "name": "regiobank",
+      "latitude": 52.681734,
+      "longitude": 5.024517,
+      "osm_klasse": "amenity=bank"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: bank (amenity=bank) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=bank in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 512 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: bank (amenity=bank) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: bank (amenity=bank) — 512 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 512 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

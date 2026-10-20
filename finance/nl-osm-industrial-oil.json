@@ -1,0 +1,1206 @@
+{
+  "id": "nl-osm-industrial-oil",
+  "name": "Netherlands OSM: oil (industrial=oil)",
+  "title": "Netherlands OSM: oil (industrial=oil)",
+  "description": "Named OpenStreetMap features tagged industrial=oil in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 165,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Botlek Tank Terminal",
+      "latitude": 51.879052,
+      "longitude": 4.266276,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 2,
+      "name": "Bunge Loders Croklaan Oils Manufacturing",
+      "latitude": 51.964675,
+      "longitude": 4.043516,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 3,
+      "name": "Chane Terminal Nieuwe Maas B.V.",
+      "latitude": 51.891671,
+      "longitude": 4.354191,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 4,
+      "name": "Depot Best",
+      "latitude": 51.49468,
+      "longitude": 5.355732,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 5,
+      "name": "Depot Klaphek",
+      "latitude": 51.991207,
+      "longitude": 5.056434,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 6,
+      "name": "Depot Markelo",
+      "latitude": 52.201853,
+      "longitude": 6.504235,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 7,
+      "name": "Depot Pernis",
+      "latitude": 51.852925,
+      "longitude": 4.406679,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 8,
+      "name": "Euro Tank Terminal",
+      "latitude": 51.928089,
+      "longitude": 4.193038,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 9,
+      "name": "Evos Rotterdam BV",
+      "latitude": 51.9321,
+      "longitude": 4.182568,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 10,
+      "name": "Gasstation",
+      "latitude": 52.123745,
+      "longitude": 4.571662,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 11,
+      "name": "Gasunie Transport Services B.V. Scheemda",
+      "latitude": 53.171649,
+      "longitude": 6.934428,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 12,
+      "name": "Liquin Terminal Botlek",
+      "latitude": 51.88225,
+      "longitude": 4.29974,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 13,
+      "name": "Liquin Terminal Botlek",
+      "latitude": 51.882578,
+      "longitude": 4.301344,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 14,
+      "name": "Liquin Terminal Chemiehaven",
+      "latitude": 51.875383,
+      "longitude": 4.267996,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 15,
+      "name": "Liquin Terminal TTR",
+      "latitude": 51.890628,
+      "longitude": 4.281895,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 16,
+      "name": "LyondellBasell Moerdijk",
+      "latitude": 51.667106,
+      "longitude": 4.573223,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 17,
+      "name": "Maasvlakte Olie Terminal",
+      "latitude": 51.971484,
+      "longitude": 4.064327,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 18,
+      "name": "Maatschap Europoort Terminal",
+      "latitude": 51.91447,
+      "longitude": 4.198588,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 19,
+      "name": "NAM Gasopslag Grijpskerk",
+      "latitude": 53.278834,
+      "longitude": 6.312767,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 20,
+      "name": "NAM Gasopslag Langelo",
+      "latitude": 53.090819,
+      "longitude": 6.428081,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 21,
+      "name": "NAM Schoonebeek",
+      "latitude": 52.680632,
+      "longitude": 6.894967,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 22,
+      "name": "NAM-locatie 't Zandt",
+      "latitude": 53.38323,
+      "longitude": 6.786389,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 23,
+      "name": "NAM-locatie Anjum-1",
+      "latitude": 53.372071,
+      "longitude": 6.153042,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 24,
+      "name": "NAM-locatie Annerveen",
+      "latitude": 53.087682,
+      "longitude": 6.783043,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 25,
+      "name": "NAM-locatie Annerveen-Wildervank-3",
+      "latitude": 53.079739,
+      "longitude": 6.880159,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 26,
+      "name": "NAM-locatie Appelscha-1",
+      "latitude": 52.965277,
+      "longitude": 6.417182,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 27,
+      "name": "NAM-locatie Assen-1",
+      "latitude": 53.004414,
+      "longitude": 6.527196,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 28,
+      "name": "NAM-locatie Ballum",
+      "latitude": 53.441796,
+      "longitude": 5.718266,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 29,
+      "name": "NAM-locatie Barnheem",
+      "latitude": 53.31035,
+      "longitude": 6.678407,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 30,
+      "name": "NAM-locatie Bedum",
+      "latitude": 53.300439,
+      "longitude": 6.565514,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 31,
+      "name": "NAM-locatie Beerta",
+      "latitude": 53.162749,
+      "longitude": 7.095891,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 32,
+      "name": "NAM-locatie Berkel-4",
+      "latitude": 51.953433,
+      "longitude": 4.461393,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 33,
+      "name": "NAM-locatie Bierum",
+      "latitude": 53.373686,
+      "longitude": 6.886788,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 34,
+      "name": "NAM-locatie Blija-Ferwerderadeel-1",
+      "latitude": 53.360569,
+      "longitude": 5.849996,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 35,
+      "name": "NAM-locatie Blijham-Morige-2",
+      "latitude": 53.096054,
+      "longitude": 7.054636,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 36,
+      "name": "NAM-locatie Boerakker-1",
+      "latitude": 53.193639,
+      "longitude": 6.355266,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 37,
+      "name": "NAM-locatie Borgsweer",
+      "latitude": 53.290365,
+      "longitude": 7.016978,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 38,
+      "name": "NAM-locatie De Eeker",
+      "latitude": 53.173136,
+      "longitude": 6.9513,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 39,
+      "name": "NAM-locatie De Paauwen",
+      "latitude": 53.272812,
+      "longitude": 6.750678,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 40,
+      "name": "NAM-locatie De Tibben",
+      "latitude": 53.337702,
+      "longitude": 6.10415,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 41,
+      "name": "NAM-locatie De Wijk-100",
+      "latitude": 52.693315,
+      "longitude": 6.386098,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 42,
+      "name": "NAM-locatie De Wijk-13",
+      "latitude": 52.705325,
+      "longitude": 6.307829,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 43,
+      "name": "NAM-locatie De Wijk-15",
+      "latitude": 52.678077,
+      "longitude": 6.321988,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 44,
+      "name": "NAM-locatie De Wijk-16",
+      "latitude": 52.695754,
+      "longitude": 6.396241,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 45,
+      "name": "NAM-locatie De Wijk-17",
+      "latitude": 52.698079,
+      "longitude": 6.338868,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 46,
+      "name": "NAM-locatie De Wijk-200",
+      "latitude": 52.712903,
+      "longitude": 6.354588,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 47,
+      "name": "NAM-locatie De Wijk-24",
+      "latitude": 52.702679,
+      "longitude": 6.361846,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 48,
+      "name": "NAM-locatie De Wijk-26",
+      "latitude": 52.692846,
+      "longitude": 6.318508,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 49,
+      "name": "NAM-locatie De Wijk-4",
+      "latitude": 52.733748,
+      "longitude": 6.287578,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 50,
+      "name": "NAM-locatie De Wijk-6",
+      "latitude": 52.687291,
+      "longitude": 6.300754,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 51,
+      "name": "NAM-locatie Drouwenerveen-Zuideind-1",
+      "latitude": 52.960959,
+      "longitude": 6.870363,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 52,
+      "name": "NAM-locatie Eemskanaal",
+      "latitude": 53.240639,
+      "longitude": 6.686324,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 53,
+      "name": "NAM-locatie Eexterveen",
+      "latitude": 53.051525,
+      "longitude": 6.789489,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 54,
+      "name": "NAM-locatie Eleveld-1",
+      "latitude": 52.957118,
+      "longitude": 6.57676,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 55,
+      "name": "NAM-locatie Engwierum-1",
+      "latitude": 53.319312,
+      "longitude": 6.12677,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 56,
+      "name": "NAM-locatie Faan",
+      "latitude": 53.234617,
+      "longitude": 6.380261,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 57,
+      "name": "NAM-locatie Gasselternijveen-1",
+      "latitude": 52.988052,
+      "longitude": 6.896724,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 58,
+      "name": "NAM-locatie Grootegast-1",
+      "latitude": 53.242921,
+      "longitude": 6.223247,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 59,
+      "name": "NAM-locatie Grootegast-100",
+      "latitude": 53.242878,
+      "longitude": 6.245498,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 60,
+      "name": "NAM-locatie Kiel-Windeweer-1",
+      "latitude": 53.131561,
+      "longitude": 6.774025,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 61,
+      "name": "NAM-locatie Kollumerland-1",
+      "latitude": 53.270549,
+      "longitude": 6.203547,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 62,
+      "name": "NAM-locatie Kollumerpomp-1",
+      "latitude": 53.312818,
+      "longitude": 6.172554,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 63,
+      "name": "NAM-locatie Krabburen-1",
+      "latitude": 53.323647,
+      "longitude": 6.281854,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 64,
+      "name": "NAM-locatie Langebrug",
+      "latitude": 53.110803,
+      "longitude": 7.10737,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 65,
+      "name": "NAM-locatie Lauwersoog-1",
+      "latitude": 53.409584,
+      "longitude": 6.213287,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 66,
+      "name": "NAM-locatie Lauwerzijl",
+      "latitude": 53.300682,
+      "longitude": 6.291937,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 67,
+      "name": "NAM-locatie Leens",
+      "latitude": 53.353305,
+      "longitude": 6.406662,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 68,
+      "name": "NAM-locatie Leermens",
+      "latitude": 53.351081,
+      "longitude": 6.814879,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 69,
+      "name": "NAM-locatie Marum-1",
+      "latitude": 53.13312,
+      "longitude": 6.188595,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 70,
+      "name": "NAM-locatie Marumerlage-1",
+      "latitude": 53.153781,
+      "longitude": 6.261353,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 71,
+      "name": "NAM-locatie Midwolda",
+      "latitude": 53.182325,
+      "longitude": 7.021539,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 72,
+      "name": "NAM-locatie Munnekezijl-1",
+      "latitude": 53.325654,
+      "longitude": 6.282332,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 73,
+      "name": "NAM-locatie Nieuw-Scheemda",
+      "latitude": 53.19841,
+      "longitude": 6.942327,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 74,
+      "name": "NAM-locatie Norg-1",
+      "latitude": 53.072539,
+      "longitude": 6.449459,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 75,
+      "name": "NAM-locatie Norg-3",
+      "latitude": 53.111661,
+      "longitude": 6.40296,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 76,
+      "name": "NAM-locatie Norg-Zuid-1",
+      "latitude": 53.023148,
+      "longitude": 6.451563,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 77,
+      "name": "NAM-locatie Oldorp",
+      "latitude": 53.395906,
+      "longitude": 6.643854,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 78,
+      "name": "NAM-locatie Oosterzand",
+      "latitude": 53.245812,
+      "longitude": 6.324924,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 79,
+      "name": "NAM-locatie Oostwold",
+      "latitude": 53.220515,
+      "longitude": 7.037113,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 80,
+      "name": "NAM-locatie Opende-Oost-1",
+      "latitude": 53.16149,
+      "longitude": 6.220017,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 81,
+      "name": "NAM-locatie Oude Pekela-1",
+      "latitude": 53.111735,
+      "longitude": 6.995608,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 82,
+      "name": "NAM-locatie Oudeweg",
+      "latitude": 53.248867,
+      "longitude": 6.9026,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 83,
+      "name": "NAM-locatie Pasop-1",
+      "latitude": 53.200488,
+      "longitude": 6.391964,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 84,
+      "name": "NAM-locatie Ridderkerk-4",
+      "latitude": 51.883331,
+      "longitude": 4.569678,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 85,
+      "name": "NAM-locatie Roden-1",
+      "latitude": 53.136463,
+      "longitude": 6.450013,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 86,
+      "name": "NAM-locatie Roden-2",
+      "latitude": 53.117855,
+      "longitude": 6.473038,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 87,
+      "name": "NAM-locatie Rodewolt",
+      "latitude": 53.34579,
+      "longitude": 6.570447,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 88,
+      "name": "NAM-locatie Rotterdam-5",
+      "latitude": 51.89035,
+      "longitude": 4.451076,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 89,
+      "name": "NAM-locatie Rotterdam-Meetstation1",
+      "latitude": 51.879061,
+      "longitude": 4.456065,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 90,
+      "name": "NAM-locatie Saaksum-1",
+      "latitude": 53.327299,
+      "longitude": 6.429337,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 91,
+      "name": "NAM-locatie Schaapbulten",
+      "latitude": 53.271559,
+      "longitude": 6.922991,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 92,
+      "name": "NAM-locatie Scheemderzwaag",
+      "latitude": 53.181514,
+      "longitude": 6.917062,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 93,
+      "name": "NAM-locatie Scheemderzwaag",
+      "latitude": 53.181518,
+      "longitude": 6.916203,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 94,
+      "name": "NAM-locatie Schoonebeek-1000",
+      "latitude": 52.650114,
+      "longitude": 6.828136,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 95,
+      "name": "NAM-locatie Schoonebeek-1100",
+      "latitude": 52.652524,
+      "longitude": 6.83988,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 96,
+      "name": "NAM-locatie Schoonebeek-1200",
+      "latitude": 52.651245,
+      "longitude": 6.843634,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 97,
+      "name": "NAM-locatie Schoonebeek-1300",
+      "latitude": 52.654422,
+      "longitude": 6.846332,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 98,
+      "name": "NAM-locatie Schoonebeek-1400",
+      "latitude": 52.652035,
+      "longitude": 6.849842,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 99,
+      "name": "NAM-locatie Schoonebeek-1500",
+      "latitude": 52.649511,
+      "longitude": 6.85185,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 100,
+      "name": "NAM-locatie Schoonebeek-1700",
+      "latitude": 52.653708,
+      "longitude": 6.852482,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 101,
+      "name": "NAM-locatie Schoonebeek-1800",
+      "latitude": 52.674569,
+      "longitude": 6.855518,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 102,
+      "name": "NAM-locatie Schoonebeek-2000",
+      "latitude": 52.673022,
+      "longitude": 6.860117,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 103,
+      "name": "NAM-locatie Schoonebeek-2300",
+      "latitude": 52.666969,
+      "longitude": 6.861659,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 104,
+      "name": "NAM-locatie Schoonebeek-2400",
+      "latitude": 52.660454,
+      "longitude": 6.865605,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 105,
+      "name": "NAM-locatie Schoonebeek-2500",
+      "latitude": 52.65842,
+      "longitude": 6.867517,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 106,
+      "name": "NAM-locatie Schoonebeek-2600",
+      "latitude": 52.667645,
+      "longitude": 6.86837,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 107,
+      "name": "NAM-locatie Schoonebeek-2800",
+      "latitude": 52.658599,
+      "longitude": 6.872493,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 108,
+      "name": "NAM-locatie Schoonebeek-2900",
+      "latitude": 52.651187,
+      "longitude": 6.881906,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 109,
+      "name": "NAM-locatie Sebaldeburen-1",
+      "latitude": 53.223339,
+      "longitude": 6.283532,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 110,
+      "name": "NAM-locatie Siddeburen",
+      "latitude": 53.26364,
+      "longitude": 6.859646,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 111,
+      "name": "NAM-locatie Stedum",
+      "latitude": 53.334063,
+      "longitude": 6.700747,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 112,
+      "name": "NAM-locatie Suawoude-2",
+      "latitude": 53.178211,
+      "longitude": 5.977672,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 113,
+      "name": "NAM-locatie Surhuisterveen-1",
+      "latitude": 53.18368,
+      "longitude": 6.185677,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 114,
+      "name": "NAM-locatie Ten Arlo",
+      "latitude": 52.708465,
+      "longitude": 6.433057,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 115,
+      "name": "NAM-locatie Ten Boer",
+      "latitude": 53.259935,
+      "longitude": 6.644201,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 116,
+      "name": "NAM-locatie Ten Post",
+      "latitude": 53.299687,
+      "longitude": 6.747052,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 117,
+      "name": "NAM-locatie Ternaard-1",
+      "latitude": 53.385391,
+      "longitude": 5.965713,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 118,
+      "name": "NAM-locatie Tietjerksteradeel 200",
+      "latitude": 53.195262,
+      "longitude": 6.014085,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 119,
+      "name": "NAM-locatie Tietjerksteradeel 700",
+      "latitude": 53.204399,
+      "longitude": 6.13455,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 120,
+      "name": "NAM-locatie Tjuchem",
+      "latitude": 53.271013,
+      "longitude": 6.884567,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 121,
+      "name": "NAM-locatie Tusschenklappen",
+      "latitude": 53.151218,
+      "longitude": 6.873183,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 122,
+      "name": "NAM-locatie Tusschenklappen",
+      "latitude": 53.153622,
+      "longitude": 6.871908,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 123,
+      "name": "NAM-locatie Uithuizen",
+      "latitude": 53.431375,
+      "longitude": 6.705705,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 124,
+      "name": "NAM-locatie Uithuizermeeden",
+      "latitude": 53.449012,
+      "longitude": 6.807053,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 125,
+      "name": "NAM-locatie Ureterp-1",
+      "latitude": 53.118201,
+      "longitude": 6.166201,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 126,
+      "name": "NAM-locatie Ureterp-2",
+      "latitude": 53.100159,
+      "longitude": 6.186948,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 127,
+      "name": "NAM-locatie Usquert",
+      "latitude": 53.424947,
+      "longitude": 6.621134,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 128,
+      "name": "NAM-locatie Vierhuizen-1",
+      "latitude": 53.36656,
+      "longitude": 6.281759,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 129,
+      "name": "NAM-locatie Vries-1",
+      "latitude": 53.036801,
+      "longitude": 6.593536,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 130,
+      "name": "NAM-locatie Vries-2",
+      "latitude": 53.078119,
+      "longitude": 6.559226,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 131,
+      "name": "NAM-locatie Vries-4",
+      "latitude": 53.097601,
+      "longitude": 6.520538,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 132,
+      "name": "NAM-locatie Wanneperveen-1",
+      "latitude": 52.733629,
+      "longitude": 6.124802,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 133,
+      "name": "NAM-locatie Wanneperveen-13",
+      "latitude": 52.710941,
+      "longitude": 6.207448,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 134,
+      "name": "NAM-locatie Wanneperveen-15",
+      "latitude": 52.688025,
+      "longitude": 6.239008,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 135,
+      "name": "NAM-locatie Wanneperveen-8",
+      "latitude": 52.72434,
+      "longitude": 6.193902,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 136,
+      "name": "NAM-locatie Wanneperveen-9",
+      "latitude": 52.708925,
+      "longitude": 6.227072,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 137,
+      "name": "NAM-locatie Warffum",
+      "latitude": 53.404739,
+      "longitude": 6.544873,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 138,
+      "name": "NAM-locatie Warfstermolen",
+      "latitude": 53.292728,
+      "longitude": 6.247667,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 139,
+      "name": "NAM-locatie Westerdiep-1",
+      "latitude": 53.094064,
+      "longitude": 6.840113,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 140,
+      "name": "NAM-locatie Westerveld",
+      "latitude": 52.934148,
+      "longitude": 6.62755,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 141,
+      "name": "NAM-locatie Wildervank",
+      "latitude": 53.090001,
+      "longitude": 6.814387,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 142,
+      "name": "NAM-locatie Witten-1",
+      "latitude": 52.972472,
+      "longitude": 6.53725,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 143,
+      "name": "NAM-locatie Zeerijp",
+      "latitude": 53.346517,
+      "longitude": 6.738235,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 144,
+      "name": "NAM-locatie Zevenhuizen-1",
+      "latitude": 53.118885,
+      "longitude": 6.341757,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 145,
+      "name": "NAM-locatie Zuiderpolder",
+      "latitude": 53.203245,
+      "longitude": 6.986364,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 146,
+      "name": "NAM-locatie Zuidlaarderveen",
+      "latitude": 53.084739,
+      "longitude": 6.749222,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 147,
+      "name": "NAM-locatie Zuidwending",
+      "latitude": 53.119674,
+      "longitude": 6.949635,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 148,
+      "name": "Neste Netherlands B.V.",
+      "latitude": 51.966449,
+      "longitude": 4.036207,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 149,
+      "name": "Neste Netherlands B.V.",
+      "latitude": 51.972693,
+      "longitude": 4.009056,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 150,
+      "name": "OCI Terminal",
+      "latitude": 51.923237,
+      "longitude": 4.191209,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 151,
+      "name": "Rotterdam Antwerpen Pijpleiding",
+      "latitude": 51.913035,
+      "longitude": 4.196757,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 152,
+      "name": "Rotterdam-Rijn Pijpleiding",
+      "latitude": 51.911482,
+      "longitude": 4.201262,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 153,
+      "name": "Rotterdam-Rijn Pijpleiding Europoort",
+      "latitude": 51.938492,
+      "longitude": 4.144187,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 154,
+      "name": "Service Terminal Rotterdam",
+      "latitude": 51.889853,
+      "longitude": 4.284701,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 155,
+      "name": "Shell Europoort Terminal",
+      "latitude": 51.948649,
+      "longitude": 4.138467,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 156,
+      "name": "Shell Moerdijk",
+      "latitude": 51.679571,
+      "longitude": 4.560868,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 157,
+      "name": "Shell Pernis",
+      "latitude": 51.881679,
+      "longitude": 4.351117,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 158,
+      "name": "Station Herongen",
+      "latitude": 51.379458,
+      "longitude": 6.21906,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 159,
+      "name": "TEAM Terminal",
+      "latitude": 51.940132,
+      "longitude": 4.148951,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 160,
+      "name": "TEAM Terminal",
+      "latitude": 51.943308,
+      "longitude": 4.155627,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 161,
+      "name": "Tankput 16",
+      "latitude": 51.947168,
+      "longitude": 4.095233,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 162,
+      "name": "Tankput 17",
+      "latitude": 51.945779,
+      "longitude": 4.096492,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 163,
+      "name": "Tankput 22",
+      "latitude": 51.945233,
+      "longitude": 4.098711,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 164,
+      "name": "Vopak Oil EMEA",
+      "latitude": 51.884663,
+      "longitude": 4.26252,
+      "osm_klasse": "industrial=oil"
+    },
+    {
+      "id": 165,
+      "name": "Vopak Terminal Europoort",
+      "latitude": 51.908248,
+      "longitude": 4.214796,
+      "osm_klasse": "industrial=oil"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: oil (industrial=oil) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged industrial=oil in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 165 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: oil (industrial=oil) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: oil (industrial=oil) — 165 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 165 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

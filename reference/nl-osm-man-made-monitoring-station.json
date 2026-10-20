@@ -1,0 +1,1934 @@
+{
+  "id": "nl-osm-man-made-monitoring-station",
+  "name": "Netherlands OSM: monitoring station (man_made=monitoring_station)",
+  "title": "Netherlands OSM: monitoring station (man_made=monitoring_station)",
+  "description": "Named OpenStreetMap features tagged man_made=monitoring_station in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 269,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "2e Wormenseweg",
+      "latitude": 52.208542,
+      "longitude": 5.969011,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 2,
+      "name": "ADR200NLD",
+      "latitude": 52.179797,
+      "longitude": 5.959819,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 3,
+      "name": "AMEL00NLD",
+      "latitude": 53.446461,
+      "longitude": 5.764892,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 4,
+      "name": "APEL00NLD",
+      "latitude": 52.211922,
+      "longitude": 5.962294,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 5,
+      "name": "ARNH00NLD",
+      "latitude": 51.952647,
+      "longitude": 5.87385,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 6,
+      "name": "Alblasserdam-Ruigenhil",
+      "latitude": 51.857928,
+      "longitude": 4.660073,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 7,
+      "name": "Amsterdam -Kantershof",
+      "latitude": 52.320692,
+      "longitude": 4.988393,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 8,
+      "name": "Amsterdam-Einsteinweg",
+      "latitude": 52.381341,
+      "longitude": 4.845212,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 9,
+      "name": "Amsterdam-Haarlemmerweg",
+      "latitude": 52.385389,
+      "longitude": 4.875783,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 10,
+      "name": "Amsterdam-Jan van Galenstraat",
+      "latitude": 52.374816,
+      "longitude": 4.860344,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 11,
+      "name": "Amsterdam-Nieuwendammerdijk",
+      "latitude": 52.389312,
+      "longitude": 4.943822,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 12,
+      "name": "Amsterdam-Ookmeer",
+      "latitude": 52.366814,
+      "longitude": 4.793344,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 13,
+      "name": "Amsterdam-Oude Schans",
+      "latitude": 52.372003,
+      "longitude": 4.904548,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 14,
+      "name": "Amsterdam-Stadhouderskade",
+      "latitude": 52.358048,
+      "longitude": 4.899769,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 15,
+      "name": "Amsterdam-Van Diemenstraat",
+      "latitude": 52.389985,
+      "longitude": 4.887869,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 16,
+      "name": "Amsterdam-Vondelpark",
+      "latitude": 52.359949,
+      "longitude": 4.866976,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 17,
+      "name": "Amsterdam-Westerpark",
+      "latitude": 52.393975,
+      "longitude": 4.870158,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 18,
+      "name": "Arnhem GelreDome",
+      "latitude": 51.962276,
+      "longitude": 5.897347,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 19,
+      "name": "Arnhem Velperbroek",
+      "latitude": 51.978338,
+      "longitude": 5.9695,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 20,
+      "name": "Atmosferisch meetstation Lutjewad",
+      "latitude": 53.403557,
+      "longitude": 6.352546,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 21,
+      "name": "Atmospheric Research Station Veenkampen",
+      "latitude": 51.981013,
+      "longitude": 5.619996,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 22,
+      "name": "BOXM00NLD",
+      "latitude": 51.639986,
+      "longitude": 5.982858,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 23,
+      "name": "BRD200NLD",
+      "latitude": 51.563369,
+      "longitude": 4.746389,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 24,
+      "name": "Balk-Trophornsterweg",
+      "latitude": 52.916941,
+      "longitude": 5.573529,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 25,
+      "name": "Barsbeek-De Veenen",
+      "latitude": 52.654148,
+      "longitude": 6.017607,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 26,
+      "name": "Bayeuxlaan",
+      "latitude": 51.417419,
+      "longitude": 5.465778,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 27,
+      "name": "Berkhout",
+      "latitude": 52.642638,
+      "longitude": 4.978774,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 28,
+      "name": "Beverwijk-Creutzberglaan",
+      "latitude": 52.489334,
+      "longitude": 4.64051,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 29,
+      "name": "Biddinghuizen-Kuilweg",
+      "latitude": 52.423208,
+      "longitude": 5.593363,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 30,
+      "name": "Biest Houtakker-Biestsestraat",
+      "latitude": 51.518387,
+      "longitude": 5.14849,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 31,
+      "name": "Breda-Bastenakenstraat",
+      "latitude": 51.603076,
+      "longitude": 4.780983,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 32,
+      "name": "Breda-Tilburgseweg",
+      "latitude": 51.593556,
+      "longitude": 4.82497,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 33,
+      "name": "Breukelen-A2",
+      "latitude": 52.201502,
+      "longitude": 4.987367,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 34,
+      "name": "Brouwersdam 2 buiten",
+      "latitude": 51.748729,
+      "longitude": 3.824539,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 35,
+      "name": "Brouwersdam 6 binnen",
+      "latitude": 51.748205,
+      "longitude": 3.827351,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 36,
+      "name": "CBW100NLD",
+      "latitude": 51.969544,
+      "longitude": 4.926181,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 37,
+      "name": "Cabauw-Wielsekade",
+      "latitude": 51.974518,
+      "longitude": 4.923285,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 38,
+      "name": "Cadzand boei",
+      "latitude": 51.39015,
+      "longitude": 3.3687,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 39,
+      "name": "DELF00NLD",
+      "latitude": 51.986117,
+      "longitude": 4.387583,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 40,
+      "name": "DELZ00NLD",
+      "latitude": 53.326514,
+      "longitude": 6.93335,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 41,
+      "name": "DHEL00NLD",
+      "latitude": 52.963208,
+      "longitude": 4.7439,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 42,
+      "name": "DLF100NLD",
+      "latitude": 51.986019,
+      "longitude": 4.387458,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 43,
+      "name": "DZYL00NLD",
+      "latitude": 53.320036,
+      "longitude": 6.940428,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 44,
+      "name": "De Bilt",
+      "latitude": 52.101701,
+      "longitude": 5.178333,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 45,
+      "name": "De Drie Polders",
+      "latitude": 51.709279,
+      "longitude": 4.085548,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 46,
+      "name": "De Kooy",
+      "latitude": 52.924113,
+      "longitude": 4.779139,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 47,
+      "name": "De Lichtenberg",
+      "latitude": 51.900555,
+      "longitude": 6.399583,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 48,
+      "name": "De Rijp-Oostdijkje",
+      "latitude": 52.563647,
+      "longitude": 4.86165,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 49,
+      "name": "De Run",
+      "latitude": 51.408929,
+      "longitude": 5.415998,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 50,
+      "name": "Den Haag-Amsterdamse Veerkade",
+      "latitude": 52.075071,
+      "longitude": 4.315876,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 51,
+      "name": "Den Haag-Bleriotlaan",
+      "latitude": 52.039042,
+      "longitude": 4.359335,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 52,
+      "name": "Den Haag-Rebecquestraat",
+      "latitude": 52.077149,
+      "longitude": 4.289189,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 53,
+      "name": "Den Helder",
+      "latitude": 52.952723,
+      "longitude": 4.790546,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 54,
+      "name": "Den Oever",
+      "latitude": 52.934055,
+      "longitude": 5.054907,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 55,
+      "name": "Digitale peilschaal Isaäc Newtonstraat Oud-Beijerland",
+      "latitude": 51.828814,
+      "longitude": 4.437042,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 56,
+      "name": "Domburger Rassen",
+      "latitude": 51.619444,
+      "longitude": 3.399056,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 57,
+      "name": "Dordrecht-Bamendaweg",
+      "latitude": 51.800642,
+      "longitude": 4.708224,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 58,
+      "name": "EBRG00NLD",
+      "latitude": 52.067508,
+      "longitude": 6.656864,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 59,
+      "name": "EIJS00NLD",
+      "latitude": 50.758239,
+      "longitude": 5.683606,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 60,
+      "name": "Eibergen-Lintveldseweg",
+      "latitude": 52.091762,
+      "longitude": 6.605371,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 61,
+      "name": "Eindhoven-Genovevalaan",
+      "latitude": 51.468618,
+      "longitude": 5.472312,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 62,
+      "name": "Eindhoven-Noordbrabantlaan",
+      "latitude": 51.444166,
+      "longitude": 5.444812,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 63,
+      "name": "Enschede-Winkelshorst",
+      "latitude": 52.234522,
+      "longitude": 6.919444,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 64,
+      "name": "Eurogeul E13",
+      "latitude": 52.0092,
+      "longitude": 3.735619,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 65,
+      "name": "Fijnaart-Zwingelspaansedijk",
+      "latitude": 51.653724,
+      "longitude": 4.515279,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 66,
+      "name": "Geleen-Asterstraat",
+      "latitude": 50.984443,
+      "longitude": 5.822219,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 67,
+      "name": "Geleen-Vouershof",
+      "latitude": 50.963081,
+      "longitude": 5.810695,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 68,
+      "name": "Gemaal Battenoord",
+      "latitude": 51.707039,
+      "longitude": 4.128731,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 69,
+      "name": "Gemaal Jacoba",
+      "latitude": 51.563595,
+      "longitude": 3.695208,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 70,
+      "name": "Gemaal Kilhaven",
+      "latitude": 51.794251,
+      "longitude": 3.888714,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 71,
+      "name": "Geulhaven Radarpost 10",
+      "latitude": 51.890934,
+      "longitude": 4.311597,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 72,
+      "name": "Goidschalxoord",
+      "latitude": 51.830288,
+      "longitude": 4.451709,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 73,
+      "name": "Grevelingensluis wind",
+      "latitude": 51.666621,
+      "longitude": 4.095668,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 74,
+      "name": "Groningen-Europaweg",
+      "latitude": 53.217823,
+      "longitude": 6.578872,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 75,
+      "name": "Groningen-Nijensteinheerd",
+      "latitude": 53.246487,
+      "longitude": 6.60906,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 76,
+      "name": "HHO200NLD",
+      "latitude": 51.977544,
+      "longitude": 4.119781,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 77,
+      "name": "Haarlem-Schipholweg",
+      "latitude": 52.370523,
+      "longitude": 4.642312,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 78,
+      "name": "Haringvliet 10",
+      "latitude": 51.862784,
+      "longitude": 3.860609,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 79,
+      "name": "Heerlen-Jamboreepad",
+      "latitude": 50.900305,
+      "longitude": 5.98686,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 80,
+      "name": "Hellendoorn-Luttenbergerweg",
+      "latitude": 52.388291,
+      "longitude": 6.402886,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 81,
+      "name": "Honte",
+      "latitude": 51.436133,
+      "longitude": 3.692367,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 82,
+      "name": "Hoofddorp-Hoofdweg",
+      "latitude": 52.327483,
+      "longitude": 4.714978,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 83,
+      "name": "Horst a/d Maas - Hoogheide",
+      "latitude": 51.454026,
+      "longitude": 6.108209,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 84,
+      "name": "Houtrib Zuid",
+      "latitude": 52.523232,
+      "longitude": 5.431168,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 85,
+      "name": "Houtribdijk",
+      "latitude": 52.648166,
+      "longitude": 5.400373,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 86,
+      "name": "Huijbergen-Vennekenstraat",
+      "latitude": 51.43444,
+      "longitude": 4.359765,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 87,
+      "name": "Hupsel",
+      "latitude": 52.0676,
+      "longitude": 6.656748,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 88,
+      "name": "HvHolland-Berghaven",
+      "latitude": 51.977616,
+      "longitude": 4.121232,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 89,
+      "name": "IJMU00NLD",
+      "latitude": 52.461972,
+      "longitude": 4.556058,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 90,
+      "name": "IJmond",
+      "latitude": 52.465,
+      "longitude": 4.518,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 91,
+      "name": "IJmuiden-Kanaalstraat",
+      "latitude": 52.463042,
+      "longitude": 4.601797,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 92,
+      "name": "IJsselkop",
+      "latitude": 51.950996,
+      "longitude": 5.953767,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 93,
+      "name": "KNMI Weerstation Ell",
+      "latitude": 51.196659,
+      "longitude": 5.76264,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 94,
+      "name": "KNMI Weerstation Hoek van Holland",
+      "latitude": 51.990981,
+      "longitude": 4.121776,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 95,
+      "name": "KNMI Weerstation Horst",
+      "latitude": 51.486758,
+      "longitude": 6.056107,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 96,
+      "name": "KNMI Weerstation Stavoren",
+      "latitude": 52.896591,
+      "longitude": 5.383378,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 97,
+      "name": "KNMI Weerstation Voorschoten",
+      "latitude": 52.139583,
+      "longitude": 4.436391,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 98,
+      "name": "KNMI meetveld",
+      "latitude": 52.099188,
+      "longitude": 5.176467,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 99,
+      "name": "KNMI weerstation Gilze-Rijen",
+      "latitude": 51.564905,
+      "longitude": 4.935133,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 100,
+      "name": "KNMI weerstation Hoorn Terschelling",
+      "latitude": 53.391187,
+      "longitude": 5.345725,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 101,
+      "name": "KNMI weerstation Hupsel",
+      "latitude": 52.067589,
+      "longitude": 6.656794,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 102,
+      "name": "KNMI, AWS terrein Z",
+      "latitude": 53.219795,
+      "longitude": 5.758224,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 103,
+      "name": "KNMI-station Lauwersoog",
+      "latitude": 53.408322,
+      "longitude": 6.196058,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 104,
+      "name": "KNMI-station Nieuw Beerta",
+      "latitude": 53.19438,
+      "longitude": 7.149353,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 105,
+      "name": "KOS100NLD",
+      "latitude": 52.173356,
+      "longitude": 5.818225,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 106,
+      "name": "Keeten boei",
+      "latitude": 51.605422,
+      "longitude": 3.970869,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 107,
+      "name": "Klundert-Kerkweg",
+      "latitude": 51.668831,
+      "longitude": 4.541548,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 108,
+      "name": "Kollumerwaard-Hooge Zuidwal",
+      "latitude": 53.330442,
+      "longitude": 6.276876,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 109,
+      "name": "Krammer Laagbekken",
+      "latitude": 51.658744,
+      "longitude": 4.1599,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 110,
+      "name": "Kruisstraattunnel",
+      "latitude": 51.445256,
+      "longitude": 5.474907,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 111,
+      "name": "L9 platform",
+      "latitude": 53.61384,
+      "longitude": 4.96089,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 112,
+      "name": "Lobith Haven",
+      "latitude": 51.857502,
+      "longitude": 6.083645,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 113,
+      "name": "Looveer Huissen",
+      "latitude": 51.933247,
+      "longitude": 5.961865,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 114,
+      "name": "Luchthaven Rotterdam",
+      "latitude": 51.959359,
+      "longitude": 4.442379,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 115,
+      "name": "Maassluis-Kwartellaan",
+      "latitude": 51.932084,
+      "longitude": 4.228012,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 116,
+      "name": "Maastricht - A2 Kasteel Hillenraadweg",
+      "latitude": 50.8598,
+      "longitude": 5.713806,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 117,
+      "name": "Maastricht - A2 Nassaulaan",
+      "latitude": 50.845883,
+      "longitude": 5.714816,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 118,
+      "name": "Maastricht - Hoge Fronten",
+      "latitude": 50.852056,
+      "longitude": 5.675793,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 119,
+      "name": "Markermeer Midden",
+      "latitude": 52.539838,
+      "longitude": 5.222776,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 120,
+      "name": "Meetpaal Baalhoek",
+      "latitude": 51.365836,
+      "longitude": 4.10228,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 121,
+      "name": "Meetpaal Bath",
+      "latitude": 51.398792,
+      "longitude": 4.210164,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 122,
+      "name": "Meetpaal Bathse brug Deltan",
+      "latitude": 51.424985,
+      "longitude": 4.231209,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 123,
+      "name": "Meetpaal Bathse spuikanaal Inloop",
+      "latitude": 51.462914,
+      "longitude": 4.225773,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 124,
+      "name": "Meetpaal Bommenede 1",
+      "latitude": 51.738714,
+      "longitude": 3.974295,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 125,
+      "name": "Meetpaal Borssele",
+      "latitude": 51.411268,
+      "longitude": 3.757815,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 126,
+      "name": "Meetpaal Brouwershavense Gat 2",
+      "latitude": 51.76651,
+      "longitude": 3.621784,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 127,
+      "name": "Meetpaal Brouwershavense Gat 8",
+      "latitude": 51.746392,
+      "longitude": 3.814542,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 128,
+      "name": "Meetpaal Cadzand",
+      "latitude": 51.379883,
+      "longitude": 3.379101,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 129,
+      "name": "Meetpaal Dodewaard",
+      "latitude": 51.900514,
+      "longitude": 5.630507,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 130,
+      "name": "Meetpaal Hansweert",
+      "latitude": 51.445717,
+      "longitude": 3.997442,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 131,
+      "name": "Meetpaal Hellevoetsluis",
+      "latitude": 51.820955,
+      "longitude": 4.13389,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 132,
+      "name": "Meetpaal Holwerd",
+      "latitude": 53.39536,
+      "longitude": 5.87918,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 133,
+      "name": "Meetpaal Huibertgat",
+      "latitude": 53.573733,
+      "longitude": 6.398422,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 134,
+      "name": "Meetpaal Kornwerderzand",
+      "latitude": 53.066551,
+      "longitude": 5.331916,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 135,
+      "name": "Meetpaal Krabbegat",
+      "latitude": 51.720127,
+      "longitude": 3.676937,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 136,
+      "name": "Meetpaal Marollengat",
+      "latitude": 51.478578,
+      "longitude": 4.192463,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 137,
+      "name": "Meetpaal Nes",
+      "latitude": 53.429957,
+      "longitude": 5.758924,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 138,
+      "name": "Meetpaal Nieuw Vossemeer",
+      "latitude": 51.585168,
+      "longitude": 4.201317,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 139,
+      "name": "Meetpaal Nijmegen haven",
+      "latitude": 51.852455,
+      "longitude": 5.850672,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 140,
+      "name": "Meetpaal Oosterschelde 4",
+      "latitude": 51.655142,
+      "longitude": 3.693452,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 141,
+      "name": "Meetpaal Pannerdense kop",
+      "latitude": 51.869723,
+      "longitude": 6.040076,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 142,
+      "name": "Meetpaal Schiermonnikoog",
+      "latitude": 53.468825,
+      "longitude": 6.203662,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 143,
+      "name": "Meetpaal Stellendam buiten",
+      "latitude": 51.827346,
+      "longitude": 4.033805,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 144,
+      "name": "Meetpaal Terneuzen Westsluis ZZ",
+      "latitude": 51.337577,
+      "longitude": 3.812564,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 145,
+      "name": "Meetpaal Terschelling Noordzee",
+      "latitude": 53.427929,
+      "longitude": 5.33322,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 146,
+      "name": "Meetpaal Texel Noordzee",
+      "latitude": 53.11483,
+      "longitude": 4.751019,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 147,
+      "name": "Meetpaal Uithuizerwad",
+      "latitude": 53.465879,
+      "longitude": 6.757378,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 148,
+      "name": "Meetpaal Veersemeer 5 Schotsman",
+      "latitude": 51.581623,
+      "longitude": 3.643269,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 149,
+      "name": "Meetpaal Walsoorden",
+      "latitude": 51.398659,
+      "longitude": 4.026867,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 150,
+      "name": "Meetpaal Wierumergronden",
+      "latitude": 53.51581,
+      "longitude": 5.958263,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 151,
+      "name": "Meetpaal Wierummerwad 2",
+      "latitude": 53.407982,
+      "longitude": 6.063224,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 152,
+      "name": "Meetpaal Yerseke",
+      "latitude": 51.508109,
+      "longitude": 4.071982,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 153,
+      "name": "Meetpunt Antwerps kanaalpand",
+      "latitude": 51.402612,
+      "longitude": 4.238616,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 154,
+      "name": "Meetpunt Bathse spuisluis Ws",
+      "latitude": 51.392698,
+      "longitude": 4.234022,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 155,
+      "name": "Meetpunt Bathse spuisluis kanaal",
+      "latitude": 51.393208,
+      "longitude": 4.234972,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 156,
+      "name": "Meetpunt Delfzijl",
+      "latitude": 53.326529,
+      "longitude": 6.933375,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 157,
+      "name": "Meetpunt Den Oever binnen",
+      "latitude": 52.930245,
+      "longitude": 5.047785,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 158,
+      "name": "Meetpunt Den Oever buiten",
+      "latitude": 52.933478,
+      "longitude": 5.044017,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 159,
+      "name": "Meetpunt Dordrecht (Oude Maas)",
+      "latitude": 51.819524,
+      "longitude": 4.670742,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 160,
+      "name": "Meetpunt Harlingen",
+      "latitude": 53.175691,
+      "longitude": 5.411319,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 161,
+      "name": "Meetpunt Hondsbroekse Pleij IJssel",
+      "latitude": 51.959947,
+      "longitude": 5.950239,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 162,
+      "name": "Meetpunt IJmuiden Buitenhaven",
+      "latitude": 52.46197,
+      "longitude": 4.556019,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 163,
+      "name": "Meetpunt Katse Heule",
+      "latitude": 51.541953,
+      "longitude": 3.86529,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 164,
+      "name": "Meetpunt Kornwerderzand binnen",
+      "latitude": 53.069137,
+      "longitude": 5.33766,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 165,
+      "name": "Meetpunt Kornwerderzand buiten",
+      "latitude": 53.071559,
+      "longitude": 5.334962,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 166,
+      "name": "Meetpunt Krammersluizen west",
+      "latitude": 51.659234,
+      "longitude": 4.14225,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 167,
+      "name": "Meetpunt Lauwersoog",
+      "latitude": 53.408644,
+      "longitude": 6.197054,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 168,
+      "name": "Meetpunt Lemmer",
+      "latitude": 52.841916,
+      "longitude": 5.710434,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 169,
+      "name": "Meetpunt Nieuwe Statenzijl",
+      "latitude": 53.231634,
+      "longitude": 7.20828,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 170,
+      "name": "Meetpunt Oudeschild",
+      "latitude": 53.042065,
+      "longitude": 4.852571,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 171,
+      "name": "Meetpunt Rak Noord",
+      "latitude": 51.69489,
+      "longitude": 4.421782,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 172,
+      "name": "Meetpunt Rammegors binnen",
+      "latitude": 51.614662,
+      "longitude": 4.17786,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 173,
+      "name": "Meetpunt Scheveningen",
+      "latitude": 52.09901,
+      "longitude": 4.263513,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 174,
+      "name": "Meetpunt Sint Annaland",
+      "latitude": 51.603605,
+      "longitude": 4.109602,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 175,
+      "name": "Meetpunt Sint Pieter noord",
+      "latitude": 50.828508,
+      "longitude": 5.696572,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 176,
+      "name": "Meetpunt Vlissingen",
+      "latitude": 51.442902,
+      "longitude": 3.597304,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 177,
+      "name": "Meetpunt West-Terschelling",
+      "latitude": 53.362784,
+      "longitude": 5.219444,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 178,
+      "name": "Meetpunt Westkapelle",
+      "latitude": 51.521454,
+      "longitude": 3.439854,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 179,
+      "name": "Meetpunt Zandkreekdam VM",
+      "latitude": 51.542014,
+      "longitude": 3.864753,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 180,
+      "name": "Meetstation Eijsden",
+      "latitude": 50.77935,
+      "longitude": 5.699782,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 181,
+      "name": "Meetstation Hoogeveen",
+      "latitude": 52.748959,
+      "longitude": 6.572982,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 182,
+      "name": "Meetstation Marknesse",
+      "latitude": 52.701875,
+      "longitude": 5.887406,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 183,
+      "name": "Meetstation Roeleveense Plas",
+      "latitude": 52.053757,
+      "longitude": 4.418449,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 184,
+      "name": "Meetstation Rotterdam-Pleinweg",
+      "latitude": 51.891005,
+      "longitude": 4.481222,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 185,
+      "name": "Meetstation Rotterdam-Statenweg",
+      "latitude": 51.927106,
+      "longitude": 4.461346,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 186,
+      "name": "Meetstation Wilhelminadorp",
+      "latitude": 51.525981,
+      "longitude": 3.88361,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 187,
+      "name": "Meetstation van broeikasgasdynamiek",
+      "latitude": 53.00237,
+      "longitude": 6.386871,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 188,
+      "name": "Middelharnis MB",
+      "latitude": 51.776483,
+      "longitude": 4.191897,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 189,
+      "name": "Moerdijk-Julianastraat",
+      "latitude": 51.699385,
+      "longitude": 4.623592,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 190,
+      "name": "NAM-locatie Maassluis-Observatie",
+      "latitude": 51.912851,
+      "longitude": 4.259152,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 191,
+      "name": "Nachtegaallaan",
+      "latitude": 51.437731,
+      "longitude": 5.485803,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 192,
+      "name": "Nijmegen-Graafseweg",
+      "latitude": 51.841381,
+      "longitude": 5.857766,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 193,
+      "name": "Nijmegen-Ruyterstraat",
+      "latitude": 51.838236,
+      "longitude": 5.856933,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 194,
+      "name": "Noorderdam Hoek van Holland",
+      "latitude": 51.986674,
+      "longitude": 4.084127,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 195,
+      "name": "Noordwijk",
+      "latitude": 52.218753,
+      "longitude": 4.418403,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 196,
+      "name": "Oirschotsedijk",
+      "latitude": 51.459405,
+      "longitude": 5.430828,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 197,
+      "name": "Oosterschelde 11",
+      "latitude": 51.643709,
+      "longitude": 3.481475,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 198,
+      "name": "Ossendrecht-Burgemeester Voetenstraat",
+      "latitude": 51.393273,
+      "longitude": 4.320217,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 199,
+      "name": "Oude Meer-Aalsmeerderdijk",
+      "latitude": 52.279956,
+      "longitude": 4.770673,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 200,
+      "name": "Overloop van Hansweert",
+      "latitude": 51.373783,
+      "longitude": 3.918467,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 201,
+      "name": "Overschie-A13",
+      "latitude": 51.93857,
+      "longitude": 4.430701,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 202,
+      "name": "POND",
+      "latitude": 52.100204,
+      "longitude": 5.127826,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 203,
+      "name": "Pannerdense kop",
+      "latitude": 51.873373,
+      "longitude": 6.039123,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 204,
+      "name": "Philippine-Stelleweg",
+      "latitude": 51.294466,
+      "longitude": 3.749412,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 205,
+      "name": "Plaat van Oude Tonge",
+      "latitude": 51.672428,
+      "longitude": 4.139122,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 206,
+      "name": "Posterholt-Vlodropperweg",
+      "latitude": 51.11919,
+      "longitude": 6.04241,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 207,
+      "name": "Regensensor",
+      "latitude": 52.644775,
+      "longitude": 4.739794,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 208,
+      "name": "Ridderkerk-A16",
+      "latitude": 51.869426,
+      "longitude": 4.580066,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 209,
+      "name": "Ridderkerk-Voorweg",
+      "latitude": 51.861698,
+      "longitude": 4.563756,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 210,
+      "name": "Rotterdam-Geulhaven",
+      "latitude": 51.889527,
+      "longitude": 4.312415,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 211,
+      "name": "Rotterdam-Hoogvliet",
+      "latitude": 51.867409,
+      "longitude": 4.355245,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 212,
+      "name": "Rotterdam-Vasteland",
+      "latitude": 51.912272,
+      "longitude": 4.479331,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 213,
+      "name": "Rotterdam-Zwartewaalstraat",
+      "latitude": 51.89362,
+      "longitude": 4.487586,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 214,
+      "name": "Sas van Gent",
+      "latitude": 51.230279,
+      "longitude": 3.807427,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 215,
+      "name": "Schaar van de Noord",
+      "latitude": 51.377908,
+      "longitude": 4.168444,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 216,
+      "name": "Schiedam-A.Arienstraat",
+      "latitude": 51.921389,
+      "longitude": 4.401387,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 217,
+      "name": "Schouwenbank 2 waverider",
+      "latitude": 51.75303,
+      "longitude": 3.32427,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 218,
+      "name": "Schouwenbank waverider",
+      "latitude": 51.75348,
+      "longitude": 3.32357,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 219,
+      "name": "Seismisch Station \"Heimansgroeve\"",
+      "latitude": 50.763148,
+      "longitude": 5.931015,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 220,
+      "name": "Spaarnwoude-Machineweg",
+      "latitude": 52.398575,
+      "longitude": 4.728582,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 221,
+      "name": "Strijen",
+      "latitude": 51.769771,
+      "longitude": 4.544638,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 222,
+      "name": "Strijensas Buitendijk",
+      "latitude": 51.713395,
+      "longitude": 4.585346,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 223,
+      "name": "Stroommeetpaal Eemshaven",
+      "latitude": 53.474393,
+      "longitude": 6.821723,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 224,
+      "name": "Stroommeetpaal IJgeul",
+      "latitude": 52.463734,
+      "longitude": 4.517232,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 225,
+      "name": "TESS-W",
+      "latitude": 50.858164,
+      "longitude": 5.836479,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 226,
+      "name": "TESS-W",
+      "latitude": 52.154903,
+      "longitude": 4.483792,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 227,
+      "name": "TESS-W",
+      "latitude": 52.813092,
+      "longitude": 6.396066,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 228,
+      "name": "TESS-W",
+      "latitude": 53.240022,
+      "longitude": 6.531855,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 229,
+      "name": "TU/e",
+      "latitude": 51.446337,
+      "longitude": 5.482468,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 230,
+      "name": "Tide Gauge Dukegat",
+      "latitude": 53.433602,
+      "longitude": 6.926123,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 231,
+      "name": "Tide Gauge Emder Fahrwasser",
+      "latitude": 53.326333,
+      "longitude": 7.083668,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 232,
+      "name": "Tide Gauge Knock",
+      "latitude": 53.327174,
+      "longitude": 7.030593,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 233,
+      "name": "Twente",
+      "latitude": 52.273109,
+      "longitude": 6.890981,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 234,
+      "name": "Utrecht-Constant Erzeijstraat",
+      "latitude": 52.067751,
+      "longitude": 5.120505,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 235,
+      "name": "Utrecht-Griftpark",
+      "latitude": 52.101227,
+      "longitude": 5.1282,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 236,
+      "name": "Utrecht-Kardinaal de Jongweg",
+      "latitude": 52.105057,
+      "longitude": 5.124409,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 237,
+      "name": "VLIS00NLD",
+      "latitude": 51.442875,
+      "longitude": 3.597325,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 238,
+      "name": "Valkenburg ZH",
+      "latitude": 52.171,
+      "longitude": 4.33,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 239,
+      "name": "Valthermond-Noorderdiep",
+      "latitude": 52.875745,
+      "longitude": 6.932696,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 240,
+      "name": "Veersemeer 4 Oranjeplaat",
+      "latitude": 51.516599,
+      "longitude": 3.700149,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 241,
+      "name": "Veldhoven-Europalaan",
+      "latitude": 51.407369,
+      "longitude": 5.393327,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 242,
+      "name": "Velsen-Reyndersweg",
+      "latitude": 52.478017,
+      "longitude": 4.578746,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 243,
+      "name": "Velsen-Staalstraat",
+      "latitude": 52.474424,
+      "longitude": 4.628533,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 244,
+      "name": "Vlaardingen-Riouwlaan",
+      "latitude": 51.914869,
+      "longitude": 4.329429,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 245,
+      "name": "Vlieland Vliehors",
+      "latitude": 53.240089,
+      "longitude": 4.920751,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 246,
+      "name": "Vlissingen",
+      "latitude": 51.441268,
+      "longitude": 3.595903,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 247,
+      "name": "Volkerak Galathea",
+      "latitude": 51.652893,
+      "longitude": 4.316465,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 248,
+      "name": "Vredepeel-Vredeweg",
+      "latitude": 51.540482,
+      "longitude": 5.853064,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 249,
+      "name": "WSRA00NLD",
+      "latitude": 52.914608,
+      "longitude": 6.604503,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 250,
+      "name": "Weerstation Arcen",
+      "latitude": 51.501077,
+      "longitude": 6.194196,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 251,
+      "name": "Weerstation Parkstad",
+      "latitude": 50.868781,
+      "longitude": 6.025739,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 252,
+      "name": "Westdorpe",
+      "latitude": 51.22492,
+      "longitude": 3.861473,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 253,
+      "name": "Westerbork Synthesis Radio Telescope",
+      "latitude": 52.914765,
+      "longitude": 6.603743,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 254,
+      "name": "Westmaas-Groeneweg",
+      "latitude": 51.786594,
+      "longitude": 4.450477,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 255,
+      "name": "Wielingen Noord",
+      "latitude": 51.427247,
+      "longitude": 3.412002,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 256,
+      "name": "Wieringerwerf-Medemblikkerweg",
+      "latitude": 52.803422,
+      "longitude": 5.048969,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 257,
+      "name": "Wijdenes",
+      "latitude": 52.632434,
+      "longitude": 5.173466,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 258,
+      "name": "Wijk aan Zee-De Banjaert",
+      "latitude": 52.493985,
+      "longitude": 4.602396,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 259,
+      "name": "Wijnandsrade-Opfergeltstraat",
+      "latitude": 50.902325,
+      "longitude": 5.881687,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 260,
+      "name": "Woensdrecht",
+      "latitude": 51.447722,
+      "longitude": 4.341945,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 261,
+      "name": "Zaandam-Wagenschotpad",
+      "latitude": 52.448011,
+      "longitude": 4.816705,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 262,
+      "name": "Zaanstad-Hemkade",
+      "latitude": 52.420243,
+      "longitude": 4.832051,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 263,
+      "name": "Zaanstad-Hoogtij",
+      "latitude": 52.428085,
+      "longitude": 4.773231,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 264,
+      "name": "Zeelandbrug wind",
+      "latitude": 51.628497,
+      "longitude": 3.917689,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 265,
+      "name": "Zegveld-Oude Meije",
+      "latitude": 52.137945,
+      "longitude": 4.838146,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 266,
+      "name": "Zevenbergen-Galgenweg",
+      "latitude": 51.652771,
+      "longitude": 4.594473,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 267,
+      "name": "Zierikzee-Lange Slikweg",
+      "latitude": 51.634733,
+      "longitude": 3.91662,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 268,
+      "name": "Zwin",
+      "latitude": 51.371868,
+      "longitude": 3.358769,
+      "osm_klasse": "man_made=monitoring_station"
+    },
+    {
+      "id": 269,
+      "name": "meetstation luchtkwaliteit De Zilk-Vogelaarsdreef",
+      "latitude": 52.296527,
+      "longitude": 4.510789,
+      "osm_klasse": "man_made=monitoring_station"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: monitoring station (man_made=monitoring_station) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged man_made=monitoring_station in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 269 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: monitoring station (man_made=monitoring_station) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: monitoring station (man_made=monitoring_station) — 269 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 269 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

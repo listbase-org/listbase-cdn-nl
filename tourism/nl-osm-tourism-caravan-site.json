@@ -1,0 +1,3033 @@
+{
+  "id": "nl-osm-tourism-caravan-site",
+  "name": "Netherlands OSM: caravan site (tourism=caravan_site)",
+  "title": "Netherlands OSM: caravan site (tourism=caravan_site)",
+  "description": "Named OpenStreetMap features tagged tourism=caravan_site in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 426,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Crumpse hoekje",
+      "latitude": 51.856215,
+      "longitude": 6.030932,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 2,
+      "name": "Aan het Dorp",
+      "latitude": 52.017517,
+      "longitude": 5.242939,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 3,
+      "name": "Aantjes-Blokhuis",
+      "latitude": 52.00196,
+      "longitude": 4.788726,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 4,
+      "name": "Afslag Nagele",
+      "latitude": 52.650686,
+      "longitude": 5.686605,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 5,
+      "name": "Alphen aan den Rijn - Oudshoorn",
+      "latitude": 52.151008,
+      "longitude": 4.70398,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 6,
+      "name": "An de bèke",
+      "latitude": 52.162218,
+      "longitude": 6.035122,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 7,
+      "name": "Aquacamping De Rakken",
+      "latitude": 52.947975,
+      "longitude": 5.626962,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 8,
+      "name": "Belevenis Boerderij",
+      "latitude": 51.935946,
+      "longitude": 6.788598,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 9,
+      "name": "Bergen op Zoom De Boulevard",
+      "latitude": 51.484006,
+      "longitude": 4.279505,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 10,
+      "name": "Bergen op Zoom De Boulevard Noord",
+      "latitude": 51.487169,
+      "longitude": 4.277054,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 11,
+      "name": "Beverplaats 't Mun",
+      "latitude": 51.842999,
+      "longitude": 5.562493,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 12,
+      "name": "Bij Boer Jos",
+      "latitude": 51.61043,
+      "longitude": 5.358933,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 13,
+      "name": "Blij Venneke Campercamping",
+      "latitude": 51.361149,
+      "longitude": 5.285281,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 14,
+      "name": "Boerderijhuisje22",
+      "latitude": 53.054737,
+      "longitude": 5.656472,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 15,
+      "name": "Boerhaaveplaats",
+      "latitude": 52.169044,
+      "longitude": 4.482172,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 16,
+      "name": "Bolhaven",
+      "latitude": 52.334305,
+      "longitude": 5.551728,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 17,
+      "name": "Borg Ewsum",
+      "latitude": 53.350977,
+      "longitude": 6.648105,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 18,
+      "name": "CP de Garve",
+      "latitude": 52.048716,
+      "longitude": 6.409023,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 19,
+      "name": "Camerplaats Spoordok",
+      "latitude": 52.926998,
+      "longitude": 7.014166,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 20,
+      "name": "Camp & Surf Markermeer",
+      "latitude": 52.526392,
+      "longitude": 5.425534,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 21,
+      "name": "Camper Eiland Farm ERF-1",
+      "latitude": 52.592879,
+      "longitude": 5.957979,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 22,
+      "name": "Camper Park Jachthaven Biesbosch",
+      "latitude": 51.707541,
+      "longitude": 4.812767,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 23,
+      "name": "Camper erf \"De Holtsehoek\" Balgoy",
+      "latitude": 51.789999,
+      "longitude": 5.717102,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 24,
+      "name": "CamperParkingHasselt",
+      "latitude": 52.588402,
+      "longitude": 6.09355,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 25,
+      "name": "Campercamping Borgerswold",
+      "latitude": 53.106038,
+      "longitude": 6.851131,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 26,
+      "name": "Campererf De Beetse",
+      "latitude": 52.929935,
+      "longitude": 7.081462,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 27,
+      "name": "Campererf Farm Nescio",
+      "latitude": 51.857176,
+      "longitude": 4.75296,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 28,
+      "name": "Campererf de Feijter",
+      "latitude": 51.319774,
+      "longitude": 3.936179,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 29,
+      "name": "Camperlocatie No Limit Ships",
+      "latitude": 53.215676,
+      "longitude": 6.596138,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 30,
+      "name": "Camperlocatie Oosteind",
+      "latitude": 51.646386,
+      "longitude": 4.884501,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 31,
+      "name": "Camperparc Stee in Lhee",
+      "latitude": 52.828575,
+      "longitude": 6.390109,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 32,
+      "name": "Camperpark 't Dockumer Grootdiep",
+      "latitude": 53.325422,
+      "longitude": 6.027472,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 33,
+      "name": "Camperpark 't Dommelholt",
+      "latitude": 52.107261,
+      "longitude": 6.522067,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 34,
+      "name": "Camperpark 't Schaartven",
+      "latitude": 51.575318,
+      "longitude": 5.975085,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 35,
+      "name": "Camperpark 't Veerse Meer",
+      "latitude": 51.540994,
+      "longitude": 3.808,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 36,
+      "name": "Camperpark - Jachthaven 't Eiland",
+      "latitude": 51.989471,
+      "longitude": 6.051465,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 37,
+      "name": "Camperpark Achterhoek - Den Blanken",
+      "latitude": 52.181274,
+      "longitude": 6.585774,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 38,
+      "name": "Camperpark De Berkenweide",
+      "latitude": 52.699036,
+      "longitude": 6.926139,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 39,
+      "name": "Camperpark De Grijze Duif",
+      "latitude": 52.866323,
+      "longitude": 7.002749,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 40,
+      "name": "Camperpark De Kraanvogel",
+      "latitude": 52.776238,
+      "longitude": 6.417508,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 41,
+      "name": "Camperpark De Steenanjer",
+      "latitude": 52.517319,
+      "longitude": 6.417763,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 42,
+      "name": "Camperpark Diepenheim",
+      "latitude": 52.18316,
+      "longitude": 6.578309,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 43,
+      "name": "Camperpark Hellendoorn",
+      "latitude": 52.415515,
+      "longitude": 6.432836,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 44,
+      "name": "Camperpark Het Lageveld",
+      "latitude": 52.381596,
+      "longitude": 6.58632,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 45,
+      "name": "Camperpark Hof van Grolloo",
+      "latitude": 52.940343,
+      "longitude": 6.654756,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 46,
+      "name": "Camperpark Kinderdijk",
+      "latitude": 51.858472,
+      "longitude": 4.677153,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 47,
+      "name": "Camperpark Landgoed Het Meenen",
+      "latitude": 52.436485,
+      "longitude": 6.794093,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 48,
+      "name": "Camperpark Lingewaard",
+      "latitude": 51.885369,
+      "longitude": 5.949962,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 49,
+      "name": "Camperpark Marina Port Zélande",
+      "latitude": 51.758561,
+      "longitude": 3.852925,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 50,
+      "name": "Camperpark Midas",
+      "latitude": 52.286856,
+      "longitude": 6.532842,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 51,
+      "name": "Camperpark N205",
+      "latitude": 52.343364,
+      "longitude": 4.683029,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 52,
+      "name": "Camperpark Turfstee",
+      "latitude": 53.11089,
+      "longitude": 7.029152,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 53,
+      "name": "Camperpark Urk",
+      "latitude": 52.679333,
+      "longitude": 5.609106,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 54,
+      "name": "Camperpark Zeeland",
+      "latitude": 51.57439,
+      "longitude": 3.653494,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 55,
+      "name": "Camperpark Zwarte Haan",
+      "latitude": 53.309158,
+      "longitude": 5.630478,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 56,
+      "name": "Camperparkeerplaats Hansweert",
+      "latitude": 51.444418,
+      "longitude": 4.00679,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 57,
+      "name": "Camperparkeren Boulevard Barnaart - Zandvoort",
+      "latitude": 52.387193,
+      "longitude": 4.534481,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 58,
+      "name": "Camperplaats \"De Bronkhorst\"",
+      "latitude": 51.761268,
+      "longitude": 5.712776,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 59,
+      "name": "Camperplaats \"Oer de Wjuk\"",
+      "latitude": 53.384207,
+      "longitude": 5.962569,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 60,
+      "name": "Camperplaats & Jachthaven Suwâld",
+      "latitude": 53.171209,
+      "longitude": 5.933328,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 61,
+      "name": "Camperplaats 't Eiland",
+      "latitude": 51.225733,
+      "longitude": 3.802719,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 62,
+      "name": "Camperplaats 't Haarlerveld",
+      "latitude": 52.360164,
+      "longitude": 6.35416,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 63,
+      "name": "Camperplaats 't Noorden Aalten",
+      "latitude": 51.933351,
+      "longitude": 6.58189,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 64,
+      "name": "Camperplaats 't Rooth",
+      "latitude": 51.368195,
+      "longitude": 6.08315,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 65,
+      "name": "Camperplaats 't Zonnetje",
+      "latitude": 51.525842,
+      "longitude": 4.556801,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 66,
+      "name": "Camperplaats 't groentje",
+      "latitude": 52.791554,
+      "longitude": 4.900374,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 67,
+      "name": "Camperplaats - Jachthaven De Vrijheid in Warns",
+      "latitude": 52.883864,
+      "longitude": 5.401638,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 68,
+      "name": "Camperplaats Achter 't Veer",
+      "latitude": 51.884546,
+      "longitude": 5.284989,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 69,
+      "name": "Camperplaats Allee",
+      "latitude": 52.570527,
+      "longitude": 6.259895,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 70,
+      "name": "Camperplaats Anselberg",
+      "latitude": 51.323652,
+      "longitude": 5.815306,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 71,
+      "name": "Camperplaats Appelscha",
+      "latitude": 52.955104,
+      "longitude": 6.337096,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 72,
+      "name": "Camperplaats Begijntje",
+      "latitude": 51.493232,
+      "longitude": 4.665983,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 73,
+      "name": "Camperplaats Bemmel",
+      "latitude": 51.889549,
+      "longitude": 5.909913,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 74,
+      "name": "Camperplaats Berlicum",
+      "latitude": 51.695735,
+      "longitude": 5.390955,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 75,
+      "name": "Camperplaats Bij Frans",
+      "latitude": 52.110652,
+      "longitude": 5.509368,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 76,
+      "name": "Camperplaats Blauwestad",
+      "latitude": 53.165057,
+      "longitude": 7.038734,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 77,
+      "name": "Camperplaats Bleiswijk",
+      "latitude": 52.014091,
+      "longitude": 4.534195,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 78,
+      "name": "Camperplaats Bloemenveld",
+      "latitude": 53.11861,
+      "longitude": 6.284628,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 79,
+      "name": "Camperplaats Bol-Varik",
+      "latitude": 51.82566,
+      "longitude": 5.379683,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 80,
+      "name": "Camperplaats Bookholtlaan",
+      "latitude": 52.269405,
+      "longitude": 7.01388,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 81,
+      "name": "Camperplaats Bos & Heide",
+      "latitude": 51.589595,
+      "longitude": 6.073031,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 82,
+      "name": "Camperplaats Budel",
+      "latitude": 51.262235,
+      "longitude": 5.590457,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 83,
+      "name": "Camperplaats Centrum Almelo",
+      "latitude": 52.358789,
+      "longitude": 6.65536,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 84,
+      "name": "Camperplaats De Beersteeg",
+      "latitude": 51.810663,
+      "longitude": 5.239936,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 85,
+      "name": "Camperplaats De Bosweide",
+      "latitude": 52.372096,
+      "longitude": 6.412597,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 86,
+      "name": "Camperplaats De Brandkoele",
+      "latitude": 52.267513,
+      "longitude": 6.2481,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 87,
+      "name": "Camperplaats De Diepen",
+      "latitude": 51.738328,
+      "longitude": 5.956913,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 88,
+      "name": "Camperplaats De Doornekamp",
+      "latitude": 52.347796,
+      "longitude": 5.66822,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 89,
+      "name": "Camperplaats De Flint",
+      "latitude": 52.973243,
+      "longitude": 6.346991,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 90,
+      "name": "Camperplaats De Geneugten",
+      "latitude": 51.583893,
+      "longitude": 5.483078,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 91,
+      "name": "Camperplaats De Grienterij",
+      "latitude": 53.36458,
+      "longitude": 6.052643,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 92,
+      "name": "Camperplaats De Guldenroede",
+      "latitude": 52.273021,
+      "longitude": 4.480387,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 93,
+      "name": "Camperplaats De Hoge Valk",
+      "latitude": 52.129344,
+      "longitude": 5.651236,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 94,
+      "name": "Camperplaats De Kleine Geest",
+      "latitude": 51.740848,
+      "longitude": 5.803943,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 95,
+      "name": "Camperplaats De Lijte",
+      "latitude": 53.1638,
+      "longitude": 6.578384,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 96,
+      "name": "Camperplaats De Oude Hoeven",
+      "latitude": 51.409236,
+      "longitude": 5.906021,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 97,
+      "name": "Camperplaats De Pol",
+      "latitude": 52.076545,
+      "longitude": 5.469711,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 98,
+      "name": "Camperplaats De Pothaar",
+      "latitude": 52.254875,
+      "longitude": 6.373933,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 99,
+      "name": "Camperplaats De Ruitenborgh",
+      "latitude": 52.512094,
+      "longitude": 6.233217,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 100,
+      "name": "Camperplaats De Scheve Schoffel",
+      "latitude": 52.087884,
+      "longitude": 4.666637,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 101,
+      "name": "Camperplaats De Zandberg",
+      "latitude": 51.457009,
+      "longitude": 5.999944,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 102,
+      "name": "Camperplaats De Zwaan",
+      "latitude": 52.37971,
+      "longitude": 5.753121,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 103,
+      "name": "Camperplaats Diekmanstadion",
+      "latitude": 52.205449,
+      "longitude": 6.901092,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 104,
+      "name": "Camperplaats Drachten Parkhaven",
+      "latitude": 53.104326,
+      "longitude": 6.081283,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 105,
+      "name": "Camperplaats Drijfveer",
+      "latitude": 53.049233,
+      "longitude": 5.825194,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 106,
+      "name": "Camperplaats EDS-plein - Coevorden",
+      "latitude": 52.661354,
+      "longitude": 6.733207,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 107,
+      "name": "Camperplaats Eemsdijk",
+      "latitude": 53.337106,
+      "longitude": 6.924256,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 108,
+      "name": "Camperplaats Eerder Achterbroek",
+      "latitude": 52.474121,
+      "longitude": 6.491152,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 109,
+      "name": "Camperplaats Emmadorp",
+      "latitude": 51.327722,
+      "longitude": 4.150182,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 110,
+      "name": "Camperplaats Emmeloord",
+      "latitude": 52.740146,
+      "longitude": 5.772069,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 111,
+      "name": "Camperplaats Eulerhook",
+      "latitude": 52.246295,
+      "longitude": 6.754892,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 112,
+      "name": "Camperplaats Ezumazijl",
+      "latitude": 53.35919,
+      "longitude": 6.147033,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 113,
+      "name": "Camperplaats Farmsumerweg",
+      "latitude": 53.321334,
+      "longitude": 6.867746,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 114,
+      "name": "Camperplaats Fiverkant",
+      "latitude": 53.121966,
+      "longitude": 5.999121,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 115,
+      "name": "Camperplaats Giethmen",
+      "latitude": 52.493172,
+      "longitude": 6.394031,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 116,
+      "name": "Camperplaats Grondsel",
+      "latitude": 52.801158,
+      "longitude": 6.489386,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 117,
+      "name": "Camperplaats Haamstede",
+      "latitude": 52.728122,
+      "longitude": 6.075909,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 118,
+      "name": "Camperplaats Hancate",
+      "latitude": 52.434087,
+      "longitude": 6.440924,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 119,
+      "name": "Camperplaats Havenfort Hulst",
+      "latitude": 51.277547,
+      "longitude": 4.049132,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 120,
+      "name": "Camperplaats Helmond - Beatrixlaan",
+      "latitude": 51.481145,
+      "longitude": 5.648282,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 121,
+      "name": "Camperplaats Hengelo (gld)",
+      "latitude": 52.044407,
+      "longitude": 6.303545,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 122,
+      "name": "Camperplaats Het Hoge Boekel",
+      "latitude": 52.24511,
+      "longitude": 6.938071,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 123,
+      "name": "Camperplaats Het Lierderholt",
+      "latitude": 52.132985,
+      "longitude": 5.944077,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 124,
+      "name": "Camperplaats Het Witteven",
+      "latitude": 52.4175,
+      "longitude": 6.691054,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 125,
+      "name": "Camperplaats Heteren",
+      "latitude": 51.954515,
+      "longitude": 5.730617,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 126,
+      "name": "Camperplaats Heusden",
+      "latitude": 51.738272,
+      "longitude": 5.140924,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 127,
+      "name": "Camperplaats Hoeve Konstance",
+      "latitude": 51.300683,
+      "longitude": 4.019254,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 128,
+      "name": "Camperplaats Hoeve Noordveld",
+      "latitude": 53.302597,
+      "longitude": 5.712691,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 129,
+      "name": "Camperplaats Houtwal Zutphen",
+      "latitude": 52.136898,
+      "longitude": 6.19884,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 130,
+      "name": "Camperplaats Hunebed Highway",
+      "latitude": 52.787401,
+      "longitude": 6.886952,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 131,
+      "name": "Camperplaats IJlst",
+      "latitude": 53.008498,
+      "longitude": 5.627248,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 132,
+      "name": "Camperplaats Ittervoort",
+      "latitude": 51.176552,
+      "longitude": 5.821678,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 133,
+      "name": "Camperplaats Jachthaven 't Leuken",
+      "latitude": 51.572705,
+      "longitude": 6.071054,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 134,
+      "name": "Camperplaats Jachthaven Strijensas",
+      "latitude": 51.715702,
+      "longitude": 4.589577,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 135,
+      "name": "Camperplaats Jachthaven WSV “Bergumermeer”",
+      "latitude": 53.187109,
+      "longitude": 5.993284,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 136,
+      "name": "Camperplaats Jachthaven de Molenwaard",
+      "latitude": 52.593807,
+      "longitude": 6.087674,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 137,
+      "name": "Camperplaats Jelsum",
+      "latitude": 53.232019,
+      "longitude": 5.819564,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 138,
+      "name": "Camperplaats Kale Duinen",
+      "latitude": 52.943421,
+      "longitude": 6.272896,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 139,
+      "name": "Camperplaats Kalkovens Gorredijk",
+      "latitude": 53.005276,
+      "longitude": 6.057402,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 140,
+      "name": "Camperplaats Kampen",
+      "latitude": 52.552809,
+      "longitude": 5.913078,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 141,
+      "name": "Camperplaats Kasteel Erenstein",
+      "latitude": 50.870902,
+      "longitude": 6.053478,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 142,
+      "name": "Camperplaats Kessel",
+      "latitude": 51.29846,
+      "longitude": 6.04962,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 143,
+      "name": "Camperplaats Kiesterzijl",
+      "latitude": 53.180926,
+      "longitude": 5.503088,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 144,
+      "name": "Camperplaats Klaase Bos",
+      "latitude": 52.18771,
+      "longitude": 4.810208,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 145,
+      "name": "Camperplaats Koningin Emmaboulevard",
+      "latitude": 51.978277,
+      "longitude": 4.120715,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 146,
+      "name": "Camperplaats Krammersluizen, Bruinisse",
+      "latitude": 51.659475,
+      "longitude": 4.163378,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 147,
+      "name": "Camperplaats Landgoed de Stekkenkamp",
+      "latitude": 52.510846,
+      "longitude": 6.439186,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 148,
+      "name": "Camperplaats Landgraaf",
+      "latitude": 50.872315,
+      "longitude": 6.022517,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 149,
+      "name": "Camperplaats Landlust",
+      "latitude": 52.060197,
+      "longitude": 6.187601,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 150,
+      "name": "Camperplaats Langs de Esch",
+      "latitude": 52.620201,
+      "longitude": 6.60446,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 151,
+      "name": "Camperplaats Leenderstrijp",
+      "latitude": 51.327751,
+      "longitude": 5.55636,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 152,
+      "name": "Camperplaats Leeuwarden",
+      "latitude": 53.184702,
+      "longitude": 5.837015,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 153,
+      "name": "Camperplaats Leeuwarder Jachthaven",
+      "latitude": 53.198957,
+      "longitude": 5.829734,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 154,
+      "name": "Camperplaats Lekkum",
+      "latitude": 53.223732,
+      "longitude": 5.816557,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 155,
+      "name": "Camperplaats Loevestein",
+      "latitude": 51.814377,
+      "longitude": 5.027471,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 156,
+      "name": "Camperplaats Lookerland Holten",
+      "latitude": 52.285353,
+      "longitude": 6.437674,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 157,
+      "name": "Camperplaats Loosterstee",
+      "latitude": 53.092022,
+      "longitude": 7.145272,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 158,
+      "name": "Camperplaats Maarheeze",
+      "latitude": 51.321065,
+      "longitude": 5.636815,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 159,
+      "name": "Camperplaats Maastricht",
+      "latitude": 50.874774,
+      "longitude": 5.681099,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 160,
+      "name": "Camperplaats Malden",
+      "latitude": 51.794103,
+      "longitude": 5.841311,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 161,
+      "name": "Camperplaats Marleseveld",
+      "latitude": 52.399585,
+      "longitude": 6.508592,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 162,
+      "name": "Camperplaats Marnic Hoeve",
+      "latitude": 52.788056,
+      "longitude": 4.919497,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 163,
+      "name": "Camperplaats Martinushof Gennep",
+      "latitude": 51.699998,
+      "longitude": 5.973974,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 164,
+      "name": "Camperplaats Mirnserheide",
+      "latitude": 52.857061,
+      "longitude": 5.465668,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 165,
+      "name": "Camperplaats Mook Starthoeve",
+      "latitude": 51.743347,
+      "longitude": 5.897487,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 166,
+      "name": "Camperplaats Nationaal Openbaar Vervoermuseum",
+      "latitude": 52.939534,
+      "longitude": 5.812524,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 167,
+      "name": "Camperplaats Negende Zaeligheyt SBP Outdoor",
+      "latitude": 51.31192,
+      "longitude": 5.265394,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 168,
+      "name": "Camperplaats Nijverheidssingel",
+      "latitude": 51.587854,
+      "longitude": 4.76359,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 169,
+      "name": "Camperplaats Noord-Sleen, Drenthe",
+      "latitude": 52.794105,
+      "longitude": 6.800049,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 170,
+      "name": "Camperplaats Norgerberg",
+      "latitude": 53.073928,
+      "longitude": 6.447298,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 171,
+      "name": "Camperplaats Oan'e Slachte",
+      "latitude": 53.103478,
+      "longitude": 5.566309,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 172,
+      "name": "Camperplaats Oirschot",
+      "latitude": 51.500261,
+      "longitude": 5.325136,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 173,
+      "name": "Camperplaats Onder En Eindt",
+      "latitude": 51.325484,
+      "longitude": 6.011827,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 174,
+      "name": "Camperplaats Ons Plekske",
+      "latitude": 51.715594,
+      "longitude": 5.8464,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 175,
+      "name": "Camperplaats Ool Beernink",
+      "latitude": 52.427696,
+      "longitude": 6.999505,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 176,
+      "name": "Camperplaats Oostkade - Den Oever",
+      "latitude": 52.934364,
+      "longitude": 5.040196,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 177,
+      "name": "Camperplaats Op Streek",
+      "latitude": 53.056634,
+      "longitude": 7.054988,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 178,
+      "name": "Camperplaats Op de akkers",
+      "latitude": 52.685871,
+      "longitude": 4.783191,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 179,
+      "name": "Camperplaats Oude Landen - Nuenen",
+      "latitude": 51.463394,
+      "longitude": 5.563083,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 180,
+      "name": "Camperplaats Ouwediek",
+      "latitude": 52.263486,
+      "longitude": 5.755173,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 181,
+      "name": "Camperplaats Paal",
+      "latitude": 51.353327,
+      "longitude": 4.109311,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 182,
+      "name": "Camperplaats Parking De Wijzend - Opmeer",
+      "latitude": 52.698302,
+      "longitude": 4.942849,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 183,
+      "name": "Camperplaats Parking Nieuwleusen",
+      "latitude": 52.581428,
+      "longitude": 6.282169,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 184,
+      "name": "Camperplaats Pontdyk",
+      "latitude": 52.981568,
+      "longitude": 5.714043,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 185,
+      "name": "Camperplaats Prinses Magrietkanaal",
+      "latitude": 53.186668,
+      "longitude": 6.001609,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 186,
+      "name": "Camperplaats Putten",
+      "latitude": 52.262551,
+      "longitude": 5.607732,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 187,
+      "name": "Camperplaats Rabo Scheele",
+      "latitude": 52.326381,
+      "longitude": 6.747431,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 188,
+      "name": "Camperplaats Roerdalen",
+      "latitude": 51.136445,
+      "longitude": 5.998105,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 189,
+      "name": "Camperplaats Ruimzicht",
+      "latitude": 52.326764,
+      "longitude": 6.130429,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 190,
+      "name": "Camperplaats Schaopvolte",
+      "latitude": 52.999399,
+      "longitude": 6.725131,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 191,
+      "name": "Camperplaats Seurenheide",
+      "latitude": 51.567036,
+      "longitude": 6.078685,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 192,
+      "name": "Camperplaats Skop'nboer",
+      "latitude": 52.246709,
+      "longitude": 7.036499,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 193,
+      "name": "Camperplaats Sploder Stea",
+      "latitude": 52.31785,
+      "longitude": 6.361557,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 194,
+      "name": "Camperplaats Sporthal De Uutvlog",
+      "latitude": 52.250229,
+      "longitude": 6.299652,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 195,
+      "name": "Camperplaats Station Dalfsen",
+      "latitude": 52.499531,
+      "longitude": 6.259944,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 196,
+      "name": "Camperplaats Stompaardsedijk Bernisse",
+      "latitude": 51.821888,
+      "longitude": 4.273877,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 197,
+      "name": "Camperplaats Stoutenburght",
+      "latitude": 52.837483,
+      "longitude": 6.034181,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 198,
+      "name": "Camperplaats Tsjerk Hiddesluizen",
+      "latitude": 53.179338,
+      "longitude": 5.418113,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 199,
+      "name": "Camperplaats Turfmarkt",
+      "latitude": 52.513128,
+      "longitude": 6.104065,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 200,
+      "name": "Camperplaats Vecht & Weide",
+      "latitude": 52.286617,
+      "longitude": 5.072418,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 201,
+      "name": "Camperplaats Vechtdal",
+      "latitude": 52.59192,
+      "longitude": 6.293702,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 202,
+      "name": "Camperplaats Veerdam",
+      "latitude": 51.897112,
+      "longitude": 5.60552,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 203,
+      "name": "Camperplaats Veldwijk Woerden",
+      "latitude": 52.091368,
+      "longitude": 4.914809,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 204,
+      "name": "Camperplaats Vredehofstraat Spijkenisse",
+      "latitude": 51.847911,
+      "longitude": 4.323688,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 205,
+      "name": "Camperplaats Waterstratt - Thorn",
+      "latitude": 51.158521,
+      "longitude": 5.843897,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 206,
+      "name": "Camperplaats Weert",
+      "latitude": 51.254723,
+      "longitude": 5.692707,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 207,
+      "name": "Camperplaats Weeskinderendijk",
+      "latitude": 51.809267,
+      "longitude": 4.652915,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 208,
+      "name": "Camperplaats Wehe-den-Hoorn",
+      "latitude": 53.361799,
+      "longitude": 6.418191,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 209,
+      "name": "Camperplaats Westeinde",
+      "latitude": 52.696158,
+      "longitude": 6.180945,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 210,
+      "name": "Camperplaats Westerdijk",
+      "latitude": 53.12899,
+      "longitude": 5.934266,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 211,
+      "name": "Camperplaats Westerwijtwerd",
+      "latitude": 53.331994,
+      "longitude": 6.639045,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 212,
+      "name": "Camperplaats Wijhe",
+      "latitude": 52.38653,
+      "longitude": 6.127579,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 213,
+      "name": "Camperplaats Zelhem",
+      "latitude": 51.998605,
+      "longitude": 6.3451,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 214,
+      "name": "Camperplaats Zevenhoven",
+      "latitude": 52.195096,
+      "longitude": 4.773702,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 215,
+      "name": "Camperplaats Zuidfront Hellevoetsluis",
+      "latitude": 51.820007,
+      "longitude": 4.13013,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 216,
+      "name": "Camperplaats Zwembad Meekenesch",
+      "latitude": 51.992283,
+      "longitude": 6.56504,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 217,
+      "name": "Camperplaats Zwolsedijk",
+      "latitude": 52.563887,
+      "longitude": 6.09955,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 218,
+      "name": "Camperplaats aan de Ee",
+      "latitude": 53.317322,
+      "longitude": 5.950349,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 219,
+      "name": "Camperplaats de Appelhof",
+      "latitude": 53.110935,
+      "longitude": 5.587473,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 220,
+      "name": "Camperplaats de Boomgaard",
+      "latitude": 52.07542,
+      "longitude": 6.339062,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 221,
+      "name": "Camperplaats de Boskamer",
+      "latitude": 52.401217,
+      "longitude": 6.862113,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 222,
+      "name": "Camperplaats de Groot",
+      "latitude": 51.853522,
+      "longitude": 4.92156,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 223,
+      "name": "Camperplaats de Hanze",
+      "latitude": 52.530844,
+      "longitude": 6.074429,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 224,
+      "name": "Camperplaats de Hoop",
+      "latitude": 52.835766,
+      "longitude": 4.748986,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 225,
+      "name": "Camperplaats de Kersenpit",
+      "latitude": 52.034671,
+      "longitude": 5.240651,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 226,
+      "name": "Camperplaats de Paasberg Silvolde",
+      "latitude": 51.915984,
+      "longitude": 6.372137,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 227,
+      "name": "Camperplaats de Tulpentuin",
+      "latitude": 52.856211,
+      "longitude": 5.010277,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 228,
+      "name": "Camperplaats en melkveebedrijf De Grote Leigraaf",
+      "latitude": 52.18863,
+      "longitude": 6.045992,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 229,
+      "name": "Camperplaats het Bolwerk Purmerend",
+      "latitude": 52.506735,
+      "longitude": 4.950334,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 230,
+      "name": "Camperplaats jachthaven Earnewâld",
+      "latitude": 53.129609,
+      "longitude": 5.936126,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 231,
+      "name": "Camperplaats lage Nieuwe Kade",
+      "latitude": 51.973398,
+      "longitude": 5.915867,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 232,
+      "name": "Camperplaats op het eind",
+      "latitude": 53.054199,
+      "longitude": 6.177518,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 233,
+      "name": "Camperplaats van Huizen",
+      "latitude": 52.308756,
+      "longitude": 5.239599,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 234,
+      "name": "Camperplaats “Nij Beets”",
+      "latitude": 53.071614,
+      "longitude": 5.969676,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 235,
+      "name": "Camperplaatsen Beijenwaard Spijk",
+      "latitude": 51.847354,
+      "longitude": 6.146141,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 236,
+      "name": "Camperplaatsen Borgerswoldhoeve",
+      "latitude": 53.106227,
+      "longitude": 6.847463,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 237,
+      "name": "Camperplaatsen Eemhaven",
+      "latitude": 52.162089,
+      "longitude": 5.378352,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 238,
+      "name": "Camperplaatsen Haven Maassluis",
+      "latitude": 51.916294,
+      "longitude": 4.245293,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 239,
+      "name": "Camperplaatsen Insteekhaven",
+      "latitude": 52.167771,
+      "longitude": 5.364652,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 240,
+      "name": "Camperplaatsen Recreatiehaven Broekhorn",
+      "latitude": 52.6727,
+      "longitude": 4.815155,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 241,
+      "name": "Camperplaatsen Scheer's Hoeve",
+      "latitude": 52.423766,
+      "longitude": 6.087052,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 242,
+      "name": "Camperplaatsen Veerpont",
+      "latitude": 51.914686,
+      "longitude": 4.250572,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 243,
+      "name": "Camperplaatsen Waalkade Tiel",
+      "latitude": 51.885542,
+      "longitude": 5.442325,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 244,
+      "name": "Camperplaatsen Winschoten",
+      "latitude": 53.143955,
+      "longitude": 7.049758,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 245,
+      "name": "Camperplaatsen aan de Vecht",
+      "latitude": 52.596148,
+      "longitude": 6.655177,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 246,
+      "name": "Camperplaatsen ‌ Pekelharinghaven - Medemblik",
+      "latitude": 52.771608,
+      "longitude": 5.113538,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 247,
+      "name": "Camperplats Old Inn-Bar & Kitchen",
+      "latitude": 51.68931,
+      "longitude": 6.007362,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 248,
+      "name": "Camperplek Duurswoldje",
+      "latitude": 53.200261,
+      "longitude": 6.790398,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 249,
+      "name": "Camperplek Johanneshoeve",
+      "latitude": 52.450621,
+      "longitude": 6.644649,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 250,
+      "name": "Camperplek Stal Vonk",
+      "latitude": 51.834394,
+      "longitude": 4.863084,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 251,
+      "name": "Camperpolaats Wster Pama",
+      "latitude": 53.292162,
+      "longitude": 6.334967,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 252,
+      "name": "Camperresort Bodelaeke",
+      "latitude": 52.715746,
+      "longitude": 6.074552,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 253,
+      "name": "Camperstandplaats De Nieuwe Hateboer, Sittard",
+      "latitude": 51.008437,
+      "longitude": 5.881226,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 254,
+      "name": "Camperstandplaats Hongerlandsedijk",
+      "latitude": 51.854667,
+      "longitude": 4.34073,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 255,
+      "name": "Camping Caravanpark De Duinrand",
+      "latitude": 52.390324,
+      "longitude": 4.539272,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 256,
+      "name": "Camping De Ooster Nollen",
+      "latitude": 52.833085,
+      "longitude": 4.718284,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 257,
+      "name": "Camping Duin En Strand",
+      "latitude": 51.734681,
+      "longitude": 3.826769,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 258,
+      "name": "Camping Molenzicht",
+      "latitude": 52.265835,
+      "longitude": 4.521501,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 259,
+      "name": "Camping Nieuwboer",
+      "latitude": 52.262029,
+      "longitude": 5.372554,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 260,
+      "name": "Camping Olmenveld",
+      "latitude": 51.544075,
+      "longitude": 3.608611,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 261,
+      "name": "Camping Starnbosch",
+      "latitude": 52.474986,
+      "longitude": 6.263183,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 262,
+      "name": "Camping Steengoed",
+      "latitude": 51.862198,
+      "longitude": 6.078993,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 263,
+      "name": "Camping Wouwse Plantage",
+      "latitude": 51.483977,
+      "longitude": 4.398021,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 264,
+      "name": "Camping Yn'e Lijte Camperplaats",
+      "latitude": 53.101695,
+      "longitude": 5.84453,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 265,
+      "name": "Camping de Peelpoort",
+      "latitude": 51.362628,
+      "longitude": 5.769466,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 266,
+      "name": "Caravanpark de Voormolen",
+      "latitude": 52.03444,
+      "longitude": 5.031835,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 267,
+      "name": "Carpoolplaats de Wilg",
+      "latitude": 51.521263,
+      "longitude": 5.394105,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 268,
+      "name": "De Bentelose Esch",
+      "latitude": 52.212051,
+      "longitude": 6.670084,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 269,
+      "name": "De Bloesem",
+      "latitude": 51.413347,
+      "longitude": 3.8259,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 270,
+      "name": "De Bonenstee",
+      "latitude": 52.679179,
+      "longitude": 6.612158,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 271,
+      "name": "De Boswesels",
+      "latitude": 51.392948,
+      "longitude": 6.200032,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 272,
+      "name": "De Bronckhorst",
+      "latitude": 52.014595,
+      "longitude": 6.357347,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 273,
+      "name": "De Driesprong Yachtcenter Mini-camping",
+      "latitude": 52.862371,
+      "longitude": 5.853973,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 274,
+      "name": "De Grashaven",
+      "latitude": 52.633767,
+      "longitude": 5.05791,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 275,
+      "name": "De Groene Hoek",
+      "latitude": 52.123432,
+      "longitude": 5.638303,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 276,
+      "name": "De Heemse Weide",
+      "latitude": 52.387659,
+      "longitude": 6.293739,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 277,
+      "name": "De Heicohoeve",
+      "latitude": 52.117272,
+      "longitude": 6.227575,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 278,
+      "name": "De Huurne",
+      "latitude": 52.350461,
+      "longitude": 6.573273,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 279,
+      "name": "De Kleine Molenpolder",
+      "latitude": 53.191373,
+      "longitude": 6.272461,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 280,
+      "name": "De Krententerp",
+      "latitude": 52.661622,
+      "longitude": 6.429826,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 281,
+      "name": "De Lits",
+      "latitude": 53.175759,
+      "longitude": 6.054456,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 282,
+      "name": "De Lytse Brekken",
+      "latitude": 52.896796,
+      "longitude": 5.70251,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 283,
+      "name": "De Neul",
+      "latitude": 51.567246,
+      "longitude": 5.457732,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 284,
+      "name": "De Nijenhaer",
+      "latitude": 52.344506,
+      "longitude": 6.992714,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 285,
+      "name": "De Oude Vos Elburg",
+      "latitude": 52.449124,
+      "longitude": 5.827786,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 286,
+      "name": "De Pauw",
+      "latitude": 52.831758,
+      "longitude": 4.836763,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 287,
+      "name": "De Plantage",
+      "latitude": 51.469306,
+      "longitude": 4.043874,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 288,
+      "name": "De Punt",
+      "latitude": 51.826836,
+      "longitude": 4.96485,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 289,
+      "name": "De Schaopswei",
+      "latitude": 51.6001,
+      "longitude": 5.894235,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 290,
+      "name": "De Schelp",
+      "latitude": 51.550711,
+      "longitude": 3.466489,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 291,
+      "name": "De Spekberg",
+      "latitude": 51.365406,
+      "longitude": 6.104194,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 292,
+      "name": "De Spekdonken",
+      "latitude": 51.440056,
+      "longitude": 5.279959,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 293,
+      "name": "De Turfvaart",
+      "latitude": 51.594745,
+      "longitude": 4.65474,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 294,
+      "name": "De Vlaschaard",
+      "latitude": 51.486021,
+      "longitude": 3.586303,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 295,
+      "name": "De Vlinder",
+      "latitude": 52.041324,
+      "longitude": 6.280957,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 296,
+      "name": "De Vlisterhoeve",
+      "latitude": 51.961672,
+      "longitude": 4.84537,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 297,
+      "name": "De Vlugtheuvel Camperplein",
+      "latitude": 51.80028,
+      "longitude": 4.032639,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 298,
+      "name": "De Vrolijke Molen",
+      "latitude": 51.727788,
+      "longitude": 3.828976,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 299,
+      "name": "De Weitens",
+      "latitude": 51.342457,
+      "longitude": 5.426384,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 300,
+      "name": "De Woerdt",
+      "latitude": 51.888857,
+      "longitude": 5.874813,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 301,
+      "name": "De Zandweg",
+      "latitude": 51.656894,
+      "longitude": 3.911674,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 302,
+      "name": "Decemberhoeve",
+      "latitude": 52.28827,
+      "longitude": 4.625662,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 303,
+      "name": "Doelenplein",
+      "latitude": 51.919633,
+      "longitude": 4.400984,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 304,
+      "name": "Driewegsluis",
+      "latitude": 52.836232,
+      "longitude": 5.934893,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 305,
+      "name": "Drive-in Camperpark Ouddorp aan Zee",
+      "latitude": 51.817687,
+      "longitude": 3.8978,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 306,
+      "name": "Droomparken Enkhuizer Strand",
+      "latitude": 52.717257,
+      "longitude": 5.287523,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 307,
+      "name": "Erve Kievit",
+      "latitude": 52.178453,
+      "longitude": 6.758716,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 308,
+      "name": "Erve Raewyck",
+      "latitude": 52.566825,
+      "longitude": 6.73921,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 309,
+      "name": "Erve Roos",
+      "latitude": 52.061117,
+      "longitude": 6.573468,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 310,
+      "name": "Eurocamping Vessem",
+      "latitude": 51.413179,
+      "longitude": 5.27514,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 311,
+      "name": "Europakade Tolkamer",
+      "latitude": 51.851371,
+      "longitude": 6.098909,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 312,
+      "name": "Fort Everdingen",
+      "latitude": 51.962846,
+      "longitude": 5.177354,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 313,
+      "name": "Gasterij de Waldwei",
+      "latitude": 53.167144,
+      "longitude": 5.836975,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 314,
+      "name": "Graauw",
+      "latitude": 51.325285,
+      "longitude": 4.104182,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 315,
+      "name": "Groot Westerveld",
+      "latitude": 52.16783,
+      "longitude": 5.532414,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 316,
+      "name": "Hammiehoeve",
+      "latitude": 52.224448,
+      "longitude": 6.930202,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 317,
+      "name": "Haven Hunzegat",
+      "latitude": 53.341156,
+      "longitude": 6.296037,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 318,
+      "name": "Havendienst Urk",
+      "latitude": 52.660037,
+      "longitude": 5.599461,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 319,
+      "name": "Heegerwal",
+      "latitude": 52.965278,
+      "longitude": 5.604751,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 320,
+      "name": "Helenawerf Watersport",
+      "latitude": 51.192723,
+      "longitude": 5.979003,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 321,
+      "name": "Hemisfeer – Nachttuin Westhoek",
+      "latitude": 53.272196,
+      "longitude": 5.557593,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 322,
+      "name": "Het Beekdal",
+      "latitude": 51.517454,
+      "longitude": 4.376649,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 323,
+      "name": "Het Groene Hart",
+      "latitude": 52.225518,
+      "longitude": 4.620133,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 324,
+      "name": "Het knooppunt",
+      "latitude": 53.149559,
+      "longitude": 6.310066,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 325,
+      "name": "Het wapen van Delden",
+      "latitude": 52.259948,
+      "longitude": 6.682402,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 326,
+      "name": "Hoeve Batenburg",
+      "latitude": 51.729859,
+      "longitude": 3.808146,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 327,
+      "name": "Hofstede Kloosterstein",
+      "latitude": 52.004292,
+      "longitude": 4.76451,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 328,
+      "name": "IJsseldelta Marina Hattem",
+      "latitude": 52.477925,
+      "longitude": 6.069928,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 329,
+      "name": "It Tún Hûs",
+      "latitude": 53.377533,
+      "longitude": 6.130587,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 330,
+      "name": "Jachthaven 't Eibertsnest Camperplaats Nord",
+      "latitude": 53.241411,
+      "longitude": 6.018997,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 331,
+      "name": "Jachthaven 't Eibertsnest Camperplaats Nord",
+      "latitude": 53.243334,
+      "longitude": 6.019652,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 332,
+      "name": "Jachthaven Atlantica",
+      "latitude": 51.742477,
+      "longitude": 4.242901,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 333,
+      "name": "Jachthaven Beerta Camperplekken",
+      "latitude": 53.171945,
+      "longitude": 7.097955,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 334,
+      "name": "Jachthaven De Lemsterpoort",
+      "latitude": 52.892692,
+      "longitude": 5.645157,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 335,
+      "name": "Jachthaven Jonkman Camperplaats",
+      "latitude": 52.220488,
+      "longitude": 4.546009,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 336,
+      "name": "Jachthaven Lemmer-binnen",
+      "latitude": 52.847007,
+      "longitude": 5.696586,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 337,
+      "name": "Jachthaven Marnemoende Camperplaatsen",
+      "latitude": 52.046019,
+      "longitude": 5.01868,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 338,
+      "name": "Jachthaven Middelharnis",
+      "latitude": 51.762539,
+      "longitude": 4.17076,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 339,
+      "name": "Jachthaven Naarden",
+      "latitude": 52.308564,
+      "longitude": 5.146172,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 340,
+      "name": "Jachthaven Venlo",
+      "latitude": 51.392903,
+      "longitude": 6.149123,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 341,
+      "name": "Jachthaven WSV Hanssum Overnachtingsplaatsen",
+      "latitude": 51.25754,
+      "longitude": 6.004505,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 342,
+      "name": "Jachthaven Westergoot",
+      "latitude": 51.813921,
+      "longitude": 4.724446,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 343,
+      "name": "Jachthaven de Rijd",
+      "latitude": 53.286942,
+      "longitude": 6.152244,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 344,
+      "name": "Jachthaven en Watersport Andijk",
+      "latitude": 52.74651,
+      "longitude": 5.18493,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 345,
+      "name": "Jachtwerf Willemsoord",
+      "latitude": 52.962264,
+      "longitude": 4.770238,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 346,
+      "name": "Kaasboerderij Simonehoeve",
+      "latitude": 52.487623,
+      "longitude": 5.034807,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 347,
+      "name": "Kleindorp",
+      "latitude": 51.967854,
+      "longitude": 6.19794,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 348,
+      "name": "Koeienbedrijf de Regte Heijden",
+      "latitude": 51.510751,
+      "longitude": 5.014135,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 349,
+      "name": "Krompad",
+      "latitude": 52.869247,
+      "longitude": 5.828589,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 350,
+      "name": "Landgoed Clootwijck",
+      "latitude": 51.781619,
+      "longitude": 4.965116,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 351,
+      "name": "Landgoed Jonker",
+      "latitude": 53.204282,
+      "longitude": 6.259595,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 352,
+      "name": "Lauwersmeerplezier",
+      "latitude": 53.405428,
+      "longitude": 6.200244,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 353,
+      "name": "Lege Geaen",
+      "latitude": 53.077612,
+      "longitude": 5.743235,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 354,
+      "name": "Lonneker Es",
+      "latitude": 52.248339,
+      "longitude": 6.903829,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 355,
+      "name": "Low Budget Camperplaats Natuurplezier",
+      "latitude": 51.27472,
+      "longitude": 6.122473,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 356,
+      "name": "Maas Camp",
+      "latitude": 51.703889,
+      "longitude": 5.966302,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 357,
+      "name": "Maastricht marina",
+      "latitude": 50.823306,
+      "longitude": 5.700155,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 358,
+      "name": "Marina Park Volendam",
+      "latitude": 52.489383,
+      "longitude": 5.059947,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 359,
+      "name": "Mieke's hof",
+      "latitude": 51.574236,
+      "longitude": 4.550069,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 360,
+      "name": "Mini Camping/Camperplaats Nooitgedacht",
+      "latitude": 52.002123,
+      "longitude": 4.829785,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 361,
+      "name": "Minicamping Giessenwaard",
+      "latitude": 51.897828,
+      "longitude": 4.935762,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 362,
+      "name": "Molecaten Parc Flevostrand Strandcampingplaats",
+      "latitude": 52.3827,
+      "longitude": 5.628715,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 363,
+      "name": "Molecaten Park De Agnietenberg",
+      "latitude": 52.539525,
+      "longitude": 6.128531,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 364,
+      "name": "Natuurtransferium Echt",
+      "latitude": 51.10519,
+      "longitude": 5.857121,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 365,
+      "name": "Nijkerk aan Zee",
+      "latitude": 52.256032,
+      "longitude": 5.463266,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 366,
+      "name": "Noordijkerveld",
+      "latitude": 52.162965,
+      "longitude": 6.590007,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 367,
+      "name": "Noordvest Schiedam",
+      "latitude": 51.919256,
+      "longitude": 4.393686,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 368,
+      "name": "Nuuverstee",
+      "latitude": 52.92649,
+      "longitude": 6.77614,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 369,
+      "name": "Ons groene kampeerterrein",
+      "latitude": 52.388332,
+      "longitude": 6.393839,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 370,
+      "name": "Op 't Norde",
+      "latitude": 52.099844,
+      "longitude": 6.236813,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 371,
+      "name": "P+R Meerhoven",
+      "latitude": 51.434995,
+      "longitude": 5.424288,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 372,
+      "name": "P2 Lelykade Harderwijk",
+      "latitude": 52.352319,
+      "longitude": 5.6257,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 373,
+      "name": "Park Kruserbrink - Hardenberg",
+      "latitude": 52.577441,
+      "longitude": 6.629368,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 374,
+      "name": "Parking Almere Haven",
+      "latitude": 52.333569,
+      "longitude": 5.221668,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 375,
+      "name": "Parking Dorpscentrum De Broeckhof",
+      "latitude": 53.161603,
+      "longitude": 6.860722,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 376,
+      "name": "Parking Enter",
+      "latitude": 52.298113,
+      "longitude": 6.582671,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 377,
+      "name": "Parking Gauke Boelensstraat",
+      "latitude": 53.102747,
+      "longitude": 6.087949,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 378,
+      "name": "Parking Glasmuseum Leerdam",
+      "latitude": 51.88288,
+      "longitude": 5.086761,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 379,
+      "name": "Parking Grensstraat",
+      "latitude": 51.470936,
+      "longitude": 4.46397,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 380,
+      "name": "Parking Havenkade Assen",
+      "latitude": 53.000477,
+      "longitude": 6.577055,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 381,
+      "name": "Parking Huissen Molenweide",
+      "latitude": 51.935764,
+      "longitude": 5.945363,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 382,
+      "name": "Parking Lingedijk",
+      "latitude": 51.886537,
+      "longitude": 5.08699,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 383,
+      "name": "Parking Ponthoeve",
+      "latitude": 51.998145,
+      "longitude": 5.090044,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 384,
+      "name": "Parking de Aak",
+      "latitude": 52.302021,
+      "longitude": 6.759187,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 385,
+      "name": "Parking de Neul",
+      "latitude": 51.559379,
+      "longitude": 5.45822,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 386,
+      "name": "Passantenhaven Doesburg",
+      "latitude": 52.011079,
+      "longitude": 6.1327,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 387,
+      "name": "Passantenhaven de Zuiderkluft",
+      "latitude": 52.721372,
+      "longitude": 6.074,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 388,
+      "name": "Polderhaan",
+      "latitude": 52.0935,
+      "longitude": 4.944204,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 389,
+      "name": "RC Zwartewater Camping",
+      "latitude": 52.637671,
+      "longitude": 6.075916,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 390,
+      "name": "Receptie Camping De Norgerberg",
+      "latitude": 53.077569,
+      "longitude": 6.447965,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 391,
+      "name": "Recreatiepark De Bonte Specht",
+      "latitude": 52.3939,
+      "longitude": 6.52944,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 392,
+      "name": "Reensboer Recreatie",
+      "latitude": 52.431641,
+      "longitude": 6.74998,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 393,
+      "name": "Regatta Centrum Medemblik",
+      "latitude": 52.769184,
+      "longitude": 5.116774,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 394,
+      "name": "Resort Eindhoven Camperplaatsen",
+      "latitude": 51.395592,
+      "longitude": 5.411308,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 395,
+      "name": "Riverside Camperplaats",
+      "latitude": 51.831627,
+      "longitude": 5.561715,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 396,
+      "name": "Roermond City Marina",
+      "latitude": 51.183504,
+      "longitude": 5.964803,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 397,
+      "name": "Roompot Beach Resort Camperparkeerplaats",
+      "latitude": 51.58959,
+      "longitude": 3.71613,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 398,
+      "name": "Stadsparkeerrerein Haagweg Leiden",
+      "latitude": 52.157125,
+      "longitude": 4.479111,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 399,
+      "name": "Stop & Go camping Hindeloopen",
+      "latitude": 52.933799,
+      "longitude": 5.407336,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 400,
+      "name": "Terhernstersyl Camperplaatsen",
+      "latitude": 53.042367,
+      "longitude": 5.769865,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 401,
+      "name": "Toppark 't Hulsbeek",
+      "latitude": 52.302031,
+      "longitude": 6.879171,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 402,
+      "name": "Trekkersveld Oosterzee",
+      "latitude": 52.876554,
+      "longitude": 5.77728,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 403,
+      "name": "Tuinindestad",
+      "latitude": 53.21866,
+      "longitude": 6.516166,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 404,
+      "name": "Uivernest",
+      "latitude": 51.880142,
+      "longitude": 5.673067,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 405,
+      "name": "UrbanCamperSpot Amsterdam & Haarlem",
+      "latitude": 52.3783,
+      "longitude": 4.675888,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 406,
+      "name": "Vlaktezicht",
+      "latitude": 52.62501,
+      "longitude": 6.015537,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 407,
+      "name": "WSV Almere Haven",
+      "latitude": 52.331699,
+      "longitude": 5.216376,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 408,
+      "name": "WSV De Kogge",
+      "latitude": 51.53173,
+      "longitude": 4.223842,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 409,
+      "name": "WSV Geertruidenberg",
+      "latitude": 51.703219,
+      "longitude": 4.864123,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 410,
+      "name": "Wageningen, parkeerplaats Rijnhaven",
+      "latitude": 51.961035,
+      "longitude": 5.65918,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 411,
+      "name": "Waterloo",
+      "latitude": 52.927577,
+      "longitude": 5.59539,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 412,
+      "name": "WeidumerHout",
+      "latitude": 53.149254,
+      "longitude": 5.762431,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 413,
+      "name": "Wellinghoeve",
+      "latitude": 51.918308,
+      "longitude": 6.001924,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 414,
+      "name": "Wijngaard Baan",
+      "latitude": 52.320855,
+      "longitude": 6.56656,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 415,
+      "name": "Wijngaard Saalhof",
+      "latitude": 52.68429,
+      "longitude": 5.039382,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 416,
+      "name": "Wohnmobilstellplatz Gangelt",
+      "latitude": 50.985637,
+      "longitude": 5.999016,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 417,
+      "name": "Wouwkes' Camperplaats",
+      "latitude": 51.524525,
+      "longitude": 5.158226,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 418,
+      "name": "Yn 't Paradyske",
+      "latitude": 53.262876,
+      "longitude": 6.145273,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 419,
+      "name": "Zaetepolder",
+      "latitude": 51.490022,
+      "longitude": 4.053062,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 420,
+      "name": "Zee van Tijd",
+      "latitude": 53.370832,
+      "longitude": 5.895996,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 421,
+      "name": "camperplaats Jachthaven Middenmeer",
+      "latitude": 52.812121,
+      "longitude": 4.991427,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 422,
+      "name": "camperplaats Stal Hiensch",
+      "latitude": 52.202089,
+      "longitude": 5.466689,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 423,
+      "name": "camperplek Dokkum",
+      "latitude": 53.324488,
+      "longitude": 5.993235,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 424,
+      "name": "de Hoppies",
+      "latitude": 51.762883,
+      "longitude": 5.223974,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 425,
+      "name": "de Trekvogel",
+      "latitude": 51.572145,
+      "longitude": 4.893548,
+      "osm_klasse": "tourism=caravan_site"
+    },
+    {
+      "id": 426,
+      "name": "de Zomerberg",
+      "latitude": 52.954571,
+      "longitude": 6.310239,
+      "osm_klasse": "tourism=caravan_site"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: caravan site (tourism=caravan_site) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged tourism=caravan_site in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 426 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: caravan site (tourism=caravan_site) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: caravan site (tourism=caravan_site) — 426 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 426 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

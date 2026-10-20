@@ -1,0 +1,1465 @@
+{
+  "id": "nl-osm-leisure-track",
+  "name": "Netherlands OSM: track (leisure=track)",
+  "title": "Netherlands OSM: track (leisure=track)",
+  "description": "Named OpenStreetMap features tagged leisure=track in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 202,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "400m",
+      "latitude": 51.447579,
+      "longitude": 5.439329,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 2,
+      "name": "A15 Karting",
+      "latitude": 51.84137,
+      "longitude": 5.006283,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 3,
+      "name": "ACV de Flintstones",
+      "latitude": 52.472011,
+      "longitude": 5.704305,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 4,
+      "name": "ARSV Thor",
+      "latitude": 51.511428,
+      "longitude": 4.482278,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 5,
+      "name": "AV '23",
+      "latitude": 52.34674,
+      "longitude": 4.95262,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 6,
+      "name": "AV Flevo Delta",
+      "latitude": 52.52496,
+      "longitude": 5.711789,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 7,
+      "name": "AV Fortuna",
+      "latitude": 51.922296,
+      "longitude": 4.335532,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 8,
+      "name": "AV Lycurgus",
+      "latitude": 52.484753,
+      "longitude": 4.740155,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 9,
+      "name": "AV Sparta",
+      "latitude": 52.054648,
+      "longitude": 4.28785,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 10,
+      "name": "AV Sparta Voorburg",
+      "latitude": 52.067592,
+      "longitude": 4.375573,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 11,
+      "name": "AV Zaanland",
+      "latitude": 52.449254,
+      "longitude": 4.815557,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 12,
+      "name": "AV'47",
+      "latitude": 52.075801,
+      "longitude": 4.626323,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 13,
+      "name": "AXA Valleirenners",
+      "latitude": 52.041009,
+      "longitude": 5.538993,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 14,
+      "name": "Aartshertogenpark",
+      "latitude": 51.699284,
+      "longitude": 5.328157,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 15,
+      "name": "Archeus",
+      "latitude": 51.976112,
+      "longitude": 6.745365,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 16,
+      "name": "Argo Atletiek",
+      "latitude": 51.979224,
+      "longitude": 6.303538,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 17,
+      "name": "Atletico '73",
+      "latitude": 51.878482,
+      "longitude": 6.376921,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 18,
+      "name": "Atletiek Klub Uithoorn",
+      "latitude": 52.255462,
+      "longitude": 4.80974,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 19,
+      "name": "Atletiek Vereniging ASV Eibergen",
+      "latitude": 52.121947,
+      "longitude": 6.653275,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 20,
+      "name": "Atletiekbaan",
+      "latitude": 51.470461,
+      "longitude": 6.060945,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 21,
+      "name": "Atletiekbaan",
+      "latitude": 51.518618,
+      "longitude": 3.88876,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 22,
+      "name": "Atletiekbaan",
+      "latitude": 51.684771,
+      "longitude": 5.082047,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 23,
+      "name": "Atletiekbaan",
+      "latitude": 52.391077,
+      "longitude": 5.242875,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 24,
+      "name": "Atletiekbaan Amaliapark",
+      "latitude": 52.09109,
+      "longitude": 5.0572,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 25,
+      "name": "Atletiekbaan De Aarhoek",
+      "latitude": 52.130561,
+      "longitude": 4.674451,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 26,
+      "name": "Atletiekbaan Overvecht",
+      "latitude": 52.121778,
+      "longitude": 5.083897,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 27,
+      "name": "Atletiekbaan USC",
+      "latitude": 51.817459,
+      "longitude": 5.867733,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 28,
+      "name": "Atletiekbaan Voorschoten '97",
+      "latitude": 52.138335,
+      "longitude": 4.456568,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 29,
+      "name": "Atletiekbaan Zutphen",
+      "latitude": 52.152988,
+      "longitude": 6.207197,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 30,
+      "name": "Atletiekpark Spark",
+      "latitude": 51.857201,
+      "longitude": 4.330828,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 31,
+      "name": "Atletiekvereniging DEM",
+      "latitude": 52.485983,
+      "longitude": 4.671851,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 32,
+      "name": "Atletiekvereniging Hylas",
+      "latitude": 52.648934,
+      "longitude": 4.735534,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 33,
+      "name": "Atletiekvereniging Rijnsoever",
+      "latitude": 52.212377,
+      "longitude": 4.432296,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 34,
+      "name": "Atletiekvereniging Typhoon",
+      "latitude": 51.840972,
+      "longitude": 4.938863,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 35,
+      "name": "Autocross Eelde",
+      "latitude": 53.130041,
+      "longitude": 6.560608,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 36,
+      "name": "BMX",
+      "latitude": 52.982954,
+      "longitude": 6.543792,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 37,
+      "name": "BMX Club DVO",
+      "latitude": 52.165762,
+      "longitude": 6.757321,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 38,
+      "name": "BMX Track FCC De Bissinghcrossers",
+      "latitude": 52.539293,
+      "longitude": 6.440584,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 39,
+      "name": "BMX Zoetermeer",
+      "latitude": 52.070608,
+      "longitude": 4.461459,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 40,
+      "name": "BMX-baan",
+      "latitude": 52.472231,
+      "longitude": 6.019372,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 41,
+      "name": "Bikepark Hulst",
+      "latitude": 51.26843,
+      "longitude": 4.056872,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 42,
+      "name": "Bikepark Mook",
+      "latitude": 51.754934,
+      "longitude": 5.891649,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 43,
+      "name": "Bleekemolens Race Planet Delft",
+      "latitude": 52.025118,
+      "longitude": 4.363404,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 44,
+      "name": "Combibaan Hengelo",
+      "latitude": 52.284472,
+      "longitude": 6.788843,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 45,
+      "name": "DNIJ skeeleren Apeldoorn",
+      "latitude": 52.210591,
+      "longitude": 5.992741,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 46,
+      "name": "De Duinloper",
+      "latitude": 52.561532,
+      "longitude": 4.643839,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 47,
+      "name": "De KleyDrivers",
+      "latitude": 52.701168,
+      "longitude": 4.823387,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 48,
+      "name": "De Peddelaars",
+      "latitude": 52.723771,
+      "longitude": 6.500317,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 49,
+      "name": "Diomedon",
+      "latitude": 51.580488,
+      "longitude": 4.323628,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 50,
+      "name": "Dirt Park Groningen",
+      "latitude": 53.249336,
+      "longitude": 6.58927,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 51,
+      "name": "Draf- en renbaan Noordoostpolder",
+      "latitude": 52.720579,
+      "longitude": 5.765664,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 52,
+      "name": "Echtens Stunt Rondje",
+      "latitude": 52.708312,
+      "longitude": 6.398141,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 53,
+      "name": "Engelerpark",
+      "latitude": 51.718031,
+      "longitude": 5.266308,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 54,
+      "name": "F.C.C. Ammersoyen",
+      "latitude": 51.752686,
+      "longitude": 5.218741,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 55,
+      "name": "FCC De Fivelcrossers",
+      "latitude": 53.316363,
+      "longitude": 6.880236,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 56,
+      "name": "FCCL Fiets Cross Club Lichtenvoorde",
+      "latitude": 51.981563,
+      "longitude": 6.564417,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 57,
+      "name": "FCV D'n Urste",
+      "latitude": 51.637063,
+      "longitude": 5.423606,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 58,
+      "name": "FCV De Durtrappers",
+      "latitude": 51.293463,
+      "longitude": 5.324622,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 59,
+      "name": "Fietscross \"De Boscrossers\"",
+      "latitude": 52.596591,
+      "longitude": 4.683217,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 60,
+      "name": "Fietscrossbaan Mijdrecht",
+      "latitude": 52.198277,
+      "longitude": 4.859342,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 61,
+      "name": "Fietscrossbaan Overasselt",
+      "latitude": 51.759544,
+      "longitude": 5.778699,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 62,
+      "name": "Fietscrossbaan Steenbergerpark",
+      "latitude": 52.719961,
+      "longitude": 6.447321,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 63,
+      "name": "Fietscrossclub Wijkeroog",
+      "latitude": 52.472804,
+      "longitude": 4.651602,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 64,
+      "name": "GRTC Excelsior",
+      "latitude": 52.02447,
+      "longitude": 4.727779,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 65,
+      "name": "Gerard Gibcusbaan",
+      "latitude": 53.194732,
+      "longitude": 6.545353,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 66,
+      "name": "Gilde",
+      "latitude": 51.405673,
+      "longitude": 5.143149,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 67,
+      "name": "HAC'63",
+      "latitude": 52.722063,
+      "longitude": 6.493725,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 68,
+      "name": "Harddraverspark",
+      "latitude": 53.328084,
+      "longitude": 6.005424,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 69,
+      "name": "Hellas Atletiek",
+      "latitude": 52.039457,
+      "longitude": 5.154096,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 70,
+      "name": "IJs en Skeelerbaan Doorn",
+      "latitude": 52.025038,
+      "longitude": 5.350046,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 71,
+      "name": "IJs- en Skeelerbaan",
+      "latitude": 52.393466,
+      "longitude": 5.246291,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 72,
+      "name": "IJs- en skeelerbaan Hartenstein",
+      "latitude": 51.985938,
+      "longitude": 5.834187,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 73,
+      "name": "IJs/Skeelerbaan",
+      "latitude": 53.041119,
+      "longitude": 5.777972,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 74,
+      "name": "IJsbaan / Skeelerbaan",
+      "latitude": 53.069591,
+      "longitude": 6.329473,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 75,
+      "name": "IJsbaan Lochem",
+      "latitude": 52.161104,
+      "longitude": 6.393582,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 76,
+      "name": "IJsbaan Nova Zembla",
+      "latitude": 52.015524,
+      "longitude": 5.041923,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 77,
+      "name": "Jacques Davidson Parcours",
+      "latitude": 52.48166,
+      "longitude": 4.680768,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 78,
+      "name": "Jeu de boules Les Sabots",
+      "latitude": 52.015663,
+      "longitude": 5.565843,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 79,
+      "name": "Kees Verkerkbaan",
+      "latitude": 51.795502,
+      "longitude": 4.560818,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 80,
+      "name": "Kids Pumptrack Urban Ox Park",
+      "latitude": 51.755768,
+      "longitude": 5.521227,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 81,
+      "name": "Kleine fietscrossbaan Hoogeveen",
+      "latitude": 52.715987,
+      "longitude": 6.44807,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 82,
+      "name": "Klimmuur Spaarnwoude",
+      "latitude": 52.448023,
+      "longitude": 4.677359,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 83,
+      "name": "Kombaan",
+      "latitude": 52.982977,
+      "longitude": 6.545155,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 84,
+      "name": "Langepad",
+      "latitude": 51.935564,
+      "longitude": 4.502406,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 85,
+      "name": "Lion d'Or",
+      "latitude": 51.338615,
+      "longitude": 5.428386,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 86,
+      "name": "MBC de Zeven Heuvelen",
+      "latitude": 51.788351,
+      "longitude": 5.913882,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 87,
+      "name": "MTB",
+      "latitude": 52.982241,
+      "longitude": 6.544415,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 88,
+      "name": "Motorcross Circuit \"De Ruttense brug\" MC NOP",
+      "latitude": 52.808269,
+      "longitude": 5.745446,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 89,
+      "name": "Motorsportaccommodatie De Langenberg (Trial)",
+      "latitude": 52.015402,
+      "longitude": 6.332408,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 90,
+      "name": "Natuurijsbaan Moergestel",
+      "latitude": 51.537912,
+      "longitude": 5.185224,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 91,
+      "name": "Nieuwe Dukenburgseweg",
+      "latitude": 51.818085,
+      "longitude": 5.819066,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 92,
+      "name": "Nootdorpse IJsclub",
+      "latitude": 52.035816,
+      "longitude": 4.401684,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 93,
+      "name": "Oranjewoudbaan",
+      "latitude": 52.981389,
+      "longitude": 6.546755,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 94,
+      "name": "PKC",
+      "latitude": 51.836419,
+      "longitude": 4.716297,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 95,
+      "name": "PWRC Hoalt Voart Tr'In",
+      "latitude": 53.10963,
+      "longitude": 7.005268,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 96,
+      "name": "Parcours UWTC",
+      "latitude": 52.255059,
+      "longitude": 4.808288,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 97,
+      "name": "Pelotebaan",
+      "latitude": 53.151633,
+      "longitude": 5.630948,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 98,
+      "name": "Planet Awesome",
+      "latitude": 51.838033,
+      "longitude": 5.812431,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 99,
+      "name": "Pump Coaster",
+      "latitude": 52.054528,
+      "longitude": 4.304242,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 100,
+      "name": "Pump Coaster",
+      "latitude": 52.054873,
+      "longitude": 4.304748,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 101,
+      "name": "Pump Coaster",
+      "latitude": 52.214379,
+      "longitude": 6.003016,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 102,
+      "name": "Pump Track Reuver",
+      "latitude": 51.272892,
+      "longitude": 6.069118,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 103,
+      "name": "PumpTrack Nijmegen Lindenholt by Velosolutions",
+      "latitude": 51.833445,
+      "longitude": 5.790681,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 104,
+      "name": "PumpTrack Waelbos",
+      "latitude": 52.004316,
+      "longitude": 4.177071,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 105,
+      "name": "Pumptrack",
+      "latitude": 51.558331,
+      "longitude": 3.5037,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 106,
+      "name": "Pumptrack",
+      "latitude": 51.562025,
+      "longitude": 5.067741,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 107,
+      "name": "Pumptrack",
+      "latitude": 52.12366,
+      "longitude": 5.12913,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 108,
+      "name": "Pumptrack Dalem Driehoek",
+      "latitude": 51.577135,
+      "longitude": 4.974856,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 109,
+      "name": "Pumptrack Dedemsvaart",
+      "latitude": 52.58887,
+      "longitude": 6.463945,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 110,
+      "name": "Pumptrack Gendt",
+      "latitude": 51.871605,
+      "longitude": 5.96219,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 111,
+      "name": "Pumptrack Laren",
+      "latitude": 52.195,
+      "longitude": 6.369377,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 112,
+      "name": "Pumptrack Lieshout",
+      "latitude": 51.517105,
+      "longitude": 5.587874,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 113,
+      "name": "Pumptrack Olympus",
+      "latitude": 51.963475,
+      "longitude": 5.904475,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 114,
+      "name": "Pumptrack Rijkerswoerd",
+      "latitude": 51.945691,
+      "longitude": 5.889492,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 115,
+      "name": "Pumptrack Urban Ox Park",
+      "latitude": 51.755769,
+      "longitude": 5.521687,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 116,
+      "name": "Pumptrack de Rijkerswoerseplassen",
+      "latitude": 51.941424,
+      "longitude": 5.866048,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 117,
+      "name": "Pumptrackbaan",
+      "latitude": 52.90738,
+      "longitude": 6.813802,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 118,
+      "name": "Pumptrackbaan Drielanden",
+      "latitude": 52.329175,
+      "longitude": 5.590421,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 119,
+      "name": "Pumptrackbaan Hasselt",
+      "latitude": 52.588001,
+      "longitude": 6.10297,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 120,
+      "name": "Pumptrackbaan Oosterboer",
+      "latitude": 52.698784,
+      "longitude": 6.210291,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 121,
+      "name": "Recreatieterrein Ketelsteeg",
+      "latitude": 51.81729,
+      "longitude": 5.277183,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 122,
+      "name": "Renbaan Duindigt",
+      "latitude": 52.10746,
+      "longitude": 4.346255,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 123,
+      "name": "Ruiterclub Bloemendaal",
+      "latitude": 52.034259,
+      "longitude": 4.695467,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 124,
+      "name": "Sjoerd Huisman Piste",
+      "latitude": 52.732513,
+      "longitude": 5.141832,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 125,
+      "name": "Skatebaan",
+      "latitude": 53.184175,
+      "longitude": 6.156469,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 126,
+      "name": "Skating ring",
+      "latitude": 51.947907,
+      "longitude": 5.245622,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 127,
+      "name": "Skeeler en schaatsvereniging Thialf",
+      "latitude": 52.000206,
+      "longitude": 5.901793,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 128,
+      "name": "Skeelerbaan",
+      "latitude": 52.07096,
+      "longitude": 4.461278,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 129,
+      "name": "Skeelerbaan",
+      "latitude": 52.497152,
+      "longitude": 6.146294,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 130,
+      "name": "Skeelerbaan",
+      "latitude": 53.05246,
+      "longitude": 5.847363,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 131,
+      "name": "Skeelerbaan",
+      "latitude": 53.18724,
+      "longitude": 5.986089,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 132,
+      "name": "Skeelerbaan",
+      "latitude": 53.278524,
+      "longitude": 6.703947,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 133,
+      "name": "Skeelerbaan Harderwijk",
+      "latitude": 52.342091,
+      "longitude": 5.629326,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 134,
+      "name": "Skeelerbaan Radboud",
+      "latitude": 52.767953,
+      "longitude": 5.090524,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 135,
+      "name": "Skeelerovaal",
+      "latitude": 52.037727,
+      "longitude": 5.056756,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 136,
+      "name": "Skeelervereniging IDS",
+      "latitude": 53.254706,
+      "longitude": 6.043438,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 137,
+      "name": "Skelterbaan",
+      "latitude": 52.052245,
+      "longitude": 6.096059,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 138,
+      "name": "Skelterbaan Steinerbos",
+      "latitude": 50.970495,
+      "longitude": 5.780042,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 139,
+      "name": "Smood Atletiekbaan Maassenhof",
+      "latitude": 51.374416,
+      "longitude": 6.116808,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 140,
+      "name": "Sportpaleis Alkmaar",
+      "latitude": 52.634764,
+      "longitude": 4.716335,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 141,
+      "name": "Sportpark Brandevoort",
+      "latitude": 51.454671,
+      "longitude": 5.616349,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 142,
+      "name": "Sportpark de Groesbocht",
+      "latitude": 51.397978,
+      "longitude": 5.210179,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 143,
+      "name": "Statina",
+      "latitude": 51.947885,
+      "longitude": 5.245626,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 144,
+      "name": "Streker Atletiek Vereniging",
+      "latitude": 52.692321,
+      "longitude": 5.213098,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 145,
+      "name": "Sugar Hills",
+      "latitude": 51.505188,
+      "longitude": 5.634096,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 146,
+      "name": "Survivalbaan",
+      "latitude": 52.964646,
+      "longitude": 5.990354,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 147,
+      "name": "The Derrick Crossers",
+      "latitude": 52.658581,
+      "longitude": 6.879813,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 148,
+      "name": "Trial Club Zuidoost Drenthe",
+      "latitude": 52.778546,
+      "longitude": 6.818112,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 149,
+      "name": "Triopsys",
+      "latitude": 52.126556,
+      "longitude": 5.043038,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 150,
+      "name": "UTrack",
+      "latitude": 52.244847,
+      "longitude": 6.853036,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 151,
+      "name": "UWTC BMX track",
+      "latitude": 52.253283,
+      "longitude": 4.806202,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 152,
+      "name": "UWTC BMX track",
+      "latitude": 52.253528,
+      "longitude": 4.805536,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 153,
+      "name": "Van der Schaaf Circuit",
+      "latitude": 53.296524,
+      "longitude": 6.13243,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 154,
+      "name": "Victoria Park",
+      "latitude": 52.884394,
+      "longitude": 6.011077,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 155,
+      "name": "WRV Midland",
+      "latitude": 52.52799,
+      "longitude": 5.527841,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 156,
+      "name": "Wieler- en skeelerbaan De Westereen",
+      "latitude": 53.254551,
+      "longitude": 6.045047,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 157,
+      "name": "Wieler- en skeelerbaan De Westereen",
+      "latitude": 53.254677,
+      "longitude": 6.043286,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 158,
+      "name": "Wielerbaan",
+      "latitude": 52.983105,
+      "longitude": 6.545793,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 159,
+      "name": "Wielerbaan",
+      "latitude": 52.98321,
+      "longitude": 6.54687,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 160,
+      "name": "Wielerbaan \"Sportpark Rijpelberg",
+      "latitude": 51.475652,
+      "longitude": 5.694011,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 161,
+      "name": "Wielerbaan OWC",
+      "latitude": 52.302488,
+      "longitude": 6.895527,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 162,
+      "name": "Wielerbaan WV Kapenga Homecenter",
+      "latitude": 53.120316,
+      "longitude": 6.10403,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 163,
+      "name": "Wielerbaan WV Kapenga Homecenter",
+      "latitude": 53.121303,
+      "longitude": 6.10391,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 164,
+      "name": "Wielerbaan de Heuvelen",
+      "latitude": 51.686378,
+      "longitude": 5.176068,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 165,
+      "name": "Wielerbaan de Jonge Renner",
+      "latitude": 51.632354,
+      "longitude": 4.844586,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 166,
+      "name": "Wielerbaan de Jonge Renner",
+      "latitude": 51.632474,
+      "longitude": 4.846505,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 167,
+      "name": "Wielerbaan de Jonge Renner",
+      "latitude": 51.632785,
+      "longitude": 4.845419,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 168,
+      "name": "Wielerbaan de Jonge Renner",
+      "latitude": 51.633114,
+      "longitude": 4.844367,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 169,
+      "name": "Wielerbaan de Jonge Renner",
+      "latitude": 51.633648,
+      "longitude": 4.847591,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 170,
+      "name": "Wielerbaan de Jonge Renner",
+      "latitude": 51.634536,
+      "longitude": 4.846137,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 171,
+      "name": "Wielerbrug",
+      "latitude": 52.400629,
+      "longitude": 4.957198,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 172,
+      "name": "Wielercircuit",
+      "latitude": 52.420476,
+      "longitude": 4.698722,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 173,
+      "name": "Wielercircuit",
+      "latitude": 52.421926,
+      "longitude": 4.699106,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 174,
+      "name": "Wielerparcours ARC Ulysses",
+      "latitude": 52.399797,
+      "longitude": 4.960971,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 175,
+      "name": "Wielerparcours Axa Valleirenners",
+      "latitude": 52.04193,
+      "longitude": 5.541998,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 176,
+      "name": "Wielerparcours De Spartaan",
+      "latitude": 52.029758,
+      "longitude": 4.334093,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 177,
+      "name": "Wielerparcours De Uithof",
+      "latitude": 52.038344,
+      "longitude": 4.242254,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 178,
+      "name": "Wielerparcours De Westereen",
+      "latitude": 53.254591,
+      "longitude": 6.045552,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 179,
+      "name": "Wielerparcours De Westereen",
+      "latitude": 53.255408,
+      "longitude": 6.046729,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 180,
+      "name": "Wielerparcours Kalverdijkje",
+      "latitude": 53.206988,
+      "longitude": 5.829211,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 181,
+      "name": "Wielerparcours PRC Delta",
+      "latitude": 51.860878,
+      "longitude": 4.329648,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 182,
+      "name": "Wielerparcours RWC Ahoy",
+      "latitude": 51.965131,
+      "longitude": 4.45248,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 183,
+      "name": "Wielerparcours Sloten",
+      "latitude": 52.337962,
+      "longitude": 4.804837,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 184,
+      "name": "Wielerparcours Sloten",
+      "latitude": 52.340306,
+      "longitude": 4.806928,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 185,
+      "name": "Wielerparcours Swift",
+      "latitude": 52.145263,
+      "longitude": 4.508854,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 186,
+      "name": "Wielerparcours Valleirenners",
+      "latitude": 52.041925,
+      "longitude": 5.542044,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 187,
+      "name": "Wielerparcours WTC Woerden",
+      "latitude": 52.071811,
+      "longitude": 4.866538,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 188,
+      "name": "Wielerparcours WV Avanti",
+      "latitude": 52.118142,
+      "longitude": 4.63463,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 189,
+      "name": "Wielerparcours WV Ede",
+      "latitude": 52.033671,
+      "longitude": 5.642276,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 190,
+      "name": "Wielerparcours WWV",
+      "latitude": 51.992771,
+      "longitude": 4.243309,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 191,
+      "name": "Wielerparcours WWV",
+      "latitude": 51.99409,
+      "longitude": 4.243098,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 192,
+      "name": "Wielervereniging Stormvogels Veendam",
+      "latitude": 53.096606,
+      "longitude": 6.914422,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 193,
+      "name": "mountainbike parcours",
+      "latitude": 51.264123,
+      "longitude": 5.998667,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 194,
+      "name": "mountainbike parcours",
+      "latitude": 51.264621,
+      "longitude": 5.998645,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 195,
+      "name": "oefenbaan draverij",
+      "latitude": 52.09856,
+      "longitude": 5.186222,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 196,
+      "name": "parcours WTC De Amstel",
+      "latitude": 52.287032,
+      "longitude": 4.859277,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 197,
+      "name": "parcours Wielervereniging Eemland",
+      "latitude": 52.183156,
+      "longitude": 5.41368,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 198,
+      "name": "parcours Wielervereniging Eemland",
+      "latitude": 52.183606,
+      "longitude": 5.412687,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 199,
+      "name": "rodelbaan AGoGo",
+      "latitude": 50.859295,
+      "longitude": 5.832678,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 200,
+      "name": "skeelerbaan Ouderkerkerplas",
+      "latitude": 52.296802,
+      "longitude": 4.932519,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 201,
+      "name": "skeeleren harlingen",
+      "latitude": 53.163811,
+      "longitude": 5.430642,
+      "osm_klasse": "leisure=track"
+    },
+    {
+      "id": 202,
+      "name": "wielerparcours",
+      "latitude": 52.030481,
+      "longitude": 4.333013,
+      "osm_klasse": "leisure=track"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: track (leisure=track) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged leisure=track in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 202 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: track (leisure=track) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: track (leisure=track) — 202 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 202 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

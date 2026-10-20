@@ -1,0 +1,2641 @@
+{
+  "id": "nl-osm-shop-art",
+  "name": "Netherlands OSM: art (shop=art)",
+  "title": "Netherlands OSM: art (shop=art)",
+  "description": "Named OpenStreetMap features tagged shop=art in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 370,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Kunstuus",
+      "latitude": 51.473168,
+      "longitude": 3.814926,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 2,
+      "name": "'t Prentenkabinet",
+      "latitude": 52.261267,
+      "longitude": 5.606467,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 3,
+      "name": "'t Spinsel",
+      "latitude": 53.383278,
+      "longitude": 5.287733,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 4,
+      "name": "'t Winkeltje van Bik",
+      "latitude": 52.078007,
+      "longitude": 4.304321,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 5,
+      "name": "Aan 't Grachtje",
+      "latitude": 52.513776,
+      "longitude": 6.098343,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 6,
+      "name": "AbrahamArt.com",
+      "latitude": 51.922508,
+      "longitude": 4.475192,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 7,
+      "name": "Adri A.C. de Fluiter",
+      "latitude": 52.765953,
+      "longitude": 6.80754,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 8,
+      "name": "Afke Borgman",
+      "latitude": 52.279666,
+      "longitude": 4.794427,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 9,
+      "name": "Alosery",
+      "latitude": 52.36949,
+      "longitude": 5.215645,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 10,
+      "name": "Amazing",
+      "latitude": 51.558677,
+      "longitude": 5.080064,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 11,
+      "name": "Amersfoort Art",
+      "latitude": 52.150083,
+      "longitude": 5.38533,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 12,
+      "name": "Art & Home Studio",
+      "latitude": 52.366377,
+      "longitude": 4.901869,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 13,
+      "name": "Art Center Hoorn",
+      "latitude": 52.641048,
+      "longitude": 5.059755,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 14,
+      "name": "Art Deco - Djoeke Wessing",
+      "latitude": 52.366838,
+      "longitude": 4.869384,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 15,
+      "name": "Art Expo",
+      "latitude": 52.125482,
+      "longitude": 4.446134,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 16,
+      "name": "Art Partner",
+      "latitude": 51.729097,
+      "longitude": 5.881005,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 17,
+      "name": "Art Studio Dorado",
+      "latitude": 52.162766,
+      "longitude": 4.531992,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 18,
+      "name": "Art Unlimited",
+      "latitude": 52.352238,
+      "longitude": 4.884044,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 19,
+      "name": "Art Unlimited",
+      "latitude": 52.365694,
+      "longitude": 4.886322,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 20,
+      "name": "Art a la Carte",
+      "latitude": 51.920352,
+      "longitude": 4.490031,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 21,
+      "name": "Art de Guérison",
+      "latitude": 52.255224,
+      "longitude": 5.223151,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 22,
+      "name": "Art of Africa",
+      "latitude": 52.630213,
+      "longitude": 4.751012,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 23,
+      "name": "ArtAmsterdam-Spui",
+      "latitude": 52.368901,
+      "longitude": 4.890152,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 24,
+      "name": "Artana",
+      "latitude": 52.083442,
+      "longitude": 4.304183,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 25,
+      "name": "Arte Sin Limites",
+      "latitude": 52.08513,
+      "longitude": 4.29939,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 26,
+      "name": "Arteaux",
+      "latitude": 50.845513,
+      "longitude": 5.692334,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 27,
+      "name": "Artend",
+      "latitude": 52.061844,
+      "longitude": 4.4892,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 28,
+      "name": "ArtiBrak",
+      "latitude": 52.067419,
+      "longitude": 4.364199,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 29,
+      "name": "Artide",
+      "latitude": 51.964892,
+      "longitude": 6.287267,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 30,
+      "name": "Artools",
+      "latitude": 52.092803,
+      "longitude": 5.128823,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 31,
+      "name": "Atelier 16",
+      "latitude": 52.631065,
+      "longitude": 4.751627,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 32,
+      "name": "Atelier 276",
+      "latitude": 51.758263,
+      "longitude": 5.740203,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 33,
+      "name": "Atelier Ab Kooistra",
+      "latitude": 52.960357,
+      "longitude": 4.763328,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 34,
+      "name": "Atelier Albersen",
+      "latitude": 52.069135,
+      "longitude": 4.366609,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 35,
+      "name": "Atelier Azadeh",
+      "latitude": 52.081348,
+      "longitude": 4.297631,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 36,
+      "name": "Atelier De Draai",
+      "latitude": 51.767366,
+      "longitude": 5.873383,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 37,
+      "name": "Atelier Ellen",
+      "latitude": 52.109464,
+      "longitude": 4.37315,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 38,
+      "name": "Atelier Eric Hirdes",
+      "latitude": 52.074225,
+      "longitude": 4.310149,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 39,
+      "name": "Atelier Hans Wollenberg",
+      "latitude": 52.090222,
+      "longitude": 5.119588,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 40,
+      "name": "Atelier Hop",
+      "latitude": 52.360385,
+      "longitude": 4.891871,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 41,
+      "name": "Atelier Inez van Maanen",
+      "latitude": 52.091104,
+      "longitude": 4.270599,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 42,
+      "name": "Atelier Kloosterziel",
+      "latitude": 52.082135,
+      "longitude": 5.123864,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 43,
+      "name": "Atelier Le Rouge",
+      "latitude": 52.055656,
+      "longitude": 4.498757,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 44,
+      "name": "Atelier Miedema",
+      "latitude": 51.920625,
+      "longitude": 4.512888,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 45,
+      "name": "Atelier Monique Dijksman",
+      "latitude": 53.200686,
+      "longitude": 5.799203,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 46,
+      "name": "Atelier Sas",
+      "latitude": 51.5625,
+      "longitude": 5.090328,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 47,
+      "name": "Atelier Willemien van Eeghen",
+      "latitude": 52.095325,
+      "longitude": 4.332507,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 48,
+      "name": "Atelier Winnifred J. Bastian",
+      "latitude": 52.063406,
+      "longitude": 4.354261,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 49,
+      "name": "Atelier de Witte Hemel",
+      "latitude": 52.006325,
+      "longitude": 6.178998,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 50,
+      "name": "Atlier Jaap Van Ek",
+      "latitude": 52.158622,
+      "longitude": 4.494102,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 51,
+      "name": "Babette Uit Babylon",
+      "latitude": 52.075778,
+      "longitude": 4.269515,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 52,
+      "name": "BeeldenVallei",
+      "latitude": 52.00805,
+      "longitude": 5.558695,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 53,
+      "name": "Beeldentuin",
+      "latitude": 52.873719,
+      "longitude": 6.760187,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 54,
+      "name": "Beeldentuin & Galerie de Buffel",
+      "latitude": 51.708283,
+      "longitude": 5.493802,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 55,
+      "name": "Beeldentuin B&N",
+      "latitude": 52.121518,
+      "longitude": 6.015237,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 56,
+      "name": "Blauwdruck",
+      "latitude": 52.511271,
+      "longitude": 6.094085,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 57,
+      "name": "Bogerds",
+      "latitude": 51.891688,
+      "longitude": 5.09551,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 58,
+      "name": "Boselie Van Hoeckel Lijstenmakerij",
+      "latitude": 51.684404,
+      "longitude": 5.297237,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 59,
+      "name": "Brugeman deutekom",
+      "latitude": 52.786551,
+      "longitude": 4.797878,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 60,
+      "name": "Bruil & Brandsma",
+      "latitude": 52.363182,
+      "longitude": 4.888299,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 61,
+      "name": "Busch & van der Worp",
+      "latitude": 52.515133,
+      "longitude": 6.107652,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 62,
+      "name": "Cadré",
+      "latitude": 52.264927,
+      "longitude": 6.797834,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 63,
+      "name": "Carré d'Artistes",
+      "latitude": 52.078215,
+      "longitude": 4.310779,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 64,
+      "name": "Carré d'Artistes",
+      "latitude": 52.370252,
+      "longitude": 4.886315,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 65,
+      "name": "Carte Blanche",
+      "latitude": 50.848933,
+      "longitude": 5.698203,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 66,
+      "name": "Catch",
+      "latitude": 52.091563,
+      "longitude": 5.122224,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 67,
+      "name": "Catch Utrecht",
+      "latitude": 52.091843,
+      "longitude": 5.121691,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 68,
+      "name": "Chabot",
+      "latitude": 52.082637,
+      "longitude": 4.305517,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 69,
+      "name": "Chiefs & Spirits",
+      "latitude": 52.079122,
+      "longitude": 4.305392,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 70,
+      "name": "Chiel van Zelst",
+      "latitude": 52.378284,
+      "longitude": 4.894396,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 71,
+      "name": "Club Kleurrijk",
+      "latitude": 52.35727,
+      "longitude": 4.91841,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 72,
+      "name": "Cor Unum",
+      "latitude": 51.684335,
+      "longitude": 5.295528,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 73,
+      "name": "Crealisa",
+      "latitude": 50.94655,
+      "longitude": 5.771052,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 74,
+      "name": "Creatief Clubhuis",
+      "latitude": 51.686232,
+      "longitude": 5.306159,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 75,
+      "name": "DK",
+      "latitude": 52.413225,
+      "longitude": 4.89034,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 76,
+      "name": "Daatselaar",
+      "latitude": 52.091928,
+      "longitude": 5.121223,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 77,
+      "name": "Day & Day Artspace",
+      "latitude": 51.924309,
+      "longitude": 4.486841,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 78,
+      "name": "De Gaarde",
+      "latitude": 52.090325,
+      "longitude": 5.120683,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 79,
+      "name": "De Hobbystudio",
+      "latitude": 52.622214,
+      "longitude": 6.041159,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 80,
+      "name": "De Hofgalerie",
+      "latitude": 52.078716,
+      "longitude": 4.308495,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 81,
+      "name": "De Kunstsalon",
+      "latitude": 52.085269,
+      "longitude": 5.122179,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 82,
+      "name": "De Kunstuitleen & De Galerie Den Haag",
+      "latitude": 52.082086,
+      "longitude": 4.306148,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 83,
+      "name": "De Mooie Kamer",
+      "latitude": 52.141692,
+      "longitude": 6.196099,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 84,
+      "name": "De Papierderij",
+      "latitude": 52.108944,
+      "longitude": 5.088293,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 85,
+      "name": "De Pleijsterplaats",
+      "latitude": 52.078886,
+      "longitude": 4.3074,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 86,
+      "name": "De Regenboog",
+      "latitude": 52.360804,
+      "longitude": 6.496355,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 87,
+      "name": "De Roos",
+      "latitude": 51.567805,
+      "longitude": 5.087313,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 88,
+      "name": "De Salon",
+      "latitude": 52.37024,
+      "longitude": 4.885954,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 89,
+      "name": "De St. Jansbasiliek",
+      "latitude": 51.688053,
+      "longitude": 5.306547,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 90,
+      "name": "Deerenberg",
+      "latitude": 51.944906,
+      "longitude": 4.851544,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 91,
+      "name": "Delaive",
+      "latitude": 52.361847,
+      "longitude": 4.887376,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 92,
+      "name": "Deva",
+      "latitude": 51.588938,
+      "longitude": 4.779386,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 93,
+      "name": "Duymelot",
+      "latitude": 52.385323,
+      "longitude": 6.275925,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 94,
+      "name": "Ebru Art House",
+      "latitude": 52.489249,
+      "longitude": 5.490573,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 95,
+      "name": "Ecce",
+      "latitude": 51.916175,
+      "longitude": 4.478911,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 96,
+      "name": "Eddy Varekamp",
+      "latitude": 52.372394,
+      "longitude": 4.885448,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 97,
+      "name": "Elizabeth Maria",
+      "latitude": 52.391591,
+      "longitude": 4.64047,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 98,
+      "name": "Ellie Castman Design",
+      "latitude": 51.685527,
+      "longitude": 5.297195,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 99,
+      "name": "Ennemaborg",
+      "latitude": 53.192411,
+      "longitude": 6.999418,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 100,
+      "name": "Erik Neimeijer",
+      "latitude": 52.364524,
+      "longitude": 6.461718,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 101,
+      "name": "Europ'Art",
+      "latitude": 51.813825,
+      "longitude": 4.663664,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 102,
+      "name": "Exotic art",
+      "latitude": 52.08405,
+      "longitude": 4.746878,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 103,
+      "name": "Expansionist Art Empire Gallery",
+      "latitude": 52.156249,
+      "longitude": 4.498341,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 104,
+      "name": "Factor IJ",
+      "latitude": 52.35165,
+      "longitude": 5.005463,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 105,
+      "name": "Felice Hanssen",
+      "latitude": 51.813869,
+      "longitude": 4.662517,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 106,
+      "name": "Fine Art Box",
+      "latitude": 52.370614,
+      "longitude": 4.891559,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 107,
+      "name": "Forum Art",
+      "latitude": 52.067907,
+      "longitude": 4.363245,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 108,
+      "name": "Foto Uniek / Island Gallery",
+      "latitude": 52.075895,
+      "longitude": 4.313303,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 109,
+      "name": "Galerie & Kunstuitleen \"De Pook\"",
+      "latitude": 52.265996,
+      "longitude": 6.784623,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 110,
+      "name": "Galerie - Beeldentuin de Deel",
+      "latitude": 52.246026,
+      "longitude": 6.897307,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 111,
+      "name": "Galerie Aalbrecht",
+      "latitude": 51.909234,
+      "longitude": 4.449158,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 112,
+      "name": "Galerie Alafran",
+      "latitude": 52.199871,
+      "longitude": 6.553102,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 113,
+      "name": "Galerie Arti-Shock",
+      "latitude": 52.056167,
+      "longitude": 4.33366,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 114,
+      "name": "Galerie Artline",
+      "latitude": 52.012244,
+      "longitude": 4.359109,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 115,
+      "name": "Galerie Atelier 27",
+      "latitude": 51.814487,
+      "longitude": 4.6645,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 116,
+      "name": "Galerie Atelier Julia Joosen",
+      "latitude": 52.005156,
+      "longitude": 6.174791,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 117,
+      "name": "Galerie Atelier de Bisschop",
+      "latitude": 52.026264,
+      "longitude": 6.225115,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 118,
+      "name": "Galerie Bout",
+      "latitude": 52.624199,
+      "longitude": 6.569945,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 119,
+      "name": "Galerie Carolien O'Breen",
+      "latitude": 52.370095,
+      "longitude": 4.880216,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 120,
+      "name": "Galerie DNK Dorst naar kunst",
+      "latitude": 51.586739,
+      "longitude": 4.858791,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 121,
+      "name": "Galerie Duizendpoot",
+      "latitude": 52.200424,
+      "longitude": 6.551756,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 122,
+      "name": "Galerie Frans Kokshoorn",
+      "latitude": 52.06706,
+      "longitude": 4.364916,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 123,
+      "name": "Galerie Gabriëls",
+      "latitude": 52.082813,
+      "longitude": 4.305337,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 124,
+      "name": "Galerie Gravin",
+      "latitude": 52.895035,
+      "longitude": 5.646176,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 125,
+      "name": "Galerie Haamstede",
+      "latitude": 51.699668,
+      "longitude": 3.742245,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 126,
+      "name": "Galerie Indruk",
+      "latitude": 51.687029,
+      "longitude": 5.305856,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 127,
+      "name": "Galerie Karin Hodes",
+      "latitude": 52.200008,
+      "longitude": 6.55195,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 128,
+      "name": "Galerie Kunstproeven",
+      "latitude": 50.849045,
+      "longitude": 5.690597,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 129,
+      "name": "Galerie Maureen Knobben",
+      "latitude": 52.408121,
+      "longitude": 6.896807,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 130,
+      "name": "Galerie Montulet",
+      "latitude": 52.083033,
+      "longitude": 4.305106,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 131,
+      "name": "Galerie Muskee",
+      "latitude": 53.215058,
+      "longitude": 6.562003,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 132,
+      "name": "Galerie Muskee",
+      "latitude": 53.218218,
+      "longitude": 6.563186,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 133,
+      "name": "Galerie Nobelstraat",
+      "latitude": 51.902003,
+      "longitude": 4.164611,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 134,
+      "name": "Galerie Oker",
+      "latitude": 52.364719,
+      "longitude": 4.886394,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 135,
+      "name": "Galerie Peter Altena",
+      "latitude": 52.21307,
+      "longitude": 5.29242,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 136,
+      "name": "Galerie Phoebus Rotterdam",
+      "latitude": 51.912946,
+      "longitude": 4.476755,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 137,
+      "name": "Galerie Piculiar",
+      "latitude": 52.158617,
+      "longitude": 4.488339,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 138,
+      "name": "Galerie Rode Cirkel",
+      "latitude": 52.154136,
+      "longitude": 4.489803,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 139,
+      "name": "Galerie Square Circle",
+      "latitude": 52.072996,
+      "longitude": 4.372932,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 140,
+      "name": "Galerie Stylo",
+      "latitude": 52.325473,
+      "longitude": 4.595846,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 141,
+      "name": "Galerie Terbeek",
+      "latitude": 53.059203,
+      "longitude": 6.07591,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 142,
+      "name": "Galerie Tripmaker",
+      "latitude": 52.560198,
+      "longitude": 5.91522,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 143,
+      "name": "Galerie Van Harinxma",
+      "latitude": 53.058808,
+      "longitude": 6.088844,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 144,
+      "name": "Galerie Wed",
+      "latitude": 52.089885,
+      "longitude": 5.121309,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 145,
+      "name": "Galerie Zône",
+      "latitude": 52.157887,
+      "longitude": 4.493423,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 146,
+      "name": "Galerie de Burgerij",
+      "latitude": 52.104425,
+      "longitude": 6.310539,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 147,
+      "name": "Galerie de Diek",
+      "latitude": 52.622754,
+      "longitude": 6.041059,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 148,
+      "name": "Galerie de Waker",
+      "latitude": 51.994955,
+      "longitude": 6.224811,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 149,
+      "name": "Galerie het Heerenhuis",
+      "latitude": 52.262318,
+      "longitude": 4.55607,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 150,
+      "name": "Galerie-Atelier De Kaai",
+      "latitude": 51.507092,
+      "longitude": 3.890611,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 151,
+      "name": "Gallerie A3",
+      "latitude": 51.528198,
+      "longitude": 3.443172,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 152,
+      "name": "Gallerie Ashelter",
+      "latitude": 53.218039,
+      "longitude": 6.560859,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 153,
+      "name": "Gallerie Wildevuur",
+      "latitude": 52.899124,
+      "longitude": 6.546292,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 154,
+      "name": "Gallerij Vriend van Bavink",
+      "latitude": 52.375349,
+      "longitude": 4.901494,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 155,
+      "name": "Gallery Rembrandt",
+      "latitude": 51.436526,
+      "longitude": 5.474688,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 156,
+      "name": "Glasatelier Glasario",
+      "latitude": 51.954409,
+      "longitude": 5.224694,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 157,
+      "name": "Glasatelier Lisette Martens",
+      "latitude": 52.709342,
+      "longitude": 6.502438,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 158,
+      "name": "Glasatelier Nijmegen, glas in lood",
+      "latitude": 51.840628,
+      "longitude": 5.87184,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 159,
+      "name": "Glasatelier Oud Ittersum",
+      "latitude": 52.490728,
+      "longitude": 6.108405,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 160,
+      "name": "Glasblazerij en Glasgalerie Old Ambt",
+      "latitude": 53.159933,
+      "longitude": 7.188216,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 161,
+      "name": "Glasblazerij het Quakeltje",
+      "latitude": 53.054991,
+      "longitude": 5.464623,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 162,
+      "name": "Glaskunst Romy Westerhof",
+      "latitude": 52.376107,
+      "longitude": 7.006061,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 163,
+      "name": "Golden Ratio Art & Tea Room",
+      "latitude": 52.080594,
+      "longitude": 4.307445,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 164,
+      "name": "Grachtengalerie",
+      "latitude": 52.088844,
+      "longitude": 5.120968,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 165,
+      "name": "Graveeratelier De Haan",
+      "latitude": 52.223372,
+      "longitude": 5.173273,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 166,
+      "name": "H&M Kunstwinkel",
+      "latitude": 51.813898,
+      "longitude": 4.661931,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 167,
+      "name": "HAE solo dining & art",
+      "latitude": 50.848106,
+      "longitude": 5.689282,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 168,
+      "name": "HCH Gallery / Guus van Eck shop",
+      "latitude": 52.084135,
+      "longitude": 4.313552,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 169,
+      "name": "Han Vos",
+      "latitude": 53.21857,
+      "longitude": 6.562098,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 170,
+      "name": "Hawar",
+      "latitude": 52.940528,
+      "longitude": 6.133474,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 171,
+      "name": "Heleen van der Spek Glasatelier",
+      "latitude": 52.159095,
+      "longitude": 4.49158,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 172,
+      "name": "Hendrik de Laat",
+      "latitude": 51.685614,
+      "longitude": 5.296773,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 173,
+      "name": "Het Kruithuisje",
+      "latitude": 52.633446,
+      "longitude": 4.740342,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 174,
+      "name": "Hint & Tint",
+      "latitude": 51.688725,
+      "longitude": 5.309642,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 175,
+      "name": "Hoentjen Creatie",
+      "latitude": 52.252786,
+      "longitude": 6.159526,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 176,
+      "name": "Horus Gallery",
+      "latitude": 52.255634,
+      "longitude": 5.225321,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 177,
+      "name": "IQ",
+      "latitude": 52.511856,
+      "longitude": 6.093601,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 178,
+      "name": "Illustraties van Meij",
+      "latitude": 52.979777,
+      "longitude": 5.44254,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 179,
+      "name": "In d'Egelantier",
+      "latitude": 51.758172,
+      "longitude": 4.166044,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 180,
+      "name": "Incognito",
+      "latitude": 52.074468,
+      "longitude": 4.307294,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 181,
+      "name": "Iris Galerie",
+      "latitude": 52.088671,
+      "longitude": 4.384903,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 182,
+      "name": "JUUDS Foederer",
+      "latitude": 51.478179,
+      "longitude": 5.656037,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 183,
+      "name": "Jacksart",
+      "latitude": 52.212951,
+      "longitude": 5.955201,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 184,
+      "name": "Jan Kamphuis",
+      "latitude": 52.514731,
+      "longitude": 6.097394,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 185,
+      "name": "Jan Six Fine Art",
+      "latitude": 52.367715,
+      "longitude": 4.886308,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 186,
+      "name": "Jan van 't Hoff",
+      "latitude": 51.817564,
+      "longitude": 4.670142,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 187,
+      "name": "Janknegt Gallery",
+      "latitude": 52.256367,
+      "longitude": 5.224192,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 188,
+      "name": "Jose Reuvekamp",
+      "latitude": 52.438971,
+      "longitude": 6.23452,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 189,
+      "name": "Juffermans",
+      "latitude": 52.093706,
+      "longitude": 5.119455,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 190,
+      "name": "Jutters",
+      "latitude": 51.526882,
+      "longitude": 3.437294,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 191,
+      "name": "Kalpa de Boer",
+      "latitude": 52.372187,
+      "longitude": 4.887488,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 192,
+      "name": "Kanis",
+      "latitude": 52.394978,
+      "longitude": 4.642002,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 193,
+      "name": "Katinka",
+      "latitude": 51.816903,
+      "longitude": 4.669267,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 194,
+      "name": "Keet op 5",
+      "latitude": 53.480753,
+      "longitude": 6.160901,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 195,
+      "name": "Kramer Kunst & Antiek",
+      "latitude": 52.363046,
+      "longitude": 4.888236,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 196,
+      "name": "KuBra-Art",
+      "latitude": 51.717373,
+      "longitude": 5.363577,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 197,
+      "name": "Kunst Centrum Haarlem",
+      "latitude": 52.378254,
+      "longitude": 4.635692,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 198,
+      "name": "Kunst Zin",
+      "latitude": 52.263133,
+      "longitude": 6.79358,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 199,
+      "name": "Kunst bij Karel",
+      "latitude": 51.828313,
+      "longitude": 4.975667,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 200,
+      "name": "Kunst en Antiek",
+      "latitude": 53.055501,
+      "longitude": 4.798154,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 201,
+      "name": "Kunst en Antiek",
+      "latitude": 53.21436,
+      "longitude": 6.564571,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 202,
+      "name": "Kunst en Kleur",
+      "latitude": 52.009463,
+      "longitude": 4.711274,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 203,
+      "name": "Kunstation Uden",
+      "latitude": 51.656876,
+      "longitude": 5.619883,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 204,
+      "name": "Kunstbar",
+      "latitude": 52.082736,
+      "longitude": 4.305198,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 205,
+      "name": "Kunstgalerie Arnold",
+      "latitude": 52.986846,
+      "longitude": 6.845155,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 206,
+      "name": "Kunsthandel AmstelArt",
+      "latitude": 52.34371,
+      "longitude": 4.624958,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 207,
+      "name": "Kunsthandel Bernard van Welsenes",
+      "latitude": 52.669689,
+      "longitude": 4.70004,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 208,
+      "name": "Kunsthandel Haak",
+      "latitude": 52.013222,
+      "longitude": 4.359813,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 209,
+      "name": "Kunsthandel Ineke Aronds",
+      "latitude": 52.66876,
+      "longitude": 4.700276,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 210,
+      "name": "Kunsthandel Jacques Fijnaut",
+      "latitude": 52.363755,
+      "longitude": 4.889077,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 211,
+      "name": "Kunsthandel M. Jas, Lijstenmakerij",
+      "latitude": 51.588636,
+      "longitude": 4.778614,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 212,
+      "name": "Kunsthandel Ongering",
+      "latitude": 53.219423,
+      "longitude": 6.561945,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 213,
+      "name": "Kunsthandel R.G. van Driel",
+      "latitude": 51.879574,
+      "longitude": 4.507548,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 214,
+      "name": "Kunsthandel Van der Schaar",
+      "latitude": 52.216452,
+      "longitude": 5.957166,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 215,
+      "name": "Kunsthandel Wolff",
+      "latitude": 52.073859,
+      "longitude": 4.371432,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 216,
+      "name": "Kunsthandel en Galerie de Vries",
+      "latitude": 53.203185,
+      "longitude": 5.801648,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 217,
+      "name": "Kunsthandel en lijstenmakerij ten Ham",
+      "latitude": 52.140667,
+      "longitude": 5.58834,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 218,
+      "name": "Kunstketel",
+      "latitude": 50.85069,
+      "longitude": 5.713856,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 219,
+      "name": "Kunstregie/ Glaslab",
+      "latitude": 51.684381,
+      "longitude": 5.295275,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 220,
+      "name": "Kunstruimte Hiemstra",
+      "latitude": 52.939691,
+      "longitude": 6.131891,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 221,
+      "name": "Kunstschat",
+      "latitude": 51.701744,
+      "longitude": 5.969051,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 222,
+      "name": "Kunstuitleen Den Bosch",
+      "latitude": 51.688646,
+      "longitude": 5.316218,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 223,
+      "name": "Kunstuitleen Hellevoetsluis",
+      "latitude": 51.833658,
+      "longitude": 4.131738,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 224,
+      "name": "Kunstuitleen Utrecht",
+      "latitude": 52.095615,
+      "longitude": 5.114199,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 225,
+      "name": "Kunstuitleen Voorburg",
+      "latitude": 52.067203,
+      "longitude": 4.363801,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 226,
+      "name": "Kunstuitleen Zoetermeer",
+      "latitude": 52.056711,
+      "longitude": 4.495761,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 227,
+      "name": "Kunthandel P. de Boer",
+      "latitude": 52.36478,
+      "longitude": 4.894024,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 228,
+      "name": "Kurtface Zeefdruk",
+      "latitude": 51.83902,
+      "longitude": 5.86116,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 229,
+      "name": "Kuzco",
+      "latitude": 52.368979,
+      "longitude": 4.883135,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 230,
+      "name": "Kwadrat",
+      "latitude": 52.36055,
+      "longitude": 4.905823,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 231,
+      "name": "L'Art du Feu",
+      "latitude": 51.907923,
+      "longitude": 4.448838,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 232,
+      "name": "L'Encadreur",
+      "latitude": 52.364561,
+      "longitude": 4.886619,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 233,
+      "name": "Larik",
+      "latitude": 52.086089,
+      "longitude": 5.121897,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 234,
+      "name": "Lichtatelier",
+      "latitude": 52.219599,
+      "longitude": 6.894657,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 235,
+      "name": "Lijst 37",
+      "latitude": 52.009936,
+      "longitude": 4.356573,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 236,
+      "name": "Lijst-in",
+      "latitude": 51.812479,
+      "longitude": 4.670003,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 237,
+      "name": "Lijstenatelier André Weda",
+      "latitude": 52.549312,
+      "longitude": 4.663746,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 238,
+      "name": "Living Magic",
+      "latitude": 52.449181,
+      "longitude": 5.901962,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 239,
+      "name": "LuS",
+      "latitude": 52.559505,
+      "longitude": 5.916099,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 240,
+      "name": "Lötters Edelstenen",
+      "latitude": 52.076402,
+      "longitude": 6.179151,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 241,
+      "name": "Machinery Art",
+      "latitude": 51.813396,
+      "longitude": 4.662767,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 242,
+      "name": "Magazijn",
+      "latitude": 52.699802,
+      "longitude": 6.188105,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 243,
+      "name": "Make it Art Worthy - MIAW",
+      "latitude": 52.079161,
+      "longitude": 4.30185,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 244,
+      "name": "Malalel",
+      "latitude": 51.686752,
+      "longitude": 5.299655,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 245,
+      "name": "Marianne Aulma",
+      "latitude": 52.081571,
+      "longitude": 4.338084,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 246,
+      "name": "Marijke Corporaal",
+      "latitude": 51.91536,
+      "longitude": 6.579762,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 247,
+      "name": "Marjan Tiller",
+      "latitude": 52.357662,
+      "longitude": 4.88708,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 248,
+      "name": "Matumbo",
+      "latitude": 53.16312,
+      "longitude": 6.393055,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 249,
+      "name": "Meet Medemblik",
+      "latitude": 52.771776,
+      "longitude": 5.106567,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 250,
+      "name": "Meijer",
+      "latitude": 52.091191,
+      "longitude": 5.122029,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 251,
+      "name": "Middelburg Schilderkunst",
+      "latitude": 51.501777,
+      "longitude": 3.620422,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 252,
+      "name": "Mijn verwondering",
+      "latitude": 51.891573,
+      "longitude": 5.093329,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 253,
+      "name": "Modernekunst.nl",
+      "latitude": 52.174689,
+      "longitude": 4.496706,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 254,
+      "name": "Monart",
+      "latitude": 51.691516,
+      "longitude": 5.317986,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 255,
+      "name": "Mooz Enco Mosaics",
+      "latitude": 52.153989,
+      "longitude": 4.490086,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 256,
+      "name": "Muco",
+      "latitude": 52.373684,
+      "longitude": 4.833917,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 257,
+      "name": "Muspaneel Art",
+      "latitude": 52.509921,
+      "longitude": 5.003698,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 258,
+      "name": "Muurtooi",
+      "latitude": 53.200355,
+      "longitude": 5.803329,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 259,
+      "name": "Myta Mosaics",
+      "latitude": 52.103499,
+      "longitude": 4.279279,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 260,
+      "name": "NMAG Kiosk",
+      "latitude": 52.380871,
+      "longitude": 4.859658,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 261,
+      "name": "NendeKunst",
+      "latitude": 52.51025,
+      "longitude": 6.095543,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 262,
+      "name": "Neon Workshop Utrecht",
+      "latitude": 52.070872,
+      "longitude": 5.094476,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 263,
+      "name": "New Harvest Atelier",
+      "latitude": 51.808906,
+      "longitude": 3.936433,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 264,
+      "name": "Nick van Oosten",
+      "latitude": 51.817076,
+      "longitude": 4.669619,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 265,
+      "name": "Niek Waterbolk",
+      "latitude": 52.092649,
+      "longitude": 5.119242,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 266,
+      "name": "Nieuw Dakota",
+      "latitude": 52.400437,
+      "longitude": 4.892034,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 267,
+      "name": "No Man's Art Gallery",
+      "latitude": 52.382372,
+      "longitude": 4.855281,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 268,
+      "name": "O.L. Vrouwe",
+      "latitude": 50.847963,
+      "longitude": 5.693028,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 269,
+      "name": "Ogenblik Kunstwinkel",
+      "latitude": 53.200849,
+      "longitude": 5.799707,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 270,
+      "name": "Okker Art Gallery",
+      "latitude": 52.362645,
+      "longitude": 4.892118,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 271,
+      "name": "Old Dutch",
+      "latitude": 52.330032,
+      "longitude": 5.069608,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 272,
+      "name": "Olly",
+      "latitude": 52.641317,
+      "longitude": 5.058472,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 273,
+      "name": "Om de Hoek",
+      "latitude": 52.07201,
+      "longitude": 4.31117,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 274,
+      "name": "Open Art Exchange",
+      "latitude": 51.915389,
+      "longitude": 4.398178,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 275,
+      "name": "Page Not Found",
+      "latitude": 52.072267,
+      "longitude": 4.311325,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 276,
+      "name": "Pallas Gallery",
+      "latitude": 52.17465,
+      "longitude": 4.496754,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 277,
+      "name": "Panoramawinkel",
+      "latitude": 51.68586,
+      "longitude": 5.30674,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 278,
+      "name": "Panoramics",
+      "latitude": 52.372292,
+      "longitude": 4.88757,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 279,
+      "name": "Paper Art & Design",
+      "latitude": 52.077482,
+      "longitude": 4.284488,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 280,
+      "name": "Paradies",
+      "latitude": 51.917825,
+      "longitude": 4.395357,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 281,
+      "name": "Partners in Ambacht",
+      "latitude": 52.052367,
+      "longitude": 5.283794,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 282,
+      "name": "Pat Houkes",
+      "latitude": 52.05782,
+      "longitude": 4.30237,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 283,
+      "name": "Pennings Foundation",
+      "latitude": 51.433764,
+      "longitude": 5.488679,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 284,
+      "name": "Peter Donkersloot",
+      "latitude": 52.362403,
+      "longitude": 4.887184,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 285,
+      "name": "Peter ten Braak",
+      "latitude": 53.219739,
+      "longitude": 6.558687,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 286,
+      "name": "Petite Atelier",
+      "latitude": 52.18825,
+      "longitude": 5.943463,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 287,
+      "name": "Pieces of Art",
+      "latitude": 53.290245,
+      "longitude": 6.156073,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 288,
+      "name": "Piet Hein Eek",
+      "latitude": 51.449046,
+      "longitude": 5.44563,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 289,
+      "name": "Pipoos",
+      "latitude": 52.513244,
+      "longitude": 6.090852,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 290,
+      "name": "Prentenkabinet",
+      "latitude": 52.079864,
+      "longitude": 4.306374,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 291,
+      "name": "Prins Kunst Centrum",
+      "latitude": 52.386462,
+      "longitude": 4.637947,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 292,
+      "name": "Profilex",
+      "latitude": 52.39034,
+      "longitude": 4.886829,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 293,
+      "name": "Project 2.0 Gallery",
+      "latitude": 52.082018,
+      "longitude": 4.306221,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 294,
+      "name": "Q gallery",
+      "latitude": 52.407908,
+      "longitude": 6.89693,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 295,
+      "name": "R.M. Schippers & Zn.",
+      "latitude": 52.084074,
+      "longitude": 4.312889,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 296,
+      "name": "RV Galerie & Atelier",
+      "latitude": 52.233377,
+      "longitude": 4.445128,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 297,
+      "name": "Ramani Art",
+      "latitude": 52.09008,
+      "longitude": 5.119027,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 298,
+      "name": "Red Stamp",
+      "latitude": 52.369979,
+      "longitude": 4.8965,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 299,
+      "name": "Reef Products",
+      "latitude": 51.680155,
+      "longitude": 5.123407,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 300,
+      "name": "Reest-Art",
+      "latitude": 52.60016,
+      "longitude": 6.458748,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 301,
+      "name": "Renssen Art Gallery",
+      "latitude": 52.363497,
+      "longitude": 4.888853,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 302,
+      "name": "Rianne Kooijman",
+      "latitude": 53.146688,
+      "longitude": 6.495964,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 303,
+      "name": "Rob Rademaker",
+      "latitude": 52.092425,
+      "longitude": 5.12068,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 304,
+      "name": "Robèls Art",
+      "latitude": 50.857019,
+      "longitude": 6.068046,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 305,
+      "name": "Roesd",
+      "latitude": 53.16623,
+      "longitude": 6.334312,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 306,
+      "name": "Root",
+      "latitude": 51.932636,
+      "longitude": 4.485823,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 307,
+      "name": "Route du Soleil",
+      "latitude": 52.220541,
+      "longitude": 6.896861,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 308,
+      "name": "Rutger Brandt",
+      "latitude": 52.371659,
+      "longitude": 4.89869,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 309,
+      "name": "SPOT Atelier",
+      "latitude": 52.630339,
+      "longitude": 4.751362,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 310,
+      "name": "Sanaa",
+      "latitude": 52.092647,
+      "longitude": 5.122255,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 311,
+      "name": "Schaftgebouw - gebouw 75",
+      "latitude": 52.420376,
+      "longitude": 4.832437,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 312,
+      "name": "Senay Africans Winkel",
+      "latitude": 53.21463,
+      "longitude": 6.567463,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 313,
+      "name": "Sexyland shop",
+      "latitude": 52.373744,
+      "longitude": 4.897174,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 314,
+      "name": "Smashing Colors",
+      "latitude": 51.47128,
+      "longitude": 5.048731,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 315,
+      "name": "Smelik & Stoking",
+      "latitude": 52.082694,
+      "longitude": 4.305241,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 316,
+      "name": "Spooney World",
+      "latitude": 52.978816,
+      "longitude": 5.441923,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 317,
+      "name": "Steen Papier Schaar",
+      "latitude": 52.013409,
+      "longitude": 4.359264,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 318,
+      "name": "Stips",
+      "latitude": 52.925597,
+      "longitude": 6.790219,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 319,
+      "name": "Studio 26",
+      "latitude": 52.106256,
+      "longitude": 4.273673,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 320,
+      "name": "Studio Artics",
+      "latitude": 51.989804,
+      "longitude": 5.924573,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 321,
+      "name": "Studio Redzji",
+      "latitude": 52.674696,
+      "longitude": 6.52199,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 322,
+      "name": "Studio Twin",
+      "latitude": 52.158084,
+      "longitude": 4.493221,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 323,
+      "name": "Studio Wijnand",
+      "latitude": 52.24905,
+      "longitude": 6.911803,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 324,
+      "name": "Sud",
+      "latitude": 50.85353,
+      "longitude": 5.690186,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 325,
+      "name": "Super Gallery",
+      "latitude": 51.686811,
+      "longitude": 5.300776,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 326,
+      "name": "Sylvia Blickman Sieraden",
+      "latitude": 52.383778,
+      "longitude": 4.636449,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 327,
+      "name": "Tante Pos",
+      "latitude": 52.16169,
+      "longitude": 6.416644,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 328,
+      "name": "Textiel met een Ziel",
+      "latitude": 52.275542,
+      "longitude": 6.273751,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 329,
+      "name": "The Arts Kunst",
+      "latitude": 51.691392,
+      "longitude": 5.301246,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 330,
+      "name": "The heArtshop",
+      "latitude": 52.389716,
+      "longitude": 6.447682,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 331,
+      "name": "Thomas Thijssen",
+      "latitude": 52.155208,
+      "longitude": 5.385619,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 332,
+      "name": "Thuis Bij Mau",
+      "latitude": 52.026547,
+      "longitude": 5.556499,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 333,
+      "name": "Toegepaste Kunst",
+      "latitude": 52.078913,
+      "longitude": 4.276067,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 334,
+      "name": "Tramhalte",
+      "latitude": 51.604752,
+      "longitude": 6.046059,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 335,
+      "name": "Tribal Art",
+      "latitude": 52.360968,
+      "longitude": 4.888716,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 336,
+      "name": "Triptiek",
+      "latitude": 51.589235,
+      "longitude": 4.779739,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 337,
+      "name": "Tutti Cortex",
+      "latitude": 51.912762,
+      "longitude": 4.478775,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 338,
+      "name": "UNIT",
+      "latitude": 51.844271,
+      "longitude": 5.863199,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 339,
+      "name": "Uit de Kunst",
+      "latitude": 50.851275,
+      "longitude": 5.693518,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 340,
+      "name": "Uit de Kunst",
+      "latitude": 51.889345,
+      "longitude": 5.607776,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 341,
+      "name": "Under the Cherry Tree",
+      "latitude": 52.081706,
+      "longitude": 4.306319,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 342,
+      "name": "United Cowboys",
+      "latitude": 51.435822,
+      "longitude": 5.473792,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 343,
+      "name": "Unknown",
+      "latitude": 52.386699,
+      "longitude": 4.923606,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 344,
+      "name": "Upstream Gallery",
+      "latitude": 52.369149,
+      "longitude": 4.897433,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 345,
+      "name": "Van Apple Art",
+      "latitude": 52.174615,
+      "longitude": 4.496786,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 346,
+      "name": "Van Bellen Art",
+      "latitude": 51.902106,
+      "longitude": 4.16484,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 347,
+      "name": "Van Daalen",
+      "latitude": 52.69538,
+      "longitude": 6.191219,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 348,
+      "name": "Van Galen",
+      "latitude": 52.16261,
+      "longitude": 4.533545,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 349,
+      "name": "Vandermades Art",
+      "latitude": 52.058546,
+      "longitude": 4.489428,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 350,
+      "name": "Veilinghuis Klinkhamer",
+      "latitude": 53.214748,
+      "longitude": 6.563484,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 351,
+      "name": "Via Lumina",
+      "latitude": 51.817244,
+      "longitude": 4.669769,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 352,
+      "name": "Viltzijdig",
+      "latitude": 52.562041,
+      "longitude": 5.91334,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 353,
+      "name": "Vous Etes Ici",
+      "latitude": 52.400509,
+      "longitude": 4.892063,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 354,
+      "name": "W. Bertrams Atelier",
+      "latitude": 51.729986,
+      "longitude": 5.94333,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 355,
+      "name": "WG galerie",
+      "latitude": 51.81706,
+      "longitude": 4.666231,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 356,
+      "name": "Ward's Art",
+      "latitude": 52.140981,
+      "longitude": 5.587172,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 357,
+      "name": "Warnars & Warnars Art Dealers",
+      "latitude": 52.378957,
+      "longitude": 4.632203,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 358,
+      "name": "Wo-ow Ceramics",
+      "latitude": 52.380089,
+      "longitude": 4.629381,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 359,
+      "name": "World Art House",
+      "latitude": 51.554845,
+      "longitude": 6.076867,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 360,
+      "name": "YellowKorner",
+      "latitude": 51.687984,
+      "longitude": 5.302384,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 361,
+      "name": "YellowKorner",
+      "latitude": 52.077695,
+      "longitude": 4.311757,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 362,
+      "name": "YellowKorner",
+      "latitude": 52.372099,
+      "longitude": 4.888051,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 363,
+      "name": "Young Rembrandt Studio",
+      "latitude": 52.15757,
+      "longitude": 4.489836,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 364,
+      "name": "Zepplinn Zin in Vormgeving",
+      "latitude": 51.8903,
+      "longitude": 6.0047,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 365,
+      "name": "Zij aan Zij",
+      "latitude": 52.125571,
+      "longitude": 4.445976,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 366,
+      "name": "banka80",
+      "latitude": 52.092688,
+      "longitude": 4.303167,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 367,
+      "name": "byBrandenhorst",
+      "latitude": 51.816552,
+      "longitude": 4.669133,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 368,
+      "name": "cobra",
+      "latitude": 51.916128,
+      "longitude": 4.478716,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 369,
+      "name": "ted.",
+      "latitude": 52.374378,
+      "longitude": 4.857236,
+      "osm_klasse": "shop=art"
+    },
+    {
+      "id": 370,
+      "name": "workshopperij",
+      "latitude": 52.148989,
+      "longitude": 5.404231,
+      "osm_klasse": "shop=art"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: art (shop=art) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=art in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 370 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: art (shop=art) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: art (shop=art) — 370 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 370 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

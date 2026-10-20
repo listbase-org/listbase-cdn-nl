@@ -1,0 +1,1549 @@
+{
+  "id": "nl-osm-amenity-bicycle-rental",
+  "name": "Netherlands OSM: bicycle rental (amenity=bicycle_rental)",
+  "title": "Netherlands OSM: bicycle rental (amenity=bicycle_rental)",
+  "description": "Named OpenStreetMap features tagged amenity=bicycle_rental in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 214,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "A-Bike",
+      "latitude": 52.362099,
+      "longitude": 4.880057,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 2,
+      "name": "Ajax Bike",
+      "latitude": 52.356759,
+      "longitude": 4.896197,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 3,
+      "name": "Amsterdam Bike Rent",
+      "latitude": 52.384608,
+      "longitude": 4.894664,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 4,
+      "name": "Amsterdam Velo",
+      "latitude": 52.374824,
+      "longitude": 4.890531,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 5,
+      "name": "Arriva bike&go",
+      "latitude": 53.210895,
+      "longitude": 6.565919,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 6,
+      "name": "Behind The Beach",
+      "latitude": 52.374233,
+      "longitude": 4.53104,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 7,
+      "name": "Behind The Beach",
+      "latitude": 52.405806,
+      "longitude": 4.553547,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 8,
+      "name": "Bike and Eat",
+      "latitude": 52.115127,
+      "longitude": 6.018602,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 9,
+      "name": "Bike rental",
+      "latitude": 51.466597,
+      "longitude": 3.5275,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 10,
+      "name": "Bike rental",
+      "latitude": 52.327996,
+      "longitude": 5.632156,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 11,
+      "name": "Bike sharing hub Helix",
+      "latitude": 51.985056,
+      "longitude": 5.661544,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 12,
+      "name": "Bike2Go",
+      "latitude": 52.091953,
+      "longitude": 5.110674,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 13,
+      "name": "Bizon bike company",
+      "latitude": 52.158696,
+      "longitude": 4.50371,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 14,
+      "name": "Black Bikes",
+      "latitude": 52.094229,
+      "longitude": 4.276877,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 15,
+      "name": "Black Bikes",
+      "latitude": 52.344081,
+      "longitude": 4.895325,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 16,
+      "name": "Black Bikes",
+      "latitude": 52.351547,
+      "longitude": 4.857191,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 17,
+      "name": "Black Bikes",
+      "latitude": 52.373927,
+      "longitude": 4.89771,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 18,
+      "name": "Black Bikes",
+      "latitude": 52.374816,
+      "longitude": 4.891368,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 19,
+      "name": "BonBonBike",
+      "latitude": 52.67306,
+      "longitude": 4.697845,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 20,
+      "name": "Bootverhuur Hollema",
+      "latitude": 53.131383,
+      "longitude": 5.943359,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 21,
+      "name": "Buitenplaats De Hildenberg",
+      "latitude": 52.942833,
+      "longitude": 6.352449,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 22,
+      "name": "Burgh Haamstede",
+      "latitude": 51.694619,
+      "longitude": 3.737223,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 23,
+      "name": "Camping De Holterberg",
+      "latitude": 52.292149,
+      "longitude": 6.434635,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 24,
+      "name": "Camping De Paasheuvel",
+      "latitude": 52.330263,
+      "longitude": 5.82146,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 25,
+      "name": "Cherrie Bikes",
+      "latitude": 52.701505,
+      "longitude": 4.693714,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 26,
+      "name": "Cycle Center",
+      "latitude": 50.865444,
+      "longitude": 5.819622,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 27,
+      "name": "Cycle Center",
+      "latitude": 52.261257,
+      "longitude": 5.398954,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 28,
+      "name": "Cycle Center",
+      "latitude": 52.673932,
+      "longitude": 6.777696,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 29,
+      "name": "De Betuwse Stromen",
+      "latitude": 51.889297,
+      "longitude": 5.091082,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 30,
+      "name": "De Fietsloods",
+      "latitude": 51.574249,
+      "longitude": 3.701706,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 31,
+      "name": "De Mastworp fietsverhuur",
+      "latitude": 51.663028,
+      "longitude": 5.57588,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 32,
+      "name": "De Roodrunner",
+      "latitude": 51.377415,
+      "longitude": 3.459033,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 33,
+      "name": "De Trapkar",
+      "latitude": 53.447131,
+      "longitude": 5.793269,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 34,
+      "name": "De Vier Bannen",
+      "latitude": 51.617869,
+      "longitude": 3.986832,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 35,
+      "name": "De schaapskooi",
+      "latitude": 52.345808,
+      "longitude": 5.945467,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 36,
+      "name": "Deelfiets Nederland",
+      "latitude": 52.847668,
+      "longitude": 5.72097,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 37,
+      "name": "Delta Cycle",
+      "latitude": 51.497799,
+      "longitude": 3.612605,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 38,
+      "name": "Discount Bike Rental",
+      "latitude": 52.375283,
+      "longitude": 4.893358,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 39,
+      "name": "Doe Den Bosch",
+      "latitude": 51.689766,
+      "longitude": 5.301413,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 40,
+      "name": "Donkey Republic",
+      "latitude": 51.886416,
+      "longitude": 4.549298,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 41,
+      "name": "Donkey Republic KJ-plein",
+      "latitude": 52.081729,
+      "longitude": 4.322257,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 42,
+      "name": "Dousberg",
+      "latitude": 50.854959,
+      "longitude": 5.645773,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 43,
+      "name": "Ehub",
+      "latitude": 51.87675,
+      "longitude": 5.844044,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 44,
+      "name": "Europapark",
+      "latitude": 53.204747,
+      "longitude": 6.586253,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 45,
+      "name": "Fiets Verhuur De Buorren Twa",
+      "latitude": 53.40125,
+      "longitude": 6.086342,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 46,
+      "name": "Fietsservice Koning",
+      "latitude": 52.494766,
+      "longitude": 5.070404,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 47,
+      "name": "Fietsverhuur",
+      "latitude": 52.223271,
+      "longitude": 6.263243,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 48,
+      "name": "Fietsverhuur",
+      "latitude": 52.833828,
+      "longitude": 6.66677,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 49,
+      "name": "Fietsverhuur Adams",
+      "latitude": 51.460605,
+      "longitude": 4.862581,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 50,
+      "name": "Fietsverhuur Frisia",
+      "latitude": 53.296112,
+      "longitude": 5.071739,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 51,
+      "name": "Fietsverhuur Nobel",
+      "latitude": 53.444551,
+      "longitude": 5.686933,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 52,
+      "name": "Fietsverhuur Schreur",
+      "latitude": 52.920304,
+      "longitude": 6.542282,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 53,
+      "name": "Fietsverhuur Stellingwerf",
+      "latitude": 53.067098,
+      "longitude": 6.463928,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 54,
+      "name": "Fietsverhuur Van der Velden",
+      "latitude": 51.913718,
+      "longitude": 4.094433,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 55,
+      "name": "Fietsverhuur Vledder",
+      "latitude": 52.856403,
+      "longitude": 6.212992,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 56,
+      "name": "Fietsverhuur Zindels Domburg",
+      "latitude": 51.555445,
+      "longitude": 3.503964,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 57,
+      "name": "Fietsverhuur Zoutkamp",
+      "latitude": 53.336169,
+      "longitude": 6.300731,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 58,
+      "name": "Fissafiets",
+      "latitude": 51.851125,
+      "longitude": 5.846975,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 59,
+      "name": "G2 Mountainbike",
+      "latitude": 52.283368,
+      "longitude": 5.594482,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 60,
+      "name": "Gooise Fietsverhuur",
+      "latitude": 52.308673,
+      "longitude": 5.241669,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 61,
+      "name": "Green Budget Bikes",
+      "latitude": 52.37459,
+      "longitude": 4.8918,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 62,
+      "name": "Ha-Ha Fietsverhuur",
+      "latitude": 52.244078,
+      "longitude": 4.436841,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 63,
+      "name": "Haagse Stadsfiets",
+      "latitude": 52.074942,
+      "longitude": 4.318966,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 64,
+      "name": "Haagse Stadsfiets",
+      "latitude": 52.104376,
+      "longitude": 4.274574,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 65,
+      "name": "Hely Hub",
+      "latitude": 52.020231,
+      "longitude": 4.334296,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 66,
+      "name": "Hely Hub",
+      "latitude": 52.021659,
+      "longitude": 4.332322,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 67,
+      "name": "Hely Hub",
+      "latitude": 52.022443,
+      "longitude": 4.337826,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 68,
+      "name": "Hoegen Fietsverhuur",
+      "latitude": 52.369464,
+      "longitude": 5.770764,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 69,
+      "name": "Hotelbikes",
+      "latitude": 52.376588,
+      "longitude": 4.892898,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 70,
+      "name": "Jan Stam Fietsverhuur",
+      "latitude": 52.284001,
+      "longitude": 6.422743,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 71,
+      "name": "Jasper Fietsen",
+      "latitude": 51.854269,
+      "longitude": 5.83708,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 72,
+      "name": "Kappert Fietsverhuur",
+      "latitude": 52.005784,
+      "longitude": 6.350399,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 73,
+      "name": "KeoBike",
+      "latitude": 52.016993,
+      "longitude": 5.649234,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 74,
+      "name": "KeoBike",
+      "latitude": 52.179803,
+      "longitude": 5.961861,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 75,
+      "name": "KeoBike",
+      "latitude": 52.186895,
+      "longitude": 6.005011,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 76,
+      "name": "KeoBike",
+      "latitude": 52.193238,
+      "longitude": 5.936692,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 77,
+      "name": "KeoBike",
+      "latitude": 52.222575,
+      "longitude": 5.980795,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 78,
+      "name": "KeoBike",
+      "latitude": 52.22783,
+      "longitude": 5.370106,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 79,
+      "name": "KeoBike",
+      "latitude": 52.238898,
+      "longitude": 5.977914,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 80,
+      "name": "Kiewit",
+      "latitude": 53.457595,
+      "longitude": 5.773204,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 81,
+      "name": "King Bikes",
+      "latitude": 52.377411,
+      "longitude": 4.894751,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 82,
+      "name": "Kust Tweewielers Fietsverhuur",
+      "latitude": 52.702164,
+      "longitude": 4.694469,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 83,
+      "name": "Landgoed De Hellendoornse Berg",
+      "latitude": 52.380735,
+      "longitude": 6.414172,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 84,
+      "name": "Landgraaf treinstation",
+      "latitude": 50.895808,
+      "longitude": 6.019255,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 85,
+      "name": "Lansink Fietsen",
+      "latitude": 52.204505,
+      "longitude": 6.56003,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 86,
+      "name": "MOUS Tweewielers",
+      "latitude": 52.897816,
+      "longitude": 5.579388,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 87,
+      "name": "MacBike",
+      "latitude": 52.367061,
+      "longitude": 4.902454,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 88,
+      "name": "Mobility hub",
+      "latitude": 52.075267,
+      "longitude": 4.315945,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 89,
+      "name": "Molenaar",
+      "latitude": 53.446454,
+      "longitude": 5.798213,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 90,
+      "name": "Mountainbike Experience Arnhem",
+      "latitude": 51.987684,
+      "longitude": 5.890433,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 91,
+      "name": "Musculus Bikes",
+      "latitude": 52.129532,
+      "longitude": 5.428082,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 92,
+      "name": "NS OV-fiets",
+      "latitude": 52.404509,
+      "longitude": 4.627417,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 93,
+      "name": "Nextbike",
+      "latitude": 51.815444,
+      "longitude": 4.721111,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 94,
+      "name": "OV Fiets",
+      "latitude": 50.890671,
+      "longitude": 5.973504,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 95,
+      "name": "OV Fiets",
+      "latitude": 51.815696,
+      "longitude": 4.641009,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 96,
+      "name": "OV Fiets",
+      "latitude": 52.250138,
+      "longitude": 6.214469,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 97,
+      "name": "OV Fiets",
+      "latitude": 52.357367,
+      "longitude": 4.833725,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 98,
+      "name": "OV Servicewinkel NS",
+      "latitude": 52.438968,
+      "longitude": 4.815482,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 99,
+      "name": "OV fiets",
+      "latitude": 51.968778,
+      "longitude": 6.714367,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 100,
+      "name": "OV fiets",
+      "latitude": 52.088991,
+      "longitude": 5.249268,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 101,
+      "name": "OV fiets",
+      "latitude": 52.17037,
+      "longitude": 4.990927,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 102,
+      "name": "OV fiets",
+      "latitude": 52.391095,
+      "longitude": 4.607128,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 103,
+      "name": "OV fiets",
+      "latitude": 53.333655,
+      "longitude": 6.923229,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 104,
+      "name": "OV-Fiets",
+      "latitude": 51.495126,
+      "longitude": 3.617642,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 105,
+      "name": "OV-Fiets",
+      "latitude": 51.495411,
+      "longitude": 4.295921,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 106,
+      "name": "OV-Fiets",
+      "latitude": 51.690505,
+      "longitude": 5.295153,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 107,
+      "name": "OV-Fiets",
+      "latitude": 51.807742,
+      "longitude": 4.666609,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 108,
+      "name": "OV-Fiets",
+      "latitude": 51.958565,
+      "longitude": 6.294907,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 109,
+      "name": "OV-Fiets",
+      "latitude": 51.988952,
+      "longitude": 5.084023,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 110,
+      "name": "OV-Fiets",
+      "latitude": 52.020161,
+      "longitude": 5.548902,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 111,
+      "name": "OV-Fiets",
+      "latitude": 52.045538,
+      "longitude": 5.573758,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 112,
+      "name": "OV-Fiets",
+      "latitude": 52.109946,
+      "longitude": 5.123647,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 113,
+      "name": "OV-Fiets",
+      "latitude": 52.135581,
+      "longitude": 5.032871,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 114,
+      "name": "OV-Fiets",
+      "latitude": 52.339893,
+      "longitude": 4.873347,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 115,
+      "name": "OV-Fiets",
+      "latitude": 52.503477,
+      "longitude": 6.089361,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 116,
+      "name": "OV-Fiets",
+      "latitude": 52.637616,
+      "longitude": 4.739339,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 117,
+      "name": "OV-Fiets",
+      "latitude": 52.692457,
+      "longitude": 6.197798,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 118,
+      "name": "OV-Fiets",
+      "latitude": 52.9925,
+      "longitude": 6.571029,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 119,
+      "name": "OV-Fiets kluizen",
+      "latitude": 51.962474,
+      "longitude": 5.969578,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 120,
+      "name": "OV-Fietsverhuur",
+      "latitude": 52.346874,
+      "longitude": 4.918952,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 121,
+      "name": "OV-fiets",
+      "latitude": 50.868714,
+      "longitude": 5.833557,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 122,
+      "name": "OV-fiets",
+      "latitude": 51.475947,
+      "longitude": 5.663879,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 123,
+      "name": "OV-fiets",
+      "latitude": 51.498504,
+      "longitude": 3.88946,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 124,
+      "name": "OV-fiets",
+      "latitude": 51.540065,
+      "longitude": 4.459785,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 125,
+      "name": "OV-fiets",
+      "latitude": 51.565396,
+      "longitude": 5.052015,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 126,
+      "name": "OV-fiets",
+      "latitude": 51.645292,
+      "longitude": 5.93867,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 127,
+      "name": "OV-fiets",
+      "latitude": 51.726896,
+      "longitude": 5.874347,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 128,
+      "name": "OV-fiets",
+      "latitude": 51.765409,
+      "longitude": 5.531232,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 129,
+      "name": "OV-fiets",
+      "latitude": 51.842771,
+      "longitude": 5.853666,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 130,
+      "name": "OV-fiets",
+      "latitude": 51.853327,
+      "longitude": 4.553863,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 131,
+      "name": "OV-fiets",
+      "latitude": 51.907099,
+      "longitude": 4.490294,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 132,
+      "name": "OV-fiets",
+      "latitude": 52.009859,
+      "longitude": 6.030562,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 133,
+      "name": "OV-fiets",
+      "latitude": 52.028404,
+      "longitude": 5.531232,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 134,
+      "name": "OV-fiets",
+      "latitude": 52.08167,
+      "longitude": 4.322366,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 135,
+      "name": "OV-fiets",
+      "latitude": 52.087306,
+      "longitude": 5.109382,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 136,
+      "name": "OV-fiets",
+      "latitude": 52.08914,
+      "longitude": 5.10757,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 137,
+      "name": "OV-fiets",
+      "latitude": 52.092439,
+      "longitude": 5.152849,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 138,
+      "name": "OV-fiets",
+      "latitude": 52.102935,
+      "longitude": 5.08943,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 139,
+      "name": "OV-fiets",
+      "latitude": 52.103437,
+      "longitude": 5.769191,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 140,
+      "name": "OV-fiets",
+      "latitude": 52.124839,
+      "longitude": 4.657603,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 141,
+      "name": "OV-fiets",
+      "latitude": 52.177752,
+      "longitude": 5.178685,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 142,
+      "name": "OV-fiets",
+      "latitude": 52.261796,
+      "longitude": 6.767914,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 143,
+      "name": "OV-fiets",
+      "latitude": 52.268576,
+      "longitude": 6.175458,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 144,
+      "name": "OV-fiets",
+      "latitude": 52.293546,
+      "longitude": 4.698887,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 145,
+      "name": "OV-fiets",
+      "latitude": 52.298525,
+      "longitude": 6.748754,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 146,
+      "name": "OV-fiets",
+      "latitude": 52.360741,
+      "longitude": 4.931375,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 147,
+      "name": "OV-fiets",
+      "latitude": 52.366614,
+      "longitude": 6.463159,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 148,
+      "name": "OV-fiets",
+      "latitude": 52.375205,
+      "longitude": 5.217193,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 149,
+      "name": "OV-fiets",
+      "latitude": 52.380067,
+      "longitude": 4.89872,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 150,
+      "name": "OV-fiets",
+      "latitude": 52.418934,
+      "longitude": 4.631473,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 151,
+      "name": "OV-fiets",
+      "latitude": 52.508521,
+      "longitude": 5.472755,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 152,
+      "name": "OV-fiets",
+      "latitude": 52.785153,
+      "longitude": 4.805085,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 153,
+      "name": "OV-fiets",
+      "latitude": 52.790788,
+      "longitude": 6.117923,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 154,
+      "name": "OV-fiets",
+      "latitude": 52.855228,
+      "longitude": 6.52113,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 155,
+      "name": "OV-fiets",
+      "latitude": 53.104349,
+      "longitude": 6.885425,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 156,
+      "name": "OV-fiets",
+      "latitude": 53.139318,
+      "longitude": 7.035401,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 157,
+      "name": "OV-fiets",
+      "latitude": 53.159836,
+      "longitude": 6.771021,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 158,
+      "name": "OV-fiets",
+      "latitude": 53.175235,
+      "longitude": 6.617858,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 159,
+      "name": "OV-fiets",
+      "latitude": 53.230569,
+      "longitude": 6.557424,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 160,
+      "name": "OV-fiets",
+      "latitude": 53.248377,
+      "longitude": 6.406431,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 161,
+      "name": "OV-fiets",
+      "latitude": 53.325711,
+      "longitude": 6.862463,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 162,
+      "name": "OV-fiets",
+      "latitude": 53.329423,
+      "longitude": 6.519957,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 163,
+      "name": "OV-fiets Schiphol",
+      "latitude": 52.309128,
+      "longitude": 4.759299,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 164,
+      "name": "OV-fietscarrousel",
+      "latitude": 52.063498,
+      "longitude": 5.195927,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 165,
+      "name": "OV-fietskluizen",
+      "latitude": 51.952144,
+      "longitude": 4.551781,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 166,
+      "name": "OVFiets",
+      "latitude": 51.526859,
+      "longitude": 6.013688,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 167,
+      "name": "OVfiets",
+      "latitude": 51.450013,
+      "longitude": 5.456771,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 168,
+      "name": "Oosting Rijwielverhuur",
+      "latitude": 52.970468,
+      "longitude": 6.788128,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 169,
+      "name": "Otter",
+      "latitude": 52.726383,
+      "longitude": 6.035788,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 170,
+      "name": "Ov-fiets",
+      "latitude": 52.375858,
+      "longitude": 4.531602,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 171,
+      "name": "P+R Hoogkerk",
+      "latitude": 53.197895,
+      "longitude": 6.513759,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 172,
+      "name": "Paul & Ninette Bike Rental",
+      "latitude": 52.357634,
+      "longitude": 4.902013,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 173,
+      "name": "Pesie Rent A Bike",
+      "latitude": 52.659164,
+      "longitude": 4.717546,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 174,
+      "name": "Rent&Joy",
+      "latitude": 51.400952,
+      "longitude": 3.546804,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 175,
+      "name": "Rent-a-Bike van Dam",
+      "latitude": 52.262086,
+      "longitude": 4.493628,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 176,
+      "name": "Snorren in de Kop",
+      "latitude": 52.790824,
+      "longitude": 6.117244,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 177,
+      "name": "Soepboer Rijwielverhuur",
+      "latitude": 53.469227,
+      "longitude": 6.201584,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 178,
+      "name": "Soepboer Rijwielverhuur",
+      "latitude": 53.477939,
+      "longitude": 6.162322,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 179,
+      "name": "Solex verhuur De Betuwe",
+      "latitude": 51.855589,
+      "longitude": 5.429364,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 180,
+      "name": "Solexverhuur Oudelande",
+      "latitude": 51.413719,
+      "longitude": 3.826416,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 181,
+      "name": "Sprenkelder Tweewielers",
+      "latitude": 51.989631,
+      "longitude": 6.556546,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 182,
+      "name": "Stepverhuur de Groene Grens",
+      "latitude": 52.029997,
+      "longitude": 5.586064,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 183,
+      "name": "Swapfiets",
+      "latitude": 50.847947,
+      "longitude": 5.705388,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 184,
+      "name": "Swapfiets",
+      "latitude": 51.588243,
+      "longitude": 4.772296,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 185,
+      "name": "Swapfiets",
+      "latitude": 52.068562,
+      "longitude": 4.322857,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 186,
+      "name": "Swapfiets",
+      "latitude": 52.342881,
+      "longitude": 4.856202,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 187,
+      "name": "Swapfiets",
+      "latitude": 52.352464,
+      "longitude": 4.887437,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 188,
+      "name": "Tabak's Fietsverhuur",
+      "latitude": 52.84507,
+      "longitude": 6.758067,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 189,
+      "name": "Terhernstersyl",
+      "latitude": 53.042027,
+      "longitude": 5.769539,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 190,
+      "name": "Tom Terpstra",
+      "latitude": 53.396796,
+      "longitude": 5.343729,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 191,
+      "name": "Ton Tweewielers Fietsverhuur",
+      "latitude": 52.510886,
+      "longitude": 5.046695,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 192,
+      "name": "Touren in Drenthe",
+      "latitude": 52.670797,
+      "longitude": 7.000091,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 193,
+      "name": "Tuut Tuut",
+      "latitude": 52.544573,
+      "longitude": 4.661335,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 194,
+      "name": "Uit in Twente",
+      "latitude": 52.270394,
+      "longitude": 6.991873,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 195,
+      "name": "Van Leeuwen Fietsverhuur",
+      "latitude": 51.976523,
+      "longitude": 4.12741,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 196,
+      "name": "Van Nijhuis Rijwielen",
+      "latitude": 52.305848,
+      "longitude": 5.585333,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 197,
+      "name": "Van den Hemel",
+      "latitude": 51.379121,
+      "longitude": 3.503496,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 198,
+      "name": "Velocity",
+      "latitude": 50.883914,
+      "longitude": 6.042713,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 199,
+      "name": "Velorent",
+      "latitude": 51.432001,
+      "longitude": 5.449659,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 200,
+      "name": "Velorette Fietsverhuur",
+      "latitude": 51.967567,
+      "longitude": 6.582336,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 201,
+      "name": "Veluwe Actief - Arnhem",
+      "latitude": 52.016597,
+      "longitude": 5.931824,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 202,
+      "name": "Veluwe Specialist Garderen",
+      "latitude": 52.233959,
+      "longitude": 5.712784,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 203,
+      "name": "Veluwetransferium Posbank",
+      "latitude": 52.016009,
+      "longitude": 6.024721,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 204,
+      "name": "Vermeulen Bikes",
+      "latitude": 53.021357,
+      "longitude": 4.740359,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 205,
+      "name": "Vespa Verhuur Bollenstreek",
+      "latitude": 52.26113,
+      "longitude": 4.554077,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 206,
+      "name": "Vespa Verhuur Noordwijk",
+      "latitude": 52.24295,
+      "longitude": 4.432704,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 207,
+      "name": "Vondel Bicycle Parlor",
+      "latitude": 52.360634,
+      "longitude": 4.867786,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 208,
+      "name": "Waddenhoes Fietsverhuur",
+      "latitude": 53.399434,
+      "longitude": 6.455633,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 209,
+      "name": "Werner's Fietsverhuur",
+      "latitude": 53.067673,
+      "longitude": 4.765946,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 210,
+      "name": "Wheelgood",
+      "latitude": 52.37559,
+      "longitude": 4.899331,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 211,
+      "name": "Yellow Bike",
+      "latitude": 52.376155,
+      "longitude": 4.893994,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 212,
+      "name": "ZV het Y",
+      "latitude": 52.378078,
+      "longitude": 4.992016,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 213,
+      "name": "Zeelen",
+      "latitude": 53.297385,
+      "longitude": 5.090432,
+      "osm_klasse": "amenity=bicycle_rental"
+    },
+    {
+      "id": 214,
+      "name": "Zeeuws & Zo Scooter & E-Bikeverhuur",
+      "latitude": 51.495051,
+      "longitude": 4.051544,
+      "osm_klasse": "amenity=bicycle_rental"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: bicycle rental (amenity=bicycle_rental) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=bicycle_rental in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 214 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: bicycle rental (amenity=bicycle_rental) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: bicycle rental (amenity=bicycle_rental) — 214 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 214 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

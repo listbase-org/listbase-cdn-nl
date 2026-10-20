@@ -1,0 +1,1997 @@
+{
+  "id": "nl-osm-leisure-swimming-pool",
+  "name": "Netherlands OSM: swimming pool (leisure=swimming_pool)",
+  "title": "Netherlands OSM: swimming pool (leisure=swimming_pool)",
+  "description": "Named OpenStreetMap features tagged leisure=swimming_pool in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 278,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "\"de Plantage\" Sportlaan 4",
+      "latitude": 51.419524,
+      "longitude": 4.334439,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 2,
+      "name": "'t Kommetje",
+      "latitude": 51.854269,
+      "longitude": 4.323142,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 3,
+      "name": "'t Mirnser Klif",
+      "latitude": 52.850605,
+      "longitude": 5.48104,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 4,
+      "name": "'t Wolfsbad",
+      "latitude": 51.439152,
+      "longitude": 5.587987,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 5,
+      "name": "25 meterbad",
+      "latitude": 51.415187,
+      "longitude": 5.477274,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 6,
+      "name": "50 meterbad",
+      "latitude": 51.414854,
+      "longitude": 5.478017,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 7,
+      "name": "50m-wedstrijdbad",
+      "latitude": 51.366566,
+      "longitude": 6.136239,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 8,
+      "name": "5R",
+      "latitude": 53.132114,
+      "longitude": 6.584598,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 9,
+      "name": "AGO-Zwembad",
+      "latitude": 52.336604,
+      "longitude": 4.975123,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 10,
+      "name": "Aat de Jonge",
+      "latitude": 52.524881,
+      "longitude": 5.708083,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 11,
+      "name": "Amstelbad",
+      "latitude": 52.30256,
+      "longitude": 4.92082,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 12,
+      "name": "Aqua Mexicana",
+      "latitude": 52.623763,
+      "longitude": 6.560756,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 13,
+      "name": "Aquadintel",
+      "latitude": 51.631187,
+      "longitude": 4.366965,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 14,
+      "name": "Aquadrome",
+      "latitude": 52.205801,
+      "longitude": 6.896391,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 15,
+      "name": "Ariën Prins van Wijngaarden Bad",
+      "latitude": 52.588503,
+      "longitude": 6.086814,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 16,
+      "name": "Binnenbad de Vliet",
+      "latitude": 52.138998,
+      "longitude": 4.481378,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 17,
+      "name": "Boerhaavebad",
+      "latitude": 52.368702,
+      "longitude": 4.648982,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 18,
+      "name": "Bosbad",
+      "latitude": 52.088766,
+      "longitude": 5.64722,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 19,
+      "name": "Buitenbad",
+      "latitude": 51.660354,
+      "longitude": 5.062558,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 20,
+      "name": "Buitenbad",
+      "latitude": 51.937614,
+      "longitude": 6.071632,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 21,
+      "name": "Buitenbad",
+      "latitude": 52.384139,
+      "longitude": 5.629007,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 22,
+      "name": "Buitenzwembad",
+      "latitude": 51.326988,
+      "longitude": 5.420663,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 23,
+      "name": "Cariba-bad",
+      "latitude": 51.842125,
+      "longitude": 4.9451,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 24,
+      "name": "Coenders Zwemschool Sauna & Fitness",
+      "latitude": 51.601087,
+      "longitude": 5.914988,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 25,
+      "name": "De Albatros",
+      "latitude": 51.358823,
+      "longitude": 5.310549,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 26,
+      "name": "De Baby Spa",
+      "latitude": 51.886821,
+      "longitude": 4.5591,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 27,
+      "name": "De Blinkerd",
+      "latitude": 53.278467,
+      "longitude": 6.6997,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 28,
+      "name": "De Brake",
+      "latitude": 52.386019,
+      "longitude": 5.793684,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 29,
+      "name": "De Does",
+      "latitude": 52.151176,
+      "longitude": 4.530221,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 30,
+      "name": "De Dubbel",
+      "latitude": 51.791798,
+      "longitude": 4.709359,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 31,
+      "name": "De Duikelaar",
+      "latitude": 51.828738,
+      "longitude": 4.855251,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 32,
+      "name": "De Duikerdel",
+      "latitude": 52.700203,
+      "longitude": 4.818066,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 33,
+      "name": "De Griffioen",
+      "latitude": 53.25988,
+      "longitude": 6.304548,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 34,
+      "name": "De Hazelaar",
+      "latitude": 52.102826,
+      "longitude": 4.593662,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 35,
+      "name": "De Hoefse Vonder",
+      "latitude": 51.687862,
+      "longitude": 5.387089,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 36,
+      "name": "De Hokseberg",
+      "latitude": 52.418927,
+      "longitude": 5.873651,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 37,
+      "name": "De Honte",
+      "latitude": 51.369727,
+      "longitude": 4.017984,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 38,
+      "name": "De Kiefer",
+      "latitude": 52.592388,
+      "longitude": 6.462498,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 39,
+      "name": "De Koornmolen",
+      "latitude": 52.009295,
+      "longitude": 4.565364,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 40,
+      "name": "De Lieberg",
+      "latitude": 52.226891,
+      "longitude": 5.192524,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 41,
+      "name": "De Lockhorst",
+      "latitude": 51.827971,
+      "longitude": 4.782344,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 42,
+      "name": "De Looermark",
+      "latitude": 52.253873,
+      "longitude": 6.356561,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 43,
+      "name": "De Looermark",
+      "latitude": 52.254332,
+      "longitude": 6.356156,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 44,
+      "name": "De Louwert",
+      "latitude": 51.842915,
+      "longitude": 4.639216,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 45,
+      "name": "De Meent",
+      "latitude": 52.173904,
+      "longitude": 5.031287,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 46,
+      "name": "De Meent",
+      "latitude": 52.297501,
+      "longitude": 5.243864,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 47,
+      "name": "De Moraine",
+      "latitude": 52.827602,
+      "longitude": 6.477851,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 48,
+      "name": "De Paal",
+      "latitude": 51.337243,
+      "longitude": 5.356251,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 49,
+      "name": "De Paddestoel",
+      "latitude": 51.815111,
+      "longitude": 4.697599,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 50,
+      "name": "De Parel",
+      "latitude": 51.560604,
+      "longitude": 3.490943,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 51,
+      "name": "De Potten Naaktstrand",
+      "latitude": 53.036156,
+      "longitude": 5.727264,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 52,
+      "name": "De Randoet",
+      "latitude": 51.666717,
+      "longitude": 4.781696,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 53,
+      "name": "De Roerdomp",
+      "latitude": 51.19309,
+      "longitude": 6.011305,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 54,
+      "name": "De Sluispoel",
+      "latitude": 52.835855,
+      "longitude": 4.804939,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 55,
+      "name": "De Smelen",
+      "latitude": 51.407947,
+      "longitude": 5.553524,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 56,
+      "name": "De Sypel",
+      "latitude": 52.342779,
+      "longitude": 5.627257,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 57,
+      "name": "De Tobbe",
+      "latitude": 51.859891,
+      "longitude": 4.992253,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 58,
+      "name": "De Treffer",
+      "latitude": 50.779637,
+      "longitude": 5.705697,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 59,
+      "name": "De Tuimelaar",
+      "latitude": 51.872335,
+      "longitude": 5.742479,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 60,
+      "name": "De Watergeus",
+      "latitude": 52.051049,
+      "longitude": 4.521799,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 61,
+      "name": "De Waterhoorn",
+      "latitude": 52.652277,
+      "longitude": 5.072627,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 62,
+      "name": "De Waterman",
+      "latitude": 52.020046,
+      "longitude": 4.278109,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 63,
+      "name": "De Wedert",
+      "latitude": 51.365469,
+      "longitude": 5.454588,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 64,
+      "name": "De Wedert",
+      "latitude": 51.36641,
+      "longitude": 5.453433,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 65,
+      "name": "De Weid",
+      "latitude": 52.746869,
+      "longitude": 5.213783,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 66,
+      "name": "De Welle",
+      "latitude": 53.093318,
+      "longitude": 6.086479,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 67,
+      "name": "De Welle",
+      "latitude": 53.100169,
+      "longitude": 6.093241,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 68,
+      "name": "De Wellen",
+      "latitude": 51.775377,
+      "longitude": 4.61889,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 69,
+      "name": "De Wijzend",
+      "latitude": 52.665767,
+      "longitude": 5.078299,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 70,
+      "name": "De Wilgenring",
+      "latitude": 51.948735,
+      "longitude": 4.472115,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 71,
+      "name": "De Wisselslag",
+      "latitude": 51.367148,
+      "longitude": 6.137277,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 72,
+      "name": "De Woldzoom",
+      "latitude": 53.205027,
+      "longitude": 6.261137,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 73,
+      "name": "Den Butter",
+      "latitude": 51.589515,
+      "longitude": 4.932882,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 74,
+      "name": "Den Krieck",
+      "latitude": 52.887391,
+      "longitude": 4.805773,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 75,
+      "name": "Diepe bad",
+      "latitude": 52.43255,
+      "longitude": 4.905939,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 76,
+      "name": "Doelgroepenbad",
+      "latitude": 52.338396,
+      "longitude": 4.902373,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 77,
+      "name": "Dol-fijn",
+      "latitude": 51.650904,
+      "longitude": 4.000864,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 78,
+      "name": "Dolfijnenbad",
+      "latitude": 52.715216,
+      "longitude": 6.491028,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 79,
+      "name": "Dubbelslag",
+      "latitude": 53.321398,
+      "longitude": 6.887098,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 80,
+      "name": "Duikbasin",
+      "latitude": 51.571662,
+      "longitude": 4.562658,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 81,
+      "name": "ESCAPE swimming pool",
+      "latitude": 52.215779,
+      "longitude": 4.417944,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 82,
+      "name": "Fun Valley",
+      "latitude": 50.804482,
+      "longitude": 5.70456,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 83,
+      "name": "Gemeentelijk openluchtzwembad Twenhaarsveld",
+      "latitude": 52.286806,
+      "longitude": 6.445194,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 84,
+      "name": "Golfslagbad",
+      "latitude": 51.275223,
+      "longitude": 5.931066,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 85,
+      "name": "Gouwebad de Sniep",
+      "latitude": 52.041833,
+      "longitude": 4.643116,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 86,
+      "name": "Groenendaal Plus",
+      "latitude": 51.895579,
+      "longitude": 5.41752,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 87,
+      "name": "Grote bad",
+      "latitude": 52.432838,
+      "longitude": 4.905588,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 88,
+      "name": "Hessenbad",
+      "latitude": 52.001748,
+      "longitude": 6.206504,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 89,
+      "name": "Het Baafje",
+      "latitude": 52.60886,
+      "longitude": 4.687666,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 90,
+      "name": "Het Boothuis",
+      "latitude": 51.872706,
+      "longitude": 4.857743,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 91,
+      "name": "Het Buitendiep",
+      "latitude": 51.689951,
+      "longitude": 4.448217,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 92,
+      "name": "Het Dommelbad",
+      "latitude": 51.592927,
+      "longitude": 5.333161,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 93,
+      "name": "Het Koggebad",
+      "latitude": 52.626637,
+      "longitude": 4.946173,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 94,
+      "name": "Het Oosterbad",
+      "latitude": 52.286075,
+      "longitude": 4.799887,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 95,
+      "name": "Het Streekbad",
+      "latitude": 52.691369,
+      "longitude": 5.18473,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 96,
+      "name": "Het Wiel",
+      "latitude": 51.878856,
+      "longitude": 5.294363,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 97,
+      "name": "Het Zwembad",
+      "latitude": 52.724165,
+      "longitude": 5.076301,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 98,
+      "name": "In de Bandert",
+      "latitude": 51.106914,
+      "longitude": 5.886612,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 99,
+      "name": "Instructiebad",
+      "latitude": 51.415313,
+      "longitude": 5.477413,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 100,
+      "name": "Instructiebad",
+      "latitude": 51.924076,
+      "longitude": 5.847667,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 101,
+      "name": "It Rak",
+      "latitude": 53.034689,
+      "longitude": 5.673632,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 102,
+      "name": "Jos Koelemeijer",
+      "latitude": 52.709994,
+      "longitude": 4.934408,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 103,
+      "name": "Junglebad",
+      "latitude": 51.521875,
+      "longitude": 5.138389,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 104,
+      "name": "Kikkerfort",
+      "latitude": 52.179009,
+      "longitude": 4.99789,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 105,
+      "name": "Kinderbad",
+      "latitude": 51.571149,
+      "longitude": 4.560995,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 106,
+      "name": "Kinderbad",
+      "latitude": 52.274069,
+      "longitude": 5.438087,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 107,
+      "name": "Kinderbuitenbad",
+      "latitude": 51.660589,
+      "longitude": 5.06255,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 108,
+      "name": "Koud bad",
+      "latitude": 51.326979,
+      "longitude": 5.420766,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 109,
+      "name": "Laco",
+      "latitude": 51.419065,
+      "longitude": 4.335401,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 110,
+      "name": "Laco Sportcentrum",
+      "latitude": 51.495222,
+      "longitude": 5.314733,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 111,
+      "name": "Landal Ooghduyne",
+      "latitude": 52.89317,
+      "longitude": 4.729017,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 112,
+      "name": "Landgoed De Hellendoornse Berg",
+      "latitude": 52.380343,
+      "longitude": 6.414658,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 113,
+      "name": "Lazy river",
+      "latitude": 51.340606,
+      "longitude": 5.254265,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 114,
+      "name": "Maarten van der Weijdenbad",
+      "latitude": 52.732586,
+      "longitude": 4.745575,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 115,
+      "name": "Maji Springs",
+      "latitude": 51.522305,
+      "longitude": 5.139122,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 116,
+      "name": "Meekenesch",
+      "latitude": 51.992376,
+      "longitude": 6.566075,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 117,
+      "name": "Naaktstrandje Kraaijenbergse Plassen",
+      "latitude": 51.74872,
+      "longitude": 5.802033,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 118,
+      "name": "Nationaal Zwemcentrum de Tongelreep",
+      "latitude": 51.416308,
+      "longitude": 5.478122,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 119,
+      "name": "Natuurbad De Donk",
+      "latitude": 51.882019,
+      "longitude": 4.937951,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 120,
+      "name": "Natuurbad De Wispel",
+      "latitude": 53.023402,
+      "longitude": 5.998223,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 121,
+      "name": "Natuurbad Rekken",
+      "latitude": 52.113708,
+      "longitude": 6.750085,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 122,
+      "name": "Nijstad",
+      "latitude": 52.707474,
+      "longitude": 6.424779,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 123,
+      "name": "Nuilerveld",
+      "latitude": 52.79177,
+      "longitude": 6.485332,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 124,
+      "name": "Oefenbad Loos (overdekt)",
+      "latitude": 52.608668,
+      "longitude": 4.688588,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 125,
+      "name": "Ondiepe bad",
+      "latitude": 52.184692,
+      "longitude": 4.739535,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 126,
+      "name": "Openluchtbad Galgenveld",
+      "latitude": 52.108996,
+      "longitude": 6.493613,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 127,
+      "name": "Openluchtzwembad De Slenken",
+      "latitude": 52.677511,
+      "longitude": 6.2981,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 128,
+      "name": "Optisport 't Walfort",
+      "latitude": 51.933867,
+      "longitude": 6.602347,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 129,
+      "name": "Optisport Dalfsen",
+      "latitude": 52.522431,
+      "longitude": 6.27264,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 130,
+      "name": "Optisport Veenweidebad",
+      "latitude": 52.207836,
+      "longitude": 4.887503,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 131,
+      "name": "Optisport Zwembad Poelmeer",
+      "latitude": 52.184019,
+      "longitude": 4.486776,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 132,
+      "name": "Optisport zwembad De Niervaert",
+      "latitude": 51.670103,
+      "longitude": 4.536924,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 133,
+      "name": "Papiermolen",
+      "latitude": 53.203152,
+      "longitude": 6.569491,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 134,
+      "name": "Peuter-/kleuterbad",
+      "latitude": 52.939415,
+      "longitude": 6.664106,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 135,
+      "name": "Peuterbad",
+      "latitude": 51.366133,
+      "longitude": 6.13629,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 136,
+      "name": "Peuterbad",
+      "latitude": 51.924125,
+      "longitude": 5.847701,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 137,
+      "name": "Peuterbad",
+      "latitude": 52.184396,
+      "longitude": 4.739643,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 138,
+      "name": "Peuterbad",
+      "latitude": 52.364463,
+      "longitude": 4.951394,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 139,
+      "name": "Peuterbad",
+      "latitude": 52.404556,
+      "longitude": 6.888263,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 140,
+      "name": "Pierenbad",
+      "latitude": 52.43314,
+      "longitude": 4.905221,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 141,
+      "name": "Pierenbadje",
+      "latitude": 52.42823,
+      "longitude": 4.635641,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 142,
+      "name": "Pierenbadje Emmermeer",
+      "latitude": 52.799979,
+      "longitude": 6.889158,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 143,
+      "name": "Polderbad",
+      "latitude": 51.962584,
+      "longitude": 4.601909,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 144,
+      "name": "Polderbad Buitenbad",
+      "latitude": 51.962265,
+      "longitude": 4.601485,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 145,
+      "name": "Rauwbraken",
+      "latitude": 51.581552,
+      "longitude": 5.130703,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 146,
+      "name": "Recreatiebad",
+      "latitude": 51.923983,
+      "longitude": 5.847604,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 147,
+      "name": "Recreatiebad",
+      "latitude": 52.404473,
+      "longitude": 6.887477,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 148,
+      "name": "Recreatiebad / Familiebad",
+      "latitude": 51.366308,
+      "longitude": 6.136861,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 149,
+      "name": "Recreatiebad Enkhuizerzand",
+      "latitude": 52.713316,
+      "longitude": 5.289481,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 150,
+      "name": "Rivierabad",
+      "latitude": 51.853867,
+      "longitude": 4.323027,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 151,
+      "name": "SSC zwemschool",
+      "latitude": 51.451991,
+      "longitude": 5.490372,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 152,
+      "name": "Sijsjesberg",
+      "latitude": 52.28966,
+      "longitude": 5.218156,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 153,
+      "name": "Smeltehal",
+      "latitude": 52.942056,
+      "longitude": 6.44434,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 154,
+      "name": "Snorkelbad",
+      "latitude": 51.327,
+      "longitude": 5.42093,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 155,
+      "name": "Spartelvijvers",
+      "latitude": 52.721942,
+      "longitude": 6.456891,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 156,
+      "name": "Spetterbad Leerbroek",
+      "latitude": 51.909065,
+      "longitude": 5.044877,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 157,
+      "name": "Spetterbadje",
+      "latitude": 52.101485,
+      "longitude": 5.128551,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 158,
+      "name": "Sportbad",
+      "latitude": 51.41488,
+      "longitude": 5.477125,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 159,
+      "name": "Sportcomplex Wetterstins",
+      "latitude": 53.1961,
+      "longitude": 5.995033,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 160,
+      "name": "Sportfondsenbad Hellevoetsluis",
+      "latitude": 51.835905,
+      "longitude": 4.136369,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 161,
+      "name": "Sportfondsenbad Monnickendam",
+      "latitude": 52.455822,
+      "longitude": 5.036302,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 162,
+      "name": "Sportfondsenbad Oost",
+      "latitude": 52.356778,
+      "longitude": 4.928412,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 163,
+      "name": "Sportplaza Mercator",
+      "latitude": 52.371209,
+      "longitude": 4.84646,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 164,
+      "name": "Springbad",
+      "latitude": 51.414419,
+      "longitude": 5.477907,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 165,
+      "name": "Springkuil",
+      "latitude": 51.366752,
+      "longitude": 6.136619,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 166,
+      "name": "Sterrenbad",
+      "latitude": 52.136158,
+      "longitude": 4.389718,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 167,
+      "name": "Strandbad Winterswijk",
+      "latitude": 51.956564,
+      "longitude": 6.725214,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 168,
+      "name": "Swimgym",
+      "latitude": 52.353942,
+      "longitude": 4.912876,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 169,
+      "name": "Swimmingpool Heelderpeel (outdoor)",
+      "latitude": 51.19682,
+      "longitude": 5.878019,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 170,
+      "name": "Ter Horsterzand",
+      "latitude": 52.839554,
+      "longitude": 6.499719,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 171,
+      "name": "Thermaalbad Arcen",
+      "latitude": 51.497672,
+      "longitude": 6.183805,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 172,
+      "name": "Trainingsbad",
+      "latitude": 51.414647,
+      "longitude": 5.477408,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 173,
+      "name": "Turtle Island",
+      "latitude": 51.570926,
+      "longitude": 4.560668,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 174,
+      "name": "Van Maanenbad",
+      "latitude": 51.932225,
+      "longitude": 4.464727,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 175,
+      "name": "Victoriabad",
+      "latitude": 52.298722,
+      "longitude": 5.02691,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 176,
+      "name": "Vondersweijde",
+      "latitude": 52.310657,
+      "longitude": 6.91666,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 177,
+      "name": "Waal-en Weidebad",
+      "latitude": 51.84243,
+      "longitude": 4.569544,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 178,
+      "name": "Watersportbaan Tilburg",
+      "latitude": 51.526869,
+      "longitude": 5.134776,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 179,
+      "name": "Wedex Zwemscholen Locatie Veldhoven",
+      "latitude": 51.420657,
+      "longitude": 5.376322,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 180,
+      "name": "Wedstrijdbad",
+      "latitude": 51.571642,
+      "longitude": 4.562275,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 181,
+      "name": "Wedstrijdbad",
+      "latitude": 51.924075,
+      "longitude": 5.847297,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 182,
+      "name": "Wedstrijdbad",
+      "latitude": 52.184873,
+      "longitude": 4.739838,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 183,
+      "name": "Wedstrijdbad",
+      "latitude": 52.40407,
+      "longitude": 6.887902,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 184,
+      "name": "Westerbergen",
+      "latitude": 52.700801,
+      "longitude": 6.376928,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 185,
+      "name": "Wijde Aa Zuidzijde",
+      "latitude": 52.174158,
+      "longitude": 4.617282,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 186,
+      "name": "Wildwaterbaan",
+      "latitude": 51.327097,
+      "longitude": 5.421277,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 187,
+      "name": "Wildwaterbaan",
+      "latitude": 51.457511,
+      "longitude": 5.951325,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 188,
+      "name": "Wildwaterbaan",
+      "latitude": 52.260033,
+      "longitude": 5.402139,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 189,
+      "name": "Wildwaterbaan",
+      "latitude": 52.379289,
+      "longitude": 4.535801,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 190,
+      "name": "Woudmeer",
+      "latitude": 52.709589,
+      "longitude": 4.934956,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 191,
+      "name": "Wylerbergmeer",
+      "latitude": 51.827153,
+      "longitude": 5.943748,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 192,
+      "name": "ZIB Zwemcentrum Best",
+      "latitude": 51.502837,
+      "longitude": 5.382452,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 193,
+      "name": "Zuiderbad",
+      "latitude": 52.358472,
+      "longitude": 4.886165,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 194,
+      "name": "Zwarte Plasje",
+      "latitude": 51.959197,
+      "longitude": 4.491585,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 195,
+      "name": "Zwem- en recreatiecentrum De Boetzelaer",
+      "latitude": 52.031289,
+      "longitude": 4.185808,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 196,
+      "name": "Zwembad",
+      "latitude": 52.201179,
+      "longitude": 4.753726,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 197,
+      "name": "Zwembad",
+      "latitude": 52.3833,
+      "longitude": 5.706572,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 198,
+      "name": "Zwembad",
+      "latitude": 52.424214,
+      "longitude": 6.223489,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 199,
+      "name": "Zwembad",
+      "latitude": 52.893276,
+      "longitude": 4.729046,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 200,
+      "name": "Zwembad",
+      "latitude": 53.236554,
+      "longitude": 5.547015,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 201,
+      "name": "Zwembad \"De Berkel\"",
+      "latitude": 51.449647,
+      "longitude": 6.05101,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 202,
+      "name": "Zwembad \"De Bosbadhal\"",
+      "latitude": 52.71726,
+      "longitude": 5.754746,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 203,
+      "name": "Zwembad \"de Zandzee\"",
+      "latitude": 52.2664,
+      "longitude": 5.155431,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 204,
+      "name": "Zwembad 'De Kragge'",
+      "latitude": 52.644065,
+      "longitude": 6.067391,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 205,
+      "name": "Zwembad Aquarijn",
+      "latitude": 52.147977,
+      "longitude": 4.678911,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 206,
+      "name": "Zwembad Bestevaer",
+      "latitude": 52.6163,
+      "longitude": 6.040851,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 207,
+      "name": "Zwembad Bijlmer",
+      "latitude": 52.315323,
+      "longitude": 4.957824,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 208,
+      "name": "Zwembad Blankershove",
+      "latitude": 51.588478,
+      "longitude": 4.452603,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 209,
+      "name": "Zwembad Buitenmeere",
+      "latitude": 52.678655,
+      "longitude": 4.909912,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 210,
+      "name": "Zwembad Campanula",
+      "latitude": 52.782049,
+      "longitude": 4.695895,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 211,
+      "name": "Zwembad Camping de Pampel",
+      "latitude": 52.119552,
+      "longitude": 5.905911,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 212,
+      "name": "Zwembad De Beemden",
+      "latitude": 53.305074,
+      "longitude": 6.589658,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 213,
+      "name": "Zwembad De Bergen",
+      "latitude": 51.640078,
+      "longitude": 5.805506,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 214,
+      "name": "Zwembad De Broene 'eugte",
+      "latitude": 52.627274,
+      "longitude": 6.226076,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 215,
+      "name": "Zwembad De Elsgraven",
+      "latitude": 52.31123,
+      "longitude": 6.567153,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 216,
+      "name": "Zwembad De Haamen",
+      "latitude": 50.945316,
+      "longitude": 5.807682,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 217,
+      "name": "Zwembad De Horsten",
+      "latitude": 52.938963,
+      "longitude": 7.014788,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 218,
+      "name": "Zwembad De Kolk",
+      "latitude": 52.360153,
+      "longitude": 6.593848,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 219,
+      "name": "Zwembad De Leewal",
+      "latitude": 52.869649,
+      "longitude": 6.858559,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 220,
+      "name": "Zwembad De Marne",
+      "latitude": 53.36186,
+      "longitude": 6.374078,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 221,
+      "name": "Zwembad De Meerkamp",
+      "latitude": 52.288038,
+      "longitude": 4.852435,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 222,
+      "name": "Zwembad De Neul",
+      "latitude": 51.5663,
+      "longitude": 5.458792,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 223,
+      "name": "Zwembad De Twee Bruggen",
+      "latitude": 51.951374,
+      "longitude": 6.648102,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 224,
+      "name": "Zwembad De Viergang",
+      "latitude": 52.025049,
+      "longitude": 4.421807,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 225,
+      "name": "Zwembad De Waterdam",
+      "latitude": 52.508786,
+      "longitude": 5.072832,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 226,
+      "name": "Zwembad De Wisselaar",
+      "latitude": 51.613837,
+      "longitude": 4.774181,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 227,
+      "name": "Zwembad De Zijl",
+      "latitude": 52.166834,
+      "longitude": 4.514635,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 228,
+      "name": "Zwembad Drie Essen",
+      "latitude": 51.659903,
+      "longitude": 5.613986,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 229,
+      "name": "Zwembad Dukdalf",
+      "latitude": 51.895708,
+      "longitude": 4.159568,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 230,
+      "name": "Zwembad Groenoord",
+      "latitude": 51.928152,
+      "longitude": 4.377788,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 231,
+      "name": "Zwembad Hemrik",
+      "latitude": 53.028197,
+      "longitude": 6.138295,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 232,
+      "name": "Zwembad Hoogland",
+      "latitude": 52.184476,
+      "longitude": 5.376604,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 233,
+      "name": "Zwembad Hoogvliet",
+      "latitude": 51.86324,
+      "longitude": 4.35779,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 234,
+      "name": "Zwembad IJsselmonde",
+      "latitude": 51.891684,
+      "longitude": 4.541837,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 235,
+      "name": "Zwembad Ligteveld",
+      "latitude": 51.266573,
+      "longitude": 5.996453,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 236,
+      "name": "Zwembad Medemblik",
+      "latitude": 52.763799,
+      "longitude": 5.116256,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 237,
+      "name": "Zwembad Middelstum",
+      "latitude": 53.343237,
+      "longitude": 6.642795,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 238,
+      "name": "Zwembad Mounewetter",
+      "latitude": 53.098919,
+      "longitude": 5.469948,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 239,
+      "name": "Zwembad Neherpark",
+      "latitude": 52.085715,
+      "longitude": 4.388441,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 240,
+      "name": "Zwembad Olympia",
+      "latitude": 51.683366,
+      "longitude": 5.095052,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 241,
+      "name": "Zwembad Oosterbeek",
+      "latitude": 51.986778,
+      "longitude": 5.841456,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 242,
+      "name": "Zwembad Parc Sandur",
+      "latitude": 52.730309,
+      "longitude": 6.904924,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 243,
+      "name": "Zwembad Pernis",
+      "latitude": 51.884969,
+      "longitude": 4.388322,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 244,
+      "name": "Zwembad Reeshof",
+      "latitude": 51.579697,
+      "longitude": 5.006373,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 245,
+      "name": "Zwembad Roompot",
+      "latitude": 51.375435,
+      "longitude": 3.391197,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 246,
+      "name": "Zwembad Rozendaal",
+      "latitude": 52.134168,
+      "longitude": 5.433642,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 247,
+      "name": "Zwembad Rozengaarde",
+      "latitude": 51.974879,
+      "longitude": 6.302595,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 248,
+      "name": "Zwembad Sonsbeeck",
+      "latitude": 51.579938,
+      "longitude": 4.767829,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 249,
+      "name": "Zwembad Stappegoor",
+      "latitude": 51.5428,
+      "longitude": 5.074603,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 250,
+      "name": "Zwembad Vakantiepark Molenvelden",
+      "latitude": 51.40742,
+      "longitude": 5.357037,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 251,
+      "name": "Zwembad Waardergolf",
+      "latitude": 52.664956,
+      "longitude": 4.849249,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 252,
+      "name": "Zwembad Waarland",
+      "latitude": 52.724125,
+      "longitude": 4.825859,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 253,
+      "name": "Zwembad Zuid",
+      "latitude": 51.905963,
+      "longitude": 4.395532,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 254,
+      "name": "Zwembad de Beulacke",
+      "latitude": 52.691726,
+      "longitude": 6.067842,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 255,
+      "name": "Zwembad de Golfslag",
+      "latitude": 53.452775,
+      "longitude": 5.804875,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 256,
+      "name": "Zwembad de Heldense Bossen",
+      "latitude": 51.317572,
+      "longitude": 6.018375,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 257,
+      "name": "Zwembad de Hoornse Vaart",
+      "latitude": 52.643749,
+      "longitude": 4.767854,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 258,
+      "name": "Zwembad de Kleine Oase",
+      "latitude": 52.222235,
+      "longitude": 4.675678,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 259,
+      "name": "Zwembad de Otter",
+      "latitude": 52.243501,
+      "longitude": 4.816118,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 260,
+      "name": "Zwembad de Peppel",
+      "latitude": 52.855253,
+      "longitude": 6.511428,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 261,
+      "name": "Zwembad de Trits",
+      "latitude": 52.219836,
+      "longitude": 5.286928,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 262,
+      "name": "Zwembad de Waterstee",
+      "latitude": 51.72796,
+      "longitude": 4.431759,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 263,
+      "name": "Zwembad de Wel",
+      "latitude": 52.154837,
+      "longitude": 4.786042,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 264,
+      "name": "Zwembad de Zwaoi",
+      "latitude": 52.878203,
+      "longitude": 6.953839,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 265,
+      "name": "Zwembad van Pallandt",
+      "latitude": 51.94413,
+      "longitude": 6.466325,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 266,
+      "name": "Zwemles op Maat",
+      "latitude": 52.62881,
+      "longitude": 4.749927,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 267,
+      "name": "Zwemparadijs Prinsenmeer",
+      "latitude": 51.423465,
+      "longitude": 5.735717,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 268,
+      "name": "Zwemschool 't Geburgt",
+      "latitude": 51.642244,
+      "longitude": 5.478894,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 269,
+      "name": "Zwemschool Sanders",
+      "latitude": 50.953696,
+      "longitude": 5.821874,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 270,
+      "name": "Zwemschool Sauna Mierlo",
+      "latitude": 51.437394,
+      "longitude": 5.62141,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 271,
+      "name": "Zwemschool Schonewille",
+      "latitude": 52.222335,
+      "longitude": 6.906483,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 272,
+      "name": "Zwemschool Walderveenbad Loosdrecht",
+      "latitude": 52.198544,
+      "longitude": 5.1414,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 273,
+      "name": "Zwemsteiger",
+      "latitude": 53.150265,
+      "longitude": 5.893859,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 274,
+      "name": "de Brake",
+      "latitude": 52.386507,
+      "longitude": 5.793699,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 275,
+      "name": "de overtoom",
+      "latitude": 52.6221,
+      "longitude": 6.048189,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 276,
+      "name": "kleuterbad",
+      "latitude": 52.097992,
+      "longitude": 5.642163,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 277,
+      "name": "t Suyderseebad",
+      "latitude": 52.354967,
+      "longitude": 5.674364,
+      "osm_klasse": "leisure=swimming_pool"
+    },
+    {
+      "id": 278,
+      "name": "zwembad Stelleplas",
+      "latitude": 51.482692,
+      "longitude": 3.796717,
+      "osm_klasse": "leisure=swimming_pool"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: swimming pool (leisure=swimming_pool) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged leisure=swimming_pool in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 278 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: swimming pool (leisure=swimming_pool) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: swimming pool (leisure=swimming_pool) — 278 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 278 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

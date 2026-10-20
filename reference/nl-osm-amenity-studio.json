@@ -1,0 +1,1164 @@
+{
+  "id": "nl-osm-amenity-studio",
+  "name": "Netherlands OSM: studio (amenity=studio)",
+  "title": "Netherlands OSM: studio (amenity=studio)",
+  "description": "Named OpenStreetMap features tagged amenity=studio in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 159,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "25Frames",
+      "latitude": 51.856039,
+      "longitude": 4.469612,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 2,
+      "name": "Aerial Promos",
+      "latitude": 52.856246,
+      "longitude": 5.720954,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 3,
+      "name": "Aladna FM",
+      "latitude": 51.921495,
+      "longitude": 6.581247,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 4,
+      "name": "Amfi`66",
+      "latitude": 52.300933,
+      "longitude": 4.580015,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 5,
+      "name": "Audio Studio de Fabriek",
+      "latitude": 53.098949,
+      "longitude": 6.873945,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 6,
+      "name": "B.V. Skyhigh T.V.",
+      "latitude": 52.227269,
+      "longitude": 5.173223,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 7,
+      "name": "Bandbunker",
+      "latitude": 52.15706,
+      "longitude": 5.36403,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 8,
+      "name": "Baretta Media",
+      "latitude": 52.151626,
+      "longitude": 5.391417,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 9,
+      "name": "Basement Studios",
+      "latitude": 52.08061,
+      "longitude": 4.301431,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 10,
+      "name": "Blender",
+      "latitude": 52.399413,
+      "longitude": 4.937338,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 11,
+      "name": "Blue Monkey Media",
+      "latitude": 53.216543,
+      "longitude": 6.537723,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 12,
+      "name": "Breda Beats",
+      "latitude": 51.599094,
+      "longitude": 4.808993,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 13,
+      "name": "Bruutsterdam",
+      "latitude": 51.270289,
+      "longitude": 4.091335,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 14,
+      "name": "Clifton Studio",
+      "latitude": 52.110967,
+      "longitude": 4.373223,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 15,
+      "name": "Cortimedia",
+      "latitude": 52.355769,
+      "longitude": 4.88992,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 16,
+      "name": "DaViMM Producties",
+      "latitude": 51.945553,
+      "longitude": 4.40274,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 17,
+      "name": "De Filmbrigade",
+      "latitude": 52.151073,
+      "longitude": 5.391248,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 18,
+      "name": "De Notenpret",
+      "latitude": 52.354051,
+      "longitude": 4.854246,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 19,
+      "name": "De Videomann",
+      "latitude": 51.847512,
+      "longitude": 4.597167,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 20,
+      "name": "Den Haag FM",
+      "latitude": 52.077389,
+      "longitude": 4.3158,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 21,
+      "name": "Double Noise",
+      "latitude": 51.546624,
+      "longitude": 5.089558,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 22,
+      "name": "EMG",
+      "latitude": 52.234717,
+      "longitude": 5.172023,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 23,
+      "name": "Echobox",
+      "latitude": 52.383822,
+      "longitude": 4.879852,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 24,
+      "name": "HOi",
+      "latitude": 52.364368,
+      "longitude": 6.461857,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 25,
+      "name": "Haarlem 105",
+      "latitude": 52.386509,
+      "longitude": 4.622688,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 26,
+      "name": "House of Motion Media & Content Creaation",
+      "latitude": 51.599523,
+      "longitude": 4.808728,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 27,
+      "name": "INDEBT Broedplaats",
+      "latitude": 52.355936,
+      "longitude": 4.897413,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 28,
+      "name": "Inlinemastering",
+      "latitude": 52.139752,
+      "longitude": 5.417515,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 29,
+      "name": "JBStudio",
+      "latitude": 52.336338,
+      "longitude": 6.701444,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 30,
+      "name": "JOE",
+      "latitude": 52.326372,
+      "longitude": 4.9211,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 31,
+      "name": "Jamm FM",
+      "latitude": 52.294246,
+      "longitude": 4.899236,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 32,
+      "name": "Jelmer Immeker - Videoproducties",
+      "latitude": 52.536865,
+      "longitude": 6.063278,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 33,
+      "name": "Kim Sutherland",
+      "latitude": 52.38412,
+      "longitude": 4.886671,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 34,
+      "name": "Klokradio",
+      "latitude": 51.883762,
+      "longitude": 4.664028,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 35,
+      "name": "L.O.S.",
+      "latitude": 52.943951,
+      "longitude": 4.776431,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 36,
+      "name": "L1",
+      "latitude": 50.855061,
+      "longitude": 5.729403,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 37,
+      "name": "LAB Mediaplein",
+      "latitude": 52.224445,
+      "longitude": 5.173763,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 38,
+      "name": "LOVO",
+      "latitude": 51.581962,
+      "longitude": 5.196764,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 39,
+      "name": "Langstraat Media",
+      "latitude": 51.680942,
+      "longitude": 5.049343,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 40,
+      "name": "Lapanouse Music",
+      "latitude": 52.214699,
+      "longitude": 5.151595,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 41,
+      "name": "Legacy Studio",
+      "latitude": 52.702772,
+      "longitude": 5.150122,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 42,
+      "name": "Loco Media Groep. lokale omroep",
+      "latitude": 52.464255,
+      "longitude": 5.994227,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 43,
+      "name": "Lofth B.V.",
+      "latitude": 52.228049,
+      "longitude": 5.173691,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 44,
+      "name": "Lokale Omroep Landsmeer",
+      "latitude": 52.432113,
+      "longitude": 4.918946,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 45,
+      "name": "Lokale Omroep Waddinveen",
+      "latitude": 52.055576,
+      "longitude": 4.654124,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 46,
+      "name": "Lokale Omroep Waddinxveen",
+      "latitude": 52.050121,
+      "longitude": 4.656574,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 47,
+      "name": "MCA",
+      "latitude": 51.860547,
+      "longitude": 4.434415,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 48,
+      "name": "MI 5 Studios",
+      "latitude": 52.641721,
+      "longitude": 5.054236,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 49,
+      "name": "Maindeck",
+      "latitude": 51.852031,
+      "longitude": 4.325691,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 50,
+      "name": "Matt Verbeeten Audio",
+      "latitude": 51.67547,
+      "longitude": 5.806711,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 51,
+      "name": "Mengwerk",
+      "latitude": 52.236529,
+      "longitude": 5.153318,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 52,
+      "name": "Midvliet",
+      "latitude": 52.081908,
+      "longitude": 4.396516,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 53,
+      "name": "Muziekhuis Utrecht",
+      "latitude": 52.107562,
+      "longitude": 5.109275,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 54,
+      "name": "Muziekstudio Alkmaar",
+      "latitude": 52.626005,
+      "longitude": 4.766523,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 55,
+      "name": "Nolux Media",
+      "latitude": 52.220964,
+      "longitude": 6.866214,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 56,
+      "name": "Noordkop Centraal",
+      "latitude": 52.78134,
+      "longitude": 4.801698,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 57,
+      "name": "Not My Studio",
+      "latitude": 52.227595,
+      "longitude": 5.1681,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 58,
+      "name": "OOG Radio & TV",
+      "latitude": 53.242366,
+      "longitude": 6.53076,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 59,
+      "name": "OPEN Rotterdam",
+      "latitude": 51.91878,
+      "longitude": 4.46018,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 60,
+      "name": "ORTS",
+      "latitude": 51.639594,
+      "longitude": 4.8478,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 61,
+      "name": "OZO",
+      "latitude": 52.360543,
+      "longitude": 6.455489,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 62,
+      "name": "Oefenruimte Terug",
+      "latitude": 52.354207,
+      "longitude": 4.854827,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 63,
+      "name": "Omroep Hoeksche Waard",
+      "latitude": 51.805662,
+      "longitude": 4.576599,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 64,
+      "name": "Omroep Venlo",
+      "latitude": 51.366087,
+      "longitude": 6.162477,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 65,
+      "name": "Oscar Romero Studios",
+      "latitude": 52.212257,
+      "longitude": 5.140992,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 66,
+      "name": "Panama Racing Club",
+      "latitude": 52.073557,
+      "longitude": 4.333256,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 67,
+      "name": "Pernissimo",
+      "latitude": 51.891295,
+      "longitude": 4.387387,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 68,
+      "name": "Pluq Studio",
+      "latitude": 51.92528,
+      "longitude": 4.475645,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 69,
+      "name": "Pollux Studio's",
+      "latitude": 52.069453,
+      "longitude": 4.339311,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 70,
+      "name": "Popoefenruimte Zevenaar",
+      "latitude": 51.929546,
+      "longitude": 6.064329,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 71,
+      "name": "Q-Factory",
+      "latitude": 52.357696,
+      "longitude": 4.930667,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 72,
+      "name": "Qmusic",
+      "latitude": 52.326449,
+      "longitude": 4.921286,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 73,
+      "name": "RADIONL",
+      "latitude": 53.034027,
+      "longitude": 5.635048,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 74,
+      "name": "RPM",
+      "latitude": 52.354142,
+      "longitude": 4.854183,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 75,
+      "name": "RTV",
+      "latitude": 52.203558,
+      "longitude": 5.959841,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 76,
+      "name": "RTV Albrandswaard",
+      "latitude": 51.853626,
+      "longitude": 4.43646,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 77,
+      "name": "RTV Assen",
+      "latitude": 52.993646,
+      "longitude": 6.552349,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 78,
+      "name": "RTV Drenthe",
+      "latitude": 52.989967,
+      "longitude": 6.557634,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 79,
+      "name": "RTV Gemeente Oldambt",
+      "latitude": 53.147572,
+      "longitude": 7.033976,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 80,
+      "name": "RTV Horizon",
+      "latitude": 51.31028,
+      "longitude": 5.61417,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 81,
+      "name": "RTV NOF",
+      "latitude": 53.255898,
+      "longitude": 6.038353,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 82,
+      "name": "RTV Noord",
+      "latitude": 53.188054,
+      "longitude": 6.564097,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 83,
+      "name": "RTV Oost",
+      "latitude": 52.285471,
+      "longitude": 6.775466,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 84,
+      "name": "RTV Utrecht",
+      "latitude": 52.102117,
+      "longitude": 5.131888,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 85,
+      "name": "RTV Zaanstreek",
+      "latitude": 52.467991,
+      "longitude": 4.835507,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 86,
+      "name": "Radio 538",
+      "latitude": 52.225206,
+      "longitude": 5.158445,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 87,
+      "name": "Radio 794",
+      "latitude": 52.38653,
+      "longitude": 6.037923,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 88,
+      "name": "Radio Beverwijk",
+      "latitude": 52.489408,
+      "longitude": 4.672322,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 89,
+      "name": "Radio Hoogeveen",
+      "latitude": 52.725882,
+      "longitude": 6.47483,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 90,
+      "name": "Radio Nomen Nescio",
+      "latitude": 51.650148,
+      "longitude": 3.931492,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 91,
+      "name": "Radio SD",
+      "latitude": 51.650185,
+      "longitude": 3.931423,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 92,
+      "name": "Radio Sangam",
+      "latitude": 52.076971,
+      "longitude": 4.283517,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 93,
+      "name": "Radio TNP",
+      "latitude": 52.394009,
+      "longitude": 4.912005,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 94,
+      "name": "Radio Westerwolde",
+      "latitude": 53.026456,
+      "longitude": 7.107039,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 95,
+      "name": "Radio Worm",
+      "latitude": 51.915829,
+      "longitude": 4.476219,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 96,
+      "name": "Radio en Televisie West-Friesland",
+      "latitude": 52.668001,
+      "longitude": 5.118898,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 97,
+      "name": "Red Light Radio",
+      "latitude": 52.374716,
+      "longitude": 4.898049,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 98,
+      "name": "Red Yellow & Blue Productïons",
+      "latitude": 52.212763,
+      "longitude": 5.145999,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 99,
+      "name": "Regio90 / 90FM",
+      "latitude": 52.01361,
+      "longitude": 5.420088,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 100,
+      "name": "Retro Radio",
+      "latitude": 52.224279,
+      "longitude": 5.173154,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 101,
+      "name": "Rijnmond",
+      "latitude": 51.90276,
+      "longitude": 4.460139,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 102,
+      "name": "Rinkel Film",
+      "latitude": 52.368441,
+      "longitude": 4.936571,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 103,
+      "name": "Samen1 - Regionale omroep",
+      "latitude": 52.216023,
+      "longitude": 5.957154,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 104,
+      "name": "Sky Radio B.V.",
+      "latitude": 52.22513,
+      "longitude": 5.158685,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 105,
+      "name": "Smelne FM",
+      "latitude": 53.106598,
+      "longitude": 6.105838,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 106,
+      "name": "Smit Sound Service",
+      "latitude": 52.348081,
+      "longitude": 5.223628,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 107,
+      "name": "Sound Studio 10",
+      "latitude": 52.411497,
+      "longitude": 4.922058,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 108,
+      "name": "Sound Studio Southwood",
+      "latitude": 52.086351,
+      "longitude": 4.340785,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 109,
+      "name": "Spalenbühl",
+      "latitude": 52.342654,
+      "longitude": 4.822045,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 110,
+      "name": "Staccato Films",
+      "latitude": 52.378526,
+      "longitude": 4.931336,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 111,
+      "name": "Steven Henry music",
+      "latitude": 51.444647,
+      "longitude": 5.45995,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 112,
+      "name": "Stichting Stadsomroep Schiedam",
+      "latitude": 51.913555,
+      "longitude": 4.399532,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 113,
+      "name": "Stichting Taboe",
+      "latitude": 52.375102,
+      "longitude": 4.900921,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 114,
+      "name": "Strayed Hills Studios",
+      "latitude": 52.399672,
+      "longitude": 4.931935,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 115,
+      "name": "Studio 1",
+      "latitude": 52.236464,
+      "longitude": 5.17254,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 116,
+      "name": "Studio 150",
+      "latitude": 52.3871,
+      "longitude": 4.918682,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 117,
+      "name": "Studio 19",
+      "latitude": 52.237196,
+      "longitude": 5.173216,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 118,
+      "name": "Studio 2",
+      "latitude": 52.236714,
+      "longitude": 5.172412,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 119,
+      "name": "Studio 20",
+      "latitude": 52.236668,
+      "longitude": 5.173468,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 120,
+      "name": "Studio 21",
+      "latitude": 52.239502,
+      "longitude": 5.172036,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 121,
+      "name": "Studio 21K Videoproductie",
+      "latitude": 52.168825,
+      "longitude": 5.367192,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 122,
+      "name": "Studio 22",
+      "latitude": 52.240291,
+      "longitude": 5.171414,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 123,
+      "name": "Studio 23",
+      "latitude": 52.238859,
+      "longitude": 5.170336,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 124,
+      "name": "Studio 24",
+      "latitude": 52.238238,
+      "longitude": 5.17246,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 125,
+      "name": "Studio 3",
+      "latitude": 52.23696,
+      "longitude": 5.17231,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 126,
+      "name": "Studio 31",
+      "latitude": 52.239184,
+      "longitude": 5.170599,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 127,
+      "name": "Studio 32",
+      "latitude": 52.238918,
+      "longitude": 5.170706,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 128,
+      "name": "Studio 4",
+      "latitude": 52.2372,
+      "longitude": 5.172202,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 129,
+      "name": "Studio 5",
+      "latitude": 52.237433,
+      "longitude": 5.172122,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 130,
+      "name": "Studio 6",
+      "latitude": 52.237686,
+      "longitude": 5.171993,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 131,
+      "name": "Studio 6 | de Doelen Media",
+      "latitude": 51.921965,
+      "longitude": 4.4736,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 132,
+      "name": "Studio 7 | de Doelen Radio",
+      "latitude": 51.922075,
+      "longitude": 4.47355,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 133,
+      "name": "Studio A58",
+      "latitude": 51.479307,
+      "longitude": 3.635554,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 134,
+      "name": "Studio Alphen",
+      "latitude": 52.129526,
+      "longitude": 4.661913,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 135,
+      "name": "Studio Automat",
+      "latitude": 52.356504,
+      "longitude": 4.902045,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 136,
+      "name": "Studio Delay",
+      "latitude": 52.975232,
+      "longitude": 6.474015,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 137,
+      "name": "Studio Moskou",
+      "latitude": 52.105622,
+      "longitude": 5.083307,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 138,
+      "name": "Studio's Aalsmeer",
+      "latitude": 52.269775,
+      "longitude": 4.752905,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 139,
+      "name": "Subterra",
+      "latitude": 52.078125,
+      "longitude": 4.320748,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 140,
+      "name": "Superpencil",
+      "latitude": 51.909521,
+      "longitude": 4.456343,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 141,
+      "name": "Synima Amsterdam",
+      "latitude": 52.369138,
+      "longitude": 4.929196,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 142,
+      "name": "Talpa Radio",
+      "latitude": 52.225192,
+      "longitude": 5.158693,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 143,
+      "name": "Tempo Nao Para",
+      "latitude": 52.393436,
+      "longitude": 4.911857,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 144,
+      "name": "The Flyingdutchmen",
+      "latitude": 52.638427,
+      "longitude": 5.061304,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 145,
+      "name": "Tonework Productions",
+      "latitude": 52.227933,
+      "longitude": 5.165537,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 146,
+      "name": "Track One Studios",
+      "latitude": 52.95644,
+      "longitude": 4.760374,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 147,
+      "name": "Vahon Hindustani Radio",
+      "latitude": 52.077036,
+      "longitude": 4.286729,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 148,
+      "name": "Veluwe FM",
+      "latitude": 52.262757,
+      "longitude": 5.611034,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 149,
+      "name": "Voyeur by Kaosz Atelier",
+      "latitude": 52.356448,
+      "longitude": 4.904181,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 150,
+      "name": "W.O.S. Media",
+      "latitude": 52.002585,
+      "longitude": 4.170245,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 151,
+      "name": "WFM96",
+      "latitude": 51.472118,
+      "longitude": 3.592696,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 152,
+      "name": "WILD FM HitRadio",
+      "latitude": 52.320554,
+      "longitude": 4.881405,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 153,
+      "name": "WeertFM",
+      "latitude": 51.255272,
+      "longitude": 5.704176,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 154,
+      "name": "Wiebe de Boer",
+      "latitude": 52.10599,
+      "longitude": 5.08272,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 155,
+      "name": "Wisseloord Studio's",
+      "latitude": 52.236486,
+      "longitude": 5.154599,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 156,
+      "name": "Wolf Entertainment",
+      "latitude": 51.955457,
+      "longitude": 4.572811,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 157,
+      "name": "ZFM Zoetermeer",
+      "latitude": 52.062626,
+      "longitude": 4.494197,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 158,
+      "name": "Zangstudio Roel Bakkum",
+      "latitude": 52.38473,
+      "longitude": 4.885629,
+      "osm_klasse": "amenity=studio"
+    },
+    {
+      "id": 159,
+      "name": "studio ML",
+      "latitude": 51.671845,
+      "longitude": 5.975866,
+      "osm_klasse": "amenity=studio"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: studio (amenity=studio) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=studio in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 159 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: studio (amenity=studio) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: studio (amenity=studio) — 159 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 159 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

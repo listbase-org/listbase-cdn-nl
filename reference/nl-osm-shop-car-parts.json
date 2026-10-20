@@ -1,0 +1,2480 @@
+{
+  "id": "nl-osm-shop-car-parts",
+  "name": "Netherlands OSM: car parts (shop=car_parts)",
+  "title": "Netherlands OSM: car parts (shop=car_parts)",
+  "description": "Named OpenStreetMap features tagged shop=car_parts in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 347,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "A&B Auto-onderdelenshop",
+      "latitude": 53.281537,
+      "longitude": 6.159421,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 2,
+      "name": "A-Direct Automaterialen",
+      "latitude": 52.069973,
+      "longitude": 4.326503,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 3,
+      "name": "A.C. Technoparts",
+      "latitude": 52.35636,
+      "longitude": 4.79215,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 4,
+      "name": "A1 Aanhangwagens",
+      "latitude": 52.309247,
+      "longitude": 6.991555,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 5,
+      "name": "ACR-Enschede",
+      "latitude": 52.228227,
+      "longitude": 6.852217,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 6,
+      "name": "AGJ Automotive",
+      "latitude": 52.456436,
+      "longitude": 5.834699,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 7,
+      "name": "ASD",
+      "latitude": 53.326993,
+      "longitude": 5.985768,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 8,
+      "name": "AST",
+      "latitude": 52.573645,
+      "longitude": 6.595292,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 9,
+      "name": "AST Car Technics",
+      "latitude": 52.501344,
+      "longitude": 5.470948,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 10,
+      "name": "AVS Rietveld V.O.F.",
+      "latitude": 52.077732,
+      "longitude": 4.277739,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 11,
+      "name": "Accu Service Centrum",
+      "latitude": 53.191885,
+      "longitude": 5.847961,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 12,
+      "name": "Airbag Express",
+      "latitude": 52.663622,
+      "longitude": 5.062204,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 13,
+      "name": "Akro Automaterialen",
+      "latitude": 52.000077,
+      "longitude": 4.172542,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 14,
+      "name": "Alexpart",
+      "latitude": 52.696854,
+      "longitude": 6.193114,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 15,
+      "name": "Allparts D'Uston & Allard",
+      "latitude": 52.085603,
+      "longitude": 4.297502,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 16,
+      "name": "Allparts Habu",
+      "latitude": 52.250711,
+      "longitude": 7.009897,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 17,
+      "name": "Amstel Parts",
+      "latitude": 52.358903,
+      "longitude": 4.852363,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 18,
+      "name": "Aria Hengelo",
+      "latitude": 52.259141,
+      "longitude": 6.807611,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 19,
+      "name": "Auto & Anders",
+      "latitude": 53.21658,
+      "longitude": 6.596834,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 20,
+      "name": "Auto Materialen Centrum Zeist",
+      "latitude": 52.088171,
+      "longitude": 5.211897,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 21,
+      "name": "Auto Parts Roermond",
+      "latitude": 51.209389,
+      "longitude": 6.014443,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 22,
+      "name": "Auto Quik",
+      "latitude": 52.39854,
+      "longitude": 6.043052,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 23,
+      "name": "Auto Revista",
+      "latitude": 53.164599,
+      "longitude": 6.739246,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 24,
+      "name": "Auto Waard Heerhugowaard B.V.",
+      "latitude": 52.694561,
+      "longitude": 4.829836,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 25,
+      "name": "Auto- en autodemontagebedrijf Eindewege",
+      "latitude": 51.501187,
+      "longitude": 3.808973,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 26,
+      "name": "Auto- en sloopbedrijf Van Dam",
+      "latitude": 52.954706,
+      "longitude": 6.105258,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 27,
+      "name": "AutoBike Haaksbergen",
+      "latitude": 52.171673,
+      "longitude": 6.743223,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 28,
+      "name": "AutoIndus",
+      "latitude": 52.073997,
+      "longitude": 4.904296,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 29,
+      "name": "AutoSamsen",
+      "latitude": 52.242663,
+      "longitude": 6.784232,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 30,
+      "name": "Autodemontage Otte",
+      "latitude": 51.498939,
+      "longitude": 3.827603,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 31,
+      "name": "Autodemontagebedrijf Het Viaduct",
+      "latitude": 52.154217,
+      "longitude": 6.204187,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 32,
+      "name": "Autofit",
+      "latitude": 51.488486,
+      "longitude": 3.880917,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 33,
+      "name": "Automat",
+      "latitude": 52.165221,
+      "longitude": 5.372261,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 34,
+      "name": "Automat",
+      "latitude": 52.517314,
+      "longitude": 6.092976,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 35,
+      "name": "Automat",
+      "latitude": 52.574013,
+      "longitude": 6.610128,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 36,
+      "name": "Automat",
+      "latitude": 52.733471,
+      "longitude": 6.981198,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 37,
+      "name": "Automat",
+      "latitude": 53.003605,
+      "longitude": 6.576256,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 38,
+      "name": "Automat",
+      "latitude": 53.110548,
+      "longitude": 6.079495,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 39,
+      "name": "Automat",
+      "latitude": 53.318886,
+      "longitude": 6.878618,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 40,
+      "name": "Automat Ede",
+      "latitude": 52.034691,
+      "longitude": 5.653335,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 41,
+      "name": "Automaterialen Vluggen",
+      "latitude": 50.942767,
+      "longitude": 5.790978,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 42,
+      "name": "Automobielbedrijf Vitess",
+      "latitude": 52.409105,
+      "longitude": 5.260262,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 43,
+      "name": "Autonomics",
+      "latitude": 52.521031,
+      "longitude": 6.120489,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 44,
+      "name": "Autoparts",
+      "latitude": 51.511826,
+      "longitude": 5.506103,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 45,
+      "name": "Autopia autoparts",
+      "latitude": 51.838234,
+      "longitude": 4.165813,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 46,
+      "name": "Autoprofi",
+      "latitude": 52.73861,
+      "longitude": 6.480401,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 47,
+      "name": "Autoservice Schijns",
+      "latitude": 51.194506,
+      "longitude": 6.025059,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 48,
+      "name": "Autoshop Borne",
+      "latitude": 52.295631,
+      "longitude": 6.761738,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 49,
+      "name": "Autoshop Putten",
+      "latitude": 52.254978,
+      "longitude": 5.612654,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 50,
+      "name": "Autoshop Zuidlaren",
+      "latitude": 53.093477,
+      "longitude": 6.685145,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 51,
+      "name": "Autosloopbedrijf van Den Braak",
+      "latitude": 52.413499,
+      "longitude": 5.251678,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 52,
+      "name": "Autosloopbedrijf van Den Braak",
+      "latitude": 52.413676,
+      "longitude": 5.252396,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 53,
+      "name": "Autosloperij Stegeman",
+      "latitude": 52.189443,
+      "longitude": 6.425652,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 54,
+      "name": "Autosloperij Wind",
+      "latitude": 52.243942,
+      "longitude": 5.975461,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 55,
+      "name": "Autovoordeelshop",
+      "latitude": 52.039146,
+      "longitude": 4.357486,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 56,
+      "name": "BCN Tracer",
+      "latitude": 51.936475,
+      "longitude": 6.12952,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 57,
+      "name": "Bachaus Automotive",
+      "latitude": 50.886865,
+      "longitude": 6.022284,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 58,
+      "name": "Bakker Accu Service",
+      "latitude": 51.48812,
+      "longitude": 3.880407,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 59,
+      "name": "Bandenservice Heemskerk",
+      "latitude": 52.50275,
+      "longitude": 4.653897,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 60,
+      "name": "Bandero",
+      "latitude": 52.062869,
+      "longitude": 4.319554,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 61,
+      "name": "Bastiaan Autodemontage",
+      "latitude": 52.472667,
+      "longitude": 6.009154,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 62,
+      "name": "Beekman Demontage",
+      "latitude": 52.105122,
+      "longitude": 6.154494,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 63,
+      "name": "Bergingsbedrijf Broekhuizen",
+      "latitude": 53.023661,
+      "longitude": 6.269941,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 64,
+      "name": "Besbo",
+      "latitude": 51.541157,
+      "longitude": 5.061363,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 65,
+      "name": "Besselink Hengelo",
+      "latitude": 52.278008,
+      "longitude": 6.778059,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 66,
+      "name": "BesteBak.nl",
+      "latitude": 52.517105,
+      "longitude": 4.993207,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 67,
+      "name": "Birze Automaterialen & Banden",
+      "latitude": 52.205129,
+      "longitude": 5.976544,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 68,
+      "name": "Blom autobanden",
+      "latitude": 51.907488,
+      "longitude": 4.460392,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 69,
+      "name": "Broekhuizen",
+      "latitude": 51.435403,
+      "longitude": 5.430696,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 70,
+      "name": "Broekhuizen",
+      "latitude": 51.569473,
+      "longitude": 5.114397,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 71,
+      "name": "Broekhuizen Automaterialen",
+      "latitude": 51.585631,
+      "longitude": 5.187939,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 72,
+      "name": "Broekhuizen Automaterialen",
+      "latitude": 51.654978,
+      "longitude": 4.834334,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 73,
+      "name": "Broekhuizen Automaterialen",
+      "latitude": 51.66327,
+      "longitude": 5.033251,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 74,
+      "name": "Bunschoten Automaterialen",
+      "latitude": 52.233182,
+      "longitude": 5.365583,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 75,
+      "name": "Bus Onderdelen Service",
+      "latitude": 51.749045,
+      "longitude": 4.450644,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 76,
+      "name": "C&E Turbochargers",
+      "latitude": 52.197968,
+      "longitude": 5.390864,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 77,
+      "name": "C&P USA Parts",
+      "latitude": 51.286588,
+      "longitude": 6.085624,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 78,
+      "name": "Car Parts Oost",
+      "latitude": 52.008186,
+      "longitude": 6.516725,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 79,
+      "name": "Car Shop Exclusive",
+      "latitude": 51.899347,
+      "longitude": 6.367538,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 80,
+      "name": "Car Vision",
+      "latitude": 51.960473,
+      "longitude": 6.011962,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 81,
+      "name": "Carcleaningshop",
+      "latitude": 52.10792,
+      "longitude": 6.328146,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 82,
+      "name": "Carfix Automaterialen",
+      "latitude": 52.407422,
+      "longitude": 4.887215,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 83,
+      "name": "Carnoud Inbouwcenter",
+      "latitude": 51.745256,
+      "longitude": 5.114432,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 84,
+      "name": "Carseatcovers",
+      "latitude": 53.36339,
+      "longitude": 6.464118,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 85,
+      "name": "Cartal Rijsbergen",
+      "latitude": 52.505811,
+      "longitude": 4.655275,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 86,
+      "name": "Carview Quality Center",
+      "latitude": 51.816609,
+      "longitude": 4.417779,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 87,
+      "name": "Chiptuning Noord",
+      "latitude": 53.282343,
+      "longitude": 6.159341,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 88,
+      "name": "Circuit Van Hemert",
+      "latitude": 51.794105,
+      "longitude": 5.262019,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 89,
+      "name": "Classic Passion",
+      "latitude": 51.824324,
+      "longitude": 4.333025,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 90,
+      "name": "D-TEC Parts B.V.",
+      "latitude": 51.931791,
+      "longitude": 5.586115,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 91,
+      "name": "De Autovriend",
+      "latitude": 51.363087,
+      "longitude": 5.321237,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 92,
+      "name": "De Bandenberg",
+      "latitude": 52.243907,
+      "longitude": 6.769704,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 93,
+      "name": "De Bumperspecialist",
+      "latitude": 51.612146,
+      "longitude": 5.466159,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 94,
+      "name": "De Rie Automaterialen",
+      "latitude": 52.001743,
+      "longitude": 5.660688,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 95,
+      "name": "De Timp",
+      "latitude": 52.06607,
+      "longitude": 6.097786,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 96,
+      "name": "De Turck",
+      "latitude": 51.435376,
+      "longitude": 5.449814,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 97,
+      "name": "De Witte Boerderij",
+      "latitude": 52.040305,
+      "longitude": 5.608016,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 98,
+      "name": "Deniz Auto Parts B.V.",
+      "latitude": 52.340216,
+      "longitude": 5.223763,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 99,
+      "name": "Dick Wisselink Auto-Motorshop",
+      "latitude": 51.939504,
+      "longitude": 6.476595,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 100,
+      "name": "Dijkgraaf Automaterialen",
+      "latitude": 51.90857,
+      "longitude": 4.57998,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 101,
+      "name": "Doetam Automaterialen",
+      "latitude": 51.969945,
+      "longitude": 6.259236,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 102,
+      "name": "Dosgros",
+      "latitude": 53.116936,
+      "longitude": 6.078136,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 103,
+      "name": "Duke Design",
+      "latitude": 52.211787,
+      "longitude": 4.889173,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 104,
+      "name": "Equinox",
+      "latitude": 53.200369,
+      "longitude": 5.763656,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 105,
+      "name": "Eurami",
+      "latitude": 52.300978,
+      "longitude": 5.151902,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 106,
+      "name": "Euromaster",
+      "latitude": 51.200116,
+      "longitude": 5.993439,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 107,
+      "name": "FZN-Parts",
+      "latitude": 51.979296,
+      "longitude": 4.456202,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 108,
+      "name": "Ferwerda",
+      "latitude": 52.197358,
+      "longitude": 5.393402,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 109,
+      "name": "Fland Automateriaal",
+      "latitude": 51.907207,
+      "longitude": 4.578434,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 110,
+      "name": "Focus Automotive",
+      "latitude": 51.543989,
+      "longitude": 4.459131,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 111,
+      "name": "Fource Automotive",
+      "latitude": 51.301083,
+      "longitude": 3.848132,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 112,
+      "name": "Fource Automotive",
+      "latitude": 51.487054,
+      "longitude": 3.875429,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 113,
+      "name": "Fource Automotive Dordrecht",
+      "latitude": 51.769674,
+      "longitude": 4.637344,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 114,
+      "name": "Fource Automotive Hilversum",
+      "latitude": 52.213169,
+      "longitude": 5.145645,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 115,
+      "name": "Frenken motors",
+      "latitude": 51.249379,
+      "longitude": 5.721892,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 116,
+      "name": "GAMO",
+      "latitude": 52.504072,
+      "longitude": 4.651702,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 117,
+      "name": "GP Products",
+      "latitude": 51.627104,
+      "longitude": 5.064296,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 118,
+      "name": "GTR Trading",
+      "latitude": 53.28935,
+      "longitude": 6.154938,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 119,
+      "name": "GVB",
+      "latitude": 52.068438,
+      "longitude": 4.282898,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 120,
+      "name": "Gamesa",
+      "latitude": 52.062434,
+      "longitude": 4.325736,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 121,
+      "name": "Gamesa",
+      "latitude": 52.071757,
+      "longitude": 4.284676,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 122,
+      "name": "Gamo Beverwijk",
+      "latitude": 52.47731,
+      "longitude": 4.658873,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 123,
+      "name": "Gebr. Klein Gunnewiek Motorentechniek",
+      "latitude": 52.056266,
+      "longitude": 6.625999,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 124,
+      "name": "Gebr. Prins BV Autorecyclingbedrijf",
+      "latitude": 52.777942,
+      "longitude": 6.095054,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 125,
+      "name": "Geevers Autoparts",
+      "latitude": 52.327368,
+      "longitude": 6.647378,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 126,
+      "name": "Glas Coating",
+      "latitude": 52.653008,
+      "longitude": 4.789061,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 127,
+      "name": "Govers Automaterialen",
+      "latitude": 51.54405,
+      "longitude": 4.230077,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 128,
+      "name": "Growa",
+      "latitude": 51.989582,
+      "longitude": 6.585258,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 129,
+      "name": "Growa automaterialen",
+      "latitude": 52.168967,
+      "longitude": 6.390924,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 130,
+      "name": "Grundeken Automaterialen",
+      "latitude": 52.04363,
+      "longitude": 4.338905,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 131,
+      "name": "HD Auto Fiets",
+      "latitude": 51.830996,
+      "longitude": 4.144857,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 132,
+      "name": "Hageman U.S. Parts",
+      "latitude": 51.721976,
+      "longitude": 5.939729,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 133,
+      "name": "Hampsink",
+      "latitude": 52.203744,
+      "longitude": 5.948115,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 134,
+      "name": "Hamu",
+      "latitude": 52.476998,
+      "longitude": 6.00737,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 135,
+      "name": "Hanno automaterialen",
+      "latitude": 50.944517,
+      "longitude": 5.784962,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 136,
+      "name": "Hans Auto Onderdelen",
+      "latitude": 52.371663,
+      "longitude": 4.774688,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 137,
+      "name": "Hek BV",
+      "latitude": 52.222802,
+      "longitude": 6.841405,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 138,
+      "name": "Heron Automaterialen",
+      "latitude": 52.187406,
+      "longitude": 6.887755,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 139,
+      "name": "Hesselink Automotive",
+      "latitude": 52.401128,
+      "longitude": 6.789949,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 140,
+      "name": "Het Zuiden",
+      "latitude": 51.473183,
+      "longitude": 5.676268,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 141,
+      "name": "Heuts",
+      "latitude": 50.908307,
+      "longitude": 5.945024,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 142,
+      "name": "Heuts",
+      "latitude": 51.211669,
+      "longitude": 6.015303,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 143,
+      "name": "Heuts",
+      "latitude": 51.334077,
+      "longitude": 5.979339,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 144,
+      "name": "Heuts",
+      "latitude": 51.518224,
+      "longitude": 5.98295,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 145,
+      "name": "Heuts | Mobiliteit en Vrije Tijd",
+      "latitude": 50.82865,
+      "longitude": 5.712887,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 146,
+      "name": "Himalaya",
+      "latitude": 51.922339,
+      "longitude": 4.465089,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 147,
+      "name": "Hoegen Elektro en Dieselparts",
+      "latitude": 52.223859,
+      "longitude": 5.975015,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 148,
+      "name": "Hofland Automaterialen",
+      "latitude": 51.797455,
+      "longitude": 4.438691,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 149,
+      "name": "Hontelez Auto's",
+      "latitude": 51.508587,
+      "longitude": 4.302611,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 150,
+      "name": "Huva Bladel",
+      "latitude": 51.36119,
+      "longitude": 5.195086,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 151,
+      "name": "ITR Benelux B.V.",
+      "latitude": 51.53494,
+      "longitude": 5.037771,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 152,
+      "name": "JATECH",
+      "latitude": 51.935678,
+      "longitude": 4.582669,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 153,
+      "name": "JB Car Systems",
+      "latitude": 52.713245,
+      "longitude": 6.201275,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 154,
+      "name": "Jan Boensma Automaterialen",
+      "latitude": 52.27319,
+      "longitude": 6.814511,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 155,
+      "name": "Jan van de Graaf autoberging",
+      "latitude": 51.952986,
+      "longitude": 4.453786,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 156,
+      "name": "Jansen Automotive",
+      "latitude": 52.36072,
+      "longitude": 6.375101,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 157,
+      "name": "Japoto Parts",
+      "latitude": 53.314609,
+      "longitude": 6.79307,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 158,
+      "name": "Jari Autoparts",
+      "latitude": 52.411521,
+      "longitude": 6.597821,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 159,
+      "name": "Jeu van den Berg BV",
+      "latitude": 50.921631,
+      "longitude": 6.031559,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 160,
+      "name": "Keles",
+      "latitude": 52.061901,
+      "longitude": 4.317797,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 161,
+      "name": "Kilinclar",
+      "latitude": 51.93918,
+      "longitude": 4.406715,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 162,
+      "name": "Kilinclar Automaterialen",
+      "latitude": 51.901053,
+      "longitude": 4.498196,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 163,
+      "name": "Kilinclar Automaterialen Zoetermeer",
+      "latitude": 52.056425,
+      "longitude": 4.517418,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 164,
+      "name": "Kruitbosch & De Weerd",
+      "latitude": 52.244158,
+      "longitude": 6.193718,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 165,
+      "name": "LADA.shop",
+      "latitude": 52.669509,
+      "longitude": 5.064234,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 166,
+      "name": "LKQ",
+      "latitude": 51.381538,
+      "longitude": 6.184901,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 167,
+      "name": "LKQ",
+      "latitude": 51.759078,
+      "longitude": 5.515134,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 168,
+      "name": "LKQ",
+      "latitude": 51.852824,
+      "longitude": 4.303287,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 169,
+      "name": "LKQ",
+      "latitude": 52.171381,
+      "longitude": 5.35503,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 170,
+      "name": "LKQ Europe",
+      "latitude": 51.608316,
+      "longitude": 5.446072,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 171,
+      "name": "Lakro Autostyling en Audio",
+      "latitude": 52.248389,
+      "longitude": 5.60765,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 172,
+      "name": "Leto",
+      "latitude": 51.816706,
+      "longitude": 5.765536,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 173,
+      "name": "Louis Verheggen BV",
+      "latitude": 51.437146,
+      "longitude": 5.498084,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 174,
+      "name": "ML-Cartech",
+      "latitude": 52.246812,
+      "longitude": 5.969437,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 175,
+      "name": "MW Wheels",
+      "latitude": 51.546401,
+      "longitude": 5.094864,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 176,
+      "name": "MaxfabWorks",
+      "latitude": 50.930361,
+      "longitude": 5.957055,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 177,
+      "name": "Mercedes Demontage",
+      "latitude": 52.438521,
+      "longitude": 5.894015,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 178,
+      "name": "Mijnautoonderdelen",
+      "latitude": 51.931628,
+      "longitude": 4.409314,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 179,
+      "name": "Molco",
+      "latitude": 51.820004,
+      "longitude": 5.767757,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 180,
+      "name": "Noorderkade BV Bandenservice",
+      "latitude": 52.643185,
+      "longitude": 4.781158,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 181,
+      "name": "Oostenbrink Autobanden",
+      "latitude": 52.790827,
+      "longitude": 6.107507,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 182,
+      "name": "Paint+Cars",
+      "latitude": 52.198408,
+      "longitude": 5.138311,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 183,
+      "name": "PartsPoint",
+      "latitude": 50.875618,
+      "longitude": 5.717218,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 184,
+      "name": "PartsPoint",
+      "latitude": 50.930699,
+      "longitude": 5.949471,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 185,
+      "name": "PartsPoint",
+      "latitude": 51.195698,
+      "longitude": 6.024878,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 186,
+      "name": "PartsPoint",
+      "latitude": 51.27045,
+      "longitude": 5.729083,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 187,
+      "name": "PartsPoint",
+      "latitude": 51.32467,
+      "longitude": 3.831346,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 188,
+      "name": "PartsPoint",
+      "latitude": 51.329462,
+      "longitude": 5.970371,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 189,
+      "name": "PartsPoint",
+      "latitude": 51.399555,
+      "longitude": 5.397608,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 190,
+      "name": "PartsPoint",
+      "latitude": 51.413977,
+      "longitude": 5.743664,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 191,
+      "name": "PartsPoint",
+      "latitude": 51.48482,
+      "longitude": 3.881363,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 192,
+      "name": "PartsPoint",
+      "latitude": 51.497877,
+      "longitude": 5.488737,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 193,
+      "name": "PartsPoint",
+      "latitude": 51.537703,
+      "longitude": 5.987348,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 194,
+      "name": "PartsPoint",
+      "latitude": 51.538408,
+      "longitude": 5.044963,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 195,
+      "name": "PartsPoint",
+      "latitude": 51.545563,
+      "longitude": 4.491755,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 196,
+      "name": "PartsPoint",
+      "latitude": 51.565976,
+      "longitude": 5.705364,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 197,
+      "name": "PartsPoint",
+      "latitude": 51.582616,
+      "longitude": 4.826747,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 198,
+      "name": "PartsPoint",
+      "latitude": 51.588005,
+      "longitude": 5.312052,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 199,
+      "name": "PartsPoint",
+      "latitude": 51.613594,
+      "longitude": 4.932932,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 200,
+      "name": "PartsPoint",
+      "latitude": 51.673173,
+      "longitude": 5.644984,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 201,
+      "name": "PartsPoint",
+      "latitude": 51.706925,
+      "longitude": 5.335885,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 202,
+      "name": "PartsPoint",
+      "latitude": 51.710586,
+      "longitude": 4.883849,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 203,
+      "name": "PartsPoint",
+      "latitude": 51.73314,
+      "longitude": 5.855295,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 204,
+      "name": "PartsPoint",
+      "latitude": 51.766061,
+      "longitude": 5.548661,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 205,
+      "name": "PartsPoint",
+      "latitude": 51.772983,
+      "longitude": 5.099143,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 206,
+      "name": "PartsPoint",
+      "latitude": 51.802401,
+      "longitude": 4.889437,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 207,
+      "name": "PartsPoint",
+      "latitude": 51.809587,
+      "longitude": 5.266515,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 208,
+      "name": "PartsPoint",
+      "latitude": 51.823524,
+      "longitude": 5.740363,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 209,
+      "name": "PartsPoint",
+      "latitude": 51.840134,
+      "longitude": 4.168558,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 210,
+      "name": "PartsPoint",
+      "latitude": 51.865605,
+      "longitude": 4.380423,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 211,
+      "name": "PartsPoint",
+      "latitude": 51.869719,
+      "longitude": 4.60726,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 212,
+      "name": "PartsPoint",
+      "latitude": 51.89724,
+      "longitude": 5.909356,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 213,
+      "name": "PartsPoint",
+      "latitude": 51.912454,
+      "longitude": 5.724012,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 214,
+      "name": "PartsPoint",
+      "latitude": 51.932823,
+      "longitude": 4.397987,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 215,
+      "name": "PartsPoint",
+      "latitude": 51.936398,
+      "longitude": 6.085462,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 216,
+      "name": "PartsPoint",
+      "latitude": 51.953067,
+      "longitude": 6.28907,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 217,
+      "name": "PartsPoint",
+      "latitude": 51.954442,
+      "longitude": 4.53118,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 218,
+      "name": "PartsPoint",
+      "latitude": 51.972516,
+      "longitude": 5.948036,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 219,
+      "name": "PartsPoint",
+      "latitude": 51.987633,
+      "longitude": 4.370019,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 220,
+      "name": "PartsPoint",
+      "latitude": 52.02639,
+      "longitude": 5.103073,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 221,
+      "name": "PartsPoint",
+      "latitude": 52.032375,
+      "longitude": 5.600044,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 222,
+      "name": "PartsPoint",
+      "latitude": 52.058031,
+      "longitude": 6.627357,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 223,
+      "name": "PartsPoint",
+      "latitude": 52.061225,
+      "longitude": 4.312065,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 224,
+      "name": "PartsPoint",
+      "latitude": 52.123551,
+      "longitude": 4.63419,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 225,
+      "name": "PartsPoint",
+      "latitude": 52.125916,
+      "longitude": 6.213235,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 226,
+      "name": "PartsPoint",
+      "latitude": 52.130816,
+      "longitude": 5.040664,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 227,
+      "name": "PartsPoint",
+      "latitude": 52.163051,
+      "longitude": 5.579232,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 228,
+      "name": "PartsPoint",
+      "latitude": 52.166236,
+      "longitude": 4.52047,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 229,
+      "name": "PartsPoint",
+      "latitude": 52.168062,
+      "longitude": 5.355423,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 230,
+      "name": "PartsPoint",
+      "latitude": 52.196275,
+      "longitude": 5.94294,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 231,
+      "name": "PartsPoint",
+      "latitude": 52.213216,
+      "longitude": 5.141854,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 232,
+      "name": "PartsPoint",
+      "latitude": 52.238428,
+      "longitude": 6.766336,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 233,
+      "name": "PartsPoint",
+      "latitude": 52.239084,
+      "longitude": 5.482695,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 234,
+      "name": "PartsPoint",
+      "latitude": 52.247346,
+      "longitude": 6.19796,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 235,
+      "name": "PartsPoint",
+      "latitude": 52.269208,
+      "longitude": 4.783224,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 236,
+      "name": "PartsPoint",
+      "latitude": 52.274026,
+      "longitude": 5.158058,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 237,
+      "name": "PartsPoint",
+      "latitude": 52.288279,
+      "longitude": 4.683551,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 238,
+      "name": "PartsPoint",
+      "latitude": 52.30047,
+      "longitude": 5.241929,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 239,
+      "name": "PartsPoint",
+      "latitude": 52.328201,
+      "longitude": 6.648883,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 240,
+      "name": "PartsPoint",
+      "latitude": 52.33528,
+      "longitude": 4.922466,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 241,
+      "name": "PartsPoint",
+      "latitude": 52.3548,
+      "longitude": 5.63259,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 242,
+      "name": "PartsPoint",
+      "latitude": 52.359498,
+      "longitude": 4.78355,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 243,
+      "name": "PartsPoint",
+      "latitude": 52.364409,
+      "longitude": 5.182282,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 244,
+      "name": "PartsPoint",
+      "latitude": 52.385278,
+      "longitude": 4.662495,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 245,
+      "name": "PartsPoint",
+      "latitude": 52.38713,
+      "longitude": 7.016174,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 246,
+      "name": "PartsPoint",
+      "latitude": 52.491093,
+      "longitude": 6.130378,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 247,
+      "name": "PartsPoint",
+      "latitude": 52.508292,
+      "longitude": 4.780678,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 248,
+      "name": "PartsPoint",
+      "latitude": 52.511244,
+      "longitude": 6.272976,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 249,
+      "name": "PartsPoint",
+      "latitude": 52.515145,
+      "longitude": 4.998096,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 250,
+      "name": "PartsPoint",
+      "latitude": 52.538394,
+      "longitude": 5.708504,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 251,
+      "name": "PartsPoint",
+      "latitude": 52.604131,
+      "longitude": 6.478814,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 252,
+      "name": "PartsPoint",
+      "latitude": 52.643021,
+      "longitude": 4.780141,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 253,
+      "name": "PartsPoint",
+      "latitude": 52.661495,
+      "longitude": 5.063254,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 254,
+      "name": "PartsPoint",
+      "latitude": 52.665203,
+      "longitude": 6.722412,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 255,
+      "name": "PartsPoint",
+      "latitude": 52.674012,
+      "longitude": 4.830274,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 256,
+      "name": "PartsPoint",
+      "latitude": 52.695515,
+      "longitude": 5.757066,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 257,
+      "name": "PartsPoint",
+      "latitude": 52.703635,
+      "longitude": 6.186608,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 258,
+      "name": "PartsPoint",
+      "latitude": 52.774658,
+      "longitude": 6.917495,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 259,
+      "name": "PartsPoint",
+      "latitude": 52.881982,
+      "longitude": 5.986024,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 260,
+      "name": "PartsPoint",
+      "latitude": 52.944193,
+      "longitude": 4.76943,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 261,
+      "name": "PartsPoint",
+      "latitude": 52.964215,
+      "longitude": 5.895447,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 262,
+      "name": "PartsPoint",
+      "latitude": 52.980277,
+      "longitude": 6.978549,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 263,
+      "name": "PartsPoint",
+      "latitude": 53.002963,
+      "longitude": 6.570663,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 264,
+      "name": "PartsPoint",
+      "latitude": 53.023118,
+      "longitude": 5.687777,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 265,
+      "name": "PartsPoint",
+      "latitude": 53.105825,
+      "longitude": 6.890661,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 266,
+      "name": "PartsPoint",
+      "latitude": 53.110794,
+      "longitude": 6.079399,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 267,
+      "name": "PartsPoint",
+      "latitude": 53.189068,
+      "longitude": 5.770788,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 268,
+      "name": "PartsPoint",
+      "latitude": 53.215769,
+      "longitude": 6.603441,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 269,
+      "name": "PartsPoint",
+      "latitude": 53.317905,
+      "longitude": 5.989008,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 270,
+      "name": "PartsPoint",
+      "latitude": 53.322781,
+      "longitude": 6.884665,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 271,
+      "name": "PartsPoint Technics",
+      "latitude": 51.460448,
+      "longitude": 5.679388,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 272,
+      "name": "PartsPoint Technics",
+      "latitude": 52.274062,
+      "longitude": 5.15829,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 273,
+      "name": "PartsPoint Technics",
+      "latitude": 53.188927,
+      "longitude": 5.770842,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 274,
+      "name": "PartsPoint Techniek",
+      "latitude": 50.998268,
+      "longitude": 5.841695,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 275,
+      "name": "Paruzzi BV",
+      "latitude": 51.478197,
+      "longitude": 4.053823,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 276,
+      "name": "Paul Witteveen",
+      "latitude": 53.202802,
+      "longitude": 5.807621,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 277,
+      "name": "Petlas",
+      "latitude": 51.911046,
+      "longitude": 4.443006,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 278,
+      "name": "Peugeot 205 Totaal",
+      "latitude": 52.613608,
+      "longitude": 6.56908,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 279,
+      "name": "Profile Car & Tyreservice",
+      "latitude": 52.258027,
+      "longitude": 4.77456,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 280,
+      "name": "Profile Car & Tyreservice Nijkerk",
+      "latitude": 52.232284,
+      "longitude": 5.472235,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 281,
+      "name": "Profile Tyrecenter Leiden",
+      "latitude": 52.156592,
+      "longitude": 4.447739,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 282,
+      "name": "REGBAT Helmond",
+      "latitude": 51.47162,
+      "longitude": 5.67905,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 283,
+      "name": "Recars",
+      "latitude": 51.811045,
+      "longitude": 4.521355,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 284,
+      "name": "Record Auto Onderdelen",
+      "latitude": 52.064098,
+      "longitude": 5.10509,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 285,
+      "name": "Remkaflex BV",
+      "latitude": 52.652289,
+      "longitude": 4.788259,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 286,
+      "name": "Remto Automaterialen",
+      "latitude": 52.051152,
+      "longitude": 4.51099,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 287,
+      "name": "Rijpma Automaterialen",
+      "latitude": 53.145149,
+      "longitude": 6.432358,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 288,
+      "name": "Rijsbergen Automotive",
+      "latitude": 52.64348,
+      "longitude": 4.781495,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 289,
+      "name": "Rijsbergen Hilversum",
+      "latitude": 52.213367,
+      "longitude": 5.144724,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 290,
+      "name": "Robijn Remtechniek",
+      "latitude": 52.355809,
+      "longitude": 6.502332,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 291,
+      "name": "Rotil",
+      "latitude": 51.563933,
+      "longitude": 5.109575,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 292,
+      "name": "Rotor Alkmaar",
+      "latitude": 52.643515,
+      "longitude": 4.784351,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 293,
+      "name": "Royal Trading",
+      "latitude": 52.248511,
+      "longitude": 6.184192,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 294,
+      "name": "Rozeboom Automaterialen",
+      "latitude": 51.945328,
+      "longitude": 6.312456,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 295,
+      "name": "SAS Autoshop",
+      "latitude": 50.895716,
+      "longitude": 5.954737,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 296,
+      "name": "Saris 4x4",
+      "latitude": 51.911079,
+      "longitude": 5.786782,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 297,
+      "name": "Schaap en Bron",
+      "latitude": 52.963058,
+      "longitude": 5.822627,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 298,
+      "name": "Shared Parts Center",
+      "latitude": 52.280278,
+      "longitude": 6.405707,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 299,
+      "name": "Skuba Duiven",
+      "latitude": 51.963608,
+      "longitude": 5.990934,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 300,
+      "name": "Skyparts",
+      "latitude": 51.887735,
+      "longitude": 4.522844,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 301,
+      "name": "Slager Automaterialen",
+      "latitude": 51.985389,
+      "longitude": 4.370314,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 302,
+      "name": "Sloperij en Autorecycling Bedrijf Van Kammen Dokkum",
+      "latitude": 53.332283,
+      "longitude": 5.978753,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 303,
+      "name": "Solid Power Systems",
+      "latitude": 52.321419,
+      "longitude": 6.510257,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 304,
+      "name": "Sorent",
+      "latitude": 52.166887,
+      "longitude": 5.358853,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 305,
+      "name": "Spitman Accu's",
+      "latitude": 51.993847,
+      "longitude": 5.962554,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 306,
+      "name": "Star Automaterialen",
+      "latitude": 51.96456,
+      "longitude": 5.990587,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 307,
+      "name": "Stroeve Motorsport",
+      "latitude": 52.573451,
+      "longitude": 6.594172,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 308,
+      "name": "Swieringa Automaterialen",
+      "latitude": 53.006904,
+      "longitude": 6.042758,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 309,
+      "name": "Swifterbant",
+      "latitude": 52.573587,
+      "longitude": 5.652741,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 310,
+      "name": "TC AutoMotive",
+      "latitude": 51.653644,
+      "longitude": 5.944889,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 311,
+      "name": "Technische Centrale",
+      "latitude": 51.476308,
+      "longitude": 5.483761,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 312,
+      "name": "Tegama Automaterialen",
+      "latitude": 52.32104,
+      "longitude": 6.928597,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 313,
+      "name": "Topspace",
+      "latitude": 52.643355,
+      "longitude": 4.780096,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 314,
+      "name": "Trekhaakcentrum Amersfoort",
+      "latitude": 52.166491,
+      "longitude": 5.370594,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 315,
+      "name": "Trekhaakcentrum Wijk en Aalburg",
+      "latitude": 51.74536,
+      "longitude": 5.114379,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 316,
+      "name": "Trotsenburg Automotive",
+      "latitude": 51.748187,
+      "longitude": 4.452702,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 317,
+      "name": "Tuynder",
+      "latitude": 52.051948,
+      "longitude": 4.405703,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 318,
+      "name": "Twimva Automaterialen",
+      "latitude": 52.218336,
+      "longitude": 6.867796,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 319,
+      "name": "Twimva Automaterialen",
+      "latitude": 52.224189,
+      "longitude": 6.941591,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 320,
+      "name": "USN Centuri",
+      "latitude": 52.248014,
+      "longitude": 6.183391,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 321,
+      "name": "United Carshop",
+      "latitude": 52.711726,
+      "longitude": 6.198063,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 322,
+      "name": "Van Dal Automaterialen",
+      "latitude": 51.700643,
+      "longitude": 5.186818,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 323,
+      "name": "Van Hagen Automotive",
+      "latitude": 52.002943,
+      "longitude": 4.211414,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 324,
+      "name": "Van de Zaag",
+      "latitude": 51.748206,
+      "longitude": 4.452575,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 325,
+      "name": "Van der Ploeg Automaterialen",
+      "latitude": 53.183565,
+      "longitude": 5.515013,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 326,
+      "name": "Veldhuizen Special Product Hyperformance parts",
+      "latitude": 52.206772,
+      "longitude": 5.122844,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 327,
+      "name": "Verhoeff autobekleding",
+      "latitude": 52.083487,
+      "longitude": 4.35868,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 328,
+      "name": "Vonkparts",
+      "latitude": 52.259757,
+      "longitude": 6.706335,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 329,
+      "name": "Voor Alles Met Wielen",
+      "latitude": 51.587126,
+      "longitude": 4.767638,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 330,
+      "name": "Vos Automaterialen",
+      "latitude": 52.213866,
+      "longitude": 5.96642,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 331,
+      "name": "WM Automaterialen",
+      "latitude": 51.825297,
+      "longitude": 5.755125,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 332,
+      "name": "WM Automaterialen",
+      "latitude": 51.960803,
+      "longitude": 6.015128,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 333,
+      "name": "WM Automaterialen",
+      "latitude": 52.287047,
+      "longitude": 6.565657,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 334,
+      "name": "WM Automaterialen",
+      "latitude": 52.49809,
+      "longitude": 6.126374,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 335,
+      "name": "WheelPoint",
+      "latitude": 51.673974,
+      "longitude": 5.646841,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 336,
+      "name": "WifiHouse",
+      "latitude": 52.158388,
+      "longitude": 6.41385,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 337,
+      "name": "Wilkens",
+      "latitude": 53.319119,
+      "longitude": 6.861381,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 338,
+      "name": "Wiveco",
+      "latitude": 51.816528,
+      "longitude": 4.41561,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 339,
+      "name": "Woltjer Autobeklederij",
+      "latitude": 52.226363,
+      "longitude": 6.854883,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 340,
+      "name": "Ype Kramer automaterialen",
+      "latitude": 53.194071,
+      "longitude": 5.768841,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 341,
+      "name": "Ziebart",
+      "latitude": 52.261668,
+      "longitude": 4.773026,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 342,
+      "name": "Zircotec Nederland",
+      "latitude": 51.339078,
+      "longitude": 5.999438,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 343,
+      "name": "Zomer",
+      "latitude": 52.265641,
+      "longitude": 6.519233,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 344,
+      "name": "v.d Helm Autogasspecialisten",
+      "latitude": 52.244065,
+      "longitude": 6.772854,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 345,
+      "name": "van Silfhout",
+      "latitude": 51.974224,
+      "longitude": 6.266415,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 346,
+      "name": "van de Zaag",
+      "latitude": 51.746778,
+      "longitude": 4.448497,
+      "osm_klasse": "shop=car_parts"
+    },
+    {
+      "id": 347,
+      "name": "van der Giessen Autoshop",
+      "latitude": 52.103592,
+      "longitude": 6.058573,
+      "osm_klasse": "shop=car_parts"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: car parts (shop=car_parts) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=car_parts in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 347 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: car parts (shop=car_parts) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: car parts (shop=car_parts) — 347 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 347 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

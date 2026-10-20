@@ -1,0 +1,1339 @@
+{
+  "id": "nl-osm-amenity-nursing-home",
+  "name": "Netherlands OSM: nursing home (amenity=nursing_home)",
+  "title": "Netherlands OSM: nursing home (amenity=nursing_home)",
+  "description": "Named OpenStreetMap features tagged amenity=nursing_home in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 184,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Hamersveld",
+      "latitude": 52.136857,
+      "longitude": 5.430628,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 2,
+      "name": "Aafje zorghotel",
+      "latitude": 51.940821,
+      "longitude": 4.462552,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 3,
+      "name": "Amsta (Van 't Hofflaan)",
+      "latitude": 52.346696,
+      "longitude": 4.934819,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 4,
+      "name": "Azora Antonia",
+      "latitude": 51.922126,
+      "longitude": 6.359328,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 5,
+      "name": "Bartholomeus Gasthuis",
+      "latitude": 52.085462,
+      "longitude": 5.119604,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 6,
+      "name": "Berkenheuvel",
+      "latitude": 51.425448,
+      "longitude": 5.575502,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 7,
+      "name": "Bernissesteyn",
+      "latitude": 51.823332,
+      "longitude": 4.254305,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 8,
+      "name": "Borgstede",
+      "latitude": 51.855013,
+      "longitude": 4.54341,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 9,
+      "name": "Bornholm",
+      "latitude": 52.313012,
+      "longitude": 4.675503,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 10,
+      "name": "Breeje Hendrik",
+      "latitude": 51.896822,
+      "longitude": 4.679983,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 11,
+      "name": "Brinckhaeghe",
+      "latitude": 52.051946,
+      "longitude": 4.23322,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 12,
+      "name": "Buurtschap Craeyenburch",
+      "latitude": 52.039529,
+      "longitude": 4.382575,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 13,
+      "name": "Careyn Swellengrebel",
+      "latitude": 52.080544,
+      "longitude": 5.138007,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 14,
+      "name": "Centrum Carel van den Oever",
+      "latitude": 52.039017,
+      "longitude": 4.274043,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 15,
+      "name": "Centrum voor Wonen en Zorg Kerkakkers",
+      "latitude": 51.533709,
+      "longitude": 4.549606,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 16,
+      "name": "De Amerhorst",
+      "latitude": 52.139707,
+      "longitude": 5.388191,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 17,
+      "name": "De Ariënsstaete",
+      "latitude": 52.237386,
+      "longitude": 6.888443,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 18,
+      "name": "De Berkenhof",
+      "latitude": 52.641153,
+      "longitude": 5.000173,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 19,
+      "name": "De Bieslandhof",
+      "latitude": 52.016344,
+      "longitude": 4.36666,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 20,
+      "name": "De Bloemenkamp",
+      "latitude": 52.202008,
+      "longitude": 6.198876,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 21,
+      "name": "De Borkel",
+      "latitude": 52.201427,
+      "longitude": 6.197405,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 22,
+      "name": "De Clossenborch",
+      "latitude": 51.483036,
+      "longitude": 5.13471,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 23,
+      "name": "De Componist",
+      "latitude": 52.102559,
+      "longitude": 5.039908,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 24,
+      "name": "De Die",
+      "latitude": 52.398925,
+      "longitude": 4.932116,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 25,
+      "name": "De Eemgaarde",
+      "latitude": 52.138743,
+      "longitude": 5.398277,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 26,
+      "name": "De Eshoeve",
+      "latitude": 52.107444,
+      "longitude": 4.301295,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 27,
+      "name": "De Hanepraij",
+      "latitude": 52.007862,
+      "longitude": 4.718391,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 28,
+      "name": "De Hogeweyk",
+      "latitude": 52.314505,
+      "longitude": 5.028316,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 29,
+      "name": "De Ilpenhof",
+      "latitude": 52.46613,
+      "longitude": 4.952096,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 30,
+      "name": "De Meent",
+      "latitude": 52.031589,
+      "longitude": 5.577069,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 31,
+      "name": "De Mieuwijdt",
+      "latitude": 52.559947,
+      "longitude": 4.840003,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 32,
+      "name": "De Moerberg",
+      "latitude": 52.452105,
+      "longitude": 4.60309,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 33,
+      "name": "De Naaldhorst",
+      "latitude": 51.990242,
+      "longitude": 4.217581,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 34,
+      "name": "De Overburen Locatie de Kruidentuin",
+      "latitude": 51.853066,
+      "longitude": 4.548252,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 35,
+      "name": "De Palatijn",
+      "latitude": 52.621158,
+      "longitude": 4.745403,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 36,
+      "name": "De Slufter",
+      "latitude": 52.399211,
+      "longitude": 4.942445,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 37,
+      "name": "De Tabakshof",
+      "latitude": 51.986353,
+      "longitude": 5.494417,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 38,
+      "name": "De Venser",
+      "latitude": 52.317889,
+      "longitude": 4.94706,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 39,
+      "name": "De Vijf Havens",
+      "latitude": 51.967955,
+      "longitude": 4.578681,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 40,
+      "name": "De Vloet",
+      "latitude": 51.578507,
+      "longitude": 5.19193,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 41,
+      "name": "De Waadwente",
+      "latitude": 53.320774,
+      "longitude": 5.994447,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 42,
+      "name": "De Waalboog St. Josefklooster",
+      "latitude": 51.838175,
+      "longitude": 5.824099,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 43,
+      "name": "De Weijer",
+      "latitude": 52.069651,
+      "longitude": 5.193744,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 44,
+      "name": "De Wenning",
+      "latitude": 52.98404,
+      "longitude": 6.649509,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 45,
+      "name": "Den Eerdbrand",
+      "latitude": 51.47993,
+      "longitude": 5.46521,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 46,
+      "name": "Den Hogeban",
+      "latitude": 51.931833,
+      "longitude": 4.431191,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 47,
+      "name": "Derkshoes",
+      "latitude": 52.850671,
+      "longitude": 6.610339,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 48,
+      "name": "Dijckhoeve",
+      "latitude": 52.663531,
+      "longitude": 4.747914,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 49,
+      "name": "Domus Nostra",
+      "latitude": 52.063563,
+      "longitude": 4.246738,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 50,
+      "name": "Driehof",
+      "latitude": 52.096741,
+      "longitude": 4.59654,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 51,
+      "name": "Driezorg Westenhage",
+      "latitude": 52.525526,
+      "longitude": 6.051336,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 52,
+      "name": "Droomhuis",
+      "latitude": 51.981667,
+      "longitude": 5.337121,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 53,
+      "name": "Evean Henriëtte Roland Holst",
+      "latitude": 52.314239,
+      "longitude": 4.969984,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 54,
+      "name": "Expertisecentrum Madeleine",
+      "latitude": 51.650551,
+      "longitude": 5.945346,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 55,
+      "name": "Firenschat",
+      "latitude": 50.865396,
+      "longitude": 6.023201,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 56,
+      "name": "Floravita",
+      "latitude": 52.073918,
+      "longitude": 4.646742,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 57,
+      "name": "Groot Hungerink",
+      "latitude": 52.165143,
+      "longitude": 6.217317,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 58,
+      "name": "Halfweg",
+      "latitude": 52.342047,
+      "longitude": 5.791107,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 59,
+      "name": "Heemzicht",
+      "latitude": 51.793164,
+      "longitude": 4.31573,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 60,
+      "name": "Het Borsthuis",
+      "latitude": 52.265041,
+      "longitude": 6.767197,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 61,
+      "name": "Het Hof",
+      "latitude": 52.264861,
+      "longitude": 6.764416,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 62,
+      "name": "Het Hoogte Punt",
+      "latitude": 53.233825,
+      "longitude": 6.563695,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 63,
+      "name": "Het Stoofhuis",
+      "latitude": 51.751873,
+      "longitude": 5.739194,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 64,
+      "name": "Het zonnehuis",
+      "latitude": 52.535537,
+      "longitude": 6.046356,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 65,
+      "name": "Heymanscentrum Hoornseheem",
+      "latitude": 53.194406,
+      "longitude": 6.559618,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 66,
+      "name": "Heymanscentrum Neerwolde",
+      "latitude": 53.194228,
+      "longitude": 6.560112,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 67,
+      "name": "Irishof",
+      "latitude": 52.011589,
+      "longitude": 4.742592,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 68,
+      "name": "Kalorama",
+      "latitude": 51.827475,
+      "longitude": 5.921517,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 69,
+      "name": "Keyserinnedael",
+      "latitude": 51.482196,
+      "longitude": 5.652321,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 70,
+      "name": "Koninginnetoren",
+      "latitude": 51.929213,
+      "longitude": 4.497292,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 71,
+      "name": "Kulenburg",
+      "latitude": 51.952254,
+      "longitude": 5.230283,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 72,
+      "name": "Leo Polakhuis",
+      "latitude": 52.36254,
+      "longitude": 4.788288,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 73,
+      "name": "Lingewaarde",
+      "latitude": 51.89612,
+      "longitude": 5.424787,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 74,
+      "name": "Loosduinse Hof",
+      "latitude": 52.055747,
+      "longitude": 4.23981,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 75,
+      "name": "Maison Gaspard de Coligny",
+      "latitude": 52.105372,
+      "longitude": 4.323868,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 76,
+      "name": "Marga Klompé",
+      "latitude": 52.194801,
+      "longitude": 6.363669,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 77,
+      "name": "Mariëngaarde",
+      "latitude": 51.507491,
+      "longitude": 5.638033,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 78,
+      "name": "Menistenerf",
+      "latitude": 52.441085,
+      "longitude": 4.832388,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 79,
+      "name": "Nicolaas",
+      "latitude": 52.697616,
+      "longitude": 5.203589,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 80,
+      "name": "Nolenshaghe",
+      "latitude": 52.063431,
+      "longitude": 4.245946,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 81,
+      "name": "Odensehuis",
+      "latitude": 53.235557,
+      "longitude": 6.566891,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 82,
+      "name": "Oldeburgh",
+      "latitude": 52.637099,
+      "longitude": 4.774414,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 83,
+      "name": "Oosterparkheem",
+      "latitude": 53.22784,
+      "longitude": 6.577712,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 84,
+      "name": "Pantein, Hof van Loon",
+      "latitude": 51.570222,
+      "longitude": 5.948297,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 85,
+      "name": "Philadelphia",
+      "latitude": 52.098773,
+      "longitude": 6.143228,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 86,
+      "name": "Philadelphia Zorg IJsselmond Reijderhaven",
+      "latitude": 52.707515,
+      "longitude": 5.732606,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 87,
+      "name": "Pijletuinenhof",
+      "latitude": 51.992828,
+      "longitude": 4.212367,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 88,
+      "name": "Plattelandshoés",
+      "latitude": 51.331903,
+      "longitude": 5.976387,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 89,
+      "name": "Polbeek",
+      "latitude": 52.151469,
+      "longitude": 6.215377,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 90,
+      "name": "Regina Pacis",
+      "latitude": 51.991835,
+      "longitude": 5.947299,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 91,
+      "name": "Rispinge",
+      "latitude": 53.102655,
+      "longitude": 6.10224,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 92,
+      "name": "Rivas",
+      "latitude": 51.826704,
+      "longitude": 4.682088,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 93,
+      "name": "Rode Beuk",
+      "latitude": 50.833971,
+      "longitude": 5.987868,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 94,
+      "name": "Roosdonck Hospice",
+      "latitude": 51.539204,
+      "longitude": 4.467285,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 95,
+      "name": "Rumah Saya",
+      "latitude": 52.189579,
+      "longitude": 5.945725,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 96,
+      "name": "Rustoord",
+      "latitude": 52.256825,
+      "longitude": 4.550611,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 97,
+      "name": "Savant Alphonsus",
+      "latitude": 51.46741,
+      "longitude": 5.634899,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 98,
+      "name": "Savant Hof van Bethanië",
+      "latitude": 51.439084,
+      "longitude": 5.618891,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 99,
+      "name": "Savant Rivierenhof",
+      "latitude": 51.46897,
+      "longitude": 5.706321,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 100,
+      "name": "Savant Sonnehove",
+      "latitude": 51.38159,
+      "longitude": 5.71281,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 101,
+      "name": "Savant de Ameide",
+      "latitude": 51.480537,
+      "longitude": 5.659052,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 102,
+      "name": "Savant de Eeuwsels",
+      "latitude": 51.493928,
+      "longitude": 5.668377,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 103,
+      "name": "Savant de Lisse",
+      "latitude": 51.402298,
+      "longitude": 5.747233,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 104,
+      "name": "Savant van Lenthof",
+      "latitude": 51.472281,
+      "longitude": 5.55044,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 105,
+      "name": "Schiehoven",
+      "latitude": 51.952437,
+      "longitude": 4.464024,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 106,
+      "name": "Schiewaegh",
+      "latitude": 51.919329,
+      "longitude": 4.388499,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 107,
+      "name": "Simeonshof",
+      "latitude": 51.589967,
+      "longitude": 5.315498,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 108,
+      "name": "Sint Jozefpark",
+      "latitude": 52.739346,
+      "longitude": 4.74842,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 109,
+      "name": "Siza Vogelkersweg",
+      "latitude": 52.008267,
+      "longitude": 5.943148,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 110,
+      "name": "Snavelenburg",
+      "latitude": 52.137913,
+      "longitude": 5.036784,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 111,
+      "name": "Sonnevanck",
+      "latitude": 52.000336,
+      "longitude": 4.157588,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 112,
+      "name": "St Elisabeth Zorgcentrum",
+      "latitude": 51.517649,
+      "longitude": 5.067955,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 113,
+      "name": "St. Elisabeth",
+      "latitude": 52.263438,
+      "longitude": 6.708264,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 114,
+      "name": "St. Pieters en Bloklands Gasthuis",
+      "latitude": 52.20267,
+      "longitude": 5.422328,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 115,
+      "name": "Swaenewoerd",
+      "latitude": 52.388552,
+      "longitude": 6.274883,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 116,
+      "name": "Swaensborch",
+      "latitude": 52.455657,
+      "longitude": 5.038185,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 117,
+      "name": "Swellengrebel",
+      "latitude": 52.080014,
+      "longitude": 5.138753,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 118,
+      "name": "Swellengrebel",
+      "latitude": 52.080119,
+      "longitude": 5.137967,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 119,
+      "name": "Swinhove",
+      "latitude": 51.815051,
+      "longitude": 4.630183,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 120,
+      "name": "Sûnenz",
+      "latitude": 53.096891,
+      "longitude": 6.097293,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 121,
+      "name": "Talma State",
+      "latitude": 52.969877,
+      "longitude": 5.608986,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 122,
+      "name": "Thebe",
+      "latitude": 51.444888,
+      "longitude": 4.927717,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 123,
+      "name": "Thebe Park Stanislaus",
+      "latitude": 51.5481,
+      "longitude": 5.180778,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 124,
+      "name": "Theresia",
+      "latitude": 51.439105,
+      "longitude": 5.439787,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 125,
+      "name": "Uitzicht",
+      "latitude": 52.074583,
+      "longitude": 4.25322,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 126,
+      "name": "Van Oldenbarnevelthoeve",
+      "latitude": 51.977584,
+      "longitude": 4.446416,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 127,
+      "name": "Verpleeghuis Antonius Binnenweg",
+      "latitude": 51.917294,
+      "longitude": 4.470499,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 128,
+      "name": "Verpleeghuis Crabbehoven",
+      "latitude": 51.790779,
+      "longitude": 4.665745,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 129,
+      "name": "Verpleeghuis De Dormig",
+      "latitude": 50.900697,
+      "longitude": 6.025576,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 130,
+      "name": "Verpleeghuis Gulden Huis",
+      "latitude": 52.041185,
+      "longitude": 4.271116,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 131,
+      "name": "Verpleeghuis Houtwijk",
+      "latitude": 52.055074,
+      "longitude": 4.256988,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 132,
+      "name": "Verpleeghuis Nebo",
+      "latitude": 52.097189,
+      "longitude": 4.340108,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 133,
+      "name": "Verpleeghuis Stadzicht",
+      "latitude": 51.941481,
+      "longitude": 4.456054,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 134,
+      "name": "Verpleeghuis Vrederust-West",
+      "latitude": 52.034993,
+      "longitude": 4.261167,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 135,
+      "name": "Verpleeghuis Westerkim",
+      "latitude": 52.26475,
+      "longitude": 4.622133,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 136,
+      "name": "Verzorgingshuis Hoppesteyn",
+      "latitude": 51.929657,
+      "longitude": 4.497399,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 137,
+      "name": "Verzorgingshuis Houthaghe",
+      "latitude": 52.055358,
+      "longitude": 4.25156,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 138,
+      "name": "Vijverhof",
+      "latitude": 52.088533,
+      "longitude": 4.742929,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 139,
+      "name": "Vijverhof",
+      "latitude": 52.093565,
+      "longitude": 4.950586,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 140,
+      "name": "Villa Hooghe Heide",
+      "latitude": 52.187736,
+      "longitude": 5.400702,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 141,
+      "name": "Voorhoeve",
+      "latitude": 52.079793,
+      "longitude": 5.088986,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 142,
+      "name": "Vreedenhoff",
+      "latitude": 52.858664,
+      "longitude": 4.830349,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 143,
+      "name": "Vreedonk",
+      "latitude": 51.797722,
+      "longitude": 4.672716,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 144,
+      "name": "Vreugdehof",
+      "latitude": 52.333947,
+      "longitude": 4.88368,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 145,
+      "name": "WZH Leilinde",
+      "latitude": 52.063515,
+      "longitude": 4.404109,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 146,
+      "name": "WZH Oosterheem",
+      "latitude": 52.059128,
+      "longitude": 4.540501,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 147,
+      "name": "Westerheem",
+      "latitude": 52.504579,
+      "longitude": 4.66876,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 148,
+      "name": "Wilgenhof",
+      "latitude": 51.430208,
+      "longitude": 5.489425,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 149,
+      "name": "Willem Lodewijkstate",
+      "latitude": 53.321573,
+      "longitude": 6.844697,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 150,
+      "name": "Wing Hong",
+      "latitude": 52.06737,
+      "longitude": 4.29735,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 151,
+      "name": "Witte Brug",
+      "latitude": 52.021586,
+      "longitude": 4.221608,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 152,
+      "name": "Woonlandschap de Leyhoeve",
+      "latitude": 51.544774,
+      "longitude": 5.108796,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 153,
+      "name": "Woonzorgboerderij Moriahoeve",
+      "latitude": 52.061957,
+      "longitude": 5.476074,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 154,
+      "name": "Woonzorgcentrum Bunnichem",
+      "latitude": 52.06645,
+      "longitude": 5.203731,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 155,
+      "name": "Woonzorgcentrum De Havezate",
+      "latitude": 52.523674,
+      "longitude": 6.092331,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 156,
+      "name": "Woonzorgcentrum De Ingelanden",
+      "latitude": 52.100263,
+      "longitude": 5.059928,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 157,
+      "name": "Woonzorgcentrum De Vijverhof",
+      "latitude": 52.555161,
+      "longitude": 5.904683,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 158,
+      "name": "Woonzorgcentrum Dekkersduin",
+      "latitude": 52.068326,
+      "longitude": 4.235593,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 159,
+      "name": "Woonzorgcentrum Duinstede",
+      "latitude": 52.145334,
+      "longitude": 4.420524,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 160,
+      "name": "Woonzorgcentrum Het Zamen",
+      "latitude": 52.074509,
+      "longitude": 4.291884,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 161,
+      "name": "Woonzorgcentrum Merenhoef",
+      "latitude": 52.141078,
+      "longitude": 5.050687,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 162,
+      "name": "Woonzorgcentrum Rivierenhof",
+      "latitude": 52.530943,
+      "longitude": 6.101802,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 163,
+      "name": "Woonzorgcentrum Schalkweide",
+      "latitude": 52.364822,
+      "longitude": 4.66369,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 164,
+      "name": "Woonzorgcentrum St. Jozef",
+      "latitude": 52.188203,
+      "longitude": 5.432407,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 165,
+      "name": "Woonzorgcentrum de Esdoorn",
+      "latitude": 52.521442,
+      "longitude": 6.095864,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 166,
+      "name": "Woonzorgvoorziening De Gouden Leeuw Zelhem",
+      "latitude": 52.006215,
+      "longitude": 6.35124,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 167,
+      "name": "Wulverhorst",
+      "latitude": 52.028355,
+      "longitude": 4.868352,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 168,
+      "name": "Zonhove",
+      "latitude": 51.509163,
+      "longitude": 5.489862,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 169,
+      "name": "Zonnehuis",
+      "latitude": 52.035341,
+      "longitude": 5.351204,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 170,
+      "name": "Zonnehuis Westwijk",
+      "latitude": 52.274843,
+      "longitude": 4.832024,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 171,
+      "name": "Zonnehuis Wiemersheerd",
+      "latitude": 53.333308,
+      "longitude": 6.749923,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 172,
+      "name": "Zorgboerderij Buitengewoon",
+      "latitude": 52.01294,
+      "longitude": 4.39401,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 173,
+      "name": "Zorgcentrum De Warrenhove",
+      "latitude": 53.097965,
+      "longitude": 6.100854,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 174,
+      "name": "Zorgcentrum Gouwestein",
+      "latitude": 52.014237,
+      "longitude": 4.7005,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 175,
+      "name": "Zorgcentrum Maasveld",
+      "latitude": 51.901088,
+      "longitude": 4.496795,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 176,
+      "name": "Zorgcentrum Savelberg",
+      "latitude": 52.020305,
+      "longitude": 4.713862,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 177,
+      "name": "Zorgcentrum Sint Joris",
+      "latitude": 51.504624,
+      "longitude": 5.310961,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 178,
+      "name": "Zorgcentrum St. Anna",
+      "latitude": 50.873922,
+      "longitude": 5.969683,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 179,
+      "name": "Zorghotel De Keijzer",
+      "latitude": 52.005983,
+      "longitude": 4.443829,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 180,
+      "name": "Zorghuis Anna Heerkens",
+      "latitude": 52.505609,
+      "longitude": 6.094776,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 181,
+      "name": "Zorghuis Dr. W. Drees",
+      "latitude": 52.081947,
+      "longitude": 4.27476,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 182,
+      "name": "de Paasbergen",
+      "latitude": 52.847841,
+      "longitude": 6.849742,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 183,
+      "name": "mr L.E. Visserhuis",
+      "latitude": 52.105817,
+      "longitude": 4.326563,
+      "osm_klasse": "amenity=nursing_home"
+    },
+    {
+      "id": 184,
+      "name": "woonzorgcentrum De Rijp",
+      "latitude": 52.401972,
+      "longitude": 4.616026,
+      "osm_klasse": "amenity=nursing_home"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: nursing home (amenity=nursing_home) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=nursing_home in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 184 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: nursing home (amenity=nursing_home) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: nursing home (amenity=nursing_home) — 184 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 184 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

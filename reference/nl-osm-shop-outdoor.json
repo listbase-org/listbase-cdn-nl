@@ -1,0 +1,1836 @@
+{
+  "id": "nl-osm-shop-outdoor",
+  "name": "Netherlands OSM: outdoor (shop=outdoor)",
+  "title": "Netherlands OSM: outdoor (shop=outdoor)",
+  "description": "Named OpenStreetMap features tagged shop=outdoor in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 255,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "ANWB Outlet",
+      "latitude": 53.229374,
+      "longitude": 6.542999,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 2,
+      "name": "ANWB Outletwinkel",
+      "latitude": 52.509293,
+      "longitude": 5.47457,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 3,
+      "name": "ANWB winkel",
+      "latitude": 50.84957,
+      "longitude": 5.699535,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 4,
+      "name": "ANWB winkel",
+      "latitude": 50.888713,
+      "longitude": 5.97764,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 5,
+      "name": "ANWB winkel",
+      "latitude": 51.19336,
+      "longitude": 5.985213,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 6,
+      "name": "ANWB winkel",
+      "latitude": 51.370035,
+      "longitude": 6.168412,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 7,
+      "name": "ANWB winkel",
+      "latitude": 51.439846,
+      "longitude": 5.474961,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 8,
+      "name": "ANWB winkel",
+      "latitude": 51.468284,
+      "longitude": 5.476345,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 9,
+      "name": "ANWB winkel",
+      "latitude": 51.479569,
+      "longitude": 5.655752,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 10,
+      "name": "ANWB winkel",
+      "latitude": 51.496106,
+      "longitude": 4.292868,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 11,
+      "name": "ANWB winkel",
+      "latitude": 51.499176,
+      "longitude": 3.613831,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 12,
+      "name": "ANWB winkel",
+      "latitude": 51.504474,
+      "longitude": 3.889886,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 13,
+      "name": "ANWB winkel",
+      "latitude": 51.555472,
+      "longitude": 5.088554,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 14,
+      "name": "ANWB winkel",
+      "latitude": 51.582109,
+      "longitude": 4.777431,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 15,
+      "name": "ANWB winkel",
+      "latitude": 51.643825,
+      "longitude": 4.856453,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 16,
+      "name": "ANWB winkel",
+      "latitude": 51.658637,
+      "longitude": 5.613204,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 17,
+      "name": "ANWB winkel",
+      "latitude": 51.690587,
+      "longitude": 5.303546,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 18,
+      "name": "ANWB winkel",
+      "latitude": 51.769282,
+      "longitude": 5.525294,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 19,
+      "name": "ANWB winkel",
+      "latitude": 51.812896,
+      "longitude": 4.667587,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 20,
+      "name": "ANWB winkel",
+      "latitude": 51.830756,
+      "longitude": 4.975529,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 21,
+      "name": "ANWB winkel",
+      "latitude": 51.832236,
+      "longitude": 4.145901,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 22,
+      "name": "ANWB winkel",
+      "latitude": 51.842962,
+      "longitude": 5.861003,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 23,
+      "name": "ANWB winkel",
+      "latitude": 51.869668,
+      "longitude": 4.600748,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 24,
+      "name": "ANWB winkel",
+      "latitude": 51.888139,
+      "longitude": 5.434079,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 25,
+      "name": "ANWB winkel",
+      "latitude": 51.917664,
+      "longitude": 4.476176,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 26,
+      "name": "ANWB winkel",
+      "latitude": 51.950836,
+      "longitude": 4.554895,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 27,
+      "name": "ANWB winkel",
+      "latitude": 51.95837,
+      "longitude": 5.898209,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 28,
+      "name": "ANWB winkel",
+      "latitude": 51.99336,
+      "longitude": 4.206513,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 29,
+      "name": "ANWB winkel",
+      "latitude": 52.010195,
+      "longitude": 4.363698,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 30,
+      "name": "ANWB winkel",
+      "latitude": 52.015104,
+      "longitude": 4.709497,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 31,
+      "name": "ANWB winkel",
+      "latitude": 52.027805,
+      "longitude": 5.557173,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 32,
+      "name": "ANWB winkel",
+      "latitude": 52.028078,
+      "longitude": 5.084388,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 33,
+      "name": "ANWB winkel",
+      "latitude": 52.036202,
+      "longitude": 4.316752,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 34,
+      "name": "ANWB winkel",
+      "latitude": 52.047609,
+      "longitude": 5.672222,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 35,
+      "name": "ANWB winkel",
+      "latitude": 52.076036,
+      "longitude": 4.31112,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 36,
+      "name": "ANWB winkel",
+      "latitude": 52.092688,
+      "longitude": 5.118025,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 37,
+      "name": "ANWB winkel",
+      "latitude": 52.096005,
+      "longitude": 5.064207,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 38,
+      "name": "ANWB winkel",
+      "latitude": 52.096379,
+      "longitude": 4.327714,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 39,
+      "name": "ANWB winkel",
+      "latitude": 52.12999,
+      "longitude": 4.663418,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 40,
+      "name": "ANWB winkel",
+      "latitude": 52.156979,
+      "longitude": 5.391912,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 41,
+      "name": "ANWB winkel",
+      "latitude": 52.164398,
+      "longitude": 4.483988,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 42,
+      "name": "ANWB winkel",
+      "latitude": 52.214196,
+      "longitude": 5.962594,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 43,
+      "name": "ANWB winkel",
+      "latitude": 52.216235,
+      "longitude": 6.895734,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 44,
+      "name": "ANWB winkel",
+      "latitude": 52.225093,
+      "longitude": 5.174317,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 45,
+      "name": "ANWB winkel",
+      "latitude": 52.253928,
+      "longitude": 6.157344,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 46,
+      "name": "ANWB winkel",
+      "latitude": 52.262947,
+      "longitude": 6.79349,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 47,
+      "name": "ANWB winkel",
+      "latitude": 52.301914,
+      "longitude": 4.862417,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 48,
+      "name": "ANWB winkel",
+      "latitude": 52.30307,
+      "longitude": 4.69479,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 49,
+      "name": "ANWB winkel",
+      "latitude": 52.31335,
+      "longitude": 4.950095,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 50,
+      "name": "ANWB winkel",
+      "latitude": 52.348598,
+      "longitude": 5.623113,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 51,
+      "name": "ANWB winkel",
+      "latitude": 52.355517,
+      "longitude": 6.664065,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 52,
+      "name": "ANWB winkel",
+      "latitude": 52.372989,
+      "longitude": 5.220442,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 53,
+      "name": "ANWB winkel",
+      "latitude": 52.381035,
+      "longitude": 4.632569,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 54,
+      "name": "ANWB winkel",
+      "latitude": 52.439592,
+      "longitude": 4.822651,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 55,
+      "name": "ANWB winkel",
+      "latitude": 52.482132,
+      "longitude": 4.658205,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 56,
+      "name": "ANWB winkel",
+      "latitude": 52.508818,
+      "longitude": 4.946706,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 57,
+      "name": "ANWB winkel",
+      "latitude": 52.633788,
+      "longitude": 4.75066,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 58,
+      "name": "ANWB winkel",
+      "latitude": 52.642299,
+      "longitude": 5.05342,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 59,
+      "name": "ANWB winkel",
+      "latitude": 52.663802,
+      "longitude": 4.827624,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 60,
+      "name": "ANWB winkel",
+      "latitude": 52.698991,
+      "longitude": 6.19003,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 61,
+      "name": "ANWB winkel",
+      "latitude": 52.727655,
+      "longitude": 6.477754,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 62,
+      "name": "ANWB winkel",
+      "latitude": 52.95847,
+      "longitude": 5.925924,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 63,
+      "name": "ANWB winkel",
+      "latitude": 52.997038,
+      "longitude": 6.560596,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 64,
+      "name": "ANWB winkel",
+      "latitude": 53.032307,
+      "longitude": 5.659325,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 65,
+      "name": "ANWB winkel",
+      "latitude": 53.032893,
+      "longitude": 5.662384,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 66,
+      "name": "ANWB winkel",
+      "latitude": 53.104171,
+      "longitude": 6.097977,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 67,
+      "name": "ANWB winkel",
+      "latitude": 53.199882,
+      "longitude": 5.794501,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 68,
+      "name": "ANWB winkel",
+      "latitude": 53.21692,
+      "longitude": 6.570204,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 69,
+      "name": "Aart Kok Adventure",
+      "latitude": 53.146473,
+      "longitude": 6.4319,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 70,
+      "name": "Active Sports Warehouse",
+      "latitude": 52.16137,
+      "longitude": 4.487126,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 71,
+      "name": "Adventure Store",
+      "latitude": 51.463245,
+      "longitude": 5.634511,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 72,
+      "name": "Alpaca",
+      "latitude": 51.814759,
+      "longitude": 4.665519,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 73,
+      "name": "American Base",
+      "latitude": 53.063369,
+      "longitude": 5.510307,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 74,
+      "name": "Antilope Outdoor",
+      "latitude": 51.862158,
+      "longitude": 4.658526,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 75,
+      "name": "Arkoel",
+      "latitude": 52.018166,
+      "longitude": 4.170236,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 76,
+      "name": "Austria Sport",
+      "latitude": 51.772261,
+      "longitude": 5.861676,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 77,
+      "name": "Austria Sport",
+      "latitude": 52.354413,
+      "longitude": 4.841015,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 78,
+      "name": "B&B Outdoor",
+      "latitude": 51.948075,
+      "longitude": 6.277942,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 79,
+      "name": "BACO Army Goods",
+      "latitude": 52.454687,
+      "longitude": 4.583244,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 80,
+      "name": "Badweg Sportief Camping",
+      "latitude": 53.099852,
+      "longitude": 4.762014,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 81,
+      "name": "Bas Buitensport",
+      "latitude": 51.96795,
+      "longitude": 5.667393,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 82,
+      "name": "Basecamp",
+      "latitude": 52.039589,
+      "longitude": 4.358125,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 83,
+      "name": "Bax Totaalrecreatie",
+      "latitude": 51.31312,
+      "longitude": 5.34523,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 84,
+      "name": "Bever",
+      "latitude": 50.851915,
+      "longitude": 5.693192,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 85,
+      "name": "Bever",
+      "latitude": 51.212706,
+      "longitude": 6.018497,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 86,
+      "name": "Bever",
+      "latitude": 51.382139,
+      "longitude": 6.184149,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 87,
+      "name": "Bever",
+      "latitude": 51.421681,
+      "longitude": 5.49424,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 88,
+      "name": "Bever",
+      "latitude": 51.492487,
+      "longitude": 4.276979,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 89,
+      "name": "Bever",
+      "latitude": 51.497729,
+      "longitude": 3.608148,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 90,
+      "name": "Bever",
+      "latitude": 51.550306,
+      "longitude": 5.105725,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 91,
+      "name": "Bever",
+      "latitude": 51.588122,
+      "longitude": 4.772466,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 92,
+      "name": "Bever",
+      "latitude": 51.690028,
+      "longitude": 5.303515,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 93,
+      "name": "Bever",
+      "latitude": 51.846514,
+      "longitude": 5.866686,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 94,
+      "name": "Bever",
+      "latitude": 51.895714,
+      "longitude": 4.531278,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 95,
+      "name": "Bever",
+      "latitude": 51.917449,
+      "longitude": 4.475154,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 96,
+      "name": "Bever",
+      "latitude": 51.948142,
+      "longitude": 6.278349,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 97,
+      "name": "Bever",
+      "latitude": 51.951566,
+      "longitude": 4.559206,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 98,
+      "name": "Bever",
+      "latitude": 51.981634,
+      "longitude": 5.906735,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 99,
+      "name": "Bever",
+      "latitude": 52.023823,
+      "longitude": 5.146403,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 100,
+      "name": "Bever",
+      "latitude": 52.044517,
+      "longitude": 5.668529,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 101,
+      "name": "Bever",
+      "latitude": 52.076077,
+      "longitude": 4.311223,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 102,
+      "name": "Bever",
+      "latitude": 52.090358,
+      "longitude": 4.382741,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 103,
+      "name": "Bever",
+      "latitude": 52.093031,
+      "longitude": 5.117307,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 104,
+      "name": "Bever",
+      "latitude": 52.094184,
+      "longitude": 5.114778,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 105,
+      "name": "Bever",
+      "latitude": 52.158076,
+      "longitude": 5.39609,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 106,
+      "name": "Bever",
+      "latitude": 52.15851,
+      "longitude": 4.489746,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 107,
+      "name": "Bever",
+      "latitude": 52.213763,
+      "longitude": 5.961436,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 108,
+      "name": "Bever",
+      "latitude": 52.218556,
+      "longitude": 6.894308,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 109,
+      "name": "Bever",
+      "latitude": 52.222906,
+      "longitude": 5.257759,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 110,
+      "name": "Bever",
+      "latitude": 52.224537,
+      "longitude": 5.175977,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 111,
+      "name": "Bever",
+      "latitude": 52.252818,
+      "longitude": 6.165363,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 112,
+      "name": "Bever",
+      "latitude": 52.288412,
+      "longitude": 6.76553,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 113,
+      "name": "Bever",
+      "latitude": 52.331567,
+      "longitude": 4.878017,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 114,
+      "name": "Bever",
+      "latitude": 52.357611,
+      "longitude": 4.895738,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 115,
+      "name": "Bever",
+      "latitude": 52.362923,
+      "longitude": 4.87672,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 116,
+      "name": "Bever",
+      "latitude": 52.370769,
+      "longitude": 5.218697,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 117,
+      "name": "Bever",
+      "latitude": 52.381583,
+      "longitude": 4.63109,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 118,
+      "name": "Bever",
+      "latitude": 52.513799,
+      "longitude": 6.096804,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 119,
+      "name": "Bever",
+      "latitude": 52.63411,
+      "longitude": 4.751443,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 120,
+      "name": "Bever",
+      "latitude": 52.798595,
+      "longitude": 6.121677,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 121,
+      "name": "Bever",
+      "latitude": 52.996601,
+      "longitude": 6.563486,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 122,
+      "name": "Bever",
+      "latitude": 53.199739,
+      "longitude": 5.796044,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 123,
+      "name": "Bever",
+      "latitude": 53.21963,
+      "longitude": 6.571172,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 124,
+      "name": "Bula",
+      "latitude": 52.26898,
+      "longitude": 5.167579,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 125,
+      "name": "Camp Solutions",
+      "latitude": 52.223498,
+      "longitude": 6.084657,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 126,
+      "name": "Campeercentrum A2",
+      "latitude": 50.80538,
+      "longitude": 5.722328,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 127,
+      "name": "Camping Sport De Wit",
+      "latitude": 51.599058,
+      "longitude": 5.452352,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 128,
+      "name": "Campingshop Clarijs",
+      "latitude": 51.548743,
+      "longitude": 3.591213,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 129,
+      "name": "Campingsport Amsterdam",
+      "latitude": 52.372856,
+      "longitude": 4.850204,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 130,
+      "name": "Caravanbedrijf \"De Voortgang\"",
+      "latitude": 51.866072,
+      "longitude": 4.537134,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 131,
+      "name": "Carl Denig",
+      "latitude": 52.360489,
+      "longitude": 4.888437,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 132,
+      "name": "Carl Denig Pre-Owned",
+      "latitude": 52.342335,
+      "longitude": 4.906972,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 133,
+      "name": "Coppens Rekreatie",
+      "latitude": 51.502262,
+      "longitude": 5.411959,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 134,
+      "name": "De Cannenburg Caravans B.V.",
+      "latitude": 52.351247,
+      "longitude": 5.220448,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 135,
+      "name": "De Waard",
+      "latitude": 52.487256,
+      "longitude": 6.030306,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 136,
+      "name": "De Wandelfabriek",
+      "latitude": 52.213226,
+      "longitude": 5.956632,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 137,
+      "name": "De Wandelwinkel",
+      "latitude": 52.251819,
+      "longitude": 6.162564,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 138,
+      "name": "De Wit Caravan & Camper accessoires",
+      "latitude": 51.599047,
+      "longitude": 5.451031,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 139,
+      "name": "Dick's Dumpstore",
+      "latitude": 53.201512,
+      "longitude": 5.798527,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 140,
+      "name": "Douwe's Dump",
+      "latitude": 52.526186,
+      "longitude": 6.43076,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 141,
+      "name": "Duijvestein Wintersport",
+      "latitude": 52.085547,
+      "longitude": 4.27954,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 142,
+      "name": "Dump 67",
+      "latitude": 52.982931,
+      "longitude": 6.098816,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 143,
+      "name": "Dump Store",
+      "latitude": 52.352192,
+      "longitude": 4.891167,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 144,
+      "name": "Egberts Caravancenter",
+      "latitude": 53.180057,
+      "longitude": 6.375235,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 145,
+      "name": "Fietsvakantiewinkel",
+      "latitude": 51.907662,
+      "longitude": 5.867337,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 146,
+      "name": "Free-wheel Sport en Recreatie",
+      "latitude": 52.10755,
+      "longitude": 6.328829,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 147,
+      "name": "Fritz Berger",
+      "latitude": 52.735599,
+      "longitude": 4.777599,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 148,
+      "name": "Gear Point",
+      "latitude": 52.164144,
+      "longitude": 5.346279,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 149,
+      "name": "Geluksvogels Optiek & Outdoor",
+      "latitude": 52.140788,
+      "longitude": 6.198183,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 150,
+      "name": "Grandeur Ruitersport & Lifestyle",
+      "latitude": 51.678535,
+      "longitude": 5.399833,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 151,
+      "name": "Hans Stassar",
+      "latitude": 50.931646,
+      "longitude": 5.946906,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 152,
+      "name": "Hengelsport 2000",
+      "latitude": 52.334255,
+      "longitude": 4.957673,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 153,
+      "name": "Herman Lieven",
+      "latitude": 51.688736,
+      "longitude": 5.31636,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 154,
+      "name": "Holland Nautic",
+      "latitude": 52.194147,
+      "longitude": 5.942166,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 155,
+      "name": "House Of Outdoor & Optics",
+      "latitude": 52.142211,
+      "longitude": 5.039512,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 156,
+      "name": "Huna",
+      "latitude": 52.07695,
+      "longitude": 4.282459,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 157,
+      "name": "Huttopia",
+      "latitude": 52.091551,
+      "longitude": 5.11542,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 158,
+      "name": "IJsclub Vlietland",
+      "latitude": 51.972947,
+      "longitude": 4.319783,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 159,
+      "name": "Jack Wolfskin",
+      "latitude": 51.19947,
+      "longitude": 5.987318,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 160,
+      "name": "Jonker Funsports",
+      "latitude": 51.732493,
+      "longitude": 3.77104,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 161,
+      "name": "Jonker Watersport",
+      "latitude": 53.363086,
+      "longitude": 5.217307,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 162,
+      "name": "Kampeer Oase",
+      "latitude": 51.912468,
+      "longitude": 5.918462,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 163,
+      "name": "Kampeerhal Roden",
+      "latitude": 53.143287,
+      "longitude": 6.433505,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 164,
+      "name": "Kampeerwereld Hendriks",
+      "latitude": 52.322562,
+      "longitude": 5.620287,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 165,
+      "name": "Karoe",
+      "latitude": 52.056501,
+      "longitude": 4.496842,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 166,
+      "name": "Karsten Travelstore",
+      "latitude": 52.64246,
+      "longitude": 5.05833,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 167,
+      "name": "Kathmandu",
+      "latitude": 52.087374,
+      "longitude": 5.122158,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 168,
+      "name": "Kathmandu Outdoor & Travel",
+      "latitude": 52.380926,
+      "longitude": 4.890093,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 169,
+      "name": "Keela outdoorable",
+      "latitude": 51.946823,
+      "longitude": 5.222579,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 170,
+      "name": "Keijmel Recreatie",
+      "latitude": 51.395752,
+      "longitude": 3.559063,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 171,
+      "name": "Klimwinkel",
+      "latitude": 51.605055,
+      "longitude": 4.805729,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 172,
+      "name": "Koopman Hengelsport",
+      "latitude": 52.325129,
+      "longitude": 4.595665,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 173,
+      "name": "Lamain",
+      "latitude": 53.110053,
+      "longitude": 6.888181,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 174,
+      "name": "Leerentveld Vrijetijd",
+      "latitude": 52.517014,
+      "longitude": 6.121924,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 175,
+      "name": "Legerdump",
+      "latitude": 52.366639,
+      "longitude": 4.869571,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 176,
+      "name": "Linberg",
+      "latitude": 51.583511,
+      "longitude": 4.889652,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 177,
+      "name": "Mega-Camp",
+      "latitude": 52.79763,
+      "longitude": 6.902597,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 178,
+      "name": "Mol Outdoorwinkel",
+      "latitude": 52.143466,
+      "longitude": 4.395488,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 179,
+      "name": "Moosecamp",
+      "latitude": 52.028654,
+      "longitude": 5.642603,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 180,
+      "name": "Mulder Haastrecht",
+      "latitude": 52.002304,
+      "longitude": 4.776947,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 181,
+      "name": "Mulders",
+      "latitude": 51.03289,
+      "longitude": 5.811786,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 182,
+      "name": "Nauticshop",
+      "latitude": 52.844121,
+      "longitude": 5.709766,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 183,
+      "name": "Noodzaken",
+      "latitude": 52.22765,
+      "longitude": 6.838681,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 184,
+      "name": "Obelink Vrijetijdsmarkt",
+      "latitude": 51.959544,
+      "longitude": 6.685981,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 185,
+      "name": "Outdoor & Travel",
+      "latitude": 52.310164,
+      "longitude": 4.762135,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 186,
+      "name": "Outdoor & travel",
+      "latitude": 51.992082,
+      "longitude": 4.206965,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 187,
+      "name": "Outdoor Gouda",
+      "latitude": 52.013218,
+      "longitude": 4.70761,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 188,
+      "name": "OutdoorXL",
+      "latitude": 51.8507,
+      "longitude": 4.511553,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 189,
+      "name": "Pauw Recreatie",
+      "latitude": 52.678765,
+      "longitude": 4.829513,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 190,
+      "name": "Peadespul",
+      "latitude": 53.44825,
+      "longitude": 5.662073,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 191,
+      "name": "Pengels Outdoor & Vrije Tijd",
+      "latitude": 52.988624,
+      "longitude": 6.950602,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 192,
+      "name": "Pleijsier",
+      "latitude": 52.181547,
+      "longitude": 5.962412,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 193,
+      "name": "Prepshop",
+      "latitude": 52.091284,
+      "longitude": 5.116744,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 194,
+      "name": "Prepshop.nl",
+      "latitude": 52.078263,
+      "longitude": 5.055554,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 195,
+      "name": "Prepz",
+      "latitude": 52.362487,
+      "longitude": 6.596503,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 196,
+      "name": "Regatta",
+      "latitude": 51.980833,
+      "longitude": 5.910166,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 197,
+      "name": "Regatta Great Outdoors",
+      "latitude": 51.649903,
+      "longitude": 3.919134,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 198,
+      "name": "Regatta Great Outdoors",
+      "latitude": 52.15693,
+      "longitude": 5.392342,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 199,
+      "name": "Reiling",
+      "latitude": 52.558363,
+      "longitude": 6.631479,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 200,
+      "name": "Rene Vos",
+      "latitude": 52.198794,
+      "longitude": 6.200214,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 201,
+      "name": "Salomon",
+      "latitude": 51.19944,
+      "longitude": 5.987103,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 202,
+      "name": "ScoutShop Utrecht",
+      "latitude": 52.064825,
+      "longitude": 5.117309,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 203,
+      "name": "Scoutshop Amsterdam",
+      "latitude": 52.348624,
+      "longitude": 4.94333,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 204,
+      "name": "Scoutshop Arnhem",
+      "latitude": 51.988771,
+      "longitude": 5.94118,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 205,
+      "name": "Scoutshop Baarn",
+      "latitude": 52.214782,
+      "longitude": 5.264923,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 206,
+      "name": "Scoutshop Eindhoven",
+      "latitude": 51.481189,
+      "longitude": 5.440844,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 207,
+      "name": "Scoutshop Gorinchem",
+      "latitude": 51.828948,
+      "longitude": 4.976958,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 208,
+      "name": "Scoutshop Haarlem",
+      "latitude": 52.398448,
+      "longitude": 4.655424,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 209,
+      "name": "Scoutshop Katwijk",
+      "latitude": 52.205095,
+      "longitude": 4.399652,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 210,
+      "name": "Scoutshop Limburg",
+      "latitude": 50.994355,
+      "longitude": 5.860359,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 211,
+      "name": "Scoutshop Overasselt",
+      "latitude": 51.784033,
+      "longitude": 5.796884,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 212,
+      "name": "Scoutshop Rotterdam",
+      "latitude": 51.919006,
+      "longitude": 4.454444,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 213,
+      "name": "Scoutshop Vlaardingen",
+      "latitude": 51.925617,
+      "longitude": 4.337987,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 214,
+      "name": "Shogun.nl",
+      "latitude": 52.509597,
+      "longitude": 5.007582,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 215,
+      "name": "Skipperland",
+      "latitude": 52.845033,
+      "longitude": 5.710505,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 216,
+      "name": "Smitveld vouwwagens",
+      "latitude": 52.6017,
+      "longitude": 4.700575,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 217,
+      "name": "Snowcountry",
+      "latitude": 52.196676,
+      "longitude": 5.38663,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 218,
+      "name": "Soellaart",
+      "latitude": 52.378094,
+      "longitude": 4.636228,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 219,
+      "name": "Spac Sport",
+      "latitude": 51.830955,
+      "longitude": 5.859749,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 220,
+      "name": "Te Velde Kamperen-Tuinmeubelen-Wintersport",
+      "latitude": 52.977022,
+      "longitude": 6.953402,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 221,
+      "name": "Telstar",
+      "latitude": 52.317236,
+      "longitude": 5.565183,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 222,
+      "name": "Tentreparatie Rotterdam",
+      "latitude": 51.945952,
+      "longitude": 4.52649,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 223,
+      "name": "The World of Walking",
+      "latitude": 51.676813,
+      "longitude": 4.791316,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 224,
+      "name": "Trail.NL",
+      "latitude": 52.383525,
+      "longitude": 4.873824,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 225,
+      "name": "Twinseasons",
+      "latitude": 53.215454,
+      "longitude": 6.594645,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 226,
+      "name": "Ultiem Buitenleven",
+      "latitude": 53.193906,
+      "longitude": 5.843293,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 227,
+      "name": "V2 Outdoor",
+      "latitude": 52.352177,
+      "longitude": 5.188759,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 228,
+      "name": "Vakantiewereld",
+      "latitude": 50.82023,
+      "longitude": 5.830602,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 229,
+      "name": "Van Heusden Watersportwinkel",
+      "latitude": 52.183517,
+      "longitude": 5.019087,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 230,
+      "name": "Van Os Lederwaren",
+      "latitude": 52.642592,
+      "longitude": 5.056239,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 231,
+      "name": "Van der Veen Caravans",
+      "latitude": 52.883937,
+      "longitude": 6.005144,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 232,
+      "name": "Veluwe Outdoor & Running",
+      "latitude": 52.373862,
+      "longitude": 5.782996,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 233,
+      "name": "Veneboer",
+      "latitude": 52.720492,
+      "longitude": 6.476561,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 234,
+      "name": "Veneboer Camping",
+      "latitude": 53.11005,
+      "longitude": 6.07352,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 235,
+      "name": "Veneboer Outdoor",
+      "latitude": 53.106659,
+      "longitude": 6.103796,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 236,
+      "name": "Victory Outdoor",
+      "latitude": 52.377225,
+      "longitude": 4.896949,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 237,
+      "name": "Voet en Goed",
+      "latitude": 51.368752,
+      "longitude": 5.252154,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 238,
+      "name": "Vrijbuiter",
+      "latitude": 52.428323,
+      "longitude": 4.819298,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 239,
+      "name": "Vrijbuiter Gouda",
+      "latitude": 52.026345,
+      "longitude": 4.675762,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 240,
+      "name": "WW Trading",
+      "latitude": 52.207124,
+      "longitude": 5.980686,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 241,
+      "name": "WayPoint",
+      "latitude": 51.985907,
+      "longitude": 4.669526,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 242,
+      "name": "WayPoint",
+      "latitude": 52.216788,
+      "longitude": 5.171995,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 243,
+      "name": "WayPoint",
+      "latitude": 52.666962,
+      "longitude": 4.817262,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 244,
+      "name": "WayPoint",
+      "latitude": 53.180898,
+      "longitude": 6.37233,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 245,
+      "name": "WayPoint Vessem",
+      "latitude": 51.419574,
+      "longitude": 5.289929,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 246,
+      "name": "Weggemans",
+      "latitude": 52.787142,
+      "longitude": 6.893427,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 247,
+      "name": "Wellensteyn",
+      "latitude": 51.199382,
+      "longitude": 5.989474,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 248,
+      "name": "Westpoint Outdoor",
+      "latitude": 53.216324,
+      "longitude": 6.569396,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 249,
+      "name": "Yankee Dump",
+      "latitude": 51.692325,
+      "longitude": 5.300894,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 250,
+      "name": "Zeilmakerij Koster",
+      "latitude": 52.374129,
+      "longitude": 4.901742,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 251,
+      "name": "Zeldenrust",
+      "latitude": 52.563252,
+      "longitude": 4.631252,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 252,
+      "name": "Zwerfkei Outdoor & Travel Centre",
+      "latitude": 52.077694,
+      "longitude": 4.898231,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 253,
+      "name": "bd store outdoor",
+      "latitude": 51.496911,
+      "longitude": 3.606606,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 254,
+      "name": "van Duinkerken",
+      "latitude": 52.213456,
+      "longitude": 5.448137,
+      "osm_klasse": "shop=outdoor"
+    },
+    {
+      "id": 255,
+      "name": "vanbon-sport",
+      "latitude": 52.1969,
+      "longitude": 5.981283,
+      "osm_klasse": "shop=outdoor"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: outdoor (shop=outdoor) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=outdoor in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 255 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: outdoor (shop=outdoor) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: outdoor (shop=outdoor) — 255 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 255 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

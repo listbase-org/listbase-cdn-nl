@@ -1,0 +1,3173 @@
+{
+  "id": "nl-osm-shop-farm",
+  "name": "Netherlands OSM: farm (shop=farm)",
+  "title": "Netherlands OSM: farm (shop=farm)",
+  "description": "Named OpenStreetMap features tagged shop=farm in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 446,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'Het Derde Erf",
+      "latitude": 52.160911,
+      "longitude": 5.328994,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 2,
+      "name": "'n Groene Kans",
+      "latitude": 52.120167,
+      "longitude": 5.159861,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 3,
+      "name": "'t Boerenwinkeltje",
+      "latitude": 51.662307,
+      "longitude": 5.816023,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 4,
+      "name": "'t Boerenwinkeltje",
+      "latitude": 52.01136,
+      "longitude": 5.585724,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 5,
+      "name": "'t Broek",
+      "latitude": 52.066985,
+      "longitude": 5.47866,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 6,
+      "name": "'t Geertje",
+      "latitude": 52.094364,
+      "longitude": 4.505055,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 7,
+      "name": "'t Goed Elferdinck",
+      "latitude": 51.942573,
+      "longitude": 6.710468,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 8,
+      "name": "'t Hummelhûs",
+      "latitude": 52.966545,
+      "longitude": 6.091207,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 9,
+      "name": "'t Koeland",
+      "latitude": 52.140833,
+      "longitude": 5.712383,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 10,
+      "name": "'t Leeuweriksveld",
+      "latitude": 52.741763,
+      "longitude": 6.847691,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 11,
+      "name": "'t Piepertje",
+      "latitude": 52.077529,
+      "longitude": 4.598272,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 12,
+      "name": "'t Plukgeluk",
+      "latitude": 53.285398,
+      "longitude": 6.569666,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 13,
+      "name": "'t Vershuus",
+      "latitude": 52.763469,
+      "longitude": 6.359051,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 14,
+      "name": "'t Winkeltje",
+      "latitude": 52.949472,
+      "longitude": 6.485354,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 15,
+      "name": "Aardappelhandel Brachten",
+      "latitude": 51.960168,
+      "longitude": 5.818512,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 16,
+      "name": "Aardbeien Drive-in",
+      "latitude": 51.586624,
+      "longitude": 4.679408,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 17,
+      "name": "Age's Groenten en Fruit Stalletje",
+      "latitude": 52.716452,
+      "longitude": 5.112046,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 18,
+      "name": "Akkerbouwbedrijf Familie Pardijs",
+      "latitude": 52.180093,
+      "longitude": 6.130713,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 19,
+      "name": "Akkerhof",
+      "latitude": 50.778311,
+      "longitude": 6.006418,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 20,
+      "name": "Alpaca Eco Farm",
+      "latitude": 52.636951,
+      "longitude": 4.679831,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 21,
+      "name": "Amaranthos Flowers",
+      "latitude": 52.002524,
+      "longitude": 4.327924,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 22,
+      "name": "Ambacht",
+      "latitude": 52.013944,
+      "longitude": 4.351354,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 23,
+      "name": "Andromeda VOF",
+      "latitude": 52.194571,
+      "longitude": 5.129012,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 24,
+      "name": "Appelboer Jurrius",
+      "latitude": 51.464115,
+      "longitude": 5.658387,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 25,
+      "name": "Appeltje - Eitje",
+      "latitude": 51.830693,
+      "longitude": 5.84542,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 26,
+      "name": "Appeltje Eitje",
+      "latitude": 51.864935,
+      "longitude": 5.854078,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 27,
+      "name": "Ararat Groente & Fruit",
+      "latitude": 52.053683,
+      "longitude": 5.287334,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 28,
+      "name": "Aspergebedrijf / Tuinderij Veldink",
+      "latitude": 52.28126,
+      "longitude": 6.140179,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 29,
+      "name": "Aspergeboerderij Sandur",
+      "latitude": 52.713573,
+      "longitude": 6.887706,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 30,
+      "name": "Aspergehof Huijbers",
+      "latitude": 51.444453,
+      "longitude": 5.636998,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 31,
+      "name": "Aspergekwekerij Weiteveen",
+      "latitude": 52.688103,
+      "longitude": 6.980113,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 32,
+      "name": "Aspergerboerderij Boshoven",
+      "latitude": 51.345406,
+      "longitude": 5.374173,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 33,
+      "name": "Aspergewinkel Verhoeven",
+      "latitude": 51.661807,
+      "longitude": 5.22554,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 34,
+      "name": "BFFL brAbAnt",
+      "latitude": 51.645271,
+      "longitude": 5.473071,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 35,
+      "name": "BesTFruit",
+      "latitude": 51.844576,
+      "longitude": 4.250774,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 36,
+      "name": "Besteleeneitje.nl",
+      "latitude": 53.126328,
+      "longitude": 6.150815,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 37,
+      "name": "Biesboschhoeve",
+      "latitude": 51.734657,
+      "longitude": 4.754764,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 38,
+      "name": "Bij Boer Janssen",
+      "latitude": 51.882889,
+      "longitude": 5.539857,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 39,
+      "name": "Bij Snoek (Melkveehouderij, IJsboerderij en Landwinkel)",
+      "latitude": 51.611435,
+      "longitude": 4.808235,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 40,
+      "name": "Bijzonder Rundvlees",
+      "latitude": 52.254469,
+      "longitude": 6.892089,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 41,
+      "name": "Bio Groente Fruit",
+      "latitude": 52.863148,
+      "longitude": 6.642127,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 42,
+      "name": "Biokaas kinderdijk",
+      "latitude": 51.876024,
+      "longitude": 4.638477,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 43,
+      "name": "Biolandhof Eva Vierboom",
+      "latitude": 51.803042,
+      "longitude": 5.970767,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 44,
+      "name": "Biologische Boerderij Landlust",
+      "latitude": 51.953902,
+      "longitude": 4.285015,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 45,
+      "name": "Biologische Boerderijwinkel Bioventura",
+      "latitude": 53.388066,
+      "longitude": 5.969654,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 46,
+      "name": "Biologische Kaasboerderij Kleikracht",
+      "latitude": 53.328069,
+      "longitude": 6.498975,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 47,
+      "name": "Biologische Tuinderij De Waog",
+      "latitude": 51.273434,
+      "longitude": 6.006247,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 48,
+      "name": "Biologische boerdeij De Wolfskuil",
+      "latitude": 52.024678,
+      "longitude": 6.074308,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 49,
+      "name": "Bloeiend Landlust",
+      "latitude": 52.139667,
+      "longitude": 4.628867,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 50,
+      "name": "Bloemen",
+      "latitude": 53.387663,
+      "longitude": 6.379115,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 51,
+      "name": "Boddens Bio-Büdchen",
+      "latitude": 51.68402,
+      "longitude": 6.033031,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 52,
+      "name": "Boederijwinkel Stuifzand",
+      "latitude": 52.746418,
+      "longitude": 6.503351,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 53,
+      "name": "Boer Gijs",
+      "latitude": 52.043812,
+      "longitude": 5.129996,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 54,
+      "name": "Boer'n Buffel",
+      "latitude": 52.28572,
+      "longitude": 6.120366,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 55,
+      "name": "Boer'nwinkel De Hulleboer",
+      "latitude": 52.393277,
+      "longitude": 6.628918,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 56,
+      "name": "BoerBertShop",
+      "latitude": 52.09493,
+      "longitude": 4.883329,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 57,
+      "name": "Boerdereike",
+      "latitude": 51.489501,
+      "longitude": 5.466615,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 58,
+      "name": "Boerderij 'De Bosrand'",
+      "latitude": 51.678541,
+      "longitude": 5.64336,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 59,
+      "name": "Boerderij Buitenverwachting",
+      "latitude": 52.169146,
+      "longitude": 4.585526,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 60,
+      "name": "Boerderij De Koeienstal",
+      "latitude": 51.998609,
+      "longitude": 4.589174,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 61,
+      "name": "Boerderij Eyckenstein",
+      "latitude": 52.165148,
+      "longitude": 5.203194,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 62,
+      "name": "Boerderij Nellensteijn",
+      "latitude": 52.154347,
+      "longitude": 4.427837,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 63,
+      "name": "Boerderij Peters",
+      "latitude": 52.163343,
+      "longitude": 4.643132,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 64,
+      "name": "Boerderij automaat De Plak",
+      "latitude": 51.853713,
+      "longitude": 5.918343,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 65,
+      "name": "Boerderij de Kraanvogel",
+      "latitude": 51.454686,
+      "longitude": 5.129174,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 66,
+      "name": "Boerderij van Rijn",
+      "latitude": 52.167782,
+      "longitude": 4.64187,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 67,
+      "name": "Boerderij winkel VanHier",
+      "latitude": 52.117699,
+      "longitude": 4.608672,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 68,
+      "name": "Boerderijautomaat Decemberhoeve",
+      "latitude": 52.287824,
+      "longitude": 4.626778,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 69,
+      "name": "Boerderijautomaat Het Hoekje",
+      "latitude": 52.067709,
+      "longitude": 5.436789,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 70,
+      "name": "Boerderijautomaat de Emelaar",
+      "latitude": 52.23363,
+      "longitude": 5.769417,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 71,
+      "name": "Boerderijwinkel",
+      "latitude": 52.158828,
+      "longitude": 5.179451,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 72,
+      "name": "Boerderijwinkel 'Onder de Hooiberg'",
+      "latitude": 52.115574,
+      "longitude": 4.701096,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 73,
+      "name": "Boerderijwinkel 't Hedevelds Bio Ei",
+      "latitude": 52.316839,
+      "longitude": 6.754417,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 74,
+      "name": "Boerderijwinkel 't Zwien",
+      "latitude": 52.752579,
+      "longitude": 6.690107,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 75,
+      "name": "Boerderijwinkel Abbink",
+      "latitude": 52.068055,
+      "longitude": 6.339707,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 76,
+      "name": "Boerderijwinkel Bie de Meule",
+      "latitude": 50.946598,
+      "longitude": 5.772916,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 77,
+      "name": "Boerderijwinkel De Balloohoeve",
+      "latitude": 52.993519,
+      "longitude": 6.627726,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 78,
+      "name": "Boerderijwinkel De Buytenhof",
+      "latitude": 51.856677,
+      "longitude": 4.449785,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 79,
+      "name": "Boerderijwinkel De Horsterhof",
+      "latitude": 51.955482,
+      "longitude": 5.9955,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 80,
+      "name": "Boerderijwinkel De Lutte-Esch",
+      "latitude": 52.769443,
+      "longitude": 6.820446,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 81,
+      "name": "Boerderijwinkel De Witte Schuur",
+      "latitude": 51.950868,
+      "longitude": 5.18844,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 82,
+      "name": "Boerderijwinkel Els-hoeve",
+      "latitude": 51.761104,
+      "longitude": 4.722434,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 83,
+      "name": "Boerderijwinkel Fluitenberg",
+      "latitude": 52.736461,
+      "longitude": 6.428928,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 84,
+      "name": "Boerderijwinkel Groot Antink",
+      "latitude": 52.047743,
+      "longitude": 6.632127,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 85,
+      "name": "Boerderijwinkel Hazerswoude",
+      "latitude": 52.344329,
+      "longitude": 4.74958,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 86,
+      "name": "Boerderijwinkel Heijerhof",
+      "latitude": 51.226474,
+      "longitude": 5.909151,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 87,
+      "name": "Boerderijwinkel Hoeve Ravenstein",
+      "latitude": 52.216186,
+      "longitude": 5.2562,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 88,
+      "name": "Boerderijwinkel Linders",
+      "latitude": 51.292289,
+      "longitude": 5.741586,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 89,
+      "name": "Boerderijwinkel Melsen",
+      "latitude": 51.387726,
+      "longitude": 4.313806,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 90,
+      "name": "Boerderijwinkel Naoberhoeve",
+      "latitude": 52.722093,
+      "longitude": 6.400627,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 91,
+      "name": "Boerderijwinkel Oudebosch",
+      "latitude": 53.286795,
+      "longitude": 6.334882,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 92,
+      "name": "Boerderijwinkel Pijnen",
+      "latitude": 51.418494,
+      "longitude": 4.33961,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 93,
+      "name": "Boerderijwinkel Smits",
+      "latitude": 51.295383,
+      "longitude": 5.578765,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 94,
+      "name": "Boerderijwinkel VanHier",
+      "latitude": 52.117787,
+      "longitude": 4.60805,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 95,
+      "name": "Boerderijwinkel Vers Enzo",
+      "latitude": 51.514283,
+      "longitude": 4.286576,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 96,
+      "name": "Boerderijwinkel Waaise Weelde",
+      "latitude": 52.066924,
+      "longitude": 5.024648,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 97,
+      "name": "Boerderijwinkel Zandman",
+      "latitude": 52.514276,
+      "longitude": 6.540486,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 98,
+      "name": "Boerderijwinkel de Zijp",
+      "latitude": 51.609813,
+      "longitude": 5.702785,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 99,
+      "name": "Boerderijwinkeltje Zus & Zo",
+      "latitude": 51.729515,
+      "longitude": 5.344775,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 100,
+      "name": "Boeregoed",
+      "latitude": 51.953254,
+      "longitude": 4.225516,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 101,
+      "name": "Boeren-Leidse Kaasmuseum",
+      "latitude": 52.214454,
+      "longitude": 4.558697,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 102,
+      "name": "Boerenerf Automaat",
+      "latitude": 52.226322,
+      "longitude": 5.57127,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 103,
+      "name": "Boerentrots",
+      "latitude": 52.689087,
+      "longitude": 4.866055,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 104,
+      "name": "Boerenwinkel",
+      "latitude": 52.038536,
+      "longitude": 5.124522,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 105,
+      "name": "Boerenwinkel 't Koffiehuys",
+      "latitude": 52.352114,
+      "longitude": 6.065972,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 106,
+      "name": "Boerin in Midden-Delfland",
+      "latitude": 51.96041,
+      "longitude": 4.266215,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 107,
+      "name": "Boneschansker",
+      "latitude": 53.276347,
+      "longitude": 6.696829,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 108,
+      "name": "Cowporation Farmshop",
+      "latitude": 51.868683,
+      "longitude": 4.676914,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 109,
+      "name": "Cranberrybedrijf Groenhof",
+      "latitude": 53.403368,
+      "longitude": 5.370191,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 110,
+      "name": "Cresco BV",
+      "latitude": 52.006747,
+      "longitude": 4.249276,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 111,
+      "name": "Dagbesteding winkel 107",
+      "latitude": 52.717989,
+      "longitude": 6.573255,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 112,
+      "name": "Day care farm De Hoop",
+      "latitude": 52.176599,
+      "longitude": 4.704661,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 113,
+      "name": "De Annahoeve",
+      "latitude": 51.628913,
+      "longitude": 5.013264,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 114,
+      "name": "De Appel",
+      "latitude": 52.019979,
+      "longitude": 5.187413,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 115,
+      "name": "De Beekhoeve",
+      "latitude": 52.148868,
+      "longitude": 4.893234,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 116,
+      "name": "De Biezaak",
+      "latitude": 51.209593,
+      "longitude": 5.951229,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 117,
+      "name": "De Blauwe Bessenhof",
+      "latitude": 52.105351,
+      "longitude": 5.746711,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 118,
+      "name": "De Boerderij van Bertus en Riek",
+      "latitude": 52.170323,
+      "longitude": 5.966406,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 119,
+      "name": "De Boerenstreek",
+      "latitude": 52.671268,
+      "longitude": 6.429385,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 120,
+      "name": "De Boerkamp",
+      "latitude": 52.280929,
+      "longitude": 6.148981,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 121,
+      "name": "De Bonte Belevenis",
+      "latitude": 53.031234,
+      "longitude": 4.739272,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 122,
+      "name": "De Braakhekke Mosterd",
+      "latitude": 52.191709,
+      "longitude": 6.296859,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 123,
+      "name": "De Brienenshof",
+      "latitude": 51.997601,
+      "longitude": 5.29257,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 124,
+      "name": "De Buitenman",
+      "latitude": 51.416273,
+      "longitude": 5.144317,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 125,
+      "name": "De Cinquant",
+      "latitude": 51.697475,
+      "longitude": 5.847499,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 126,
+      "name": "De Dinkelhoeve",
+      "latitude": 52.345365,
+      "longitude": 4.60751,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 127,
+      "name": "De Eekhoeve",
+      "latitude": 52.01927,
+      "longitude": 5.527861,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 128,
+      "name": "De Eersteling",
+      "latitude": 52.301235,
+      "longitude": 4.685335,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 129,
+      "name": "De Ei Halte",
+      "latitude": 53.17106,
+      "longitude": 6.77759,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 130,
+      "name": "De Elzenkamp",
+      "latitude": 52.180578,
+      "longitude": 5.619753,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 131,
+      "name": "De Fruitben",
+      "latitude": 51.932447,
+      "longitude": 5.85926,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 132,
+      "name": "De Fruithal",
+      "latitude": 51.24808,
+      "longitude": 5.742971,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 133,
+      "name": "De Fruithut",
+      "latitude": 52.079271,
+      "longitude": 5.441304,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 134,
+      "name": "De Fruitlader",
+      "latitude": 51.864149,
+      "longitude": 5.306227,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 135,
+      "name": "De Fruitschuur",
+      "latitude": 51.950242,
+      "longitude": 6.375648,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 136,
+      "name": "De Galgehoeve",
+      "latitude": 51.598419,
+      "longitude": 4.823026,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 137,
+      "name": "De Geele Bosch",
+      "latitude": 52.927687,
+      "longitude": 6.003192,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 138,
+      "name": "De Groene Griffioen",
+      "latitude": 52.316106,
+      "longitude": 5.05902,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 139,
+      "name": "De Groene Polderwinkel",
+      "latitude": 51.346074,
+      "longitude": 3.566947,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 140,
+      "name": "De Groentestek",
+      "latitude": 51.936267,
+      "longitude": 5.695316,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 141,
+      "name": "De Haarse Gaard",
+      "latitude": 52.118329,
+      "longitude": 5.002297,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 142,
+      "name": "De Heerenhoeve",
+      "latitude": 51.333728,
+      "longitude": 3.513249,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 143,
+      "name": "De Herder-Inn",
+      "latitude": 51.679395,
+      "longitude": 5.773251,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 144,
+      "name": "De Hoenderik",
+      "latitude": 51.892134,
+      "longitude": 5.248791,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 145,
+      "name": "De Hofwinkel",
+      "latitude": 52.527492,
+      "longitude": 5.671014,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 146,
+      "name": "De Holy Hoeve",
+      "latitude": 51.95109,
+      "longitude": 4.335987,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 147,
+      "name": "De Hondspol",
+      "latitude": 52.031067,
+      "longitude": 5.288498,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 148,
+      "name": "De Hooierij",
+      "latitude": 52.100482,
+      "longitude": 5.185344,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 149,
+      "name": "De Jachthoeve",
+      "latitude": 52.098496,
+      "longitude": 5.727436,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 150,
+      "name": "De Jong en zonen",
+      "latitude": 52.111078,
+      "longitude": 4.48032,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 151,
+      "name": "De Kastanjeboom",
+      "latitude": 52.217424,
+      "longitude": 5.389122,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 152,
+      "name": "De Keizershof",
+      "latitude": 52.098461,
+      "longitude": 4.505009,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 153,
+      "name": "De Keujer",
+      "latitude": 52.261594,
+      "longitude": 6.524231,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 154,
+      "name": "De Kikkershoek",
+      "latitude": 51.808099,
+      "longitude": 4.4828,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 155,
+      "name": "De Klaproos",
+      "latitude": 51.570713,
+      "longitude": 5.487815,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 156,
+      "name": "De Kleverbergh",
+      "latitude": 51.851959,
+      "longitude": 5.959203,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 157,
+      "name": "De Klomperhoek",
+      "latitude": 52.079722,
+      "longitude": 5.610632,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 158,
+      "name": "De Laarhoeve",
+      "latitude": 51.404734,
+      "longitude": 5.468696,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 159,
+      "name": "De Landkruidenier",
+      "latitude": 52.171669,
+      "longitude": 4.773053,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 160,
+      "name": "De Landouw",
+      "latitude": 52.11493,
+      "longitude": 5.512364,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 161,
+      "name": "De Landyn",
+      "latitude": 52.301478,
+      "longitude": 4.605514,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 162,
+      "name": "De Langenbrinck Eerlijk Heerlijk",
+      "latitude": 51.895789,
+      "longitude": 6.450254,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 163,
+      "name": "De Lingegeardt",
+      "latitude": 51.931763,
+      "longitude": 5.840147,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 164,
+      "name": "De Luingahof",
+      "latitude": 53.381139,
+      "longitude": 6.862382,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 165,
+      "name": "De Manderveense Aardbei",
+      "latitude": 52.455952,
+      "longitude": 6.781492,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 166,
+      "name": "De Marsen",
+      "latitude": 52.439787,
+      "longitude": 4.907297,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 167,
+      "name": "De Marwijkshof",
+      "latitude": 52.961711,
+      "longitude": 6.660725,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 168,
+      "name": "De Mooie Schuur",
+      "latitude": 51.601842,
+      "longitude": 5.130127,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 169,
+      "name": "De Morene",
+      "latitude": 52.954232,
+      "longitude": 6.811386,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 170,
+      "name": "De Ommuurde Tuin",
+      "latitude": 51.977073,
+      "longitude": 5.718982,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 171,
+      "name": "De Ooievaar",
+      "latitude": 52.108177,
+      "longitude": 4.974812,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 172,
+      "name": "De Oude Boerderij",
+      "latitude": 52.473307,
+      "longitude": 4.686164,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 173,
+      "name": "De Patrijs",
+      "latitude": 52.173148,
+      "longitude": 6.358606,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 174,
+      "name": "De Pieperautomaat",
+      "latitude": 52.243524,
+      "longitude": 4.570198,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 175,
+      "name": "De Pollekamp",
+      "latitude": 52.280569,
+      "longitude": 5.604365,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 176,
+      "name": "De Regte Heijden",
+      "latitude": 51.511719,
+      "longitude": 5.013342,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 177,
+      "name": "De Rijk Zuivel",
+      "latitude": 52.160972,
+      "longitude": 4.640822,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 178,
+      "name": "De Schoffel",
+      "latitude": 51.575839,
+      "longitude": 5.309518,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 179,
+      "name": "De Stadsakker",
+      "latitude": 53.219625,
+      "longitude": 6.561613,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 180,
+      "name": "De Stoerderij",
+      "latitude": 51.515962,
+      "longitude": 5.516134,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 181,
+      "name": "De Texelse boerderijwinkel",
+      "latitude": 53.041516,
+      "longitude": 4.748476,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 182,
+      "name": "De Twee Linden",
+      "latitude": 51.744001,
+      "longitude": 5.674781,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 183,
+      "name": "De Veldschuur",
+      "latitude": 52.13524,
+      "longitude": 6.854639,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 184,
+      "name": "De Verbazing",
+      "latitude": 52.397369,
+      "longitude": 5.357962,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 185,
+      "name": "De Viermarken",
+      "latitude": 52.239545,
+      "longitude": 6.868522,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 186,
+      "name": "De Voedselschuur",
+      "latitude": 51.984804,
+      "longitude": 5.215272,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 187,
+      "name": "De Voedselschuur",
+      "latitude": 51.987401,
+      "longitude": 5.206512,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 188,
+      "name": "De Willemshoeve",
+      "latitude": 52.233093,
+      "longitude": 4.496387,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 189,
+      "name": "De Winterswijkse Kaasboerderij Harmienehoeve",
+      "latitude": 51.908712,
+      "longitude": 6.726789,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 190,
+      "name": "De Witte Gravin",
+      "latitude": 52.110773,
+      "longitude": 4.716904,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 191,
+      "name": "De Wolf",
+      "latitude": 52.306874,
+      "longitude": 6.079155,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 192,
+      "name": "De Zandroos",
+      "latitude": 51.885758,
+      "longitude": 5.622912,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 193,
+      "name": "De Zoete Kers",
+      "latitude": 51.713896,
+      "longitude": 3.777679,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 194,
+      "name": "De Zonnegaard",
+      "latitude": 52.18096,
+      "longitude": 6.1345,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 195,
+      "name": "Den 4 Akker",
+      "latitude": 52.10194,
+      "longitude": 6.248329,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 196,
+      "name": "Den Hollander",
+      "latitude": 52.151088,
+      "longitude": 4.422826,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 197,
+      "name": "Dorpsboerderij Riep",
+      "latitude": 53.347089,
+      "longitude": 6.759946,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 198,
+      "name": "Druivenkwekerij Nieuw Tuinzight",
+      "latitude": 52.005012,
+      "longitude": 4.295671,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 199,
+      "name": "Ecoboerderij De Haan",
+      "latitude": 51.966575,
+      "longitude": 5.509025,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 200,
+      "name": "Eemstadboerderij",
+      "latitude": 52.180728,
+      "longitude": 5.427485,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 201,
+      "name": "Ei-cel",
+      "latitude": 53.078078,
+      "longitude": 5.524775,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 202,
+      "name": "Eibaar",
+      "latitude": 51.702513,
+      "longitude": 4.260305,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 203,
+      "name": "Eierautomaat Moorst",
+      "latitude": 52.115975,
+      "longitude": 5.478294,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 204,
+      "name": "Eierautomaat Oving",
+      "latitude": 52.853791,
+      "longitude": 6.765296,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 205,
+      "name": "Elsbroekerwei",
+      "latitude": 52.278908,
+      "longitude": 4.572136,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 206,
+      "name": "Eric's Landwinkel",
+      "latitude": 52.659204,
+      "longitude": 4.712791,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 207,
+      "name": "Erve Grutterink",
+      "latitude": 52.2859,
+      "longitude": 6.140101,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 208,
+      "name": "Erve Nijhuis",
+      "latitude": 52.249168,
+      "longitude": 6.747803,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 209,
+      "name": "Farmshop Vrijhof Hierden",
+      "latitude": 52.354095,
+      "longitude": 5.648167,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 210,
+      "name": "Feintsje fan Menaam",
+      "latitude": 53.223493,
+      "longitude": 5.676087,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 211,
+      "name": "FietsFruit",
+      "latitude": 52.568919,
+      "longitude": 4.73656,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 212,
+      "name": "Firma van Buiten",
+      "latitude": 52.006208,
+      "longitude": 4.329878,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 213,
+      "name": "Firma van Buiten",
+      "latitude": 52.007508,
+      "longitude": 4.33046,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 214,
+      "name": "Fruit Shop",
+      "latitude": 52.631505,
+      "longitude": 4.749114,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 215,
+      "name": "Fruitbedrijf Gerritsen",
+      "latitude": 51.975955,
+      "longitude": 5.219125,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 216,
+      "name": "Fruitbedrijf Heusschen",
+      "latitude": 50.867541,
+      "longitude": 5.899698,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 217,
+      "name": "Fruitbedrijf Horstink",
+      "latitude": 52.05363,
+      "longitude": 6.162911,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 218,
+      "name": "Fruitbedrijf Kers en Zo",
+      "latitude": 51.683568,
+      "longitude": 5.830841,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 219,
+      "name": "Fruitbedrijf Kessels",
+      "latitude": 51.332858,
+      "longitude": 5.994075,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 220,
+      "name": "Fruitbosch",
+      "latitude": 52.417873,
+      "longitude": 6.352359,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 221,
+      "name": "Fruithal Smits",
+      "latitude": 52.373425,
+      "longitude": 5.474477,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 222,
+      "name": "Fruitteeltbedrijf Schorre",
+      "latitude": 51.585743,
+      "longitude": 3.606581,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 223,
+      "name": "Fruitteeltbedrijf Van Wetten",
+      "latitude": 51.798483,
+      "longitude": 4.348152,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 224,
+      "name": "Fruittuin van West",
+      "latitude": 52.381738,
+      "longitude": 4.773568,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 225,
+      "name": "Fruittuin van West",
+      "latitude": 52.381749,
+      "longitude": 4.774689,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 226,
+      "name": "Frytsjam",
+      "latitude": 53.240324,
+      "longitude": 6.096337,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 227,
+      "name": "Gemüsehof Joeressen",
+      "latitude": 51.632728,
+      "longitude": 6.106425,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 228,
+      "name": "Gezondergroen",
+      "latitude": 52.196583,
+      "longitude": 4.441512,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 229,
+      "name": "Groenhof",
+      "latitude": 53.400478,
+      "longitude": 5.356231,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 230,
+      "name": "Groente en Fruit Kwekerij Hospel",
+      "latitude": 51.276302,
+      "longitude": 5.315878,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 231,
+      "name": "Groente- en Fruithandel J. Kraaij & Zoon",
+      "latitude": 52.212899,
+      "longitude": 5.285546,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 232,
+      "name": "Groenteboerderij Millenaar",
+      "latitude": 52.034889,
+      "longitude": 4.452318,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 233,
+      "name": "Groenteboerinnetje",
+      "latitude": 52.893016,
+      "longitude": 7.04935,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 234,
+      "name": "Groentekwekerij Noordlaren",
+      "latitude": 53.131484,
+      "longitude": 6.658559,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 235,
+      "name": "Grutje",
+      "latitude": 51.487859,
+      "longitude": 5.1192,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 236,
+      "name": "Herenboerderij Hof van Rhee",
+      "latitude": 53.031751,
+      "longitude": 6.559072,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 237,
+      "name": "Historische Tuinderij Warmoes",
+      "latitude": 51.867038,
+      "longitude": 5.856056,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 238,
+      "name": "Hoeve Biesland",
+      "latitude": 52.025391,
+      "longitude": 4.395697,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 239,
+      "name": "Hoeve Bouwlust",
+      "latitude": 51.95469,
+      "longitude": 4.288364,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 240,
+      "name": "Hoeve Magdalena",
+      "latitude": 52.071533,
+      "longitude": 4.475791,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 241,
+      "name": "Hoeve Ruitenbeek",
+      "latitude": 52.130439,
+      "longitude": 5.403376,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 242,
+      "name": "Hoeve Vredeburg",
+      "latitude": 52.216105,
+      "longitude": 4.61821,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 243,
+      "name": "Hoeve Walzicht",
+      "latitude": 52.084345,
+      "longitude": 4.784072,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 244,
+      "name": "Hoeve Zuidwending",
+      "latitude": 53.230535,
+      "longitude": 6.473657,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 245,
+      "name": "Hoeve de Heivelden",
+      "latitude": 51.602102,
+      "longitude": 5.657388,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 246,
+      "name": "Hoevevlees Saeftingherhof",
+      "latitude": 51.327411,
+      "longitude": 4.210668,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 247,
+      "name": "Hof van Gunterstein",
+      "latitude": 52.172791,
+      "longitude": 5.007258,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 248,
+      "name": "Hoogelandse Boerenzuivel",
+      "latitude": 51.507424,
+      "longitude": 3.564347,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 249,
+      "name": "Hoogendorp Aardapppelen",
+      "latitude": 52.242392,
+      "longitude": 4.568027,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 250,
+      "name": "IJsboerderij De Stal",
+      "latitude": 52.162115,
+      "longitude": 4.695373,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 251,
+      "name": "IJsboerderij IJscowd",
+      "latitude": 52.481663,
+      "longitude": 6.042315,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 252,
+      "name": "IJsboerderij Vernooy",
+      "latitude": 52.081362,
+      "longitude": 4.843597,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 253,
+      "name": "IJsboerderij de Steenoven",
+      "latitude": 52.026832,
+      "longitude": 6.218288,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 254,
+      "name": "IJsseloord",
+      "latitude": 51.974194,
+      "longitude": 5.960095,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 255,
+      "name": "Imker Herman Jubbega",
+      "latitude": 52.770707,
+      "longitude": 6.237211,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 256,
+      "name": "Inmaken en Zo",
+      "latitude": 53.31213,
+      "longitude": 6.353186,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 257,
+      "name": "J. van Beem",
+      "latitude": 52.370291,
+      "longitude": 4.744947,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 258,
+      "name": "Jan Otten",
+      "latitude": 52.078198,
+      "longitude": 4.269632,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 259,
+      "name": "Jan Steenbergen",
+      "latitude": 52.78508,
+      "longitude": 6.332784,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 260,
+      "name": "Kaasboerderij 't Groene Hart",
+      "latitude": 52.156306,
+      "longitude": 4.587889,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 261,
+      "name": "Kaasboerderij Captein",
+      "latitude": 52.122163,
+      "longitude": 4.526236,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 262,
+      "name": "Kaasboerderij Cromwijk",
+      "latitude": 52.051547,
+      "longitude": 4.847841,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 263,
+      "name": "Kaasboerderij De Annahoeve",
+      "latitude": 52.219073,
+      "longitude": 4.527269,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 264,
+      "name": "Kaasboerderij De Graaf",
+      "latitude": 52.092663,
+      "longitude": 4.739512,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 265,
+      "name": "Kaasboerderij De Ossenwaard",
+      "latitude": 51.999003,
+      "longitude": 5.271962,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 266,
+      "name": "Kaasboerderij Lena's Hoeve",
+      "latitude": 52.104405,
+      "longitude": 4.637128,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 267,
+      "name": "Kaasboerderij Luyben",
+      "latitude": 52.135021,
+      "longitude": 4.713866,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 268,
+      "name": "Kaasboerderij Onderwater",
+      "latitude": 52.115576,
+      "longitude": 4.48688,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 269,
+      "name": "Kaasboerderij Sol",
+      "latitude": 52.094068,
+      "longitude": 4.606597,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 270,
+      "name": "Kaasboerderij Speksnijder",
+      "latitude": 51.90154,
+      "longitude": 4.663049,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 271,
+      "name": "Kaasboerderij Van Wees",
+      "latitude": 52.263697,
+      "longitude": 4.673901,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 272,
+      "name": "Kaasboerderij Vrede-Oord",
+      "latitude": 52.150012,
+      "longitude": 4.901726,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 273,
+      "name": "Kaasboerderij Weenink",
+      "latitude": 52.019894,
+      "longitude": 6.590127,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 274,
+      "name": "Kaasboerderij de Vierhuizen",
+      "latitude": 52.095199,
+      "longitude": 4.48322,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 275,
+      "name": "Kaasboerderij de Zuidgeest",
+      "latitude": 51.463291,
+      "longitude": 4.332102,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 276,
+      "name": "Kaasboerderij van Harten",
+      "latitude": 52.160695,
+      "longitude": 4.625346,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 277,
+      "name": "Kaasboerderij van Leeuwen",
+      "latitude": 52.047099,
+      "longitude": 4.413356,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 278,
+      "name": "Kersenkwekerij Bloeidaal",
+      "latitude": 52.163457,
+      "longitude": 5.42734,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 279,
+      "name": "Kersentuin De Wendelenhutte",
+      "latitude": 51.926323,
+      "longitude": 6.507483,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 280,
+      "name": "Keulse kruidenkraam",
+      "latitude": 52.035858,
+      "longitude": 4.459938,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 281,
+      "name": "Klein Essen",
+      "latitude": 52.150209,
+      "longitude": 5.709121,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 282,
+      "name": "Kleur & Smaak",
+      "latitude": 52.040309,
+      "longitude": 4.409692,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 283,
+      "name": "Klomp",
+      "latitude": 52.248432,
+      "longitude": 6.107032,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 284,
+      "name": "Klompenhoeve",
+      "latitude": 52.634646,
+      "longitude": 4.678311,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 285,
+      "name": "Kloostertuin",
+      "latitude": 52.880948,
+      "longitude": 6.168306,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 286,
+      "name": "Kokkie's boerenwinkel",
+      "latitude": 51.832999,
+      "longitude": 4.296959,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 287,
+      "name": "Korenblik",
+      "latitude": 52.128933,
+      "longitude": 6.275385,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 288,
+      "name": "Kraaiveld",
+      "latitude": 51.802395,
+      "longitude": 4.960265,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 289,
+      "name": "Kuiper Eieren",
+      "latitude": 52.632647,
+      "longitude": 4.726319,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 290,
+      "name": "Kwekerij Van Prooijen",
+      "latitude": 51.742879,
+      "longitude": 4.109589,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 291,
+      "name": "Land in Zicht",
+      "latitude": 52.212565,
+      "longitude": 5.412479,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 292,
+      "name": "Landgoed Kaamps",
+      "latitude": 52.296892,
+      "longitude": 6.838508,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 293,
+      "name": "Landswinkel Smits",
+      "latitude": 51.885937,
+      "longitude": 6.485271,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 294,
+      "name": "Landwinkel \"De Grazerij\"",
+      "latitude": 53.065117,
+      "longitude": 6.716637,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 295,
+      "name": "Landwinkel 't Düvelshöfke",
+      "latitude": 52.284893,
+      "longitude": 6.93632,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 296,
+      "name": "Landwinkel Berkelaarshof",
+      "latitude": 51.123735,
+      "longitude": 5.872297,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 297,
+      "name": "Landwinkel Castelijn",
+      "latitude": 52.186478,
+      "longitude": 4.586105,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 298,
+      "name": "Landwinkel De Fruitgaard",
+      "latitude": 51.700142,
+      "longitude": 3.75254,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 299,
+      "name": "Landwinkel De Huppe",
+      "latitude": 52.486953,
+      "longitude": 6.088528,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 300,
+      "name": "Landwinkel De Kleine Hope",
+      "latitude": 52.058217,
+      "longitude": 5.501416,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 301,
+      "name": "Landwinkel De Kopermolen",
+      "latitude": 52.158006,
+      "longitude": 5.425914,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 302,
+      "name": "Landwinkel De Verse Kers",
+      "latitude": 51.959028,
+      "longitude": 6.223421,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 303,
+      "name": "Landwinkel De Vrolijke Geit",
+      "latitude": 52.231651,
+      "longitude": 5.602578,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 304,
+      "name": "Landwinkel De Woerdt",
+      "latitude": 51.888445,
+      "longitude": 5.871917,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 305,
+      "name": "Landwinkel Drogenbroek",
+      "latitude": 52.240668,
+      "longitude": 5.012357,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 306,
+      "name": "Landwinkel Elenbaas",
+      "latitude": 51.502355,
+      "longitude": 3.698289,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 307,
+      "name": "Landwinkel Exloo",
+      "latitude": 52.884156,
+      "longitude": 6.874786,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 308,
+      "name": "Landwinkel Hop & Zo",
+      "latitude": 51.618399,
+      "longitude": 4.713972,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 309,
+      "name": "Landwinkel Ol Diek",
+      "latitude": 53.235612,
+      "longitude": 6.965419,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 310,
+      "name": "Landwinkel Pek",
+      "latitude": 51.940445,
+      "longitude": 4.910236,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 311,
+      "name": "Landwinkel Philips Fruittuin",
+      "latitude": 51.463727,
+      "longitude": 5.427123,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 312,
+      "name": "Landwinkel Schurenhof",
+      "latitude": 51.134136,
+      "longitude": 6.080951,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 313,
+      "name": "Landwinkel Sonneveld",
+      "latitude": 52.073057,
+      "longitude": 4.541121,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 314,
+      "name": "Landwinkel Spierings",
+      "latitude": 51.787474,
+      "longitude": 5.518389,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 315,
+      "name": "Landwinkel Urtica De Vijfsprong",
+      "latitude": 52.120539,
+      "longitude": 6.332714,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 316,
+      "name": "Landwinkel Weststrate",
+      "latitude": 51.510245,
+      "longitude": 3.601259,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 317,
+      "name": "Landwinkel Wijchen - Het Vormer",
+      "latitude": 51.801136,
+      "longitude": 5.702872,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 318,
+      "name": "Lemuco",
+      "latitude": 52.01363,
+      "longitude": 4.410629,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 319,
+      "name": "Lensink aardappelen",
+      "latitude": 51.918411,
+      "longitude": 6.536353,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 320,
+      "name": "Lintelo 12",
+      "latitude": 51.915009,
+      "longitude": 6.563264,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 321,
+      "name": "Lonneker Molen",
+      "latitude": 52.249167,
+      "longitude": 6.922193,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 322,
+      "name": "Loverendale Boerderijwinkel",
+      "latitude": 51.576254,
+      "longitude": 3.582205,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 323,
+      "name": "Maatschap van Herten Vosdellen",
+      "latitude": 51.191218,
+      "longitude": 5.871986,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 324,
+      "name": "Mariahoeve",
+      "latitude": 51.731833,
+      "longitude": 4.530402,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 325,
+      "name": "Meinardi",
+      "latitude": 53.18763,
+      "longitude": 6.875152,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 326,
+      "name": "Melk-Kaas-Eieren shop",
+      "latitude": 52.05946,
+      "longitude": 5.626105,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 327,
+      "name": "Melktap",
+      "latitude": 51.405842,
+      "longitude": 5.18384,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 328,
+      "name": "Melktap Grolloo",
+      "latitude": 52.954212,
+      "longitude": 6.664264,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 329,
+      "name": "Melktap Hoogland-West",
+      "latitude": 52.19365,
+      "longitude": 5.360766,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 330,
+      "name": "Melktap Maria's Hoeve",
+      "latitude": 52.090908,
+      "longitude": 4.475825,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 331,
+      "name": "Melktap Paterswolde",
+      "latitude": 53.150888,
+      "longitude": 6.555905,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 332,
+      "name": "Melktap bij Boer Bloem",
+      "latitude": 51.682741,
+      "longitude": 4.757488,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 333,
+      "name": "Melkveebedrijf Fam. Eijkelenboom",
+      "latitude": 51.86455,
+      "longitude": 4.695331,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 334,
+      "name": "Mijn Kaaskoe",
+      "latitude": 51.764381,
+      "longitude": 5.233269,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 335,
+      "name": "Mobiele fruitpers Golden Raand",
+      "latitude": 53.419957,
+      "longitude": 6.68356,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 336,
+      "name": "Mosterdmakerij Texel",
+      "latitude": 53.037829,
+      "longitude": 4.803274,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 337,
+      "name": "Musselkanaal",
+      "latitude": 52.947401,
+      "longitude": 6.997935,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 338,
+      "name": "Natuurboerderij Hogeboom",
+      "latitude": 52.570081,
+      "longitude": 6.11639,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 339,
+      "name": "Nieuw Slagmaat",
+      "latitude": 52.054628,
+      "longitude": 5.156813,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 340,
+      "name": "Olthof",
+      "latitude": 52.402822,
+      "longitude": 6.574013,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 341,
+      "name": "Ons Jos",
+      "latitude": 51.64657,
+      "longitude": 5.219336,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 342,
+      "name": "Oogst van eigen erf",
+      "latitude": 52.154411,
+      "longitude": 5.448247,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 343,
+      "name": "Ooijs Moois",
+      "latitude": 51.850348,
+      "longitude": 5.933407,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 344,
+      "name": "Oold Bleank",
+      "latitude": 52.360959,
+      "longitude": 6.912594,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 345,
+      "name": "Op het erf",
+      "latitude": 52.016048,
+      "longitude": 4.313933,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 346,
+      "name": "Padesi Bloemen",
+      "latitude": 52.328543,
+      "longitude": 4.646058,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 347,
+      "name": "Pennings",
+      "latitude": 52.221357,
+      "longitude": 4.553145,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 348,
+      "name": "Phood Farm",
+      "latitude": 51.433901,
+      "longitude": 5.502681,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 349,
+      "name": "Pieperautomaat Boer Buitenhuis",
+      "latitude": 52.244523,
+      "longitude": 4.572507,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 350,
+      "name": "Piet van Meintjes Hoeve",
+      "latitude": 51.580305,
+      "longitude": 5.16537,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 351,
+      "name": "Plattelandswinkel Goes",
+      "latitude": 52.086448,
+      "longitude": 5.043783,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 352,
+      "name": "Plattelandwinkel",
+      "latitude": 52.05693,
+      "longitude": 5.18205,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 353,
+      "name": "Prestige",
+      "latitude": 52.017257,
+      "longitude": 4.252905,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 354,
+      "name": "Pure Milk",
+      "latitude": 52.7731,
+      "longitude": 4.748005,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 355,
+      "name": "Raw Milk Company",
+      "latitude": 52.321717,
+      "longitude": 7.005569,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 356,
+      "name": "Roelse",
+      "latitude": 51.479659,
+      "longitude": 3.563806,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 357,
+      "name": "Roks Streekwinkel",
+      "latitude": 51.62737,
+      "longitude": 4.485466,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 358,
+      "name": "Rotteveel Boerenkaas",
+      "latitude": 52.185792,
+      "longitude": 4.590193,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 359,
+      "name": "Rozema Aardappelen",
+      "latitude": 53.263876,
+      "longitude": 6.345372,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 360,
+      "name": "Rozenbotteltuin De Put",
+      "latitude": 51.974819,
+      "longitude": 5.285501,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 361,
+      "name": "Rustpunt Boerderijwinkel 't Veldhuiz",
+      "latitude": 52.123597,
+      "longitude": 5.639876,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 362,
+      "name": "Rustpunt Camperplaatst bij Sijm",
+      "latitude": 52.805422,
+      "longitude": 5.020065,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 363,
+      "name": "Rustpunt De Groene Waal",
+      "latitude": 51.87123,
+      "longitude": 4.211281,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 364,
+      "name": "Rustpunt De Wieringer",
+      "latitude": 52.897948,
+      "longitude": 4.969219,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 365,
+      "name": "Rustpunt Kringloopwinkel Twello",
+      "latitude": 52.228406,
+      "longitude": 6.086298,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 366,
+      "name": "Rustpunt Melkveehouderij Eikelenboom",
+      "latitude": 51.84833,
+      "longitude": 4.20213,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 367,
+      "name": "Rustpunt Schanebroek",
+      "latitude": 52.436331,
+      "longitude": 6.361756,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 368,
+      "name": "Rustpunt Starkenborgh Paviljoen",
+      "latitude": 53.241064,
+      "longitude": 6.565714,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 369,
+      "name": "Rustpunt de Scharrelhof",
+      "latitude": 52.533637,
+      "longitude": 6.410086,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 370,
+      "name": "Ruurhoeve",
+      "latitude": 51.380757,
+      "longitude": 5.279772,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 371,
+      "name": "Ruyge Weyde",
+      "latitude": 52.03172,
+      "longitude": 4.840308,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 372,
+      "name": "Sandershof",
+      "latitude": 51.925478,
+      "longitude": 6.29584,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 373,
+      "name": "Schapenboerderij Halfweg",
+      "latitude": 53.372631,
+      "longitude": 5.246323,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 374,
+      "name": "Schapenboerderij Texel",
+      "latitude": 53.041519,
+      "longitude": 4.795306,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 375,
+      "name": "Schapenboerderij de Zeekraal",
+      "latitude": 53.403982,
+      "longitude": 5.375553,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 376,
+      "name": "Schulteis",
+      "latitude": 50.922443,
+      "longitude": 6.043268,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 377,
+      "name": "Singel",
+      "latitude": 52.99635,
+      "longitude": 6.103148,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 378,
+      "name": "Smilande",
+      "latitude": 52.953214,
+      "longitude": 6.477324,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 379,
+      "name": "Smit's Boer & Goed",
+      "latitude": 52.617478,
+      "longitude": 4.789009,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 380,
+      "name": "Spargelhof Faassen",
+      "latitude": 51.188401,
+      "longitude": 6.17926,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 381,
+      "name": "Stadsboerderij",
+      "latitude": 51.668361,
+      "longitude": 5.33823,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 382,
+      "name": "Stadsboerderij Osdorp",
+      "latitude": 52.359094,
+      "longitude": 4.790869,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 383,
+      "name": "Stamp & Pot",
+      "latitude": 51.9903,
+      "longitude": 5.265214,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 384,
+      "name": "Streekwinkel",
+      "latitude": 51.44913,
+      "longitude": 5.512255,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 385,
+      "name": "Streekwinkel 't Verst",
+      "latitude": 52.840493,
+      "longitude": 5.875397,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 386,
+      "name": "Streekwinkel Buffalo Farm Twente",
+      "latitude": 52.40129,
+      "longitude": 6.977038,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 387,
+      "name": "Streekwinkel De Meulenbeld",
+      "latitude": 52.439018,
+      "longitude": 6.072188,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 388,
+      "name": "Suydbroek",
+      "latitude": 52.342584,
+      "longitude": 6.363459,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 389,
+      "name": "Symbiose",
+      "latitude": 51.90184,
+      "longitude": 4.9333,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 390,
+      "name": "Ter Nisse",
+      "latitude": 51.453034,
+      "longitude": 3.857072,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 391,
+      "name": "Theetuin Heyligenberg",
+      "latitude": 52.13667,
+      "longitude": 5.408973,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 392,
+      "name": "Tomesen Pluimveehouderij",
+      "latitude": 51.944891,
+      "longitude": 6.267609,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 393,
+      "name": "Très Jolie",
+      "latitude": 52.114065,
+      "longitude": 5.508744,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 394,
+      "name": "Tuin Brassica",
+      "latitude": 51.993978,
+      "longitude": 5.188791,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 395,
+      "name": "Tuinbouwbedrijf De Haas",
+      "latitude": 51.469865,
+      "longitude": 5.512785,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 396,
+      "name": "Tuinderij en Weekendwinkel Hoek",
+      "latitude": 51.816588,
+      "longitude": 4.498934,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 397,
+      "name": "Uijtdewilligen",
+      "latitude": 51.521661,
+      "longitude": 4.409677,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 398,
+      "name": "VOF Houtepen",
+      "latitude": 51.623482,
+      "longitude": 5.006092,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 399,
+      "name": "Van Beek Asperges",
+      "latitude": 51.640935,
+      "longitude": 4.78182,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 400,
+      "name": "Van Berge Seizoenenwinkel",
+      "latitude": 52.553108,
+      "longitude": 4.966436,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 401,
+      "name": "Van De Staak Struisvogelfarm",
+      "latitude": 51.561682,
+      "longitude": 4.979804,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 402,
+      "name": "Van Gerven Asperges",
+      "latitude": 51.495776,
+      "longitude": 5.332599,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 403,
+      "name": "Van Ginkel",
+      "latitude": 52.14903,
+      "longitude": 5.457881,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 404,
+      "name": "Van Heesch",
+      "latitude": 51.705389,
+      "longitude": 5.154261,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 405,
+      "name": "Van Herk Fruit",
+      "latitude": 51.804599,
+      "longitude": 4.502314,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 406,
+      "name": "Van Herk Fruit",
+      "latitude": 51.819168,
+      "longitude": 4.458277,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 407,
+      "name": "Van Winden",
+      "latitude": 51.964098,
+      "longitude": 4.301703,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 408,
+      "name": "VanStijns",
+      "latitude": 51.941803,
+      "longitude": 4.337241,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 409,
+      "name": "VegaBoerderij",
+      "latitude": 52.093323,
+      "longitude": 4.740405,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 410,
+      "name": "Verboon vlees",
+      "latitude": 52.11832,
+      "longitude": 4.524766,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 411,
+      "name": "Verhoef",
+      "latitude": 52.0873,
+      "longitude": 4.795029,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 412,
+      "name": "Versboerderij Daalwiek",
+      "latitude": 52.132566,
+      "longitude": 6.528039,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 413,
+      "name": "Verschuren",
+      "latitude": 51.543873,
+      "longitude": 4.694434,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 414,
+      "name": "Verse eieren",
+      "latitude": 52.382055,
+      "longitude": 4.600157,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 415,
+      "name": "Versmarkt Willighagen",
+      "latitude": 52.009915,
+      "longitude": 4.350099,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 416,
+      "name": "Versteeg Vlees",
+      "latitude": 52.412584,
+      "longitude": 6.820666,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 417,
+      "name": "Vleesch van Plante",
+      "latitude": 52.189305,
+      "longitude": 6.087003,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 418,
+      "name": "Vleit Eierautomaat",
+      "latitude": 52.184438,
+      "longitude": 5.57291,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 419,
+      "name": "Vlooswijk boter, kaas, eieren",
+      "latitude": 52.046197,
+      "longitude": 4.937755,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 420,
+      "name": "Vos Fruit",
+      "latitude": 51.959108,
+      "longitude": 5.807823,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 421,
+      "name": "Vriend-aardbeien",
+      "latitude": 52.700769,
+      "longitude": 5.056397,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 422,
+      "name": "Weidegeluk",
+      "latitude": 52.198909,
+      "longitude": 4.557326,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 423,
+      "name": "Welkomboerderij Onstaheerd",
+      "latitude": 53.292929,
+      "longitude": 6.528228,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 424,
+      "name": "Wenumhoeve",
+      "latitude": 52.249623,
+      "longitude": 5.972521,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 425,
+      "name": "Wij telen groente in de kas",
+      "latitude": 52.396729,
+      "longitude": 4.635908,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 426,
+      "name": "Wilma's Erf",
+      "latitude": 53.140166,
+      "longitude": 6.652583,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 427,
+      "name": "Wim Oskam fruit",
+      "latitude": 52.034412,
+      "longitude": 5.237932,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 428,
+      "name": "Wim Quik",
+      "latitude": 51.753417,
+      "longitude": 5.248428,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 429,
+      "name": "Wâldpleats",
+      "latitude": 53.206275,
+      "longitude": 5.977836,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 430,
+      "name": "Zachtfruit Schalkwijk",
+      "latitude": 51.99929,
+      "longitude": 5.189347,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 431,
+      "name": "Zandhoek Noord-Sleen",
+      "latitude": 52.791599,
+      "longitude": 6.78702,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 432,
+      "name": "Zittard Asperges",
+      "latitude": 51.137409,
+      "longitude": 5.999769,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 433,
+      "name": "Zorgboerderij 't Radje",
+      "latitude": 52.675669,
+      "longitude": 5.213761,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 434,
+      "name": "Zorgboerderij Green Valley",
+      "latitude": 52.394664,
+      "longitude": 6.547552,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 435,
+      "name": "Zuiderhof",
+      "latitude": 51.609903,
+      "longitude": 4.2737,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 436,
+      "name": "Zuivel van Zus",
+      "latitude": 52.097207,
+      "longitude": 4.575552,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 437,
+      "name": "Zuivelboerderij De Leidse Kaas Koe",
+      "latitude": 52.11329,
+      "longitude": 4.52241,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 438,
+      "name": "Zuivelboerderij Steenwijk",
+      "latitude": 52.159512,
+      "longitude": 4.644313,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 439,
+      "name": "Zuivelboerderij Tesselaar",
+      "latitude": 52.953606,
+      "longitude": 4.730008,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 440,
+      "name": "Zuivelboerderij Veldhoeve",
+      "latitude": 52.104417,
+      "longitude": 4.534985,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 441,
+      "name": "biologische boerderij achtervennen",
+      "latitude": 52.457629,
+      "longitude": 4.964976,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 442,
+      "name": "boerderijwinkel de kolke",
+      "latitude": 52.174248,
+      "longitude": 6.133413,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 443,
+      "name": "de Cuynder",
+      "latitude": 53.003895,
+      "longitude": 6.224126,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 444,
+      "name": "de Versboerderij de Volharding",
+      "latitude": 52.315834,
+      "longitude": 4.708334,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 445,
+      "name": "de Vosseburch",
+      "latitude": 52.191403,
+      "longitude": 4.703801,
+      "osm_klasse": "shop=farm"
+    },
+    {
+      "id": 446,
+      "name": "de Vrijbuitertjes / van Dorp",
+      "latitude": 52.220263,
+      "longitude": 4.63896,
+      "osm_klasse": "shop=farm"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: farm (shop=farm) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=farm in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 446 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: farm (shop=farm) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: farm (shop=farm) — 446 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 446 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

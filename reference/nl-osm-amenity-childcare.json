@@ -1,0 +1,7884 @@
+{
+  "id": "nl-osm-amenity-childcare",
+  "name": "Netherlands OSM: childcare (amenity=childcare)",
+  "title": "Netherlands OSM: childcare (amenity=childcare)",
+  "description": "Named OpenStreetMap features tagged amenity=childcare in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1119,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "\"De Boemerang\"",
+      "latitude": 52.216204,
+      "longitude": 5.138457,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 2,
+      "name": "'t Beukenootje",
+      "latitude": 53.219172,
+      "longitude": 6.338714,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 3,
+      "name": "'t Bootje",
+      "latitude": 51.899131,
+      "longitude": 4.476382,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 4,
+      "name": "'t Eigen Wijsje",
+      "latitude": 52.310748,
+      "longitude": 4.860435,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 5,
+      "name": "'t Groene Eiland",
+      "latitude": 52.309816,
+      "longitude": 4.638282,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 6,
+      "name": "'t Haartje",
+      "latitude": 52.20081,
+      "longitude": 5.391329,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 7,
+      "name": "'t Hofje",
+      "latitude": 51.889221,
+      "longitude": 5.430036,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 8,
+      "name": "'t Hummelhoes",
+      "latitude": 52.67957,
+      "longitude": 6.660791,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 9,
+      "name": "'t Hummelhuis",
+      "latitude": 52.388802,
+      "longitude": 6.030031,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 10,
+      "name": "'t Kalfje",
+      "latitude": 52.322325,
+      "longitude": 4.858744,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 11,
+      "name": "'t Kickertje",
+      "latitude": 51.972582,
+      "longitude": 4.31435,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 12,
+      "name": "'t Kienderbènkske",
+      "latitude": 51.555247,
+      "longitude": 6.091809,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 13,
+      "name": "'t Lieveheersbeestje",
+      "latitude": 52.375521,
+      "longitude": 4.873065,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 14,
+      "name": "'t Mereltje",
+      "latitude": 52.129568,
+      "longitude": 5.209698,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 15,
+      "name": "'t Olefantje",
+      "latitude": 52.096784,
+      "longitude": 5.118635,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 16,
+      "name": "'t Otterke",
+      "latitude": 51.532703,
+      "longitude": 5.625734,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 17,
+      "name": "'t Palet",
+      "latitude": 52.068031,
+      "longitude": 4.311013,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 18,
+      "name": "'t Reigertje",
+      "latitude": 52.202477,
+      "longitude": 5.964351,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 19,
+      "name": "'t Speelhofje",
+      "latitude": 52.228703,
+      "longitude": 4.437295,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 20,
+      "name": "2 Torentjes",
+      "latitude": 52.064637,
+      "longitude": 4.276193,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 21,
+      "name": "2Bevers",
+      "latitude": 52.061601,
+      "longitude": 4.246982,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 22,
+      "name": "2Diamanten",
+      "latitude": 52.094023,
+      "longitude": 4.355975,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 23,
+      "name": "2Koninkjes",
+      "latitude": 52.075321,
+      "longitude": 4.304203,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 24,
+      "name": "2Libellen",
+      "latitude": 52.063533,
+      "longitude": 4.40398,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 25,
+      "name": "2Prinsjes",
+      "latitude": 52.072297,
+      "longitude": 4.300714,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 26,
+      "name": "2Samen",
+      "latitude": 52.072374,
+      "longitude": 4.300905,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 27,
+      "name": "2Vriendjes",
+      "latitude": 52.088694,
+      "longitude": 4.340697,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 28,
+      "name": "2Zonnetjes",
+      "latitude": 52.068962,
+      "longitude": 4.262457,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 29,
+      "name": "2aan2",
+      "latitude": 52.077258,
+      "longitude": 4.300618,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 30,
+      "name": "2hoek",
+      "latitude": 52.071915,
+      "longitude": 4.282209,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 31,
+      "name": "2lakeien",
+      "latitude": 52.080265,
+      "longitude": 4.338751,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 32,
+      "name": "2ruiters",
+      "latitude": 52.087337,
+      "longitude": 4.310576,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 33,
+      "name": "2span",
+      "latitude": 52.076532,
+      "longitude": 4.304934,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 34,
+      "name": "Aan de Waterkant",
+      "latitude": 51.554812,
+      "longitude": 5.107524,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 35,
+      "name": "Aartje",
+      "latitude": 52.068349,
+      "longitude": 4.296184,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 36,
+      "name": "Agnetendal",
+      "latitude": 51.353577,
+      "longitude": 5.430113,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 37,
+      "name": "Alice in Wonderland",
+      "latitude": 52.082108,
+      "longitude": 4.333945,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 38,
+      "name": "Alles Kids",
+      "latitude": 51.903347,
+      "longitude": 4.894316,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 39,
+      "name": "Animatieteam",
+      "latitude": 51.306834,
+      "longitude": 6.145871,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 40,
+      "name": "Aveleijn",
+      "latitude": 52.190402,
+      "longitude": 6.876893,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 41,
+      "name": "BIO-kids",
+      "latitude": 51.918497,
+      "longitude": 4.515791,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 42,
+      "name": "BLOS",
+      "latitude": 52.304844,
+      "longitude": 4.867057,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 43,
+      "name": "BLOS Kinderopvang",
+      "latitude": 52.051732,
+      "longitude": 5.291542,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 44,
+      "name": "BLOS kinderopvang",
+      "latitude": 52.01138,
+      "longitude": 5.039141,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 45,
+      "name": "BLOS kinderopvang",
+      "latitude": 52.211088,
+      "longitude": 5.149852,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 46,
+      "name": "BORUS Kinderopvang",
+      "latitude": 52.266864,
+      "longitude": 4.97362,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 47,
+      "name": "BSO \"De Waever\"",
+      "latitude": 51.192797,
+      "longitude": 5.980594,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 48,
+      "name": "BSO 't Ronde",
+      "latitude": 52.129823,
+      "longitude": 5.433734,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 49,
+      "name": "BSO 't Strand",
+      "latitude": 51.923565,
+      "longitude": 5.84978,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 50,
+      "name": "BSO Assendelft XL",
+      "latitude": 52.492484,
+      "longitude": 4.764263,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 51,
+      "name": "BSO Berkelwijk",
+      "latitude": 52.129569,
+      "longitude": 5.435051,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 52,
+      "name": "BSO Bloemakker",
+      "latitude": 52.002714,
+      "longitude": 5.669026,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 53,
+      "name": "BSO Blos",
+      "latitude": 52.393378,
+      "longitude": 5.284518,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 54,
+      "name": "BSO Boomhut",
+      "latitude": 51.921723,
+      "longitude": 5.848891,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 55,
+      "name": "BSO Boon Escapade",
+      "latitude": 52.304471,
+      "longitude": 4.886102,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 56,
+      "name": "BSO De Achthoek",
+      "latitude": 52.50176,
+      "longitude": 4.982422,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 57,
+      "name": "BSO De Buitelaar",
+      "latitude": 53.074178,
+      "longitude": 6.700364,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 58,
+      "name": "BSO De Draken",
+      "latitude": 51.651505,
+      "longitude": 5.469254,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 59,
+      "name": "BSO De Driehoek",
+      "latitude": 52.158922,
+      "longitude": 5.963111,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 60,
+      "name": "BSO De Droomengeltjes",
+      "latitude": 51.89009,
+      "longitude": 4.472299,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 61,
+      "name": "BSO De Duikers",
+      "latitude": 52.501543,
+      "longitude": 4.982521,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 62,
+      "name": "BSO De Hoeksteen",
+      "latitude": 52.711258,
+      "longitude": 5.280354,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 63,
+      "name": "BSO De Kleine Robbe",
+      "latitude": 51.929476,
+      "longitude": 6.064062,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 64,
+      "name": "BSO De Klimroos",
+      "latitude": 52.522206,
+      "longitude": 4.96414,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 65,
+      "name": "BSO De Koningsbeer",
+      "latitude": 51.515606,
+      "longitude": 5.008755,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 66,
+      "name": "BSO De Mienskar",
+      "latitude": 53.048521,
+      "longitude": 5.840696,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 67,
+      "name": "BSO De Roversbende",
+      "latitude": 52.13615,
+      "longitude": 5.440072,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 68,
+      "name": "BSO De Ruimte",
+      "latitude": 52.233933,
+      "longitude": 4.751374,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 69,
+      "name": "BSO De Skaters",
+      "latitude": 52.495508,
+      "longitude": 4.950312,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 70,
+      "name": "BSO De Thuisclub Wageningen",
+      "latitude": 51.985959,
+      "longitude": 5.649714,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 71,
+      "name": "BSO De Wiebelwagen",
+      "latitude": 52.123917,
+      "longitude": 5.424729,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 72,
+      "name": "BSO Dominikids",
+      "latitude": 51.934559,
+      "longitude": 4.459594,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 73,
+      "name": "BSO Drakensteijn",
+      "latitude": 53.083782,
+      "longitude": 6.671026,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 74,
+      "name": "BSO Freekids",
+      "latitude": 51.620818,
+      "longitude": 5.437323,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 75,
+      "name": "BSO Groen van Prinsterer",
+      "latitude": 51.857992,
+      "longitude": 4.70366,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 76,
+      "name": "BSO In de Wolken",
+      "latitude": 52.090696,
+      "longitude": 5.071381,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 77,
+      "name": "BSO Keet!",
+      "latitude": 50.881367,
+      "longitude": 5.975466,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 78,
+      "name": "BSO Kids Art",
+      "latitude": 52.356746,
+      "longitude": 4.996959,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 79,
+      "name": "BSO Kinderland",
+      "latitude": 52.129635,
+      "longitude": 5.421649,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 80,
+      "name": "BSO Klimboom",
+      "latitude": 51.811674,
+      "longitude": 4.428926,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 81,
+      "name": "BSO Lancelot",
+      "latitude": 52.09849,
+      "longitude": 4.313511,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 82,
+      "name": "BSO Lievegoed",
+      "latitude": 52.371701,
+      "longitude": 5.193244,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 83,
+      "name": "BSO Little Family",
+      "latitude": 52.366977,
+      "longitude": 5.203868,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 84,
+      "name": "BSO Madeenah",
+      "latitude": 52.395993,
+      "longitude": 5.30277,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 85,
+      "name": "BSO Madelier",
+      "latitude": 52.085381,
+      "longitude": 4.330336,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 86,
+      "name": "BSO Oosterhonk",
+      "latitude": 51.862756,
+      "longitude": 4.604286,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 87,
+      "name": "BSO Op de Boerderij",
+      "latitude": 52.079766,
+      "longitude": 4.375717,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 88,
+      "name": "BSO Poolster",
+      "latitude": 52.136376,
+      "longitude": 5.429463,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 89,
+      "name": "BSO Prokino De Blikvanger",
+      "latitude": 52.325483,
+      "longitude": 5.590443,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 90,
+      "name": "BSO Ratjetoe",
+      "latitude": 51.947219,
+      "longitude": 5.204443,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 91,
+      "name": "BSO Rozenbottel",
+      "latitude": 53.004117,
+      "longitude": 6.554674,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 92,
+      "name": "BSO Sam Son",
+      "latitude": 52.066698,
+      "longitude": 4.306801,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 93,
+      "name": "BSO Schaapshonk",
+      "latitude": 52.242696,
+      "longitude": 4.453962,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 94,
+      "name": "BSO Spektakel",
+      "latitude": 52.229761,
+      "longitude": 5.173557,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 95,
+      "name": "BSO Step Up",
+      "latitude": 52.514431,
+      "longitude": 4.965211,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 96,
+      "name": "BSO Supernova",
+      "latitude": 52.119164,
+      "longitude": 5.408988,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 97,
+      "name": "BSO Thialf",
+      "latitude": 51.983196,
+      "longitude": 5.924422,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 98,
+      "name": "BSO Wheermolen",
+      "latitude": 52.5069,
+      "longitude": 4.97364,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 99,
+      "name": "BSO Woerdkanjers",
+      "latitude": 51.920347,
+      "longitude": 5.121429,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 100,
+      "name": "BSO de Adelaars",
+      "latitude": 52.117729,
+      "longitude": 4.63506,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 101,
+      "name": "BSO de Blokhut - Sylvius",
+      "latitude": 53.190349,
+      "longitude": 6.545967,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 102,
+      "name": "BSO de Driesprong",
+      "latitude": 52.507886,
+      "longitude": 4.984831,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 103,
+      "name": "BSO de Hasselbraam",
+      "latitude": 52.659928,
+      "longitude": 4.78756,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 104,
+      "name": "BSO de Toverberg",
+      "latitude": 52.127105,
+      "longitude": 4.441485,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 105,
+      "name": "BSO de loods",
+      "latitude": 51.826267,
+      "longitude": 4.251463,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 106,
+      "name": "BSO/PSZ De Ooievaar",
+      "latitude": 52.493682,
+      "longitude": 4.762543,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 107,
+      "name": "Baloe",
+      "latitude": 52.497847,
+      "longitude": 4.809852,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 108,
+      "name": "Baloe",
+      "latitude": 52.500316,
+      "longitude": 4.819543,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 109,
+      "name": "Bambi",
+      "latitude": 51.850972,
+      "longitude": 4.597136,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 110,
+      "name": "Bambinoos",
+      "latitude": 51.932625,
+      "longitude": 4.35925,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 111,
+      "name": "Bartele",
+      "latitude": 52.341451,
+      "longitude": 4.907293,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 112,
+      "name": "Basker",
+      "latitude": 52.108004,
+      "longitude": 5.098528,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 113,
+      "name": "Beekrijk",
+      "latitude": 51.527004,
+      "longitude": 5.626365,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 114,
+      "name": "Belle Fleur de Sonate",
+      "latitude": 51.561407,
+      "longitude": 4.633806,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 115,
+      "name": "Berend Botje",
+      "latitude": 52.429713,
+      "longitude": 4.914976,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 116,
+      "name": "Berend Botje",
+      "latitude": 52.452232,
+      "longitude": 4.908653,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 117,
+      "name": "Berend Botje",
+      "latitude": 52.656874,
+      "longitude": 5.055699,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 118,
+      "name": "Bernebrege",
+      "latitude": 53.248086,
+      "longitude": 6.149766,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 119,
+      "name": "Beste Kinderopvang Blerick",
+      "latitude": 51.367487,
+      "longitude": 6.152915,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 120,
+      "name": "Big Ben Kids",
+      "latitude": 52.303458,
+      "longitude": 4.862139,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 121,
+      "name": "Big Ben Kids International Childcare",
+      "latitude": 52.146669,
+      "longitude": 4.394194,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 122,
+      "name": "Bij Lotte",
+      "latitude": 52.465519,
+      "longitude": 6.070275,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 123,
+      "name": "BijdeHandjes",
+      "latitude": 52.446566,
+      "longitude": 5.902386,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 124,
+      "name": "Billie",
+      "latitude": 52.386201,
+      "longitude": 4.881182,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 125,
+      "name": "Bistebus",
+      "latitude": 53.197126,
+      "longitude": 5.995048,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 126,
+      "name": "Bloem",
+      "latitude": 51.591233,
+      "longitude": 4.807017,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 127,
+      "name": "Bloesem Kinderopvang",
+      "latitude": 52.148198,
+      "longitude": 6.732077,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 128,
+      "name": "Blos",
+      "latitude": 52.025289,
+      "longitude": 5.075558,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 129,
+      "name": "Blos",
+      "latitude": 52.083291,
+      "longitude": 5.087857,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 130,
+      "name": "Blos",
+      "latitude": 52.089077,
+      "longitude": 5.227334,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 131,
+      "name": "Blos",
+      "latitude": 52.09397,
+      "longitude": 5.099727,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 132,
+      "name": "Blos",
+      "latitude": 52.110621,
+      "longitude": 5.176977,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 133,
+      "name": "Blos",
+      "latitude": 52.114104,
+      "longitude": 5.078535,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 134,
+      "name": "Blos",
+      "latitude": 52.142113,
+      "longitude": 5.374629,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 135,
+      "name": "Blos",
+      "latitude": 52.143034,
+      "longitude": 5.372677,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 136,
+      "name": "Blos",
+      "latitude": 52.379348,
+      "longitude": 4.87437,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 137,
+      "name": "Bo & Bibi Bosclub",
+      "latitude": 52.50141,
+      "longitude": 6.43813,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 138,
+      "name": "Boekelo Centraal",
+      "latitude": 52.205188,
+      "longitude": 6.801743,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 139,
+      "name": "Bollo Club",
+      "latitude": 52.286396,
+      "longitude": 6.446946,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 140,
+      "name": "Bomschuit Kinderopvang",
+      "latitude": 52.209263,
+      "longitude": 4.4322,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 141,
+      "name": "Boris Buitelaar",
+      "latitude": 52.367157,
+      "longitude": 4.645081,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 142,
+      "name": "Brood & Spelen",
+      "latitude": 52.16654,
+      "longitude": 5.368695,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 143,
+      "name": "Bso Basisbende",
+      "latitude": 52.216296,
+      "longitude": 5.157515,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 144,
+      "name": "Bso De Marriekolf",
+      "latitude": 52.302049,
+      "longitude": 5.254253,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 145,
+      "name": "Bso Elzen",
+      "latitude": 51.558763,
+      "longitude": 5.077314,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 146,
+      "name": "Bso Kraaiennest",
+      "latitude": 52.211274,
+      "longitude": 5.158407,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 147,
+      "name": "Buitengewoon",
+      "latitude": 51.659907,
+      "longitude": 4.812802,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 148,
+      "name": "Buitenrode",
+      "latitude": 52.090399,
+      "longitude": 4.354293,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 149,
+      "name": "Buitenschools opvang De Bongerd",
+      "latitude": 51.864349,
+      "longitude": 4.613511,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 150,
+      "name": "Buitenschoolse Opvang Avonturijn",
+      "latitude": 52.103585,
+      "longitude": 6.307103,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 151,
+      "name": "Buitenschoolse Opvang Friends",
+      "latitude": 52.345059,
+      "longitude": 5.214128,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 152,
+      "name": "Buitenschoolse Opvang Tien",
+      "latitude": 51.87878,
+      "longitude": 4.178773,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 153,
+      "name": "Buitenschoolse Opvang Villa Bombarie / De Bezige Bijtjes",
+      "latitude": 51.525009,
+      "longitude": 5.062973,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 154,
+      "name": "Buitenschoolse Opvang Zon Natuurlijk",
+      "latitude": 52.018744,
+      "longitude": 4.375254,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 155,
+      "name": "Buitenschoolse kinderopvang",
+      "latitude": 52.373312,
+      "longitude": 4.943109,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 156,
+      "name": "Buitenschoolse opvang 't Snippertje",
+      "latitude": 52.736829,
+      "longitude": 4.8892,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 157,
+      "name": "Buitenschoolse opvang Parkschool",
+      "latitude": 51.982188,
+      "longitude": 5.080406,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 158,
+      "name": "CJG",
+      "latitude": 51.977236,
+      "longitude": 4.587889,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 159,
+      "name": "CareHouse",
+      "latitude": 52.345827,
+      "longitude": 4.888469,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 160,
+      "name": "Chapeau Kinderwerk",
+      "latitude": 51.882712,
+      "longitude": 5.21258,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 161,
+      "name": "Christelijk Kindercentrum Sterretje!",
+      "latitude": 52.379884,
+      "longitude": 5.250893,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 162,
+      "name": "Christoforus Kinderopvang",
+      "latitude": 52.204462,
+      "longitude": 5.930718,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 163,
+      "name": "CityKids",
+      "latitude": 51.850768,
+      "longitude": 4.327842,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 164,
+      "name": "Club Abbey",
+      "latitude": 52.356838,
+      "longitude": 4.927783,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 165,
+      "name": "Coendersnest",
+      "latitude": 53.196478,
+      "longitude": 6.58394,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 166,
+      "name": "Columbus",
+      "latitude": 51.459827,
+      "longitude": 5.430786,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 167,
+      "name": "Columbus Junior - de Kajak",
+      "latitude": 52.259321,
+      "longitude": 7.001227,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 168,
+      "name": "CompaNanny",
+      "latitude": 52.080103,
+      "longitude": 4.336332,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 169,
+      "name": "CompaNanny Diependaalselaan",
+      "latitude": 52.213844,
+      "longitude": 5.152031,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 170,
+      "name": "CompaNanny Texelstraat",
+      "latitude": 52.315747,
+      "longitude": 4.863255,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 171,
+      "name": "Cosmikids",
+      "latitude": 52.070201,
+      "longitude": 4.294684,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 172,
+      "name": "Cowboys & Indiana",
+      "latitude": 52.361254,
+      "longitude": 4.86897,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 173,
+      "name": "Crescendo Medisch kinderdagverblijf",
+      "latitude": 52.066356,
+      "longitude": 4.41218,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 174,
+      "name": "Cuneradal",
+      "latitude": 51.353685,
+      "longitude": 5.434516,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 175,
+      "name": "Dagopvang 't Scheperke",
+      "latitude": 52.786377,
+      "longitude": 6.914681,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 176,
+      "name": "Dak Adriaan Vlack",
+      "latitude": 52.075654,
+      "longitude": 4.324948,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 177,
+      "name": "Dak Driemaster",
+      "latitude": 52.079457,
+      "longitude": 4.357283,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 178,
+      "name": "Dak Elzendreef",
+      "latitude": 52.084339,
+      "longitude": 4.368512,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 179,
+      "name": "Dak JFK",
+      "latitude": 52.09713,
+      "longitude": 4.363505,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 180,
+      "name": "Dak Koningin Emma",
+      "latitude": 52.080398,
+      "longitude": 4.289146,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 181,
+      "name": "Dak Oranje Nassau",
+      "latitude": 52.072681,
+      "longitude": 4.373024,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 182,
+      "name": "Dandélion dagopvang",
+      "latitude": 52.151328,
+      "longitude": 5.424638,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 183,
+      "name": "De Ark",
+      "latitude": 52.180033,
+      "longitude": 4.787371,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 184,
+      "name": "De Avonturiers",
+      "latitude": 51.525849,
+      "longitude": 5.052072,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 185,
+      "name": "De Banjerhoeve",
+      "latitude": 52.118678,
+      "longitude": 4.642985,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 186,
+      "name": "De Bengeltjes",
+      "latitude": 51.644141,
+      "longitude": 5.706324,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 187,
+      "name": "De Beukenoot",
+      "latitude": 52.115017,
+      "longitude": 4.501209,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 188,
+      "name": "De Bik",
+      "latitude": 51.971446,
+      "longitude": 5.334467,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 189,
+      "name": "De Bik",
+      "latitude": 51.973166,
+      "longitude": 5.347618,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 190,
+      "name": "De Blauwe Ballon",
+      "latitude": 52.506331,
+      "longitude": 4.969416,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 191,
+      "name": "De Blokkenhut",
+      "latitude": 52.323138,
+      "longitude": 4.95997,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 192,
+      "name": "De Boefjes",
+      "latitude": 52.066862,
+      "longitude": 4.286116,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 193,
+      "name": "De Boemerang",
+      "latitude": 52.212341,
+      "longitude": 5.18445,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 194,
+      "name": "De Bolsterberg",
+      "latitude": 52.06593,
+      "longitude": 4.535892,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 195,
+      "name": "De Boomhut",
+      "latitude": 52.058821,
+      "longitude": 4.471192,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 196,
+      "name": "De Bos(b)engeltjes",
+      "latitude": 52.355737,
+      "longitude": 6.459604,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 197,
+      "name": "De Boshut",
+      "latitude": 52.145552,
+      "longitude": 5.351637,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 198,
+      "name": "De Buitenborg",
+      "latitude": 53.017944,
+      "longitude": 6.581806,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 199,
+      "name": "De Dikkedeur kinderopvang",
+      "latitude": 51.928336,
+      "longitude": 4.508206,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 200,
+      "name": "De Dobbelsteen",
+      "latitude": 52.16197,
+      "longitude": 5.407745,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 201,
+      "name": "De Drakenberg",
+      "latitude": 52.266823,
+      "longitude": 6.804432,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 202,
+      "name": "De Drie Ballonnen",
+      "latitude": 52.038618,
+      "longitude": 4.504387,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 203,
+      "name": "De Drie Ballonnen",
+      "latitude": 52.059619,
+      "longitude": 4.47654,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 204,
+      "name": "De Drie Ballonnen",
+      "latitude": 52.072538,
+      "longitude": 4.49499,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 205,
+      "name": "De Droomtuin",
+      "latitude": 51.66004,
+      "longitude": 5.231977,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 206,
+      "name": "De Flintstones",
+      "latitude": 52.064164,
+      "longitude": 4.38813,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 207,
+      "name": "De Gekke Geit",
+      "latitude": 52.176702,
+      "longitude": 6.046297,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 208,
+      "name": "De Gornet",
+      "latitude": 51.809849,
+      "longitude": 3.93373,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 209,
+      "name": "De Groene Wereld",
+      "latitude": 51.859183,
+      "longitude": 5.862584,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 210,
+      "name": "De Grote Smurf",
+      "latitude": 53.2361,
+      "longitude": 6.570786,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 211,
+      "name": "De Jonge Ontdekker",
+      "latitude": 52.02313,
+      "longitude": 5.160518,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 212,
+      "name": "De Jonge Wereld",
+      "latitude": 53.162861,
+      "longitude": 6.374803,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 213,
+      "name": "De Jonge Wereld",
+      "latitude": 53.170606,
+      "longitude": 6.372509,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 214,
+      "name": "De Kameleon",
+      "latitude": 53.148721,
+      "longitude": 6.499213,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 215,
+      "name": "De Kasteeltuin",
+      "latitude": 51.920706,
+      "longitude": 4.435799,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 216,
+      "name": "De Kinderboot",
+      "latitude": 52.072777,
+      "longitude": 5.120084,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 217,
+      "name": "De Kinderkei",
+      "latitude": 52.889922,
+      "longitude": 6.139017,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 218,
+      "name": "De Kindertuin",
+      "latitude": 50.837319,
+      "longitude": 5.708187,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 219,
+      "name": "De Kindertuin",
+      "latitude": 51.488602,
+      "longitude": 5.658193,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 220,
+      "name": "De Kleine Burgemeester",
+      "latitude": 52.102989,
+      "longitude": 6.649381,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 221,
+      "name": "De Kleine Goeverneurtjes",
+      "latitude": 52.058762,
+      "longitude": 4.322761,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 222,
+      "name": "De Kleine Prins",
+      "latitude": 52.072382,
+      "longitude": 4.300942,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 223,
+      "name": "De Kleine Wereld",
+      "latitude": 51.963276,
+      "longitude": 5.652835,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 224,
+      "name": "De Kleine Wereld",
+      "latitude": 52.362423,
+      "longitude": 4.980177,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 225,
+      "name": "De Klimboom",
+      "latitude": 52.242233,
+      "longitude": 5.111898,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 226,
+      "name": "De Knalhut",
+      "latitude": 52.193795,
+      "longitude": 6.897516,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 227,
+      "name": "De Koningswereld",
+      "latitude": 51.58707,
+      "longitude": 5.136994,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 228,
+      "name": "De Korveltuin",
+      "latitude": 51.550232,
+      "longitude": 5.068739,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 229,
+      "name": "De Kresj",
+      "latitude": 51.975752,
+      "longitude": 5.338665,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 230,
+      "name": "De Lakei",
+      "latitude": 52.019928,
+      "longitude": 4.335299,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 231,
+      "name": "De Linge",
+      "latitude": 51.887568,
+      "longitude": 5.193574,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 232,
+      "name": "De Maatjes",
+      "latitude": 52.465618,
+      "longitude": 6.497602,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 233,
+      "name": "De Maatjes / De Kleine Robbe",
+      "latitude": 51.929509,
+      "longitude": 6.063982,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 234,
+      "name": "De Markesteen",
+      "latitude": 52.482567,
+      "longitude": 6.104713,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 235,
+      "name": "De Melkfabriek",
+      "latitude": 52.095448,
+      "longitude": 5.12468,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 236,
+      "name": "De Melkfabriek",
+      "latitude": 52.105906,
+      "longitude": 5.125876,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 237,
+      "name": "De Melkfabriek",
+      "latitude": 52.123269,
+      "longitude": 5.143248,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 238,
+      "name": "De Miniberen",
+      "latitude": 52.880674,
+      "longitude": 7.04946,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 239,
+      "name": "De Olijfboom",
+      "latitude": 52.260991,
+      "longitude": 6.154139,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 240,
+      "name": "De Ottertjes",
+      "latitude": 52.697323,
+      "longitude": 4.807131,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 241,
+      "name": "De Peat Farm",
+      "latitude": 51.378516,
+      "longitude": 5.983729,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 242,
+      "name": "De Pionier",
+      "latitude": 51.34929,
+      "longitude": 5.453129,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 243,
+      "name": "De Pluk",
+      "latitude": 51.873568,
+      "longitude": 5.289682,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 244,
+      "name": "De Raagten",
+      "latitude": 51.536274,
+      "longitude": 5.627045,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 245,
+      "name": "De Rode Ridder",
+      "latitude": 51.980239,
+      "longitude": 4.242432,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 246,
+      "name": "De Ruimte",
+      "latitude": 51.961329,
+      "longitude": 5.863575,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 247,
+      "name": "De Schaapskooi",
+      "latitude": 52.463914,
+      "longitude": 6.006742,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 248,
+      "name": "De Schaapskooi, lokatie Watt",
+      "latitude": 52.014148,
+      "longitude": 4.699092,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 249,
+      "name": "De Scharmhof",
+      "latitude": 53.017581,
+      "longitude": 6.562746,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 250,
+      "name": "De Schatkist",
+      "latitude": 52.080219,
+      "longitude": 5.123796,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 251,
+      "name": "De Schatkist",
+      "latitude": 52.21038,
+      "longitude": 6.877179,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 252,
+      "name": "De Spil",
+      "latitude": 52.200181,
+      "longitude": 5.974583,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 253,
+      "name": "De Stampertjes",
+      "latitude": 52.660154,
+      "longitude": 4.786955,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 254,
+      "name": "De Tantie's",
+      "latitude": 52.874036,
+      "longitude": 7.052408,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 255,
+      "name": "De Torenmolen",
+      "latitude": 52.52279,
+      "longitude": 4.972463,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 256,
+      "name": "De Toverschommel",
+      "latitude": 51.441786,
+      "longitude": 4.926192,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 257,
+      "name": "De Tuimelaar",
+      "latitude": 51.977857,
+      "longitude": 5.920989,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 258,
+      "name": "De Tuinfluiters",
+      "latitude": 51.641415,
+      "longitude": 4.869049,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 259,
+      "name": "De Uitvinder",
+      "latitude": 52.124346,
+      "longitude": 4.451973,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 260,
+      "name": "De Veenkabouter",
+      "latitude": 52.718356,
+      "longitude": 6.475048,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 261,
+      "name": "De Veldkei",
+      "latitude": 52.773972,
+      "longitude": 6.234107,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 262,
+      "name": "De Vliegende Hollander",
+      "latitude": 51.837868,
+      "longitude": 5.856679,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 263,
+      "name": "De Vlieger",
+      "latitude": 52.354791,
+      "longitude": 4.900558,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 264,
+      "name": "De Vlinderhoeve",
+      "latitude": 52.191355,
+      "longitude": 6.015183,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 265,
+      "name": "De Vlindertuin",
+      "latitude": 52.493615,
+      "longitude": 5.482992,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 266,
+      "name": "De Voetstapjes",
+      "latitude": 52.062508,
+      "longitude": 4.350465,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 267,
+      "name": "De Vos",
+      "latitude": 52.035329,
+      "longitude": 5.538478,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 268,
+      "name": "De Vuurvlinder",
+      "latitude": 51.955544,
+      "longitude": 5.758178,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 269,
+      "name": "De Waterlelie",
+      "latitude": 52.045027,
+      "longitude": 4.466165,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 270,
+      "name": "De Wijde Wereld Kinderopvang",
+      "latitude": 51.637203,
+      "longitude": 4.772885,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 271,
+      "name": "De Windwijzer",
+      "latitude": 52.954598,
+      "longitude": 4.755705,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 272,
+      "name": "De Zeppelin",
+      "latitude": 52.073883,
+      "longitude": 4.378026,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 273,
+      "name": "De Zonneparel",
+      "latitude": 52.167426,
+      "longitude": 5.406003,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 274,
+      "name": "De Zonnestraaltjes",
+      "latitude": 52.188179,
+      "longitude": 6.900341,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 275,
+      "name": "Den Dries",
+      "latitude": 51.365353,
+      "longitude": 5.452319,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 276,
+      "name": "Den Hoek",
+      "latitude": 51.874635,
+      "longitude": 4.975596,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 277,
+      "name": "Dikke Maatjes",
+      "latitude": 52.193308,
+      "longitude": 6.004234,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 278,
+      "name": "Dikke Maatjes",
+      "latitude": 52.430572,
+      "longitude": 4.642271,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 279,
+      "name": "Djoy buitenschoolse opvang",
+      "latitude": 51.937274,
+      "longitude": 4.270282,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 280,
+      "name": "Dolfijn",
+      "latitude": 52.187385,
+      "longitude": 5.604026,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 281,
+      "name": "Dondersteentjes",
+      "latitude": 51.396788,
+      "longitude": 5.471457,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 282,
+      "name": "Doomijn",
+      "latitude": 52.636729,
+      "longitude": 6.216634,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 283,
+      "name": "Doomijn Kinderopvang Osseweide",
+      "latitude": 52.696478,
+      "longitude": 6.219687,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 284,
+      "name": "Doomijn Peuteropvang Mandehof",
+      "latitude": 52.89169,
+      "longitude": 6.143399,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 285,
+      "name": "Dream Kids",
+      "latitude": 52.652683,
+      "longitude": 5.111363,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 286,
+      "name": "Dribbel",
+      "latitude": 51.72879,
+      "longitude": 5.256216,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 287,
+      "name": "Dribbel",
+      "latitude": 51.76896,
+      "longitude": 5.874032,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 288,
+      "name": "Droomwereld",
+      "latitude": 51.434894,
+      "longitude": 5.494305,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 289,
+      "name": "Dyslexie",
+      "latitude": 51.680627,
+      "longitude": 5.316415,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 290,
+      "name": "EduLife Jongeren",
+      "latitude": 52.50331,
+      "longitude": 4.959354,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 291,
+      "name": "Eigen&Wijzer KDV/BSO De Pinkenstal",
+      "latitude": 52.200388,
+      "longitude": 5.141977,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 292,
+      "name": "Eigenwijs",
+      "latitude": 52.046829,
+      "longitude": 4.308261,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 293,
+      "name": "Ekenrooi",
+      "latitude": 51.395602,
+      "longitude": 5.491557,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 294,
+      "name": "Ellimo",
+      "latitude": 52.093205,
+      "longitude": 5.12617,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 295,
+      "name": "Enjoy",
+      "latitude": 52.309061,
+      "longitude": 4.847131,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 296,
+      "name": "Enjoy!",
+      "latitude": 52.293359,
+      "longitude": 4.834147,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 297,
+      "name": "Escamphof",
+      "latitude": 52.06443,
+      "longitude": 4.275513,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 298,
+      "name": "Evy",
+      "latitude": 52.341352,
+      "longitude": 4.907397,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 299,
+      "name": "Ewa's Childcare",
+      "latitude": 52.069922,
+      "longitude": 4.288598,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 300,
+      "name": "Fantaziehuis 't Beldertje",
+      "latitude": 51.890392,
+      "longitude": 5.26352,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 301,
+      "name": "Fantaziehuis 't Hummeltje",
+      "latitude": 51.883424,
+      "longitude": 5.143312,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 302,
+      "name": "Fantaziehuis 't Olifantje",
+      "latitude": 51.821246,
+      "longitude": 5.36471,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 303,
+      "name": "Fantaziehuis 't Steijntje",
+      "latitude": 51.883774,
+      "longitude": 5.245422,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 304,
+      "name": "Fantaziehuis Benschop",
+      "latitude": 52.006579,
+      "longitude": 4.978905,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 305,
+      "name": "Fantaziehuis Bontebaai",
+      "latitude": 51.870967,
+      "longitude": 5.401548,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 306,
+      "name": "Fantaziehuis Coolcat",
+      "latitude": 51.844551,
+      "longitude": 5.386122,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 307,
+      "name": "Fantaziehuis De Burcht",
+      "latitude": 51.822431,
+      "longitude": 5.209848,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 308,
+      "name": "Fantaziehuis De Eikenboom",
+      "latitude": 52.294326,
+      "longitude": 5.270264,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 309,
+      "name": "Fantaziehuis De Flierefluiter",
+      "latitude": 52.002115,
+      "longitude": 5.66864,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 310,
+      "name": "Fantaziehuis De Groene Ark",
+      "latitude": 51.97373,
+      "longitude": 4.94703,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 311,
+      "name": "Fantaziehuis De Hofnar",
+      "latitude": 51.890035,
+      "longitude": 5.271193,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 312,
+      "name": "Fantaziehuis De Moestuin",
+      "latitude": 51.916272,
+      "longitude": 5.400127,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 313,
+      "name": "Fantaziehuis De Muren",
+      "latitude": 52.011735,
+      "longitude": 5.172395,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 314,
+      "name": "Fantaziehuis De Oase",
+      "latitude": 51.963654,
+      "longitude": 4.607852,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 315,
+      "name": "Fantaziehuis De Oogappel",
+      "latitude": 51.908741,
+      "longitude": 5.331236,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 316,
+      "name": "Fantaziehuis De Plantage",
+      "latitude": 51.869613,
+      "longitude": 5.292351,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 317,
+      "name": "Fantaziehuis De Regenboog",
+      "latitude": 51.897328,
+      "longitude": 5.443481,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 318,
+      "name": "Fantaziehuis De Rietschoof",
+      "latitude": 51.829468,
+      "longitude": 5.305557,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 319,
+      "name": "Fantaziehuis De Rups",
+      "latitude": 51.951117,
+      "longitude": 5.297539,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 320,
+      "name": "Fantaziehuis De Tovertuin",
+      "latitude": 51.884189,
+      "longitude": 5.304094,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 321,
+      "name": "Fantaziehuis De Vijgenboom",
+      "latitude": 52.296757,
+      "longitude": 5.226528,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 322,
+      "name": "Fantaziehuis Dribbel",
+      "latitude": 51.833006,
+      "longitude": 5.255312,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 323,
+      "name": "Fantaziehuis Kalenberg",
+      "latitude": 51.869878,
+      "longitude": 5.281779,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 324,
+      "name": "Fantaziehuis Kizzebis",
+      "latitude": 51.883237,
+      "longitude": 5.424526,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 325,
+      "name": "Fantaziehuis Krullevaar",
+      "latitude": 51.894275,
+      "longitude": 5.408655,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 326,
+      "name": "Fantaziehuis Lopikerkapel",
+      "latitude": 51.989664,
+      "longitude": 5.042916,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 327,
+      "name": "Fantaziehuis Mikmak",
+      "latitude": 51.883905,
+      "longitude": 5.245499,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 328,
+      "name": "Fantaziehuis Minoes",
+      "latitude": 51.889534,
+      "longitude": 5.439674,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 329,
+      "name": "Fantaziehuis Pippeloen",
+      "latitude": 51.88527,
+      "longitude": 5.298209,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 330,
+      "name": "Fantaziehuis Polsbroek",
+      "latitude": 51.97907,
+      "longitude": 4.851669,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 331,
+      "name": "Fantaziehuis Pompidou",
+      "latitude": 51.8834,
+      "longitude": 5.421161,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 332,
+      "name": "Fantaziehuis Tibbe",
+      "latitude": 51.894312,
+      "longitude": 5.428534,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 333,
+      "name": "Fienelien",
+      "latitude": 52.078451,
+      "longitude": 4.403251,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 334,
+      "name": "Fienelien.nl",
+      "latitude": 52.087043,
+      "longitude": 4.339186,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 335,
+      "name": "Fiep",
+      "latitude": 52.743147,
+      "longitude": 6.472615,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 336,
+      "name": "Filimo Kindcentrum",
+      "latitude": 51.836622,
+      "longitude": 5.824571,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 337,
+      "name": "Flindr",
+      "latitude": 52.442141,
+      "longitude": 4.827297,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 338,
+      "name": "Fluitenkruid",
+      "latitude": 52.068,
+      "longitude": 4.255701,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 339,
+      "name": "Fort Kakola",
+      "latitude": 52.071365,
+      "longitude": 5.134446,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 340,
+      "name": "Fortkanjers",
+      "latitude": 51.880615,
+      "longitude": 5.109486,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 341,
+      "name": "Frank Dak",
+      "latitude": 52.087984,
+      "longitude": 4.307809,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 342,
+      "name": "Gastouder opvang Edith",
+      "latitude": 52.206318,
+      "longitude": 5.971546,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 343,
+      "name": "Gastouderopvang Mariëlle",
+      "latitude": 52.123809,
+      "longitude": 6.266054,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 344,
+      "name": "Gastouderopvang Wortelkinders",
+      "latitude": 51.957914,
+      "longitude": 5.222036,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 345,
+      "name": "Gezinshuis Thuis",
+      "latitude": 51.537438,
+      "longitude": 4.465623,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 346,
+      "name": "Grasspriet",
+      "latitude": 51.350716,
+      "longitude": 5.471609,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 347,
+      "name": "Gro-up",
+      "latitude": 51.917042,
+      "longitude": 4.466044,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 348,
+      "name": "Gro-up",
+      "latitude": 52.053092,
+      "longitude": 4.468248,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 349,
+      "name": "Gro-up",
+      "latitude": 52.068956,
+      "longitude": 4.471956,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 350,
+      "name": "Gro-up",
+      "latitude": 52.069913,
+      "longitude": 4.492288,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 351,
+      "name": "Gro-up",
+      "latitude": 52.075219,
+      "longitude": 4.522379,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 352,
+      "name": "Groenland",
+      "latitude": 51.806208,
+      "longitude": 4.704998,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 353,
+      "name": "Haagstraatplein",
+      "latitude": 51.360237,
+      "longitude": 5.454609,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 354,
+      "name": "Hadassa",
+      "latitude": 51.873007,
+      "longitude": 4.58464,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 355,
+      "name": "Hadassa",
+      "latitude": 51.88643,
+      "longitude": 4.601168,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 356,
+      "name": "Halve Dagopvang Assering",
+      "latitude": 52.280937,
+      "longitude": 4.826699,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 357,
+      "name": "HannesHoeve",
+      "latitude": 51.871078,
+      "longitude": 4.914212,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 358,
+      "name": "Hansje Pansje Kevertje",
+      "latitude": 51.192836,
+      "longitude": 6.018935,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 359,
+      "name": "Happy Kids",
+      "latitude": 52.082377,
+      "longitude": 5.481184,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 360,
+      "name": "Happy Kidzz",
+      "latitude": 53.171989,
+      "longitude": 6.356171,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 361,
+      "name": "Happynest Kinderopvang",
+      "latitude": 52.070262,
+      "longitude": 4.315064,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 362,
+      "name": "Harlekijn",
+      "latitude": 52.068382,
+      "longitude": 5.122526,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 363,
+      "name": "Hebbes",
+      "latitude": 52.213856,
+      "longitude": 6.88526,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 364,
+      "name": "Heppienest",
+      "latitude": 52.089987,
+      "longitude": 5.132182,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 365,
+      "name": "Hermelijntje",
+      "latitude": 52.07384,
+      "longitude": 4.375109,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 366,
+      "name": "Hero",
+      "latitude": 52.377525,
+      "longitude": 4.618991,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 367,
+      "name": "Hero Kindercentra Nieuwe Gracht",
+      "latitude": 52.384841,
+      "longitude": 4.641193,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 368,
+      "name": "Hero Kinderdagverblijf Paul Krugerkade",
+      "latitude": 52.39204,
+      "longitude": 4.644643,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 369,
+      "name": "Het Avontuur Kinderopvang",
+      "latitude": 51.420729,
+      "longitude": 5.490118,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 370,
+      "name": "Het Bergje",
+      "latitude": 51.705416,
+      "longitude": 4.847304,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 371,
+      "name": "Het Bikkeltje",
+      "latitude": 51.981632,
+      "longitude": 5.344782,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 372,
+      "name": "Het Blokje",
+      "latitude": 52.721198,
+      "longitude": 7.040764,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 373,
+      "name": "Het Eendennest",
+      "latitude": 52.051881,
+      "longitude": 4.498081,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 374,
+      "name": "Het Eksternest",
+      "latitude": 52.035235,
+      "longitude": 4.477727,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 375,
+      "name": "Het Groene Atelier",
+      "latitude": 52.035454,
+      "longitude": 5.538696,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 376,
+      "name": "Het Kinderhoekje",
+      "latitude": 52.066489,
+      "longitude": 4.306274,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 377,
+      "name": "Het Kinderstraatje, voor kleinschalige kinderopvang",
+      "latitude": 52.376285,
+      "longitude": 5.250903,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 378,
+      "name": "Het Koekoeksnest",
+      "latitude": 52.059565,
+      "longitude": 4.541677,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 379,
+      "name": "Het Kwakernest",
+      "latitude": 52.077497,
+      "longitude": 4.516072,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 380,
+      "name": "Het Lijsternest",
+      "latitude": 52.070004,
+      "longitude": 4.492616,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 381,
+      "name": "Het Meeuwennest",
+      "latitude": 52.066081,
+      "longitude": 4.536095,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 382,
+      "name": "Het Mereltje",
+      "latitude": 52.120719,
+      "longitude": 5.183685,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 383,
+      "name": "Het Mussennest",
+      "latitude": 52.057389,
+      "longitude": 4.506112,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 384,
+      "name": "Het Oude Ambt",
+      "latitude": 53.186435,
+      "longitude": 7.081901,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 385,
+      "name": "Het Penseel",
+      "latitude": 52.375015,
+      "longitude": 5.258717,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 386,
+      "name": "Het Postkantoor",
+      "latitude": 52.124288,
+      "longitude": 4.446155,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 387,
+      "name": "Het Schatjes en Schoffies Paradijs",
+      "latitude": 52.376438,
+      "longitude": 5.185404,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 388,
+      "name": "Het Speelkasteel",
+      "latitude": 52.767232,
+      "longitude": 5.106394,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 389,
+      "name": "Het Sprookjesbos",
+      "latitude": 51.693296,
+      "longitude": 5.328697,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 390,
+      "name": "Het Sprookjesbos",
+      "latitude": 52.188386,
+      "longitude": 6.900869,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 391,
+      "name": "Het Toddlers Huis",
+      "latitude": 53.23079,
+      "longitude": 6.531786,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 392,
+      "name": "Het Toverbos",
+      "latitude": 52.004814,
+      "longitude": 6.02389,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 393,
+      "name": "Het Toverstokje",
+      "latitude": 51.66142,
+      "longitude": 4.856276,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 394,
+      "name": "Het Vogeltje",
+      "latitude": 52.320859,
+      "longitude": 4.969501,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 395,
+      "name": "Het Zonnehuis",
+      "latitude": 51.698563,
+      "longitude": 5.318878,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 396,
+      "name": "Het Zonnetje Westvlietweg",
+      "latitude": 52.065605,
+      "longitude": 4.368552,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 397,
+      "name": "Hi3 Sport BSO Bavel",
+      "latitude": 51.559367,
+      "longitude": 4.825544,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 398,
+      "name": "Hoef en Haag",
+      "latitude": 51.98741,
+      "longitude": 5.116142,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 399,
+      "name": "Hoera (naschoolse opvang)",
+      "latitude": 51.329441,
+      "longitude": 6.096448,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 400,
+      "name": "Hoi Pippeloi",
+      "latitude": 53.09565,
+      "longitude": 6.861935,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 401,
+      "name": "Hokus Pokus",
+      "latitude": 52.107272,
+      "longitude": 5.11783,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 402,
+      "name": "Hollandstar",
+      "latitude": 52.166528,
+      "longitude": 5.368727,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 403,
+      "name": "Huisje",
+      "latitude": 52.07468,
+      "longitude": 4.278707,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 404,
+      "name": "Humankind",
+      "latitude": 51.945793,
+      "longitude": 5.976284,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 405,
+      "name": "Hummeltjeshoek",
+      "latitude": 52.072667,
+      "longitude": 4.348787,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 406,
+      "name": "ICC Port of Holland Daycare",
+      "latitude": 51.916167,
+      "longitude": 4.540971,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 407,
+      "name": "IJgenweis",
+      "latitude": 52.043695,
+      "longitude": 4.651633,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 408,
+      "name": "IKC De Droomgaard",
+      "latitude": 51.945838,
+      "longitude": 6.016436,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 409,
+      "name": "IKC Remigius",
+      "latitude": 51.947955,
+      "longitude": 6.025603,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 410,
+      "name": "Ieni Mini",
+      "latitude": 52.057014,
+      "longitude": 4.490774,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 411,
+      "name": "Iens Huisje",
+      "latitude": 52.065881,
+      "longitude": 4.252965,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 412,
+      "name": "Ikke&zo",
+      "latitude": 52.383508,
+      "longitude": 4.878123,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 413,
+      "name": "In de bloei",
+      "latitude": 52.69146,
+      "longitude": 5.185943,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 414,
+      "name": "In de rups",
+      "latitude": 52.018943,
+      "longitude": 5.179058,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 415,
+      "name": "Jabadabadoe",
+      "latitude": 52.175264,
+      "longitude": 5.448286,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 416,
+      "name": "JanJans",
+      "latitude": 52.143652,
+      "longitude": 5.37192,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 417,
+      "name": "Janinerakkers",
+      "latitude": 52.111152,
+      "longitude": 4.292839,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 418,
+      "name": "Jip en Janneke",
+      "latitude": 51.545021,
+      "longitude": 5.095025,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 419,
+      "name": "Juffie Maartje Peuteropvang",
+      "latitude": 52.204496,
+      "longitude": 5.93043,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 420,
+      "name": "Jump",
+      "latitude": 51.883117,
+      "longitude": 5.844226,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 421,
+      "name": "Junis",
+      "latitude": 52.054441,
+      "longitude": 4.537254,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 422,
+      "name": "Junis",
+      "latitude": 52.059175,
+      "longitude": 4.461311,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 423,
+      "name": "Junis",
+      "latitude": 52.07606,
+      "longitude": 4.497273,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 424,
+      "name": "Junis",
+      "latitude": 52.077918,
+      "longitude": 4.515519,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 425,
+      "name": "Jut en Jul",
+      "latitude": 53.146613,
+      "longitude": 6.273028,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 426,
+      "name": "K'nijntje",
+      "latitude": 52.937856,
+      "longitude": 4.749505,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 427,
+      "name": "K'nijntje / BSO 't Speelhof",
+      "latitude": 52.171388,
+      "longitude": 5.284669,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 428,
+      "name": "KC Koos Meinderts",
+      "latitude": 52.061921,
+      "longitude": 4.247317,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 429,
+      "name": "KC Sport Pellikaan Peuteropvang BSO",
+      "latitude": 51.514039,
+      "longitude": 5.049303,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 430,
+      "name": "KC West",
+      "latitude": 52.026026,
+      "longitude": 5.524916,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 431,
+      "name": "KDC De Blauwe Vogel",
+      "latitude": 52.161781,
+      "longitude": 5.293801,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 432,
+      "name": "KDV + BSO De Klimboom",
+      "latitude": 52.457504,
+      "longitude": 6.568885,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 433,
+      "name": "KDV Babbels",
+      "latitude": 51.987798,
+      "longitude": 4.489352,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 434,
+      "name": "KDV Château Heiloo",
+      "latitude": 52.600627,
+      "longitude": 4.700631,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 435,
+      "name": "KDV De Berenboot",
+      "latitude": 52.269553,
+      "longitude": 4.747578,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 436,
+      "name": "KDV De Blokhut",
+      "latitude": 52.023979,
+      "longitude": 5.541896,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 437,
+      "name": "KDV De Kabouters",
+      "latitude": 52.502431,
+      "longitude": 4.755569,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 438,
+      "name": "KDV De Paradijsvogel",
+      "latitude": 52.451507,
+      "longitude": 4.827318,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 439,
+      "name": "KDV De Speeldoos",
+      "latitude": 51.835409,
+      "longitude": 4.991578,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 440,
+      "name": "KDV Het Sprookjeskasteel",
+      "latitude": 51.887769,
+      "longitude": 5.427366,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 441,
+      "name": "KDV Het Tuinhuis",
+      "latitude": 52.079893,
+      "longitude": 4.735362,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 442,
+      "name": "KDV Het Vosje",
+      "latitude": 52.353118,
+      "longitude": 4.655064,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 443,
+      "name": "KDV Hummelvijver",
+      "latitude": 51.737592,
+      "longitude": 4.438504,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 444,
+      "name": "KDV In de Boomgaard",
+      "latitude": 51.834282,
+      "longitude": 5.006453,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 445,
+      "name": "KDV Kruimeltje",
+      "latitude": 52.011886,
+      "longitude": 5.089856,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 446,
+      "name": "KDV Roos",
+      "latitude": 52.097207,
+      "longitude": 4.363493,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 447,
+      "name": "KDV Spetters",
+      "latitude": 51.54505,
+      "longitude": 4.942506,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 448,
+      "name": "KDV Villa Aan 't Roer",
+      "latitude": 51.180882,
+      "longitude": 5.976601,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 449,
+      "name": "KDV Villa Nova",
+      "latitude": 51.54034,
+      "longitude": 4.94203,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 450,
+      "name": "KDV Villa West",
+      "latitude": 52.442256,
+      "longitude": 4.821588,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 451,
+      "name": "KDV de Blokkendoos",
+      "latitude": 53.19483,
+      "longitude": 6.552837,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 452,
+      "name": "KDV de Bosuil",
+      "latitude": 52.600642,
+      "longitude": 4.700774,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 453,
+      "name": "KION",
+      "latitude": 51.877204,
+      "longitude": 5.517927,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 454,
+      "name": "KION Kinderdagverblijf Mariken",
+      "latitude": 51.819598,
+      "longitude": 5.848793,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 455,
+      "name": "KION VVE peutergroep De Bellenboom",
+      "latitude": 51.806496,
+      "longitude": 5.801252,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 456,
+      "name": "KION kinderdagverblijf Dikkertje Dap",
+      "latitude": 51.847728,
+      "longitude": 5.855625,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 457,
+      "name": "KION kinderopvang De Reuzepas",
+      "latitude": 51.865918,
+      "longitude": 5.736215,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 458,
+      "name": "KInderRijk",
+      "latitude": 52.27465,
+      "longitude": 4.83178,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 459,
+      "name": "KO Villa Pip",
+      "latitude": 51.996359,
+      "longitude": 6.134558,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 460,
+      "name": "KSH Kidsclub Liendert",
+      "latitude": 52.167456,
+      "longitude": 5.406123,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 461,
+      "name": "Kaatje",
+      "latitude": 52.138363,
+      "longitude": 5.380647,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 462,
+      "name": "Kaktus",
+      "latitude": 52.098301,
+      "longitude": 5.121012,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 463,
+      "name": "Kanteel",
+      "latitude": 51.692765,
+      "longitude": 5.318814,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 464,
+      "name": "Keet & Koters",
+      "latitude": 52.234057,
+      "longitude": 5.361751,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 465,
+      "name": "Keizerrijk",
+      "latitude": 52.022324,
+      "longitude": 4.338885,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 466,
+      "name": "Kenter Jeugdhulp",
+      "latitude": 52.497403,
+      "longitude": 4.67807,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 467,
+      "name": "Kern Kinderopvang",
+      "latitude": 52.039512,
+      "longitude": 4.497785,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 468,
+      "name": "Kern Kinderopvang",
+      "latitude": 52.053178,
+      "longitude": 4.491978,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 469,
+      "name": "Kern Kinderopvang",
+      "latitude": 52.057675,
+      "longitude": 4.50693,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 470,
+      "name": "Kern Kinderopvang",
+      "latitude": 52.066267,
+      "longitude": 4.536136,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 471,
+      "name": "Kern Kinderopvang",
+      "latitude": 52.066863,
+      "longitude": 4.50585,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 472,
+      "name": "Ketelbinkie Charlois",
+      "latitude": 51.883982,
+      "longitude": 4.458081,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 473,
+      "name": "Kibeo",
+      "latitude": 51.488641,
+      "longitude": 4.040945,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 474,
+      "name": "Kibeo",
+      "latitude": 51.496851,
+      "longitude": 3.88831,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 475,
+      "name": "Kibeo",
+      "latitude": 51.748883,
+      "longitude": 4.101645,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 476,
+      "name": "Kibeo - Buitenschoolse opvang",
+      "latitude": 51.798956,
+      "longitude": 4.491412,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 477,
+      "name": "Kibeo - Dagopvang",
+      "latitude": 51.799161,
+      "longitude": 4.49154,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 478,
+      "name": "Kibeo Beatrixplein Mijnsheerenland",
+      "latitude": 51.799033,
+      "longitude": 4.491544,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 479,
+      "name": "Kibeo Hondsgalgweg",
+      "latitude": 51.745095,
+      "longitude": 4.096614,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 480,
+      "name": "Kibeo Kloosterstraat",
+      "latitude": 51.686452,
+      "longitude": 4.282819,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 481,
+      "name": "Kibeo Nieuwstraat",
+      "latitude": 51.572753,
+      "longitude": 3.705858,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 482,
+      "name": "Kideo",
+      "latitude": 53.104354,
+      "longitude": 6.110192,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 483,
+      "name": "Kids & Ko",
+      "latitude": 51.894009,
+      "longitude": 4.623131,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 484,
+      "name": "Kids Casa",
+      "latitude": 53.136285,
+      "longitude": 6.414547,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 485,
+      "name": "Kids First",
+      "latitude": 52.991739,
+      "longitude": 6.530085,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 486,
+      "name": "Kids First",
+      "latitude": 53.225055,
+      "longitude": 6.58915,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 487,
+      "name": "Kids First Kindcentrum Babbelz!",
+      "latitude": 52.951343,
+      "longitude": 6.449782,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 488,
+      "name": "Kids II",
+      "latitude": 52.431062,
+      "longitude": 4.913072,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 489,
+      "name": "Kids Society Erica locatie Heikampen",
+      "latitude": 51.460276,
+      "longitude": 5.549998,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 490,
+      "name": "Kids World",
+      "latitude": 51.354544,
+      "longitude": 5.460113,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 491,
+      "name": "Kids and Carrots",
+      "latitude": 52.073248,
+      "longitude": 4.274534,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 492,
+      "name": "Kids and Carrots",
+      "latitude": 52.079675,
+      "longitude": 4.293592,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 493,
+      "name": "Kids2b",
+      "latitude": 53.317217,
+      "longitude": 6.852117,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 494,
+      "name": "Kidscasa",
+      "latitude": 52.724318,
+      "longitude": 6.482439,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 495,
+      "name": "Kidsclub 't Centrum",
+      "latitude": 51.927981,
+      "longitude": 6.584662,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 496,
+      "name": "Kidsfirst",
+      "latitude": 53.00385,
+      "longitude": 6.504523,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 497,
+      "name": "Kidswereld",
+      "latitude": 52.309144,
+      "longitude": 5.0408,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 498,
+      "name": "Kidtopia",
+      "latitude": 52.369648,
+      "longitude": 4.870309,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 499,
+      "name": "Kiekeboe",
+      "latitude": 51.312535,
+      "longitude": 5.611544,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 500,
+      "name": "Kiekeboe",
+      "latitude": 51.879067,
+      "longitude": 4.821461,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 501,
+      "name": "Kiekeboe",
+      "latitude": 51.9501,
+      "longitude": 5.20815,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 502,
+      "name": "Kiekeboe",
+      "latitude": 52.066003,
+      "longitude": 4.536002,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 503,
+      "name": "Kiekeboe Regenboogkasteel",
+      "latitude": 52.022694,
+      "longitude": 5.554294,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 504,
+      "name": "Kiekeboe kinderopvang kabouterkasteel",
+      "latitude": 52.031931,
+      "longitude": 5.163878,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 505,
+      "name": "Kind & Co",
+      "latitude": 52.006799,
+      "longitude": 5.0813,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 506,
+      "name": "Kind & Co",
+      "latitude": 52.316924,
+      "longitude": 5.044569,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 507,
+      "name": "Kind in praktijk",
+      "latitude": 52.014962,
+      "longitude": 4.351076,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 508,
+      "name": "KindCentrum Kroeseboom",
+      "latitude": 52.005796,
+      "longitude": 6.022596,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 509,
+      "name": "Kindcentrum Akkrum",
+      "latitude": 53.049902,
+      "longitude": 5.848703,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 510,
+      "name": "Kindcentrum Baloo",
+      "latitude": 53.145136,
+      "longitude": 6.261048,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 511,
+      "name": "Kindcentrum De Binck",
+      "latitude": 52.068435,
+      "longitude": 4.339582,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 512,
+      "name": "Kindcentrum De Minstreel",
+      "latitude": 52.021896,
+      "longitude": 5.043154,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 513,
+      "name": "Kindcentrum Dikkertje Dap",
+      "latitude": 52.606692,
+      "longitude": 6.461953,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 514,
+      "name": "Kindcentrum Koning Groen",
+      "latitude": 51.667941,
+      "longitude": 5.047058,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 515,
+      "name": "Kindcentrum Korrewegwijk",
+      "latitude": 53.2305,
+      "longitude": 6.565413,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 516,
+      "name": "Kindcentrum LeLa",
+      "latitude": 51.460258,
+      "longitude": 5.70075,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 517,
+      "name": "Kindcentrum Leeuwensteyn",
+      "latitude": 52.088676,
+      "longitude": 5.075591,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 518,
+      "name": "Kindcentrum Leidschendam Het Lien | Kajuit",
+      "latitude": 52.092587,
+      "longitude": 4.40379,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 519,
+      "name": "Kindcentrum Piggelmee",
+      "latitude": 52.092882,
+      "longitude": 4.389615,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 520,
+      "name": "Kindcentrum Toon",
+      "latitude": 51.831767,
+      "longitude": 5.81236,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 521,
+      "name": "Kindcentrum Vroondaal",
+      "latitude": 52.040804,
+      "longitude": 4.232932,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 522,
+      "name": "Kindcentrum Zuiderster",
+      "latitude": 51.679233,
+      "longitude": 5.315784,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 523,
+      "name": "KindeRdam",
+      "latitude": 51.923295,
+      "longitude": 4.491148,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 524,
+      "name": "KinderRijk",
+      "latitude": 52.295012,
+      "longitude": 4.871025,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 525,
+      "name": "KinderRijk",
+      "latitude": 52.33265,
+      "longitude": 4.862347,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 526,
+      "name": "KinderRijk",
+      "latitude": 52.36099,
+      "longitude": 4.918137,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 527,
+      "name": "KinderRijk BSO Laan Rozenburg RV",
+      "latitude": 52.316081,
+      "longitude": 4.862977,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 528,
+      "name": "Kinderbolwerk",
+      "latitude": 51.502869,
+      "longitude": 3.62305,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 529,
+      "name": "Kindercentrum Berend Botje",
+      "latitude": 52.642736,
+      "longitude": 5.047632,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 530,
+      "name": "Kindercentrum Bobbi",
+      "latitude": 51.907092,
+      "longitude": 4.940614,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 531,
+      "name": "Kindercentrum De Boefjes",
+      "latitude": 52.355158,
+      "longitude": 4.894319,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 532,
+      "name": "Kindercentrum De Hovenier",
+      "latitude": 51.891127,
+      "longitude": 5.436027,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 533,
+      "name": "Kindercentrum Het Elfenbosch",
+      "latitude": 51.996925,
+      "longitude": 5.970867,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 534,
+      "name": "Kindercentrum JOEP!",
+      "latitude": 52.137082,
+      "longitude": 5.426013,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 535,
+      "name": "Kindercentrum JOEP!",
+      "latitude": 52.13925,
+      "longitude": 5.421622,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 536,
+      "name": "Kindercentrum Kees",
+      "latitude": 51.786405,
+      "longitude": 5.078704,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 537,
+      "name": "Kindercentrum Kids & Ko",
+      "latitude": 52.184786,
+      "longitude": 4.471681,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 538,
+      "name": "Kindercentrum Kids Together",
+      "latitude": 52.399776,
+      "longitude": 5.294909,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 539,
+      "name": "Kindercentrum Kunstenmakers",
+      "latitude": 52.395935,
+      "longitude": 5.303868,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 540,
+      "name": "Kindercentrum Marijtje Doets",
+      "latitude": 52.4047,
+      "longitude": 5.295644,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 541,
+      "name": "Kindercentrum Molukkertjes",
+      "latitude": 52.362537,
+      "longitude": 4.93931,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 542,
+      "name": "Kindercentrum Noah's Ark",
+      "latitude": 52.406627,
+      "longitude": 5.257069,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 543,
+      "name": "Kindercentrum Rapsodie",
+      "latitude": 52.640467,
+      "longitude": 4.734341,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 544,
+      "name": "Kindercentrum Stijntje Buys",
+      "latitude": 51.835351,
+      "longitude": 5.832139,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 545,
+      "name": "Kindercentrum Woeste Willem & Lieve Lotte",
+      "latitude": 51.932732,
+      "longitude": 4.562175,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 546,
+      "name": "Kindercentrum de Schaapskooi",
+      "latitude": 52.030196,
+      "longitude": 4.698663,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 547,
+      "name": "Kindercentrum de Tovertún",
+      "latitude": 53.279633,
+      "longitude": 6.147932,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 548,
+      "name": "Kindercentrum de Welpen en de Wilde Poema",
+      "latitude": 52.135702,
+      "longitude": 5.196855,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 549,
+      "name": "Kindercoachpraktijk \"Ik kan het!\"",
+      "latitude": 52.383163,
+      "longitude": 5.192435,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 550,
+      "name": "Kinderdagcentrum Faukenbergestraat",
+      "latitude": 52.075686,
+      "longitude": 4.34737,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 551,
+      "name": "Kinderdagcentrum Onder één Dak",
+      "latitude": 52.198892,
+      "longitude": 5.41847,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 552,
+      "name": "Kinderdagopvang De Toverput",
+      "latitude": 51.985074,
+      "longitude": 5.746095,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 553,
+      "name": "Kinderdagverblijf 't Nest",
+      "latitude": 51.423797,
+      "longitude": 6.138264,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 554,
+      "name": "Kinderdagverblijf 't Vliegertje",
+      "latitude": 52.785416,
+      "longitude": 4.78557,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 555,
+      "name": "Kinderdagverblijf Ariane",
+      "latitude": 52.200676,
+      "longitude": 5.391473,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 556,
+      "name": "Kinderdagverblijf Asserring",
+      "latitude": 52.281183,
+      "longitude": 4.826883,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 557,
+      "name": "Kinderdagverblijf BLOS",
+      "latitude": 52.006831,
+      "longitude": 5.081171,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 558,
+      "name": "Kinderdagverblijf Beestenboel",
+      "latitude": 52.083538,
+      "longitude": 5.215051,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 559,
+      "name": "Kinderdagverblijf Belle",
+      "latitude": 52.076955,
+      "longitude": 4.279049,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 560,
+      "name": "Kinderdagverblijf BenBelle",
+      "latitude": 52.178617,
+      "longitude": 5.375664,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 561,
+      "name": "Kinderdagverblijf Blos",
+      "latitude": 52.391913,
+      "longitude": 5.280934,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 562,
+      "name": "Kinderdagverblijf Bogerd",
+      "latitude": 51.886514,
+      "longitude": 5.602046,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 563,
+      "name": "Kinderdagverblijf BuitenGewoon",
+      "latitude": 51.650986,
+      "longitude": 5.025137,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 564,
+      "name": "Kinderdagverblijf Chouchou",
+      "latitude": 52.063666,
+      "longitude": 4.307838,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 565,
+      "name": "Kinderdagverblijf De Banne",
+      "latitude": 52.404501,
+      "longitude": 4.918836,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 566,
+      "name": "Kinderdagverblijf De Droomengeltjes",
+      "latitude": 51.889732,
+      "longitude": 4.475774,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 567,
+      "name": "Kinderdagverblijf De Elsen Almere",
+      "latitude": 52.383717,
+      "longitude": 5.192679,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 568,
+      "name": "Kinderdagverblijf De Groene Kikker",
+      "latitude": 51.999581,
+      "longitude": 4.777588,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 569,
+      "name": "Kinderdagverblijf De Grote Grutto",
+      "latitude": 52.465931,
+      "longitude": 4.951087,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 570,
+      "name": "Kinderdagverblijf De Kabouters",
+      "latitude": 53.004547,
+      "longitude": 6.504902,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 571,
+      "name": "Kinderdagverblijf De Kameleon",
+      "latitude": 51.620805,
+      "longitude": 5.437353,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 572,
+      "name": "Kinderdagverblijf De Kameleon",
+      "latitude": 51.638534,
+      "longitude": 4.862876,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 573,
+      "name": "Kinderdagverblijf De Kroost",
+      "latitude": 52.091504,
+      "longitude": 5.216844,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 574,
+      "name": "Kinderdagverblijf De Maatjes",
+      "latitude": 51.929608,
+      "longitude": 6.064182,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 575,
+      "name": "Kinderdagverblijf De Meander",
+      "latitude": 51.655045,
+      "longitude": 4.834902,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 576,
+      "name": "Kinderdagverblijf De Meiboom",
+      "latitude": 52.101163,
+      "longitude": 6.640089,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 577,
+      "name": "Kinderdagverblijf De Pionier",
+      "latitude": 51.642989,
+      "longitude": 4.835392,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 578,
+      "name": "Kinderdagverblijf De Skoalle",
+      "latitude": 52.964069,
+      "longitude": 5.914196,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 579,
+      "name": "Kinderdagverblijf De Terp",
+      "latitude": 51.936001,
+      "longitude": 4.601484,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 580,
+      "name": "Kinderdagverblijf De Uitdaging",
+      "latitude": 51.881504,
+      "longitude": 5.850546,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 581,
+      "name": "Kinderdagverblijf De Vlieger",
+      "latitude": 51.60656,
+      "longitude": 5.441176,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 582,
+      "name": "Kinderdagverblijf Dikke Maatjes",
+      "latitude": 52.400031,
+      "longitude": 4.650173,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 583,
+      "name": "Kinderdagverblijf Dotjes",
+      "latitude": 51.517283,
+      "longitude": 4.467379,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 584,
+      "name": "Kinderdagverblijf Dribbel",
+      "latitude": 52.20793,
+      "longitude": 5.16533,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 585,
+      "name": "Kinderdagverblijf Grasrijk",
+      "latitude": 52.01454,
+      "longitude": 5.182959,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 586,
+      "name": "Kinderdagverblijf Groei",
+      "latitude": 51.694566,
+      "longitude": 4.876084,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 587,
+      "name": "Kinderdagverblijf Het Bikkeltje",
+      "latitude": 51.981717,
+      "longitude": 5.344871,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 588,
+      "name": "Kinderdagverblijf Het Kasteeltje",
+      "latitude": 51.891279,
+      "longitude": 5.433036,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 589,
+      "name": "Kinderdagverblijf Het Kwakernest",
+      "latitude": 52.072088,
+      "longitude": 4.511422,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 590,
+      "name": "Kinderdagverblijf Het Paleisje Berkel",
+      "latitude": 51.992441,
+      "longitude": 4.478263,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 591,
+      "name": "Kinderdagverblijf Hooiberg",
+      "latitude": 52.074427,
+      "longitude": 4.542562,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 592,
+      "name": "Kinderdagverblijf Jolie",
+      "latitude": 52.064929,
+      "longitude": 5.132295,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 593,
+      "name": "Kinderdagverblijf Kabouterbos",
+      "latitude": 52.506358,
+      "longitude": 4.991178,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 594,
+      "name": "Kinderdagverblijf Kiekeboe",
+      "latitude": 52.063426,
+      "longitude": 4.918417,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 595,
+      "name": "Kinderdagverblijf Kiekeboe",
+      "latitude": 52.307175,
+      "longitude": 6.921253,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 596,
+      "name": "Kinderdagverblijf Kiekeboe!",
+      "latitude": 52.292146,
+      "longitude": 6.153553,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 597,
+      "name": "Kinderdagverblijf Kindcentrum Broekgraaf",
+      "latitude": 51.891404,
+      "longitude": 5.076697,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 598,
+      "name": "Kinderdagverblijf Krummeleut",
+      "latitude": 51.953553,
+      "longitude": 5.218942,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 599,
+      "name": "Kinderdagverblijf Little World",
+      "latitude": 53.218494,
+      "longitude": 6.551384,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 600,
+      "name": "Kinderdagverblijf LouLou",
+      "latitude": 52.056776,
+      "longitude": 4.317271,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 601,
+      "name": "Kinderdagverblijf Marijke",
+      "latitude": 51.918337,
+      "longitude": 4.519747,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 602,
+      "name": "Kinderdagverblijf Mickey",
+      "latitude": 51.986433,
+      "longitude": 5.974794,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 603,
+      "name": "Kinderdagverblijf Mijn Diamantje",
+      "latitude": 52.494168,
+      "longitude": 5.493111,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 604,
+      "name": "Kinderdagverblijf Mijn Lievelings",
+      "latitude": 51.61643,
+      "longitude": 5.440119,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 605,
+      "name": "Kinderdagverblijf Montessori",
+      "latitude": 51.661314,
+      "longitude": 4.859634,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 606,
+      "name": "Kinderdagverblijf Mukkie",
+      "latitude": 52.184104,
+      "longitude": 4.448543,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 607,
+      "name": "Kinderdagverblijf Paddestoel",
+      "latitude": 52.064551,
+      "longitude": 4.229453,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 608,
+      "name": "Kinderdagverblijf Pepeloentje",
+      "latitude": 51.932543,
+      "longitude": 6.020395,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 609,
+      "name": "Kinderdagverblijf Pipoo",
+      "latitude": 51.798838,
+      "longitude": 4.668785,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 610,
+      "name": "Kinderdagverblijf Pippi",
+      "latitude": 51.726345,
+      "longitude": 5.297739,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 611,
+      "name": "Kinderdagverblijf Polderpret",
+      "latitude": 51.500431,
+      "longitude": 3.677358,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 612,
+      "name": "Kinderdagverblijf Polleke",
+      "latitude": 51.439493,
+      "longitude": 4.330582,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 613,
+      "name": "Kinderdagverblijf Pollenstein",
+      "latitude": 52.04377,
+      "longitude": 5.647974,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 614,
+      "name": "Kinderdagverblijf Pommetje",
+      "latitude": 52.148932,
+      "longitude": 5.976841,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 615,
+      "name": "Kinderdagverblijf Pukkie",
+      "latitude": 52.076072,
+      "longitude": 4.343652,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 616,
+      "name": "Kinderdagverblijf Simba",
+      "latitude": 52.027075,
+      "longitude": 4.168236,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 617,
+      "name": "Kinderdagverblijf Skippy",
+      "latitude": 51.926116,
+      "longitude": 4.516487,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 618,
+      "name": "Kinderdagverblijf Small",
+      "latitude": 52.06564,
+      "longitude": 4.280467,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 619,
+      "name": "Kinderdagverblijf Small B.V.",
+      "latitude": 52.053309,
+      "longitude": 4.387109,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 620,
+      "name": "Kinderdagverblijf Snuffie",
+      "latitude": 52.721285,
+      "longitude": 4.745171,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 621,
+      "name": "Kinderdagverblijf Sterrendonk",
+      "latitude": 51.65452,
+      "longitude": 4.874941,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 622,
+      "name": "Kinderdagverblijf Tik-Tak",
+      "latitude": 52.023519,
+      "longitude": 4.276618,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 623,
+      "name": "Kinderdagverblijf Villa Riedijk",
+      "latitude": 51.817848,
+      "longitude": 4.676254,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 624,
+      "name": "Kinderdagverblijf Wheermolen",
+      "latitude": 52.506916,
+      "longitude": 4.97359,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 625,
+      "name": "Kinderdagverblijf Woudeinde",
+      "latitude": 52.304232,
+      "longitude": 5.608608,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 626,
+      "name": "Kinderdagverblijf Zazou",
+      "latitude": 52.05608,
+      "longitude": 5.085234,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 627,
+      "name": "Kinderdagverblijf de Buytenkans",
+      "latitude": 52.063877,
+      "longitude": 4.4798,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 628,
+      "name": "Kinderdagverblijf de Kieft",
+      "latitude": 52.669774,
+      "longitude": 5.117518,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 629,
+      "name": "Kinderdagverblijf de Koningsbeer",
+      "latitude": 51.524778,
+      "longitude": 5.024445,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 630,
+      "name": "Kinderdagverblijf de Meidoorn",
+      "latitude": 52.201246,
+      "longitude": 5.142764,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 631,
+      "name": "Kinderdagverblijf de Snuffeltuin",
+      "latitude": 51.883721,
+      "longitude": 5.610533,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 632,
+      "name": "Kinderdagverblijf de Toverhoed",
+      "latitude": 51.919666,
+      "longitude": 6.101744,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 633,
+      "name": "Kinderdagverblijf de Waterval",
+      "latitude": 52.493111,
+      "longitude": 4.680367,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 634,
+      "name": "Kinderdagverblijf en BSO Nannies",
+      "latitude": 51.92066,
+      "longitude": 5.849989,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 635,
+      "name": "Kinderdagverblijf het Zomerhuis",
+      "latitude": 52.030432,
+      "longitude": 4.699109,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 636,
+      "name": "Kinderdienstencentrum Nifterlake",
+      "latitude": 52.320083,
+      "longitude": 4.868176,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 637,
+      "name": "Kindergarden Madridstraat",
+      "latitude": 52.094184,
+      "longitude": 5.066776,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 638,
+      "name": "Kindergarden Maliebaan",
+      "latitude": 52.089552,
+      "longitude": 5.131684,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 639,
+      "name": "Kinderhonk Stad",
+      "latitude": 52.361465,
+      "longitude": 4.904971,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 640,
+      "name": "Kinderopvang ' t Iepenkrietje",
+      "latitude": 53.286813,
+      "longitude": 6.32329,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 641,
+      "name": "Kinderopvang 't Draakje",
+      "latitude": 52.059815,
+      "longitude": 4.324715,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 642,
+      "name": "Kinderopvang 't Sprookjesland",
+      "latitude": 52.396173,
+      "longitude": 5.304118,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 643,
+      "name": "Kinderopvang 't Stalletje",
+      "latitude": 53.050572,
+      "longitude": 6.541249,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 644,
+      "name": "Kinderopvang 't Woudlopertje",
+      "latitude": 52.271652,
+      "longitude": 4.604876,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 645,
+      "name": "Kinderopvang 2Samen",
+      "latitude": 52.051069,
+      "longitude": 4.311308,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 646,
+      "name": "Kinderopvang 2Samen",
+      "latitude": 52.073431,
+      "longitude": 4.281532,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 647,
+      "name": "Kinderopvang BLY R'mond",
+      "latitude": 51.191957,
+      "longitude": 6.018557,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 648,
+      "name": "Kinderopvang BORUS Nieuw-Vennep",
+      "latitude": 52.274344,
+      "longitude": 4.632033,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 649,
+      "name": "Kinderopvang Bakel",
+      "latitude": 51.504708,
+      "longitude": 5.742662,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 650,
+      "name": "Kinderopvang Bambi / Peuterspeelzaal Doortje",
+      "latitude": 51.941925,
+      "longitude": 6.614903,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 651,
+      "name": "Kinderopvang Boes",
+      "latitude": 53.286611,
+      "longitude": 6.326399,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 652,
+      "name": "Kinderopvang Chapeau Kinderwerk",
+      "latitude": 51.880893,
+      "longitude": 5.293539,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 653,
+      "name": "Kinderopvang Dak 2e Braam",
+      "latitude": 52.072864,
+      "longitude": 4.269175,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 654,
+      "name": "Kinderopvang De Blokkendoos",
+      "latitude": 51.612068,
+      "longitude": 5.445658,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 655,
+      "name": "Kinderopvang De Bosarck",
+      "latitude": 51.927194,
+      "longitude": 6.563302,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 656,
+      "name": "Kinderopvang De Harlekijn",
+      "latitude": 52.01024,
+      "longitude": 5.424438,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 657,
+      "name": "Kinderopvang De Teddybeer",
+      "latitude": 51.586467,
+      "longitude": 4.997227,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 658,
+      "name": "Kinderopvang De Tovertuin",
+      "latitude": 51.620281,
+      "longitude": 4.946897,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 659,
+      "name": "Kinderopvang De Villa",
+      "latitude": 52.09277,
+      "longitude": 5.132925,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 660,
+      "name": "Kinderopvang De Vlindertuin",
+      "latitude": 52.137392,
+      "longitude": 5.347447,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 661,
+      "name": "Kinderopvang Denhaan",
+      "latitude": 51.796322,
+      "longitude": 5.396173,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 662,
+      "name": "Kinderopvang Dikke Maatjes",
+      "latitude": 52.405856,
+      "longitude": 4.637228,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 663,
+      "name": "Kinderopvang Dol-fijn",
+      "latitude": 51.616495,
+      "longitude": 5.436192,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 664,
+      "name": "Kinderopvang Engeltjes",
+      "latitude": 51.88358,
+      "longitude": 4.474653,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 665,
+      "name": "Kinderopvang Funny Kids",
+      "latitude": 52.072818,
+      "longitude": 4.325237,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 666,
+      "name": "Kinderopvang Greatkidzz B.V.",
+      "latitude": 52.346783,
+      "longitude": 4.794744,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 667,
+      "name": "Kinderopvang Groningen",
+      "latitude": 53.207963,
+      "longitude": 6.572394,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 668,
+      "name": "Kinderopvang Happy Feet",
+      "latitude": 52.061674,
+      "longitude": 4.327337,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 669,
+      "name": "Kinderopvang Het Beertje",
+      "latitude": 51.734534,
+      "longitude": 5.465331,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 670,
+      "name": "Kinderopvang Het Speelhuis",
+      "latitude": 53.2637,
+      "longitude": 6.309942,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 671,
+      "name": "Kinderopvang Hollands Kroon Wieringerwerf",
+      "latitude": 52.850091,
+      "longitude": 5.021073,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 672,
+      "name": "Kinderopvang IKC",
+      "latitude": 51.984778,
+      "longitude": 4.451756,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 673,
+      "name": "Kinderopvang KOSMO",
+      "latitude": 51.940457,
+      "longitude": 5.894825,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 674,
+      "name": "Kinderopvang KinderWORLD",
+      "latitude": 52.351646,
+      "longitude": 5.216017,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 675,
+      "name": "Kinderopvang Kleine Nijn",
+      "latitude": 53.007908,
+      "longitude": 6.080423,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 676,
+      "name": "Kinderopvang Liefjes",
+      "latitude": 52.072414,
+      "longitude": 4.292922,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 677,
+      "name": "Kinderopvang Mamaloe",
+      "latitude": 51.486862,
+      "longitude": 4.300608,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 678,
+      "name": "Kinderopvang Mathil",
+      "latitude": 52.613448,
+      "longitude": 6.183718,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 679,
+      "name": "Kinderopvang Noorderkabouters",
+      "latitude": 52.504787,
+      "longitude": 4.779968,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 680,
+      "name": "Kinderopvang Op 't Bergske",
+      "latitude": 50.852777,
+      "longitude": 5.948522,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 681,
+      "name": "Kinderopvang PUUR",
+      "latitude": 51.517039,
+      "longitude": 4.774006,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 682,
+      "name": "Kinderopvang Pipa",
+      "latitude": 53.176374,
+      "longitude": 6.787711,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 683,
+      "name": "Kinderopvang Poespas",
+      "latitude": 51.992817,
+      "longitude": 5.980388,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 684,
+      "name": "Kinderopvang Poespas",
+      "latitude": 51.997137,
+      "longitude": 5.970745,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 685,
+      "name": "Kinderopvang Prins Vleermuis",
+      "latitude": 52.035331,
+      "longitude": 5.675905,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 686,
+      "name": "Kinderopvang Twins",
+      "latitude": 51.985183,
+      "longitude": 5.95939,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 687,
+      "name": "Kinderopvang Up",
+      "latitude": 52.032722,
+      "longitude": 4.306446,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 688,
+      "name": "Kinderopvang Westerdijk",
+      "latitude": 52.640974,
+      "longitude": 5.0549,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 689,
+      "name": "Kinderopvang Zonnehoekje",
+      "latitude": 52.637233,
+      "longitude": 4.775497,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 690,
+      "name": "Kinderopvang de Bloementuin",
+      "latitude": 51.511342,
+      "longitude": 3.615552,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 691,
+      "name": "Kinderopvang en BSO 't Goudvisje",
+      "latitude": 51.702284,
+      "longitude": 5.453164,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 692,
+      "name": "Kinderrijk",
+      "latitude": 52.356692,
+      "longitude": 4.945879,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 693,
+      "name": "Kindertuin",
+      "latitude": 51.597372,
+      "longitude": 5.225281,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 694,
+      "name": "Kindervilla Assendorp",
+      "latitude": 52.504613,
+      "longitude": 6.106934,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 695,
+      "name": "Kindividu",
+      "latitude": 52.656466,
+      "longitude": 4.798663,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 696,
+      "name": "Kion kinderopvang Op-Weg",
+      "latitude": 51.855837,
+      "longitude": 5.94202,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 697,
+      "name": "Kits Oonlie",
+      "latitude": 52.600156,
+      "longitude": 4.687242,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 698,
+      "name": "Klavertje 3",
+      "latitude": 53.229655,
+      "longitude": 6.568617,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 699,
+      "name": "Klavertje 4",
+      "latitude": 51.973426,
+      "longitude": 5.668241,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 700,
+      "name": "Klein & Co",
+      "latitude": 52.355253,
+      "longitude": 4.902039,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 701,
+      "name": "Klein & co",
+      "latitude": 52.381052,
+      "longitude": 4.877396,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 702,
+      "name": "Klein Alkmaar - Houtweg",
+      "latitude": 52.630678,
+      "longitude": 4.734549,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 703,
+      "name": "Klein is Groot",
+      "latitude": 52.072795,
+      "longitude": 4.272687,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 704,
+      "name": "Kleine Boemerang",
+      "latitude": 51.962292,
+      "longitude": 5.912734,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 705,
+      "name": "Kleinlab",
+      "latitude": 52.384888,
+      "longitude": 4.92302,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 706,
+      "name": "Kleinschalige kinderopvang 't Pippi Huis",
+      "latitude": 52.048797,
+      "longitude": 4.343783,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 707,
+      "name": "Klimop",
+      "latitude": 51.511412,
+      "longitude": 5.63986,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 708,
+      "name": "Klimop",
+      "latitude": 51.717888,
+      "longitude": 5.365917,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 709,
+      "name": "KluppluZ",
+      "latitude": 52.02506,
+      "longitude": 5.571121,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 710,
+      "name": "Knus Thuys West",
+      "latitude": 52.360418,
+      "longitude": 4.858813,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 711,
+      "name": "Knus Thuys Zuid",
+      "latitude": 52.344759,
+      "longitude": 4.891511,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 712,
+      "name": "Knutselkookclub",
+      "latitude": 52.399547,
+      "longitude": 4.644077,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 713,
+      "name": "Knutselkookclub",
+      "latitude": 52.399552,
+      "longitude": 4.636056,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 714,
+      "name": "Knutselkookclub",
+      "latitude": 52.400749,
+      "longitude": 4.631428,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 715,
+      "name": "Koala peuteropvang",
+      "latitude": 52.048719,
+      "longitude": 4.39478,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 716,
+      "name": "Kober Buitenschoolse opvang",
+      "latitude": 51.52455,
+      "longitude": 5.024511,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 717,
+      "name": "Kober Dribbel",
+      "latitude": 51.567422,
+      "longitude": 4.831409,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 718,
+      "name": "Kober kindcentrum De Stee",
+      "latitude": 51.61028,
+      "longitude": 4.825751,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 719,
+      "name": "Kober kindcentrum Ons Speelhonk & Ukkie",
+      "latitude": 51.446259,
+      "longitude": 4.926323,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 720,
+      "name": "Koek en Ei",
+      "latitude": 52.081204,
+      "longitude": 4.291944,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 721,
+      "name": "Koek en Ei",
+      "latitude": 52.081927,
+      "longitude": 4.288576,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 722,
+      "name": "KomKids IKC Vindingrijk",
+      "latitude": 51.937093,
+      "longitude": 4.230481,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 723,
+      "name": "Komkids & Ko",
+      "latitude": 51.915204,
+      "longitude": 4.400158,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 724,
+      "name": "Koningskind",
+      "latitude": 52.064403,
+      "longitude": 4.533918,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 725,
+      "name": "Koningskind Kinderopvang",
+      "latitude": 52.209338,
+      "longitude": 5.942046,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 726,
+      "name": "Koningskind kinderopvang Druten",
+      "latitude": 51.884133,
+      "longitude": 5.609719,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 727,
+      "name": "Koningskinderen",
+      "latitude": 52.28007,
+      "longitude": 5.158369,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 728,
+      "name": "Koppestok",
+      "latitude": 52.11001,
+      "longitude": 5.095337,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 729,
+      "name": "Korein",
+      "latitude": 51.427175,
+      "longitude": 5.496356,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 730,
+      "name": "Korein",
+      "latitude": 51.47618,
+      "longitude": 5.37674,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 731,
+      "name": "Korein De Ruimte",
+      "latitude": 51.52965,
+      "longitude": 5.485801,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 732,
+      "name": "Korein Keizerin Marialaan",
+      "latitude": 51.489202,
+      "longitude": 5.656053,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 733,
+      "name": "Korein Keverberg",
+      "latitude": 51.418015,
+      "longitude": 5.440605,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 734,
+      "name": "Korein Kinderplein",
+      "latitude": 51.437835,
+      "longitude": 5.439411,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 735,
+      "name": "Korein Kinderplein",
+      "latitude": 51.439968,
+      "longitude": 5.454208,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 736,
+      "name": "Korein Kinderplein",
+      "latitude": 51.446033,
+      "longitude": 5.47231,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 737,
+      "name": "Korenmolen",
+      "latitude": 52.076181,
+      "longitude": 4.553408,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 738,
+      "name": "KrisKras",
+      "latitude": 52.144434,
+      "longitude": 5.385307,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 739,
+      "name": "KrisjKrasjKresj",
+      "latitude": 51.56806,
+      "longitude": 5.07791,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 740,
+      "name": "Kriskras",
+      "latitude": 52.361604,
+      "longitude": 6.38072,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 741,
+      "name": "Krullenbol - SKS Alles Kids",
+      "latitude": 51.833791,
+      "longitude": 4.341364,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 742,
+      "name": "Krullevaar",
+      "latitude": 51.891607,
+      "longitude": 5.087144,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 743,
+      "name": "LEUK In de Wolken",
+      "latitude": 52.03878,
+      "longitude": 4.365186,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 744,
+      "name": "Le Petit",
+      "latitude": 52.050692,
+      "longitude": 4.493815,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 745,
+      "name": "Les Petits kinderopvang",
+      "latitude": 52.402342,
+      "longitude": 4.617569,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 746,
+      "name": "Levvel",
+      "latitude": 52.51621,
+      "longitude": 4.964777,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 747,
+      "name": "Liefdevol",
+      "latitude": 52.078359,
+      "longitude": 4.29195,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 748,
+      "name": "Liefjes",
+      "latitude": 52.07072,
+      "longitude": 4.275736,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 749,
+      "name": "Lila's BSO Plaats",
+      "latitude": 52.51928,
+      "longitude": 5.484474,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 750,
+      "name": "Lilalola",
+      "latitude": 53.199235,
+      "longitude": 6.579093,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 751,
+      "name": "Little Jungle",
+      "latitude": 51.415389,
+      "longitude": 5.439527,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 752,
+      "name": "Lorena's",
+      "latitude": 52.068018,
+      "longitude": 4.28208,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 753,
+      "name": "Luna buitenschoolse opvang",
+      "latitude": 52.069907,
+      "longitude": 5.132846,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 754,
+      "name": "LuuXX",
+      "latitude": 51.43611,
+      "longitude": 5.47419,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 755,
+      "name": "Luuk DAK",
+      "latitude": 52.075602,
+      "longitude": 4.366809,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 756,
+      "name": "MIK",
+      "latitude": 50.837068,
+      "longitude": 5.707439,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 757,
+      "name": "Mamalief",
+      "latitude": 52.064728,
+      "longitude": 4.533152,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 758,
+      "name": "Mamma Krokodil",
+      "latitude": 51.486811,
+      "longitude": 5.448707,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 759,
+      "name": "Marie in de Bocht",
+      "latitude": 52.014279,
+      "longitude": 4.367537,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 760,
+      "name": "Marijntje",
+      "latitude": 52.087334,
+      "longitude": 5.120528,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 761,
+      "name": "Marijtje Doets",
+      "latitude": 52.399647,
+      "longitude": 5.292626,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 762,
+      "name": "Mariënberg BSO",
+      "latitude": 51.982906,
+      "longitude": 5.853957,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 763,
+      "name": "MasonRakkers",
+      "latitude": 52.111172,
+      "longitude": 4.292923,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 764,
+      "name": "Meerheide",
+      "latitude": 51.395836,
+      "longitude": 5.491552,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 765,
+      "name": "Meneertje Koekepeertje",
+      "latitude": 52.067249,
+      "longitude": 4.254579,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 766,
+      "name": "Merlijn",
+      "latitude": 51.967859,
+      "longitude": 5.91592,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 767,
+      "name": "MiCasa Vlierboom",
+      "latitude": 52.067732,
+      "longitude": 4.25583,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 768,
+      "name": "Mikado",
+      "latitude": 52.107732,
+      "longitude": 5.117572,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 769,
+      "name": "Mini & Maxi",
+      "latitude": 51.935327,
+      "longitude": 4.55271,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 770,
+      "name": "Mini's Kinderdagpaleis Zaandam B.V.",
+      "latitude": 52.43386,
+      "longitude": 4.84037,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 771,
+      "name": "MiniKeet",
+      "latitude": 52.234465,
+      "longitude": 5.364307,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 772,
+      "name": "Minies Kinderdagverblijf",
+      "latitude": 51.55166,
+      "longitude": 5.062324,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 773,
+      "name": "Minikidz",
+      "latitude": 52.346738,
+      "longitude": 4.937425,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 774,
+      "name": "MonkeyTown",
+      "latitude": 53.206027,
+      "longitude": 6.557252,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 775,
+      "name": "Montessori kinderopvang Waterberg",
+      "latitude": 52.008671,
+      "longitude": 5.915441,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 776,
+      "name": "More for Kids",
+      "latitude": 52.368436,
+      "longitude": 6.477657,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 777,
+      "name": "Mundo - De Rank",
+      "latitude": 51.929411,
+      "longitude": 4.379817,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 778,
+      "name": "Mundo Kinderdagverblijf Puur",
+      "latitude": 51.918022,
+      "longitude": 4.386832,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 779,
+      "name": "Mus en mees",
+      "latitude": 52.107995,
+      "longitude": 5.114977,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 780,
+      "name": "Nannies",
+      "latitude": 51.811423,
+      "longitude": 5.834831,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 781,
+      "name": "Nannies",
+      "latitude": 51.812712,
+      "longitude": 5.868729,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 782,
+      "name": "Nannies",
+      "latitude": 51.816306,
+      "longitude": 5.82959,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 783,
+      "name": "Natuur BSO",
+      "latitude": 51.868205,
+      "longitude": 4.651469,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 784,
+      "name": "Nella Della",
+      "latitude": 52.365577,
+      "longitude": 4.855395,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 785,
+      "name": "Nemo",
+      "latitude": 51.412304,
+      "longitude": 5.449304,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 786,
+      "name": "Nijntje",
+      "latitude": 52.105688,
+      "longitude": 5.118536,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 787,
+      "name": "Nikki Rakkers",
+      "latitude": 52.111473,
+      "longitude": 4.29422,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 788,
+      "name": "Nina Dak",
+      "latitude": 52.091653,
+      "longitude": 4.359632,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 789,
+      "name": "Njoy",
+      "latitude": 52.066603,
+      "longitude": 4.482662,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 790,
+      "name": "Norlandia",
+      "latitude": 52.076001,
+      "longitude": 4.27014,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 791,
+      "name": "Norlandia BSO Het Spoor",
+      "latitude": 51.564687,
+      "longitude": 5.086741,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 792,
+      "name": "Norlandia Kinderopvang",
+      "latitude": 51.905038,
+      "longitude": 4.50165,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 793,
+      "name": "Noëlle's Boefjes",
+      "latitude": 51.657052,
+      "longitude": 4.810351,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 794,
+      "name": "Nummereen Bladel",
+      "latitude": 51.370515,
+      "longitude": 5.223902,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 795,
+      "name": "Nummereen Kinderopvang",
+      "latitude": 51.366778,
+      "longitude": 5.221637,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 796,
+      "name": "ONS Stekkie",
+      "latitude": 51.899484,
+      "longitude": 4.74556,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 797,
+      "name": "OenKi kindercentrum",
+      "latitude": 53.00687,
+      "longitude": 6.7641,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 798,
+      "name": "Okidoki",
+      "latitude": 52.002798,
+      "longitude": 4.170514,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 799,
+      "name": "Olke Bolke",
+      "latitude": 52.864228,
+      "longitude": 6.516111,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 800,
+      "name": "Olleke Bolleke",
+      "latitude": 52.676061,
+      "longitude": 4.896484,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 801,
+      "name": "Olles Huis",
+      "latitude": 52.061139,
+      "longitude": 4.254835,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 802,
+      "name": "Onder de Pannen",
+      "latitude": 51.639053,
+      "longitude": 5.287155,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 803,
+      "name": "Ons Marieke",
+      "latitude": 51.431934,
+      "longitude": 4.380343,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 804,
+      "name": "Ons kindercentrum",
+      "latitude": 51.949638,
+      "longitude": 5.216253,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 805,
+      "name": "Op 't Erf",
+      "latitude": 51.51345,
+      "longitude": 5.374981,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 806,
+      "name": "Op Stoom",
+      "latitude": 51.580869,
+      "longitude": 4.756844,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 807,
+      "name": "Op Stoom",
+      "latitude": 52.40802,
+      "longitude": 4.647484,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 808,
+      "name": "Op Stoom BSO en KDV",
+      "latitude": 51.592915,
+      "longitude": 4.862148,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 809,
+      "name": "Op de Step",
+      "latitude": 52.504416,
+      "longitude": 4.959809,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 810,
+      "name": "Opvang Aquamarijn",
+      "latitude": 52.063601,
+      "longitude": 4.250272,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 811,
+      "name": "Oqido",
+      "latitude": 52.099585,
+      "longitude": 6.637958,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 812,
+      "name": "Oranje Horizon",
+      "latitude": 52.106893,
+      "longitude": 5.118821,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 813,
+      "name": "Ouders Wensch",
+      "latitude": 52.052273,
+      "longitude": 4.697567,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 814,
+      "name": "PC KDV Dukkie",
+      "latitude": 52.406524,
+      "longitude": 6.625836,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 815,
+      "name": "PSG Prins Floris Zuidkil",
+      "latitude": 51.832023,
+      "longitude": 4.724966,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 816,
+      "name": "PSZ de Rakkertjes",
+      "latitude": 51.714031,
+      "longitude": 4.288888,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 817,
+      "name": "Panta Rhei",
+      "latitude": 51.552923,
+      "longitude": 5.097295,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 818,
+      "name": "Panta Rhei",
+      "latitude": 52.144775,
+      "longitude": 5.35332,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 819,
+      "name": "Parbédie Kinderopvang",
+      "latitude": 52.262574,
+      "longitude": 6.781333,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 820,
+      "name": "Partou",
+      "latitude": 51.43332,
+      "longitude": 5.403033,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 821,
+      "name": "Partou",
+      "latitude": 51.5752,
+      "longitude": 5.130292,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 822,
+      "name": "Partou",
+      "latitude": 51.617751,
+      "longitude": 4.832381,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 823,
+      "name": "Partou",
+      "latitude": 51.6271,
+      "longitude": 4.849704,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 824,
+      "name": "Partou",
+      "latitude": 51.652509,
+      "longitude": 5.283672,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 825,
+      "name": "Partou",
+      "latitude": 51.667178,
+      "longitude": 5.278681,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 826,
+      "name": "Partou",
+      "latitude": 51.947338,
+      "longitude": 5.858213,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 827,
+      "name": "Partou",
+      "latitude": 52.028093,
+      "longitude": 5.179018,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 828,
+      "name": "Partou",
+      "latitude": 52.06322,
+      "longitude": 4.404143,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 829,
+      "name": "Partou",
+      "latitude": 52.073853,
+      "longitude": 4.31425,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 830,
+      "name": "Partou",
+      "latitude": 52.075837,
+      "longitude": 4.343246,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 831,
+      "name": "Partou",
+      "latitude": 52.080159,
+      "longitude": 4.403715,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 832,
+      "name": "Partou",
+      "latitude": 52.080762,
+      "longitude": 4.340489,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 833,
+      "name": "Partou",
+      "latitude": 52.081536,
+      "longitude": 4.384973,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 834,
+      "name": "Partou",
+      "latitude": 52.081656,
+      "longitude": 4.387371,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 835,
+      "name": "Partou",
+      "latitude": 52.082385,
+      "longitude": 4.304944,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 836,
+      "name": "Partou",
+      "latitude": 52.082946,
+      "longitude": 4.341219,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 837,
+      "name": "Partou",
+      "latitude": 52.090612,
+      "longitude": 4.388925,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 838,
+      "name": "Partou",
+      "latitude": 52.092396,
+      "longitude": 4.38772,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 839,
+      "name": "Partou",
+      "latitude": 52.109057,
+      "longitude": 5.10199,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 840,
+      "name": "Partou",
+      "latitude": 52.193229,
+      "longitude": 5.422461,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 841,
+      "name": "Partou",
+      "latitude": 52.238592,
+      "longitude": 4.441442,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 842,
+      "name": "Partou",
+      "latitude": 52.298235,
+      "longitude": 4.964628,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 843,
+      "name": "Partou",
+      "latitude": 52.315635,
+      "longitude": 4.849634,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 844,
+      "name": "Partou",
+      "latitude": 52.331798,
+      "longitude": 4.864808,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 845,
+      "name": "Partou",
+      "latitude": 52.357112,
+      "longitude": 4.915849,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 846,
+      "name": "Partou",
+      "latitude": 52.361047,
+      "longitude": 4.901311,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 847,
+      "name": "Partou",
+      "latitude": 52.366162,
+      "longitude": 4.928403,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 848,
+      "name": "Partou",
+      "latitude": 52.371955,
+      "longitude": 4.86939,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 849,
+      "name": "Partou",
+      "latitude": 52.514575,
+      "longitude": 6.121412,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 850,
+      "name": "Partou",
+      "latitude": 53.244758,
+      "longitude": 6.535439,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 851,
+      "name": "Partou Aan Zee",
+      "latitude": 52.38497,
+      "longitude": 4.610806,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 852,
+      "name": "Partou Artemisstraat 541",
+      "latitude": 52.142969,
+      "longitude": 4.48967,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 853,
+      "name": "Partou BSO",
+      "latitude": 51.926626,
+      "longitude": 4.464178,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 854,
+      "name": "Partou Beer Balou",
+      "latitude": 51.832217,
+      "longitude": 4.320485,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 855,
+      "name": "Partou Boerenbende",
+      "latitude": 51.877969,
+      "longitude": 5.593255,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 856,
+      "name": "Partou Buitenspel",
+      "latitude": 52.050067,
+      "longitude": 4.322204,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 857,
+      "name": "Partou De Curtis",
+      "latitude": 52.022092,
+      "longitude": 5.239095,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 858,
+      "name": "Partou Dorpsstraat",
+      "latitude": 52.431315,
+      "longitude": 4.91375,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 859,
+      "name": "Partou Gouden Koets",
+      "latitude": 52.357142,
+      "longitude": 4.897305,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 860,
+      "name": "Partou Grote Beer",
+      "latitude": 51.841101,
+      "longitude": 4.323421,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 861,
+      "name": "Partou Het Kasteeltje",
+      "latitude": 52.025416,
+      "longitude": 5.028514,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 862,
+      "name": "Partou Jungle",
+      "latitude": 51.8322,
+      "longitude": 4.320166,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 863,
+      "name": "Partou Kinderopvang",
+      "latitude": 52.087338,
+      "longitude": 5.138413,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 864,
+      "name": "Partou Kinderopvang",
+      "latitude": 52.087641,
+      "longitude": 5.113505,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 865,
+      "name": "Partou Kinderopvang",
+      "latitude": 52.089772,
+      "longitude": 5.100239,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 866,
+      "name": "Partou Kinderopvang",
+      "latitude": 52.104056,
+      "longitude": 5.104898,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 867,
+      "name": "Partou Kinderopvang",
+      "latitude": 52.110378,
+      "longitude": 5.029164,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 868,
+      "name": "Partou Klaverblad",
+      "latitude": 52.319705,
+      "longitude": 4.949263,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 869,
+      "name": "Partou Lieve Gerritje",
+      "latitude": 51.66883,
+      "longitude": 5.375971,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 870,
+      "name": "Partou Olle",
+      "latitude": 52.010403,
+      "longitude": 5.040168,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 871,
+      "name": "Partou Princenhage",
+      "latitude": 51.577778,
+      "longitude": 4.740395,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 872,
+      "name": "Partou Runners",
+      "latitude": 52.08437,
+      "longitude": 4.382923,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 873,
+      "name": "Partou Sonnenburgh",
+      "latitude": 52.064588,
+      "longitude": 4.358012,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 874,
+      "name": "Partou Sytwendepark",
+      "latitude": 52.081627,
+      "longitude": 4.379923,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 875,
+      "name": "Partou Van Karnebeekstraat 6",
+      "latitude": 52.508576,
+      "longitude": 6.095375,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 876,
+      "name": "Partou Villa 60",
+      "latitude": 52.161772,
+      "longitude": 6.23211,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 877,
+      "name": "Partou Westeinde",
+      "latitude": 52.244401,
+      "longitude": 4.455917,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 878,
+      "name": "Partou Zonnedauw",
+      "latitude": 52.432476,
+      "longitude": 4.916809,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 879,
+      "name": "Partou de Luchtbalon",
+      "latitude": 52.062923,
+      "longitude": 5.122338,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 880,
+      "name": "Partou de Runneboom",
+      "latitude": 52.134427,
+      "longitude": 6.228583,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 881,
+      "name": "Partou kinderdagverblijf en buitenschoolse opvang",
+      "latitude": 52.224953,
+      "longitude": 5.983918,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 882,
+      "name": "Partou kinderopvang",
+      "latitude": 51.934741,
+      "longitude": 4.272339,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 883,
+      "name": "Partou kinderopvang",
+      "latitude": 52.091493,
+      "longitude": 4.306437,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 884,
+      "name": "Partou kinderopvang",
+      "latitude": 52.319546,
+      "longitude": 5.543037,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 885,
+      "name": "Partou kinderopvang",
+      "latitude": 52.45417,
+      "longitude": 4.626831,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 886,
+      "name": "Paspartoe",
+      "latitude": 52.234147,
+      "longitude": 4.443605,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 887,
+      "name": "Passe Partout",
+      "latitude": 52.038812,
+      "longitude": 4.486707,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 888,
+      "name": "Petito's Kindercentrum",
+      "latitude": 51.620528,
+      "longitude": 4.938692,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 889,
+      "name": "Peutercentrum Zoeff!",
+      "latitude": 52.452016,
+      "longitude": 4.599524,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 890,
+      "name": "Peutercrèche Zuiderkwartier",
+      "latitude": 51.548665,
+      "longitude": 5.079377,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 891,
+      "name": "Peutergroep Duimelotje",
+      "latitude": 52.063397,
+      "longitude": 4.918358,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 892,
+      "name": "Peutergroep Op Stap",
+      "latitude": 52.612999,
+      "longitude": 6.183392,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 893,
+      "name": "Peuterhof",
+      "latitude": 52.090715,
+      "longitude": 4.387722,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 894,
+      "name": "Peuterleerplek 't Leeuwerikje",
+      "latitude": 52.091409,
+      "longitude": 4.361475,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 895,
+      "name": "Peuterleerplek De Kleine Linde",
+      "latitude": 52.072642,
+      "longitude": 4.269647,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 896,
+      "name": "Peuterleerplek Diamant",
+      "latitude": 52.094161,
+      "longitude": 4.356171,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 897,
+      "name": "Peuteropvang 't Boterbloempje",
+      "latitude": 52.493368,
+      "longitude": 4.951096,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 898,
+      "name": "Peuteropvang 't Leeuwtje",
+      "latitude": 52.104421,
+      "longitude": 5.116226,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 899,
+      "name": "Peuteropvang BijdeHandjes",
+      "latitude": 52.001482,
+      "longitude": 5.665553,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 900,
+      "name": "Peuteropvang Binckie",
+      "latitude": 52.248582,
+      "longitude": 5.231297,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 901,
+      "name": "Peuteropvang De Velduil",
+      "latitude": 52.03469,
+      "longitude": 5.179552,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 902,
+      "name": "Peuteropvang Het Mosterdzaadje",
+      "latitude": 52.514446,
+      "longitude": 4.965171,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 903,
+      "name": "Peuteropvang KOSMO",
+      "latitude": 51.944349,
+      "longitude": 6.620194,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 904,
+      "name": "Peuteropvang Koters",
+      "latitude": 52.088839,
+      "longitude": 4.912992,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 905,
+      "name": "Peuteropvang Ransdaal",
+      "latitude": 50.863602,
+      "longitude": 5.893285,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 906,
+      "name": "Peuteropvang Spijkerhoek",
+      "latitude": 51.855578,
+      "longitude": 5.010034,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 907,
+      "name": "Peuterspeelschool Jules Verne",
+      "latitude": 52.64078,
+      "longitude": 5.037486,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 908,
+      "name": "Peuterspeelzaal",
+      "latitude": 51.971933,
+      "longitude": 4.559098,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 909,
+      "name": "Peuterspeelzaal 'De Börkerdies'",
+      "latitude": 52.854314,
+      "longitude": 6.604849,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 910,
+      "name": "Peuterspeelzaal De Ballon",
+      "latitude": 52.072553,
+      "longitude": 4.345302,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 911,
+      "name": "Peuterspeelzaal De Lusthof",
+      "latitude": 52.068683,
+      "longitude": 4.359178,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 912,
+      "name": "Peuterspeelzaal Het Kleine Avontuur",
+      "latitude": 52.401456,
+      "longitude": 5.321244,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 913,
+      "name": "Peuterspeelzaal Huppel-Inn",
+      "latitude": 51.959716,
+      "longitude": 6.211642,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 914,
+      "name": "Peuterspeelzaal Overwhere",
+      "latitude": 52.516116,
+      "longitude": 4.96115,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 915,
+      "name": "Peuterspeelzaal Pinkeltje I",
+      "latitude": 52.507836,
+      "longitude": 4.984979,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 916,
+      "name": "Peuterspeelzaal Speeldoos",
+      "latitude": 52.217231,
+      "longitude": 5.13663,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 917,
+      "name": "Peuterspeelzaal de Vlasakkers",
+      "latitude": 52.517005,
+      "longitude": 6.10892,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 918,
+      "name": "Peuterspeelzaal pinkeltje II",
+      "latitude": 52.499616,
+      "longitude": 4.977351,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 919,
+      "name": "Picobello",
+      "latitude": 52.628276,
+      "longitude": 4.750047,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 920,
+      "name": "Pien Dak",
+      "latitude": 52.088551,
+      "longitude": 4.340816,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 921,
+      "name": "Pietje Bell",
+      "latitude": 52.106631,
+      "longitude": 4.99709,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 922,
+      "name": "Pietje Puk",
+      "latitude": 52.114714,
+      "longitude": 5.014012,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 923,
+      "name": "Pimmetje",
+      "latitude": 52.169047,
+      "longitude": 4.4815,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 924,
+      "name": "Pindakaas",
+      "latitude": 52.041246,
+      "longitude": 6.607222,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 925,
+      "name": "Pippeloentje",
+      "latitude": 52.121994,
+      "longitude": 6.021398,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 926,
+      "name": "Piratenschip",
+      "latitude": 52.078589,
+      "longitude": 4.744969,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 927,
+      "name": "Pluizenbolletje",
+      "latitude": 52.342757,
+      "longitude": 4.892472,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 928,
+      "name": "Polderpioniers",
+      "latitude": 51.848331,
+      "longitude": 4.401738,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 929,
+      "name": "Pommetje",
+      "latitude": 52.203961,
+      "longitude": 5.994581,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 930,
+      "name": "Poppedeintje",
+      "latitude": 52.390968,
+      "longitude": 4.941371,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 931,
+      "name": "Potje Knor",
+      "latitude": 51.429941,
+      "longitude": 5.548541,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 932,
+      "name": "Prins Mads",
+      "latitude": 52.388443,
+      "longitude": 4.886051,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 933,
+      "name": "Prins vleermuis",
+      "latitude": 51.982786,
+      "longitude": 5.665156,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 934,
+      "name": "Prinses Irene",
+      "latitude": 52.380417,
+      "longitude": 4.878634,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 935,
+      "name": "Prinses Juliana Kinderdagverblijf",
+      "latitude": 52.37472,
+      "longitude": 4.898502,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 936,
+      "name": "Prokino De Wilgenburg",
+      "latitude": 52.533401,
+      "longitude": 6.101589,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 937,
+      "name": "Prokino Kwakelbinkie",
+      "latitude": 51.98241,
+      "longitude": 4.462628,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 938,
+      "name": "Puck&Co",
+      "latitude": 52.003551,
+      "longitude": 5.959497,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 939,
+      "name": "Puck&Co Doesburg",
+      "latitude": 52.012828,
+      "longitude": 6.137523,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 940,
+      "name": "Puur Natuur",
+      "latitude": 51.283723,
+      "longitude": 6.076793,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 941,
+      "name": "RIANT",
+      "latitude": 52.347468,
+      "longitude": 5.153236,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 942,
+      "name": "Regenboog",
+      "latitude": 51.885292,
+      "longitude": 4.605321,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 943,
+      "name": "Right at Home Kinderopvang & BSO",
+      "latitude": 52.378302,
+      "longitude": 5.247531,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 944,
+      "name": "Rijnvliet",
+      "latitude": 52.080177,
+      "longitude": 5.068169,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 945,
+      "name": "RivaKids",
+      "latitude": 51.960658,
+      "longitude": 5.432398,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 946,
+      "name": "Rivierenland",
+      "latitude": 51.873513,
+      "longitude": 5.289685,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 947,
+      "name": "Road 2 School",
+      "latitude": 52.074575,
+      "longitude": 4.282577,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 948,
+      "name": "Robin Dak",
+      "latitude": 52.094091,
+      "longitude": 4.361566,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 949,
+      "name": "Rozentuin",
+      "latitude": 52.380476,
+      "longitude": 4.602107,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 950,
+      "name": "SDK Buitenschoolse Opvang Poolberen",
+      "latitude": 51.789707,
+      "longitude": 4.682822,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 951,
+      "name": "SDK Wilgenkroon",
+      "latitude": 51.771224,
+      "longitude": 4.659528,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 952,
+      "name": "SEVA Den Haag",
+      "latitude": 52.063085,
+      "longitude": 4.30549,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 953,
+      "name": "SKA",
+      "latitude": 52.195993,
+      "longitude": 5.387742,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 954,
+      "name": "SKH Bazzeroet",
+      "latitude": 52.64526,
+      "longitude": 5.038114,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 955,
+      "name": "SKID kinderopvang",
+      "latitude": 53.005207,
+      "longitude": 6.761147,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 956,
+      "name": "SKPC",
+      "latitude": 51.948991,
+      "longitude": 5.228847,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 957,
+      "name": "SKS De Kleine Klinker",
+      "latitude": 51.833468,
+      "longitude": 4.313619,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 958,
+      "name": "SKSG Liekelei",
+      "latitude": 53.159503,
+      "longitude": 6.378356,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 959,
+      "name": "SKSG Merdeka",
+      "latitude": 53.233923,
+      "longitude": 6.574505,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 960,
+      "name": "SKSG Mirakel/Barabas",
+      "latitude": 53.221741,
+      "longitude": 6.580982,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 961,
+      "name": "SKSG Naranja",
+      "latitude": 53.216154,
+      "longitude": 6.548868,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 962,
+      "name": "SKSG Toverlantaarn Tummetot",
+      "latitude": 53.205383,
+      "longitude": 6.564667,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 963,
+      "name": "SKSG Waterrijk",
+      "latitude": 53.241628,
+      "longitude": 6.520717,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 964,
+      "name": "Saffana's Kindercentrum",
+      "latitude": 52.400394,
+      "longitude": 5.307726,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 965,
+      "name": "Saffier",
+      "latitude": 52.010923,
+      "longitude": 4.338186,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 966,
+      "name": "Sam & Kids",
+      "latitude": 52.322017,
+      "longitude": 4.959881,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 967,
+      "name": "Sam Sam",
+      "latitude": 52.265032,
+      "longitude": 4.76926,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 968,
+      "name": "Sam&ko",
+      "latitude": 52.256541,
+      "longitude": 6.16431,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 969,
+      "name": "SamSam",
+      "latitude": 51.912149,
+      "longitude": 5.660155,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 970,
+      "name": "Samsam",
+      "latitude": 52.196825,
+      "longitude": 5.985545,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 971,
+      "name": "Schepelweyen",
+      "latitude": 51.361381,
+      "longitude": 5.432112,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 972,
+      "name": "Scouting BSO Vlaardingen",
+      "latitude": 51.923916,
+      "longitude": 4.338521,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 973,
+      "name": "Siemenotje",
+      "latitude": 51.826791,
+      "longitude": 4.4788,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 974,
+      "name": "Silvester",
+      "latitude": 52.141467,
+      "longitude": 4.4788,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 975,
+      "name": "Sint Jan",
+      "latitude": 51.355107,
+      "longitude": 5.450438,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 976,
+      "name": "Ska-kindcentrum",
+      "latitude": 52.172495,
+      "longitude": 5.386127,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 977,
+      "name": "Skar IKC de Regenboog",
+      "latitude": 51.8919,
+      "longitude": 5.889477,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 978,
+      "name": "Skar Zwanebloemlaan",
+      "latitude": 51.963041,
+      "longitude": 5.912885,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 979,
+      "name": "Skik",
+      "latitude": 52.961746,
+      "longitude": 5.800639,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 980,
+      "name": "Skik",
+      "latitude": 52.962826,
+      "longitude": 5.800244,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 981,
+      "name": "Skole Kids",
+      "latitude": 52.211459,
+      "longitude": 5.951011,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 982,
+      "name": "Small Ones",
+      "latitude": 52.352943,
+      "longitude": 4.8935,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 983,
+      "name": "Small Society",
+      "latitude": 52.352346,
+      "longitude": 5.001259,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 984,
+      "name": "Smallsteps",
+      "latitude": 52.292831,
+      "longitude": 4.900821,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 985,
+      "name": "Smallsteps De Groene Dijk",
+      "latitude": 52.748027,
+      "longitude": 5.220715,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 986,
+      "name": "Smallsteps Serpentine",
+      "latitude": 52.296001,
+      "longitude": 6.806277,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 987,
+      "name": "Smallsteps Toverkruid",
+      "latitude": 52.327419,
+      "longitude": 4.937908,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 988,
+      "name": "Solidoe Triade",
+      "latitude": 52.257325,
+      "longitude": 4.764723,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 989,
+      "name": "Speel-Inn 't Kinderwoud",
+      "latitude": 52.341881,
+      "longitude": 4.971531,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 990,
+      "name": "Speelboot",
+      "latitude": 51.889477,
+      "longitude": 5.082862,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 991,
+      "name": "Speelhuis De Kleuterkabouter",
+      "latitude": 52.070399,
+      "longitude": 4.515695,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 992,
+      "name": "Speelotheek Hoograven",
+      "latitude": 52.060469,
+      "longitude": 5.114745,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 993,
+      "name": "Speelzaal de Blokkendoos",
+      "latitude": 52.499413,
+      "longitude": 4.754613,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 994,
+      "name": "Spel & Groei Kinderopvang",
+      "latitude": 52.057403,
+      "longitude": 4.318068,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 995,
+      "name": "Spelen buitenshuis",
+      "latitude": 52.345745,
+      "longitude": 4.806484,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 996,
+      "name": "Spetter",
+      "latitude": 52.721255,
+      "longitude": 6.078427,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 997,
+      "name": "Sport BSO Kidz2sport",
+      "latitude": 52.061055,
+      "longitude": 4.295333,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 998,
+      "name": "Sport en spel NSO Leeuwenbergh \"Simba\"",
+      "latitude": 52.058265,
+      "longitude": 4.360012,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 999,
+      "name": "Sportstuif",
+      "latitude": 51.603087,
+      "longitude": 5.447935,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1000,
+      "name": "Sprankel!",
+      "latitude": 52.444119,
+      "longitude": 6.337251,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1001,
+      "name": "Stadsoppas",
+      "latitude": 53.218249,
+      "longitude": 6.5634,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1002,
+      "name": "Stepping Stone",
+      "latitude": 52.072902,
+      "longitude": 4.26144,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1003,
+      "name": "Stepping Stone Preschool",
+      "latitude": 52.072975,
+      "longitude": 4.262465,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1004,
+      "name": "Stevinrakkers",
+      "latitude": 52.111487,
+      "longitude": 4.294247,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1005,
+      "name": "Stichting Kinderopvang Hoorn",
+      "latitude": 52.638318,
+      "longitude": 5.034945,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1006,
+      "name": "Stichting Kinderopvang Oud Gastel",
+      "latitude": 51.586917,
+      "longitude": 4.454544,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1007,
+      "name": "Stip en Stap",
+      "latitude": 51.874665,
+      "longitude": 5.513684,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1008,
+      "name": "Stoerwoud",
+      "latitude": 52.088292,
+      "longitude": 5.124607,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1009,
+      "name": "Stoerwoud",
+      "latitude": 52.088804,
+      "longitude": 5.124716,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1010,
+      "name": "Studio Kakelbont",
+      "latitude": 52.238049,
+      "longitude": 5.17024,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1011,
+      "name": "Stèphanrakkers",
+      "latitude": 52.11119,
+      "longitude": 4.293002,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1012,
+      "name": "Talentencollege Het Dierenrijk",
+      "latitude": 51.901869,
+      "longitude": 4.505244,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1013,
+      "name": "Tamara",
+      "latitude": 51.626351,
+      "longitude": 5.414644,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1014,
+      "name": "Tante Suus",
+      "latitude": 52.046771,
+      "longitude": 4.514785,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1015,
+      "name": "Teddy Kids",
+      "latitude": 52.150042,
+      "longitude": 4.495885,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1016,
+      "name": "The Clown club",
+      "latitude": 52.144234,
+      "longitude": 4.397364,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1017,
+      "name": "The Willows",
+      "latitude": 52.055968,
+      "longitude": 4.403179,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1018,
+      "name": "The little castle",
+      "latitude": 52.07202,
+      "longitude": 4.353766,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1019,
+      "name": "Thema BSO Buitenspel",
+      "latitude": 52.127436,
+      "longitude": 4.676461,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1020,
+      "name": "Three Little Ships / Lighthouse",
+      "latitude": 52.080631,
+      "longitude": 4.338275,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1021,
+      "name": "Thuizbij",
+      "latitude": 52.238424,
+      "longitude": 5.118465,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1022,
+      "name": "Tiener BSO",
+      "latitude": 51.535719,
+      "longitude": 5.627157,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1023,
+      "name": "Tierelier",
+      "latitude": 51.569722,
+      "longitude": 5.145272,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1024,
+      "name": "Tinkerbell",
+      "latitude": 52.051941,
+      "longitude": 4.502308,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1025,
+      "name": "Tirza Dak",
+      "latitude": 52.06599,
+      "longitude": 4.289994,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1026,
+      "name": "Toermalijntjes",
+      "latitude": 52.073606,
+      "longitude": 4.281409,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1027,
+      "name": "Topkids",
+      "latitude": 52.069335,
+      "longitude": 5.195855,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1028,
+      "name": "Topkids",
+      "latitude": 52.110675,
+      "longitude": 5.085606,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1029,
+      "name": "Topkids",
+      "latitude": 52.167609,
+      "longitude": 5.307819,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1030,
+      "name": "Topkids",
+      "latitude": 52.38894,
+      "longitude": 5.175548,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1031,
+      "name": "TremaKids",
+      "latitude": 51.734928,
+      "longitude": 4.901496,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1032,
+      "name": "Triodus Dikkie Dik",
+      "latitude": 52.077851,
+      "longitude": 4.324013,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1033,
+      "name": "Triodus Ezeltje",
+      "latitude": 52.08457,
+      "longitude": 4.328487,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1034,
+      "name": "Trippel Trappel",
+      "latitude": 51.878705,
+      "longitude": 4.949764,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1035,
+      "name": "True Colors Delft",
+      "latitude": 52.002678,
+      "longitude": 4.370742,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1036,
+      "name": "Ukkenburg",
+      "latitude": 52.146013,
+      "longitude": 5.377811,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1037,
+      "name": "Ukkepuk",
+      "latitude": 52.062207,
+      "longitude": 4.353578,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1038,
+      "name": "UniKidz Park",
+      "latitude": 52.34954,
+      "longitude": 5.009076,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1039,
+      "name": "UniKidz ParkHoek",
+      "latitude": 52.349317,
+      "longitude": 5.009519,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1040,
+      "name": "Unikidz Staatslieden",
+      "latitude": 52.379839,
+      "longitude": 4.874471,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1041,
+      "name": "Up",
+      "latitude": 52.038939,
+      "longitude": 4.364987,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1042,
+      "name": "Us Stekje",
+      "latitude": 53.135845,
+      "longitude": 6.14001,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1043,
+      "name": "VIPKids",
+      "latitude": 52.008896,
+      "longitude": 4.716152,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1044,
+      "name": "VIPKids",
+      "latitude": 52.011758,
+      "longitude": 4.743504,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1045,
+      "name": "VIPKids",
+      "latitude": 52.073968,
+      "longitude": 4.661607,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1046,
+      "name": "Van Harte",
+      "latitude": 51.323779,
+      "longitude": 5.99199,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1047,
+      "name": "Van Harte Kinderopvang",
+      "latitude": 51.334554,
+      "longitude": 6.130778,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1048,
+      "name": "Verloskundigenpraktijk Perspectief Stad Midden",
+      "latitude": 52.382231,
+      "longitude": 5.197893,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1049,
+      "name": "Villa Bambini",
+      "latitude": 52.317458,
+      "longitude": 4.857439,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1050,
+      "name": "Villa Bloom",
+      "latitude": 52.082849,
+      "longitude": 4.273933,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1051,
+      "name": "Villa Oostwold",
+      "latitude": 53.20063,
+      "longitude": 6.43621,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1052,
+      "name": "Villa Vennep",
+      "latitude": 52.265305,
+      "longitude": 4.634336,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1053,
+      "name": "Villa Vivre",
+      "latitude": 51.521681,
+      "longitude": 5.057625,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1054,
+      "name": "Villa Vrolijk",
+      "latitude": 51.455417,
+      "longitude": 5.625246,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1055,
+      "name": "Vipkids",
+      "latitude": 52.384511,
+      "longitude": 4.873972,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1056,
+      "name": "Vivre Kinderthuiszorg",
+      "latitude": 51.515434,
+      "longitude": 5.060551,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1057,
+      "name": "Vlietkinderen",
+      "latitude": 52.061832,
+      "longitude": 4.353406,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1058,
+      "name": "Vlietkinderen",
+      "latitude": 52.069469,
+      "longitude": 4.406236,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1059,
+      "name": "Vlietkinderen - Trampoline",
+      "latitude": 52.100966,
+      "longitude": 4.401303,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1060,
+      "name": "Vlietkinderen Kindcentrum De Waterlelie",
+      "latitude": 52.095726,
+      "longitude": 4.397887,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1061,
+      "name": "Vlietkinderen Splash",
+      "latitude": 52.082509,
+      "longitude": 4.398366,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1062,
+      "name": "Vlietkinderen Stoer en Robuust",
+      "latitude": 52.081425,
+      "longitude": 4.37907,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1063,
+      "name": "Vlietkinderen Vijverhof",
+      "latitude": 52.077924,
+      "longitude": 4.399364,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1064,
+      "name": "Voorschool Kleine Gansjes",
+      "latitude": 52.389433,
+      "longitude": 4.950181,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1065,
+      "name": "Voorschool Van Ostadeschool",
+      "latitude": 52.066585,
+      "longitude": 4.30619,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1066,
+      "name": "Vrije Kids",
+      "latitude": 52.363616,
+      "longitude": 4.937109,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1067,
+      "name": "Waldorfhaus Toermalijn",
+      "latitude": 52.05454,
+      "longitude": 4.465691,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1068,
+      "name": "Wammes",
+      "latitude": 52.096141,
+      "longitude": 5.091709,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1069,
+      "name": "Waterloop",
+      "latitude": 51.309722,
+      "longitude": 5.335428,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1070,
+      "name": "Weijdewijs",
+      "latitude": 51.950934,
+      "longitude": 5.245624,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1071,
+      "name": "Welcome Home",
+      "latitude": 52.079787,
+      "longitude": 4.280794,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1072,
+      "name": "Wereldkwartier",
+      "latitude": 51.979279,
+      "longitude": 5.9191,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1073,
+      "name": "Wiedewei Mijnsheerenland",
+      "latitude": 51.796967,
+      "longitude": 4.485038,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1074,
+      "name": "Wiedewei Puttershoek",
+      "latitude": 51.804402,
+      "longitude": 4.570678,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1075,
+      "name": "Wilderen",
+      "latitude": 51.388182,
+      "longitude": 5.43958,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1076,
+      "name": "Willemijntje",
+      "latitude": 51.566048,
+      "longitude": 5.079643,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1077,
+      "name": "Wonderlief",
+      "latitude": 52.190049,
+      "longitude": 5.970656,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1078,
+      "name": "Yes Kinderopvang",
+      "latitude": 51.808513,
+      "longitude": 4.631583,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1079,
+      "name": "Yorneo Omgangshuis",
+      "latitude": 53.014444,
+      "longitude": 6.583668,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1080,
+      "name": "Yourkids@Home",
+      "latitude": 52.409944,
+      "longitude": 5.294078,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1081,
+      "name": "Zandkasteel",
+      "latitude": 52.032985,
+      "longitude": 4.307485,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1082,
+      "name": "Zein International Childcare - The Estate Day Care",
+      "latitude": 52.091757,
+      "longitude": 4.319651,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1083,
+      "name": "ZieZo",
+      "latitude": 52.668996,
+      "longitude": 6.750679,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1084,
+      "name": "Zien Kinderdagverblijf Slochterborgje",
+      "latitude": 53.208954,
+      "longitude": 6.803497,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1085,
+      "name": "Zien Kinderopvang",
+      "latitude": 53.227234,
+      "longitude": 6.511518,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1086,
+      "name": "Ziezo",
+      "latitude": 51.357036,
+      "longitude": 5.73641,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1087,
+      "name": "Ziezoo Voorburg - BSO 't Loo",
+      "latitude": 52.077095,
+      "longitude": 4.367686,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1088,
+      "name": "Ziezoo Voorburg - KDV 't Loo",
+      "latitude": 52.077892,
+      "longitude": 4.367891,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1089,
+      "name": "Zo Outdoor",
+      "latitude": 52.086922,
+      "longitude": 4.358701,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1090,
+      "name": "Zo aan de Appelstraat",
+      "latitude": 52.066849,
+      "longitude": 4.252797,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1091,
+      "name": "Zo aan de Van der Wyckstraat",
+      "latitude": 52.083531,
+      "longitude": 4.346834,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1092,
+      "name": "Zo kinderopvang",
+      "latitude": 52.094697,
+      "longitude": 4.307411,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1093,
+      "name": "Zoet & Zo",
+      "latitude": 51.505448,
+      "longitude": 3.619837,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1094,
+      "name": "Zoete Lieve Gerritje",
+      "latitude": 51.718154,
+      "longitude": 5.365642,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1095,
+      "name": "Zonnehof",
+      "latitude": 51.558889,
+      "longitude": 5.056767,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1096,
+      "name": "Zuiderzon",
+      "latitude": 51.644979,
+      "longitude": 5.618821,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1097,
+      "name": "Zus en Zo Frisbi",
+      "latitude": 51.989117,
+      "longitude": 4.458278,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1098,
+      "name": "buitenschoolse opvang Buitenbol",
+      "latitude": 51.891321,
+      "longitude": 4.581069,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1099,
+      "name": "de Berenboot",
+      "latitude": 51.564331,
+      "longitude": 4.828361,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1100,
+      "name": "de Bergkei",
+      "latitude": 52.149353,
+      "longitude": 5.366137,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1101,
+      "name": "de Groene weide",
+      "latitude": 51.98753,
+      "longitude": 5.844018,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1102,
+      "name": "de Heidebloem",
+      "latitude": 51.615301,
+      "longitude": 5.431383,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1103,
+      "name": "de Kersentuin",
+      "latitude": 51.910343,
+      "longitude": 5.83464,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1104,
+      "name": "de Kikker",
+      "latitude": 51.627359,
+      "longitude": 5.417536,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1105,
+      "name": "de Kinderkamer",
+      "latitude": 51.466219,
+      "longitude": 5.468898,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1106,
+      "name": "de Kleine Stad",
+      "latitude": 52.163661,
+      "longitude": 5.397072,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1107,
+      "name": "de Kluts",
+      "latitude": 53.131607,
+      "longitude": 6.401786,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1108,
+      "name": "de Rolderbol",
+      "latitude": 52.982659,
+      "longitude": 6.645763,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1109,
+      "name": "de Toverberg",
+      "latitude": 51.906965,
+      "longitude": 6.391964,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1110,
+      "name": "de Vlinderboom",
+      "latitude": 51.52176,
+      "longitude": 5.057764,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1111,
+      "name": "de Wereld",
+      "latitude": 51.954115,
+      "longitude": 5.848774,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1112,
+      "name": "de Zonnestraal",
+      "latitude": 51.613888,
+      "longitude": 5.449878,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1113,
+      "name": "kiki",
+      "latitude": 50.885917,
+      "longitude": 5.974436,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1114,
+      "name": "kindercentrum het Kievitsnest",
+      "latitude": 51.977761,
+      "longitude": 5.655464,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1115,
+      "name": "kinderdagverblijf De Trommelaar",
+      "latitude": 52.060573,
+      "longitude": 5.375625,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1116,
+      "name": "kinderopvang KION",
+      "latitude": 51.885107,
+      "longitude": 5.545863,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1117,
+      "name": "kindkompas",
+      "latitude": 51.428615,
+      "longitude": 4.319391,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1118,
+      "name": "kiwi",
+      "latitude": 53.120436,
+      "longitude": 7.16598,
+      "osm_klasse": "amenity=childcare"
+    },
+    {
+      "id": 1119,
+      "name": "pluk de dag !",
+      "latitude": 53.104116,
+      "longitude": 6.108519,
+      "osm_klasse": "amenity=childcare"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: childcare (amenity=childcare) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=childcare in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 1119 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: childcare (amenity=childcare) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: childcare (amenity=childcare) — 1119 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 1119 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

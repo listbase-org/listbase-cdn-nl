@@ -1,0 +1,1416 @@
+{
+  "id": "nl-osm-shop-music",
+  "name": "Netherlands OSM: music (shop=music)",
+  "title": "Netherlands OSM: music (shop=music)",
+  "description": "Named OpenStreetMap features tagged shop=music in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "music",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 195,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "3345",
+      "latitude": 52.082487,
+      "longitude": 4.305725,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 2,
+      "name": "3345 vinyl records",
+      "latitude": 52.160929,
+      "longitude": 4.507017,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 3,
+      "name": "45toeren",
+      "latitude": 51.358124,
+      "longitude": 5.171738,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 4,
+      "name": "Amstel Antiques RECORDS",
+      "latitude": 52.366971,
+      "longitude": 4.897157,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 5,
+      "name": "Antenne",
+      "latitude": 51.558097,
+      "longitude": 5.080993,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 6,
+      "name": "Artistic Recordstore",
+      "latitude": 53.096633,
+      "longitude": 5.840346,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 7,
+      "name": "Artline",
+      "latitude": 52.053313,
+      "longitude": 5.285673,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 8,
+      "name": "Augusteijn",
+      "latitude": 51.853457,
+      "longitude": 5.944606,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 9,
+      "name": "Bardello a Parigi",
+      "latitude": 52.375858,
+      "longitude": 4.90084,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 10,
+      "name": "Bartovsky Photo & Phono",
+      "latitude": 51.964901,
+      "longitude": 5.664675,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 11,
+      "name": "Bep Dylan",
+      "latitude": 52.252101,
+      "longitude": 6.159462,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 12,
+      "name": "Bert's Records",
+      "latitude": 52.073659,
+      "longitude": 4.317174,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 13,
+      "name": "Bier & Vinyl",
+      "latitude": 51.915023,
+      "longitude": 4.398758,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 14,
+      "name": "Big Bad Wolf Records",
+      "latitude": 53.202807,
+      "longitude": 5.8087,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 15,
+      "name": "Blue Moon",
+      "latitude": 51.536448,
+      "longitude": 4.464424,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 16,
+      "name": "Boeijenga muziek",
+      "latitude": 53.199565,
+      "longitude": 5.839602,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 17,
+      "name": "Broekmans & Van Poppel",
+      "latitude": 52.341848,
+      "longitude": 4.786538,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 18,
+      "name": "Bullit Kassiek",
+      "latitude": 51.438985,
+      "longitude": 5.479387,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 19,
+      "name": "CD Hal Ruinen",
+      "latitude": 52.761842,
+      "longitude": 6.358894,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 20,
+      "name": "CD Teek",
+      "latitude": 51.436285,
+      "longitude": 5.474436,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 21,
+      "name": "City Records",
+      "latitude": 52.373747,
+      "longitude": 4.900654,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 22,
+      "name": "Clone Records",
+      "latitude": 51.927154,
+      "longitude": 4.478798,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 23,
+      "name": "Concerto",
+      "latitude": 52.36327,
+      "longitude": 4.898355,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 24,
+      "name": "Crash Vinyl & Booze",
+      "latitude": 52.221011,
+      "longitude": 6.894681,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 25,
+      "name": "De Groeverij",
+      "latitude": 52.036651,
+      "longitude": 5.168892,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 26,
+      "name": "De Jongens van Hemmes",
+      "latitude": 53.216208,
+      "longitude": 6.571692,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 27,
+      "name": "De Plaatenbas",
+      "latitude": 52.630733,
+      "longitude": 4.751932,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 28,
+      "name": "De Platenslager",
+      "latitude": 52.380107,
+      "longitude": 4.644552,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 29,
+      "name": "De Snaar",
+      "latitude": 52.961012,
+      "longitude": 5.926343,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 30,
+      "name": "De Tambourijn",
+      "latitude": 52.307429,
+      "longitude": 6.737951,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 31,
+      "name": "DePlatenwinkel",
+      "latitude": 52.350436,
+      "longitude": 5.618665,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 32,
+      "name": "Decades Vinyl & Vintage",
+      "latitude": 52.011976,
+      "longitude": 4.704675,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 33,
+      "name": "Demonfuzz Records",
+      "latitude": 51.915774,
+      "longitude": 4.467987,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 34,
+      "name": "Dig It!",
+      "latitude": 52.09422,
+      "longitude": 5.118328,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 35,
+      "name": "Diggers",
+      "latitude": 51.550219,
+      "longitude": 5.06991,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 36,
+      "name": "Dirk Heijne",
+      "latitude": 52.500208,
+      "longitude": 4.767579,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 37,
+      "name": "Disco Mazigh",
+      "latitude": 52.067089,
+      "longitude": 4.310436,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 38,
+      "name": "Discords.nl",
+      "latitude": 51.848053,
+      "longitude": 5.860015,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 39,
+      "name": "Discostars",
+      "latitude": 52.382861,
+      "longitude": 4.886998,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 40,
+      "name": "Discus Music & Film",
+      "latitude": 53.202345,
+      "longitude": 5.799521,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 41,
+      "name": "Diskid",
+      "latitude": 52.510615,
+      "longitude": 6.094875,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 42,
+      "name": "Distortion records",
+      "latitude": 52.378019,
+      "longitude": 4.880447,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 43,
+      "name": "Dj Sjoerd",
+      "latitude": 51.42172,
+      "longitude": 5.416184,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 44,
+      "name": "Doogan Records",
+      "latitude": 51.689491,
+      "longitude": 5.301402,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 45,
+      "name": "Dordrecht Klassiek",
+      "latitude": 51.813705,
+      "longitude": 4.660437,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 46,
+      "name": "Dwars",
+      "latitude": 52.512513,
+      "longitude": 5.050241,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 47,
+      "name": "Eardrum Buzz",
+      "latitude": 52.384042,
+      "longitude": 4.883957,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 48,
+      "name": "Elpee",
+      "latitude": 53.216786,
+      "longitude": 6.568749,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 49,
+      "name": "Elpees van Kees",
+      "latitude": 52.263944,
+      "longitude": 6.794198,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 50,
+      "name": "Elrecom",
+      "latitude": 52.207094,
+      "longitude": 5.294323,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 51,
+      "name": "Empire Records",
+      "latitude": 52.079224,
+      "longitude": 4.317094,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 52,
+      "name": "Entertainment Planet",
+      "latitude": 53.200927,
+      "longitude": 5.792523,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 53,
+      "name": "Erwin Vermast CD/DVD",
+      "latitude": 52.496507,
+      "longitude": 4.767004,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 54,
+      "name": "Flacorecords",
+      "latitude": 52.22146,
+      "longitude": 6.892836,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 55,
+      "name": "Flakkee Records",
+      "latitude": 51.738872,
+      "longitude": 4.24301,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 56,
+      "name": "Flesch Records",
+      "latitude": 52.379901,
+      "longitude": 4.885934,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 57,
+      "name": "Free Music Gouda",
+      "latitude": 52.012774,
+      "longitude": 4.709399,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 58,
+      "name": "GROEF",
+      "latitude": 52.153188,
+      "longitude": 5.389577,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 59,
+      "name": "Game over?",
+      "latitude": 52.377361,
+      "longitude": 4.897241,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 60,
+      "name": "GoodTimes",
+      "latitude": 52.63138,
+      "longitude": 4.754062,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 61,
+      "name": "Gooisch Vinyl",
+      "latitude": 52.27087,
+      "longitude": 5.166288,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 62,
+      "name": "Green Vinyl",
+      "latitude": 51.598842,
+      "longitude": 4.766849,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 63,
+      "name": "Grey Store",
+      "latitude": 51.583199,
+      "longitude": 4.777962,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 64,
+      "name": "Groove Records",
+      "latitude": 51.593553,
+      "longitude": 4.800065,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 65,
+      "name": "Headline",
+      "latitude": 53.216308,
+      "longitude": 6.572362,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 66,
+      "name": "Het Colofon",
+      "latitude": 51.979842,
+      "longitude": 5.908122,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 67,
+      "name": "Hey! Hallyu",
+      "latitude": 51.983468,
+      "longitude": 5.914378,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 68,
+      "name": "HiFi Limburg",
+      "latitude": 50.939454,
+      "longitude": 5.796258,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 69,
+      "name": "High Definition Records Scheveningen",
+      "latitude": 52.105602,
+      "longitude": 4.274219,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 70,
+      "name": "Hip! Handel in Platen",
+      "latitude": 52.212147,
+      "longitude": 5.284858,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 71,
+      "name": "It's (not) Only Rock 'n' Roll",
+      "latitude": 52.344636,
+      "longitude": 5.983483,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 72,
+      "name": "Jazz Center",
+      "latitude": 52.074793,
+      "longitude": 4.314432,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 73,
+      "name": "JendDoRecords",
+      "latitude": 51.933129,
+      "longitude": 4.486035,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 74,
+      "name": "Jiyah Music",
+      "latitude": 52.993738,
+      "longitude": 6.550883,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 75,
+      "name": "Juicy Records",
+      "latitude": 52.958744,
+      "longitude": 4.76273,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 76,
+      "name": "KILLACUTZ Records",
+      "latitude": 52.375267,
+      "longitude": 4.893286,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 77,
+      "name": "Kalkman Vinyl & Art",
+      "latitude": 50.847688,
+      "longitude": 5.691247,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 78,
+      "name": "Keyboardcentrum",
+      "latitude": 51.427461,
+      "longitude": 5.492029,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 79,
+      "name": "King Kong Records",
+      "latitude": 53.202504,
+      "longitude": 5.799238,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 80,
+      "name": "Kinsum Records",
+      "latitude": 50.850215,
+      "longitude": 5.69859,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 81,
+      "name": "Klassiek en folklore",
+      "latitude": 52.359589,
+      "longitude": 4.893483,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 82,
+      "name": "Kroese",
+      "latitude": 51.843864,
+      "longitude": 5.861485,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 83,
+      "name": "Kroese Arnhem",
+      "latitude": 51.98158,
+      "longitude": 5.905849,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 84,
+      "name": "Lonely Hunter",
+      "latitude": 52.158223,
+      "longitude": 4.49292,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 85,
+      "name": "Lp-2",
+      "latitude": 52.013532,
+      "longitude": 6.13553,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 86,
+      "name": "M. Kroon LPs",
+      "latitude": 52.89539,
+      "longitude": 5.646704,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 87,
+      "name": "MGear BV",
+      "latitude": 51.25277,
+      "longitude": 5.707596,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 88,
+      "name": "Marlstone Music",
+      "latitude": 50.910272,
+      "longitude": 5.775994,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 89,
+      "name": "Matthew's Muziek",
+      "latitude": 52.511723,
+      "longitude": 5.047014,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 90,
+      "name": "Mill Music",
+      "latitude": 51.946902,
+      "longitude": 6.281574,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 91,
+      "name": "Minstrel Music",
+      "latitude": 52.505635,
+      "longitude": 6.102457,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 92,
+      "name": "Mollema Music World",
+      "latitude": 53.186443,
+      "longitude": 5.543235,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 93,
+      "name": "Music & More",
+      "latitude": 51.586865,
+      "longitude": 4.317967,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 94,
+      "name": "Music & More",
+      "latitude": 52.490965,
+      "longitude": 4.791517,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 95,
+      "name": "Music Coach Marieke",
+      "latitude": 51.951725,
+      "longitude": 5.280887,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 96,
+      "name": "Music Machine",
+      "latitude": 50.998077,
+      "longitude": 5.871913,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 97,
+      "name": "Music Store",
+      "latitude": 52.372157,
+      "longitude": 4.526836,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 98,
+      "name": "Music United Studio",
+      "latitude": 52.153838,
+      "longitude": 6.18996,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 99,
+      "name": "Musicamore",
+      "latitude": 52.251941,
+      "longitude": 6.158906,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 100,
+      "name": "Muziekcentrum Middelburg",
+      "latitude": 51.499,
+      "longitude": 3.615942,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 101,
+      "name": "Muziekhandel Kees van Willigen",
+      "latitude": 52.13847,
+      "longitude": 5.587018,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 102,
+      "name": "Muziekhandel Klein",
+      "latitude": 52.668324,
+      "longitude": 6.428655,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 103,
+      "name": "Muziekhandel van Buytene",
+      "latitude": 52.009747,
+      "longitude": 4.356139,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 104,
+      "name": "Muziekhuis Van Meurs",
+      "latitude": 52.640365,
+      "longitude": 5.05779,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 105,
+      "name": "My cup of vinyl",
+      "latitude": 52.055335,
+      "longitude": 4.498012,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 106,
+      "name": "Near Mint Haarlem",
+      "latitude": 52.379235,
+      "longitude": 4.632236,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 107,
+      "name": "Nederland Muziek",
+      "latitude": 52.3546,
+      "longitude": 5.194097,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 108,
+      "name": "No Dust Records",
+      "latitude": 52.462965,
+      "longitude": 5.998446,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 109,
+      "name": "No.1 Hotwaxrecords",
+      "latitude": 52.630488,
+      "longitude": 4.749067,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 110,
+      "name": "North End pop-up",
+      "latitude": 52.416721,
+      "longitude": 4.647951,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 111,
+      "name": "Plaatboef",
+      "latitude": 52.086258,
+      "longitude": 5.122533,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 112,
+      "name": "Planet of Sound",
+      "latitude": 52.220863,
+      "longitude": 6.898024,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 113,
+      "name": "Platenbar Denekamp",
+      "latitude": 52.386846,
+      "longitude": 7.011196,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 114,
+      "name": "Platenhuis 't Oor",
+      "latitude": 52.225952,
+      "longitude": 5.178817,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 115,
+      "name": "Plato",
+      "latitude": 51.91697,
+      "longitude": 4.471947,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 116,
+      "name": "Plato",
+      "latitude": 52.094202,
+      "longitude": 5.119408,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 117,
+      "name": "Plato",
+      "latitude": 52.16054,
+      "longitude": 4.489081,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 118,
+      "name": "Plato",
+      "latitude": 52.252707,
+      "longitude": 6.156619,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 119,
+      "name": "Plato",
+      "latitude": 52.514142,
+      "longitude": 6.096184,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 120,
+      "name": "Plato Groningen",
+      "latitude": 53.220396,
+      "longitude": 6.566544,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 121,
+      "name": "Platypus Records",
+      "latitude": 52.375266,
+      "longitude": 4.901185,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 122,
+      "name": "Plexus",
+      "latitude": 52.012052,
+      "longitude": 4.358584,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 123,
+      "name": "Pop-Eye",
+      "latitude": 52.630432,
+      "longitude": 4.748834,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 124,
+      "name": "Popeye",
+      "latitude": 52.264786,
+      "longitude": 6.795955,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 125,
+      "name": "Rap Winkel",
+      "latitude": 51.683336,
+      "longitude": 5.32401,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 126,
+      "name": "Ray's Boutique",
+      "latitude": 51.443566,
+      "longitude": 3.575317,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 127,
+      "name": "Record Friend",
+      "latitude": 52.37117,
+      "longitude": 4.900299,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 128,
+      "name": "Record Mania",
+      "latitude": 52.356521,
+      "longitude": 4.890482,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 129,
+      "name": "Record Palace",
+      "latitude": 52.362082,
+      "longitude": 4.884957,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 130,
+      "name": "Records Vinylspot",
+      "latitude": 51.916217,
+      "longitude": 4.466867,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 131,
+      "name": "Red Light Records",
+      "latitude": 52.371906,
+      "longitude": 4.897551,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 132,
+      "name": "Reset Records",
+      "latitude": 52.086581,
+      "longitude": 5.143578,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 133,
+      "name": "Riddim Record Store",
+      "latitude": 51.527286,
+      "longitude": 5.97633,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 134,
+      "name": "Robberts Guitar Service",
+      "latitude": 52.227782,
+      "longitude": 5.17939,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 135,
+      "name": "Rock Maniac Records",
+      "latitude": 52.011365,
+      "longitude": 4.711042,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 136,
+      "name": "Roots Mail Music",
+      "latitude": 51.581985,
+      "longitude": 4.778344,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 137,
+      "name": "Rush Hour",
+      "latitude": 52.374755,
+      "longitude": 4.890477,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 138,
+      "name": "Satisfaction Recordshop",
+      "latitude": 50.889277,
+      "longitude": 5.978532,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 139,
+      "name": "Sea Music",
+      "latitude": 52.934948,
+      "longitude": 4.753705,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 140,
+      "name": "Second Life Music",
+      "latitude": 52.367716,
+      "longitude": 4.882136,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 141,
+      "name": "Songs for Sale",
+      "latitude": 51.923631,
+      "longitude": 4.485671,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 142,
+      "name": "Sound Unbound",
+      "latitude": 52.228203,
+      "longitude": 6.863237,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 143,
+      "name": "Sounds",
+      "latitude": 51.368275,
+      "longitude": 6.170577,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 144,
+      "name": "Sounds",
+      "latitude": 52.010626,
+      "longitude": 4.360172,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 145,
+      "name": "Sounds Haarlem",
+      "latitude": 52.377636,
+      "longitude": 4.631717,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 146,
+      "name": "Sounds Tilburg",
+      "latitude": 51.55626,
+      "longitude": 5.08199,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 147,
+      "name": "Special CD Shop",
+      "latitude": 51.593528,
+      "longitude": 4.800068,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 148,
+      "name": "Spijk Records",
+      "latitude": 51.842089,
+      "longitude": 4.341566,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 149,
+      "name": "Stichting de Langspeelplaat",
+      "latitude": 51.690512,
+      "longitude": 5.316351,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 150,
+      "name": "Stockenhof Muziek",
+      "latitude": 51.828281,
+      "longitude": 5.927035,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 151,
+      "name": "Stolk Orgels",
+      "latitude": 51.427708,
+      "longitude": 4.128827,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 152,
+      "name": "Swing Master",
+      "latitude": 53.216501,
+      "longitude": 6.566686,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 153,
+      "name": "T-Rex Records",
+      "latitude": 53.203189,
+      "longitude": 5.803905,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 154,
+      "name": "T3 Live",
+      "latitude": 51.95549,
+      "longitude": 6.297928,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 155,
+      "name": "Terts & Toets",
+      "latitude": 53.198042,
+      "longitude": 6.570425,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 156,
+      "name": "Thatz-it",
+      "latitude": 51.932933,
+      "longitude": 4.485948,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 157,
+      "name": "The Magic Buzz",
+      "latitude": 53.216175,
+      "longitude": 6.571621,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 158,
+      "name": "The Record Corner",
+      "latitude": 52.072064,
+      "longitude": 4.311287,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 159,
+      "name": "The Record Hustler",
+      "latitude": 51.689728,
+      "longitude": 5.315838,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 160,
+      "name": "The Shop",
+      "latitude": 52.078102,
+      "longitude": 4.299331,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 161,
+      "name": "Time Machine Music",
+      "latitude": 51.915195,
+      "longitude": 4.398466,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 162,
+      "name": "Toon's Muziek",
+      "latitude": 51.435557,
+      "longitude": 5.473476,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 163,
+      "name": "Triepels slagwerk VOF en bladmuziek",
+      "latitude": 50.969367,
+      "longitude": 5.830634,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 164,
+      "name": "Van Ginkel Muziek",
+      "latitude": 51.973349,
+      "longitude": 5.344731,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 165,
+      "name": "Variaworld",
+      "latitude": 52.088507,
+      "longitude": 5.121674,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 166,
+      "name": "Variaworld",
+      "latitude": 52.252577,
+      "longitude": 6.157127,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 167,
+      "name": "Variaworld",
+      "latitude": 52.513951,
+      "longitude": 6.096164,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 168,
+      "name": "Velvet",
+      "latitude": 51.917361,
+      "longitude": 4.473907,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 169,
+      "name": "Velvet",
+      "latitude": 52.373712,
+      "longitude": 4.881287,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 170,
+      "name": "Velvet Music Dordrecht",
+      "latitude": 51.816436,
+      "longitude": 4.669347,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 171,
+      "name": "Velvet Music Eindhoven",
+      "latitude": 51.45237,
+      "longitude": 5.461107,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 172,
+      "name": "Velvet music",
+      "latitude": 52.157403,
+      "longitude": 5.387436,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 173,
+      "name": "VelvetMusic",
+      "latitude": 51.586022,
+      "longitude": 4.777039,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 174,
+      "name": "VelvetMusic",
+      "latitude": 52.011803,
+      "longitude": 4.357944,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 175,
+      "name": "VelvetMusic Leiden",
+      "latitude": 52.157632,
+      "longitude": 4.492914,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 176,
+      "name": "Verhoog Muziek",
+      "latitude": 52.22381,
+      "longitude": 5.484326,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 177,
+      "name": "Vink Multimedia",
+      "latitude": 52.26195,
+      "longitude": 4.492223,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 178,
+      "name": "Vinta",
+      "latitude": 51.886718,
+      "longitude": 5.437976,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 179,
+      "name": "Vintage Vinyl",
+      "latitude": 52.077965,
+      "longitude": 4.30418,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 180,
+      "name": "Vinyl Grove",
+      "latitude": 52.074814,
+      "longitude": 4.308982,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 181,
+      "name": "Vinyl24",
+      "latitude": 52.085978,
+      "longitude": 5.122597,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 182,
+      "name": "Vinylarchief",
+      "latitude": 51.848228,
+      "longitude": 5.858776,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 183,
+      "name": "Vinylparadijs",
+      "latitude": 52.422307,
+      "longitude": 6.734516,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 184,
+      "name": "Vip records",
+      "latitude": 53.031136,
+      "longitude": 5.660689,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 185,
+      "name": "WWRecords",
+      "latitude": 51.967632,
+      "longitude": 5.665298,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 186,
+      "name": "Waaghals",
+      "latitude": 51.84803,
+      "longitude": 5.86355,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 187,
+      "name": "Waaghals",
+      "latitude": 51.981766,
+      "longitude": 5.912336,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 188,
+      "name": "Walk-In",
+      "latitude": 52.141299,
+      "longitude": 6.197783,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 189,
+      "name": "Walk-in",
+      "latitude": 52.252988,
+      "longitude": 6.156306,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 190,
+      "name": "Waxwell Records",
+      "latitude": 52.372281,
+      "longitude": 4.887771,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 191,
+      "name": "Wims Muziekkelder",
+      "latitude": 51.96573,
+      "longitude": 6.289564,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 192,
+      "name": "ZAP RECORDS",
+      "latitude": 52.372233,
+      "longitude": 4.889721,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 193,
+      "name": "de plaatboef",
+      "latitude": 51.916281,
+      "longitude": 4.468917,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 194,
+      "name": "e&h visual audioverhuur",
+      "latitude": 51.799625,
+      "longitude": 5.246109,
+      "osm_klasse": "shop=music"
+    },
+    {
+      "id": 195,
+      "name": "lp&zo",
+      "latitude": 51.817202,
+      "longitude": 4.669494,
+      "osm_klasse": "shop=music"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: music (shop=music) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=music in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 195 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: music (shop=music) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: music (shop=music) — 195 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 195 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

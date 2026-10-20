@@ -1,0 +1,3068 @@
+{
+  "id": "nl-osm-tourism-camp-pitch",
+  "name": "Netherlands OSM: camp pitch (tourism=camp_pitch)",
+  "title": "Netherlands OSM: camp pitch (tourism=camp_pitch)",
+  "description": "Named OpenStreetMap features tagged tourism=camp_pitch in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 431,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Kanteel",
+      "latitude": 53.169689,
+      "longitude": 6.384335,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 2,
+      "name": "'t Schild",
+      "latitude": 53.170456,
+      "longitude": 6.382027,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 3,
+      "name": "'t Zwaard",
+      "latitude": 53.171449,
+      "longitude": 6.383727,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 4,
+      "name": "1",
+      "latitude": 52.897436,
+      "longitude": 6.703442,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 5,
+      "name": "1 North",
+      "latitude": 51.5373,
+      "longitude": 3.678732,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 6,
+      "name": "1 South",
+      "latitude": 51.53709,
+      "longitude": 3.678924,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 7,
+      "name": "1/2",
+      "latitude": 51.537465,
+      "longitude": 3.678753,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 8,
+      "name": "10",
+      "latitude": 51.539724,
+      "longitude": 3.677451,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 9,
+      "name": "10",
+      "latitude": 52.896044,
+      "longitude": 6.702791,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 10,
+      "name": "11",
+      "latitude": 51.539568,
+      "longitude": 3.676789,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 11,
+      "name": "11",
+      "latitude": 52.895938,
+      "longitude": 6.702396,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 12,
+      "name": "12",
+      "latitude": 52.896131,
+      "longitude": 6.702254,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 13,
+      "name": "13",
+      "latitude": 52.289667,
+      "longitude": 5.947422,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 14,
+      "name": "13",
+      "latitude": 52.896317,
+      "longitude": 6.702112,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 15,
+      "name": "14",
+      "latitude": 52.289736,
+      "longitude": 5.947515,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 16,
+      "name": "14",
+      "latitude": 52.896793,
+      "longitude": 6.701985,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 17,
+      "name": "15",
+      "latitude": 52.289785,
+      "longitude": 5.947629,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 18,
+      "name": "15",
+      "latitude": 52.896607,
+      "longitude": 6.702504,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 19,
+      "name": "16",
+      "latitude": 52.28981,
+      "longitude": 5.947812,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 20,
+      "name": "16",
+      "latitude": 52.897065,
+      "longitude": 6.702182,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 21,
+      "name": "17",
+      "latitude": 52.28972,
+      "longitude": 5.947882,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 22,
+      "name": "17",
+      "latitude": 52.897166,
+      "longitude": 6.703023,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 23,
+      "name": "18",
+      "latitude": 52.289618,
+      "longitude": 5.947898,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 24,
+      "name": "18",
+      "latitude": 52.897247,
+      "longitude": 6.702354,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 25,
+      "name": "19",
+      "latitude": 52.289545,
+      "longitude": 5.947967,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 26,
+      "name": "19",
+      "latitude": 52.897298,
+      "longitude": 6.703167,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 27,
+      "name": "2",
+      "latitude": 52.897318,
+      "longitude": 6.703513,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 28,
+      "name": "2 North",
+      "latitude": 51.538101,
+      "longitude": 3.678301,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 29,
+      "name": "2 South",
+      "latitude": 51.537673,
+      "longitude": 3.678511,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 30,
+      "name": "20",
+      "latitude": 52.289451,
+      "longitude": 5.948013,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 31,
+      "name": "20",
+      "latitude": 52.897425,
+      "longitude": 6.702775,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 32,
+      "name": "21",
+      "latitude": 52.289368,
+      "longitude": 5.948049,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 33,
+      "name": "22",
+      "latitude": 52.289225,
+      "longitude": 5.948042,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 34,
+      "name": "23",
+      "latitude": 52.28917,
+      "longitude": 5.947889,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 35,
+      "name": "24",
+      "latitude": 52.289133,
+      "longitude": 5.947672,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 36,
+      "name": "25",
+      "latitude": 52.289116,
+      "longitude": 5.947457,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 37,
+      "name": "26",
+      "latitude": 52.289098,
+      "longitude": 5.947271,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 38,
+      "name": "27",
+      "latitude": 52.289239,
+      "longitude": 5.947182,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 39,
+      "name": "28",
+      "latitude": 52.289341,
+      "longitude": 5.94714,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 40,
+      "name": "29",
+      "latitude": 52.289442,
+      "longitude": 5.947098,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 41,
+      "name": "3",
+      "latitude": 51.537014,
+      "longitude": 3.677898,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 42,
+      "name": "3",
+      "latitude": 52.897127,
+      "longitude": 6.703699,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 43,
+      "name": "30",
+      "latitude": 52.289523,
+      "longitude": 5.947056,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 44,
+      "name": "31",
+      "latitude": 52.289589,
+      "longitude": 5.947247,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 45,
+      "name": "4",
+      "latitude": 51.537315,
+      "longitude": 3.677718,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 46,
+      "name": "4",
+      "latitude": 52.897019,
+      "longitude": 6.703791,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 47,
+      "name": "5",
+      "latitude": 52.896906,
+      "longitude": 6.703909,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 48,
+      "name": "5 Nord",
+      "latitude": 51.539047,
+      "longitude": 3.677822,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 49,
+      "name": "5 South",
+      "latitude": 51.538667,
+      "longitude": 3.678035,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 50,
+      "name": "6",
+      "latitude": 51.539152,
+      "longitude": 3.677517,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 51,
+      "name": "6",
+      "latitude": 52.896425,
+      "longitude": 6.703804,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 52,
+      "name": "7",
+      "latitude": 51.538422,
+      "longitude": 3.677285,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 53,
+      "name": "7",
+      "latitude": 52.896341,
+      "longitude": 6.703636,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 54,
+      "name": "8",
+      "latitude": 52.896266,
+      "longitude": 6.703417,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 55,
+      "name": "8 North",
+      "latitude": 51.53614,
+      "longitude": 3.678201,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 56,
+      "name": "8 South",
+      "latitude": 51.535947,
+      "longitude": 3.678344,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 57,
+      "name": "9",
+      "latitude": 51.535838,
+      "longitude": 3.67917,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 58,
+      "name": "9",
+      "latitude": 52.896185,
+      "longitude": 6.7032,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 59,
+      "name": "Achterste veld",
+      "latitude": 51.957756,
+      "longitude": 6.380264,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 60,
+      "name": "B40",
+      "latitude": 51.726814,
+      "longitude": 3.775092,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 61,
+      "name": "B41",
+      "latitude": 51.726874,
+      "longitude": 3.774957,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 62,
+      "name": "B42",
+      "latitude": 51.726935,
+      "longitude": 3.774855,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 63,
+      "name": "Berkenbos",
+      "latitude": 52.095085,
+      "longitude": 5.302732,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 64,
+      "name": "Beukenlaan",
+      "latitude": 52.096507,
+      "longitude": 5.640473,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 65,
+      "name": "Beukernbos",
+      "latitude": 52.090923,
+      "longitude": 5.303314,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 66,
+      "name": "Boes-Boes",
+      "latitude": 52.092308,
+      "longitude": 5.303227,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 67,
+      "name": "Boomgaard",
+      "latitude": 51.754717,
+      "longitude": 5.924887,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 68,
+      "name": "Bosrood",
+      "latitude": 52.097011,
+      "longitude": 5.640832,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 69,
+      "name": "C1",
+      "latitude": 53.374464,
+      "longitude": 6.156433,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 70,
+      "name": "C10",
+      "latitude": 53.374794,
+      "longitude": 6.155725,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 71,
+      "name": "C11",
+      "latitude": 53.374901,
+      "longitude": 6.155758,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 72,
+      "name": "C12",
+      "latitude": 53.37493,
+      "longitude": 6.155874,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 73,
+      "name": "C13",
+      "latitude": 53.374917,
+      "longitude": 6.156061,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 74,
+      "name": "C14",
+      "latitude": 53.374902,
+      "longitude": 6.156247,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 75,
+      "name": "C15",
+      "latitude": 53.374888,
+      "longitude": 6.156435,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 76,
+      "name": "C16",
+      "latitude": 53.374876,
+      "longitude": 6.156598,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 77,
+      "name": "C17",
+      "latitude": 53.374858,
+      "longitude": 6.156754,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 78,
+      "name": "C18",
+      "latitude": 53.37476,
+      "longitude": 6.156769,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 79,
+      "name": "C19",
+      "latitude": 53.374666,
+      "longitude": 6.15667,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 80,
+      "name": "C2",
+      "latitude": 53.374394,
+      "longitude": 6.156359,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 81,
+      "name": "C20",
+      "latitude": 53.374752,
+      "longitude": 6.156033,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 82,
+      "name": "C21",
+      "latitude": 53.374726,
+      "longitude": 6.156103,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 83,
+      "name": "C22",
+      "latitude": 53.37468,
+      "longitude": 6.15621,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 84,
+      "name": "C23",
+      "latitude": 53.374655,
+      "longitude": 6.156299,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 85,
+      "name": "C24",
+      "latitude": 53.374701,
+      "longitude": 6.155984,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 86,
+      "name": "C25",
+      "latitude": 53.374669,
+      "longitude": 6.156063,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 87,
+      "name": "C26",
+      "latitude": 53.374635,
+      "longitude": 6.156159,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 88,
+      "name": "C27",
+      "latitude": 53.374604,
+      "longitude": 6.156237,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 89,
+      "name": "C3",
+      "latitude": 53.374306,
+      "longitude": 6.156252,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 90,
+      "name": "C4",
+      "latitude": 53.374303,
+      "longitude": 6.156122,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 91,
+      "name": "C5",
+      "latitude": 53.37438,
+      "longitude": 6.156005,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 92,
+      "name": "C6",
+      "latitude": 53.374451,
+      "longitude": 6.155865,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 93,
+      "name": "C7",
+      "latitude": 53.374518,
+      "longitude": 6.155735,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 94,
+      "name": "C8",
+      "latitude": 53.374598,
+      "longitude": 6.155675,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 95,
+      "name": "C9",
+      "latitude": 53.374693,
+      "longitude": 6.1557,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 96,
+      "name": "Camperplaatsen Groot Antink",
+      "latitude": 52.04785,
+      "longitude": 6.631388,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 97,
+      "name": "Camping De Grevelingen",
+      "latitude": 51.702939,
+      "longitude": 4.137396,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 98,
+      "name": "Camping Passantenhaven Joure",
+      "latitude": 52.971946,
+      "longitude": 5.787687,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 99,
+      "name": "Cay-Noya",
+      "latitude": 52.091126,
+      "longitude": 5.304078,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 100,
+      "name": "De Knots",
+      "latitude": 53.169755,
+      "longitude": 6.383489,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 101,
+      "name": "De Lans",
+      "latitude": 53.171243,
+      "longitude": 6.383074,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 102,
+      "name": "De Oostermaat",
+      "latitude": 52.600326,
+      "longitude": 5.997125,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 103,
+      "name": "De Ridder",
+      "latitude": 53.170714,
+      "longitude": 6.38365,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 104,
+      "name": "EI",
+      "latitude": 51.539393,
+      "longitude": 3.67768,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 105,
+      "name": "Eekhoornlaan Comfortplaats 1",
+      "latitude": 52.67878,
+      "longitude": 5.610465,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 106,
+      "name": "Eekhoornlaan Comfortplaats 10",
+      "latitude": 52.678966,
+      "longitude": 5.61078,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 107,
+      "name": "Eekhoornlaan Comfortplaats 11",
+      "latitude": 52.678964,
+      "longitude": 5.610628,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 108,
+      "name": "Eekhoornlaan Comfortplaats 12",
+      "latitude": 52.678961,
+      "longitude": 5.610475,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 109,
+      "name": "Eekhoornlaan Comfortplaats 2",
+      "latitude": 52.678783,
+      "longitude": 5.610618,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 110,
+      "name": "Eekhoornlaan Comfortplaats 3",
+      "latitude": 52.678785,
+      "longitude": 5.610771,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 111,
+      "name": "Eekhoornlaan Comfortplaats 4",
+      "latitude": 52.678787,
+      "longitude": 5.610923,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 112,
+      "name": "Eekhoornlaan Comfortplaats 5",
+      "latitude": 52.67879,
+      "longitude": 5.611076,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 113,
+      "name": "Eekhoornlaan Comfortplaats 6",
+      "latitude": 52.678792,
+      "longitude": 5.611229,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 114,
+      "name": "Eekhoornlaan Comfortplaats 7",
+      "latitude": 52.678973,
+      "longitude": 5.611238,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 115,
+      "name": "Eekhoornlaan Comfortplaats 8",
+      "latitude": 52.678971,
+      "longitude": 5.611086,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 116,
+      "name": "Eekhoornlaan Comfortplaats 9",
+      "latitude": 52.678969,
+      "longitude": 5.610933,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 117,
+      "name": "Eekhornbos",
+      "latitude": 52.093959,
+      "longitude": 5.303727,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 118,
+      "name": "Egellaan Kampeerplaats 1",
+      "latitude": 52.680054,
+      "longitude": 5.612689,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 119,
+      "name": "Egellaan Kampeerplaats 10",
+      "latitude": 52.679767,
+      "longitude": 5.612825,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 120,
+      "name": "Egellaan Kampeerplaats 11",
+      "latitude": 52.679845,
+      "longitude": 5.612848,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 121,
+      "name": "Egellaan Kampeerplaats 12",
+      "latitude": 52.679918,
+      "longitude": 5.612894,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 122,
+      "name": "Egellaan Kampeerplaats 13",
+      "latitude": 52.67999,
+      "longitude": 5.612949,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 123,
+      "name": "Egellaan Kampeerplaats 2",
+      "latitude": 52.679969,
+      "longitude": 5.612592,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 124,
+      "name": "Egellaan Kampeerplaats 3",
+      "latitude": 52.679884,
+      "longitude": 5.612496,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 125,
+      "name": "Egellaan Kampeerplaats 4",
+      "latitude": 52.6798,
+      "longitude": 5.612399,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 126,
+      "name": "Egellaan Kampeerplaats 5",
+      "latitude": 52.679721,
+      "longitude": 5.612408,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 127,
+      "name": "Egellaan Kampeerplaats 6",
+      "latitude": 52.679685,
+      "longitude": 5.612523,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 128,
+      "name": "Egellaan Kampeerplaats 7",
+      "latitude": 52.679649,
+      "longitude": 5.612638,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 129,
+      "name": "Egellaan Kampeerplaats 8",
+      "latitude": 52.679618,
+      "longitude": 5.612813,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 130,
+      "name": "Egellaan Kampeerplaats 9",
+      "latitude": 52.679696,
+      "longitude": 5.612821,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 131,
+      "name": "Eikenbos",
+      "latitude": 52.09406,
+      "longitude": 5.302497,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 132,
+      "name": "Fazantenhof Comfortplaats 1",
+      "latitude": 52.678472,
+      "longitude": 5.610438,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 133,
+      "name": "Fazantenhof Comfortplaats 10",
+      "latitude": 52.678667,
+      "longitude": 5.610901,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 134,
+      "name": "Fazantenhof Comfortplaats 11",
+      "latitude": 52.678667,
+      "longitude": 5.610747,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 135,
+      "name": "Fazantenhof Comfortplaats 12",
+      "latitude": 52.678668,
+      "longitude": 5.610593,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 136,
+      "name": "Fazantenhof Comfortplaats 13",
+      "latitude": 52.678669,
+      "longitude": 5.610438,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 137,
+      "name": "Fazantenhof Comfortplaats 2",
+      "latitude": 52.678471,
+      "longitude": 5.610592,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 138,
+      "name": "Fazantenhof Comfortplaats 3",
+      "latitude": 52.678471,
+      "longitude": 5.610746,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 139,
+      "name": "Fazantenhof Comfortplaats 4",
+      "latitude": 52.67847,
+      "longitude": 5.6109,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 140,
+      "name": "Fazantenhof Comfortplaats 5",
+      "latitude": 52.678486,
+      "longitude": 5.611045,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 141,
+      "name": "Fazantenhof Comfortplaats 6",
+      "latitude": 52.678495,
+      "longitude": 5.611213,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 142,
+      "name": "Fazantenhof Comfortplaats 7",
+      "latitude": 52.67856,
+      "longitude": 5.611227,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 143,
+      "name": "Fazantenhof Comfortplaats 8",
+      "latitude": 52.678665,
+      "longitude": 5.611209,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 144,
+      "name": "Fazantenhof Comfortplaats 9",
+      "latitude": 52.678666,
+      "longitude": 5.611055,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 145,
+      "name": "Fazantenveld",
+      "latitude": 52.092662,
+      "longitude": 5.300133,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 146,
+      "name": "Glamping Tent 1",
+      "latitude": 52.680028,
+      "longitude": 5.612486,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 147,
+      "name": "Glamping Tent 2",
+      "latitude": 52.679916,
+      "longitude": 5.612335,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 148,
+      "name": "Grote veld",
+      "latitude": 51.957286,
+      "longitude": 6.377942,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 149,
+      "name": "HH",
+      "latitude": 51.538427,
+      "longitude": 3.678192,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 150,
+      "name": "Hazenpad Kampeerplaats 1",
+      "latitude": 52.678982,
+      "longitude": 5.612791,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 151,
+      "name": "Hazenpad Kampeerplaats 1",
+      "latitude": 52.678984,
+      "longitude": 5.611719,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 152,
+      "name": "Hazenpad Kampeerplaats 10",
+      "latitude": 52.67963,
+      "longitude": 5.613613,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 153,
+      "name": "Hazenpad Kampeerplaats 11",
+      "latitude": 52.679719,
+      "longitude": 5.613613,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 154,
+      "name": "Hazenpad Kampeerplaats 12",
+      "latitude": 52.679809,
+      "longitude": 5.613613,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 155,
+      "name": "Hazenpad Kampeerplaats 13",
+      "latitude": 52.679898,
+      "longitude": 5.613613,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 156,
+      "name": "Hazenpad Kampeerplaats 14",
+      "latitude": 52.679988,
+      "longitude": 5.613613,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 157,
+      "name": "Hazenpad Kampeerplaats 15",
+      "latitude": 52.680077,
+      "longitude": 5.613613,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 158,
+      "name": "Hazenpad Kampeerplaats 16",
+      "latitude": 52.680167,
+      "longitude": 5.613613,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 159,
+      "name": "Hazenpad Kampeerplaats 17",
+      "latitude": 52.680256,
+      "longitude": 5.613613,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 160,
+      "name": "Hazenpad Kampeerplaats 18",
+      "latitude": 52.680346,
+      "longitude": 5.613613,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 161,
+      "name": "Hazenpad Kampeerplaats 19",
+      "latitude": 52.680348,
+      "longitude": 5.613483,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 162,
+      "name": "Hazenpad Kampeerplaats 2",
+      "latitude": 52.678982,
+      "longitude": 5.612953,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 163,
+      "name": "Hazenpad Kampeerplaats 2",
+      "latitude": 52.678984,
+      "longitude": 5.611885,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 164,
+      "name": "Hazenpad Kampeerplaats 20",
+      "latitude": 52.680349,
+      "longitude": 5.613323,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 165,
+      "name": "Hazenpad Kampeerplaats 21",
+      "latitude": 52.680351,
+      "longitude": 5.613163,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 166,
+      "name": "Hazenpad Kampeerplaats 22",
+      "latitude": 52.680352,
+      "longitude": 5.613004,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 167,
+      "name": "Hazenpad Kampeerplaats 23",
+      "latitude": 52.680256,
+      "longitude": 5.612889,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 168,
+      "name": "Hazenpad Kampeerplaats 9",
+      "latitude": 52.67954,
+      "longitude": 5.613613,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 169,
+      "name": "Hertenveld",
+      "latitude": 52.09233,
+      "longitude": 5.301267,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 170,
+      "name": "Jaarplaats 1",
+      "latitude": 52.140257,
+      "longitude": 6.575538,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 171,
+      "name": "Jaarplaats 2",
+      "latitude": 52.14003,
+      "longitude": 6.575532,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 172,
+      "name": "Jaarplaats 3",
+      "latitude": 52.140065,
+      "longitude": 6.575202,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 173,
+      "name": "Jaarplaats 4",
+      "latitude": 52.140154,
+      "longitude": 6.575,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 174,
+      "name": "Jaarplaats 5",
+      "latitude": 52.140235,
+      "longitude": 6.574792,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 175,
+      "name": "Jaarplaats 6",
+      "latitude": 52.140384,
+      "longitude": 6.574799,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 176,
+      "name": "Jaarplaatsen",
+      "latitude": 51.996592,
+      "longitude": 6.718032,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 177,
+      "name": "Jungle",
+      "latitude": 52.09315,
+      "longitude": 5.303461,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 178,
+      "name": "Kastanjeveld",
+      "latitude": 52.093341,
+      "longitude": 5.301323,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 179,
+      "name": "Konijnenwijk Kampeerplaats 1",
+      "latitude": 52.679222,
+      "longitude": 5.612955,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 180,
+      "name": "Konijnenwijk Kampeerplaats 2",
+      "latitude": 52.679265,
+      "longitude": 5.612862,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 181,
+      "name": "Konijnenwijk Kampeerplaats 3",
+      "latitude": 52.67939,
+      "longitude": 5.612811,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 182,
+      "name": "Konijnenwijk Kampeerplaats 5",
+      "latitude": 52.679371,
+      "longitude": 5.612639,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 183,
+      "name": "Konijnenwijk Kampeerplaats 6",
+      "latitude": 52.67931,
+      "longitude": 5.612562,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 184,
+      "name": "Konijnenwijk Kampeerplaats 7",
+      "latitude": 52.679249,
+      "longitude": 5.612485,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 185,
+      "name": "Konijnenwijk Kampeerplaats 8",
+      "latitude": 52.679188,
+      "longitude": 5.612408,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 186,
+      "name": "Leisterbos",
+      "latitude": 52.094359,
+      "longitude": 5.301755,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 187,
+      "name": "M01",
+      "latitude": 51.725951,
+      "longitude": 3.77433,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 188,
+      "name": "M02",
+      "latitude": 51.725985,
+      "longitude": 3.774413,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 189,
+      "name": "M03",
+      "latitude": 51.726058,
+      "longitude": 3.774525,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 190,
+      "name": "M04",
+      "latitude": 51.726111,
+      "longitude": 3.774624,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 191,
+      "name": "M05",
+      "latitude": 51.726217,
+      "longitude": 3.774745,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 192,
+      "name": "M06",
+      "latitude": 51.726289,
+      "longitude": 3.774872,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 193,
+      "name": "M07",
+      "latitude": 51.72636,
+      "longitude": 3.774973,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 194,
+      "name": "M08",
+      "latitude": 51.726424,
+      "longitude": 3.775058,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 195,
+      "name": "M09",
+      "latitude": 51.726191,
+      "longitude": 3.775446,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 196,
+      "name": "M10",
+      "latitude": 51.726152,
+      "longitude": 3.77535,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 197,
+      "name": "M11",
+      "latitude": 51.726095,
+      "longitude": 3.775266,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 198,
+      "name": "M12",
+      "latitude": 51.726041,
+      "longitude": 3.775181,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 199,
+      "name": "M13",
+      "latitude": 51.725937,
+      "longitude": 3.775001,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 200,
+      "name": "M14",
+      "latitude": 51.725887,
+      "longitude": 3.7749,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 201,
+      "name": "M15",
+      "latitude": 51.725818,
+      "longitude": 3.774786,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 202,
+      "name": "M16",
+      "latitude": 51.725738,
+      "longitude": 3.774674,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 203,
+      "name": "Meeuwenlaan Comfortplaats 1",
+      "latitude": 52.67804,
+      "longitude": 5.610452,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 204,
+      "name": "Meeuwenlaan Comfortplaats 10",
+      "latitude": 52.678234,
+      "longitude": 5.610914,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 205,
+      "name": "Meeuwenlaan Comfortplaats 11",
+      "latitude": 52.678235,
+      "longitude": 5.61076,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 206,
+      "name": "Meeuwenlaan Comfortplaats 12",
+      "latitude": 52.678236,
+      "longitude": 5.610606,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 207,
+      "name": "Meeuwenlaan Comfortplaats 13",
+      "latitude": 52.678237,
+      "longitude": 5.610452,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 208,
+      "name": "Meeuwenlaan Comfortplaats 2",
+      "latitude": 52.678039,
+      "longitude": 5.610606,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 209,
+      "name": "Meeuwenlaan Comfortplaats 3",
+      "latitude": 52.678038,
+      "longitude": 5.61076,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 210,
+      "name": "Meeuwenlaan Comfortplaats 4",
+      "latitude": 52.678038,
+      "longitude": 5.610914,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 211,
+      "name": "Meeuwenlaan Comfortplaats 5",
+      "latitude": 52.678053,
+      "longitude": 5.611059,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 212,
+      "name": "Meeuwenlaan Comfortplaats 6",
+      "latitude": 52.678063,
+      "longitude": 5.611226,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 213,
+      "name": "Meeuwenlaan Comfortplaats 7",
+      "latitude": 52.678128,
+      "longitude": 5.611241,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 214,
+      "name": "Meeuwenlaan Comfortplaats 8",
+      "latitude": 52.678233,
+      "longitude": 5.611222,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 215,
+      "name": "Meeuwenlaan Comfortplaats 9",
+      "latitude": 52.678234,
+      "longitude": 5.611068,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 216,
+      "name": "Molenmark Kampeerplaats 1",
+      "latitude": 52.680009,
+      "longitude": 5.613318,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 217,
+      "name": "Molenmark Kampeerplaats 2",
+      "latitude": 52.679961,
+      "longitude": 5.613291,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 218,
+      "name": "Molenmark Kampeerplaats 3",
+      "latitude": 52.6799,
+      "longitude": 5.613251,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 219,
+      "name": "Molenmark Kampeerplaats 4",
+      "latitude": 52.67982,
+      "longitude": 5.613197,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 220,
+      "name": "Molenmark Kampeerplaats 5",
+      "latitude": 52.679721,
+      "longitude": 5.613173,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 221,
+      "name": "Molenmark Kampeerplaats 6",
+      "latitude": 52.679613,
+      "longitude": 5.613192,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 222,
+      "name": "Molenmark Kampeerplaats 7",
+      "latitude": 52.679529,
+      "longitude": 5.613157,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 223,
+      "name": "Natuurkampeerterrein Veluwe Bush Camp",
+      "latitude": 52.284824,
+      "longitude": 5.645318,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 224,
+      "name": "Natuurplezier",
+      "latitude": 51.27395,
+      "longitude": 6.122592,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 225,
+      "name": "Oudenbos",
+      "latitude": 52.09263,
+      "longitude": 5.301622,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 226,
+      "name": "Paardewei",
+      "latitude": 52.142687,
+      "longitude": 4.383255,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 227,
+      "name": "Patrijzenpark Comfortplaats 10",
+      "latitude": 52.677927,
+      "longitude": 5.610905,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 228,
+      "name": "Patrijzenpark Comfortplaats 11",
+      "latitude": 52.677928,
+      "longitude": 5.610751,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 229,
+      "name": "Patrijzenpark Comfortplaats 12",
+      "latitude": 52.677928,
+      "longitude": 5.610597,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 230,
+      "name": "Patrijzenpark Comfortplaats 13",
+      "latitude": 52.677929,
+      "longitude": 5.610443,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 231,
+      "name": "Patrijzenpark Comfortplaats 5",
+      "latitude": 52.677746,
+      "longitude": 5.61105,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 232,
+      "name": "Patrijzenpark Comfortplaats 6",
+      "latitude": 52.677755,
+      "longitude": 5.611218,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 233,
+      "name": "Patrijzenpark Comfortplaats 7",
+      "latitude": 52.677847,
+      "longitude": 5.611276,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 234,
+      "name": "Patrijzenpark Comfortplaats 8",
+      "latitude": 52.677925,
+      "longitude": 5.611213,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 235,
+      "name": "Patrijzenpark Comfortplaats 9",
+      "latitude": 52.677926,
+      "longitude": 5.611059,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 236,
+      "name": "Perceel 1",
+      "latitude": 52.251779,
+      "longitude": 4.94789,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 237,
+      "name": "Perceel 2",
+      "latitude": 52.251193,
+      "longitude": 4.947049,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 238,
+      "name": "Perceel 3",
+      "latitude": 52.250876,
+      "longitude": 4.94667,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 239,
+      "name": "Perceel 4",
+      "latitude": 52.250376,
+      "longitude": 4.94615,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 240,
+      "name": "Perceel 5",
+      "latitude": 52.250101,
+      "longitude": 4.94568,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 241,
+      "name": "Perceel 6",
+      "latitude": 52.249606,
+      "longitude": 4.94462,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 242,
+      "name": "Perceel 7",
+      "latitude": 52.249182,
+      "longitude": 4.944351,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 243,
+      "name": "Pijl en Boog",
+      "latitude": 53.170216,
+      "longitude": 6.382952,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 244,
+      "name": "Plaats 39",
+      "latitude": 52.132665,
+      "longitude": 5.949782,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 245,
+      "name": "Prins- en Prinsessentent",
+      "latitude": 51.92856,
+      "longitude": 6.260839,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 246,
+      "name": "Prunusveld",
+      "latitude": 52.091849,
+      "longitude": 5.301162,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 247,
+      "name": "Quo vadis",
+      "latitude": 52.097502,
+      "longitude": 5.639974,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 248,
+      "name": "R01",
+      "latitude": 51.726299,
+      "longitude": 3.774246,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 249,
+      "name": "R02",
+      "latitude": 51.726232,
+      "longitude": 3.774138,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 250,
+      "name": "R03",
+      "latitude": 51.72617,
+      "longitude": 3.774026,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 251,
+      "name": "R04",
+      "latitude": 51.726098,
+      "longitude": 3.773893,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 252,
+      "name": "R05",
+      "latitude": 51.726175,
+      "longitude": 3.77377,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 253,
+      "name": "R06",
+      "latitude": 51.726117,
+      "longitude": 3.773645,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 254,
+      "name": "R07",
+      "latitude": 51.72604,
+      "longitude": 3.773774,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 255,
+      "name": "R08",
+      "latitude": 51.725991,
+      "longitude": 3.77368,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 256,
+      "name": "R09",
+      "latitude": 51.726053,
+      "longitude": 3.77357,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 257,
+      "name": "R10",
+      "latitude": 51.725967,
+      "longitude": 3.77338,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 258,
+      "name": "R11",
+      "latitude": 51.725902,
+      "longitude": 3.773458,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 259,
+      "name": "R12",
+      "latitude": 51.725813,
+      "longitude": 3.773764,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 260,
+      "name": "R13",
+      "latitude": 51.725761,
+      "longitude": 3.773868,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 261,
+      "name": "R14",
+      "latitude": 51.725713,
+      "longitude": 3.773966,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 262,
+      "name": "R15",
+      "latitude": 51.72565,
+      "longitude": 3.774067,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 263,
+      "name": "R16",
+      "latitude": 51.725592,
+      "longitude": 3.77417,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 264,
+      "name": "R19",
+      "latitude": 51.725512,
+      "longitude": 3.774968,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 265,
+      "name": "R20",
+      "latitude": 51.725564,
+      "longitude": 3.775056,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 266,
+      "name": "R21",
+      "latitude": 51.725624,
+      "longitude": 3.775155,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 267,
+      "name": "R22",
+      "latitude": 51.725672,
+      "longitude": 3.775255,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 268,
+      "name": "R23",
+      "latitude": 51.725732,
+      "longitude": 3.77535,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 269,
+      "name": "R24",
+      "latitude": 51.725812,
+      "longitude": 3.775468,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 270,
+      "name": "R25",
+      "latitude": 51.725868,
+      "longitude": 3.775569,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 271,
+      "name": "R26",
+      "latitude": 51.725909,
+      "longitude": 3.77565,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 272,
+      "name": "R27",
+      "latitude": 51.725955,
+      "longitude": 3.775744,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 273,
+      "name": "R28",
+      "latitude": 51.726005,
+      "longitude": 3.775817,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 274,
+      "name": "R29",
+      "latitude": 51.72607,
+      "longitude": 3.775953,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 275,
+      "name": "R30",
+      "latitude": 51.726149,
+      "longitude": 3.776049,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 276,
+      "name": "R31",
+      "latitude": 51.726287,
+      "longitude": 3.776225,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 277,
+      "name": "R32",
+      "latitude": 51.726346,
+      "longitude": 3.776122,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 278,
+      "name": "R33",
+      "latitude": 51.726387,
+      "longitude": 3.776025,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 279,
+      "name": "R34",
+      "latitude": 51.726444,
+      "longitude": 3.775885,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 280,
+      "name": "R35",
+      "latitude": 51.726504,
+      "longitude": 3.775782,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 281,
+      "name": "R36",
+      "latitude": 51.726549,
+      "longitude": 3.775674,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 282,
+      "name": "R37",
+      "latitude": 51.726607,
+      "longitude": 3.775558,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 283,
+      "name": "R38",
+      "latitude": 51.726668,
+      "longitude": 3.775407,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 284,
+      "name": "R39",
+      "latitude": 51.726754,
+      "longitude": 3.775206,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 285,
+      "name": "R43",
+      "latitude": 51.726693,
+      "longitude": 3.774769,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 286,
+      "name": "R44",
+      "latitude": 51.726638,
+      "longitude": 3.774702,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 287,
+      "name": "R45",
+      "latitude": 51.72659,
+      "longitude": 3.774619,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 288,
+      "name": "R46",
+      "latitude": 51.726548,
+      "longitude": 3.774536,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 289,
+      "name": "R47",
+      "latitude": 51.726505,
+      "longitude": 3.774466,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 290,
+      "name": "Ravenbos",
+      "latitude": 52.091595,
+      "longitude": 5.300069,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 291,
+      "name": "Reeënbos",
+      "latitude": 52.094282,
+      "longitude": 5.305386,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 292,
+      "name": "Rood",
+      "latitude": 52.097836,
+      "longitude": 5.639795,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 293,
+      "name": "S01",
+      "latitude": 51.726221,
+      "longitude": 3.774503,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 294,
+      "name": "S02",
+      "latitude": 51.72616,
+      "longitude": 3.774398,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 295,
+      "name": "S03",
+      "latitude": 51.726098,
+      "longitude": 3.774308,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 296,
+      "name": "S04",
+      "latitude": 51.726035,
+      "longitude": 3.774212,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 297,
+      "name": "S05",
+      "latitude": 51.72597,
+      "longitude": 3.774087,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 298,
+      "name": "S06",
+      "latitude": 51.725926,
+      "longitude": 3.774008,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 299,
+      "name": "S07",
+      "latitude": 51.725886,
+      "longitude": 3.774124,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 300,
+      "name": "S08",
+      "latitude": 51.725832,
+      "longitude": 3.774227,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 301,
+      "name": "S09",
+      "latitude": 51.725735,
+      "longitude": 3.774453,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 302,
+      "name": "S10",
+      "latitude": 51.725675,
+      "longitude": 3.774558,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 303,
+      "name": "S11",
+      "latitude": 51.725627,
+      "longitude": 3.774674,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 304,
+      "name": "S12",
+      "latitude": 51.725675,
+      "longitude": 3.774802,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 305,
+      "name": "S13",
+      "latitude": 51.725743,
+      "longitude": 3.774894,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 306,
+      "name": "S14",
+      "latitude": 51.7258,
+      "longitude": 3.775003,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 307,
+      "name": "S15",
+      "latitude": 51.72585,
+      "longitude": 3.775117,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 308,
+      "name": "S16",
+      "latitude": 51.725956,
+      "longitude": 3.775317,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 309,
+      "name": "S17",
+      "latitude": 51.726003,
+      "longitude": 3.775407,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 310,
+      "name": "S18",
+      "latitude": 51.726065,
+      "longitude": 3.775501,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 311,
+      "name": "S19",
+      "latitude": 51.726113,
+      "longitude": 3.775593,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 312,
+      "name": "S20",
+      "latitude": 51.726168,
+      "longitude": 3.775681,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 313,
+      "name": "S21",
+      "latitude": 51.726218,
+      "longitude": 3.775773,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 314,
+      "name": "S22",
+      "latitude": 51.726304,
+      "longitude": 3.775657,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 315,
+      "name": "S23",
+      "latitude": 51.726345,
+      "longitude": 3.775569,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 316,
+      "name": "S24",
+      "latitude": 51.72641,
+      "longitude": 3.775466,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 317,
+      "name": "S25",
+      "latitude": 51.726474,
+      "longitude": 3.775269,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 318,
+      "name": "S26",
+      "latitude": 51.726522,
+      "longitude": 3.775179,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 319,
+      "name": "S27",
+      "latitude": 51.726587,
+      "longitude": 3.775056,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 320,
+      "name": "S28",
+      "latitude": 51.726497,
+      "longitude": 3.774938,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 321,
+      "name": "S29",
+      "latitude": 51.726441,
+      "longitude": 3.774854,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 322,
+      "name": "S30",
+      "latitude": 51.726377,
+      "longitude": 3.774738,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 323,
+      "name": "S31",
+      "latitude": 51.726311,
+      "longitude": 3.774642,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 324,
+      "name": "Safaritenten",
+      "latitude": 51.997086,
+      "longitude": 6.717995,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 325,
+      "name": "Sparrenbos",
+      "latitude": 52.094984,
+      "longitude": 5.304024,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 326,
+      "name": "Spechtenweg Comfortplaats 1",
+      "latitude": 52.677936,
+      "longitude": 5.610023,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 327,
+      "name": "Spechtenweg Comfortplaats 10",
+      "latitude": 52.677745,
+      "longitude": 5.609879,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 328,
+      "name": "Spechtenweg Comfortplaats 11",
+      "latitude": 52.677743,
+      "longitude": 5.610012,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 329,
+      "name": "Spechtenweg Comfortplaats 2",
+      "latitude": 52.677938,
+      "longitude": 5.60989,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 330,
+      "name": "Spechtenweg Comfortplaats 3",
+      "latitude": 52.677939,
+      "longitude": 5.609756,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 331,
+      "name": "Spechtenweg Comfortplaats 4",
+      "latitude": 52.677941,
+      "longitude": 5.609623,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 332,
+      "name": "Spechtenweg Comfortplaats 5",
+      "latitude": 52.677943,
+      "longitude": 5.60949,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 333,
+      "name": "Spechtenweg Comfortplaats 6",
+      "latitude": 52.677865,
+      "longitude": 5.609395,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 334,
+      "name": "Spechtenweg Comfortplaats 7",
+      "latitude": 52.67775,
+      "longitude": 5.60948,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 335,
+      "name": "Spechtenweg Comfortplaats 8",
+      "latitude": 52.677748,
+      "longitude": 5.609613,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 336,
+      "name": "Spechtenweg Comfortplaats 9",
+      "latitude": 52.677746,
+      "longitude": 5.609746,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 337,
+      "name": "Spechtenwoud",
+      "latitude": 52.091171,
+      "longitude": 5.301413,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 338,
+      "name": "Stammenveld",
+      "latitude": 52.091449,
+      "longitude": 5.304016,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 339,
+      "name": "Terrein 1",
+      "latitude": 52.469013,
+      "longitude": 5.828126,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 340,
+      "name": "Terrein 2",
+      "latitude": 52.467502,
+      "longitude": 5.826765,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 341,
+      "name": "Terrein 3",
+      "latitude": 52.468072,
+      "longitude": 5.82736,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 342,
+      "name": "Terrein 4",
+      "latitude": 52.46835,
+      "longitude": 5.827886,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 343,
+      "name": "Trekersveld",
+      "latitude": 52.091668,
+      "longitude": 5.301572,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 344,
+      "name": "Trekkersveld",
+      "latitude": 51.957345,
+      "longitude": 6.379184,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 345,
+      "name": "Trekkersveld",
+      "latitude": 52.187429,
+      "longitude": 5.663425,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 346,
+      "name": "Uilenvlucht Comfortplaats 1",
+      "latitude": 52.678241,
+      "longitude": 5.610031,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 347,
+      "name": "Uilenvlucht Comfortplaats 10",
+      "latitude": 52.678054,
+      "longitude": 5.610032,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 348,
+      "name": "Uilenvlucht Comfortplaats 2",
+      "latitude": 52.678243,
+      "longitude": 5.60989,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 349,
+      "name": "Uilenvlucht Comfortplaats 3",
+      "latitude": 52.678245,
+      "longitude": 5.609749,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 350,
+      "name": "Uilenvlucht Comfortplaats 4",
+      "latitude": 52.678247,
+      "longitude": 5.609608,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 351,
+      "name": "Uilenvlucht Comfortplaats 5",
+      "latitude": 52.678193,
+      "longitude": 5.609404,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 352,
+      "name": "Uilenvlucht Comfortplaats 6",
+      "latitude": 52.678128,
+      "longitude": 5.609399,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 353,
+      "name": "Uilenvlucht Comfortplaats 7",
+      "latitude": 52.67806,
+      "longitude": 5.609609,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 354,
+      "name": "Uilenvlucht Comfortplaats 8",
+      "latitude": 52.678058,
+      "longitude": 5.60975,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 355,
+      "name": "Uilenvlucht Comfortplaats 9",
+      "latitude": 52.678056,
+      "longitude": 5.609891,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 356,
+      "name": "Uilenwoud",
+      "latitude": 52.091505,
+      "longitude": 5.300792,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 357,
+      "name": "Verandachalets",
+      "latitude": 51.995951,
+      "longitude": 6.716827,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 358,
+      "name": "Vossenveld Kampeerplaats 1",
+      "latitude": 52.67922,
+      "longitude": 5.612112,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 359,
+      "name": "Vossenveld Kampeerplaats 10",
+      "latitude": 52.679295,
+      "longitude": 5.611834,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 360,
+      "name": "Vossenveld Kampeerplaats 11",
+      "latitude": 52.679274,
+      "longitude": 5.61171,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 361,
+      "name": "Vossenveld Kampeerplaats 2",
+      "latitude": 52.679324,
+      "longitude": 5.612166,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 362,
+      "name": "Vossenveld Kampeerplaats 3",
+      "latitude": 52.679396,
+      "longitude": 5.61227,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 363,
+      "name": "Vossenveld Kampeerplaats 4",
+      "latitude": 52.679469,
+      "longitude": 5.612374,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 364,
+      "name": "Vossenveld Kampeerplaats 5",
+      "latitude": 52.679527,
+      "longitude": 5.612269,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 365,
+      "name": "Vossenveld Kampeerplaats 6",
+      "latitude": 52.679552,
+      "longitude": 5.612115,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 366,
+      "name": "Vossenveld Kampeerplaats 8",
+      "latitude": 52.679466,
+      "longitude": 5.612021,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 367,
+      "name": "Vossenveld Kampeerplaats 9",
+      "latitude": 52.679381,
+      "longitude": 5.611928,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 368,
+      "name": "Y28",
+      "latitude": 53.374263,
+      "longitude": 6.158039,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 369,
+      "name": "Y29",
+      "latitude": 53.374249,
+      "longitude": 6.158216,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 370,
+      "name": "Y30",
+      "latitude": 53.374234,
+      "longitude": 6.158389,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 371,
+      "name": "Y31",
+      "latitude": 53.374199,
+      "longitude": 6.158568,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 372,
+      "name": "Y32",
+      "latitude": 53.374107,
+      "longitude": 6.158506,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 373,
+      "name": "Y33",
+      "latitude": 53.373984,
+      "longitude": 6.158376,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 374,
+      "name": "Y34",
+      "latitude": 53.373903,
+      "longitude": 6.158292,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 375,
+      "name": "Y35",
+      "latitude": 53.373969,
+      "longitude": 6.15811,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 376,
+      "name": "Y36",
+      "latitude": 53.374027,
+      "longitude": 6.157969,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 377,
+      "name": "Y37",
+      "latitude": 53.374082,
+      "longitude": 6.157827,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 378,
+      "name": "Y38",
+      "latitude": 53.37397,
+      "longitude": 6.157715,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 379,
+      "name": "Y39",
+      "latitude": 53.373913,
+      "longitude": 6.15787,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 380,
+      "name": "Y40",
+      "latitude": 53.373858,
+      "longitude": 6.15802,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 381,
+      "name": "Y41",
+      "latitude": 53.3738,
+      "longitude": 6.15818,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 382,
+      "name": "Y42",
+      "latitude": 53.373679,
+      "longitude": 6.158052,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 383,
+      "name": "Y43",
+      "latitude": 53.373604,
+      "longitude": 6.157948,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 384,
+      "name": "Y44",
+      "latitude": 53.373657,
+      "longitude": 6.157807,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 385,
+      "name": "Y45",
+      "latitude": 53.373714,
+      "longitude": 6.157656,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 386,
+      "name": "Y46",
+      "latitude": 53.373774,
+      "longitude": 6.157494,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 387,
+      "name": "Y47",
+      "latitude": 53.373885,
+      "longitude": 6.157101,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 388,
+      "name": "Y48",
+      "latitude": 53.373765,
+      "longitude": 6.15691,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 389,
+      "name": "Y49",
+      "latitude": 53.373849,
+      "longitude": 6.156809,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 390,
+      "name": "Y50",
+      "latitude": 53.37393,
+      "longitude": 6.156699,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 391,
+      "name": "Y51",
+      "latitude": 53.374008,
+      "longitude": 6.156586,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 392,
+      "name": "Y52",
+      "latitude": 53.374081,
+      "longitude": 6.156476,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 393,
+      "name": "Y53",
+      "latitude": 53.374155,
+      "longitude": 6.156374,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 394,
+      "name": "Y54",
+      "latitude": 53.37423,
+      "longitude": 6.156453,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 395,
+      "name": "Y55",
+      "latitude": 53.374308,
+      "longitude": 6.156532,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 396,
+      "name": "Y56",
+      "latitude": 53.374385,
+      "longitude": 6.156618,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 397,
+      "name": "Y57",
+      "latitude": 53.374333,
+      "longitude": 6.156757,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 398,
+      "name": "Y58",
+      "latitude": 53.374273,
+      "longitude": 6.156909,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 399,
+      "name": "Y59",
+      "latitude": 53.374217,
+      "longitude": 6.157052,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 400,
+      "name": "Y60",
+      "latitude": 53.374169,
+      "longitude": 6.157193,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 401,
+      "name": "Y61",
+      "latitude": 53.374113,
+      "longitude": 6.157331,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 402,
+      "name": "b1",
+      "latitude": 52.140641,
+      "longitude": 6.5764,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 403,
+      "name": "b10",
+      "latitude": 52.140488,
+      "longitude": 6.577578,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 404,
+      "name": "b12",
+      "latitude": 52.140315,
+      "longitude": 6.57736,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 405,
+      "name": "b15",
+      "latitude": 52.140197,
+      "longitude": 6.577106,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 406,
+      "name": "b16",
+      "latitude": 52.140138,
+      "longitude": 6.576979,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 407,
+      "name": "b17",
+      "latitude": 52.14007,
+      "longitude": 6.576852,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 408,
+      "name": "b19",
+      "latitude": 52.139966,
+      "longitude": 6.576654,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 409,
+      "name": "b2",
+      "latitude": 52.140659,
+      "longitude": 6.57658,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 410,
+      "name": "b20",
+      "latitude": 52.139903,
+      "longitude": 6.57653,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 411,
+      "name": "b21",
+      "latitude": 52.13985,
+      "longitude": 6.576411,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 412,
+      "name": "b22",
+      "latitude": 52.139852,
+      "longitude": 6.576268,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 413,
+      "name": "b5",
+      "latitude": 52.140695,
+      "longitude": 6.576936,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 414,
+      "name": "b6",
+      "latitude": 52.140715,
+      "longitude": 6.577102,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 415,
+      "name": "b7",
+      "latitude": 52.140736,
+      "longitude": 6.577259,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 416,
+      "name": "b8",
+      "latitude": 52.140674,
+      "longitude": 6.577359,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 417,
+      "name": "t60",
+      "latitude": 52.140494,
+      "longitude": 6.575365,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 418,
+      "name": "t61",
+      "latitude": 52.140497,
+      "longitude": 6.57524,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 419,
+      "name": "t62",
+      "latitude": 52.140505,
+      "longitude": 6.575095,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 420,
+      "name": "t63",
+      "latitude": 52.140508,
+      "longitude": 6.574919,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 421,
+      "name": "t64",
+      "latitude": 52.140514,
+      "longitude": 6.574753,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 422,
+      "name": "t65",
+      "latitude": 52.140635,
+      "longitude": 6.574762,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 423,
+      "name": "t66",
+      "latitude": 52.140736,
+      "longitude": 6.574756,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 424,
+      "name": "t67",
+      "latitude": 52.140838,
+      "longitude": 6.574749,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 425,
+      "name": "t70",
+      "latitude": 52.140819,
+      "longitude": 6.575056,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 426,
+      "name": "t71",
+      "latitude": 52.140808,
+      "longitude": 6.575206,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 427,
+      "name": "t72",
+      "latitude": 52.140798,
+      "longitude": 6.575336,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 428,
+      "name": "t73",
+      "latitude": 52.140744,
+      "longitude": 6.57548,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 429,
+      "name": "t74",
+      "latitude": 52.140651,
+      "longitude": 6.575522,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 430,
+      "name": "t75",
+      "latitude": 52.140573,
+      "longitude": 6.575558,
+      "osm_klasse": "tourism=camp_pitch"
+    },
+    {
+      "id": 431,
+      "name": "vossenbos",
+      "latitude": 52.093319,
+      "longitude": 5.305176,
+      "osm_klasse": "tourism=camp_pitch"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: camp pitch (tourism=camp_pitch) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged tourism=camp_pitch in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 431 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: camp pitch (tourism=camp_pitch) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: camp pitch (tourism=camp_pitch) — 431 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 431 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

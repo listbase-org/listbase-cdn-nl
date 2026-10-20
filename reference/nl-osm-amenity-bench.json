@@ -1,0 +1,4342 @@
+{
+  "id": "nl-osm-amenity-bench",
+  "name": "Netherlands OSM: bench (amenity=bench)",
+  "title": "Netherlands OSM: bench (amenity=bench)",
+  "description": "Named OpenStreetMap features tagged amenity=bench in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 613,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "\"Vier het leven\"",
+      "latitude": 51.562691,
+      "longitude": 5.214341,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 2,
+      "name": "'We Share'",
+      "latitude": 52.315566,
+      "longitude": 6.367091,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 3,
+      "name": "'t Oldewievenbankie",
+      "latitude": 52.342134,
+      "longitude": 6.07124,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 4,
+      "name": "'t Ven",
+      "latitude": 51.718314,
+      "longitude": 5.354609,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 5,
+      "name": "'t verPoosbankje",
+      "latitude": 51.674783,
+      "longitude": 5.828361,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 6,
+      "name": "2 hoog",
+      "latitude": 51.59342,
+      "longitude": 4.880371,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 7,
+      "name": "24 febr. 1923",
+      "latitude": 52.891424,
+      "longitude": 6.711557,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 8,
+      "name": "5 bankjes",
+      "latitude": 51.595833,
+      "longitude": 4.72423,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 9,
+      "name": "A mon seul Désir",
+      "latitude": 52.092696,
+      "longitude": 5.062436,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 10,
+      "name": "Aa-Radweg",
+      "latitude": 51.853614,
+      "longitude": 6.472244,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 11,
+      "name": "Aan klompenpad",
+      "latitude": 52.103067,
+      "longitude": 6.022897,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 12,
+      "name": "Age & Willy's bankje",
+      "latitude": 53.064708,
+      "longitude": 5.525491,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 13,
+      "name": "Alles wat ik zie is van mij",
+      "latitude": 52.159851,
+      "longitude": 5.383124,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 14,
+      "name": "Altaar van de Loenermark",
+      "latitude": 52.092113,
+      "longitude": 5.96761,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 15,
+      "name": "Amenity",
+      "latitude": 52.004163,
+      "longitude": 5.396017,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 16,
+      "name": "Amenity",
+      "latitude": 52.010766,
+      "longitude": 5.403706,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 17,
+      "name": "Anna van der Breggenbankje",
+      "latitude": 52.581694,
+      "longitude": 6.112399,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 18,
+      "name": "Annemiek",
+      "latitude": 51.650905,
+      "longitude": 5.194142,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 19,
+      "name": "Annie Dallmeijer - van Dijk",
+      "latitude": 53.478033,
+      "longitude": 6.144158,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 20,
+      "name": "Anton Smit",
+      "latitude": 51.999234,
+      "longitude": 5.73341,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 21,
+      "name": "Arend Spijker (gastheer NP 2000-2017)",
+      "latitude": 52.358021,
+      "longitude": 6.41682,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 22,
+      "name": "Aschotse Steeg",
+      "latitude": 51.6177,
+      "longitude": 5.144197,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 23,
+      "name": "BA-23",
+      "latitude": 52.564151,
+      "longitude": 4.642322,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 24,
+      "name": "BA-29",
+      "latitude": 52.567578,
+      "longitude": 4.618295,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 25,
+      "name": "BA-7",
+      "latitude": 52.564872,
+      "longitude": 4.65061,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 26,
+      "name": "BB-11",
+      "latitude": 52.668151,
+      "longitude": 4.69,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 27,
+      "name": "BB-14",
+      "latitude": 52.671291,
+      "longitude": 4.683555,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 28,
+      "name": "BB-15",
+      "latitude": 52.669742,
+      "longitude": 4.679166,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 29,
+      "name": "BB-16",
+      "latitude": 52.670554,
+      "longitude": 4.676718,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 30,
+      "name": "BB-2",
+      "latitude": 52.676478,
+      "longitude": 4.68894,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 31,
+      "name": "BB-3",
+      "latitude": 52.676833,
+      "longitude": 4.690572,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 32,
+      "name": "BB-8",
+      "latitude": 52.674723,
+      "longitude": 4.684757,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 33,
+      "name": "BE-1",
+      "latitude": 52.678522,
+      "longitude": 4.686469,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 34,
+      "name": "BE-10",
+      "latitude": 52.668307,
+      "longitude": 4.647484,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 35,
+      "name": "BE-12",
+      "latitude": 52.671371,
+      "longitude": 4.659025,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 36,
+      "name": "BE-13",
+      "latitude": 52.668338,
+      "longitude": 4.659745,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 37,
+      "name": "BE-14",
+      "latitude": 52.673537,
+      "longitude": 4.66927,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 38,
+      "name": "BE-15",
+      "latitude": 52.674922,
+      "longitude": 4.67005,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 39,
+      "name": "BE-16",
+      "latitude": 52.67309,
+      "longitude": 4.675047,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 40,
+      "name": "BE-17",
+      "latitude": 52.655101,
+      "longitude": 4.657346,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 41,
+      "name": "BE-19",
+      "latitude": 52.675216,
+      "longitude": 4.677296,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 42,
+      "name": "BE-2",
+      "latitude": 52.677639,
+      "longitude": 4.682289,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 43,
+      "name": "BE-20",
+      "latitude": 52.659351,
+      "longitude": 4.656966,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 44,
+      "name": "BE-21",
+      "latitude": 52.66038,
+      "longitude": 4.653237,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 45,
+      "name": "BE-22",
+      "latitude": 52.660092,
+      "longitude": 4.642813,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 46,
+      "name": "BE-23",
+      "latitude": 52.655288,
+      "longitude": 4.639996,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 47,
+      "name": "BE-25",
+      "latitude": 52.656005,
+      "longitude": 4.650738,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 48,
+      "name": "BE-26",
+      "latitude": 52.656678,
+      "longitude": 4.655875,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 49,
+      "name": "BE-27",
+      "latitude": 52.647725,
+      "longitude": 4.655488,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 50,
+      "name": "BE-3",
+      "latitude": 52.678773,
+      "longitude": 4.680446,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 51,
+      "name": "BE-36",
+      "latitude": 52.678241,
+      "longitude": 4.678382,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 52,
+      "name": "BE-37",
+      "latitude": 52.67402,
+      "longitude": 4.658397,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 53,
+      "name": "BE-38",
+      "latitude": 52.675464,
+      "longitude": 4.66528,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 54,
+      "name": "BE-39",
+      "latitude": 52.673607,
+      "longitude": 4.654963,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 55,
+      "name": "BE-4",
+      "latitude": 52.67782,
+      "longitude": 4.674841,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 56,
+      "name": "BE-40",
+      "latitude": 52.678737,
+      "longitude": 4.660774,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 57,
+      "name": "BE-41",
+      "latitude": 52.672377,
+      "longitude": 4.648872,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 58,
+      "name": "BE-42",
+      "latitude": 52.675004,
+      "longitude": 4.64983,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 59,
+      "name": "BE-5",
+      "latitude": 52.677976,
+      "longitude": 4.6698,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 60,
+      "name": "BE-6",
+      "latitude": 52.676216,
+      "longitude": 4.657387,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 61,
+      "name": "BE-7",
+      "latitude": 52.673816,
+      "longitude": 4.646267,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 62,
+      "name": "BE-9",
+      "latitude": 52.671019,
+      "longitude": 4.649792,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 63,
+      "name": "Balten bank",
+      "latitude": 52.101664,
+      "longitude": 4.359609,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 64,
+      "name": "Bankje",
+      "latitude": 52.497297,
+      "longitude": 6.212037,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 65,
+      "name": "Bankje \"Dat zit mooi\"",
+      "latitude": 52.362248,
+      "longitude": 6.99641,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 66,
+      "name": "Bankje Buitenomme",
+      "latitude": 51.955646,
+      "longitude": 5.564968,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 67,
+      "name": "Bankje aan de Sint-Barbarastraat",
+      "latitude": 51.439795,
+      "longitude": 5.883322,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 68,
+      "name": "Bankje van Angela",
+      "latitude": 52.20274,
+      "longitude": 5.203199,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 69,
+      "name": "Bankje van Betje (Polak)",
+      "latitude": 52.33576,
+      "longitude": 4.821543,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 70,
+      "name": "Bankje van Geert en Dineke",
+      "latitude": 53.037424,
+      "longitude": 6.391624,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 71,
+      "name": "Bankje van Geluk",
+      "latitude": 52.855699,
+      "longitude": 6.725871,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 72,
+      "name": "Bankje van Henk",
+      "latitude": 52.888742,
+      "longitude": 6.119626,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 73,
+      "name": "Bankje van Henk (Gerritsen)",
+      "latitude": 52.335694,
+      "longitude": 4.816577,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 74,
+      "name": "Bankje van Ingeborg",
+      "latitude": 52.309103,
+      "longitude": 5.216457,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 75,
+      "name": "Bankje van Jac P. (Thijsse)",
+      "latitude": 52.334166,
+      "longitude": 4.842215,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 76,
+      "name": "Bankje van Jan (Strijbos)",
+      "latitude": 52.340454,
+      "longitude": 4.822038,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 77,
+      "name": "Bankje van Jan (Swammerdam)",
+      "latitude": 52.33755,
+      "longitude": 4.829389,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 78,
+      "name": "Bankje van Josephine",
+      "latitude": 52.328708,
+      "longitude": 4.80421,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 79,
+      "name": "Bankje van hoop",
+      "latitude": 51.445456,
+      "longitude": 4.926828,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 80,
+      "name": "Bankje van koningin Máxima",
+      "latitude": 52.095734,
+      "longitude": 5.022717,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 81,
+      "name": "Bankjes",
+      "latitude": 52.42206,
+      "longitude": 6.75065,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 82,
+      "name": "Banksteen",
+      "latitude": 52.358264,
+      "longitude": 6.680269,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 83,
+      "name": "Baolder Laeft!",
+      "latitude": 51.3186,
+      "longitude": 6.10765,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 84,
+      "name": "Baolder Laeft!",
+      "latitude": 51.32501,
+      "longitude": 6.10315,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 85,
+      "name": "Bench hollow tree",
+      "latitude": 51.583734,
+      "longitude": 5.258769,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 86,
+      "name": "Benkske Vincent van Gogh",
+      "latitude": 51.553581,
+      "longitude": 5.07922,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 87,
+      "name": "Bernhard Vriesmanbank",
+      "latitude": 51.500157,
+      "longitude": 3.62223,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 88,
+      "name": "Bert Haanstra-bank",
+      "latitude": 52.722443,
+      "longitude": 6.089908,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 89,
+      "name": "Best Bench in Town",
+      "latitude": 52.374655,
+      "longitude": 4.879982,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 90,
+      "name": "Beverbankje",
+      "latitude": 51.630814,
+      "longitude": 5.335155,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 91,
+      "name": "Bevrijdingsbank",
+      "latitude": 51.998599,
+      "longitude": 5.67553,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 92,
+      "name": "Boombank",
+      "latitude": 51.356035,
+      "longitude": 5.384667,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 93,
+      "name": "Bor de Bondtbank",
+      "latitude": 52.05002,
+      "longitude": 5.69575,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 94,
+      "name": "Bospad",
+      "latitude": 53.444792,
+      "longitude": 5.615519,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 95,
+      "name": "Botterbank",
+      "latitude": 52.337906,
+      "longitude": 5.619965,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 96,
+      "name": "Bright Eyes",
+      "latitude": 52.281624,
+      "longitude": 4.62835,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 97,
+      "name": "Broekhuusbanke",
+      "latitude": 52.216673,
+      "longitude": 6.035066,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 98,
+      "name": "Brug in Ruste",
+      "latitude": 51.816321,
+      "longitude": 5.255998,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 99,
+      "name": "Brunabankje",
+      "latitude": 52.07784,
+      "longitude": 5.138997,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 100,
+      "name": "Brúne earrebarrebek",
+      "latitude": 53.102189,
+      "longitude": 5.753336,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 101,
+      "name": "Burg. A. van Houdt",
+      "latitude": 51.405399,
+      "longitude": 5.206961,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 102,
+      "name": "Burgemeester Stroink Bank",
+      "latitude": 52.235647,
+      "longitude": 6.826955,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 103,
+      "name": "Burgemeester v/d Veldenbank",
+      "latitude": 52.20672,
+      "longitude": 5.021496,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 104,
+      "name": "Buurtbankje",
+      "latitude": 52.005311,
+      "longitude": 4.330383,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 105,
+      "name": "Bychelaer",
+      "latitude": 51.568562,
+      "longitude": 5.352845,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 106,
+      "name": "CA-18",
+      "latitude": 52.555406,
+      "longitude": 4.638615,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 107,
+      "name": "CA-19",
+      "latitude": 52.553894,
+      "longitude": 4.630562,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 108,
+      "name": "CA-25",
+      "latitude": 52.547401,
+      "longitude": 4.606847,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 109,
+      "name": "CA-26",
+      "latitude": 52.546917,
+      "longitude": 4.609478,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 110,
+      "name": "CA-3",
+      "latitude": 52.558685,
+      "longitude": 4.636267,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 111,
+      "name": "CA-37",
+      "latitude": 52.544343,
+      "longitude": 4.632124,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 112,
+      "name": "CA-40",
+      "latitude": 52.548493,
+      "longitude": 4.638468,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 113,
+      "name": "CA-41",
+      "latitude": 52.548617,
+      "longitude": 4.640644,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 114,
+      "name": "CA-43",
+      "latitude": 52.55096,
+      "longitude": 4.644964,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 115,
+      "name": "CA-46",
+      "latitude": 52.548969,
+      "longitude": 4.645829,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 116,
+      "name": "CA-51",
+      "latitude": 52.546946,
+      "longitude": 4.648144,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 117,
+      "name": "CA-53",
+      "latitude": 52.545967,
+      "longitude": 4.649161,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 118,
+      "name": "CA-54",
+      "latitude": 52.546169,
+      "longitude": 4.64758,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 119,
+      "name": "CA-60",
+      "latitude": 52.54281,
+      "longitude": 4.65068,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 120,
+      "name": "CA-63",
+      "latitude": 52.540385,
+      "longitude": 4.65132,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 121,
+      "name": "CA-71",
+      "latitude": 52.536208,
+      "longitude": 4.651022,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 122,
+      "name": "CA-72",
+      "latitude": 52.534447,
+      "longitude": 4.651178,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 123,
+      "name": "CA-73",
+      "latitude": 52.534118,
+      "longitude": 4.65009,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 124,
+      "name": "CA-74",
+      "latitude": 52.5312,
+      "longitude": 4.650522,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 125,
+      "name": "CA-90",
+      "latitude": 52.537535,
+      "longitude": 4.655109,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 126,
+      "name": "Calvébankje",
+      "latitude": 52.077805,
+      "longitude": 5.139587,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 127,
+      "name": "Chauffeurs der Vischauto's",
+      "latitude": 52.186327,
+      "longitude": 5.981603,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 128,
+      "name": "Cremerbank",
+      "latitude": 52.099724,
+      "longitude": 4.292781,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 129,
+      "name": "Cronebank",
+      "latitude": 53.049137,
+      "longitude": 6.639079,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 130,
+      "name": "DK11",
+      "latitude": 52.434024,
+      "longitude": 4.584416,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 131,
+      "name": "DK14",
+      "latitude": 52.432805,
+      "longitude": 4.570288,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 132,
+      "name": "DK15",
+      "latitude": 52.433343,
+      "longitude": 4.564006,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 133,
+      "name": "DK20",
+      "latitude": 52.435992,
+      "longitude": 4.597394,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 134,
+      "name": "DK22",
+      "latitude": 52.439092,
+      "longitude": 4.610632,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 135,
+      "name": "DK25",
+      "latitude": 52.43742,
+      "longitude": 4.621337,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 136,
+      "name": "DK26",
+      "latitude": 52.436644,
+      "longitude": 4.625843,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 137,
+      "name": "DK28",
+      "latitude": 52.434221,
+      "longitude": 4.622352,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 138,
+      "name": "De Bank van Rembrandt",
+      "latitude": 52.334543,
+      "longitude": 4.842929,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 139,
+      "name": "De Escherbank",
+      "latitude": 53.185314,
+      "longitude": 5.818918,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 140,
+      "name": "De Klootsemabank",
+      "latitude": 51.983675,
+      "longitude": 6.289427,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 141,
+      "name": "De Open Linie",
+      "latitude": 51.617253,
+      "longitude": 4.906041,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 142,
+      "name": "De Strip",
+      "latitude": 51.421072,
+      "longitude": 5.405704,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 143,
+      "name": "De Zuidert",
+      "latitude": 52.70384,
+      "longitude": 5.762264,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 144,
+      "name": "Dickies bank",
+      "latitude": 52.721985,
+      "longitude": 6.543088,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 145,
+      "name": "Die Berch",
+      "latitude": 51.573456,
+      "longitude": 5.408728,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 146,
+      "name": "Dijkstoelen",
+      "latitude": 52.465403,
+      "longitude": 6.083002,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 147,
+      "name": "Doggersbank",
+      "latitude": 52.095855,
+      "longitude": 4.266675,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 148,
+      "name": "Dorien Vellinga",
+      "latitude": 53.485913,
+      "longitude": 6.226033,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 149,
+      "name": "Douwertkapje",
+      "latitude": 52.393003,
+      "longitude": 5.957051,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 150,
+      "name": "Drenthepad",
+      "latitude": 52.994238,
+      "longitude": 6.379932,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 151,
+      "name": "Drenthepadbankje",
+      "latitude": 52.786354,
+      "longitude": 6.363745,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 152,
+      "name": "Drenthepadbankje",
+      "latitude": 52.789299,
+      "longitude": 6.302565,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 153,
+      "name": "Drenthepadbankje",
+      "latitude": 52.872808,
+      "longitude": 6.841684,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 154,
+      "name": "Drenthepadbankje",
+      "latitude": 52.915837,
+      "longitude": 6.83355,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 155,
+      "name": "Drenthepadbankje",
+      "latitude": 52.964221,
+      "longitude": 6.797,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 156,
+      "name": "E. van Hage bankje",
+      "latitude": 52.128147,
+      "longitude": 4.44411,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 157,
+      "name": "EG-6",
+      "latitude": 52.608321,
+      "longitude": 4.627575,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 158,
+      "name": "EG68",
+      "latitude": 52.575026,
+      "longitude": 4.613734,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 159,
+      "name": "Echtenseweg",
+      "latitude": 52.742854,
+      "longitude": 6.378071,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 160,
+      "name": "Eendenzitje",
+      "latitude": 52.132493,
+      "longitude": 5.592652,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 161,
+      "name": "Eeuwnferjetlik, Prieter van der Geest",
+      "latitude": 53.486629,
+      "longitude": 6.145732,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 162,
+      "name": "Effe Uitzakken",
+      "latitude": 52.442901,
+      "longitude": 4.777616,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 163,
+      "name": "Egbert Pelincks",
+      "latitude": 53.058896,
+      "longitude": 6.487133,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 164,
+      "name": "Elfenbankje",
+      "latitude": 51.760582,
+      "longitude": 4.689413,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 165,
+      "name": "Engel & Anneke",
+      "latitude": 53.487563,
+      "longitude": 6.22185,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 166,
+      "name": "Eysinga",
+      "latitude": 53.203293,
+      "longitude": 5.788977,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 167,
+      "name": "Francis",
+      "latitude": 51.651928,
+      "longitude": 5.179166,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 168,
+      "name": "Geert Grave Bank",
+      "latitude": 52.255272,
+      "longitude": 5.981701,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 169,
+      "name": "Geert Hof bank",
+      "latitude": 53.009064,
+      "longitude": 6.456971,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 170,
+      "name": "Gelderse Waard",
+      "latitude": 51.903544,
+      "longitude": 6.095119,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 171,
+      "name": "Gemaal Erlecom",
+      "latitude": 51.855509,
+      "longitude": 5.953676,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 172,
+      "name": "Gevers leugenbankje",
+      "latitude": 52.548573,
+      "longitude": 4.655332,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 173,
+      "name": "Geërfdenbank",
+      "latitude": 52.007175,
+      "longitude": 5.977797,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 174,
+      "name": "Gouda Pottery",
+      "latitude": 52.012789,
+      "longitude": 4.709675,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 175,
+      "name": "Graaf Bentinck bank",
+      "latitude": 52.051514,
+      "longitude": 5.691477,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 176,
+      "name": "Grasbank",
+      "latitude": 52.268397,
+      "longitude": 4.626605,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 177,
+      "name": "Grasbank",
+      "latitude": 52.345632,
+      "longitude": 4.707706,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 178,
+      "name": "Grasbank",
+      "latitude": 52.348594,
+      "longitude": 4.707967,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 179,
+      "name": "Graslok bench",
+      "latitude": 51.997477,
+      "longitude": 4.375945,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 180,
+      "name": "Grovestinsbank",
+      "latitude": 52.234741,
+      "longitude": 5.905668,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 181,
+      "name": "HK-13",
+      "latitude": 52.526837,
+      "longitude": 4.633272,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 182,
+      "name": "HK-14",
+      "latitude": 52.525377,
+      "longitude": 4.631201,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 183,
+      "name": "HK-15",
+      "latitude": 52.524411,
+      "longitude": 4.631918,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 184,
+      "name": "HK-16",
+      "latitude": 52.523678,
+      "longitude": 4.632002,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 185,
+      "name": "HK-17",
+      "latitude": 52.526835,
+      "longitude": 4.632304,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 186,
+      "name": "HK-19",
+      "latitude": 52.524647,
+      "longitude": 4.634659,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 187,
+      "name": "HK-2",
+      "latitude": 52.532568,
+      "longitude": 4.640083,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 188,
+      "name": "HK-20",
+      "latitude": 52.52566,
+      "longitude": 4.637961,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 189,
+      "name": "HK-24",
+      "latitude": 52.521786,
+      "longitude": 4.641067,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 190,
+      "name": "HK-26",
+      "latitude": 52.523425,
+      "longitude": 4.63594,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 191,
+      "name": "HK-30",
+      "latitude": 52.515585,
+      "longitude": 4.630543,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 192,
+      "name": "HK-31",
+      "latitude": 52.518727,
+      "longitude": 4.608583,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 193,
+      "name": "HK-32",
+      "latitude": 52.5163,
+      "longitude": 4.614366,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 194,
+      "name": "HK-34",
+      "latitude": 52.513439,
+      "longitude": 4.624723,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 195,
+      "name": "HK-4",
+      "latitude": 52.52809,
+      "longitude": 4.635853,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 196,
+      "name": "HK-45",
+      "latitude": 52.500025,
+      "longitude": 4.597282,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 197,
+      "name": "HK-49",
+      "latitude": 52.501925,
+      "longitude": 4.592937,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 198,
+      "name": "HK-5",
+      "latitude": 52.52942,
+      "longitude": 4.632196,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 199,
+      "name": "HK-51",
+      "latitude": 52.523319,
+      "longitude": 4.637881,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 200,
+      "name": "HK-52",
+      "latitude": 52.521759,
+      "longitude": 4.644188,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 201,
+      "name": "HK-53",
+      "latitude": 52.515687,
+      "longitude": 4.631739,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 202,
+      "name": "HK-7",
+      "latitude": 52.527737,
+      "longitude": 4.615268,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 203,
+      "name": "Haenenbank",
+      "latitude": 51.612378,
+      "longitude": 4.828532,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 204,
+      "name": "Hangplek Sportpark Landsmeer",
+      "latitude": 52.432501,
+      "longitude": 4.908026,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 205,
+      "name": "Harrie America",
+      "latitude": 50.798532,
+      "longitude": 5.904686,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 206,
+      "name": "Hautert",
+      "latitude": 51.648752,
+      "longitude": 5.438001,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 207,
+      "name": "Heerenbeek/Velder",
+      "latitude": 51.544571,
+      "longitude": 5.344091,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 208,
+      "name": "Herinneringsbank Wietze Landman",
+      "latitude": 52.086803,
+      "longitude": 5.645168,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 209,
+      "name": "Herinneringsplek Kim",
+      "latitude": 51.978162,
+      "longitude": 5.72115,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 210,
+      "name": "Het Bankje van Nel",
+      "latitude": 52.334393,
+      "longitude": 4.842716,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 211,
+      "name": "Het Eurobankje",
+      "latitude": 52.299674,
+      "longitude": 6.757078,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 212,
+      "name": "Het Leesbankje",
+      "latitude": 52.256239,
+      "longitude": 6.87464,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 213,
+      "name": "Het Linde Zitje",
+      "latitude": 52.045826,
+      "longitude": 4.652758,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 214,
+      "name": "Het Meer",
+      "latitude": 52.96822,
+      "longitude": 5.954219,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 215,
+      "name": "Het Mijmerbankje",
+      "latitude": 52.871018,
+      "longitude": 6.192468,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 216,
+      "name": "Het Stenenbankje",
+      "latitude": 52.272739,
+      "longitude": 6.428355,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 217,
+      "name": "Het Weteringse Broek",
+      "latitude": 52.207339,
+      "longitude": 6.048647,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 218,
+      "name": "Het bankje van Chris",
+      "latitude": 52.335421,
+      "longitude": 4.827263,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 219,
+      "name": "Hier zit je goed",
+      "latitude": 52.693104,
+      "longitude": 4.750744,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 220,
+      "name": "Hoddepad",
+      "latitude": 53.387657,
+      "longitude": 5.272313,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 221,
+      "name": "Hollandse IJsselpad",
+      "latitude": 51.999705,
+      "longitude": 5.06648,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 222,
+      "name": "Hondenspeelweide",
+      "latitude": 52.010173,
+      "longitude": 6.337071,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 223,
+      "name": "Houten Bank",
+      "latitude": 51.806633,
+      "longitude": 4.576595,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 224,
+      "name": "Houten bankje aan het veld",
+      "latitude": 52.029899,
+      "longitude": 5.833774,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 225,
+      "name": "Huetbank",
+      "latitude": 52.017244,
+      "longitude": 4.35188,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 226,
+      "name": "Huub's plek",
+      "latitude": 52.438723,
+      "longitude": 4.606855,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 227,
+      "name": "I.M. Megan",
+      "latitude": 51.575323,
+      "longitude": 4.7671,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 228,
+      "name": "IJsbaan",
+      "latitude": 51.862394,
+      "longitude": 4.995708,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 229,
+      "name": "IJsbaan",
+      "latitude": 51.862628,
+      "longitude": 4.996427,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 230,
+      "name": "In Dongen doen we dingen samen",
+      "latitude": 51.627461,
+      "longitude": 4.941371,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 231,
+      "name": "Infocentrum Markelo 2019",
+      "latitude": 52.237096,
+      "longitude": 6.507621,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 232,
+      "name": "Infocentrum Markelo 2019",
+      "latitude": 52.237507,
+      "longitude": 6.506173,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 233,
+      "name": "Inundatiebank",
+      "latitude": 51.823398,
+      "longitude": 5.031255,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 234,
+      "name": "Inundatiebank",
+      "latitude": 51.860818,
+      "longitude": 5.065663,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 235,
+      "name": "Inundatiebank",
+      "latitude": 51.93483,
+      "longitude": 5.153731,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 236,
+      "name": "Inundatiebank",
+      "latitude": 51.945927,
+      "longitude": 5.167975,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 237,
+      "name": "Inundatiebank",
+      "latitude": 51.966206,
+      "longitude": 5.178331,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 238,
+      "name": "Inundatiebank",
+      "latitude": 51.972314,
+      "longitude": 5.158603,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 239,
+      "name": "Inundatiebank",
+      "latitude": 52.072752,
+      "longitude": 5.179741,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 240,
+      "name": "Inundatiebank",
+      "latitude": 52.086561,
+      "longitude": 5.171375,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 241,
+      "name": "It Lytse Wiid - Uitzichtplateau",
+      "latitude": 52.946015,
+      "longitude": 5.855609,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 242,
+      "name": "Jacoba-bank",
+      "latitude": 52.184907,
+      "longitude": 5.811864,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 243,
+      "name": "Jacobus Klein",
+      "latitude": 53.48741,
+      "longitude": 6.221968,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 244,
+      "name": "Jan G. Van Den Tweel (1942 - 2020)",
+      "latitude": 52.228575,
+      "longitude": 5.13746,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 245,
+      "name": "Jan Kruize",
+      "latitude": 53.05872,
+      "longitude": 6.486227,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 246,
+      "name": "Jan Tuttel bankje",
+      "latitude": 53.127999,
+      "longitude": 6.555826,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 247,
+      "name": "Janetje",
+      "latitude": 51.633921,
+      "longitude": 5.03459,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 248,
+      "name": "Jet",
+      "latitude": 52.237457,
+      "longitude": 5.212672,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 249,
+      "name": "Job",
+      "latitude": 52.229065,
+      "longitude": 5.14847,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 250,
+      "name": "Johannes van Dijk",
+      "latitude": 53.471259,
+      "longitude": 6.152392,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 251,
+      "name": "Joop's bankje",
+      "latitude": 52.160424,
+      "longitude": 6.063421,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 252,
+      "name": "Jos z'n benkske",
+      "latitude": 51.31416,
+      "longitude": 5.521435,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 253,
+      "name": "Jubileum bank",
+      "latitude": 51.504627,
+      "longitude": 3.892811,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 254,
+      "name": "KD-12",
+      "latitude": 52.425271,
+      "longitude": 4.587561,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 255,
+      "name": "KD-30",
+      "latitude": 52.416159,
+      "longitude": 4.574872,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 256,
+      "name": "KD-31",
+      "latitude": 52.414958,
+      "longitude": 4.573302,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 257,
+      "name": "KD-32",
+      "latitude": 52.414317,
+      "longitude": 4.573527,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 258,
+      "name": "KD-33",
+      "latitude": 52.417057,
+      "longitude": 4.574241,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 259,
+      "name": "KD-34",
+      "latitude": 52.417279,
+      "longitude": 4.573537,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 260,
+      "name": "KD-35",
+      "latitude": 52.417607,
+      "longitude": 4.57263,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 261,
+      "name": "KD-36",
+      "latitude": 52.416605,
+      "longitude": 4.57107,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 262,
+      "name": "KD-37",
+      "latitude": 52.421219,
+      "longitude": 4.56918,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 263,
+      "name": "KD-43",
+      "latitude": 52.413503,
+      "longitude": 4.55895,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 264,
+      "name": "KD-44",
+      "latitude": 52.41394,
+      "longitude": 4.565142,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 265,
+      "name": "KD-45",
+      "latitude": 52.41116,
+      "longitude": 4.566217,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 266,
+      "name": "KD-46",
+      "latitude": 52.412321,
+      "longitude": 4.569571,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 267,
+      "name": "KD-47",
+      "latitude": 52.412233,
+      "longitude": 4.571873,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 268,
+      "name": "KD-54",
+      "latitude": 52.39672,
+      "longitude": 4.592369,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 269,
+      "name": "KD-56",
+      "latitude": 52.398208,
+      "longitude": 4.590695,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 270,
+      "name": "KD-60",
+      "latitude": 52.401361,
+      "longitude": 4.592576,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 271,
+      "name": "KD-61",
+      "latitude": 52.403383,
+      "longitude": 4.584928,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 272,
+      "name": "KD-62",
+      "latitude": 52.404673,
+      "longitude": 4.587549,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 273,
+      "name": "KD-63",
+      "latitude": 52.406613,
+      "longitude": 4.584146,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 274,
+      "name": "KD-64",
+      "latitude": 52.406295,
+      "longitude": 4.58145,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 275,
+      "name": "KD-65",
+      "latitude": 52.406883,
+      "longitude": 4.579628,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 276,
+      "name": "KD-66",
+      "latitude": 52.407827,
+      "longitude": 4.577748,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 277,
+      "name": "KD-67",
+      "latitude": 52.405685,
+      "longitude": 4.574812,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 278,
+      "name": "KD-68",
+      "latitude": 52.408852,
+      "longitude": 4.573328,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 279,
+      "name": "KD-69",
+      "latitude": 52.409493,
+      "longitude": 4.564818,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 280,
+      "name": "Klapbank",
+      "latitude": 51.444024,
+      "longitude": 3.84113,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 281,
+      "name": "Klimaatbankje",
+      "latitude": 52.382756,
+      "longitude": 4.902696,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 282,
+      "name": "Klimaatbosje",
+      "latitude": 52.000768,
+      "longitude": 6.343079,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 283,
+      "name": "Koos Huininga bank",
+      "latitude": 53.010496,
+      "longitude": 6.42142,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 284,
+      "name": "Krentenbollenbankje",
+      "latitude": 52.117049,
+      "longitude": 4.61649,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 285,
+      "name": "Kringopstelling van 4 boomstambanken.",
+      "latitude": 52.285405,
+      "longitude": 5.252008,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 286,
+      "name": "Kunstbank",
+      "latitude": 52.306085,
+      "longitude": 4.68649,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 287,
+      "name": "Landing Zuid-Beveland",
+      "latitude": 51.394098,
+      "longitude": 3.893237,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 288,
+      "name": "Lars en Karin",
+      "latitude": 53.473605,
+      "longitude": 6.14145,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 289,
+      "name": "Law. not war",
+      "latitude": 52.087593,
+      "longitude": 4.296358,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 290,
+      "name": "Leegeind",
+      "latitude": 51.533263,
+      "longitude": 5.332541,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 291,
+      "name": "Leugenaarsbank",
+      "latitude": 52.106387,
+      "longitude": 5.106763,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 292,
+      "name": "Leugenbank",
+      "latitude": 51.872766,
+      "longitude": 5.075285,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 293,
+      "name": "Leugenbank",
+      "latitude": 51.915202,
+      "longitude": 4.082237,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 294,
+      "name": "Leugenbank",
+      "latitude": 51.916648,
+      "longitude": 4.079997,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 295,
+      "name": "Leugenbank",
+      "latitude": 52.707007,
+      "longitude": 5.298299,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 296,
+      "name": "Leugenbankje",
+      "latitude": 53.337115,
+      "longitude": 6.298387,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 297,
+      "name": "Lia Vriend-Vendel",
+      "latitude": 52.562138,
+      "longitude": 4.672048,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 298,
+      "name": "Lieve opa Hans voor altijd in ons hart",
+      "latitude": 52.275984,
+      "longitude": 5.22107,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 299,
+      "name": "Lilipaly bank",
+      "latitude": 51.543328,
+      "longitude": 3.927016,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 300,
+      "name": "Lucie's bankje",
+      "latitude": 52.271119,
+      "longitude": 4.982322,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 301,
+      "name": "Maarten van Rossem",
+      "latitude": 52.086424,
+      "longitude": 5.14063,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 302,
+      "name": "Majoor Bosshardt",
+      "latitude": 52.375548,
+      "longitude": 4.900026,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 303,
+      "name": "Malckersteegh",
+      "latitude": 51.525906,
+      "longitude": 5.373679,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 304,
+      "name": "Mari's bankje",
+      "latitude": 51.382758,
+      "longitude": 5.618007,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 305,
+      "name": "Markelink",
+      "latitude": 51.957988,
+      "longitude": 6.58299,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 306,
+      "name": "Martijn van den Bergh",
+      "latitude": 52.234006,
+      "longitude": 5.643919,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 307,
+      "name": "May the wind be always on your back.",
+      "latitude": 52.815827,
+      "longitude": 4.704795,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 308,
+      "name": "Meester Posthuma-bank",
+      "latitude": 53.154084,
+      "longitude": 6.398061,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 309,
+      "name": "Memorial Bench Jonas Moons",
+      "latitude": 52.071362,
+      "longitude": 5.157066,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 310,
+      "name": "Menno's bankje",
+      "latitude": 53.386698,
+      "longitude": 6.346241,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 311,
+      "name": "Menthol en Roosje",
+      "latitude": 52.264583,
+      "longitude": 6.795618,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 312,
+      "name": "Minister Kan Bank",
+      "latitude": 52.989997,
+      "longitude": 6.732563,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 313,
+      "name": "Molenakker",
+      "latitude": 51.639119,
+      "longitude": 5.174213,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 314,
+      "name": "Mondriaanbank met Nehallenia",
+      "latitude": 51.566257,
+      "longitude": 3.496766,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 315,
+      "name": "Mosbank",
+      "latitude": 52.078544,
+      "longitude": 6.073488,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 316,
+      "name": "Mozaïekbank",
+      "latitude": 52.389196,
+      "longitude": 4.687121,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 317,
+      "name": "Mozaïekbank Ter herinnering aan de oude gemeente Haarlemmerliede & Spaarnwoude",
+      "latitude": 52.383581,
+      "longitude": 4.754948,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 318,
+      "name": "Mr. J.E. Banck-bank",
+      "latitude": 53.472139,
+      "longitude": 6.15781,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 319,
+      "name": "Muystermolen",
+      "latitude": 51.458265,
+      "longitude": 5.265395,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 320,
+      "name": "Natuurmomenten",
+      "latitude": 51.121876,
+      "longitude": 5.852528,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 321,
+      "name": "Natuurmonumenten",
+      "latitude": 50.826594,
+      "longitude": 5.686884,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 322,
+      "name": "Notarisbank",
+      "latitude": 52.384197,
+      "longitude": 6.034299,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 323,
+      "name": "Nudepad",
+      "latitude": 51.962129,
+      "longitude": 5.637868,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 324,
+      "name": "Ons Bankje",
+      "latitude": 52.993219,
+      "longitude": 6.612616,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 325,
+      "name": "Opa's Plekje",
+      "latitude": 52.951819,
+      "longitude": 6.813848,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 326,
+      "name": "Oprichtersbank",
+      "latitude": 52.358007,
+      "longitude": 4.863056,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 327,
+      "name": "Oude molenberg",
+      "latitude": 52.679863,
+      "longitude": 5.954704,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 328,
+      "name": "Panoramabank",
+      "latitude": 51.8273,
+      "longitude": 5.831331,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 329,
+      "name": "Pastoor J.A. Terken",
+      "latitude": 51.831247,
+      "longitude": 5.470669,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 330,
+      "name": "Peelse Loop 2017",
+      "latitude": 51.571118,
+      "longitude": 5.675246,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 331,
+      "name": "Pelgrimsbankje",
+      "latitude": 51.832401,
+      "longitude": 4.862393,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 332,
+      "name": "Pembroekbank",
+      "latitude": 52.002334,
+      "longitude": 5.709086,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 333,
+      "name": "Peters Bank",
+      "latitude": 50.94998,
+      "longitude": 5.887688,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 334,
+      "name": "Peters bankje, voor papa 1966-2020",
+      "latitude": 51.618873,
+      "longitude": 4.845499,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 335,
+      "name": "Picknick tafel",
+      "latitude": 52.640625,
+      "longitude": 4.799038,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 336,
+      "name": "Picnictafel",
+      "latitude": 52.170677,
+      "longitude": 6.331769,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 337,
+      "name": "Pierre Baylele Philosophe de Rotterdam (1647-1706)",
+      "latitude": 51.921091,
+      "longitude": 4.485241,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 338,
+      "name": "Piet Schuurmans-bank",
+      "latitude": 51.650539,
+      "longitude": 5.304312,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 339,
+      "name": "Pieter Ronald Bakkerbank",
+      "latitude": 53.132349,
+      "longitude": 6.584833,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 340,
+      "name": "Pieterburen N 90 km, St. Pietersberg S 402 km",
+      "latitude": 52.886324,
+      "longitude": 6.703653,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 341,
+      "name": "Plaetse Wevershoek",
+      "latitude": 51.502698,
+      "longitude": 5.34333,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 342,
+      "name": "Plataan",
+      "latitude": 52.088327,
+      "longitude": 5.51123,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 343,
+      "name": "Pollingbank",
+      "latitude": 53.076422,
+      "longitude": 6.440273,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 344,
+      "name": "Posbank",
+      "latitude": 52.028482,
+      "longitude": 6.021256,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 345,
+      "name": "President Steynbank",
+      "latitude": 52.095533,
+      "longitude": 5.812489,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 346,
+      "name": "Prinsessenboompjes",
+      "latitude": 51.567774,
+      "longitude": 5.15414,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 347,
+      "name": "Pura Vida",
+      "latitude": 51.819329,
+      "longitude": 5.93029,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 348,
+      "name": "R1",
+      "latitude": 52.376466,
+      "longitude": 6.053408,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 349,
+      "name": "Recht zo die ging",
+      "latitude": 52.235007,
+      "longitude": 5.218411,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 350,
+      "name": "Regenboogbankje",
+      "latitude": 51.443985,
+      "longitude": 5.617914,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 351,
+      "name": "Remembrance bench 1940-1945",
+      "latitude": 52.125188,
+      "longitude": 6.443846,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 352,
+      "name": "Rikzitje",
+      "latitude": 51.965616,
+      "longitude": 6.446601,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 353,
+      "name": "Roads-baankie",
+      "latitude": 52.440658,
+      "longitude": 6.454235,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 354,
+      "name": "Rosenthalbank",
+      "latitude": 52.344417,
+      "longitude": 4.879065,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 355,
+      "name": "Round Bench With Plants",
+      "latitude": 51.903305,
+      "longitude": 6.259875,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 356,
+      "name": "Rowen Bats",
+      "latitude": 52.124425,
+      "longitude": 6.244195,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 357,
+      "name": "Rozenbank",
+      "latitude": 52.391311,
+      "longitude": 5.958738,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 358,
+      "name": "Rudolf Meijer-bank",
+      "latitude": 52.722435,
+      "longitude": 6.089885,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 359,
+      "name": "Rustpunt",
+      "latitude": 52.306605,
+      "longitude": 6.870523,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 360,
+      "name": "Rös, bewónger en... geneet.",
+      "latitude": 51.320656,
+      "longitude": 6.106925,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 361,
+      "name": "SBB Zuid-Limburg",
+      "latitude": 50.776016,
+      "longitude": 5.949928,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 362,
+      "name": "SC-01",
+      "latitude": 52.723731,
+      "longitude": 4.64837,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 363,
+      "name": "SC-02",
+      "latitude": 52.722133,
+      "longitude": 4.653444,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 364,
+      "name": "SC-03",
+      "latitude": 52.721775,
+      "longitude": 4.651948,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 365,
+      "name": "SC-10",
+      "latitude": 52.718771,
+      "longitude": 4.661735,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 366,
+      "name": "SC-100",
+      "latitude": 52.714678,
+      "longitude": 4.674112,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 367,
+      "name": "SC-102",
+      "latitude": 52.714926,
+      "longitude": 4.667398,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 368,
+      "name": "SC-105",
+      "latitude": 52.71204,
+      "longitude": 4.651671,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 369,
+      "name": "SC-106",
+      "latitude": 52.712133,
+      "longitude": 4.672865,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 370,
+      "name": "SC-108",
+      "latitude": 52.703731,
+      "longitude": 4.679543,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 371,
+      "name": "SC-109",
+      "latitude": 52.694517,
+      "longitude": 4.671479,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 372,
+      "name": "SC-11",
+      "latitude": 52.717265,
+      "longitude": 4.671046,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 373,
+      "name": "SC-110",
+      "latitude": 52.688052,
+      "longitude": 4.69758,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 374,
+      "name": "SC-112",
+      "latitude": 52.699408,
+      "longitude": 4.654444,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 375,
+      "name": "SC-113",
+      "latitude": 52.704898,
+      "longitude": 4.685216,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 376,
+      "name": "SC-114",
+      "latitude": 52.703658,
+      "longitude": 4.667107,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 377,
+      "name": "SC-12",
+      "latitude": 52.71834,
+      "longitude": 4.663116,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 378,
+      "name": "SC-121",
+      "latitude": 52.719241,
+      "longitude": 4.668019,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 379,
+      "name": "SC-125",
+      "latitude": 52.70459,
+      "longitude": 4.685056,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 380,
+      "name": "SC-13",
+      "latitude": 52.718177,
+      "longitude": 4.660934,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 381,
+      "name": "SC-14",
+      "latitude": 52.716788,
+      "longitude": 4.648033,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 382,
+      "name": "SC-17",
+      "latitude": 52.714481,
+      "longitude": 4.669742,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 383,
+      "name": "SC-18",
+      "latitude": 52.713483,
+      "longitude": 4.658276,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 384,
+      "name": "SC-19",
+      "latitude": 52.712008,
+      "longitude": 4.676095,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 385,
+      "name": "SC-20",
+      "latitude": 52.711961,
+      "longitude": 4.678121,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 386,
+      "name": "SC-21",
+      "latitude": 52.711108,
+      "longitude": 4.66459,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 387,
+      "name": "SC-22",
+      "latitude": 52.710768,
+      "longitude": 4.671335,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 388,
+      "name": "SC-23",
+      "latitude": 52.709516,
+      "longitude": 4.678186,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 389,
+      "name": "SC-24",
+      "latitude": 52.707685,
+      "longitude": 4.66671,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 390,
+      "name": "SC-25",
+      "latitude": 52.707268,
+      "longitude": 4.682957,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 391,
+      "name": "SC-26",
+      "latitude": 52.707185,
+      "longitude": 4.66577,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 392,
+      "name": "SC-27",
+      "latitude": 52.706896,
+      "longitude": 4.684215,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 393,
+      "name": "SC-34",
+      "latitude": 52.706328,
+      "longitude": 4.685525,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 394,
+      "name": "SC-35",
+      "latitude": 52.704141,
+      "longitude": 4.684712,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 395,
+      "name": "SC-37",
+      "latitude": 52.704735,
+      "longitude": 4.686504,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 396,
+      "name": "SC-38",
+      "latitude": 52.703869,
+      "longitude": 4.687486,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 397,
+      "name": "SC-40",
+      "latitude": 52.702867,
+      "longitude": 4.669926,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 398,
+      "name": "SC-42",
+      "latitude": 52.70146,
+      "longitude": 4.669553,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 399,
+      "name": "SC-43",
+      "latitude": 52.701488,
+      "longitude": 4.683576,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 400,
+      "name": "SC-44",
+      "latitude": 52.700527,
+      "longitude": 4.678984,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 401,
+      "name": "SC-45",
+      "latitude": 52.700528,
+      "longitude": 4.652157,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 402,
+      "name": "SC-46",
+      "latitude": 52.721054,
+      "longitude": 4.659441,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 403,
+      "name": "SC-47",
+      "latitude": 52.702714,
+      "longitude": 4.678127,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 404,
+      "name": "SC-49",
+      "latitude": 52.700035,
+      "longitude": 4.689195,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 405,
+      "name": "SC-5",
+      "latitude": 52.720069,
+      "longitude": 4.666466,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 406,
+      "name": "SC-50",
+      "latitude": 52.69875,
+      "longitude": 4.684537,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 407,
+      "name": "SC-51",
+      "latitude": 52.698629,
+      "longitude": 4.686692,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 408,
+      "name": "SC-56",
+      "latitude": 52.697859,
+      "longitude": 4.688069,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 409,
+      "name": "SC-59",
+      "latitude": 52.697881,
+      "longitude": 4.688043,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 410,
+      "name": "SC-6",
+      "latitude": 52.719522,
+      "longitude": 4.662242,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 411,
+      "name": "SC-60",
+      "latitude": 52.699417,
+      "longitude": 4.654631,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 412,
+      "name": "SC-62",
+      "latitude": 52.696422,
+      "longitude": 4.693062,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 413,
+      "name": "SC-66",
+      "latitude": 52.695545,
+      "longitude": 4.671379,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 414,
+      "name": "SC-68",
+      "latitude": 52.6939,
+      "longitude": 4.661029,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 415,
+      "name": "SC-69",
+      "latitude": 52.692961,
+      "longitude": 4.680537,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 416,
+      "name": "SC-71",
+      "latitude": 52.691826,
+      "longitude": 4.665137,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 417,
+      "name": "SC-72",
+      "latitude": 52.691811,
+      "longitude": 4.670974,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 418,
+      "name": "SC-74",
+      "latitude": 52.691023,
+      "longitude": 4.696202,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 419,
+      "name": "SC-75",
+      "latitude": 52.691729,
+      "longitude": 4.687707,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 420,
+      "name": "SC-76",
+      "latitude": 52.688786,
+      "longitude": 4.679199,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 421,
+      "name": "SC-78",
+      "latitude": 52.685821,
+      "longitude": 4.694564,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 422,
+      "name": "SC-79",
+      "latitude": 52.685301,
+      "longitude": 4.685536,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 423,
+      "name": "SC-80",
+      "latitude": 52.684923,
+      "longitude": 4.662073,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 424,
+      "name": "SC-80",
+      "latitude": 52.692218,
+      "longitude": 4.658995,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 425,
+      "name": "SC-81",
+      "latitude": 52.685,
+      "longitude": 4.690688,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 426,
+      "name": "SC-83",
+      "latitude": 52.683054,
+      "longitude": 4.695284,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 427,
+      "name": "SC-85",
+      "latitude": 52.682122,
+      "longitude": 4.672104,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 428,
+      "name": "SC-89",
+      "latitude": 52.68152,
+      "longitude": 4.677965,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 429,
+      "name": "SC-90",
+      "latitude": 52.681694,
+      "longitude": 4.661666,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 430,
+      "name": "SC-91",
+      "latitude": 52.681505,
+      "longitude": 4.684143,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 431,
+      "name": "SC-92",
+      "latitude": 52.681899,
+      "longitude": 4.681931,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 432,
+      "name": "SC-94",
+      "latitude": 52.680706,
+      "longitude": 4.6653,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 433,
+      "name": "SC-97",
+      "latitude": 52.700171,
+      "longitude": 4.668969,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 434,
+      "name": "Scinlre Mere",
+      "latitude": 51.628562,
+      "longitude": 5.463296,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 435,
+      "name": "Sibold Sicco Kolijn",
+      "latitude": 53.480415,
+      "longitude": 6.210331,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 436,
+      "name": "Sijpkens bankje",
+      "latitude": 53.396934,
+      "longitude": 6.317537,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 437,
+      "name": "Sint Odaberg",
+      "latitude": 51.534496,
+      "longitude": 5.496051,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 438,
+      "name": "Sitting Gardener",
+      "latitude": 51.999779,
+      "longitude": 5.677207,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 439,
+      "name": "Sitzbank mit Tisch",
+      "latitude": 51.570891,
+      "longitude": 3.54513,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 440,
+      "name": "Social Sofa",
+      "latitude": 50.889895,
+      "longitude": 5.970065,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 441,
+      "name": "Social Sofa",
+      "latitude": 51.208242,
+      "longitude": 5.949971,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 442,
+      "name": "Social Sofa",
+      "latitude": 51.486143,
+      "longitude": 5.666767,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 443,
+      "name": "Social Sofa",
+      "latitude": 51.504245,
+      "longitude": 5.742686,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 444,
+      "name": "Social Sofa",
+      "latitude": 51.512485,
+      "longitude": 5.394102,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 445,
+      "name": "Social Sofa",
+      "latitude": 51.529672,
+      "longitude": 5.626231,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 446,
+      "name": "Social Sofa",
+      "latitude": 51.533161,
+      "longitude": 5.6309,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 447,
+      "name": "Social Sofa",
+      "latitude": 51.553593,
+      "longitude": 5.682943,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 448,
+      "name": "Social Sofa",
+      "latitude": 51.562856,
+      "longitude": 5.645021,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 449,
+      "name": "Social Sofa",
+      "latitude": 51.579282,
+      "longitude": 5.713273,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 450,
+      "name": "Social Sofa",
+      "latitude": 51.587568,
+      "longitude": 5.712283,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 451,
+      "name": "Social Sofa",
+      "latitude": 51.591401,
+      "longitude": 4.86076,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 452,
+      "name": "Social Sofa",
+      "latitude": 51.60305,
+      "longitude": 5.673266,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 453,
+      "name": "Social Sofa",
+      "latitude": 51.603598,
+      "longitude": 5.67676,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 454,
+      "name": "Social Sofa",
+      "latitude": 51.657108,
+      "longitude": 5.617231,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 455,
+      "name": "Social Sofa",
+      "latitude": 51.984808,
+      "longitude": 5.659947,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 456,
+      "name": "Social Sofa",
+      "latitude": 52.00432,
+      "longitude": 4.36622,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 457,
+      "name": "Social Sofa",
+      "latitude": 52.066697,
+      "longitude": 4.253363,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 458,
+      "name": "Social Sofa",
+      "latitude": 52.079072,
+      "longitude": 4.330859,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 459,
+      "name": "Social Sofa",
+      "latitude": 52.254154,
+      "longitude": 6.163818,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 460,
+      "name": "Social Sofa",
+      "latitude": 52.270905,
+      "longitude": 4.744947,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 461,
+      "name": "Social Sofa",
+      "latitude": 52.330765,
+      "longitude": 4.892329,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 462,
+      "name": "Social Sofa",
+      "latitude": 52.332931,
+      "longitude": 6.280683,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 463,
+      "name": "Social Sofa",
+      "latitude": 52.438494,
+      "longitude": 4.82559,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 464,
+      "name": "Social Sofa",
+      "latitude": 52.716071,
+      "longitude": 6.850619,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 465,
+      "name": "Social Sofa",
+      "latitude": 52.763086,
+      "longitude": 5.660844,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 466,
+      "name": "Social Sofa",
+      "latitude": 52.877539,
+      "longitude": 7.058875,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 467,
+      "name": "Social Sofa",
+      "latitude": 52.986116,
+      "longitude": 6.954472,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 468,
+      "name": "Social Sofa",
+      "latitude": 53.103166,
+      "longitude": 6.87222,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 469,
+      "name": "Social Sofa",
+      "latitude": 53.135698,
+      "longitude": 6.868568,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 470,
+      "name": "Social Sofa",
+      "latitude": 53.135698,
+      "longitude": 7.034446,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 471,
+      "name": "Social Sofa",
+      "latitude": 53.138587,
+      "longitude": 6.929839,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 472,
+      "name": "Social Sofa",
+      "latitude": 53.141276,
+      "longitude": 7.037135,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 473,
+      "name": "Social Sofa",
+      "latitude": 53.14154,
+      "longitude": 6.975994,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 474,
+      "name": "Social Sofa",
+      "latitude": 53.142839,
+      "longitude": 7.037421,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 475,
+      "name": "Social Sofa",
+      "latitude": 53.144202,
+      "longitude": 7.01635,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 476,
+      "name": "Social Sofa",
+      "latitude": 53.14698,
+      "longitude": 7.033697,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 477,
+      "name": "Social Sofa",
+      "latitude": 53.150571,
+      "longitude": 7.032846,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 478,
+      "name": "Social Sofa",
+      "latitude": 53.153993,
+      "longitude": 7.032399,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 479,
+      "name": "Social Sofa",
+      "latitude": 53.156521,
+      "longitude": 7.002566,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 480,
+      "name": "Social Sofa",
+      "latitude": 53.157732,
+      "longitude": 7.042986,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 481,
+      "name": "Social Sofa",
+      "latitude": 53.161435,
+      "longitude": 6.86318,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 482,
+      "name": "Social Sofa",
+      "latitude": 53.16271,
+      "longitude": 7.04264,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 483,
+      "name": "Social Sofa",
+      "latitude": 53.164689,
+      "longitude": 7.036432,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 484,
+      "name": "Social Sofa",
+      "latitude": 53.165467,
+      "longitude": 7.036834,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 485,
+      "name": "Social Sofa",
+      "latitude": 53.168326,
+      "longitude": 7.035426,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 486,
+      "name": "Social Sofa",
+      "latitude": 53.173772,
+      "longitude": 7.09643,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 487,
+      "name": "Social Sofa",
+      "latitude": 53.174706,
+      "longitude": 7.097223,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 488,
+      "name": "Social Sofa",
+      "latitude": 53.175323,
+      "longitude": 7.097511,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 489,
+      "name": "Social Sofa",
+      "latitude": 53.199941,
+      "longitude": 7.037011,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 490,
+      "name": "Social Sofa",
+      "latitude": 53.2026,
+      "longitude": 7.045044,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 491,
+      "name": "Social Sofa",
+      "latitude": 53.245079,
+      "longitude": 6.978675,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 492,
+      "name": "Social Sofa",
+      "latitude": 53.42045,
+      "longitude": 6.763048,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 493,
+      "name": "Social Sofa Goes-Oost",
+      "latitude": 51.502083,
+      "longitude": 3.900339,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 494,
+      "name": "Social Sofa Nieuw-Vennep",
+      "latitude": 52.265461,
+      "longitude": 4.62869,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 495,
+      "name": "Social Sofa Revelsant",
+      "latitude": 52.704393,
+      "longitude": 5.735839,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 496,
+      "name": "Social Sofa Riethoek",
+      "latitude": 51.49436,
+      "longitude": 3.908862,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 497,
+      "name": "Social Sofa Rossum",
+      "latitude": 51.801406,
+      "longitude": 5.346621,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 498,
+      "name": "Social Sofa Sinterklaas",
+      "latitude": 51.55259,
+      "longitude": 5.095801,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 499,
+      "name": "Social sofa Eygelshoven",
+      "latitude": 50.893361,
+      "longitude": 6.057673,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 500,
+      "name": "Social sofa Usquert",
+      "latitude": 53.403932,
+      "longitude": 6.611139,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 501,
+      "name": "Sonnebank",
+      "latitude": 51.500253,
+      "longitude": 5.457247,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 502,
+      "name": "Sonnebank",
+      "latitude": 51.50029,
+      "longitude": 5.458283,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 503,
+      "name": "Sonnebank",
+      "latitude": 51.501936,
+      "longitude": 5.493438,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 504,
+      "name": "Sonnebank",
+      "latitude": 51.505074,
+      "longitude": 5.498957,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 505,
+      "name": "Sonnebank",
+      "latitude": 51.510693,
+      "longitude": 5.499181,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 506,
+      "name": "Sonnebank",
+      "latitude": 51.512923,
+      "longitude": 5.47873,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 507,
+      "name": "Sonnebank",
+      "latitude": 51.513457,
+      "longitude": 5.487681,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 508,
+      "name": "Sonnebank",
+      "latitude": 51.522204,
+      "longitude": 5.491385,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 509,
+      "name": "Space to Take Place",
+      "latitude": 52.361162,
+      "longitude": 4.993033,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 510,
+      "name": "Spoorbank",
+      "latitude": 52.153049,
+      "longitude": 5.376856,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 511,
+      "name": "Stamboomtafel Keatsebuorren",
+      "latitude": 53.234409,
+      "longitude": 5.512289,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 512,
+      "name": "Stenen Bank",
+      "latitude": 52.214497,
+      "longitude": 5.922426,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 513,
+      "name": "Sterrenbosch",
+      "latitude": 51.32738,
+      "longitude": 6.10167,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 514,
+      "name": "Stichting Maria Mediatrix",
+      "latitude": 51.554023,
+      "longitude": 4.801527,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 515,
+      "name": "Stichting Wijkraad",
+      "latitude": 51.575248,
+      "longitude": 5.067061,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 516,
+      "name": "TS 214",
+      "latitude": 53.409795,
+      "longitude": 5.348842,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 517,
+      "name": "TS 215",
+      "latitude": 53.406608,
+      "longitude": 5.354224,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 518,
+      "name": "TS 216",
+      "latitude": 53.405563,
+      "longitude": 5.352383,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 519,
+      "name": "TS030",
+      "latitude": 53.382662,
+      "longitude": 5.218519,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 520,
+      "name": "TX100",
+      "latitude": 53.071207,
+      "longitude": 4.749647,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 521,
+      "name": "TX38",
+      "latitude": 53.114472,
+      "longitude": 4.775278,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 522,
+      "name": "TX41",
+      "latitude": 53.111266,
+      "longitude": 4.7826,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 523,
+      "name": "Tellegenbank",
+      "latitude": 51.993257,
+      "longitude": 5.899923,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 524,
+      "name": "Ter ere van Jo en Ad",
+      "latitude": 52.904502,
+      "longitude": 6.367662,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 525,
+      "name": "Teunbankje",
+      "latitude": 53.051607,
+      "longitude": 6.717794,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 526,
+      "name": "Texelaars bank",
+      "latitude": 52.993806,
+      "longitude": 6.563856,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 527,
+      "name": "The Fault In Our Stars Bench",
+      "latitude": 52.367454,
+      "longitude": 4.88621,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 528,
+      "name": "Tigchelaar \"de rietput\"",
+      "latitude": 51.540067,
+      "longitude": 3.92909,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 529,
+      "name": "Tom",
+      "latitude": 51.650678,
+      "longitude": 5.191817,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 530,
+      "name": "Toxopeus bankje",
+      "latitude": 53.398693,
+      "longitude": 6.322636,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 531,
+      "name": "Uilenbankje",
+      "latitude": 52.220615,
+      "longitude": 4.483561,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 532,
+      "name": "Uitzichtpunt",
+      "latitude": 52.251918,
+      "longitude": 5.836877,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 533,
+      "name": "Ulendonc-bank",
+      "latitude": 51.645687,
+      "longitude": 4.90114,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 534,
+      "name": "Ut Bengske van Frenske",
+      "latitude": 51.371499,
+      "longitude": 5.973776,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 535,
+      "name": "Ut Gimmes kletstbenkske",
+      "latitude": 51.612724,
+      "longitude": 5.334189,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 536,
+      "name": "Ut bänkske van Siem",
+      "latitude": 51.804519,
+      "longitude": 5.938534,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 537,
+      "name": "Vaartsche Rijmbankje",
+      "latitude": 52.066037,
+      "longitude": 5.115335,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 538,
+      "name": "Van Lanschot",
+      "latitude": 52.462136,
+      "longitude": 4.772244,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 539,
+      "name": "Van Lanschot 275",
+      "latitude": 51.829797,
+      "longitude": 3.936651,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 540,
+      "name": "Van Meursbank",
+      "latitude": 52.387637,
+      "longitude": 6.046456,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 541,
+      "name": "Van Roijenbank",
+      "latitude": 52.509527,
+      "longitude": 6.094867,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 542,
+      "name": "Van Tienhovenbank",
+      "latitude": 51.568703,
+      "longitude": 5.207491,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 543,
+      "name": "Venlo dankt Veendam",
+      "latitude": 53.112741,
+      "longitude": 6.878321,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 544,
+      "name": "Ver Huellbank",
+      "latitude": 52.09896,
+      "longitude": 4.294573,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 545,
+      "name": "Verhalenbank Baflo",
+      "latitude": 53.36075,
+      "longitude": 6.518354,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 546,
+      "name": "Verhalenbank Pieterburen",
+      "latitude": 53.400297,
+      "longitude": 6.451757,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 547,
+      "name": "Verhalenbank Spijk",
+      "latitude": 53.388904,
+      "longitude": 6.839174,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 548,
+      "name": "Verhalenbank Uithuizermeeden",
+      "latitude": 53.414529,
+      "longitude": 6.725479,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 549,
+      "name": "Verhalenbank Warffum",
+      "latitude": 53.392178,
+      "longitude": 6.562066,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 550,
+      "name": "Vertel het aan de wind",
+      "latitude": 53.48194,
+      "longitude": 6.145587,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 551,
+      "name": "Vervaardigd door...",
+      "latitude": 51.555647,
+      "longitude": 5.075862,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 552,
+      "name": "Vierdaagsebank",
+      "latitude": 51.912229,
+      "longitude": 5.876156,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 553,
+      "name": "Vleutense Molens",
+      "latitude": 51.527469,
+      "longitude": 5.415264,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 554,
+      "name": "Vlinderbank",
+      "latitude": 51.931498,
+      "longitude": 4.38582,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 555,
+      "name": "Vlokhoven",
+      "latitude": 51.470493,
+      "longitude": 5.480932,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 556,
+      "name": "Vogeltelplek",
+      "latitude": 51.972566,
+      "longitude": 3.970966,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 557,
+      "name": "Vogeltelpost Brobbelbies",
+      "latitude": 51.711767,
+      "longitude": 5.605549,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 558,
+      "name": "Voor Siep Hedlund Kapt. G.H.V.",
+      "latitude": 53.496615,
+      "longitude": 6.164678,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 559,
+      "name": "Vos & fazant",
+      "latitude": 52.907171,
+      "longitude": 6.365996,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 560,
+      "name": "WM-1",
+      "latitude": 52.631233,
+      "longitude": 4.650226,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 561,
+      "name": "WM-12",
+      "latitude": 52.637032,
+      "longitude": 4.655188,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 562,
+      "name": "WM-3",
+      "latitude": 52.629223,
+      "longitude": 4.626954,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 563,
+      "name": "Waiting for Responsibility and Full Clarity",
+      "latitude": 52.085545,
+      "longitude": 4.285955,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 564,
+      "name": "Watdataangaat",
+      "latitude": 53.256236,
+      "longitude": 5.525969,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 565,
+      "name": "Waterliniebank",
+      "latitude": 51.865868,
+      "longitude": 5.122588,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 566,
+      "name": "Waterliniebank",
+      "latitude": 52.048403,
+      "longitude": 5.14835,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 567,
+      "name": "Wees Welkom Bankje",
+      "latitude": 51.901341,
+      "longitude": 4.069627,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 568,
+      "name": "Wethouder C. Molendijk",
+      "latitude": 51.752437,
+      "longitude": 4.316188,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 569,
+      "name": "Wetland viewingpoint",
+      "latitude": 52.524995,
+      "longitude": 4.680018,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 570,
+      "name": "Wie van de natuur houdt is nooit alleen",
+      "latitude": 51.545603,
+      "longitude": 4.785981,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 571,
+      "name": "Wija Alida van Staveren (1939 - 2019)",
+      "latitude": 51.980317,
+      "longitude": 5.707871,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 572,
+      "name": "Wijdevenne benkske",
+      "latitude": 51.547291,
+      "longitude": 5.343671,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 573,
+      "name": "Wilhelminamonument",
+      "latitude": 51.455745,
+      "longitude": 5.445614,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 574,
+      "name": "Wilhelminiabank",
+      "latitude": 52.044146,
+      "longitude": 6.615339,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 575,
+      "name": "Willem Wensink Bank",
+      "latitude": 52.170401,
+      "longitude": 5.861623,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 576,
+      "name": "Windhoek",
+      "latitude": 53.400026,
+      "longitude": 6.326807,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 577,
+      "name": "You never sit alone",
+      "latitude": 52.666978,
+      "longitude": 6.737778,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 578,
+      "name": "Yvonne Siegersma",
+      "latitude": 52.088262,
+      "longitude": 4.247345,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 579,
+      "name": "Zeelandbank",
+      "latitude": 52.35922,
+      "longitude": 4.891929,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 580,
+      "name": "Zit en geniet waar eerst de koeien graasden van Piet",
+      "latitude": 51.562793,
+      "longitude": 4.852058,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 581,
+      "name": "Zitbank",
+      "latitude": 50.950575,
+      "longitude": 5.848713,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 582,
+      "name": "Zitbank",
+      "latitude": 51.210977,
+      "longitude": 5.624279,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 583,
+      "name": "Zitbank",
+      "latitude": 51.21352,
+      "longitude": 5.62842,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 584,
+      "name": "Zitbank",
+      "latitude": 51.215139,
+      "longitude": 5.626849,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 585,
+      "name": "Zitbank",
+      "latitude": 51.54564,
+      "longitude": 4.255916,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 586,
+      "name": "Zitbank",
+      "latitude": 51.568557,
+      "longitude": 5.571447,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 587,
+      "name": "Zitbank",
+      "latitude": 51.794047,
+      "longitude": 4.684014,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 588,
+      "name": "Zitbank",
+      "latitude": 51.997423,
+      "longitude": 5.806139,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 589,
+      "name": "Zitbank",
+      "latitude": 52.537076,
+      "longitude": 6.107176,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 590,
+      "name": "Zitbank Elburgseweg Vaassen",
+      "latitude": 52.285521,
+      "longitude": 5.907343,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 591,
+      "name": "Zitbank Elspeterweg Vaassen",
+      "latitude": 52.286635,
+      "longitude": 5.955691,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 592,
+      "name": "Zitbank Kortenbroekweg Vaassen",
+      "latitude": 52.284424,
+      "longitude": 5.942922,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 593,
+      "name": "Zitbank Rust en Vreugd",
+      "latitude": 52.122881,
+      "longitude": 4.380028,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 594,
+      "name": "Zitbank Rust en Vreugd",
+      "latitude": 52.124048,
+      "longitude": 4.378279,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 595,
+      "name": "Zitbank Van Ommerenlaan",
+      "latitude": 52.121912,
+      "longitude": 4.378762,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 596,
+      "name": "Zwagermanbankje",
+      "latitude": 52.740849,
+      "longitude": 4.715751,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 597,
+      "name": "bank \"zonder oe\"",
+      "latitude": 52.317082,
+      "longitude": 6.957035,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 598,
+      "name": "berebuurt",
+      "latitude": 52.285107,
+      "longitude": 6.281657,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 599,
+      "name": "de Bosanamoon",
+      "latitude": 52.00559,
+      "longitude": 6.221205,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 600,
+      "name": "de Klapbanke",
+      "latitude": 51.408392,
+      "longitude": 3.853175,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 601,
+      "name": "de Raadsman",
+      "latitude": 52.120123,
+      "longitude": 5.834021,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 602,
+      "name": "de fitmaker",
+      "latitude": 52.704884,
+      "longitude": 4.680145,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 603,
+      "name": "geniet van groen Zuid Holland",
+      "latitude": 52.158986,
+      "longitude": 4.791228,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 604,
+      "name": "gezellig kom je er even bij",
+      "latitude": 52.708867,
+      "longitude": 5.86278,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 605,
+      "name": "het Plekje",
+      "latitude": 52.068661,
+      "longitude": 5.325238,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 606,
+      "name": "k.v. De Fènpruuvers sinds 1967",
+      "latitude": 51.555336,
+      "longitude": 5.077753,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 607,
+      "name": "oliebank",
+      "latitude": 51.463689,
+      "longitude": 4.930178,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 608,
+      "name": "parkbankje",
+      "latitude": 52.24405,
+      "longitude": 5.18122,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 609,
+      "name": "ronde bank",
+      "latitude": 51.985171,
+      "longitude": 5.925901,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 610,
+      "name": "uitkijk",
+      "latitude": 52.138535,
+      "longitude": 6.431166,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 611,
+      "name": "van Eerden",
+      "latitude": 52.235932,
+      "longitude": 6.520818,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 612,
+      "name": "vm. Totalisatorhuisje",
+      "latitude": 52.336973,
+      "longitude": 4.589212,
+      "osm_klasse": "amenity=bench"
+    },
+    {
+      "id": 613,
+      "name": "´T ST. Piëtersbengske",
+      "latitude": 51.331393,
+      "longitude": 6.10914,
+      "osm_klasse": "amenity=bench"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: bench (amenity=bench) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=bench in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 613 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: bench (amenity=bench) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: bench (amenity=bench) — 613 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 613 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

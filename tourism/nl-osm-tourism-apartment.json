@@ -1,0 +1,2445 @@
+{
+  "id": "nl-osm-tourism-apartment",
+  "name": "Netherlands OSM: apartment (tourism=apartment)",
+  "title": "Netherlands OSM: apartment (tourism=apartment)",
+  "description": "Named OpenStreetMap features tagged tourism=apartment in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 342,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'T Fort",
+      "latitude": 53.379504,
+      "longitude": 5.284562,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 2,
+      "name": "'t Eerste Plak",
+      "latitude": 53.397936,
+      "longitude": 5.346159,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 3,
+      "name": "'t Grift",
+      "latitude": 52.105322,
+      "longitude": 6.390847,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 4,
+      "name": "'t Klungelke",
+      "latitude": 50.761086,
+      "longitude": 5.945346,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 5,
+      "name": "'t Meyböske",
+      "latitude": 51.909384,
+      "longitude": 6.414688,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 6,
+      "name": "'t Vrielinck",
+      "latitude": 52.436056,
+      "longitude": 6.861947,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 7,
+      "name": "'t Yesenaertje",
+      "latitude": 51.49273,
+      "longitude": 4.049101,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 8,
+      "name": "500-Mb Hi-Tech Apartment",
+      "latitude": 52.334278,
+      "longitude": 4.955139,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 9,
+      "name": "Aanbeveler Leek",
+      "latitude": 52.37599,
+      "longitude": 4.537628,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 10,
+      "name": "Aike Pals",
+      "latitude": 53.391622,
+      "longitude": 5.318974,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 11,
+      "name": "Aike van Rel",
+      "latitude": 53.397927,
+      "longitude": 5.347296,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 12,
+      "name": "Airbnb De Wijnrank",
+      "latitude": 53.164967,
+      "longitude": 6.781751,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 13,
+      "name": "Aldehoeve-logies",
+      "latitude": 52.980005,
+      "longitude": 5.451883,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 14,
+      "name": "Alexander",
+      "latitude": 53.404221,
+      "longitude": 5.378417,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 15,
+      "name": "Altyd wadt",
+      "latitude": 53.294419,
+      "longitude": 5.061864,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 16,
+      "name": "Amalia",
+      "latitude": 53.404249,
+      "longitude": 5.378525,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 17,
+      "name": "Amsterdam Beach",
+      "latitude": 52.375013,
+      "longitude": 4.532016,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 18,
+      "name": "Amsterdam Centraal Apartment",
+      "latitude": 52.32539,
+      "longitude": 4.946573,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 19,
+      "name": "Amsterdam Soul Inn",
+      "latitude": 52.340447,
+      "longitude": 4.955505,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 20,
+      "name": "Annet's Studio",
+      "latitude": 52.373271,
+      "longitude": 4.525387,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 21,
+      "name": "Aparthotel North",
+      "latitude": 52.398834,
+      "longitude": 4.905839,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 22,
+      "name": "Apartment Sandra",
+      "latitude": 51.984643,
+      "longitude": 5.942549,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 23,
+      "name": "Apartment for short term rent",
+      "latitude": 52.371437,
+      "longitude": 4.885239,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 24,
+      "name": "Appartement Arjensduin",
+      "latitude": 53.371062,
+      "longitude": 5.236179,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 25,
+      "name": "Appartement Babette",
+      "latitude": 52.37325,
+      "longitude": 4.525359,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 26,
+      "name": "Appartement De Zilvermeeuw",
+      "latitude": 52.370947,
+      "longitude": 4.526827,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 27,
+      "name": "Appartement Die Perle",
+      "latitude": 52.369017,
+      "longitude": 4.535653,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 28,
+      "name": "Appartement Drommel",
+      "latitude": 52.37671,
+      "longitude": 4.529558,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 29,
+      "name": "Appartement Dünenblick",
+      "latitude": 53.452949,
+      "longitude": 5.80026,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 30,
+      "name": "Appartement Dünenloft",
+      "latitude": 53.453226,
+      "longitude": 5.800654,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 31,
+      "name": "Appartement Fischerliesel 39",
+      "latitude": 53.452847,
+      "longitude": 5.801102,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 32,
+      "name": "Appartement Fischerliesel 8",
+      "latitude": 53.452838,
+      "longitude": 5.801102,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 33,
+      "name": "Appartement Friedrichs",
+      "latitude": 53.452971,
+      "longitude": 5.80154,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 34,
+      "name": "Appartement Grootduin",
+      "latitude": 53.371008,
+      "longitude": 5.23611,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 35,
+      "name": "Appartement Helmduin",
+      "latitude": 53.370947,
+      "longitude": 5.236183,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 36,
+      "name": "Appartement Het Oerd",
+      "latitude": 53.453313,
+      "longitude": 5.801543,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 37,
+      "name": "Appartement Inselglück",
+      "latitude": 53.453296,
+      "longitude": 5.801242,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 38,
+      "name": "Appartement Molenzicht",
+      "latitude": 53.446683,
+      "longitude": 5.774329,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 39,
+      "name": "Appartement Oostkant",
+      "latitude": 53.452963,
+      "longitude": 5.801495,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 40,
+      "name": "Appartement Paradijsje 23",
+      "latitude": 53.453235,
+      "longitude": 5.80076,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 41,
+      "name": "Appartement Sea Breeze",
+      "latitude": 52.372972,
+      "longitude": 4.526732,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 42,
+      "name": "Appartement Seabird",
+      "latitude": 52.377693,
+      "longitude": 4.539428,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 43,
+      "name": "Appartement Strandburg",
+      "latitude": 53.452783,
+      "longitude": 5.801568,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 44,
+      "name": "Appartement Strandläufer",
+      "latitude": 53.452829,
+      "longitude": 5.801313,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 45,
+      "name": "Appartement Syllies",
+      "latitude": 52.371521,
+      "longitude": 4.527315,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 46,
+      "name": "Appartement Urlaubsbrise",
+      "latitude": 53.453227,
+      "longitude": 5.800519,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 47,
+      "name": "Appartement Waddendiamant",
+      "latitude": 53.453243,
+      "longitude": 5.800865,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 48,
+      "name": "Appartement Waddenzicht",
+      "latitude": 53.452875,
+      "longitude": 5.800997,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 49,
+      "name": "Appartement Westkant",
+      "latitude": 53.453012,
+      "longitude": 5.800291,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 50,
+      "name": "Appartement Westwing",
+      "latitude": 53.453012,
+      "longitude": 5.800321,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 51,
+      "name": "Appartement Zonnegloed aan zee",
+      "latitude": 52.383054,
+      "longitude": 4.533014,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 52,
+      "name": "Appartement Zonzijde",
+      "latitude": 53.452859,
+      "longitude": 5.80041,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 53,
+      "name": "Appartement de Singel",
+      "latitude": 53.44206,
+      "longitude": 5.687848,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 54,
+      "name": "Appartement in Zandvoort",
+      "latitude": 52.373934,
+      "longitude": 4.528286,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 55,
+      "name": "Appartementen Bommels",
+      "latitude": 52.331721,
+      "longitude": 5.829511,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 56,
+      "name": "Appartementen De Walvis",
+      "latitude": 51.57771,
+      "longitude": 3.616211,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 57,
+      "name": "Aqua Rose",
+      "latitude": 52.371699,
+      "longitude": 4.526016,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 58,
+      "name": "Aquarius Apartments",
+      "latitude": 52.373312,
+      "longitude": 4.535909,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 59,
+      "name": "Autour de l'Eglise",
+      "latitude": 51.823431,
+      "longitude": 5.852459,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 60,
+      "name": "B&B Berghs Buitenleven",
+      "latitude": 51.776076,
+      "longitude": 5.573177,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 61,
+      "name": "B&B PolderPoort",
+      "latitude": 52.55632,
+      "longitude": 5.887751,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 62,
+      "name": "B&B Twente",
+      "latitude": 52.199756,
+      "longitude": 6.87799,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 63,
+      "name": "BC10HOUSE",
+      "latitude": 52.373954,
+      "longitude": 4.530273,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 64,
+      "name": "Bakker & Bed",
+      "latitude": 50.846362,
+      "longitude": 5.692531,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 65,
+      "name": "Balsemien",
+      "latitude": 53.096078,
+      "longitude": 4.758805,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 66,
+      "name": "Beach House Zandvoort",
+      "latitude": 52.373253,
+      "longitude": 4.52634,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 67,
+      "name": "Beachhouse @Brederode",
+      "latitude": 52.368718,
+      "longitude": 4.525004,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 68,
+      "name": "Beaufort",
+      "latitude": 53.295722,
+      "longitude": 5.06705,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 69,
+      "name": "Bed & Breakfast Pura Vida",
+      "latitude": 51.212279,
+      "longitude": 6.044668,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 70,
+      "name": "BenB Zuidoord",
+      "latitude": 51.801329,
+      "longitude": 4.247446,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 71,
+      "name": "Beneden Sas",
+      "latitude": 51.625693,
+      "longitude": 4.255515,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 72,
+      "name": "Berden Vakantiewoningen",
+      "latitude": 51.357937,
+      "longitude": 6.023554,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 73,
+      "name": "Bergerhof Slapen",
+      "latitude": 51.397522,
+      "longitude": 6.008841,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 74,
+      "name": "Berrie's Sea View",
+      "latitude": 52.373298,
+      "longitude": 4.525418,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 75,
+      "name": "BijAnderen",
+      "latitude": 53.001525,
+      "longitude": 6.686509,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 76,
+      "name": "BizStay",
+      "latitude": 52.008914,
+      "longitude": 4.359736,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 77,
+      "name": "Blik Oer 't Wad",
+      "latitude": 53.404755,
+      "longitude": 5.382927,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 78,
+      "name": "Blik op de Polder",
+      "latitude": 52.130252,
+      "longitude": 4.903036,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 79,
+      "name": "Boerderij Natuurlijk",
+      "latitude": 51.418649,
+      "longitude": 5.187959,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 80,
+      "name": "Boersma`s Appartementen",
+      "latitude": 53.478358,
+      "longitude": 6.160025,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 81,
+      "name": "BonBuren",
+      "latitude": 53.448602,
+      "longitude": 5.794589,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 82,
+      "name": "Bonte piet",
+      "latitude": 53.388017,
+      "longitude": 5.310779,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 83,
+      "name": "Bossant",
+      "latitude": 53.404735,
+      "longitude": 5.382827,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 84,
+      "name": "Boszicht",
+      "latitude": 53.48798,
+      "longitude": 6.152893,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 85,
+      "name": "Botniahiem",
+      "latitude": 53.292264,
+      "longitude": 6.012525,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 86,
+      "name": "Boulevard 5",
+      "latitude": 52.371517,
+      "longitude": 4.52457,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 87,
+      "name": "Buitenhuis de Zonneroos",
+      "latitude": 52.835602,
+      "longitude": 5.88013,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 88,
+      "name": "Buitenverblijf 't Herfse",
+      "latitude": 50.784027,
+      "longitude": 5.903179,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 89,
+      "name": "Bungalow dicht bij Amsterdam",
+      "latitude": 52.440314,
+      "longitude": 4.985096,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 90,
+      "name": "Central Studios",
+      "latitude": 52.078333,
+      "longitude": 4.326147,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 91,
+      "name": "Chalet Petersburg",
+      "latitude": 53.030782,
+      "longitude": 6.223378,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 92,
+      "name": "Cranberry Oosterend",
+      "latitude": 53.405114,
+      "longitude": 5.382611,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 93,
+      "name": "Daaldersplak",
+      "latitude": 53.4046,
+      "longitude": 5.381691,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 94,
+      "name": "Dare to be Different",
+      "latitude": 52.373207,
+      "longitude": 4.525424,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 95,
+      "name": "De \"Ginsterberg\" Vakantiewoningen",
+      "latitude": 50.787362,
+      "longitude": 5.936984,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 96,
+      "name": "De Ark",
+      "latitude": 53.02578,
+      "longitude": 4.75406,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 97,
+      "name": "De Belemniet",
+      "latitude": 50.761041,
+      "longitude": 5.945392,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 98,
+      "name": "De Beurs",
+      "latitude": 53.295497,
+      "longitude": 5.066789,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 99,
+      "name": "De Bocht",
+      "latitude": 53.390519,
+      "longitude": 5.316234,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 100,
+      "name": "De Bonte Specht",
+      "latitude": 52.352837,
+      "longitude": 6.457364,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 101,
+      "name": "De Borrebjaer",
+      "latitude": 53.398364,
+      "longitude": 5.353437,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 102,
+      "name": "De Boschplaat",
+      "latitude": 53.405294,
+      "longitude": 5.381309,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 103,
+      "name": "De Brem",
+      "latitude": 53.297852,
+      "longitude": 5.072794,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 104,
+      "name": "De Citadel",
+      "latitude": 52.235163,
+      "longitude": 6.454928,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 105,
+      "name": "De Draaien",
+      "latitude": 53.390584,
+      "longitude": 5.316177,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 106,
+      "name": "De Droomengel Flower",
+      "latitude": 52.336909,
+      "longitude": 6.093403,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 107,
+      "name": "De Eurostee",
+      "latitude": 52.904611,
+      "longitude": 6.697861,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 108,
+      "name": "De Goudsmid",
+      "latitude": 52.371558,
+      "longitude": 4.527638,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 109,
+      "name": "De Grutto",
+      "latitude": 53.404761,
+      "longitude": 5.382745,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 110,
+      "name": "De Haarsluis",
+      "latitude": 52.868378,
+      "longitude": 6.363482,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 111,
+      "name": "De Herberg",
+      "latitude": 53.390686,
+      "longitude": 5.31593,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 112,
+      "name": "De Hiethoeve",
+      "latitude": 52.119603,
+      "longitude": 6.107743,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 113,
+      "name": "De Hoffte",
+      "latitude": 53.095328,
+      "longitude": 6.688869,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 114,
+      "name": "De Kersentuin",
+      "latitude": 51.372227,
+      "longitude": 3.472069,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 115,
+      "name": "De Keukelaer",
+      "latitude": 50.760952,
+      "longitude": 5.945514,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 116,
+      "name": "De Kievit",
+      "latitude": 53.298831,
+      "longitude": 5.072466,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 117,
+      "name": "De Kooiplaats",
+      "latitude": 53.481368,
+      "longitude": 6.199604,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 118,
+      "name": "De Lage Polder",
+      "latitude": 52.06844,
+      "longitude": 4.903424,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 119,
+      "name": "De Lichtboei",
+      "latitude": 53.2953,
+      "longitude": 5.067798,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 120,
+      "name": "De Lierelei",
+      "latitude": 50.760994,
+      "longitude": 5.945434,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 121,
+      "name": "De Lindehoeve",
+      "latitude": 52.955782,
+      "longitude": 6.353582,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 122,
+      "name": "De Meerpaal",
+      "latitude": 53.295867,
+      "longitude": 5.066802,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 123,
+      "name": "De Oostkamer",
+      "latitude": 53.404898,
+      "longitude": 5.382832,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 124,
+      "name": "De Paasloër",
+      "latitude": 52.813529,
+      "longitude": 6.015538,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 125,
+      "name": "De Perentuin",
+      "latitude": 53.398629,
+      "longitude": 5.348671,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 126,
+      "name": "De Schansehoeve",
+      "latitude": 51.839354,
+      "longitude": 5.498534,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 127,
+      "name": "De Sonnehoeck",
+      "latitude": 52.377244,
+      "longitude": 4.530068,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 128,
+      "name": "De Stijlkamer",
+      "latitude": 52.352351,
+      "longitude": 4.893951,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 129,
+      "name": "De Veerman",
+      "latitude": 53.295579,
+      "longitude": 5.066759,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 130,
+      "name": "De Vier Eiken",
+      "latitude": 52.829832,
+      "longitude": 6.261664,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 131,
+      "name": "De Wielingen",
+      "latitude": 51.376725,
+      "longitude": 3.381125,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 132,
+      "name": "De Wierschuur",
+      "latitude": 53.404537,
+      "longitude": 5.398334,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 133,
+      "name": "De Wolvetinte",
+      "latitude": 52.931582,
+      "longitude": 5.492593,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 134,
+      "name": "De Zilte Rus",
+      "latitude": 53.404938,
+      "longitude": 5.3827,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 135,
+      "name": "De stiel 1",
+      "latitude": 53.393752,
+      "longitude": 5.327118,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 136,
+      "name": "De stiel 2",
+      "latitude": 53.393693,
+      "longitude": 5.327155,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 137,
+      "name": "De vergulde kikker",
+      "latitude": 53.377733,
+      "longitude": 5.275385,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 138,
+      "name": "Diemen",
+      "latitude": 52.345887,
+      "longitude": 4.962487,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 139,
+      "name": "Doeke Neeke",
+      "latitude": 53.39848,
+      "longitude": 5.350388,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 140,
+      "name": "Dreamtime Houseboat",
+      "latitude": 52.364008,
+      "longitude": 4.867392,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 141,
+      "name": "Dubbelink 3A",
+      "latitude": 52.322507,
+      "longitude": 4.950933,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 142,
+      "name": "Dudok Studio's",
+      "latitude": 51.986577,
+      "longitude": 5.850925,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 143,
+      "name": "Duinland Vakantieverblijven",
+      "latitude": 53.376815,
+      "longitude": 5.27274,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 144,
+      "name": "Duinzand",
+      "latitude": 53.298686,
+      "longitude": 5.072482,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 145,
+      "name": "Endless Summer Beach",
+      "latitude": 52.374469,
+      "longitude": 4.530142,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 146,
+      "name": "Erve Niehof",
+      "latitude": 52.194933,
+      "longitude": 6.575001,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 147,
+      "name": "Erve Steiboer",
+      "latitude": 52.33472,
+      "longitude": 6.984289,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 148,
+      "name": "Flevo 1",
+      "latitude": 53.296646,
+      "longitude": 5.076183,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 149,
+      "name": "Flevo 2",
+      "latitude": 53.29667,
+      "longitude": 5.076179,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 150,
+      "name": "Flevo 3",
+      "latitude": 53.296714,
+      "longitude": 5.076172,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 151,
+      "name": "Flevo 4",
+      "latitude": 53.296743,
+      "longitude": 5.076166,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 152,
+      "name": "Flevo 5",
+      "latitude": 53.296773,
+      "longitude": 5.07616,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 153,
+      "name": "Flevo 6",
+      "latitude": 53.296693,
+      "longitude": 5.076145,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 154,
+      "name": "Foxheuvel vakantieverblijf",
+      "latitude": 51.954707,
+      "longitude": 6.097045,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 155,
+      "name": "Frankendael Apartments",
+      "latitude": 52.352625,
+      "longitude": 4.932753,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 156,
+      "name": "Gastenverblijf \"De Olde Stal\"",
+      "latitude": 52.285247,
+      "longitude": 6.272063,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 157,
+      "name": "Gastenverblijf 'Betlehem'",
+      "latitude": 51.892271,
+      "longitude": 4.907169,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 158,
+      "name": "Gastenverblijf Bladel",
+      "latitude": 51.368389,
+      "longitude": 5.223196,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 159,
+      "name": "Groepsaccommodatie De Aude Schuele",
+      "latitude": 53.480396,
+      "longitude": 6.160817,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 160,
+      "name": "Groepsaccommodatie Eureca",
+      "latitude": 53.476771,
+      "longitude": 6.18426,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 161,
+      "name": "Groepsaccomodatie \"De Oorsprong\"",
+      "latitude": 53.477484,
+      "longitude": 6.196006,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 162,
+      "name": "Groepsaccomodatie De Zwerfkei",
+      "latitude": 52.745924,
+      "longitude": 6.688528,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 163,
+      "name": "Groepshoeve Wiendsels",
+      "latitude": 52.732503,
+      "longitude": 6.290253,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 164,
+      "name": "Grote Hegge G1-G20",
+      "latitude": 51.155907,
+      "longitude": 5.854338,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 165,
+      "name": "Helena Hoeve Logies",
+      "latitude": 51.993443,
+      "longitude": 5.186255,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 166,
+      "name": "Hemels Slapen",
+      "latitude": 52.642575,
+      "longitude": 5.059427,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 167,
+      "name": "Hendrik Lofts",
+      "latitude": 52.081827,
+      "longitude": 4.294265,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 168,
+      "name": "Het Groene Wout",
+      "latitude": 51.904029,
+      "longitude": 4.900769,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 169,
+      "name": "Het Krekeltje",
+      "latitude": 52.378798,
+      "longitude": 4.531703,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 170,
+      "name": "Het Torentje",
+      "latitude": 52.952001,
+      "longitude": 4.721417,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 171,
+      "name": "Het Zilte & Het Zoute",
+      "latitude": 51.493357,
+      "longitude": 4.050233,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 172,
+      "name": "Het vogelrijk",
+      "latitude": 52.818593,
+      "longitude": 6.294707,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 173,
+      "name": "Highland House",
+      "latitude": 52.375279,
+      "longitude": 4.893478,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 174,
+      "name": "Hilversum City Appartments",
+      "latitude": 52.220031,
+      "longitude": 5.190718,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 175,
+      "name": "Hoeve de Binnenplaets",
+      "latitude": 50.90977,
+      "longitude": 5.809058,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 176,
+      "name": "Hoeve de Vrijheerlijkheid",
+      "latitude": 50.758542,
+      "longitude": 5.92061,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 177,
+      "name": "Hof Duyndoorn",
+      "latitude": 51.479255,
+      "longitude": 3.521028,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 178,
+      "name": "Hof Westdijk",
+      "latitude": 51.578019,
+      "longitude": 3.590025,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 179,
+      "name": "Hofje van Maas",
+      "latitude": 52.370481,
+      "longitude": 4.527948,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 180,
+      "name": "Hofstede Moesbosch",
+      "latitude": 51.472554,
+      "longitude": 3.557164,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 181,
+      "name": "Horsetellerie",
+      "latitude": 52.564801,
+      "longitude": 6.57163,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 182,
+      "name": "Hotel de Jonker",
+      "latitude": 52.366036,
+      "longitude": 4.912353,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 183,
+      "name": "Hotelletje de Veerman",
+      "latitude": 53.294369,
+      "longitude": 5.061871,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 184,
+      "name": "Houthavens Apartments",
+      "latitude": 52.395313,
+      "longitude": 4.877318,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 185,
+      "name": "Huize Brandaris",
+      "latitude": 53.35813,
+      "longitude": 5.214594,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 186,
+      "name": "Huize Jacob",
+      "latitude": 52.373827,
+      "longitude": 4.528067,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 187,
+      "name": "Huize Mare",
+      "latitude": 52.661838,
+      "longitude": 4.630409,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 188,
+      "name": "Huize ten Bosch",
+      "latitude": 50.765459,
+      "longitude": 5.941571,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 189,
+      "name": "Hôrtreder",
+      "latitude": 53.389767,
+      "longitude": 5.306004,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 190,
+      "name": "In den Grooten Haas",
+      "latitude": 53.294406,
+      "longitude": 5.06179,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 191,
+      "name": "In den Visser",
+      "latitude": 51.813536,
+      "longitude": 4.666968,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 192,
+      "name": "Jacob II",
+      "latitude": 52.368968,
+      "longitude": 4.535489,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 193,
+      "name": "Johan's B&B",
+      "latitude": 52.350271,
+      "longitude": 4.816831,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 194,
+      "name": "KG House",
+      "latitude": 52.36556,
+      "longitude": 4.88655,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 195,
+      "name": "Kleastermar",
+      "latitude": 53.175558,
+      "longitude": 6.057088,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 196,
+      "name": "Kleilutte",
+      "latitude": 52.274495,
+      "longitude": 6.573373,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 197,
+      "name": "Kurhaus Appartement 3",
+      "latitude": 51.501926,
+      "longitude": 3.480477,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 198,
+      "name": "LIEV Amsterdam",
+      "latitude": 52.354881,
+      "longitude": 4.888284,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 199,
+      "name": "La Chatelaine",
+      "latitude": 52.618191,
+      "longitude": 4.62199,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 200,
+      "name": "Landal Kaap West",
+      "latitude": 53.356866,
+      "longitude": 5.211976,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 201,
+      "name": "Landal Landgoed Aerwinkel",
+      "latitude": 51.120451,
+      "longitude": 6.00882,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 202,
+      "name": "Landal Résidence 't Hof van Haamstede",
+      "latitude": 51.68335,
+      "longitude": 3.721618,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 203,
+      "name": "Landgoed Karsveld vakantiewoningen",
+      "latitude": 50.789234,
+      "longitude": 5.860589,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 204,
+      "name": "Landgoed de Plantage",
+      "latitude": 52.786477,
+      "longitude": 6.338246,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 205,
+      "name": "Light Apartment",
+      "latitude": 52.318409,
+      "longitude": 4.982678,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 206,
+      "name": "Loft Studios",
+      "latitude": 52.372907,
+      "longitude": 4.530681,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 207,
+      "name": "Logies De Meervaart",
+      "latitude": 52.873345,
+      "longitude": 5.823378,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 208,
+      "name": "Luxury Apartments Delft",
+      "latitude": 52.009803,
+      "longitude": 4.370711,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 209,
+      "name": "Luxury Upstairs & Downstairs Apartments",
+      "latitude": 52.371579,
+      "longitude": 4.527741,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 210,
+      "name": "Lytje Hege",
+      "latitude": 53.479638,
+      "longitude": 6.165034,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 211,
+      "name": "MVRDV",
+      "latitude": 52.390508,
+      "longitude": 4.891208,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 212,
+      "name": "Maasdorp M41-M60",
+      "latitude": 51.155016,
+      "longitude": 5.853413,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 213,
+      "name": "Madeleine",
+      "latitude": 52.375834,
+      "longitude": 4.528857,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 214,
+      "name": "Maison Rue de la Mer",
+      "latitude": 52.375237,
+      "longitude": 4.530931,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 215,
+      "name": "Marnix Modern",
+      "latitude": 52.366079,
+      "longitude": 4.879643,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 216,
+      "name": "Miauw Suites",
+      "latitude": 52.372402,
+      "longitude": 4.885325,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 217,
+      "name": "NICOLE",
+      "latitude": 52.363722,
+      "longitude": 4.885109,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 218,
+      "name": "Natuurhuisje Salland",
+      "latitude": 52.273621,
+      "longitude": 6.455914,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 219,
+      "name": "New Pijp",
+      "latitude": 52.35212,
+      "longitude": 4.895491,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 220,
+      "name": "Nij Wybranda",
+      "latitude": 53.096663,
+      "longitude": 5.687693,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 221,
+      "name": "Novallure",
+      "latitude": 52.076091,
+      "longitude": 4.385685,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 222,
+      "name": "Om aest",
+      "latitude": 53.396404,
+      "longitude": 5.33709,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 223,
+      "name": "Oostendijk Boerderijappartementen",
+      "latitude": 52.226354,
+      "longitude": 6.431399,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 224,
+      "name": "Oosterom",
+      "latitude": 53.404823,
+      "longitude": 5.382888,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 225,
+      "name": "Panoramic Beach Apartment",
+      "latitude": 52.373233,
+      "longitude": 4.525461,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 226,
+      "name": "Penthouse Apartment",
+      "latitude": 52.343872,
+      "longitude": 4.901159,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 227,
+      "name": "Persian King",
+      "latitude": 51.910913,
+      "longitude": 4.451011,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 228,
+      "name": "Pharos I",
+      "latitude": 51.397425,
+      "longitude": 3.56306,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 229,
+      "name": "Pharos II",
+      "latitude": 51.397853,
+      "longitude": 3.563696,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 230,
+      "name": "Pharos III",
+      "latitude": 51.398281,
+      "longitude": 3.564332,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 231,
+      "name": "Pilgrims House",
+      "latitude": 52.169442,
+      "longitude": 4.488494,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 232,
+      "name": "Pinksterblom",
+      "latitude": 53.389232,
+      "longitude": 5.314538,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 233,
+      "name": "Playa Vista Seaview Beach Apartment",
+      "latitude": 52.373256,
+      "longitude": 4.5255,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 234,
+      "name": "Princess Juliana apartments Texel",
+      "latitude": 53.100942,
+      "longitude": 4.760234,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 235,
+      "name": "Princess Yard",
+      "latitude": 52.374247,
+      "longitude": 4.529952,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 236,
+      "name": "Prinsenboot",
+      "latitude": 52.362296,
+      "longitude": 4.89268,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 237,
+      "name": "Puur Zee",
+      "latitude": 53.294964,
+      "longitude": 5.065174,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 238,
+      "name": "Puur Zon",
+      "latitude": 53.294839,
+      "longitude": 5.065086,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 239,
+      "name": "Rembrandt workshop apartment",
+      "latitude": 52.37505,
+      "longitude": 4.882921,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 240,
+      "name": "Residence Kabbelaarsbank",
+      "latitude": 51.757531,
+      "longitude": 3.854081,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 241,
+      "name": "Resort Schierduin",
+      "latitude": 53.485502,
+      "longitude": 6.155371,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 242,
+      "name": "Ria",
+      "latitude": 53.38955,
+      "longitude": 5.304359,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 243,
+      "name": "Rooms25",
+      "latitude": 52.374611,
+      "longitude": 4.9142,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 244,
+      "name": "STAY Zandvoort aan Zee",
+      "latitude": 52.376486,
+      "longitude": 4.530967,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 245,
+      "name": "SWEETS",
+      "latitude": 52.383343,
+      "longitude": 4.89333,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 246,
+      "name": "SWEETS",
+      "latitude": 52.385101,
+      "longitude": 4.881911,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 247,
+      "name": "Schelp & Zand",
+      "latitude": 51.448188,
+      "longitude": 3.570774,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 248,
+      "name": "Schoolthof",
+      "latitude": 52.232213,
+      "longitude": 6.35645,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 249,
+      "name": "Sea City Family Apartment",
+      "latitude": 52.371784,
+      "longitude": 4.527441,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 250,
+      "name": "Seaview 15",
+      "latitude": 52.373157,
+      "longitude": 4.525483,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 251,
+      "name": "Seaview 65",
+      "latitude": 52.373177,
+      "longitude": 4.525517,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 252,
+      "name": "Seawave",
+      "latitude": 52.373981,
+      "longitude": 4.528348,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 253,
+      "name": "Seinhuis post VI",
+      "latitude": 52.156594,
+      "longitude": 5.361049,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 254,
+      "name": "Seintoren Gooizicht",
+      "latitude": 52.331166,
+      "longitude": 5.219007,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 255,
+      "name": "Sky Home",
+      "latitude": 52.363053,
+      "longitude": 4.843974,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 256,
+      "name": "Snijdersplak",
+      "latitude": 53.389624,
+      "longitude": 5.304463,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 257,
+      "name": "Sonneduyn",
+      "latitude": 52.662116,
+      "longitude": 4.630572,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 258,
+      "name": "Stayci",
+      "latitude": 52.082006,
+      "longitude": 4.319004,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 259,
+      "name": "Stormvloed",
+      "latitude": 53.295803,
+      "longitude": 5.066575,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 260,
+      "name": "Strandhotel Noderstraun",
+      "latitude": 53.490499,
+      "longitude": 6.150095,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 261,
+      "name": "Strandjutter",
+      "latitude": 53.389776,
+      "longitude": 5.306112,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 262,
+      "name": "Stroeckmanhoeve",
+      "latitude": 52.124693,
+      "longitude": 6.577905,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 263,
+      "name": "Studio 28 aan zee",
+      "latitude": 52.376666,
+      "longitude": 4.529541,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 264,
+      "name": "Studio 99",
+      "latitude": 52.331919,
+      "longitude": 4.88649,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 265,
+      "name": "Studio @Brederode",
+      "latitude": 52.368678,
+      "longitude": 4.524954,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 266,
+      "name": "Studio Amsterdam",
+      "latitude": 52.318163,
+      "longitude": 4.980681,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 267,
+      "name": "Studio Bell",
+      "latitude": 52.374071,
+      "longitude": 4.528883,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 268,
+      "name": "Studio Coastview",
+      "latitude": 52.37314,
+      "longitude": 4.525531,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 269,
+      "name": "Studio Jan Steen",
+      "latitude": 52.356451,
+      "longitude": 4.901802,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 270,
+      "name": "Studio Kilsdonk",
+      "latitude": 51.636675,
+      "longitude": 5.50516,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 271,
+      "name": "Studio at Sea",
+      "latitude": 52.373207,
+      "longitude": 4.525551,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 272,
+      "name": "Stuurboord No 5",
+      "latitude": 53.296197,
+      "longitude": 5.072738,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 273,
+      "name": "Sud om",
+      "latitude": 53.389276,
+      "longitude": 5.314724,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 274,
+      "name": "SunnyDay Apartments",
+      "latitude": 52.370949,
+      "longitude": 4.527048,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 275,
+      "name": "Tegeare",
+      "latitude": 53.390268,
+      "longitude": 5.311617,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 276,
+      "name": "The Amsterdam - South Apartment",
+      "latitude": 52.333658,
+      "longitude": 4.870904,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 277,
+      "name": "The DJ Lounge",
+      "latitude": 52.385959,
+      "longitude": 4.925956,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 278,
+      "name": "The Hague Shortstay",
+      "latitude": 52.072793,
+      "longitude": 4.325379,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 279,
+      "name": "The Residence",
+      "latitude": 52.21959,
+      "longitude": 6.894426,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 280,
+      "name": "The apARTment",
+      "latitude": 52.929463,
+      "longitude": 5.025579,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 281,
+      "name": "Thorn T21-T40",
+      "latitude": 51.155341,
+      "longitude": 5.854095,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 282,
+      "name": "Thuis",
+      "latitude": 51.764599,
+      "longitude": 5.498966,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 283,
+      "name": "Tiles & Waves",
+      "latitude": 52.373573,
+      "longitude": 4.52577,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 284,
+      "name": "To Be at Zandvoort",
+      "latitude": 52.375325,
+      "longitude": 4.530489,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 285,
+      "name": "Tuinhuisje",
+      "latitude": 53.294279,
+      "longitude": 5.062139,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 286,
+      "name": "Tulip House Luxury Apartment",
+      "latitude": 52.36272,
+      "longitude": 4.886597,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 287,
+      "name": "Tureluur",
+      "latitude": 53.388029,
+      "longitude": 5.310909,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 288,
+      "name": "Uit en Thuis",
+      "latitude": 53.271345,
+      "longitude": 6.151725,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 289,
+      "name": "Uitblinkerd",
+      "latitude": 53.297669,
+      "longitude": 5.072841,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 290,
+      "name": "Us Wente",
+      "latitude": 53.477934,
+      "longitude": 6.155875,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 291,
+      "name": "Ut Endt 1-6",
+      "latitude": 53.29442,
+      "longitude": 5.061895,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 292,
+      "name": "Utrecht City Apartments",
+      "latitude": 52.096797,
+      "longitude": 5.117096,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 293,
+      "name": "Vakantieboerderij Bruisterbosch",
+      "latitude": 50.806473,
+      "longitude": 5.803811,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 294,
+      "name": "Vakantieboerderij Drenthelschoppe",
+      "latitude": 51.922843,
+      "longitude": 6.644902,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 295,
+      "name": "Vakantiehuis Groothagenbeek",
+      "latitude": 52.120079,
+      "longitude": 6.490121,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 296,
+      "name": "Vakantiehuis Kooiker",
+      "latitude": 53.447531,
+      "longitude": 5.800298,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 297,
+      "name": "Vakantiehuis Middelburg4you",
+      "latitude": 51.501526,
+      "longitude": 3.620747,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 298,
+      "name": "Vakantiepark De Toffe Peer",
+      "latitude": 52.738641,
+      "longitude": 6.272163,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 299,
+      "name": "Vakantiepark Dellewal",
+      "latitude": 53.367701,
+      "longitude": 5.231285,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 300,
+      "name": "Vakantiewoning De Steen",
+      "latitude": 51.922088,
+      "longitude": 6.689082,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 301,
+      "name": "Vakantiewoningen Meschermolen",
+      "latitude": 50.765373,
+      "longitude": 5.726217,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 302,
+      "name": "Vakantiewoningen Thienen",
+      "latitude": 50.784116,
+      "longitude": 5.92602,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 303,
+      "name": "Vallei",
+      "latitude": 53.294531,
+      "longitude": 5.063546,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 304,
+      "name": "Villa Collina",
+      "latitude": 51.562131,
+      "longitude": 5.459701,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 305,
+      "name": "Villa Savannah",
+      "latitude": 52.192082,
+      "longitude": 4.623641,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 306,
+      "name": "Vino Grando Klooster",
+      "latitude": 51.64399,
+      "longitude": 5.705619,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 307,
+      "name": "Vista Maris",
+      "latitude": 51.606366,
+      "longitude": 4.10515,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 308,
+      "name": "Vleijenhof",
+      "latitude": 53.455697,
+      "longitude": 5.797983,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 309,
+      "name": "Vlieden",
+      "latitude": 53.298968,
+      "longitude": 5.076263,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 310,
+      "name": "Vredig Toeven",
+      "latitude": 51.759726,
+      "longitude": 4.441982,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 311,
+      "name": "Waddenresidentie Ameland",
+      "latitude": 53.448781,
+      "longitude": 5.799413,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 312,
+      "name": "Wadhuske",
+      "latitude": 53.404201,
+      "longitude": 5.378564,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 313,
+      "name": "Wadrust",
+      "latitude": 53.397918,
+      "longitude": 5.346056,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 314,
+      "name": "Watersportcentrum Tjeukemeer",
+      "latitude": 52.875985,
+      "longitude": 5.772696,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 315,
+      "name": "Weatkant",
+      "latitude": 53.390168,
+      "longitude": 5.310719,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 316,
+      "name": "West 7",
+      "latitude": 52.371525,
+      "longitude": 4.526346,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 317,
+      "name": "Westeynde",
+      "latitude": 53.294392,
+      "longitude": 5.061718,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 318,
+      "name": "Westhoek",
+      "latitude": 53.478167,
+      "longitude": 6.156091,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 319,
+      "name": "Wikkelboat",
+      "latitude": 51.917846,
+      "longitude": 4.489613,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 320,
+      "name": "Wilgenhof A2",
+      "latitude": 53.296083,
+      "longitude": 5.063555,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 321,
+      "name": "Wilgenhof A3",
+      "latitude": 53.296056,
+      "longitude": 5.063561,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 322,
+      "name": "Wilgenhof B1",
+      "latitude": 53.296086,
+      "longitude": 5.063589,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 323,
+      "name": "Wilgenhof B4",
+      "latitude": 53.296089,
+      "longitude": 5.063634,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 324,
+      "name": "Wingbergermolen",
+      "latitude": 50.773197,
+      "longitude": 5.92045,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 325,
+      "name": "YAYS maritime by numa",
+      "latitude": 52.368339,
+      "longitude": 4.923668,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 326,
+      "name": "Yays",
+      "latitude": 52.384296,
+      "longitude": 4.888367,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 327,
+      "name": "Yekka Het Pakhuis",
+      "latitude": 53.215904,
+      "longitude": 6.559059,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 328,
+      "name": "Zeedrift",
+      "latitude": 53.298,
+      "longitude": 5.072768,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 329,
+      "name": "Zeepost",
+      "latitude": 53.295553,
+      "longitude": 5.067151,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 330,
+      "name": "Zeereep",
+      "latitude": 53.405602,
+      "longitude": 5.381945,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 331,
+      "name": "Zeezout",
+      "latitude": 52.371562,
+      "longitude": 4.526948,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 332,
+      "name": "Zilte Zee",
+      "latitude": 53.405513,
+      "longitude": 5.381985,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 333,
+      "name": "Zonnehoek",
+      "latitude": 53.390108,
+      "longitude": 5.311018,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 334,
+      "name": "Zorgboerderij de Bult",
+      "latitude": 52.036681,
+      "longitude": 6.24735,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 335,
+      "name": "Zus aan Zee",
+      "latitude": 52.374009,
+      "longitude": 4.529331,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 336,
+      "name": "de Bolle",
+      "latitude": 52.245735,
+      "longitude": 6.310878,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 337,
+      "name": "de Egelantier",
+      "latitude": 51.210314,
+      "longitude": 6.032585,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 338,
+      "name": "de Eikenhoeve",
+      "latitude": 52.424352,
+      "longitude": 6.831125,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 339,
+      "name": "huis68",
+      "latitude": 52.510454,
+      "longitude": 6.095098,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 340,
+      "name": "maisondami168",
+      "latitude": 52.362047,
+      "longitude": 4.518863,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 341,
+      "name": "natural green loft",
+      "latitude": 52.663817,
+      "longitude": 4.712361,
+      "osm_klasse": "tourism=apartment"
+    },
+    {
+      "id": 342,
+      "name": "paNOORama",
+      "latitude": 50.772052,
+      "longitude": 5.802863,
+      "osm_klasse": "tourism=apartment"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: apartment (tourism=apartment) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged tourism=apartment in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 342 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: apartment (tourism=apartment) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: apartment (tourism=apartment) — 342 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 342 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

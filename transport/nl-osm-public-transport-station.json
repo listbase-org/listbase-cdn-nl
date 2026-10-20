@@ -1,0 +1,4062 @@
+{
+  "id": "nl-osm-public-transport-station",
+  "name": "Netherlands OSM: station (public_transport=station)",
+  "title": "Netherlands OSM: station (public_transport=station)",
+  "description": "Named OpenStreetMap features tagged public_transport=station in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 573,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'s-Gravenpolder-'s-Heer Abtskerke",
+      "latitude": 51.462088,
+      "longitude": 3.892375,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 2,
+      "name": "'s-Gravenweg",
+      "latitude": 51.919502,
+      "longitude": 4.547673,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 3,
+      "name": "'s-Hertogenbosch",
+      "latitude": 51.690516,
+      "longitude": 5.293709,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 4,
+      "name": "'s-Hertogenbosch Oost",
+      "latitude": 51.700554,
+      "longitude": 5.319116,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 5,
+      "name": "'t Harde",
+      "latitude": 52.409147,
+      "longitude": 5.893015,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 6,
+      "name": "Aalten",
+      "latitude": 51.921339,
+      "longitude": 6.578711,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 7,
+      "name": "Abcoude",
+      "latitude": 52.27856,
+      "longitude": 4.977382,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 8,
+      "name": "Akkrum",
+      "latitude": 53.047358,
+      "longitude": 5.843371,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 9,
+      "name": "Alexander",
+      "latitude": 51.951428,
+      "longitude": 4.55191,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 10,
+      "name": "Alkmaar",
+      "latitude": 52.638129,
+      "longitude": 4.740698,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 11,
+      "name": "Alkmaar Noord",
+      "latitude": 52.643765,
+      "longitude": 4.763956,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 12,
+      "name": "Almelo",
+      "latitude": 52.357705,
+      "longitude": 6.654414,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 13,
+      "name": "Almelo de Riet",
+      "latitude": 52.342099,
+      "longitude": 6.666647,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 14,
+      "name": "Almere Buiten",
+      "latitude": 52.394191,
+      "longitude": 5.277958,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 15,
+      "name": "Almere Centrum",
+      "latitude": 52.375273,
+      "longitude": 5.219327,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 16,
+      "name": "Almere Muziekwijk",
+      "latitude": 52.367558,
+      "longitude": 5.190341,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 17,
+      "name": "Almere Oostvaarders",
+      "latitude": 52.40328,
+      "longitude": 5.300602,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 18,
+      "name": "Almere Parkwijk",
+      "latitude": 52.376736,
+      "longitude": 5.244705,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 19,
+      "name": "Almere Poort",
+      "latitude": 52.342947,
+      "longitude": 5.152252,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 20,
+      "name": "Alphen aan den Rijn",
+      "latitude": 52.124806,
+      "longitude": 4.657105,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 21,
+      "name": "Ambachtsland",
+      "latitude": 51.965766,
+      "longitude": 4.570267,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 22,
+      "name": "Amersfoort Centraal",
+      "latitude": 52.153898,
+      "longitude": 5.374098,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 23,
+      "name": "Amersfoort Schothorst",
+      "latitude": 52.17486,
+      "longitude": 5.403859,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 24,
+      "name": "Amersfoort Vathorst",
+      "latitude": 52.192551,
+      "longitude": 5.433613,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 25,
+      "name": "Amstelveenseweg",
+      "latitude": 52.338403,
+      "longitude": 4.857577,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 26,
+      "name": "Amsterdam Amstel",
+      "latitude": 52.346466,
+      "longitude": 4.917557,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 27,
+      "name": "Amsterdam Bijlmer ArenA",
+      "latitude": 52.312245,
+      "longitude": 4.947088,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 28,
+      "name": "Amsterdam Centraal",
+      "latitude": 52.378901,
+      "longitude": 4.900581,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 29,
+      "name": "Amsterdam Holendrecht",
+      "latitude": 52.297989,
+      "longitude": 4.960171,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 30,
+      "name": "Amsterdam Lelylaan",
+      "latitude": 52.357837,
+      "longitude": 4.834027,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 31,
+      "name": "Amsterdam Muiderpoort",
+      "latitude": 52.360814,
+      "longitude": 4.931168,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 32,
+      "name": "Amsterdam RAI",
+      "latitude": 52.337035,
+      "longitude": 4.890229,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 33,
+      "name": "Amsterdam Science Park",
+      "latitude": 52.352926,
+      "longitude": 4.948315,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 34,
+      "name": "Amsterdam Sloterdijk",
+      "latitude": 52.389032,
+      "longitude": 4.838106,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 35,
+      "name": "Amsterdam Zuid",
+      "latitude": 52.338807,
+      "longitude": 4.873191,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 36,
+      "name": "Anna Paulowna",
+      "latitude": 52.867721,
+      "longitude": 4.811522,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 37,
+      "name": "Apeldoorn",
+      "latitude": 52.208986,
+      "longitude": 5.969786,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 38,
+      "name": "Apeldoorn",
+      "latitude": 52.209278,
+      "longitude": 5.968973,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 39,
+      "name": "Apeldoorn De Maten",
+      "latitude": 52.205221,
+      "longitude": 6.000663,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 40,
+      "name": "Apeldoorn Osseveld",
+      "latitude": 52.215733,
+      "longitude": 6.006105,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 41,
+      "name": "Appingedam",
+      "latitude": 53.325768,
+      "longitude": 6.862006,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 42,
+      "name": "Arkel",
+      "latitude": 51.87212,
+      "longitude": 4.992772,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 43,
+      "name": "Arnemuiden",
+      "latitude": 51.501532,
+      "longitude": 3.669543,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 44,
+      "name": "Arnhem Centraal",
+      "latitude": 51.984433,
+      "longitude": 5.90116,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 45,
+      "name": "Arnhem Centraal",
+      "latitude": 51.985086,
+      "longitude": 5.899846,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 46,
+      "name": "Arnhem Presikhaaf",
+      "latitude": 51.9876,
+      "longitude": 5.942919,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 47,
+      "name": "Arnhem Velperpoort",
+      "latitude": 51.985124,
+      "longitude": 5.919903,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 48,
+      "name": "Arnhem Zuid",
+      "latitude": 51.954495,
+      "longitude": 5.851949,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 49,
+      "name": "Assen",
+      "latitude": 52.992265,
+      "longitude": 6.571245,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 50,
+      "name": "Baarland",
+      "latitude": 51.41502,
+      "longitude": 3.882699,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 51,
+      "name": "Baarn",
+      "latitude": 52.208087,
+      "longitude": 5.281723,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 52,
+      "name": "Bad Nieuweschans",
+      "latitude": 53.18477,
+      "longitude": 7.200525,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 53,
+      "name": "Baflo",
+      "latitude": 53.361054,
+      "longitude": 6.518847,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 54,
+      "name": "Barendrecht",
+      "latitude": 51.855289,
+      "longitude": 4.552654,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 55,
+      "name": "Bareveld",
+      "latitude": 53.053576,
+      "longitude": 6.850223,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 56,
+      "name": "Barneveld Centrum",
+      "latitude": 52.140456,
+      "longitude": 5.58977,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 57,
+      "name": "Barneveld Noord",
+      "latitude": 52.161157,
+      "longitude": 5.598379,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 58,
+      "name": "Barneveld Zuid",
+      "latitude": 52.128078,
+      "longitude": 5.603094,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 59,
+      "name": "Beatrixkwartier",
+      "latitude": 52.079978,
+      "longitude": 4.334958,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 60,
+      "name": "Bedum",
+      "latitude": 53.306932,
+      "longitude": 6.592729,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 61,
+      "name": "Beek-Elsloo",
+      "latitude": 50.94739,
+      "longitude": 5.786488,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 62,
+      "name": "Beekbergen",
+      "latitude": 52.159979,
+      "longitude": 5.986678,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 63,
+      "name": "Beesd",
+      "latitude": 51.899409,
+      "longitude": 5.195873,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 64,
+      "name": "Beilen",
+      "latitude": 52.855065,
+      "longitude": 6.521311,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 65,
+      "name": "Bergen op Zoom",
+      "latitude": 51.494786,
+      "longitude": 4.29619,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 66,
+      "name": "Berkel Westpolder",
+      "latitude": 51.990077,
+      "longitude": 4.454359,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 67,
+      "name": "Best",
+      "latitude": 51.509816,
+      "longitude": 5.389221,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 68,
+      "name": "Beurs",
+      "latitude": 51.917999,
+      "longitude": 4.480863,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 69,
+      "name": "Beverwijk",
+      "latitude": 52.478536,
+      "longitude": 4.656619,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 70,
+      "name": "Bilthoven",
+      "latitude": 52.130188,
+      "longitude": 5.204684,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 71,
+      "name": "Binnenhof",
+      "latitude": 51.960332,
+      "longitude": 4.535654,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 72,
+      "name": "Blerick",
+      "latitude": 51.372416,
+      "longitude": 6.155296,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 73,
+      "name": "Blijdorp",
+      "latitude": 51.930616,
+      "longitude": 4.458176,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 74,
+      "name": "Bloemendaal",
+      "latitude": 52.404348,
+      "longitude": 4.627663,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 75,
+      "name": "Bocholtz",
+      "latitude": 50.817057,
+      "longitude": 6.005566,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 76,
+      "name": "Bodegraven",
+      "latitude": 52.081454,
+      "longitude": 4.74625,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 77,
+      "name": "Boekelo",
+      "latitude": 52.204822,
+      "longitude": 6.8009,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 78,
+      "name": "Borne",
+      "latitude": 52.298613,
+      "longitude": 6.748451,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 79,
+      "name": "Boskoop",
+      "latitude": 52.077064,
+      "longitude": 4.64663,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 80,
+      "name": "Boskoop Snijdelwijk",
+      "latitude": 52.067341,
+      "longitude": 4.64627,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 81,
+      "name": "Boven Hardinxveld",
+      "latitude": 51.832351,
+      "longitude": 4.878527,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 82,
+      "name": "Bovenkarspel Flora",
+      "latitude": 52.696112,
+      "longitude": 5.253343,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 83,
+      "name": "Bovenkarspel-Grootebroek",
+      "latitude": 52.695072,
+      "longitude": 5.236318,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 84,
+      "name": "Boxmeer",
+      "latitude": 51.64445,
+      "longitude": 5.93949,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 85,
+      "name": "Boxtel",
+      "latitude": 51.584443,
+      "longitude": 5.31903,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 86,
+      "name": "Breda",
+      "latitude": 51.595143,
+      "longitude": 4.780023,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 87,
+      "name": "Breda-Prinsenbeek",
+      "latitude": 51.605719,
+      "longitude": 4.721422,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 88,
+      "name": "Breukelen",
+      "latitude": 52.170829,
+      "longitude": 4.990622,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 89,
+      "name": "Brummen",
+      "latitude": 52.090748,
+      "longitude": 6.147059,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 90,
+      "name": "Buitenpost",
+      "latitude": 53.256263,
+      "longitude": 6.144967,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 91,
+      "name": "Bullewijk",
+      "latitude": 52.306611,
+      "longitude": 4.952236,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 92,
+      "name": "Bunde",
+      "latitude": 50.896776,
+      "longitude": 5.736643,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 93,
+      "name": "Bunnik",
+      "latitude": 52.06321,
+      "longitude": 5.195796,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 94,
+      "name": "Busstation Emmeloord",
+      "latitude": 52.710195,
+      "longitude": 5.751258,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 95,
+      "name": "Busstation Enschede (Centraal Station)",
+      "latitude": 52.221645,
+      "longitude": 6.889055,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 96,
+      "name": "Bussum Zuid",
+      "latitude": 52.265895,
+      "longitude": 5.162874,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 97,
+      "name": "Buytenwegh",
+      "latitude": 52.066762,
+      "longitude": 4.478669,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 98,
+      "name": "Capelle Centrum",
+      "latitude": 51.93138,
+      "longitude": 4.589558,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 99,
+      "name": "Capelle Schollevaar",
+      "latitude": 51.954118,
+      "longitude": 4.584096,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 100,
+      "name": "Capelsebrug",
+      "latitude": 51.921453,
+      "longitude": 4.557959,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 101,
+      "name": "Castricum",
+      "latitude": 52.545338,
+      "longitude": 4.659115,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 102,
+      "name": "Centraal Station",
+      "latitude": 52.0811,
+      "longitude": 4.324208,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 103,
+      "name": "Centraal Station",
+      "latitude": 52.377432,
+      "longitude": 4.900958,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 104,
+      "name": "Centraal Station",
+      "latitude": 52.379198,
+      "longitude": 4.900906,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 105,
+      "name": "Centrum-West",
+      "latitude": 52.060649,
+      "longitude": 4.483497,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 106,
+      "name": "Chevremont",
+      "latitude": 50.876229,
+      "longitude": 6.059556,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 107,
+      "name": "Coevorden",
+      "latitude": 52.663036,
+      "longitude": 6.736025,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 108,
+      "name": "Coolhaven",
+      "latitude": 51.909471,
+      "longitude": 4.458289,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 109,
+      "name": "Cuijk",
+      "latitude": 51.726625,
+      "longitude": 5.874196,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 110,
+      "name": "Culemborg",
+      "latitude": 51.947042,
+      "longitude": 5.226781,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 111,
+      "name": "Daarlerveen",
+      "latitude": 52.441135,
+      "longitude": 6.576017,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 112,
+      "name": "Dalen",
+      "latitude": 52.69469,
+      "longitude": 6.75852,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 113,
+      "name": "Dalfsen",
+      "latitude": 52.498228,
+      "longitude": 6.259489,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 114,
+      "name": "De Akkers",
+      "latitude": 51.833319,
+      "longitude": 4.319899,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 115,
+      "name": "De Leyens",
+      "latitude": 52.071945,
+      "longitude": 4.494901,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 116,
+      "name": "De Pijp",
+      "latitude": 52.353975,
+      "longitude": 4.890693,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 117,
+      "name": "De Terp",
+      "latitude": 51.935947,
+      "longitude": 4.600382,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 118,
+      "name": "De Tochten",
+      "latitude": 51.968871,
+      "longitude": 4.578468,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 119,
+      "name": "De Vink",
+      "latitude": 52.147182,
+      "longitude": 4.456302,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 120,
+      "name": "De Vlugtlaan",
+      "latitude": 52.379613,
+      "longitude": 4.838222,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 121,
+      "name": "De Westereen",
+      "latitude": 53.248286,
+      "longitude": 6.035484,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 122,
+      "name": "Deinum",
+      "latitude": 53.188758,
+      "longitude": 5.728059,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 123,
+      "name": "Delden",
+      "latitude": 52.260084,
+      "longitude": 6.715146,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 124,
+      "name": "Delfshaven",
+      "latitude": 51.909995,
+      "longitude": 4.4457,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 125,
+      "name": "Delft",
+      "latitude": 52.007552,
+      "longitude": 4.356581,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 126,
+      "name": "Delft Campus",
+      "latitude": 51.991104,
+      "longitude": 4.364687,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 127,
+      "name": "Delftsewallen",
+      "latitude": 52.050827,
+      "longitude": 4.48704,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 128,
+      "name": "Delfzijl",
+      "latitude": 53.333734,
+      "longitude": 6.923735,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 129,
+      "name": "Delfzijl West",
+      "latitude": 53.332011,
+      "longitude": 6.907023,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 130,
+      "name": "Den Dolder",
+      "latitude": 52.140228,
+      "longitude": 5.242097,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 131,
+      "name": "Den Haag Centraal",
+      "latitude": 52.080763,
+      "longitude": 4.325531,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 132,
+      "name": "Den Haag Centraal",
+      "latitude": 52.080844,
+      "longitude": 4.324549,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 133,
+      "name": "Den Haag HS",
+      "latitude": 52.070137,
+      "longitude": 4.322276,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 134,
+      "name": "Den Haag Laan van NOI",
+      "latitude": 52.07897,
+      "longitude": 4.343264,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 135,
+      "name": "Den Haag Mariahoeve",
+      "latitude": 52.090998,
+      "longitude": 4.370069,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 136,
+      "name": "Den Haag Moerwijk",
+      "latitude": 52.054519,
+      "longitude": 4.308545,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 137,
+      "name": "Den Haag Ypenburg",
+      "latitude": 52.055817,
+      "longitude": 4.390848,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 138,
+      "name": "Den Helder",
+      "latitude": 52.956847,
+      "longitude": 4.760666,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 139,
+      "name": "Den Helder Zuid",
+      "latitude": 52.932618,
+      "longitude": 4.764153,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 140,
+      "name": "Depot",
+      "latitude": 52.16629,
+      "longitude": 4.443707,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 141,
+      "name": "Deurne",
+      "latitude": 51.456228,
+      "longitude": 5.787898,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 142,
+      "name": "Deventer",
+      "latitude": 52.257293,
+      "longitude": 6.161105,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 143,
+      "name": "Deventer Colmschate",
+      "latitude": 52.25035,
+      "longitude": 6.215679,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 144,
+      "name": "Didam",
+      "latitude": 51.933489,
+      "longitude": 6.133071,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 145,
+      "name": "Diemen",
+      "latitude": 52.345207,
+      "longitude": 4.967465,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 146,
+      "name": "Diemen Zuid",
+      "latitude": 52.330261,
+      "longitude": 4.95606,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 147,
+      "name": "Dieren",
+      "latitude": 52.045403,
+      "longitude": 6.103343,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 148,
+      "name": "Dijkzigt",
+      "latitude": 51.912238,
+      "longitude": 4.466116,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 149,
+      "name": "Doetinchem",
+      "latitude": 51.958449,
+      "longitude": 6.295763,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 150,
+      "name": "Doetinchem De Huet",
+      "latitude": 51.95918,
+      "longitude": 6.260032,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 151,
+      "name": "Dordrecht",
+      "latitude": 51.807532,
+      "longitude": 4.667748,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 152,
+      "name": "Dordrecht Stadspolders",
+      "latitude": 51.801972,
+      "longitude": 4.716209,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 153,
+      "name": "Dordrecht Zuid",
+      "latitude": 51.79017,
+      "longitude": 4.671574,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 154,
+      "name": "Dorp",
+      "latitude": 52.054422,
+      "longitude": 4.492141,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 155,
+      "name": "Driebergen-Zeist",
+      "latitude": 52.065246,
+      "longitude": 5.260239,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 156,
+      "name": "Driehuis",
+      "latitude": 52.442741,
+      "longitude": 4.638714,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 157,
+      "name": "Driemanspolder",
+      "latitude": 52.048452,
+      "longitude": 4.477298,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 158,
+      "name": "Dronryp",
+      "latitude": 53.177718,
+      "longitude": 5.634768,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 159,
+      "name": "Dronten",
+      "latitude": 52.534332,
+      "longitude": 5.721572,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 160,
+      "name": "Duiven",
+      "latitude": 51.943445,
+      "longitude": 6.014453,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 161,
+      "name": "Duivendrecht",
+      "latitude": 52.323579,
+      "longitude": 4.936527,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 162,
+      "name": "Echt",
+      "latitude": 51.100161,
+      "longitude": 5.878821,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 163,
+      "name": "Ede Centrum",
+      "latitude": 52.043254,
+      "longitude": 5.66819,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 164,
+      "name": "Ede-Wageningen",
+      "latitude": 52.027411,
+      "longitude": 5.674114,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 165,
+      "name": "Eemshaven",
+      "latitude": 53.458611,
+      "longitude": 6.830803,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 166,
+      "name": "Eendrachtsplein",
+      "latitude": 51.916333,
+      "longitude": 4.473738,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 167,
+      "name": "Eerbeek",
+      "latitude": 52.102761,
+      "longitude": 6.066286,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 168,
+      "name": "Eijsden",
+      "latitude": 50.772045,
+      "longitude": 5.710079,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 169,
+      "name": "Eindhoven Centraal",
+      "latitude": 51.442962,
+      "longitude": 5.479527,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 170,
+      "name": "Eindhoven Stadion",
+      "latitude": 51.442964,
+      "longitude": 5.467376,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 171,
+      "name": "Eindhoven Strijp-S",
+      "latitude": 51.45037,
+      "longitude": 5.457016,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 172,
+      "name": "Elst",
+      "latitude": 51.917253,
+      "longitude": 5.854936,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 173,
+      "name": "Emmen",
+      "latitude": 52.790629,
+      "longitude": 6.89972,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 174,
+      "name": "Emmen Zuid",
+      "latitude": 52.748715,
+      "longitude": 6.87433,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 175,
+      "name": "Enkhuizen",
+      "latitude": 52.69956,
+      "longitude": 5.287993,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 176,
+      "name": "Enschede",
+      "latitude": 52.222365,
+      "longitude": 6.889781,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 177,
+      "name": "Enschede De Eschmarke",
+      "latitude": 52.221272,
+      "longitude": 6.951466,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 178,
+      "name": "Enschede Kennispark",
+      "latitude": 52.237419,
+      "longitude": 6.838794,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 179,
+      "name": "Ermelo",
+      "latitude": 52.301105,
+      "longitude": 5.614413,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 180,
+      "name": "Etten-Leur",
+      "latitude": 51.575213,
+      "longitude": 4.63648,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 181,
+      "name": "Europaplein",
+      "latitude": 52.341606,
+      "longitude": 4.891473,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 182,
+      "name": "Eygelshoven",
+      "latitude": 50.890112,
+      "longitude": 6.045602,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 183,
+      "name": "Eygelshoven Markt",
+      "latitude": 50.896103,
+      "longitude": 6.057797,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 184,
+      "name": "Eys-Wittem",
+      "latitude": 50.823192,
+      "longitude": 5.924694,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 185,
+      "name": "Feanwâlden",
+      "latitude": 53.235054,
+      "longitude": 5.989732,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 186,
+      "name": "Forepark",
+      "latitude": 52.06988,
+      "longitude": 4.392994,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 187,
+      "name": "Franeker",
+      "latitude": 53.182401,
+      "longitude": 5.549851,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 188,
+      "name": "Gaanderen",
+      "latitude": 51.930854,
+      "longitude": 6.348367,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 189,
+      "name": "Gaasperplas",
+      "latitude": 52.311318,
+      "longitude": 4.984322,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 190,
+      "name": "Ganzenhoef",
+      "latitude": 52.323079,
+      "longitude": 4.97355,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 191,
+      "name": "Gein",
+      "latitude": 52.296338,
+      "longitude": 4.989013,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 192,
+      "name": "Geldermalsen",
+      "latitude": 51.882558,
+      "longitude": 5.271479,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 193,
+      "name": "Geldrop",
+      "latitude": 51.420289,
+      "longitude": 5.550202,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 194,
+      "name": "Geleen Oost",
+      "latitude": 50.967058,
+      "longitude": 5.843164,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 195,
+      "name": "Geleen-Lutterade",
+      "latitude": 50.975348,
+      "longitude": 5.824458,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 196,
+      "name": "Gerdesiaweg",
+      "latitude": 51.925903,
+      "longitude": 4.505848,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 197,
+      "name": "Gilze-Rijen",
+      "latitude": 51.584022,
+      "longitude": 4.924226,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 198,
+      "name": "Glanerbrug",
+      "latitude": 52.218705,
+      "longitude": 6.97412,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 199,
+      "name": "Goes",
+      "latitude": 51.498193,
+      "longitude": 3.889397,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 200,
+      "name": "Goes (SGB)",
+      "latitude": 51.497109,
+      "longitude": 3.882819,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 201,
+      "name": "Goor",
+      "latitude": 52.230277,
+      "longitude": 6.585095,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 202,
+      "name": "Gorinchem",
+      "latitude": 51.833572,
+      "longitude": 4.967461,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 203,
+      "name": "Gouda",
+      "latitude": 52.017424,
+      "longitude": 4.706164,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 204,
+      "name": "Gouda Goverwelle",
+      "latitude": 52.015013,
+      "longitude": 4.742099,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 205,
+      "name": "Gramsbergen",
+      "latitude": 52.609865,
+      "longitude": 6.676362,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 206,
+      "name": "Graskruid",
+      "latitude": 51.957222,
+      "longitude": 4.549449,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 207,
+      "name": "Grenzland-Draisine",
+      "latitude": 51.777835,
+      "longitude": 5.934602,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 208,
+      "name": "Grijpskerk",
+      "latitude": 53.255786,
+      "longitude": 6.309886,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 209,
+      "name": "Groningen",
+      "latitude": 53.210924,
+      "longitude": 6.564103,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 210,
+      "name": "Groningen Europapark",
+      "latitude": 53.204706,
+      "longitude": 6.585821,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 211,
+      "name": "Groningen Noord",
+      "latitude": 53.230128,
+      "longitude": 6.556582,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 212,
+      "name": "Grote Markt",
+      "latitude": 52.075592,
+      "longitude": 4.309525,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 213,
+      "name": "Grou-Jirnsum",
+      "latitude": 53.089883,
+      "longitude": 5.82229,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 214,
+      "name": "Haaksbergen",
+      "latitude": 52.15847,
+      "longitude": 6.73818,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 215,
+      "name": "Haarlem",
+      "latitude": 52.388078,
+      "longitude": 4.638579,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 216,
+      "name": "Haarlem Spaarnwoude",
+      "latitude": 52.382848,
+      "longitude": 4.671354,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 217,
+      "name": "Halfweg-Zwanenburg",
+      "latitude": 52.385976,
+      "longitude": 4.746874,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 218,
+      "name": "Hardenberg",
+      "latitude": 52.572338,
+      "longitude": 6.627603,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 219,
+      "name": "Harderwijk",
+      "latitude": 52.3378,
+      "longitude": 5.619996,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 220,
+      "name": "Hardinxveld Blauwe Zoom",
+      "latitude": 51.82958,
+      "longitude": 4.815754,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 221,
+      "name": "Hardinxveld-Giessendam",
+      "latitude": 51.830352,
+      "longitude": 4.835596,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 222,
+      "name": "Haren",
+      "latitude": 53.174863,
+      "longitude": 6.618087,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 223,
+      "name": "Harlingen",
+      "latitude": 53.170392,
+      "longitude": 5.425209,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 224,
+      "name": "Harlingen Haven",
+      "latitude": 53.174616,
+      "longitude": 5.411496,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 225,
+      "name": "Heemraadlaan",
+      "latitude": 51.837753,
+      "longitude": 4.331625,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 226,
+      "name": "Heemskerk",
+      "latitude": 52.494635,
+      "longitude": 4.686126,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 227,
+      "name": "Heemstede-Aerdenhout",
+      "latitude": 52.359505,
+      "longitude": 4.606786,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 228,
+      "name": "Heemstedestraat",
+      "latitude": 52.352471,
+      "longitude": 4.834303,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 229,
+      "name": "Heerenveen",
+      "latitude": 52.960703,
+      "longitude": 5.915347,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 230,
+      "name": "Heerhugowaard",
+      "latitude": 52.670243,
+      "longitude": 4.823682,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 231,
+      "name": "Heerlen",
+      "latitude": 50.890848,
+      "longitude": 5.975106,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 232,
+      "name": "Heerlen Woonboulevard",
+      "latitude": 50.896144,
+      "longitude": 5.952797,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 233,
+      "name": "Heeze",
+      "latitude": 51.385333,
+      "longitude": 5.56942,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 234,
+      "name": "Heiloo",
+      "latitude": 52.600023,
+      "longitude": 4.701134,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 235,
+      "name": "Heino",
+      "latitude": 52.426958,
+      "longitude": 6.222031,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 236,
+      "name": "Helihaven",
+      "latitude": 51.63765,
+      "longitude": 5.677436,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 237,
+      "name": "Helmond",
+      "latitude": 51.475566,
+      "longitude": 5.661671,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 238,
+      "name": "Helmond 't Hout",
+      "latitude": 51.46811,
+      "longitude": 5.631202,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 239,
+      "name": "Helmond Brandevoort",
+      "latitude": 51.462463,
+      "longitude": 5.608839,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 240,
+      "name": "Helmond Brouwhuis",
+      "latitude": 51.470623,
+      "longitude": 5.70137,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 241,
+      "name": "Hemmen-Dodewaard",
+      "latitude": 51.922413,
+      "longitude": 5.673622,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 242,
+      "name": "Hengelo",
+      "latitude": 52.261775,
+      "longitude": 6.794909,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 243,
+      "name": "Hengelo Gezondheidspark",
+      "latitude": 52.261692,
+      "longitude": 6.767949,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 244,
+      "name": "Hengelo Oost",
+      "latitude": 52.268988,
+      "longitude": 6.819767,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 245,
+      "name": "Henk Sneevlietweg",
+      "latitude": 52.346403,
+      "longitude": 4.834503,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 246,
+      "name": "Hesseplaats",
+      "latitude": 51.963209,
+      "longitude": 4.553164,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 247,
+      "name": "Het Veer Nederhemert",
+      "latitude": 51.759153,
+      "longitude": 5.159251,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 248,
+      "name": "Hillegom",
+      "latitude": 52.30314,
+      "longitude": 4.566075,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 249,
+      "name": "Hilversum",
+      "latitude": 52.226534,
+      "longitude": 5.181297,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 250,
+      "name": "Hilversum Media Park",
+      "latitude": 52.237872,
+      "longitude": 5.174011,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 251,
+      "name": "Hilversum Sportpark",
+      "latitude": 52.21643,
+      "longitude": 5.187316,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 252,
+      "name": "Hindeloopen",
+      "latitude": 52.946454,
+      "longitude": 5.423131,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 253,
+      "name": "Hoedekenskerke",
+      "latitude": 51.420609,
+      "longitude": 3.913777,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 254,
+      "name": "Hoek van Holland Haven",
+      "latitude": 51.976668,
+      "longitude": 4.127506,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 255,
+      "name": "Hoek van Holland Strand",
+      "latitude": 51.986992,
+      "longitude": 4.105454,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 256,
+      "name": "Hoensbroek",
+      "latitude": 50.905574,
+      "longitude": 5.930257,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 257,
+      "name": "Hoevelaken",
+      "latitude": 52.166432,
+      "longitude": 5.457956,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 258,
+      "name": "Hollandsche Rading",
+      "latitude": 52.178079,
+      "longitude": 5.179316,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 259,
+      "name": "Holten",
+      "latitude": 52.284079,
+      "longitude": 6.421168,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 260,
+      "name": "Hoofddorp",
+      "latitude": 52.292867,
+      "longitude": 4.69887,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 261,
+      "name": "Hoogeveen",
+      "latitude": 52.733503,
+      "longitude": 6.472967,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 262,
+      "name": "Hoogezand-Sappemeer",
+      "latitude": 53.159795,
+      "longitude": 6.770918,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 263,
+      "name": "Hoogkarspel",
+      "latitude": 52.690467,
+      "longitude": 5.18251,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 264,
+      "name": "Hoogvliet",
+      "latitude": 51.860617,
+      "longitude": 4.366781,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 265,
+      "name": "Hoorn",
+      "latitude": 52.645089,
+      "longitude": 5.054646,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 266,
+      "name": "Hoorn",
+      "latitude": 52.645555,
+      "longitude": 5.054607,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 267,
+      "name": "Hoorn Kersenboogerd",
+      "latitude": 52.653335,
+      "longitude": 5.084912,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 268,
+      "name": "Horst-Sevenum",
+      "latitude": 51.427093,
+      "longitude": 6.041325,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 269,
+      "name": "Houten",
+      "latitude": 52.034008,
+      "longitude": 5.168134,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 270,
+      "name": "Houten Castellum",
+      "latitude": 52.016861,
+      "longitude": 5.179473,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 271,
+      "name": "Houthem-Sint Gerlach",
+      "latitude": 50.873387,
+      "longitude": 5.796626,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 272,
+      "name": "Hurdegaryp",
+      "latitude": 53.218884,
+      "longitude": 5.934425,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 273,
+      "name": "IJlst",
+      "latitude": 53.014742,
+      "longitude": 5.616132,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 274,
+      "name": "Immenbergweg",
+      "latitude": 52.148288,
+      "longitude": 6.003991,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 275,
+      "name": "Isolatorweg",
+      "latitude": 52.395171,
+      "longitude": 4.850791,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 276,
+      "name": "Jan van Galenstraat",
+      "latitude": 52.372658,
+      "longitude": 4.835294,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 277,
+      "name": "Javalaan",
+      "latitude": 52.053738,
+      "longitude": 4.53783,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 278,
+      "name": "Kampen",
+      "latitude": 52.559788,
+      "longitude": 5.92163,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 279,
+      "name": "Kampen Zuid",
+      "latitude": 52.532984,
+      "longitude": 5.913274,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 280,
+      "name": "Kapelle-Biezelinge",
+      "latitude": 51.480513,
+      "longitude": 3.95661,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 281,
+      "name": "Kerkrade Centrum",
+      "latitude": 50.861385,
+      "longitude": 6.057221,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 282,
+      "name": "Kerkrade ZLSM",
+      "latitude": 50.859063,
+      "longitude": 6.056647,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 283,
+      "name": "Kesteren",
+      "latitude": 51.93158,
+      "longitude": 5.583255,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 284,
+      "name": "Klarenbeek",
+      "latitude": 52.178037,
+      "longitude": 6.084205,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 285,
+      "name": "Klimmen-Ransdaal",
+      "latitude": 50.866262,
+      "longitude": 5.890167,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 286,
+      "name": "Knooppunt Schiphol Noord",
+      "latitude": 52.322455,
+      "longitude": 4.792916,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 287,
+      "name": "Koog aan de Zaan",
+      "latitude": 52.457826,
+      "longitude": 4.805683,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 288,
+      "name": "Koudum-Molkwerum",
+      "latitude": 52.902477,
+      "longitude": 5.410768,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 289,
+      "name": "Kraaiennest",
+      "latitude": 52.317031,
+      "longitude": 4.979123,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 290,
+      "name": "Krabbendijke",
+      "latitude": 51.433322,
+      "longitude": 4.117114,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 291,
+      "name": "Kralingse Zoom",
+      "latitude": 51.92141,
+      "longitude": 4.533851,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 292,
+      "name": "Krommenie-Assendelft",
+      "latitude": 52.49505,
+      "longitude": 4.755241,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 293,
+      "name": "Kropswolde",
+      "latitude": 53.161588,
+      "longitude": 6.722934,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 294,
+      "name": "Kruiningen-Yerseke",
+      "latitude": 51.465052,
+      "longitude": 4.037626,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 295,
+      "name": "Kwadendamme",
+      "latitude": 51.440925,
+      "longitude": 3.889187,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 296,
+      "name": "Lage Zwaluwe",
+      "latitude": 51.690156,
+      "longitude": 4.663712,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 297,
+      "name": "Landgraaf",
+      "latitude": 50.896491,
+      "longitude": 6.019686,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 298,
+      "name": "Lansingerland-Zoetermeer",
+      "latitude": 52.04107,
+      "longitude": 4.518503,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 299,
+      "name": "Lansingerland-Zoetermeer",
+      "latitude": 52.041517,
+      "longitude": 4.519192,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 300,
+      "name": "Leerdam",
+      "latitude": 51.894616,
+      "longitude": 5.092791,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 301,
+      "name": "Leeuwarden",
+      "latitude": 53.196477,
+      "longitude": 5.792985,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 302,
+      "name": "Leeuwarden Camminghaburen",
+      "latitude": 53.202144,
+      "longitude": 5.842555,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 303,
+      "name": "Leiden Centraal",
+      "latitude": 52.166319,
+      "longitude": 4.482286,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 304,
+      "name": "Leiden Lammenschans",
+      "latitude": 52.146752,
+      "longitude": 4.492932,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 305,
+      "name": "Leidschendam-Voorburg",
+      "latitude": 52.07758,
+      "longitude": 4.38206,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 306,
+      "name": "Leidschenveen",
+      "latitude": 52.06473,
+      "longitude": 4.400391,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 307,
+      "name": "Leidsewallen",
+      "latitude": 52.069013,
+      "longitude": 4.509588,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 308,
+      "name": "Lelystad Centrum",
+      "latitude": 52.507933,
+      "longitude": 5.472719,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 309,
+      "name": "Leuvehaven",
+      "latitude": 51.914034,
+      "longitude": 4.481991,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 310,
+      "name": "Lichtenvoorde-Groenlo",
+      "latitude": 52.012031,
+      "longitude": 6.596092,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 311,
+      "name": "Lochem",
+      "latitude": 52.166802,
+      "longitude": 6.426379,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 312,
+      "name": "Loenen",
+      "latitude": 52.129368,
+      "longitude": 6.029357,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 313,
+      "name": "Loppersum",
+      "latitude": 53.334792,
+      "longitude": 6.747451,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 314,
+      "name": "Lunteren",
+      "latitude": 52.085119,
+      "longitude": 5.624301,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 315,
+      "name": "Maarheeze",
+      "latitude": 51.304231,
+      "longitude": 5.630383,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 316,
+      "name": "Maarn",
+      "latitude": 52.064097,
+      "longitude": 5.37066,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 317,
+      "name": "Maarssen",
+      "latitude": 52.135947,
+      "longitude": 5.033025,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 318,
+      "name": "Maashaven",
+      "latitude": 51.897194,
+      "longitude": 4.494757,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 319,
+      "name": "Maassluis Centrum",
+      "latitude": 51.91643,
+      "longitude": 4.253731,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 320,
+      "name": "Maassluis West",
+      "latitude": 51.926071,
+      "longitude": 4.235402,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 321,
+      "name": "Maastricht",
+      "latitude": 50.850178,
+      "longitude": 5.70525,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 322,
+      "name": "Maastricht Noord",
+      "latitude": 50.870519,
+      "longitude": 5.71755,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 323,
+      "name": "Maastricht Randwyck",
+      "latitude": 50.837634,
+      "longitude": 5.717621,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 324,
+      "name": "Mantgum",
+      "latitude": 53.129737,
+      "longitude": 5.713267,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 325,
+      "name": "Marconiplein",
+      "latitude": 51.913206,
+      "longitude": 4.43326,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 326,
+      "name": "Mariënberg",
+      "latitude": 52.509025,
+      "longitude": 6.574227,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 327,
+      "name": "Martenshoek",
+      "latitude": 53.16081,
+      "longitude": 6.740509,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 328,
+      "name": "Medemblik",
+      "latitude": 52.774048,
+      "longitude": 5.10579,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 329,
+      "name": "Meerssen",
+      "latitude": 50.882607,
+      "longitude": 5.750129,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 330,
+      "name": "Meerzicht",
+      "latitude": 52.055428,
+      "longitude": 4.469917,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 331,
+      "name": "Meijersplein / Airport",
+      "latitude": 51.955921,
+      "longitude": 4.462225,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 332,
+      "name": "Melanchthonweg",
+      "latitude": 51.948473,
+      "longitude": 4.464634,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 333,
+      "name": "Meppel",
+      "latitude": 52.691905,
+      "longitude": 6.197938,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 334,
+      "name": "Middelburg",
+      "latitude": 51.495247,
+      "longitude": 3.618124,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 335,
+      "name": "Middelplaat Haven (RTM)",
+      "latitude": 51.754846,
+      "longitude": 3.834553,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 336,
+      "name": "Mook-Molenhoek",
+      "latitude": 51.766542,
+      "longitude": 5.878975,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 337,
+      "name": "Museum",
+      "latitude": 52.15943,
+      "longitude": 4.44381,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 338,
+      "name": "Naarden-Bussum",
+      "latitude": 52.280646,
+      "longitude": 5.157156,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 339,
+      "name": "Nesselande",
+      "latitude": 51.979685,
+      "longitude": 4.586543,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 340,
+      "name": "Nienoord Centraal",
+      "latitude": 53.16848,
+      "longitude": 6.396376,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 341,
+      "name": "Nieuw Amsterdam",
+      "latitude": 52.718366,
+      "longitude": 6.848801,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 342,
+      "name": "Nieuw Vennep",
+      "latitude": 52.258859,
+      "longitude": 4.645358,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 343,
+      "name": "Nieuw Verlaat",
+      "latitude": 51.964821,
+      "longitude": 4.561452,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 344,
+      "name": "Nieuwerkerk aan den IJssel",
+      "latitude": 51.965304,
+      "longitude": 4.616879,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 345,
+      "name": "Nieuwmarkt",
+      "latitude": 52.371318,
+      "longitude": 4.900879,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 346,
+      "name": "Nijkerk",
+      "latitude": 52.222027,
+      "longitude": 5.493523,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 347,
+      "name": "Nijmegen",
+      "latitude": 51.843136,
+      "longitude": 5.853091,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 348,
+      "name": "Nijmegen Dukenburg",
+      "latitude": 51.823942,
+      "longitude": 5.794239,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 349,
+      "name": "Nijmegen Goffert",
+      "latitude": 51.827297,
+      "longitude": 5.822475,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 350,
+      "name": "Nijmegen Heyendaal",
+      "latitude": 51.826778,
+      "longitude": 5.867953,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 351,
+      "name": "Nijmegen Lent",
+      "latitude": 51.862468,
+      "longitude": 5.859687,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 352,
+      "name": "Nijverdal",
+      "latitude": 52.366378,
+      "longitude": 6.462421,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 353,
+      "name": "Nisse",
+      "latitude": 51.453941,
+      "longitude": 3.880136,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 354,
+      "name": "Noord",
+      "latitude": 52.401993,
+      "longitude": 4.932359,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 355,
+      "name": "Noorderpark",
+      "latitude": 52.388932,
+      "longitude": 4.9187,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 356,
+      "name": "Nootdorp",
+      "latitude": 52.047552,
+      "longitude": 4.414704,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 357,
+      "name": "Nunspeet",
+      "latitude": 52.370816,
+      "longitude": 5.784419,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 358,
+      "name": "Nuth",
+      "latitude": 50.919809,
+      "longitude": 5.89267,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 359,
+      "name": "Obdam",
+      "latitude": 52.678045,
+      "longitude": 4.909218,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 360,
+      "name": "Oisterwijk",
+      "latitude": 51.582144,
+      "longitude": 5.193898,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 361,
+      "name": "Oldenzaal",
+      "latitude": 52.306244,
+      "longitude": 6.934035,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 362,
+      "name": "Olst",
+      "latitude": 52.335438,
+      "longitude": 6.11342,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 363,
+      "name": "Ommen",
+      "latitude": 52.509701,
+      "longitude": 6.417221,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 364,
+      "name": "Oosterbeek",
+      "latitude": 51.994783,
+      "longitude": 5.840487,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 365,
+      "name": "Oosterflank",
+      "latitude": 51.945229,
+      "longitude": 4.554632,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 366,
+      "name": "Oosterheem",
+      "latitude": 52.060331,
+      "longitude": 4.542655,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 367,
+      "name": "Oostplein",
+      "latitude": 51.923361,
+      "longitude": 4.496986,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 368,
+      "name": "Opheusden",
+      "latitude": 51.926039,
+      "longitude": 5.637411,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 369,
+      "name": "Opperdoes",
+      "latitude": 52.76028,
+      "longitude": 5.073915,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 370,
+      "name": "Oss",
+      "latitude": 51.765287,
+      "longitude": 5.531271,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 371,
+      "name": "Oss West",
+      "latitude": 51.758441,
+      "longitude": 5.506944,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 372,
+      "name": "Oudenbosch",
+      "latitude": 51.587899,
+      "longitude": 4.533461,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 373,
+      "name": "Overamstel",
+      "latitude": 52.331732,
+      "longitude": 4.917627,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 374,
+      "name": "Overveen",
+      "latitude": 52.391077,
+      "longitude": 4.606832,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 375,
+      "name": "Palenstein",
+      "latitude": 52.059685,
+      "longitude": 4.506419,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 376,
+      "name": "Parkweg",
+      "latitude": 51.92127,
+      "longitude": 4.393958,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 377,
+      "name": "Pernis",
+      "latitude": 51.884943,
+      "longitude": 4.38179,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 378,
+      "name": "Pijnacker Centrum",
+      "latitude": 52.020566,
+      "longitude": 4.436974,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 379,
+      "name": "Pijnacker Zuid",
+      "latitude": 52.005003,
+      "longitude": 4.445805,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 380,
+      "name": "Poortugaal",
+      "latitude": 51.861724,
+      "longitude": 4.395793,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 381,
+      "name": "Postjesweg",
+      "latitude": 52.364292,
+      "longitude": 4.833961,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 382,
+      "name": "Prinsenlaan",
+      "latitude": 51.940769,
+      "longitude": 4.55654,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 383,
+      "name": "Purmerend",
+      "latitude": 52.503952,
+      "longitude": 4.954412,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 384,
+      "name": "Purmerend Overwhere",
+      "latitude": 52.511222,
+      "longitude": 4.967088,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 385,
+      "name": "Purmerend Weidevenne",
+      "latitude": 52.49638,
+      "longitude": 4.935029,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 386,
+      "name": "Putten",
+      "latitude": 52.265498,
+      "longitude": 5.575877,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 387,
+      "name": "Raalte",
+      "latitude": 52.391402,
+      "longitude": 6.27823,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 388,
+      "name": "Ravenstein",
+      "latitude": 51.794792,
+      "longitude": 5.637704,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 389,
+      "name": "Reigersbos",
+      "latitude": 52.295648,
+      "longitude": 4.974422,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 390,
+      "name": "Reuver",
+      "latitude": 51.28298,
+      "longitude": 6.079407,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 391,
+      "name": "Rheden",
+      "latitude": 52.009998,
+      "longitude": 6.030736,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 392,
+      "name": "Rhenen",
+      "latitude": 51.957907,
+      "longitude": 5.578308,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 393,
+      "name": "Rhoon",
+      "latitude": 51.859136,
+      "longitude": 4.419492,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 394,
+      "name": "Rijnhaven",
+      "latitude": 51.903584,
+      "longitude": 4.496798,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 395,
+      "name": "Rijssen",
+      "latitude": 52.311749,
+      "longitude": 6.519217,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 396,
+      "name": "Rijswijk",
+      "latitude": 52.03755,
+      "longitude": 4.322039,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 397,
+      "name": "Rilland-Bath",
+      "latitude": 51.42262,
+      "longitude": 4.160792,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 398,
+      "name": "Rodenrijs",
+      "latitude": 51.975401,
+      "longitude": 4.460835,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 399,
+      "name": "Roermond",
+      "latitude": 51.192566,
+      "longitude": 5.993851,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 400,
+      "name": "Rokin",
+      "latitude": 52.37058,
+      "longitude": 4.892655,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 401,
+      "name": "Romeynshof",
+      "latitude": 51.961509,
+      "longitude": 4.542871,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 402,
+      "name": "Roodeschool",
+      "latitude": 53.421016,
+      "longitude": 6.758377,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 403,
+      "name": "Roosendaal",
+      "latitude": 51.540329,
+      "longitude": 4.45847,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 404,
+      "name": "Rosmalen",
+      "latitude": 51.715152,
+      "longitude": 5.369582,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 405,
+      "name": "Rotterdam Alexander",
+      "latitude": 51.951716,
+      "longitude": 4.552483,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 406,
+      "name": "Rotterdam Centraal",
+      "latitude": 51.923968,
+      "longitude": 4.469799,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 407,
+      "name": "Rotterdam Centraal",
+      "latitude": 51.925057,
+      "longitude": 4.469229,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 408,
+      "name": "Rotterdam Lombardijen",
+      "latitude": 51.88036,
+      "longitude": 4.531053,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 409,
+      "name": "Rotterdam Noord",
+      "latitude": 51.942262,
+      "longitude": 4.481581,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 410,
+      "name": "Rotterdam Zuid",
+      "latitude": 51.904902,
+      "longitude": 4.509852,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 411,
+      "name": "Ruurlo",
+      "latitude": 52.080757,
+      "longitude": 6.449921,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 412,
+      "name": "S1 Berkenrode",
+      "latitude": 52.756103,
+      "longitude": 7.027469,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 413,
+      "name": "S2 Aole Compas",
+      "latitude": 52.756271,
+      "longitude": 7.032895,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 414,
+      "name": "S2' Aole Compas",
+      "latitude": 52.75629,
+      "longitude": 7.034488,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 415,
+      "name": "S3 Bargermond",
+      "latitude": 52.754698,
+      "longitude": 7.030854,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 416,
+      "name": "S4 Twee Provinciën",
+      "latitude": 52.757769,
+      "longitude": 7.026068,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 417,
+      "name": "S5 Hoogveengebied",
+      "latitude": 52.758314,
+      "longitude": 7.021407,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 418,
+      "name": "Santpoort Noord",
+      "latitude": 52.433844,
+      "longitude": 4.632818,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 419,
+      "name": "Santpoort Zuid",
+      "latitude": 52.419349,
+      "longitude": 4.631418,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 420,
+      "name": "Sassenheim",
+      "latitude": 52.21521,
+      "longitude": 4.516936,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 421,
+      "name": "Sauwerd",
+      "latitude": 53.291565,
+      "longitude": 6.540409,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 422,
+      "name": "Schagen",
+      "latitude": 52.785272,
+      "longitude": 4.805379,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 423,
+      "name": "Scheemda",
+      "latitude": 53.165435,
+      "longitude": 6.977959,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 424,
+      "name": "Schenkel",
+      "latitude": 51.931937,
+      "longitude": 4.563473,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 425,
+      "name": "Schiedam Centrum",
+      "latitude": 51.922035,
+      "longitude": 4.408743,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 426,
+      "name": "Schiedam Nieuwland",
+      "latitude": 51.922766,
+      "longitude": 4.383435,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 427,
+      "name": "Schin op Geul",
+      "latitude": 50.855981,
+      "longitude": 5.871473,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 428,
+      "name": "Schin op Geul",
+      "latitude": 50.856282,
+      "longitude": 5.872058,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 429,
+      "name": "Schinnen",
+      "latitude": 50.939031,
+      "longitude": 5.87458,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 430,
+      "name": "Schiphol Airport",
+      "latitude": 52.309597,
+      "longitude": 4.762072,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 431,
+      "name": "Seghwaert",
+      "latitude": 52.063052,
+      "longitude": 4.515322,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 432,
+      "name": "Simpelveld",
+      "latitude": 50.831549,
+      "longitude": 5.978465,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 433,
+      "name": "Sittard",
+      "latitude": 51.002004,
+      "longitude": 5.858891,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 434,
+      "name": "Sliedrecht",
+      "latitude": 51.829611,
+      "longitude": 4.77824,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 435,
+      "name": "Sliedrecht Baanhoek",
+      "latitude": 51.829348,
+      "longitude": 4.742995,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 436,
+      "name": "Slinge",
+      "latitude": 51.874588,
+      "longitude": 4.477732,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 437,
+      "name": "Slotlaan",
+      "latitude": 51.928478,
+      "longitude": 4.578324,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 438,
+      "name": "Sneek",
+      "latitude": 53.03262,
+      "longitude": 5.65189,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 439,
+      "name": "Sneek Noord",
+      "latitude": 53.040128,
+      "longitude": 5.66273,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 440,
+      "name": "Soest",
+      "latitude": 52.173132,
+      "longitude": 5.310153,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 441,
+      "name": "Soest Zuid",
+      "latitude": 52.165199,
+      "longitude": 5.302892,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 442,
+      "name": "Soestdijk",
+      "latitude": 52.183857,
+      "longitude": 5.299911,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 443,
+      "name": "Spaklerweg",
+      "latitude": 52.339959,
+      "longitude": 4.921011,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 444,
+      "name": "Spaubeek",
+      "latitude": 50.943425,
+      "longitude": 5.84959,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 445,
+      "name": "Spijkenisse Centrum",
+      "latitude": 51.846546,
+      "longitude": 4.334457,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 446,
+      "name": "Spui",
+      "latitude": 52.07728,
+      "longitude": 4.314307,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 447,
+      "name": "Stadhuis",
+      "latitude": 51.923237,
+      "longitude": 4.478512,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 448,
+      "name": "Stadhuis",
+      "latitude": 52.061088,
+      "longitude": 4.493116,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 449,
+      "name": "Stadskanaal",
+      "latitude": 52.996217,
+      "longitude": 6.935683,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 450,
+      "name": "Station Boskoop",
+      "latitude": 52.076772,
+      "longitude": 4.646865,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 451,
+      "name": "Station RAI",
+      "latitude": 52.337712,
+      "longitude": 4.889326,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 452,
+      "name": "Station Sloterdijk",
+      "latitude": 52.389016,
+      "longitude": 4.838877,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 453,
+      "name": "Stavoren",
+      "latitude": 52.886647,
+      "longitude": 5.359842,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 454,
+      "name": "Stedum",
+      "latitude": 53.326361,
+      "longitude": 6.687392,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 455,
+      "name": "Steendijkpolder",
+      "latitude": 51.932597,
+      "longitude": 4.224852,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 456,
+      "name": "Steenwijk",
+      "latitude": 52.791174,
+      "longitude": 6.116452,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 457,
+      "name": "Strandvliet",
+      "latitude": 52.318536,
+      "longitude": 4.941356,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 458,
+      "name": "Susteren",
+      "latitude": 51.060967,
+      "longitude": 5.862928,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 459,
+      "name": "Swalmen",
+      "latitude": 51.235415,
+      "longitude": 6.031575,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 460,
+      "name": "Tegelen",
+      "latitude": 51.339286,
+      "longitude": 6.143376,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 461,
+      "name": "Terborg",
+      "latitude": 51.922626,
+      "longitude": 6.364282,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 462,
+      "name": "Tiel",
+      "latitude": 51.889675,
+      "longitude": 5.423213,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 463,
+      "name": "Tiel Passewaaij",
+      "latitude": 51.873672,
+      "longitude": 5.391889,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 464,
+      "name": "Tilburg",
+      "latitude": 51.560646,
+      "longitude": 5.083796,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 465,
+      "name": "Tilburg Reeshof",
+      "latitude": 51.573665,
+      "longitude": 4.993493,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 466,
+      "name": "Tilburg Universiteit",
+      "latitude": 51.565234,
+      "longitude": 5.051678,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 467,
+      "name": "Troelstralaan",
+      "latitude": 51.91555,
+      "longitude": 4.384634,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 468,
+      "name": "Trolleybussenplein",
+      "latitude": 51.983708,
+      "longitude": 5.90174,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 469,
+      "name": "Tussenwater",
+      "latitude": 51.86263,
+      "longitude": 4.376772,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 470,
+      "name": "Twello",
+      "latitude": 52.238323,
+      "longitude": 6.100701,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 471,
+      "name": "Twisk",
+      "latitude": 52.750195,
+      "longitude": 5.071837,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 472,
+      "name": "Uitgeest",
+      "latitude": 52.521431,
+      "longitude": 4.70259,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 473,
+      "name": "Uithuizen",
+      "latitude": 53.409629,
+      "longitude": 6.674683,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 474,
+      "name": "Uithuizermeeden",
+      "latitude": 53.413946,
+      "longitude": 6.720253,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 475,
+      "name": "Usquert",
+      "latitude": 53.400964,
+      "longitude": 6.609518,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 476,
+      "name": "Utrecht Centraal",
+      "latitude": 52.089393,
+      "longitude": 5.109821,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 477,
+      "name": "Utrecht Leidsche Rijn",
+      "latitude": 52.098968,
+      "longitude": 5.065243,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 478,
+      "name": "Utrecht Lunetten",
+      "latitude": 52.066408,
+      "longitude": 5.143262,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 479,
+      "name": "Utrecht Maliebaan",
+      "latitude": 52.087942,
+      "longitude": 5.131166,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 480,
+      "name": "Utrecht Overvecht",
+      "latitude": 52.110121,
+      "longitude": 5.125762,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 481,
+      "name": "Utrecht Terwijde",
+      "latitude": 52.100215,
+      "longitude": 5.043552,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 482,
+      "name": "Utrecht Vaartsche Rijn",
+      "latitude": 52.078757,
+      "longitude": 5.121878,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 483,
+      "name": "Utrecht Zuilen",
+      "latitude": 52.103232,
+      "longitude": 5.089354,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 484,
+      "name": "Valkenburg",
+      "latitude": 50.86929,
+      "longitude": 5.832882,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 485,
+      "name": "Valkenburg ZH",
+      "latitude": 52.159386,
+      "longitude": 4.443705,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 486,
+      "name": "Van Tuyllpark",
+      "latitude": 52.047064,
+      "longitude": 4.528984,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 487,
+      "name": "Van der Madeweg",
+      "latitude": 52.329448,
+      "longitude": 4.930519,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 488,
+      "name": "Varsseveld",
+      "latitude": 51.937207,
+      "longitude": 6.458495,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 489,
+      "name": "Veendam",
+      "latitude": 53.103923,
+      "longitude": 6.884978,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 490,
+      "name": "Veendam",
+      "latitude": 53.104996,
+      "longitude": 6.886269,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 491,
+      "name": "Veenendaal Centrum",
+      "latitude": 52.020004,
+      "longitude": 5.549098,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 492,
+      "name": "Veenendaal West",
+      "latitude": 52.028102,
+      "longitude": 5.531568,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 493,
+      "name": "Veenendaal-De Klomp",
+      "latitude": 52.045953,
+      "longitude": 5.573927,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 494,
+      "name": "Velp",
+      "latitude": 51.99501,
+      "longitude": 5.980986,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 495,
+      "name": "Venlo",
+      "latitude": 51.36505,
+      "longitude": 6.171433,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 496,
+      "name": "Venray",
+      "latitude": 51.526454,
+      "longitude": 6.014255,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 497,
+      "name": "Venserpolder",
+      "latitude": 52.326767,
+      "longitude": 4.94634,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 498,
+      "name": "Verrijn Stuartweg",
+      "latitude": 52.328939,
+      "longitude": 4.966252,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 499,
+      "name": "Vierlingsbeek",
+      "latitude": 51.592022,
+      "longitude": 5.997096,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 500,
+      "name": "Vijfsluizen",
+      "latitude": 51.909154,
+      "longitude": 4.37199,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 501,
+      "name": "Vijzelgracht",
+      "latitude": 52.360817,
+      "longitude": 4.891165,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 502,
+      "name": "Vlaardingen Centrum",
+      "latitude": 51.903136,
+      "longitude": 4.343813,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 503,
+      "name": "Vlaardingen Oost",
+      "latitude": 51.910157,
+      "longitude": 4.361647,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 504,
+      "name": "Vlaardingen West",
+      "latitude": 51.903771,
+      "longitude": 4.315118,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 505,
+      "name": "Vleuten",
+      "latitude": 52.102973,
+      "longitude": 5.007619,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 506,
+      "name": "Vlissingen",
+      "latitude": 51.444053,
+      "longitude": 3.595722,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 507,
+      "name": "Vlissingen Souburg",
+      "latitude": 51.464714,
+      "longitude": 3.595086,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 508,
+      "name": "Voerendaal",
+      "latitude": 50.886841,
+      "longitude": 5.929417,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 509,
+      "name": "Voorburg",
+      "latitude": 52.066588,
+      "longitude": 4.359564,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 510,
+      "name": "Voorburg 't Loo",
+      "latitude": 52.082329,
+      "longitude": 4.365315,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 511,
+      "name": "Voorhout",
+      "latitude": 52.225357,
+      "longitude": 4.484053,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 512,
+      "name": "Voorschoten",
+      "latitude": 52.126233,
+      "longitude": 4.43368,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 513,
+      "name": "Voorschoterlaan",
+      "latitude": 51.925001,
+      "longitude": 4.513058,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 514,
+      "name": "Voorst-Empe",
+      "latitude": 52.157522,
+      "longitude": 6.143919,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 515,
+      "name": "Voorweg Hoog",
+      "latitude": 52.062936,
+      "longitude": 4.471178,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 516,
+      "name": "Voorweg Laag",
+      "latitude": 52.06277,
+      "longitude": 4.470573,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 517,
+      "name": "Vorden",
+      "latitude": 52.107311,
+      "longitude": 6.317153,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 518,
+      "name": "Vriezenveen",
+      "latitude": 52.402093,
+      "longitude": 6.600454,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 519,
+      "name": "Vroomshoop",
+      "latitude": 52.457312,
+      "longitude": 6.569627,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 520,
+      "name": "Vught",
+      "latitude": 51.649928,
+      "longitude": 5.292716,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 521,
+      "name": "Waddinxveen",
+      "latitude": 52.044058,
+      "longitude": 4.649903,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 522,
+      "name": "Waddinxveen Noord",
+      "latitude": 52.055263,
+      "longitude": 4.648369,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 523,
+      "name": "Waddinxveen Triangel",
+      "latitude": 52.027213,
+      "longitude": 4.649036,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 524,
+      "name": "Walibi Express Station 1",
+      "latitude": 52.440199,
+      "longitude": 5.766146,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 525,
+      "name": "Walibi Express Station 2",
+      "latitude": 52.441729,
+      "longitude": 5.765196,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 526,
+      "name": "Warffum",
+      "latitude": 53.39015,
+      "longitude": 6.566864,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 527,
+      "name": "Wassenaarse Wetering/Zandwinning",
+      "latitude": 52.162364,
+      "longitude": 4.43202,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 528,
+      "name": "Waterlooplein",
+      "latitude": 52.367366,
+      "longitude": 4.902353,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 529,
+      "name": "Weert",
+      "latitude": 51.248696,
+      "longitude": 5.704134,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 530,
+      "name": "Weesp",
+      "latitude": 52.312207,
+      "longitude": 5.044048,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 531,
+      "name": "Weesperplein",
+      "latitude": 52.361205,
+      "longitude": 4.90784,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 532,
+      "name": "Wehl",
+      "latitude": 51.957175,
+      "longitude": 6.213719,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 533,
+      "name": "Westervoort",
+      "latitude": 51.96299,
+      "longitude": 5.969252,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 534,
+      "name": "Wezep",
+      "latitude": 52.454158,
+      "longitude": 6.002757,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 535,
+      "name": "Wibautstraat",
+      "latitude": 52.354462,
+      "longitude": 4.912025,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 536,
+      "name": "Wierden",
+      "latitude": 52.36154,
+      "longitude": 6.592152,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 537,
+      "name": "Wijchen",
+      "latitude": 51.811219,
+      "longitude": 5.729755,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 538,
+      "name": "Wijhe",
+      "latitude": 52.390996,
+      "longitude": 6.141045,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 539,
+      "name": "Wijlre",
+      "latitude": 50.833039,
+      "longitude": 5.898055,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 540,
+      "name": "Wildervank",
+      "latitude": 53.083825,
+      "longitude": 6.870739,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 541,
+      "name": "Wilhelminaplein",
+      "latitude": 51.907808,
+      "longitude": 4.492376,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 542,
+      "name": "Willem Dreeslaan",
+      "latitude": 52.065277,
+      "longitude": 4.534597,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 543,
+      "name": "Winschoten",
+      "latitude": 53.139151,
+      "longitude": 7.03561,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 544,
+      "name": "Winsum",
+      "latitude": 53.330093,
+      "longitude": 6.520306,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 545,
+      "name": "Winterswijk",
+      "latitude": 51.968013,
+      "longitude": 6.714777,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 546,
+      "name": "Winterswijk West",
+      "latitude": 51.974594,
+      "longitude": 6.704028,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 547,
+      "name": "Wittenberg, Busstation",
+      "latitude": 52.21281,
+      "longitude": 5.705726,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 548,
+      "name": "Woerden",
+      "latitude": 52.085088,
+      "longitude": 4.892487,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 549,
+      "name": "Wognum-Nibbixwoud",
+      "latitude": 52.682545,
+      "longitude": 5.033234,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 550,
+      "name": "Wolfheze",
+      "latitude": 52.005672,
+      "longitude": 5.792394,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 551,
+      "name": "Wolvega",
+      "latitude": 52.880242,
+      "longitude": 6.004767,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 552,
+      "name": "Workum",
+      "latitude": 52.972055,
+      "longitude": 5.456513,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 553,
+      "name": "Wormerveer",
+      "latitude": 52.489277,
+      "longitude": 4.793628,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 554,
+      "name": "Zaandam",
+      "latitude": 52.438249,
+      "longitude": 4.813742,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 555,
+      "name": "Zaandam Kogerveld",
+      "latitude": 52.456755,
+      "longitude": 4.819193,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 556,
+      "name": "Zaandijk Zaanse Schans",
+      "latitude": 52.469279,
+      "longitude": 4.805157,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 557,
+      "name": "Zalmplaat",
+      "latitude": 51.854946,
+      "longitude": 4.362508,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 558,
+      "name": "Zaltbommel",
+      "latitude": 51.807803,
+      "longitude": 5.263382,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 559,
+      "name": "Zandvoort aan Zee",
+      "latitude": 52.375726,
+      "longitude": 4.531462,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 560,
+      "name": "Zetten-Andelst",
+      "latitude": 51.91978,
+      "longitude": 5.723359,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 561,
+      "name": "Zevenaar",
+      "latitude": 51.923197,
+      "longitude": 6.071982,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 562,
+      "name": "Zevenbergen",
+      "latitude": 51.641344,
+      "longitude": 4.610085,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 563,
+      "name": "Zoetermeer",
+      "latitude": 52.047556,
+      "longitude": 4.476916,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 564,
+      "name": "Zoetermeer Oost",
+      "latitude": 52.046346,
+      "longitude": 4.493434,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 565,
+      "name": "Zoutindustrie",
+      "latitude": 52.191781,
+      "longitude": 6.785322,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 566,
+      "name": "Zuid",
+      "latitude": 52.339203,
+      "longitude": 4.874613,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 567,
+      "name": "Zuidbroek",
+      "latitude": 53.159342,
+      "longitude": 6.866763,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 568,
+      "name": "Zuidhorn",
+      "latitude": 53.248147,
+      "longitude": 6.406746,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 569,
+      "name": "Zuidplein",
+      "latitude": 51.886895,
+      "longitude": 4.488327,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 570,
+      "name": "Zutphen",
+      "latitude": 52.144629,
+      "longitude": 6.194265,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 571,
+      "name": "Zwijndrecht",
+      "latitude": 51.815274,
+      "longitude": 4.641182,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 572,
+      "name": "Zwolle",
+      "latitude": 52.505009,
+      "longitude": 6.091237,
+      "osm_klasse": "public_transport=station"
+    },
+    {
+      "id": 573,
+      "name": "Zwolle Stadshagen",
+      "latitude": 52.527864,
+      "longitude": 6.051289,
+      "osm_klasse": "public_transport=station"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: station (public_transport=station) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged public_transport=station in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 573 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: station (public_transport=station) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: station (public_transport=station) — 573 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 573 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

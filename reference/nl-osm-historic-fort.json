@@ -1,0 +1,1290 @@
+{
+  "id": "nl-osm-historic-fort",
+  "name": "Netherlands OSM: fort (historic=fort)",
+  "title": "Netherlands OSM: fort (historic=fort)",
+  "description": "Named OpenStreetMap features tagged historic=fort in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 177,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Bastions op de Uiterwaarden",
+      "latitude": 51.950221,
+      "longitude": 5.601885,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 2,
+      "name": "Batterij aan de IJweg",
+      "latitude": 52.323641,
+      "longitude": 4.677495,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 3,
+      "name": "Batterij aan den Sloterweg",
+      "latitude": 52.28647,
+      "longitude": 4.703395,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 4,
+      "name": "Batterij onder Brakel",
+      "latitude": 51.811204,
+      "longitude": 5.062814,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 5,
+      "name": "Batterij onder Poederoijen",
+      "latitude": 51.792641,
+      "longitude": 5.062042,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 6,
+      "name": "Batterij op den Schalmdijk",
+      "latitude": 52.052011,
+      "longitude": 5.544526,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 7,
+      "name": "Batterijen aan de Karnemelksloot (OHW)",
+      "latitude": 52.285256,
+      "longitude": 5.143274,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 8,
+      "name": "Batterijen aan de Karnemelksloot (OHW)",
+      "latitude": 52.285302,
+      "longitude": 5.141618,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 9,
+      "name": "Batterijen aan het Gein",
+      "latitude": 52.276024,
+      "longitude": 4.993602,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 10,
+      "name": "Batterijen aan het Gein",
+      "latitude": 52.276473,
+      "longitude": 4.995469,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 11,
+      "name": "De Schans",
+      "latitude": 51.804552,
+      "longitude": 3.949,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 12,
+      "name": "Fort Bedmar",
+      "latitude": 51.267321,
+      "longitude": 4.112813,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 13,
+      "name": "Fort Beneden Lent",
+      "latitude": 51.861953,
+      "longitude": 5.852061,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 14,
+      "name": "Fort Blauwkapel",
+      "latitude": 52.115553,
+      "longitude": 5.138953,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 15,
+      "name": "Fort Boven-Lent",
+      "latitude": 51.864423,
+      "longitude": 5.880544,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 16,
+      "name": "Fort Bovensluis",
+      "latitude": 51.680109,
+      "longitude": 4.481468,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 17,
+      "name": "Fort Buitensluis",
+      "latitude": 51.716998,
+      "longitude": 4.438675,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 18,
+      "name": "Fort De Gagel",
+      "latitude": 52.129505,
+      "longitude": 5.10245,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 19,
+      "name": "Fort De Hel",
+      "latitude": 51.68113,
+      "longitude": 4.423387,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 20,
+      "name": "Fort De Roovere",
+      "latitude": 51.528507,
+      "longitude": 4.300805,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 21,
+      "name": "Fort De Schans",
+      "latitude": 53.031135,
+      "longitude": 4.828324,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 22,
+      "name": "Fort De Waterschans",
+      "latitude": 51.493237,
+      "longitude": 4.261088,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 23,
+      "name": "Fort Dirks Admiraal",
+      "latitude": 52.946345,
+      "longitude": 4.758099,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 24,
+      "name": "Fort Ellewoutsdijk",
+      "latitude": 51.386513,
+      "longitude": 3.813,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 25,
+      "name": "Fort Erfprins",
+      "latitude": 52.959668,
+      "longitude": 4.738599,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 26,
+      "name": "Fort Everdingen",
+      "latitude": 51.962632,
+      "longitude": 5.175695,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 27,
+      "name": "Fort Frederik Hendrik",
+      "latitude": 52.233865,
+      "longitude": 5.913052,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 28,
+      "name": "Fort Haerlem",
+      "latitude": 51.823349,
+      "longitude": 4.126885,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 29,
+      "name": "Fort Hedikhuizen",
+      "latitude": 51.726704,
+      "longitude": 5.184438,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 30,
+      "name": "Fort Henricus",
+      "latitude": 51.601207,
+      "longitude": 4.305983,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 31,
+      "name": "Fort Honswijk",
+      "latitude": 51.973978,
+      "longitude": 5.156596,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 32,
+      "name": "Fort Isabella",
+      "latitude": 51.673956,
+      "longitude": 5.288768,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 33,
+      "name": "Fort Java",
+      "latitude": 52.230497,
+      "longitude": 5.920235,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 34,
+      "name": "Fort Kijkduin",
+      "latitude": 52.950953,
+      "longitude": 4.721884,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 35,
+      "name": "Fort Livinus",
+      "latitude": 51.246712,
+      "longitude": 3.939646,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 36,
+      "name": "Fort Loevestein",
+      "latitude": 51.815446,
+      "longitude": 5.020524,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 37,
+      "name": "Fort Lunette",
+      "latitude": 53.032538,
+      "longitude": 4.838873,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 38,
+      "name": "Fort Moerschans",
+      "latitude": 51.287557,
+      "longitude": 4.072869,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 39,
+      "name": "Fort Moerspui",
+      "latitude": 51.221414,
+      "longitude": 3.92709,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 40,
+      "name": "Fort Nassau",
+      "latitude": 51.342261,
+      "longitude": 3.38653,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 41,
+      "name": "Fort Nicolaas",
+      "latitude": 51.247307,
+      "longitude": 3.956904,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 42,
+      "name": "Fort Nieuwersluis",
+      "latitude": 52.196539,
+      "longitude": 5.004146,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 43,
+      "name": "Fort Noorddijk",
+      "latitude": 51.852725,
+      "longitude": 4.135077,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 44,
+      "name": "Fort Oostoever",
+      "latitude": 52.948409,
+      "longitude": 4.784723,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 45,
+      "name": "Fort Orthen",
+      "latitude": 51.705781,
+      "longitude": 5.307656,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 46,
+      "name": "Fort Pampus",
+      "latitude": 52.36477,
+      "longitude": 5.068909,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 47,
+      "name": "Fort Pannerden",
+      "latitude": 51.88099,
+      "longitude": 6.026696,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 48,
+      "name": "Fort Penserdijk",
+      "latitude": 51.882245,
+      "longitude": 4.156387,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 49,
+      "name": "Fort Prins Frederik",
+      "latitude": 51.680692,
+      "longitude": 4.36215,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 50,
+      "name": "Fort Rammekens",
+      "latitude": 51.452635,
+      "longitude": 3.654044,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 51,
+      "name": "Fort Redoute",
+      "latitude": 53.03067,
+      "longitude": 4.815203,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 52,
+      "name": "Fort Ronduit",
+      "latitude": 52.302595,
+      "longitude": 5.164669,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 53,
+      "name": "Fort Ruigenhoek",
+      "latitude": 52.129162,
+      "longitude": 5.129909,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 54,
+      "name": "Fort Sabina Henrica",
+      "latitude": 51.677173,
+      "longitude": 4.395736,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 55,
+      "name": "Fort Sint Pieter",
+      "latitude": 50.836093,
+      "longitude": 5.683958,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 56,
+      "name": "Fort Sint-Brigitte",
+      "latitude": 51.290785,
+      "longitude": 6.076733,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 57,
+      "name": "Fort Sint-Jakob",
+      "latitude": 51.24988,
+      "longitude": 3.929248,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 58,
+      "name": "Fort Sint-Jozef",
+      "latitude": 51.244757,
+      "longitude": 3.920395,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 59,
+      "name": "Fort Spion",
+      "latitude": 52.200818,
+      "longitude": 5.042408,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 60,
+      "name": "Fort Vechten",
+      "latitude": 52.059097,
+      "longitude": 5.168112,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 61,
+      "name": "Fort Voordorp",
+      "latitude": 52.109454,
+      "longitude": 5.158167,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 62,
+      "name": "Fort Voorne",
+      "latitude": 51.825788,
+      "longitude": 5.408535,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 63,
+      "name": "Fort Vreeswijk",
+      "latitude": 52.005436,
+      "longitude": 5.099381,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 64,
+      "name": "Fort Vuren",
+      "latitude": 51.823091,
+      "longitude": 5.029979,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 65,
+      "name": "Fort Waver-Amstel",
+      "latitude": 52.249549,
+      "longitude": 4.870472,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 66,
+      "name": "Fort Werk IV",
+      "latitude": 52.271275,
+      "longitude": 5.176188,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 67,
+      "name": "Fort Westervoort",
+      "latitude": 51.971404,
+      "longitude": 5.95553,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 68,
+      "name": "Fort Westoever",
+      "latitude": 52.948841,
+      "longitude": 4.780204,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 69,
+      "name": "Fort Wierickerschans",
+      "latitude": 52.081795,
+      "longitude": 4.783311,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 70,
+      "name": "Fort Wiesel",
+      "latitude": 52.242313,
+      "longitude": 5.913635,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 71,
+      "name": "Fort Willem",
+      "latitude": 50.856913,
+      "longitude": 5.677303,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 72,
+      "name": "Fort Zuidwijkermeer",
+      "latitude": 52.454929,
+      "longitude": 4.682908,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 73,
+      "name": "Fort aan de Buursteeg Noord",
+      "latitude": 52.050516,
+      "longitude": 5.555899,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 74,
+      "name": "Fort aan de Buursteeg Zuid",
+      "latitude": 52.047984,
+      "longitude": 5.555819,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 75,
+      "name": "Fort aan de Drecht",
+      "latitude": 52.228987,
+      "longitude": 4.814171,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 76,
+      "name": "Fort aan de Jisperweg",
+      "latitude": 52.524325,
+      "longitude": 4.866728,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 77,
+      "name": "Fort aan de Klop",
+      "latitude": 52.119479,
+      "longitude": 5.08866,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 78,
+      "name": "Fort aan de Liede",
+      "latitude": 52.379501,
+      "longitude": 4.69006,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 79,
+      "name": "Fort aan de Middenweg",
+      "latitude": 52.518661,
+      "longitude": 4.892674,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 80,
+      "name": "Fort aan de Nekkerweg",
+      "latitude": 52.527891,
+      "longitude": 4.928155,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 81,
+      "name": "Fort aan de St. Aagtendijk",
+      "latitude": 52.477365,
+      "longitude": 4.683088,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 82,
+      "name": "Fort aan de Uppelse Dijk",
+      "latitude": 51.798655,
+      "longitude": 4.933379,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 83,
+      "name": "Fort aan de Winkel",
+      "latitude": 52.256135,
+      "longitude": 4.957411,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 84,
+      "name": "Fort aan den Ham",
+      "latitude": 52.501964,
+      "longitude": 4.735456,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 85,
+      "name": "Fort aan den Hoek van Holland",
+      "latitude": 51.979808,
+      "longitude": 4.12062,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 86,
+      "name": "Fort benoorden Purmerend",
+      "latitude": 52.53575,
+      "longitude": 4.95769,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 87,
+      "name": "Fort benoorden Spaarndam",
+      "latitude": 52.423136,
+      "longitude": 4.677969,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 88,
+      "name": "Fort bezuiden Spaarndam",
+      "latitude": 52.411756,
+      "longitude": 4.672099,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 89,
+      "name": "Fort bij 't Hemeltje",
+      "latitude": 52.049047,
+      "longitude": 5.146329,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 90,
+      "name": "Fort bij Aalsmeer",
+      "latitude": 52.268773,
+      "longitude": 4.734604,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 91,
+      "name": "Fort bij Abcoude",
+      "latitude": 52.269905,
+      "longitude": 4.981502,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 92,
+      "name": "Fort bij Asperen",
+      "latitude": 51.876973,
+      "longitude": 5.12093,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 93,
+      "name": "Fort bij De Kwakel",
+      "latitude": 52.236991,
+      "longitude": 4.789626,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 94,
+      "name": "Fort bij Edam",
+      "latitude": 52.517988,
+      "longitude": 5.067415,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 95,
+      "name": "Fort bij Giessen",
+      "latitude": 51.786017,
+      "longitude": 5.026679,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 96,
+      "name": "Fort bij Hoofddorp",
+      "latitude": 52.302027,
+      "longitude": 4.685304,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 97,
+      "name": "Fort bij IJmuiden",
+      "latitude": 52.465297,
+      "longitude": 4.577294,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 98,
+      "name": "Fort bij Jutphaas",
+      "latitude": 52.037677,
+      "longitude": 5.100672,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 99,
+      "name": "Fort bij Krommeniedijk",
+      "latitude": 52.517576,
+      "longitude": 4.743073,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 100,
+      "name": "Fort bij Kudelstaart",
+      "latitude": 52.248197,
+      "longitude": 4.756773,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 101,
+      "name": "Fort bij Kwadijk",
+      "latitude": 52.527634,
+      "longitude": 4.999617,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 102,
+      "name": "Fort bij Marken-Binnen",
+      "latitude": 52.53367,
+      "longitude": 4.781698,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 103,
+      "name": "Fort bij Nigtevecht",
+      "latitude": 52.275211,
+      "longitude": 5.017388,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 104,
+      "name": "Fort bij Rijnauwen",
+      "latitude": 52.075217,
+      "longitude": 5.178031,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 105,
+      "name": "Fort bij Spijkerboor",
+      "latitude": 52.540686,
+      "longitude": 4.841064,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 106,
+      "name": "Fort bij Tienhoven",
+      "latitude": 52.161984,
+      "longitude": 5.030164,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 107,
+      "name": "Fort bij Uitermeer",
+      "latitude": 52.292987,
+      "longitude": 5.082467,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 108,
+      "name": "Fort bij Uithoorn",
+      "latitude": 52.227916,
+      "longitude": 4.837906,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 109,
+      "name": "Fort bij Veldhuis",
+      "latitude": 52.497854,
+      "longitude": 4.705346,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 110,
+      "name": "Fort bij Velsen",
+      "latitude": 52.464191,
+      "longitude": 4.666206,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 111,
+      "name": "Fort bij Vijfhuizen",
+      "latitude": 52.347248,
+      "longitude": 4.670364,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 112,
+      "name": "Fort bij de Liebrug",
+      "latitude": 52.384949,
+      "longitude": 4.68765,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 113,
+      "name": "Fort bij de Nieuwe Steeg",
+      "latitude": 51.865812,
+      "longitude": 5.125717,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 114,
+      "name": "Fort bij het Steurgat",
+      "latitude": 51.799819,
+      "longitude": 4.868549,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 115,
+      "name": "Fort de Bilt",
+      "latitude": 52.096651,
+      "longitude": 5.146776,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 116,
+      "name": "Fort in de Botshol",
+      "latitude": 52.251049,
+      "longitude": 4.911761,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 117,
+      "name": "Harrevelderschans",
+      "latitude": 52.149569,
+      "longitude": 6.775847,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 118,
+      "name": "Hoornwerk aan de Grebbe",
+      "latitude": 51.953699,
+      "longitude": 5.610927,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 119,
+      "name": "Kleine Schans",
+      "latitude": 51.643861,
+      "longitude": 4.745292,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 120,
+      "name": "Kleine Schans",
+      "latitude": 51.749915,
+      "longitude": 5.153535,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 121,
+      "name": "Koeneschans",
+      "latitude": 51.971783,
+      "longitude": 4.826619,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 122,
+      "name": "Kruisdijkschans",
+      "latitude": 51.284219,
+      "longitude": 3.400563,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 123,
+      "name": "Kustbatterij bij Diemerdam",
+      "latitude": 52.343053,
+      "longitude": 5.013268,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 124,
+      "name": "Linie van Juffrouwwijk",
+      "latitude": 52.052923,
+      "longitude": 5.534919,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 125,
+      "name": "Linie van den Hout",
+      "latitude": 51.664786,
+      "longitude": 4.789593,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 126,
+      "name": "Lunet 1",
+      "latitude": 51.665935,
+      "longitude": 5.261284,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 127,
+      "name": "Lunet 10",
+      "latitude": 52.498365,
+      "longitude": 4.649207,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 128,
+      "name": "Lunet 11",
+      "latitude": 52.498888,
+      "longitude": 4.645498,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 129,
+      "name": "Lunet 12",
+      "latitude": 52.497252,
+      "longitude": 4.644054,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 130,
+      "name": "Lunet 13",
+      "latitude": 52.496459,
+      "longitude": 4.64076,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 131,
+      "name": "Lunet 14",
+      "latitude": 52.494621,
+      "longitude": 4.639191,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 132,
+      "name": "Lunet 2",
+      "latitude": 51.660762,
+      "longitude": 5.263839,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 133,
+      "name": "Lunet 22",
+      "latitude": 52.490415,
+      "longitude": 4.613622,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 134,
+      "name": "Lunet 24",
+      "latitude": 52.491103,
+      "longitude": 4.610164,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 135,
+      "name": "Lunet 25",
+      "latitude": 52.489981,
+      "longitude": 4.604261,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 136,
+      "name": "Lunet 3",
+      "latitude": 51.65618,
+      "longitude": 5.26792,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 137,
+      "name": "Lunet 4",
+      "latitude": 51.652607,
+      "longitude": 5.277065,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 138,
+      "name": "Lunet 5",
+      "latitude": 51.654199,
+      "longitude": 5.288742,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 139,
+      "name": "Lunet 6",
+      "latitude": 51.652414,
+      "longitude": 5.295342,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 140,
+      "name": "Lunet 7",
+      "latitude": 51.651519,
+      "longitude": 5.301699,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 141,
+      "name": "Lunet 8",
+      "latitude": 51.652669,
+      "longitude": 5.311795,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 142,
+      "name": "Lunet 8",
+      "latitude": 52.498621,
+      "longitude": 4.656398,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 143,
+      "name": "Lunet 9",
+      "latitude": 52.499423,
+      "longitude": 4.65278,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 144,
+      "name": "Lunet I",
+      "latitude": 52.07594,
+      "longitude": 5.142041,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 145,
+      "name": "Lunet II",
+      "latitude": 52.073773,
+      "longitude": 5.139675,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 146,
+      "name": "Lunet III",
+      "latitude": 52.071552,
+      "longitude": 5.135478,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 147,
+      "name": "Lunet IV",
+      "latitude": 52.068548,
+      "longitude": 5.133474,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 148,
+      "name": "Lunet aan de Snel",
+      "latitude": 51.976977,
+      "longitude": 5.161429,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 149,
+      "name": "Muizenfort",
+      "latitude": 52.329752,
+      "longitude": 5.072141,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 150,
+      "name": "Nieuw Fort St. Andries",
+      "latitude": 51.799873,
+      "longitude": 5.357586,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 151,
+      "name": "Oud Herlaer",
+      "latitude": 51.659932,
+      "longitude": 5.312584,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 152,
+      "name": "Post van Lambalgen",
+      "latitude": 52.072327,
+      "longitude": 5.474766,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 153,
+      "name": "Torenfort aan de Ossenmarkt",
+      "latitude": 52.307674,
+      "longitude": 5.045799,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 154,
+      "name": "Voorpositie bij Cruquius",
+      "latitude": 52.337151,
+      "longitude": 4.631947,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 155,
+      "name": "Voorwerk aan de Engelaar",
+      "latitude": 52.06976,
+      "longitude": 5.515533,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 156,
+      "name": "Voorwerk op de Asschatterkeerkade",
+      "latitude": 52.130046,
+      "longitude": 5.463409,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 157,
+      "name": "Voorwerk op de Roffelaarskade",
+      "latitude": 52.093187,
+      "longitude": 5.4571,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 158,
+      "name": "Werk 1 aan de Koedijk",
+      "latitude": 52.269979,
+      "longitude": 5.142559,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 159,
+      "name": "Werk aan de Bakkerskil",
+      "latitude": 51.791107,
+      "longitude": 4.910168,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 160,
+      "name": "Werk aan de Daatselaar",
+      "latitude": 52.086023,
+      "longitude": 5.555561,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 161,
+      "name": "Werk aan de Glashut",
+      "latitude": 52.168138,
+      "longitude": 5.372971,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 162,
+      "name": "Werk aan de Groeneweg",
+      "latitude": 51.971274,
+      "longitude": 5.184265,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 163,
+      "name": "Werk aan de Hoofddijk",
+      "latitude": 52.088134,
+      "longitude": 5.170455,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 164,
+      "name": "Werk aan de Juffersdijk",
+      "latitude": 52.049863,
+      "longitude": 5.541671,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 165,
+      "name": "Werk aan de Korte Uitweg",
+      "latitude": 51.985602,
+      "longitude": 5.159236,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 166,
+      "name": "Werk aan de Roode Haan",
+      "latitude": 52.04064,
+      "longitude": 5.527256,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 167,
+      "name": "Werk aan de Waalse Wetering",
+      "latitude": 51.997688,
+      "longitude": 5.151855,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 168,
+      "name": "Werk aan het Spoel",
+      "latitude": 51.959067,
+      "longitude": 5.190485,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 169,
+      "name": "Werk bij Krachtwijk",
+      "latitude": 52.186893,
+      "longitude": 5.328986,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 170,
+      "name": "Werk bij Maarsseveen",
+      "latitude": 52.146539,
+      "longitude": 5.064066,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 171,
+      "name": "Werk op de Spoorweg bij de Diefdijk",
+      "latitude": 51.895664,
+      "longitude": 5.119687,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 172,
+      "name": "Westbatterij Muiden",
+      "latitude": 52.335992,
+      "longitude": 5.066872,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 173,
+      "name": "Weverslose Schans",
+      "latitude": 51.519399,
+      "longitude": 5.926796,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 174,
+      "name": "Zwartenbergse redoute",
+      "latitude": 51.624284,
+      "longitude": 4.621505,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 175,
+      "name": "inundatieduiker Stelling van Amsterdam",
+      "latitude": 52.414355,
+      "longitude": 4.674296,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 176,
+      "name": "inundatieduiker Stelling van Amsterdam",
+      "latitude": 52.419045,
+      "longitude": 4.678379,
+      "osm_klasse": "historic=fort"
+    },
+    {
+      "id": 177,
+      "name": "inundatieduiker Stelling van Amsterdam",
+      "latitude": 52.478821,
+      "longitude": 4.684196,
+      "osm_klasse": "historic=fort"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: fort (historic=fort) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged historic=fort in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 177 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: fort (historic=fort) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: fort (historic=fort) — 177 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 177 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

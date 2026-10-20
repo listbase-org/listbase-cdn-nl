@@ -1,0 +1,1311 @@
+{
+  "id": "nl-osm-shop-rental",
+  "name": "Netherlands OSM: rental (shop=rental)",
+  "title": "Netherlands OSM: rental (shop=rental)",
+  "description": "Named OpenStreetMap features tagged shop=rental in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 180,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "A-Bike Rental & Tours - Leidseplein",
+      "latitude": 52.365795,
+      "longitude": 4.884949,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 2,
+      "name": "Aanhager Huren Leek",
+      "latitude": 53.166619,
+      "longitude": 6.381201,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 3,
+      "name": "Actief Twente",
+      "latitude": 52.360356,
+      "longitude": 6.986881,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 4,
+      "name": "Anderhalf Bar",
+      "latitude": 52.033999,
+      "longitude": 5.67903,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 5,
+      "name": "Arendje",
+      "latitude": 51.704472,
+      "longitude": 5.346799,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 6,
+      "name": "Arnolds licht & geluid",
+      "latitude": 51.473711,
+      "longitude": 3.589393,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 7,
+      "name": "Babyrentals",
+      "latitude": 51.547092,
+      "longitude": 5.089425,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 8,
+      "name": "Bike City",
+      "latitude": 52.375036,
+      "longitude": 4.881341,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 9,
+      "name": "Bike hire",
+      "latitude": 52.054676,
+      "longitude": 4.213688,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 10,
+      "name": "BikeLimburg",
+      "latitude": 50.936815,
+      "longitude": 5.880255,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 11,
+      "name": "BikeMike.nl",
+      "latitude": 52.616505,
+      "longitude": 4.625081,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 12,
+      "name": "Bikes & More",
+      "latitude": 52.440131,
+      "longitude": 5.954778,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 13,
+      "name": "Bikes & More",
+      "latitude": 52.797352,
+      "longitude": 6.705156,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 14,
+      "name": "Bikeshop Breezand",
+      "latitude": 51.582918,
+      "longitude": 3.620161,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 15,
+      "name": "Bo-Rent",
+      "latitude": 52.492191,
+      "longitude": 5.485866,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 16,
+      "name": "Bo-Rent",
+      "latitude": 52.510485,
+      "longitude": 4.781703,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 17,
+      "name": "Bo-Rent",
+      "latitude": 52.516267,
+      "longitude": 4.975185,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 18,
+      "name": "Bo-Rent",
+      "latitude": 52.945862,
+      "longitude": 4.768801,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 19,
+      "name": "Bo-Rent Assen",
+      "latitude": 53.022847,
+      "longitude": 6.571021,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 20,
+      "name": "Bo-rent",
+      "latitude": 52.179114,
+      "longitude": 5.981321,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 21,
+      "name": "Bo-rent",
+      "latitude": 52.640177,
+      "longitude": 5.100217,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 22,
+      "name": "Boels",
+      "latitude": 51.01767,
+      "longitude": 5.860954,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 23,
+      "name": "Boels",
+      "latitude": 53.128127,
+      "longitude": 6.07996,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 24,
+      "name": "Boels Rental",
+      "latitude": 51.852548,
+      "longitude": 4.30281,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 25,
+      "name": "Boels Verhuur",
+      "latitude": 51.209735,
+      "longitude": 6.016477,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 26,
+      "name": "Boels Verhuur",
+      "latitude": 51.483175,
+      "longitude": 3.628714,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 27,
+      "name": "Boels Verhuur",
+      "latitude": 51.49503,
+      "longitude": 3.883978,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 28,
+      "name": "Boels Verhuur BV",
+      "latitude": 52.428971,
+      "longitude": 4.800879,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 29,
+      "name": "Burgers Verhuur",
+      "latitude": 51.575479,
+      "longitude": 5.118509,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 30,
+      "name": "C. Sinke BV.",
+      "latitude": 51.463151,
+      "longitude": 4.019854,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 31,
+      "name": "Cad-cycles",
+      "latitude": 51.377757,
+      "longitude": 3.384274,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 32,
+      "name": "Captain's Bikes & Boats",
+      "latitude": 53.048607,
+      "longitude": 5.387579,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 33,
+      "name": "Chopper Rent",
+      "latitude": 52.081787,
+      "longitude": 4.402046,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 34,
+      "name": "Compacte Campers Verhuur",
+      "latitude": 52.044962,
+      "longitude": 5.192139,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 35,
+      "name": "Cycle Center",
+      "latitude": 50.874239,
+      "longitude": 5.823173,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 36,
+      "name": "Cycle Center",
+      "latitude": 51.45628,
+      "longitude": 5.954418,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 37,
+      "name": "Cycle Center",
+      "latitude": 51.755103,
+      "longitude": 3.861004,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 38,
+      "name": "Cycle Center",
+      "latitude": 52.379629,
+      "longitude": 4.538108,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 39,
+      "name": "Cycle Center (steunpunt Nuth)",
+      "latitude": 50.918809,
+      "longitude": 5.880955,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 40,
+      "name": "Cycle center",
+      "latitude": 51.327582,
+      "longitude": 5.428248,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 41,
+      "name": "CycleCenter",
+      "latitude": 51.674466,
+      "longitude": 5.998497,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 42,
+      "name": "Dakkoffer Verhuur Zeeland",
+      "latitude": 51.462371,
+      "longitude": 3.909585,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 43,
+      "name": "De Gier",
+      "latitude": 51.939537,
+      "longitude": 4.407938,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 44,
+      "name": "De Mik Verhuur",
+      "latitude": 51.813192,
+      "longitude": 3.936083,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 45,
+      "name": "De leukste camper",
+      "latitude": 52.426224,
+      "longitude": 5.86148,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 46,
+      "name": "Du-do aanhangwagens",
+      "latitude": 51.927448,
+      "longitude": 4.42005,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 47,
+      "name": "Easy2Rent",
+      "latitude": 52.039959,
+      "longitude": 5.55575,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 48,
+      "name": "Esra Intern Transport en Opslag",
+      "latitude": 52.181769,
+      "longitude": 5.989334,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 49,
+      "name": "Euro PA licht en geluid verhuur",
+      "latitude": 52.273379,
+      "longitude": 4.62752,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 50,
+      "name": "EuroParcs Beekbergen",
+      "latitude": 52.136928,
+      "longitude": 6.002886,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 51,
+      "name": "Festina Lente",
+      "latitude": 51.564582,
+      "longitude": 3.555228,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 52,
+      "name": "Fiets aan Zee",
+      "latitude": 51.729571,
+      "longitude": 3.771854,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 53,
+      "name": "Fietsenstalling Rotterdam Centraal",
+      "latitude": 51.92343,
+      "longitude": 4.469765,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 54,
+      "name": "Fietsenverhuur Schiermonnikoog",
+      "latitude": 53.480685,
+      "longitude": 6.161392,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 55,
+      "name": "Fietsinn Texel",
+      "latitude": 53.097868,
+      "longitude": 4.764777,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 56,
+      "name": "Fietsverhuur",
+      "latitude": 51.932403,
+      "longitude": 6.268902,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 57,
+      "name": "Fietsverhuur Amsterdamse Bos 'De Boshalte'",
+      "latitude": 52.328127,
+      "longitude": 4.856103,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 58,
+      "name": "Fietsverhuur De Koog",
+      "latitude": 53.097298,
+      "longitude": 4.762119,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 59,
+      "name": "Fietsverhuur Groningen",
+      "latitude": 53.214664,
+      "longitude": 6.564705,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 60,
+      "name": "Fietsverhuur Julianadorp",
+      "latitude": 52.901052,
+      "longitude": 4.719622,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 61,
+      "name": "Fietsverhuur Kiewiet",
+      "latitude": 53.43855,
+      "longitude": 5.775035,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 62,
+      "name": "Fietsverhuur Landal Twenhaarsveld",
+      "latitude": 52.28669,
+      "longitude": 6.446937,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 63,
+      "name": "Fietsverhuur Metz",
+      "latitude": 53.450774,
+      "longitude": 5.80062,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 64,
+      "name": "Fietsverhuur Nieuwvliet",
+      "latitude": 51.389319,
+      "longitude": 3.450562,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 65,
+      "name": "Fietsverhuur Nobel",
+      "latitude": 53.442177,
+      "longitude": 5.637363,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 66,
+      "name": "Fietsverhuur Oosterend",
+      "latitude": 53.403657,
+      "longitude": 5.376278,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 67,
+      "name": "Fietsverhuur Schiermonnikoog",
+      "latitude": 53.478351,
+      "longitude": 6.159709,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 68,
+      "name": "Fietsverhuur Schoorl",
+      "latitude": 52.700743,
+      "longitude": 4.693658,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 69,
+      "name": "Fluisterboot- en kanoverhuur",
+      "latitude": 52.56555,
+      "longitude": 4.862212,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 70,
+      "name": "Forkliftcenter",
+      "latitude": 52.414151,
+      "longitude": 4.797445,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 71,
+      "name": "Frisia",
+      "latitude": 53.295062,
+      "longitude": 5.066588,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 72,
+      "name": "Frédéric",
+      "latitude": 52.379539,
+      "longitude": 4.892414,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 73,
+      "name": "Good Bicycle",
+      "latitude": 52.368023,
+      "longitude": 4.896383,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 74,
+      "name": "Gravelbike Huren Arnhem",
+      "latitude": 52.033145,
+      "longitude": 5.875109,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 75,
+      "name": "Haantjes West",
+      "latitude": 53.35951,
+      "longitude": 5.216507,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 76,
+      "name": "Happy Rent",
+      "latitude": 50.847609,
+      "longitude": 5.992637,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 77,
+      "name": "Hazeleger Fietsen",
+      "latitude": 52.291437,
+      "longitude": 5.787795,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 78,
+      "name": "Het Gemak Van partyverhuur",
+      "latitude": 52.161167,
+      "longitude": 4.477876,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 79,
+      "name": "Holland Sadcc Trading Company",
+      "latitude": 51.819031,
+      "longitude": 4.522499,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 80,
+      "name": "Huureentapje.nl",
+      "latitude": 51.568717,
+      "longitude": 5.115068,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 81,
+      "name": "Jan van Vlieland",
+      "latitude": 53.296499,
+      "longitude": 5.074896,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 82,
+      "name": "Jolanda' s Verkleedkisten",
+      "latitude": 52.500404,
+      "longitude": 4.827867,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 83,
+      "name": "Jonker",
+      "latitude": 53.363072,
+      "longitude": 5.21736,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 84,
+      "name": "Kielstra Kraanverhuur",
+      "latitude": 52.976869,
+      "longitude": 5.944747,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 85,
+      "name": "Kijk Partyverhuur",
+      "latitude": 52.074099,
+      "longitude": 4.401246,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 86,
+      "name": "King Bikes",
+      "latitude": 52.363723,
+      "longitude": 4.888292,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 87,
+      "name": "Klamako",
+      "latitude": 53.289135,
+      "longitude": 6.15513,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 88,
+      "name": "Kledingverhuur Dolly",
+      "latitude": 52.217678,
+      "longitude": 6.06597,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 89,
+      "name": "Ko van den Berg",
+      "latitude": 52.130331,
+      "longitude": 5.097956,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 90,
+      "name": "Korbelo Verhuur",
+      "latitude": 52.376299,
+      "longitude": 6.294032,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 91,
+      "name": "Kruitwagen Kledingverhuur",
+      "latitude": 51.920293,
+      "longitude": 6.080256,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 92,
+      "name": "Kuiphuis",
+      "latitude": 52.225309,
+      "longitude": 6.088192,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 93,
+      "name": "LOXAM Rental",
+      "latitude": 52.239385,
+      "longitude": 5.983003,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 94,
+      "name": "Lintsen Verhuur",
+      "latitude": 51.898183,
+      "longitude": 5.907005,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 95,
+      "name": "Luuk Kuiper verhuur",
+      "latitude": 52.464863,
+      "longitude": 6.496431,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 96,
+      "name": "MacBike Oosterdokskade",
+      "latitude": 52.376213,
+      "longitude": 4.906515,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 97,
+      "name": "Machineverhuur Bert Gillis BV",
+      "latitude": 51.269078,
+      "longitude": 4.043058,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 98,
+      "name": "Makkumbeach",
+      "latitude": 53.048548,
+      "longitude": 5.388427,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 99,
+      "name": "Manders Verhuur",
+      "latitude": 51.526368,
+      "longitude": 6.005941,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 100,
+      "name": "Martinic verhuur",
+      "latitude": 51.850976,
+      "longitude": 4.30697,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 101,
+      "name": "Mateco",
+      "latitude": 51.605942,
+      "longitude": 5.530902,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 102,
+      "name": "Materialendepot Maasdelta",
+      "latitude": 51.92577,
+      "longitude": 4.338067,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 103,
+      "name": "Mijn Pakkie An",
+      "latitude": 51.974348,
+      "longitude": 4.24536,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 104,
+      "name": "Mik",
+      "latitude": 51.820966,
+      "longitude": 3.914758,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 105,
+      "name": "Movement Sports",
+      "latitude": 51.592059,
+      "longitude": 3.720877,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 106,
+      "name": "Nederhoff",
+      "latitude": 52.022452,
+      "longitude": 4.680429,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 107,
+      "name": "Nobel Fietsverhuur",
+      "latitude": 53.446868,
+      "longitude": 5.76992,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 108,
+      "name": "Nuverhuur B.V.",
+      "latitude": 52.177674,
+      "longitude": 6.220165,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 109,
+      "name": "OV Fietsen",
+      "latitude": 53.196603,
+      "longitude": 5.793966,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 110,
+      "name": "OV fiets",
+      "latitude": 52.25647,
+      "longitude": 6.160916,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 111,
+      "name": "OV-Fiets",
+      "latitude": 52.080896,
+      "longitude": 4.323497,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 112,
+      "name": "OV-Fiets",
+      "latitude": 52.33741,
+      "longitude": 4.873473,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 113,
+      "name": "OV-fiets",
+      "latitude": 52.026809,
+      "longitude": 5.674666,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 114,
+      "name": "OV-fiets",
+      "latitude": 52.1667,
+      "longitude": 4.481907,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 115,
+      "name": "OV-fiets",
+      "latitude": 52.377573,
+      "longitude": 4.902526,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 116,
+      "name": "OV-fiets",
+      "latitude": 52.378113,
+      "longitude": 4.897396,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 117,
+      "name": "OV-fiets",
+      "latitude": 52.387633,
+      "longitude": 4.637501,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 118,
+      "name": "OV-fiets",
+      "latitude": 52.388716,
+      "longitude": 4.837513,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 119,
+      "name": "OV-fiets",
+      "latitude": 52.505859,
+      "longitude": 6.090716,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 120,
+      "name": "OV-fiets",
+      "latitude": 53.210996,
+      "longitude": 6.566058,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 121,
+      "name": "Oma's fietsen",
+      "latitude": 51.579106,
+      "longitude": 3.617885,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 122,
+      "name": "Pak 'n Bak Aanhanger Verhuur",
+      "latitude": 52.138802,
+      "longitude": 4.41002,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 123,
+      "name": "Partyloods",
+      "latitude": 52.084523,
+      "longitude": 4.407601,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 124,
+      "name": "Partyverhuur Steur",
+      "latitude": 52.101719,
+      "longitude": 5.016051,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 125,
+      "name": "Pel Marktkramen",
+      "latitude": 52.387985,
+      "longitude": 4.628126,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 126,
+      "name": "Quality bike rent Amsterdam",
+      "latitude": 52.37197,
+      "longitude": 4.908044,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 127,
+      "name": "Rainbow Events",
+      "latitude": 53.149904,
+      "longitude": 7.051572,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 128,
+      "name": "Recreatiepark 't Geestmerambacht",
+      "latitude": 52.717007,
+      "longitude": 4.710028,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 129,
+      "name": "Rent & Joy",
+      "latitude": 51.390725,
+      "longitude": 3.454126,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 130,
+      "name": "Rent a Bike Haarlem",
+      "latitude": 52.386407,
+      "longitude": 4.638492,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 131,
+      "name": "Rent a bike",
+      "latitude": 52.401092,
+      "longitude": 4.544562,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 132,
+      "name": "RentTourBuy",
+      "latitude": 51.822645,
+      "longitude": 3.907934,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 133,
+      "name": "Rental Bike Amsterdam",
+      "latitude": 52.378208,
+      "longitude": 4.883115,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 134,
+      "name": "Rentwereld",
+      "latitude": 51.941118,
+      "longitude": 5.223713,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 135,
+      "name": "Rijpaarden verhuur Lok",
+      "latitude": 53.386615,
+      "longitude": 5.29777,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 136,
+      "name": "Riwojo Verhuur",
+      "latitude": 51.958986,
+      "longitude": 5.643669,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 137,
+      "name": "Roompot fietsverhuur",
+      "latitude": 52.386254,
+      "longitude": 4.534764,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 138,
+      "name": "SCHENK Containerverhuur",
+      "latitude": 51.889949,
+      "longitude": 5.843015,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 139,
+      "name": "SIXT",
+      "latitude": 52.379223,
+      "longitude": 4.902485,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 140,
+      "name": "Scooter Huren Zeeland",
+      "latitude": 51.492237,
+      "longitude": 4.050207,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 141,
+      "name": "Sijperda Verhuur",
+      "latitude": 53.023783,
+      "longitude": 5.680598,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 142,
+      "name": "Sijperda Verhuur Heerenveen",
+      "latitude": 52.970762,
+      "longitude": 5.92743,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 143,
+      "name": "Something Extra",
+      "latitude": 52.012301,
+      "longitude": 4.362027,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 144,
+      "name": "Soolsma Party Verhuur",
+      "latitude": 51.471433,
+      "longitude": 3.590281,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 145,
+      "name": "Stalhouderij Manege Vosse",
+      "latitude": 52.388116,
+      "longitude": 4.629346,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 146,
+      "name": "Starbikes",
+      "latitude": 52.377461,
+      "longitude": 4.908089,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 147,
+      "name": "Steiger verhuur",
+      "latitude": 52.067042,
+      "longitude": 4.362205,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 148,
+      "name": "Swapfiets",
+      "latitude": 51.923924,
+      "longitude": 4.489386,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 149,
+      "name": "Swapfiets",
+      "latitude": 52.005964,
+      "longitude": 4.356283,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 150,
+      "name": "Swapfiets",
+      "latitude": 52.091542,
+      "longitude": 5.110078,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 151,
+      "name": "Swapfiets",
+      "latitude": 52.220732,
+      "longitude": 6.896792,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 152,
+      "name": "Swapfiets",
+      "latitude": 52.362703,
+      "longitude": 4.911183,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 153,
+      "name": "Swapfiets",
+      "latitude": 53.197159,
+      "longitude": 5.79504,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 154,
+      "name": "Swapfiets",
+      "latitude": 53.220337,
+      "longitude": 6.566257,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 155,
+      "name": "TIP Noord",
+      "latitude": 52.383032,
+      "longitude": 4.903114,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 156,
+      "name": "Tandemverhuur Apeldoorn",
+      "latitude": 52.192132,
+      "longitude": 5.946729,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 157,
+      "name": "Tijs Knop",
+      "latitude": 53.358645,
+      "longitude": 5.215468,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 158,
+      "name": "Time~Out",
+      "latitude": 51.814029,
+      "longitude": 4.520944,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 159,
+      "name": "TopBak Verhuur",
+      "latitude": 52.512544,
+      "longitude": 4.996744,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 160,
+      "name": "Trailer rental",
+      "latitude": 51.329897,
+      "longitude": 3.498272,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 161,
+      "name": "Ultrasound Productions",
+      "latitude": 51.56521,
+      "longitude": 5.10987,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 162,
+      "name": "Valkbike",
+      "latitude": 50.863873,
+      "longitude": 5.829161,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 163,
+      "name": "Van Beers Events B.V.",
+      "latitude": 51.483894,
+      "longitude": 5.134537,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 164,
+      "name": "Vastgoedtehuur.nu",
+      "latitude": 52.255302,
+      "longitude": 4.631763,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 165,
+      "name": "Velorent Eindhoven",
+      "latitude": 51.438816,
+      "longitude": 5.488159,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 166,
+      "name": "Veluwe Actief Eerbeek",
+      "latitude": 52.105101,
+      "longitude": 6.06636,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 167,
+      "name": "Verschoor",
+      "latitude": 52.212556,
+      "longitude": 4.497502,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 168,
+      "name": "Visser",
+      "latitude": 53.444451,
+      "longitude": 5.635492,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 169,
+      "name": "Vos Noodstroom Systemen",
+      "latitude": 52.180318,
+      "longitude": 5.987838,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 170,
+      "name": "Vredelust",
+      "latitude": 53.075873,
+      "longitude": 4.756883,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 171,
+      "name": "WIDO Kranenverhuur",
+      "latitude": 51.889831,
+      "longitude": 5.849287,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 172,
+      "name": "WIDO Kranenverhuur",
+      "latitude": 51.890681,
+      "longitude": 5.868621,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 173,
+      "name": "Wasgoed.com",
+      "latitude": 53.194299,
+      "longitude": 5.766683,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 174,
+      "name": "Zeelen",
+      "latitude": 53.296559,
+      "longitude": 5.073346,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 175,
+      "name": "Zeelen",
+      "latitude": 53.357559,
+      "longitude": 5.215315,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 176,
+      "name": "Zeelen",
+      "latitude": 53.389363,
+      "longitude": 5.285049,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 177,
+      "name": "Zeelen",
+      "latitude": 53.389583,
+      "longitude": 5.306364,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 178,
+      "name": "Zeelen",
+      "latitude": 53.39331,
+      "longitude": 5.323297,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 179,
+      "name": "bo-rent",
+      "latitude": 53.21873,
+      "longitude": 6.611122,
+      "osm_klasse": "shop=rental"
+    },
+    {
+      "id": 180,
+      "name": "de Thematiek",
+      "latitude": 51.486102,
+      "longitude": 5.142045,
+      "osm_klasse": "shop=rental"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: rental (shop=rental) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=rental in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 180 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: rental (shop=rental) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: rental (shop=rental) — 180 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 180 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

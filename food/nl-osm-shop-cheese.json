@@ -1,0 +1,4062 @@
+{
+  "id": "nl-osm-shop-cheese",
+  "name": "Netherlands OSM: cheese (shop=cheese)",
+  "title": "Netherlands OSM: cheese (shop=cheese)",
+  "description": "Named OpenStreetMap features tagged shop=cheese in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "food",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 573,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Geitenboerke",
+      "latitude": 51.417062,
+      "longitude": 5.352207,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 2,
+      "name": "'t Heukske",
+      "latitude": 50.968187,
+      "longitude": 5.766041,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 3,
+      "name": "'t Kaashoekje",
+      "latitude": 51.679137,
+      "longitude": 5.399388,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 4,
+      "name": "'t Kaashuis",
+      "latitude": 51.658398,
+      "longitude": 5.616065,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 5,
+      "name": "'t Kaashuis",
+      "latitude": 52.989971,
+      "longitude": 6.290705,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 6,
+      "name": "'t Kaashuys",
+      "latitude": 51.283875,
+      "longitude": 6.077011,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 7,
+      "name": "'t Kaashuys",
+      "latitude": 52.055529,
+      "longitude": 4.498394,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 8,
+      "name": "'t Kaasmeisje",
+      "latitude": 52.023828,
+      "longitude": 4.871701,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 9,
+      "name": "'t Kaaspakhuis",
+      "latitude": 52.162138,
+      "longitude": 5.399142,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 10,
+      "name": "'t Kaasplateau",
+      "latitude": 51.855311,
+      "longitude": 4.316503,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 11,
+      "name": "'t Kaasplateau",
+      "latitude": 51.856227,
+      "longitude": 4.418837,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 12,
+      "name": "'t Kaaspunt",
+      "latitude": 51.658838,
+      "longitude": 4.863717,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 13,
+      "name": "'t Kaaspunt",
+      "latitude": 52.379352,
+      "longitude": 4.894135,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 14,
+      "name": "'t Kaaswinkeltje",
+      "latitude": 51.426975,
+      "longitude": 5.486321,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 15,
+      "name": "'t Kaaswinkeltje",
+      "latitude": 51.97232,
+      "longitude": 5.731256,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 16,
+      "name": "'t Kaaswinkeltje",
+      "latitude": 52.011313,
+      "longitude": 4.712617,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 17,
+      "name": "'t Kaaswinkeltje",
+      "latitude": 52.379974,
+      "longitude": 4.633269,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 18,
+      "name": "'t Kaaswinkeltje Koskamp",
+      "latitude": 51.943831,
+      "longitude": 6.461092,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 19,
+      "name": "'t Keesheukske",
+      "latitude": 51.192053,
+      "longitude": 5.99004,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 20,
+      "name": "'t Melkfebriekie Orvelte",
+      "latitude": 52.842743,
+      "longitude": 6.660278,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 21,
+      "name": "'t Tsiispuntsje",
+      "latitude": 53.108722,
+      "longitude": 6.097323,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 22,
+      "name": "'t Zuivelhoekje",
+      "latitude": 51.984158,
+      "longitude": 5.918977,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 23,
+      "name": "Al Shahbaa Syrische Kaas",
+      "latitude": 52.129526,
+      "longitude": 5.465878,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 24,
+      "name": "Alexanderhoeve",
+      "latitude": 51.57248,
+      "longitude": 4.806516,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 25,
+      "name": "Alexanderhoeve",
+      "latitude": 51.623173,
+      "longitude": 4.743948,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 26,
+      "name": "Alexanderhoeve",
+      "latitude": 51.822677,
+      "longitude": 4.777351,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 27,
+      "name": "Alexanderhoeve",
+      "latitude": 51.830277,
+      "longitude": 4.974067,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 28,
+      "name": "Alexanderhoeve",
+      "latitude": 51.833412,
+      "longitude": 4.320068,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 29,
+      "name": "Alexanderhoeve",
+      "latitude": 51.833538,
+      "longitude": 4.145364,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 30,
+      "name": "Alexanderhoeve",
+      "latitude": 51.837015,
+      "longitude": 4.960605,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 31,
+      "name": "Alexanderhoeve",
+      "latitude": 51.847347,
+      "longitude": 4.498883,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 32,
+      "name": "Alexanderhoeve",
+      "latitude": 51.855094,
+      "longitude": 4.539136,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 33,
+      "name": "Alexanderhoeve",
+      "latitude": 51.887412,
+      "longitude": 4.546949,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 34,
+      "name": "Alexanderhoeve",
+      "latitude": 51.917521,
+      "longitude": 4.359213,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 35,
+      "name": "Alexanderhoeve",
+      "latitude": 51.924134,
+      "longitude": 4.51004,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 36,
+      "name": "Alexanderhoeve",
+      "latitude": 51.929313,
+      "longitude": 4.590105,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 37,
+      "name": "Alexanderhoeve",
+      "latitude": 51.934811,
+      "longitude": 4.375361,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 38,
+      "name": "Alexanderhoeve",
+      "latitude": 51.959771,
+      "longitude": 4.534578,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 39,
+      "name": "Alexanderhoeve",
+      "latitude": 51.96791,
+      "longitude": 4.61823,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 40,
+      "name": "Alexanderhoeve",
+      "latitude": 51.988651,
+      "longitude": 4.501722,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 41,
+      "name": "Alexanderhoeve",
+      "latitude": 52.005895,
+      "longitude": 5.085324,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 42,
+      "name": "Alexanderhoeve",
+      "latitude": 52.011012,
+      "longitude": 4.743967,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 43,
+      "name": "Alexanderhoeve",
+      "latitude": 52.017198,
+      "longitude": 5.177831,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 44,
+      "name": "Alexanderhoeve",
+      "latitude": 52.030588,
+      "longitude": 4.287829,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 45,
+      "name": "Alexanderhoeve",
+      "latitude": 52.043626,
+      "longitude": 4.477184,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 46,
+      "name": "Alexanderhoeve",
+      "latitude": 52.053423,
+      "longitude": 5.082364,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 47,
+      "name": "Alexanderhoeve",
+      "latitude": 52.053428,
+      "longitude": 4.234277,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 48,
+      "name": "Alexanderhoeve",
+      "latitude": 52.066627,
+      "longitude": 4.245553,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 49,
+      "name": "Alexanderhoeve",
+      "latitude": 52.073764,
+      "longitude": 4.658336,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 50,
+      "name": "Alexanderhoeve",
+      "latitude": 52.076051,
+      "longitude": 5.262493,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 51,
+      "name": "Alexanderhoeve",
+      "latitude": 52.086376,
+      "longitude": 4.88522,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 52,
+      "name": "Alexanderhoeve",
+      "latitude": 52.086992,
+      "longitude": 4.338502,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 53,
+      "name": "Alexanderhoeve",
+      "latitude": 52.087646,
+      "longitude": 4.383717,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 54,
+      "name": "Alexanderhoeve",
+      "latitude": 52.091483,
+      "longitude": 4.304181,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 55,
+      "name": "Alexanderhoeve",
+      "latitude": 52.092248,
+      "longitude": 4.357889,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 56,
+      "name": "Alexanderhoeve",
+      "latitude": 52.093738,
+      "longitude": 4.276473,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 57,
+      "name": "Alexanderhoeve",
+      "latitude": 52.106739,
+      "longitude": 5.134791,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 58,
+      "name": "Alexanderhoeve",
+      "latitude": 52.135005,
+      "longitude": 5.029914,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 59,
+      "name": "Alexanderhoeve",
+      "latitude": 52.14583,
+      "longitude": 4.394245,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 60,
+      "name": "Alexanderhoeve",
+      "latitude": 52.151207,
+      "longitude": 4.4532,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 61,
+      "name": "Alexanderhoeve",
+      "latitude": 52.164435,
+      "longitude": 5.3083,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 62,
+      "name": "Alexanderhoeve",
+      "latitude": 52.168994,
+      "longitude": 5.281742,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 63,
+      "name": "Alexanderhoeve",
+      "latitude": 52.180844,
+      "longitude": 4.999328,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 64,
+      "name": "Alexanderhoeve",
+      "latitude": 52.186167,
+      "longitude": 5.397876,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 65,
+      "name": "Alexanderhoeve",
+      "latitude": 52.191598,
+      "longitude": 4.442549,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 66,
+      "name": "Alexanderhoeve",
+      "latitude": 52.204023,
+      "longitude": 4.394549,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 67,
+      "name": "Alexanderhoeve",
+      "latitude": 52.205922,
+      "longitude": 4.419197,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 68,
+      "name": "Alexanderhoeve",
+      "latitude": 52.206275,
+      "longitude": 4.865839,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 69,
+      "name": "Alexanderhoeve",
+      "latitude": 52.211468,
+      "longitude": 5.28982,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 70,
+      "name": "Alexanderhoeve",
+      "latitude": 52.214198,
+      "longitude": 4.925855,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 71,
+      "name": "Alexanderhoeve",
+      "latitude": 52.224047,
+      "longitude": 5.483859,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 72,
+      "name": "Alexanderhoeve",
+      "latitude": 52.227449,
+      "longitude": 4.52369,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 73,
+      "name": "Alexanderhoeve",
+      "latitude": 52.232313,
+      "longitude": 4.828541,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 74,
+      "name": "Alexanderhoeve",
+      "latitude": 52.232569,
+      "longitude": 5.191729,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 75,
+      "name": "Alexanderhoeve",
+      "latitude": 52.234544,
+      "longitude": 4.446522,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 76,
+      "name": "Alexanderhoeve",
+      "latitude": 52.246474,
+      "longitude": 4.827818,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 77,
+      "name": "Alexanderhoeve",
+      "latitude": 52.270961,
+      "longitude": 4.620122,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 78,
+      "name": "Alexanderhoeve",
+      "latitude": 52.281848,
+      "longitude": 4.826361,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 79,
+      "name": "Alexanderhoeve",
+      "latitude": 52.288932,
+      "longitude": 4.869897,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 80,
+      "name": "Alexanderhoeve",
+      "latitude": 52.301565,
+      "longitude": 5.63025,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 81,
+      "name": "Alexanderhoeve",
+      "latitude": 52.301779,
+      "longitude": 4.693803,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 82,
+      "name": "Alexanderhoeve",
+      "latitude": 52.308234,
+      "longitude": 5.039741,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 83,
+      "name": "Alexanderhoeve",
+      "latitude": 52.3312,
+      "longitude": 4.878928,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 84,
+      "name": "Alexanderhoeve",
+      "latitude": 52.331796,
+      "longitude": 5.541858,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 85,
+      "name": "Alexanderhoeve",
+      "latitude": 52.342251,
+      "longitude": 4.962941,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 86,
+      "name": "Alexanderhoeve",
+      "latitude": 52.345574,
+      "longitude": 4.905254,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 87,
+      "name": "Alexanderhoeve",
+      "latitude": 52.346941,
+      "longitude": 5.98483,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 88,
+      "name": "Alexanderhoeve",
+      "latitude": 52.348473,
+      "longitude": 4.620936,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 89,
+      "name": "Alexanderhoeve",
+      "latitude": 52.348787,
+      "longitude": 4.877582,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 90,
+      "name": "Alexanderhoeve",
+      "latitude": 52.349767,
+      "longitude": 4.786857,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 91,
+      "name": "Alexanderhoeve",
+      "latitude": 52.358786,
+      "longitude": 4.654979,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 92,
+      "name": "Alexanderhoeve",
+      "latitude": 52.367087,
+      "longitude": 5.190942,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 93,
+      "name": "Alexanderhoeve",
+      "latitude": 52.374212,
+      "longitude": 4.937219,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 94,
+      "name": "Alexanderhoeve",
+      "latitude": 52.394232,
+      "longitude": 5.280705,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 95,
+      "name": "Alexanderhoeve",
+      "latitude": 52.408148,
+      "longitude": 4.916255,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 96,
+      "name": "Alexanderhoeve",
+      "latitude": 52.417284,
+      "longitude": 4.892831,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 97,
+      "name": "Alexanderhoeve",
+      "latitude": 52.434402,
+      "longitude": 4.659832,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 98,
+      "name": "Alexanderhoeve",
+      "latitude": 52.513174,
+      "longitude": 5.720876,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 99,
+      "name": "Alexanderhoeve",
+      "latitude": 52.524305,
+      "longitude": 5.719088,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 100,
+      "name": "Alexanderhoeve",
+      "latitude": 52.550675,
+      "longitude": 4.674106,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 101,
+      "name": "Alkmaarse Notenbranderij",
+      "latitude": 52.631437,
+      "longitude": 4.749478,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 102,
+      "name": "Amsterdam Cheese Company",
+      "latitude": 52.366707,
+      "longitude": 4.887815,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 103,
+      "name": "Amsterdam Cheese Company",
+      "latitude": 52.36947,
+      "longitude": 4.891014,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 104,
+      "name": "Amsterdam Cheese Company",
+      "latitude": 52.374929,
+      "longitude": 4.894037,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 105,
+      "name": "Amsterdam Cheese Deli",
+      "latitude": 52.374712,
+      "longitude": 4.899733,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 106,
+      "name": "Amsterdam Cheese Museum",
+      "latitude": 52.37638,
+      "longitude": 4.884227,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 107,
+      "name": "Amsterdams Kaashuis",
+      "latitude": 52.377054,
+      "longitude": 4.897057,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 108,
+      "name": "Anita's Kaas & Meer",
+      "latitude": 52.262541,
+      "longitude": 6.822235,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 109,
+      "name": "Arjan's Kaashuis",
+      "latitude": 51.688568,
+      "longitude": 5.311437,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 110,
+      "name": "Arjan's Kaaswinkel",
+      "latitude": 51.997508,
+      "longitude": 5.675648,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 111,
+      "name": "Babsies",
+      "latitude": 51.89192,
+      "longitude": 5.898309,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 112,
+      "name": "Beuse Kaashandel",
+      "latitude": 52.510715,
+      "longitude": 5.005963,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 113,
+      "name": "Bocado Kaas & Delicatessen",
+      "latitude": 52.90584,
+      "longitude": 4.960876,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 114,
+      "name": "Bodegraafse Kaasboer",
+      "latitude": 52.083212,
+      "longitude": 4.746451,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 115,
+      "name": "Boerderij Westerheem",
+      "latitude": 53.038827,
+      "longitude": 4.7493,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 116,
+      "name": "Boerderijwinkel WIEKS scharrelmelk",
+      "latitude": 51.452153,
+      "longitude": 5.199967,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 117,
+      "name": "Boerderijzuivel & meer",
+      "latitude": 52.012875,
+      "longitude": 4.355559,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 118,
+      "name": "Bon Fromage",
+      "latitude": 51.735113,
+      "longitude": 5.527066,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 119,
+      "name": "Booij Kaasmakers",
+      "latitude": 51.902037,
+      "longitude": 4.487029,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 120,
+      "name": "Borrelstore",
+      "latitude": 52.698813,
+      "longitude": 6.190502,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 121,
+      "name": "Boter-, Kaas- & Kampeerboerderij 'n Ibink",
+      "latitude": 52.066427,
+      "longitude": 6.456094,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 122,
+      "name": "Bourgondisch Lifestyle",
+      "latitude": 52.489188,
+      "longitude": 4.65067,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 123,
+      "name": "Bruggeman Kaaspakhuis",
+      "latitude": 52.49042,
+      "longitude": 4.73916,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 124,
+      "name": "Bruinsma Kaas, Noten en Wijn",
+      "latitude": 52.844091,
+      "longitude": 5.712918,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 125,
+      "name": "CONO Kaaswinkel",
+      "latitude": 52.555421,
+      "longitude": 4.87581,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 126,
+      "name": "Casa Deli",
+      "latitude": 52.355061,
+      "longitude": 4.82609,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 127,
+      "name": "Cheese & More",
+      "latitude": 50.849415,
+      "longitude": 5.692864,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 128,
+      "name": "Cheese & More",
+      "latitude": 51.689231,
+      "longitude": 5.304603,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 129,
+      "name": "Cheese & More",
+      "latitude": 51.920248,
+      "longitude": 4.487044,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 130,
+      "name": "Cheese & More",
+      "latitude": 52.079583,
+      "longitude": 4.308899,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 131,
+      "name": "Cheese & More",
+      "latitude": 52.366537,
+      "longitude": 4.894555,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 132,
+      "name": "Cheese & More",
+      "latitude": 52.366639,
+      "longitude": 4.891919,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 133,
+      "name": "Cheese & More",
+      "latitude": 52.369697,
+      "longitude": 4.89132,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 134,
+      "name": "Cheese & More",
+      "latitude": 52.37362,
+      "longitude": 4.892539,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 135,
+      "name": "Cheese & More",
+      "latitude": 52.376418,
+      "longitude": 4.896261,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 136,
+      "name": "Cheese & More",
+      "latitude": 52.37939,
+      "longitude": 4.900331,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 137,
+      "name": "Cheese & More Kaaswinkel by Henri Willig",
+      "latitude": 52.08832,
+      "longitude": 4.385533,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 138,
+      "name": "Cheese & More by Henri Willig",
+      "latitude": 52.091213,
+      "longitude": 5.120347,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 139,
+      "name": "Cheese & more",
+      "latitude": 52.380838,
+      "longitude": 4.635415,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 140,
+      "name": "Cheese Factory",
+      "latitude": 52.494781,
+      "longitude": 5.077013,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 141,
+      "name": "Cheese Inn",
+      "latitude": 52.375901,
+      "longitude": 4.896317,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 142,
+      "name": "Cheese Store",
+      "latitude": 52.374367,
+      "longitude": 4.884116,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 143,
+      "name": "Cheesefarm Wezenspyk",
+      "latitude": 53.033315,
+      "longitude": 4.788254,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 144,
+      "name": "Cromwijk",
+      "latitude": 52.086397,
+      "longitude": 4.885617,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 145,
+      "name": "Cromwijk Kaasdok",
+      "latitude": 51.920077,
+      "longitude": 4.486892,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 146,
+      "name": "De Fijnproever",
+      "latitude": 52.032016,
+      "longitude": 4.703617,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 147,
+      "name": "De Fromagerie",
+      "latitude": 52.662923,
+      "longitude": 4.830143,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 148,
+      "name": "De Fryske B.V.",
+      "latitude": 52.856266,
+      "longitude": 5.720841,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 149,
+      "name": "De Goey Kaas",
+      "latitude": 52.074959,
+      "longitude": 4.886601,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 150,
+      "name": "De Groot Kaas",
+      "latitude": 52.151104,
+      "longitude": 4.66051,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 151,
+      "name": "De IJsselpoort",
+      "latitude": 52.045679,
+      "longitude": 4.948301,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 152,
+      "name": "De Kaasbank",
+      "latitude": 52.661264,
+      "longitude": 6.740344,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 153,
+      "name": "De Kaasbank Borger",
+      "latitude": 52.922574,
+      "longitude": 6.791959,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 154,
+      "name": "De Kaasbaron",
+      "latitude": 52.082315,
+      "longitude": 5.134466,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 155,
+      "name": "De Kaasboet",
+      "latitude": 52.957974,
+      "longitude": 4.763772,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 156,
+      "name": "De Kaasgraaf",
+      "latitude": 51.513625,
+      "longitude": 4.438497,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 157,
+      "name": "De Kaashakker",
+      "latitude": 52.041156,
+      "longitude": 4.651823,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 158,
+      "name": "De Kaashoek",
+      "latitude": 52.347256,
+      "longitude": 6.673927,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 159,
+      "name": "De Kaashoek",
+      "latitude": 52.392769,
+      "longitude": 4.641229,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 160,
+      "name": "De Kaashoeve",
+      "latitude": 51.727313,
+      "longitude": 4.438024,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 161,
+      "name": "De Kaashoeve",
+      "latitude": 51.917678,
+      "longitude": 4.475372,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 162,
+      "name": "De Kaaskamer van Amsterdam",
+      "latitude": 52.368828,
+      "longitude": 4.883856,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 163,
+      "name": "De Kaaskelder",
+      "latitude": 52.366728,
+      "longitude": 4.891161,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 164,
+      "name": "De Kaasknabbel",
+      "latitude": 52.082241,
+      "longitude": 5.413871,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 165,
+      "name": "De Kaaskoning",
+      "latitude": 51.619227,
+      "longitude": 5.433484,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 166,
+      "name": "De Kaaskop",
+      "latitude": 53.172668,
+      "longitude": 6.604251,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 167,
+      "name": "De Kaaskopers",
+      "latitude": 51.936309,
+      "longitude": 4.602936,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 168,
+      "name": "De Kaaskopers",
+      "latitude": 52.141288,
+      "longitude": 6.201502,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 169,
+      "name": "De Kaasmakerij",
+      "latitude": 52.33553,
+      "longitude": 5.218832,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 170,
+      "name": "De Kaasman XL",
+      "latitude": 52.200055,
+      "longitude": 5.966901,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 171,
+      "name": "De Kaasmeester",
+      "latitude": 52.349631,
+      "longitude": 4.978233,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 172,
+      "name": "De Kaasopslag",
+      "latitude": 52.631762,
+      "longitude": 4.745099,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 173,
+      "name": "De Kaasproeverij",
+      "latitude": 52.028424,
+      "longitude": 5.53281,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 174,
+      "name": "De Kaaspunt Sebilla",
+      "latitude": 51.778236,
+      "longitude": 5.933977,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 175,
+      "name": "De Kaasspecialist Smaragdplein",
+      "latitude": 52.072063,
+      "longitude": 5.12483,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 176,
+      "name": "De Kaasstolp",
+      "latitude": 51.657958,
+      "longitude": 5.615878,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 177,
+      "name": "De Kaasstolp",
+      "latitude": 51.718876,
+      "longitude": 5.362919,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 178,
+      "name": "De Kaasstolp",
+      "latitude": 51.812394,
+      "longitude": 4.66849,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 179,
+      "name": "De Kaasstolp",
+      "latitude": 51.822451,
+      "longitude": 4.776412,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 180,
+      "name": "De Kaasstolp",
+      "latitude": 51.88293,
+      "longitude": 5.292467,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 181,
+      "name": "De Kaasstolp",
+      "latitude": 51.888132,
+      "longitude": 5.432334,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 182,
+      "name": "De Kaasstolp",
+      "latitude": 51.891139,
+      "longitude": 5.094014,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 183,
+      "name": "De Kaasstolp",
+      "latitude": 51.957517,
+      "longitude": 5.566807,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 184,
+      "name": "De Kaasstolp",
+      "latitude": 52.018617,
+      "longitude": 5.043494,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 185,
+      "name": "De Kaasstolp",
+      "latitude": 52.046344,
+      "longitude": 5.671106,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 186,
+      "name": "De Kaaswaag",
+      "latitude": 51.994266,
+      "longitude": 4.475024,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 187,
+      "name": "De Kaaswaag",
+      "latitude": 52.995333,
+      "longitude": 6.562523,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 188,
+      "name": "De Kaaswereld",
+      "latitude": 52.201655,
+      "longitude": 4.632241,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 189,
+      "name": "De Kaaswinkel",
+      "latitude": 51.511112,
+      "longitude": 5.492592,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 190,
+      "name": "De Kaaswinkel",
+      "latitude": 51.647457,
+      "longitude": 5.950829,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 191,
+      "name": "De Kaaswinkel",
+      "latitude": 52.235346,
+      "longitude": 6.493321,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 192,
+      "name": "De Kaaswinkel",
+      "latitude": 52.371124,
+      "longitude": 4.855666,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 193,
+      "name": "De Leckernij",
+      "latitude": 52.221961,
+      "longitude": 6.89284,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 194,
+      "name": "De Lekkernij",
+      "latitude": 52.264277,
+      "longitude": 4.632053,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 195,
+      "name": "De Nootzaak",
+      "latitude": 52.634087,
+      "longitude": 4.765966,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 196,
+      "name": "De Osdorper",
+      "latitude": 52.267524,
+      "longitude": 4.748112,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 197,
+      "name": "De Oude Streek",
+      "latitude": 53.111825,
+      "longitude": 6.346274,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 198,
+      "name": "De Raat Kaas en Natuurprodukten",
+      "latitude": 52.525264,
+      "longitude": 4.708962,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 199,
+      "name": "De Rotterdamsche Oude",
+      "latitude": 51.920158,
+      "longitude": 4.487346,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 200,
+      "name": "De Stolwijkse Kaashandel",
+      "latitude": 52.056019,
+      "longitude": 4.336027,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 201,
+      "name": "De Stompwijkse Kaasboer",
+      "latitude": 52.097315,
+      "longitude": 4.402631,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 202,
+      "name": "De Stompwijkse kaasboer",
+      "latitude": 52.019247,
+      "longitude": 4.43309,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 203,
+      "name": "De Veursche Kaasboetiek",
+      "latitude": 52.133415,
+      "longitude": 4.45249,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 204,
+      "name": "De Vliet-hoeve",
+      "latitude": 52.042254,
+      "longitude": 4.889378,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 205,
+      "name": "De Waag",
+      "latitude": 51.371453,
+      "longitude": 6.170701,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 206,
+      "name": "De Waag",
+      "latitude": 52.698883,
+      "longitude": 6.189771,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 207,
+      "name": "De Weypoort Dick Schumacher",
+      "latitude": 51.855658,
+      "longitude": 4.537883,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 208,
+      "name": "De Witte Kaashal",
+      "latitude": 52.496687,
+      "longitude": 4.767669,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 209,
+      "name": "De lachende koe Kaas en Vleeswaren",
+      "latitude": 52.041005,
+      "longitude": 4.321644,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 210,
+      "name": "Deli K's",
+      "latitude": 52.303083,
+      "longitude": 4.693901,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 211,
+      "name": "Deliciouz",
+      "latitude": 51.603141,
+      "longitude": 5.664915,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 212,
+      "name": "Delikaas",
+      "latitude": 51.833509,
+      "longitude": 4.362105,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 213,
+      "name": "Den Besten",
+      "latitude": 51.890488,
+      "longitude": 5.09199,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 214,
+      "name": "Den4akker Kaas & delicatesse",
+      "latitude": 52.104383,
+      "longitude": 6.310736,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 215,
+      "name": "Diervoort",
+      "latitude": 51.794828,
+      "longitude": 5.799787,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 216,
+      "name": "Dirk-Jan Leeflang Kaasspecialist",
+      "latitude": 52.104321,
+      "longitude": 4.276039,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 217,
+      "name": "Driessen Kaas en Delicatessen",
+      "latitude": 51.890224,
+      "longitude": 5.610655,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 218,
+      "name": "Ed Boele De Kaasspeciaalzaak",
+      "latitude": 52.078682,
+      "longitude": 4.269577,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 219,
+      "name": "Ed's kaashuis",
+      "latitude": 52.412693,
+      "longitude": 6.626434,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 220,
+      "name": "Een blokje om",
+      "latitude": 52.23451,
+      "longitude": 4.749579,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 221,
+      "name": "Escamps Kaashuisje",
+      "latitude": 52.062057,
+      "longitude": 4.269763,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 222,
+      "name": "Floors Kaas en Notencentrum",
+      "latitude": 52.695558,
+      "longitude": 5.17711,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 223,
+      "name": "Fromagerie Abraham Kef",
+      "latitude": 52.370717,
+      "longitude": 4.930196,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 224,
+      "name": "Fromagerie Abraham Kef",
+      "latitude": 52.371608,
+      "longitude": 4.875822,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 225,
+      "name": "Fromagerie Bon",
+      "latitude": 52.15943,
+      "longitude": 4.491643,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 226,
+      "name": "Fromagerie Forianne",
+      "latitude": 51.49983,
+      "longitude": 3.616207,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 227,
+      "name": "Fromagerie Kef",
+      "latitude": 52.386964,
+      "longitude": 4.907743,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 228,
+      "name": "Fromagerie Zuidhof",
+      "latitude": 50.957622,
+      "longitude": 5.827349,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 229,
+      "name": "Gastrovino",
+      "latitude": 52.368993,
+      "longitude": 4.888579,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 230,
+      "name": "Gastrovino Het Hof van Heden",
+      "latitude": 52.044719,
+      "longitude": 4.390666,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 231,
+      "name": "Gatenkaas & Zo",
+      "latitude": 51.934109,
+      "longitude": 4.465475,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 232,
+      "name": "Gouds Kaashuis",
+      "latitude": 52.012291,
+      "longitude": 4.709891,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 233,
+      "name": "Groninger Kaasboetiek",
+      "latitude": 53.216689,
+      "longitude": 6.558822,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 234,
+      "name": "Gérard Kaas En Lekkernij",
+      "latitude": 51.565383,
+      "longitude": 4.831327,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 235,
+      "name": "HOOFT Kaas Delicatesse",
+      "latitude": 52.128274,
+      "longitude": 5.208511,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 236,
+      "name": "Heerlijk & Hartig",
+      "latitude": 51.918753,
+      "longitude": 5.844686,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 237,
+      "name": "Heerlyk",
+      "latitude": 52.229617,
+      "longitude": 5.986236,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 238,
+      "name": "Hendrik en Marcella",
+      "latitude": 51.570302,
+      "longitude": 4.791273,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 239,
+      "name": "Henri Willig",
+      "latitude": 52.011303,
+      "longitude": 4.359019,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 240,
+      "name": "Henri Willig",
+      "latitude": 52.366733,
+      "longitude": 4.891111,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 241,
+      "name": "Henri Willig",
+      "latitude": 52.375346,
+      "longitude": 4.898057,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 242,
+      "name": "Henri Willig",
+      "latitude": 52.513475,
+      "longitude": 5.047381,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 243,
+      "name": "Henri Willig Cheese & More",
+      "latitude": 52.365667,
+      "longitude": 4.885637,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 244,
+      "name": "Henri Willig Cheese Shop",
+      "latitude": 52.366966,
+      "longitude": 4.889779,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 245,
+      "name": "Het Gouden Mes",
+      "latitude": 50.949431,
+      "longitude": 5.796405,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 246,
+      "name": "Het Kaas Atelier",
+      "latitude": 51.578994,
+      "longitude": 4.456345,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 247,
+      "name": "Het Kaashapje",
+      "latitude": 51.638666,
+      "longitude": 5.35002,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 248,
+      "name": "Het Kaashuis",
+      "latitude": 52.025665,
+      "longitude": 5.557618,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 249,
+      "name": "Het Kaashuis 'Kaatje Jans'",
+      "latitude": 51.418541,
+      "longitude": 5.407602,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 250,
+      "name": "Het Kaaskeldertje",
+      "latitude": 52.575872,
+      "longitude": 6.61983,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 251,
+      "name": "Het Kaaslokaal",
+      "latitude": 52.215375,
+      "longitude": 5.961807,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 252,
+      "name": "Het Kaasplankje",
+      "latitude": 52.723819,
+      "longitude": 6.508015,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 253,
+      "name": "Het Kaasvat",
+      "latitude": 52.119119,
+      "longitude": 5.099736,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 254,
+      "name": "Het Kaaswinkeltje",
+      "latitude": 52.549427,
+      "longitude": 4.663749,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 255,
+      "name": "Het Roois Kaashuis",
+      "latitude": 51.563683,
+      "longitude": 5.460508,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 256,
+      "name": "Het Viaanse Kaashuis",
+      "latitude": 51.992852,
+      "longitude": 5.093155,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 257,
+      "name": "Het kaasmeske",
+      "latitude": 51.521124,
+      "longitude": 4.388271,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 258,
+      "name": "Holland Kaascentrum",
+      "latitude": 52.09222,
+      "longitude": 4.961591,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 259,
+      "name": "House of Cheese",
+      "latitude": 52.727595,
+      "longitude": 6.089787,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 260,
+      "name": "Hugo van der Graaf",
+      "latitude": 52.215851,
+      "longitude": 5.141486,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 261,
+      "name": "Huuskes",
+      "latitude": 52.378735,
+      "longitude": 6.678537,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 262,
+      "name": "J. van Schaik",
+      "latitude": 51.78671,
+      "longitude": 4.049091,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 263,
+      "name": "Jack's Delicatessenhuis",
+      "latitude": 51.712331,
+      "longitude": 5.313938,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 264,
+      "name": "Jan de Bruijn",
+      "latitude": 52.0926,
+      "longitude": 4.324708,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 265,
+      "name": "Jellema Specialiteiten",
+      "latitude": 53.187268,
+      "longitude": 5.539671,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 266,
+      "name": "Jelmer's Kaasspeciaalzaak",
+      "latitude": 52.482384,
+      "longitude": 4.659972,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 267,
+      "name": "Jerry's Kaaspaleis",
+      "latitude": 52.665241,
+      "longitude": 4.85728,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 268,
+      "name": "Joh. Warmendam",
+      "latitude": 52.262537,
+      "longitude": 4.4938,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 269,
+      "name": "Joop de Kaasknaller",
+      "latitude": 52.36339,
+      "longitude": 4.935429,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 270,
+      "name": "Kaan's Kaashandel",
+      "latitude": 52.632138,
+      "longitude": 4.744261,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 271,
+      "name": "Kaan's Kaashandel",
+      "latitude": 52.642084,
+      "longitude": 5.05962,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 272,
+      "name": "Kaas & Kaasjes",
+      "latitude": 51.368572,
+      "longitude": 6.170116,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 273,
+      "name": "Kaas & Meer",
+      "latitude": 51.988857,
+      "longitude": 6.568174,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 274,
+      "name": "Kaas & Meer",
+      "latitude": 52.087144,
+      "longitude": 6.448549,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 275,
+      "name": "Kaas & Meer bij Brands",
+      "latitude": 52.077103,
+      "longitude": 4.862969,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 276,
+      "name": "Kaas & Meer bij Gill",
+      "latitude": 52.08581,
+      "longitude": 4.904527,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 277,
+      "name": "Kaas & Notenhuis Lunetten",
+      "latitude": 52.065002,
+      "longitude": 5.137192,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 278,
+      "name": "Kaas & Toost",
+      "latitude": 51.52222,
+      "longitude": 4.272349,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 279,
+      "name": "Kaas & Zo",
+      "latitude": 52.771668,
+      "longitude": 5.107127,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 280,
+      "name": "Kaas Beij Wout",
+      "latitude": 52.382524,
+      "longitude": 4.635372,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 281,
+      "name": "Kaas en Meer",
+      "latitude": 51.521385,
+      "longitude": 5.06821,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 282,
+      "name": "Kaas en Zo",
+      "latitude": 51.327869,
+      "longitude": 5.980119,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 283,
+      "name": "Kaas en Zo",
+      "latitude": 52.052875,
+      "longitude": 5.285414,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 284,
+      "name": "Kaas uut Kaasgat",
+      "latitude": 51.468853,
+      "longitude": 4.042351,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 285,
+      "name": "Kaas van Kees",
+      "latitude": 51.930734,
+      "longitude": 5.711782,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 286,
+      "name": "Kaas van Kees",
+      "latitude": 51.978709,
+      "longitude": 5.662597,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 287,
+      "name": "Kaas van Kees",
+      "latitude": 51.986581,
+      "longitude": 5.845123,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 288,
+      "name": "Kaas van Kees",
+      "latitude": 52.011243,
+      "longitude": 4.709585,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 289,
+      "name": "Kaas van Kees",
+      "latitude": 52.040055,
+      "longitude": 5.666446,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 290,
+      "name": "Kaas van Schut",
+      "latitude": 52.519353,
+      "longitude": 6.421425,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 291,
+      "name": "Kaas van Schut",
+      "latitude": 52.600938,
+      "longitude": 6.457016,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 292,
+      "name": "KaasRijk",
+      "latitude": 51.930248,
+      "longitude": 6.07628,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 293,
+      "name": "KaasWereld",
+      "latitude": 51.782048,
+      "longitude": 5.853356,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 294,
+      "name": "Kaasbest",
+      "latitude": 51.823503,
+      "longitude": 4.651468,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 295,
+      "name": "Kaasboer Brunssum B.V.",
+      "latitude": 50.946331,
+      "longitude": 5.972634,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 296,
+      "name": "Kaasboer Niek",
+      "latitude": 52.670557,
+      "longitude": 4.702916,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 297,
+      "name": "Kaasboer Niek",
+      "latitude": 52.701802,
+      "longitude": 4.693396,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 298,
+      "name": "Kaasboerderij 't Bosch",
+      "latitude": 51.6668,
+      "longitude": 4.77932,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 299,
+      "name": "Kaasboerderij Ameland",
+      "latitude": 53.44116,
+      "longitude": 5.637226,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 300,
+      "name": "Kaasboerderij Catharina Hoeve",
+      "latitude": 52.473661,
+      "longitude": 4.818593,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 301,
+      "name": "Kaasboerderij De Gelder",
+      "latitude": 53.017727,
+      "longitude": 5.987777,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 302,
+      "name": "Kaasboerderij De Hooiberg",
+      "latitude": 51.353375,
+      "longitude": 5.223728,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 303,
+      "name": "Kaasboerderij De Staelenhoef",
+      "latitude": 52.161962,
+      "longitude": 5.32896,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 304,
+      "name": "Kaasboerderij De Twee Hoeven",
+      "latitude": 52.005827,
+      "longitude": 4.786424,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 305,
+      "name": "Kaasboerderij DeFranschman",
+      "latitude": 52.663997,
+      "longitude": 4.668891,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 306,
+      "name": "Kaasboerderij Geingenoegen",
+      "latitude": 52.292043,
+      "longitude": 5.003671,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 307,
+      "name": "Kaasboerderij Heileuver",
+      "latitude": 52.482006,
+      "longitude": 6.343996,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 308,
+      "name": "Kaasboerderij Kwakernaak",
+      "latitude": 52.169476,
+      "longitude": 4.544874,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 309,
+      "name": "Kaasboerderij Mathijssen",
+      "latitude": 51.603417,
+      "longitude": 5.119021,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 310,
+      "name": "Kaasboerderij Noorderlicht",
+      "latitude": 51.904165,
+      "longitude": 4.927482,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 311,
+      "name": "Kaasboerderij Ossenblok",
+      "latitude": 51.526296,
+      "longitude": 4.597303,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 312,
+      "name": "Kaasboerderij Sol",
+      "latitude": 52.101244,
+      "longitude": 4.607591,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 313,
+      "name": "Kaasboerderij Sterreschans",
+      "latitude": 52.203216,
+      "longitude": 4.976279,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 314,
+      "name": "Kaasboerderij de Leyendaler",
+      "latitude": 51.516216,
+      "longitude": 5.07855,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 315,
+      "name": "Kaasboerderij van Eijk",
+      "latitude": 51.987594,
+      "longitude": 4.81011,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 316,
+      "name": "Kaasboerderij van Veen",
+      "latitude": 52.113263,
+      "longitude": 4.523111,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 317,
+      "name": "Kaasboerinneke",
+      "latitude": 51.443505,
+      "longitude": 3.57568,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 318,
+      "name": "Kaasenlekkernijen",
+      "latitude": 51.520215,
+      "longitude": 4.473166,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 319,
+      "name": "Kaasgenoten",
+      "latitude": 51.566804,
+      "longitude": 4.636144,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 320,
+      "name": "Kaashandel 't Voorhuys",
+      "latitude": 51.902715,
+      "longitude": 4.165126,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 321,
+      "name": "Kaashandel Borghuis",
+      "latitude": 52.217195,
+      "longitude": 6.89791,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 322,
+      "name": "Kaashandel Dammers",
+      "latitude": 51.808767,
+      "longitude": 3.936388,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 323,
+      "name": "Kaashandel De Wit",
+      "latitude": 51.847648,
+      "longitude": 5.861145,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 324,
+      "name": "Kaashandel J. V. den Broek",
+      "latitude": 51.889166,
+      "longitude": 5.270979,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 325,
+      "name": "Kaashandel Tebben",
+      "latitude": 51.359525,
+      "longitude": 6.142392,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 326,
+      "name": "Kaashandel Van Leeuwen en Van Doesburg",
+      "latitude": 51.964591,
+      "longitude": 5.254153,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 327,
+      "name": "Kaashandel v. Boheemen",
+      "latitude": 52.160831,
+      "longitude": 4.491165,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 328,
+      "name": "Kaashandel van der Leij",
+      "latitude": 53.197887,
+      "longitude": 6.579549,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 329,
+      "name": "Kaashoek Zandvoort",
+      "latitude": 52.373827,
+      "longitude": 4.530982,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 330,
+      "name": "Kaashoeve",
+      "latitude": 51.917281,
+      "longitude": 4.47354,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 331,
+      "name": "Kaashuis 't Volle Pond",
+      "latitude": 52.56523,
+      "longitude": 5.929705,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 332,
+      "name": "Kaashuis Best",
+      "latitude": 51.511397,
+      "longitude": 5.393829,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 333,
+      "name": "Kaashuis Dorestad",
+      "latitude": 51.973153,
+      "longitude": 5.345992,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 334,
+      "name": "Kaashuis Roosendaal",
+      "latitude": 51.532329,
+      "longitude": 4.456855,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 335,
+      "name": "Kaashuis Wrongel",
+      "latitude": 53.15495,
+      "longitude": 6.756916,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 336,
+      "name": "Kaashuis van Leeuwen",
+      "latitude": 52.076109,
+      "longitude": 4.373653,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 337,
+      "name": "Kaashuys",
+      "latitude": 51.874382,
+      "longitude": 4.068867,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 338,
+      "name": "Kaashuys Akkrum",
+      "latitude": 53.049371,
+      "longitude": 5.836741,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 339,
+      "name": "Kaashuys Breij",
+      "latitude": 52.219352,
+      "longitude": 6.893235,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 340,
+      "name": "Kaashuys Koning Willem",
+      "latitude": 51.831186,
+      "longitude": 5.84656,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 341,
+      "name": "Kaasie Kaasie",
+      "latitude": 52.019013,
+      "longitude": 5.042325,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 342,
+      "name": "Kaasjes bij Lou",
+      "latitude": 51.728977,
+      "longitude": 5.881655,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 343,
+      "name": "Kaaskamer Hooi & Klomp",
+      "latitude": 52.21571,
+      "longitude": 5.168009,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 344,
+      "name": "Kaaskenner",
+      "latitude": 51.527001,
+      "longitude": 5.974326,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 345,
+      "name": "Kaaskoperij",
+      "latitude": 53.00322,
+      "longitude": 6.764179,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 346,
+      "name": "Kaaskoperij",
+      "latitude": 53.21521,
+      "longitude": 5.792879,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 347,
+      "name": "Kaaskoperij Damwâld",
+      "latitude": 53.293679,
+      "longitude": 5.995913,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 348,
+      "name": "Kaaskoperij Thomas",
+      "latitude": 53.000729,
+      "longitude": 6.548417,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 349,
+      "name": "Kaasland",
+      "latitude": 52.247685,
+      "longitude": 6.215552,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 350,
+      "name": "Kaasland",
+      "latitude": 52.381582,
+      "longitude": 4.888981,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 351,
+      "name": "Kaasland Dongen",
+      "latitude": 51.625835,
+      "longitude": 4.943159,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 352,
+      "name": "Kaaslust",
+      "latitude": 53.033452,
+      "longitude": 6.386971,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 353,
+      "name": "Kaasmakerij De Marel Esch",
+      "latitude": 52.949809,
+      "longitude": 6.790088,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 354,
+      "name": "Kaasmakerij De Terschellinger",
+      "latitude": 53.403445,
+      "longitude": 5.37748,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 355,
+      "name": "Kaasmester Richard",
+      "latitude": 52.002355,
+      "longitude": 4.162568,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 356,
+      "name": "Kaaspakhuis",
+      "latitude": 52.307001,
+      "longitude": 6.51758,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 357,
+      "name": "Kaaspakhuis",
+      "latitude": 52.345995,
+      "longitude": 6.643685,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 358,
+      "name": "Kaaspakhuis",
+      "latitude": 52.349382,
+      "longitude": 5.983974,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 359,
+      "name": "Kaaspakhuis",
+      "latitude": 52.505591,
+      "longitude": 6.102449,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 360,
+      "name": "Kaaspakhuis",
+      "latitude": 52.555586,
+      "longitude": 5.918529,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 361,
+      "name": "Kaaspakhuis",
+      "latitude": 52.574239,
+      "longitude": 6.620247,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 362,
+      "name": "Kaaspakhuis",
+      "latitude": 52.698623,
+      "longitude": 6.188098,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 363,
+      "name": "Kaaspakhuis",
+      "latitude": 52.720566,
+      "longitude": 6.480175,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 364,
+      "name": "Kaaspakhuis",
+      "latitude": 52.72538,
+      "longitude": 6.986681,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 365,
+      "name": "Kaaspakhuis Emmen",
+      "latitude": 52.79848,
+      "longitude": 6.895356,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 366,
+      "name": "Kaaspaleis Lujo",
+      "latitude": 52.654484,
+      "longitude": 4.758042,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 367,
+      "name": "Kaasproeverij de Winter",
+      "latitude": 51.821975,
+      "longitude": 4.25903,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 368,
+      "name": "Kaasshop",
+      "latitude": 51.578103,
+      "longitude": 5.004134,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 369,
+      "name": "Kaasspeciaalzaak Berkhout",
+      "latitude": 51.915497,
+      "longitude": 4.588505,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 370,
+      "name": "Kaasspeciaalzaak De Molenhoek",
+      "latitude": 51.709837,
+      "longitude": 5.367145,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 371,
+      "name": "Kaasvoordeelshop",
+      "latitude": 52.104088,
+      "longitude": 6.05896,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 372,
+      "name": "Kaasvoordeelshop",
+      "latitude": 52.957416,
+      "longitude": 5.925311,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 373,
+      "name": "Kaasvoordeelshop",
+      "latitude": 53.19816,
+      "longitude": 6.558657,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 374,
+      "name": "Kaasvoordeelshop",
+      "latitude": 53.23805,
+      "longitude": 6.624147,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 375,
+      "name": "Kaasvoordeelshop Burgum",
+      "latitude": 53.19202,
+      "longitude": 5.994382,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 376,
+      "name": "Kaasvoordeelshop Surhuisterveen",
+      "latitude": 53.183211,
+      "longitude": 6.169228,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 377,
+      "name": "Kaasvoordeelshop Wolvega",
+      "latitude": 52.874057,
+      "longitude": 5.998487,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 378,
+      "name": "Kaaswinkel",
+      "latitude": 51.417183,
+      "longitude": 5.573773,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 379,
+      "name": "Kaaswinkel",
+      "latitude": 51.94381,
+      "longitude": 6.461091,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 380,
+      "name": "Kaaswinkel",
+      "latitude": 52.70754,
+      "longitude": 5.298264,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 381,
+      "name": "Kaaswinkel Gouda",
+      "latitude": 52.011109,
+      "longitude": 4.710591,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 382,
+      "name": "Kaaswinkel Kaasgaaf",
+      "latitude": 51.453251,
+      "longitude": 6.052901,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 383,
+      "name": "Kaaswinkel van der Ley",
+      "latitude": 53.216353,
+      "longitude": 6.570511,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 384,
+      "name": "Kaaszaak",
+      "latitude": 51.55908,
+      "longitude": 5.079631,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 385,
+      "name": "Kaaszaak",
+      "latitude": 52.13016,
+      "longitude": 5.427916,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 386,
+      "name": "Kaatje Jans",
+      "latitude": 50.906022,
+      "longitude": 6.023976,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 387,
+      "name": "Kaatje Jans",
+      "latitude": 51.567982,
+      "longitude": 4.635601,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 388,
+      "name": "Kaazaak",
+      "latitude": 52.011241,
+      "longitude": 4.530527,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 389,
+      "name": "Kalkman Kaas Specialist",
+      "latitude": 52.091189,
+      "longitude": 4.274809,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 390,
+      "name": "Kazerij Stalenhoef",
+      "latitude": 52.082279,
+      "longitude": 5.123517,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 391,
+      "name": "Kazerij Verschuren",
+      "latitude": 50.777943,
+      "longitude": 5.709061,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 392,
+      "name": "Kees Oomen Kaasspeciaalzaak",
+      "latitude": 52.041599,
+      "longitude": 5.076745,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 393,
+      "name": "Kieës Culinair",
+      "latitude": 50.889634,
+      "longitude": 5.975683,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 394,
+      "name": "Klaas in 't Hof",
+      "latitude": 52.250049,
+      "longitude": 6.284031,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 395,
+      "name": "Klumper Kaas & Delicatessen",
+      "latitude": 52.129069,
+      "longitude": 5.207994,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 396,
+      "name": "Koetshuysch Kaas",
+      "latitude": 51.503769,
+      "longitude": 3.888562,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 397,
+      "name": "Koetshuysch Kaas",
+      "latitude": 51.646527,
+      "longitude": 3.998125,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 398,
+      "name": "Koetshuysch Kaas",
+      "latitude": 51.650754,
+      "longitude": 3.919362,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 399,
+      "name": "Koetshuysch Kaas",
+      "latitude": 51.850969,
+      "longitude": 4.369218,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 400,
+      "name": "Koetshuysch Kaas",
+      "latitude": 52.897736,
+      "longitude": 4.754805,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 401,
+      "name": "Koetshuysch Kaas",
+      "latitude": 53.244253,
+      "longitude": 6.407883,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 402,
+      "name": "Kraaijeveld's Kaashuijs",
+      "latitude": 51.836338,
+      "longitude": 4.685271,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 403,
+      "name": "Krijgsman Kaasspecialist",
+      "latitude": 52.069461,
+      "longitude": 4.51019,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 404,
+      "name": "Kroon Kaashandel",
+      "latitude": 52.092161,
+      "longitude": 4.325259,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 405,
+      "name": "L'amuse",
+      "latitude": 52.346256,
+      "longitude": 4.867754,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 406,
+      "name": "Lekkernij",
+      "latitude": 51.473307,
+      "longitude": 5.546275,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 407,
+      "name": "Lena's Kaaswinkeltje",
+      "latitude": 51.966096,
+      "longitude": 5.661753,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 408,
+      "name": "Leo Wjnstekers",
+      "latitude": 51.695337,
+      "longitude": 5.219603,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 409,
+      "name": "Liefde & Ambacht",
+      "latitude": 52.03025,
+      "longitude": 5.560582,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 410,
+      "name": "Liefde & Ambacht",
+      "latitude": 52.157216,
+      "longitude": 5.392498,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 411,
+      "name": "Madame Fromage",
+      "latitude": 53.199855,
+      "longitude": 5.794783,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 412,
+      "name": "Maison van Engelen",
+      "latitude": 51.72623,
+      "longitude": 5.307571,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 413,
+      "name": "Marije's Kaaswinkel",
+      "latitude": 52.86174,
+      "longitude": 4.832135,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 414,
+      "name": "Martin's Kaas",
+      "latitude": 52.330779,
+      "longitude": 4.875452,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 415,
+      "name": "Moenen Delicatessen",
+      "latitude": 51.844762,
+      "longitude": 5.865067,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 416,
+      "name": "Nassen",
+      "latitude": 52.368779,
+      "longitude": 4.885321,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 417,
+      "name": "Neeltjes Kaaswinkel",
+      "latitude": 51.644299,
+      "longitude": 5.655621,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 418,
+      "name": "Neuteboom kaas-verswereld",
+      "latitude": 52.125119,
+      "longitude": 4.44587,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 419,
+      "name": "Neuteboom kaas-verswereld",
+      "latitude": 52.127637,
+      "longitude": 4.587584,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 420,
+      "name": "Neuteboom kaas-verswereld",
+      "latitude": 52.222245,
+      "longitude": 4.483829,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 421,
+      "name": "Nieuwerwets",
+      "latitude": 51.367282,
+      "longitude": 5.214531,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 422,
+      "name": "Nieuwerwets",
+      "latitude": 51.403998,
+      "longitude": 5.334074,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 423,
+      "name": "Nizet kaas uw kaas",
+      "latitude": 51.194552,
+      "longitude": 5.98424,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 424,
+      "name": "Old Amsterdam Cheese Store",
+      "latitude": 52.366904,
+      "longitude": 4.889987,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 425,
+      "name": "Old Amsterdam Cheese Store",
+      "latitude": 52.372148,
+      "longitude": 4.895213,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 426,
+      "name": "Old Amsterdam Cheese Store",
+      "latitude": 52.374918,
+      "longitude": 4.895092,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 427,
+      "name": "Ongelooflijk Lekker",
+      "latitude": 51.444346,
+      "longitude": 3.574207,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 428,
+      "name": "Oudenrijn's Kaas",
+      "latitude": 52.275265,
+      "longitude": 5.161734,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 429,
+      "name": "Palais du Fromage",
+      "latitude": 52.313523,
+      "longitude": 4.950607,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 430,
+      "name": "Patrick's",
+      "latitude": 52.284525,
+      "longitude": 6.827727,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 431,
+      "name": "Paul! Mediterrane Smaken",
+      "latitude": 52.212255,
+      "longitude": 5.284287,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 432,
+      "name": "Peter's Specialiteiten",
+      "latitude": 51.861982,
+      "longitude": 6.487863,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 433,
+      "name": "Peterse Kaas",
+      "latitude": 52.034907,
+      "longitude": 5.16875,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 434,
+      "name": "Puur Delicatessen",
+      "latitude": 51.813097,
+      "longitude": 5.246146,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 435,
+      "name": "Reeuwijks Kaashuis",
+      "latitude": 52.045533,
+      "longitude": 4.726071,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 436,
+      "name": "Renkema Kaas",
+      "latitude": 52.144287,
+      "longitude": 5.381434,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 437,
+      "name": "Ricks Kaas en Delicatessen",
+      "latitude": 52.224632,
+      "longitude": 4.673459,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 438,
+      "name": "Ridders Kaashuis",
+      "latitude": 52.08012,
+      "longitude": 4.296251,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 439,
+      "name": "Ridders Kaashuis",
+      "latitude": 52.301244,
+      "longitude": 4.664288,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 440,
+      "name": "Rosmaalse Kaasshop",
+      "latitude": 51.707913,
+      "longitude": 5.350424,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 441,
+      "name": "Sacha's Kaas",
+      "latitude": 51.936722,
+      "longitude": 6.128884,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 442,
+      "name": "Say Cheese",
+      "latitude": 52.311077,
+      "longitude": 4.760177,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 443,
+      "name": "Schaepsdyck",
+      "latitude": 51.525245,
+      "longitude": 4.952684,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 444,
+      "name": "Siebe's kaas",
+      "latitude": 51.626781,
+      "longitude": 5.61141,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 445,
+      "name": "Simons",
+      "latitude": 52.50983,
+      "longitude": 4.669422,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 446,
+      "name": "Slijderink kaas & delicatessen",
+      "latitude": 51.962421,
+      "longitude": 5.967336,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 447,
+      "name": "Smaak! Kaas & Delicatessen",
+      "latitude": 53.447178,
+      "longitude": 5.797426,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 448,
+      "name": "Smaeck!",
+      "latitude": 51.580136,
+      "longitude": 5.191845,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 449,
+      "name": "Stan Leeflang",
+      "latitude": 52.143856,
+      "longitude": 4.393586,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 450,
+      "name": "Steijger",
+      "latitude": 51.997253,
+      "longitude": 4.352536,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 451,
+      "name": "The Cheese Store",
+      "latitude": 51.917644,
+      "longitude": 4.40169,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 452,
+      "name": "The Story of Edam Cheese",
+      "latitude": 52.512552,
+      "longitude": 5.048071,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 453,
+      "name": "Van Dijks Kaashuis",
+      "latitude": 53.332057,
+      "longitude": 6.927157,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 454,
+      "name": "Van Drunen Kaas",
+      "latitude": 51.920127,
+      "longitude": 4.487479,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 455,
+      "name": "Van der Veen Kaas",
+      "latitude": 53.280981,
+      "longitude": 6.159973,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 456,
+      "name": "Vandee",
+      "latitude": 51.981584,
+      "longitude": 5.909902,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 457,
+      "name": "Vergeer Holland",
+      "latitude": 52.076794,
+      "longitude": 4.905885,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 458,
+      "name": "Vlielander Kaasbunker",
+      "latitude": 53.295553,
+      "longitude": 5.056545,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 459,
+      "name": "Wegewijs",
+      "latitude": 52.373788,
+      "longitude": 4.881579,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 460,
+      "name": "Wereldse Kaas",
+      "latitude": 52.364628,
+      "longitude": 4.926612,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 461,
+      "name": "Wessels Kaas en Noten",
+      "latitude": 52.000083,
+      "longitude": 4.33045,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 462,
+      "name": "Westfries kaashuise",
+      "latitude": 52.787732,
+      "longitude": 4.802648,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 463,
+      "name": "Weydeland",
+      "latitude": 53.320333,
+      "longitude": 6.861198,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 464,
+      "name": "Weydeland Kaas",
+      "latitude": 51.50258,
+      "longitude": 3.890352,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 465,
+      "name": "Wijn & Kaaswinkel Edam",
+      "latitude": 52.512562,
+      "longitude": 5.048129,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 466,
+      "name": "Windmolenkaas bv",
+      "latitude": 52.079489,
+      "longitude": 4.911298,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 467,
+      "name": "Zuid delicatessen",
+      "latitude": 52.458897,
+      "longitude": 5.037039,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 468,
+      "name": "Zuivelboerderij De Driehoek",
+      "latitude": 51.639017,
+      "longitude": 4.876968,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 469,
+      "name": "Zuivelhoeve",
+      "latitude": 51.384216,
+      "longitude": 6.181541,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 470,
+      "name": "Zuivelhoeve",
+      "latitude": 51.395063,
+      "longitude": 5.475739,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 471,
+      "name": "Zuivelhoeve",
+      "latitude": 51.492331,
+      "longitude": 4.275543,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 472,
+      "name": "Zuivelhoeve",
+      "latitude": 51.55222,
+      "longitude": 5.105569,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 473,
+      "name": "Zuivelhoeve",
+      "latitude": 51.570087,
+      "longitude": 5.053863,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 474,
+      "name": "Zuivelhoeve",
+      "latitude": 51.58634,
+      "longitude": 5.135698,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 475,
+      "name": "Zuivelhoeve",
+      "latitude": 51.64385,
+      "longitude": 4.858701,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 476,
+      "name": "Zuivelhoeve",
+      "latitude": 51.647798,
+      "longitude": 5.949363,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 477,
+      "name": "Zuivelhoeve",
+      "latitude": 51.662656,
+      "longitude": 5.631755,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 478,
+      "name": "Zuivelhoeve",
+      "latitude": 51.688321,
+      "longitude": 5.304337,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 479,
+      "name": "Zuivelhoeve",
+      "latitude": 51.754074,
+      "longitude": 5.511718,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 480,
+      "name": "Zuivelhoeve",
+      "latitude": 51.803628,
+      "longitude": 4.717893,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 481,
+      "name": "Zuivelhoeve",
+      "latitude": 51.862168,
+      "longitude": 5.771551,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 482,
+      "name": "Zuivelhoeve",
+      "latitude": 51.86489,
+      "longitude": 5.853753,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 483,
+      "name": "Zuivelhoeve",
+      "latitude": 51.879087,
+      "longitude": 5.419746,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 484,
+      "name": "Zuivelhoeve",
+      "latitude": 51.922141,
+      "longitude": 4.610323,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 485,
+      "name": "Zuivelhoeve",
+      "latitude": 51.927864,
+      "longitude": 4.23871,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 486,
+      "name": "Zuivelhoeve",
+      "latitude": 51.953636,
+      "longitude": 5.847587,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 487,
+      "name": "Zuivelhoeve",
+      "latitude": 51.959009,
+      "longitude": 5.896951,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 488,
+      "name": "Zuivelhoeve",
+      "latitude": 51.962887,
+      "longitude": 4.553712,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 489,
+      "name": "Zuivelhoeve",
+      "latitude": 51.966193,
+      "longitude": 6.289614,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 490,
+      "name": "Zuivelhoeve",
+      "latitude": 51.971165,
+      "longitude": 6.718135,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 491,
+      "name": "Zuivelhoeve",
+      "latitude": 51.973322,
+      "longitude": 5.345555,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 492,
+      "name": "Zuivelhoeve",
+      "latitude": 52.002459,
+      "longitude": 4.162275,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 493,
+      "name": "Zuivelhoeve",
+      "latitude": 52.010134,
+      "longitude": 5.432242,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 494,
+      "name": "Zuivelhoeve",
+      "latitude": 52.028385,
+      "longitude": 5.557077,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 495,
+      "name": "Zuivelhoeve",
+      "latitude": 52.04525,
+      "longitude": 5.670312,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 496,
+      "name": "Zuivelhoeve",
+      "latitude": 52.050488,
+      "longitude": 6.101117,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 497,
+      "name": "Zuivelhoeve",
+      "latitude": 52.068735,
+      "longitude": 4.221592,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 498,
+      "name": "Zuivelhoeve",
+      "latitude": 52.079523,
+      "longitude": 5.037625,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 499,
+      "name": "Zuivelhoeve",
+      "latitude": 52.089978,
+      "longitude": 5.120365,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 500,
+      "name": "Zuivelhoeve",
+      "latitude": 52.092026,
+      "longitude": 5.130998,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 501,
+      "name": "Zuivelhoeve",
+      "latitude": 52.101575,
+      "longitude": 6.648137,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 502,
+      "name": "Zuivelhoeve",
+      "latitude": 52.139381,
+      "longitude": 5.585343,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 503,
+      "name": "Zuivelhoeve",
+      "latitude": 52.142017,
+      "longitude": 6.196487,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 504,
+      "name": "Zuivelhoeve",
+      "latitude": 52.15613,
+      "longitude": 6.740894,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 505,
+      "name": "Zuivelhoeve",
+      "latitude": 52.156878,
+      "longitude": 5.392189,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 506,
+      "name": "Zuivelhoeve",
+      "latitude": 52.160611,
+      "longitude": 4.489477,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 507,
+      "name": "Zuivelhoeve",
+      "latitude": 52.161968,
+      "longitude": 6.416967,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 508,
+      "name": "Zuivelhoeve",
+      "latitude": 52.16343,
+      "longitude": 4.532613,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 509,
+      "name": "Zuivelhoeve",
+      "latitude": 52.176406,
+      "longitude": 4.505399,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 510,
+      "name": "Zuivelhoeve",
+      "latitude": 52.191803,
+      "longitude": 6.881055,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 511,
+      "name": "Zuivelhoeve",
+      "latitude": 52.21088,
+      "longitude": 6.864061,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 512,
+      "name": "Zuivelhoeve",
+      "latitude": 52.215383,
+      "longitude": 6.96985,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 513,
+      "name": "Zuivelhoeve",
+      "latitude": 52.236941,
+      "longitude": 6.10373,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 514,
+      "name": "Zuivelhoeve",
+      "latitude": 52.239264,
+      "longitude": 6.893171,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 515,
+      "name": "Zuivelhoeve",
+      "latitude": 52.260899,
+      "longitude": 7.007558,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 516,
+      "name": "Zuivelhoeve",
+      "latitude": 52.269198,
+      "longitude": 6.16455,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 517,
+      "name": "Zuivelhoeve",
+      "latitude": 52.276601,
+      "longitude": 6.792326,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 518,
+      "name": "Zuivelhoeve",
+      "latitude": 52.28456,
+      "longitude": 6.827266,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 519,
+      "name": "Zuivelhoeve",
+      "latitude": 52.300788,
+      "longitude": 6.755007,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 520,
+      "name": "Zuivelhoeve",
+      "latitude": 52.307878,
+      "longitude": 6.5193,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 521,
+      "name": "Zuivelhoeve",
+      "latitude": 52.313323,
+      "longitude": 6.928532,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 522,
+      "name": "Zuivelhoeve",
+      "latitude": 52.349928,
+      "longitude": 5.619708,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 523,
+      "name": "Zuivelhoeve",
+      "latitude": 52.365222,
+      "longitude": 6.460728,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 524,
+      "name": "Zuivelhoeve",
+      "latitude": 52.365727,
+      "longitude": 6.67914,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 525,
+      "name": "Zuivelhoeve",
+      "latitude": 52.376009,
+      "longitude": 5.782864,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 526,
+      "name": "Zuivelhoeve",
+      "latitude": 52.376673,
+      "longitude": 4.631158,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 527,
+      "name": "Zuivelhoeve",
+      "latitude": 52.386034,
+      "longitude": 6.275254,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 528,
+      "name": "Zuivelhoeve",
+      "latitude": 52.407183,
+      "longitude": 6.781658,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 529,
+      "name": "Zuivelhoeve",
+      "latitude": 52.483503,
+      "longitude": 6.112811,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 530,
+      "name": "Zuivelhoeve",
+      "latitude": 52.508473,
+      "longitude": 4.947231,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 531,
+      "name": "Zuivelhoeve",
+      "latitude": 52.512161,
+      "longitude": 6.093164,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 532,
+      "name": "Zuivelhoeve",
+      "latitude": 52.518664,
+      "longitude": 6.420706,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 533,
+      "name": "Zuivelhoeve",
+      "latitude": 52.529639,
+      "longitude": 6.102211,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 534,
+      "name": "Zuivelhoeve",
+      "latitude": 52.533207,
+      "longitude": 6.055945,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 535,
+      "name": "Zuivelhoeve",
+      "latitude": 52.556667,
+      "longitude": 5.918224,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 536,
+      "name": "Zuivelhoeve",
+      "latitude": 52.575465,
+      "longitude": 6.619107,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 537,
+      "name": "Zuivelhoeve",
+      "latitude": 52.605265,
+      "longitude": 4.711808,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 538,
+      "name": "Zuivelhoeve",
+      "latitude": 52.631575,
+      "longitude": 4.748929,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 539,
+      "name": "Zuivelhoeve",
+      "latitude": 52.697581,
+      "longitude": 6.190634,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 540,
+      "name": "Zuivelhoeve",
+      "latitude": 52.787778,
+      "longitude": 4.797054,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 541,
+      "name": "Zuivelhoeve",
+      "latitude": 52.958638,
+      "longitude": 5.924718,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 542,
+      "name": "Zuivelhoeve",
+      "latitude": 52.997392,
+      "longitude": 6.560316,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 543,
+      "name": "Zuivelhoeve",
+      "latitude": 53.017921,
+      "longitude": 6.585289,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 544,
+      "name": "Zuivelhoeve",
+      "latitude": 53.033094,
+      "longitude": 5.66091,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 545,
+      "name": "Zuivelhoeve",
+      "latitude": 53.092498,
+      "longitude": 6.683676,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 546,
+      "name": "Zuivelhoeve",
+      "latitude": 53.105844,
+      "longitude": 6.878501,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 547,
+      "name": "Zuivelhoeve",
+      "latitude": 53.106588,
+      "longitude": 6.098411,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 548,
+      "name": "Zuivelhoeve",
+      "latitude": 53.137044,
+      "longitude": 6.429829,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 549,
+      "name": "Zuivelhoeve",
+      "latitude": 53.183056,
+      "longitude": 6.168508,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 550,
+      "name": "Zuivelhoeve",
+      "latitude": 53.202318,
+      "longitude": 5.791512,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 551,
+      "name": "Zuivelhoeve",
+      "latitude": 53.216737,
+      "longitude": 6.56148,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 552,
+      "name": "Zuivelhoeve",
+      "latitude": 53.229982,
+      "longitude": 6.54369,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 553,
+      "name": "Zuivelhoeve",
+      "latitude": 53.325803,
+      "longitude": 5.997988,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 554,
+      "name": "Zuivelhoeve by Kaashuis Tromp",
+      "latitude": 51.993914,
+      "longitude": 4.207738,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 555,
+      "name": "Zuivelhoeve by Kaashuis Tromp",
+      "latitude": 52.243307,
+      "longitude": 4.432469,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 556,
+      "name": "Zuivelhoeve by Kaashuis Tromp",
+      "latitude": 52.325339,
+      "longitude": 4.868218,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 557,
+      "name": "Zuivelhoeve by Kaashuis Tromp",
+      "latitude": 52.346535,
+      "longitude": 4.894841,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 558,
+      "name": "Zuivelhoeve by Kaashuis Tromp",
+      "latitude": 52.359792,
+      "longitude": 4.6041,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 559,
+      "name": "Zuivelhoeve by Kaashuis Tromp",
+      "latitude": 52.362521,
+      "longitude": 4.898688,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 560,
+      "name": "Zuivelhoeve by Kaashuis Tromp",
+      "latitude": 52.369698,
+      "longitude": 4.881393,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 561,
+      "name": "Zuivelhoeve by Kaashuis Tromp",
+      "latitude": 52.371853,
+      "longitude": 4.530776,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 562,
+      "name": "Zuivelhoeve by Kaashuis Tromp",
+      "latitude": 52.405224,
+      "longitude": 4.621218,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 563,
+      "name": "Zuivelhoeve by Kaashuis Tromp",
+      "latitude": 52.618163,
+      "longitude": 4.648255,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 564,
+      "name": "`t Kaaswinkeltje",
+      "latitude": 52.050188,
+      "longitude": 5.233042,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 565,
+      "name": "de Brink",
+      "latitude": 52.253329,
+      "longitude": 6.160153,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 566,
+      "name": "de KaasBoer - Enrico",
+      "latitude": 52.101605,
+      "longitude": 5.244939,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 567,
+      "name": "de Kaashelden",
+      "latitude": 52.503611,
+      "longitude": 6.25954,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 568,
+      "name": "de Schier",
+      "latitude": 53.477799,
+      "longitude": 6.161321,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 569,
+      "name": "het Oude Zuivelhuis",
+      "latitude": 52.390828,
+      "longitude": 4.631145,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 570,
+      "name": "kaas Daan",
+      "latitude": 52.623017,
+      "longitude": 4.74451,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 571,
+      "name": "t Kaashuus",
+      "latitude": 52.451456,
+      "longitude": 5.854015,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 572,
+      "name": "t’ Vicariënerf",
+      "latitude": 52.106176,
+      "longitude": 5.425557,
+      "osm_klasse": "shop=cheese"
+    },
+    {
+      "id": 573,
+      "name": "van Proosdij",
+      "latitude": 51.986165,
+      "longitude": 5.844374,
+      "osm_klasse": "shop=cheese"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: cheese (shop=cheese) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=cheese in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 573 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: cheese (shop=cheese) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: cheese (shop=cheese) — 573 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 573 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

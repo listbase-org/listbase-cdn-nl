@@ -1,0 +1,1290 @@
+{
+  "id": "nl-osm-tourism-hostel",
+  "name": "Netherlands OSM: hostel (tourism=hostel)",
+  "title": "Netherlands OSM: hostel (tourism=hostel)",
+  "description": "Named OpenStreetMap features tagged tourism=hostel in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 177,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t goed Rietberghe",
+      "latitude": 52.003512,
+      "longitude": 6.487844,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 2,
+      "name": "25° Noord Recreation",
+      "latitude": 52.958491,
+      "longitude": 6.86686,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 3,
+      "name": "3BE",
+      "latitude": 51.432943,
+      "longitude": 5.484889,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 4,
+      "name": "ABK-Huis",
+      "latitude": 52.105935,
+      "longitude": 6.089885,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 5,
+      "name": "Aivengo Youth Hostel",
+      "latitude": 52.377258,
+      "longitude": 4.893944,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 6,
+      "name": "Alibi Hostel",
+      "latitude": 53.19996,
+      "longitude": 5.801947,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 7,
+      "name": "Amigo Hotel",
+      "latitude": 52.356559,
+      "longitude": 4.927734,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 8,
+      "name": "Amsterdam Hostel Leidseplein",
+      "latitude": 52.363918,
+      "longitude": 4.883949,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 9,
+      "name": "Ani & Haakien",
+      "latitude": 51.92151,
+      "longitude": 4.465542,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 10,
+      "name": "Annemarie",
+      "latitude": 52.356547,
+      "longitude": 4.878251,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 11,
+      "name": "B&B De Kleine Antonius",
+      "latitude": 53.3478,
+      "longitude": 6.761925,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 12,
+      "name": "Barbarossa Hostel",
+      "latitude": 51.847842,
+      "longitude": 5.867471,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 13,
+      "name": "Bed & Breakfest",
+      "latitude": 52.110362,
+      "longitude": 5.758457,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 14,
+      "name": "Bed and Breakfast and Bike",
+      "latitude": 51.762409,
+      "longitude": 4.144411,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 15,
+      "name": "Binnenheide",
+      "latitude": 51.626035,
+      "longitude": 5.097316,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 16,
+      "name": "Blendin Hotel Bloemendaal",
+      "latitude": 52.402698,
+      "longitude": 4.544305,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 17,
+      "name": "Bob's Youth Hostel",
+      "latitude": 52.375799,
+      "longitude": 4.892499,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 18,
+      "name": "Breda Hostel",
+      "latitude": 51.594623,
+      "longitude": 4.780875,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 19,
+      "name": "Bud Gett Hostel",
+      "latitude": 53.215787,
+      "longitude": 6.571399,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 20,
+      "name": "Budget Hotel Tourist Inn",
+      "latitude": 52.376199,
+      "longitude": 4.892246,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 21,
+      "name": "City Hostel",
+      "latitude": 51.442542,
+      "longitude": 3.573808,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 22,
+      "name": "City Trip Hostels",
+      "latitude": 52.439941,
+      "longitude": 4.824338,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 23,
+      "name": "City Trip Hostels",
+      "latitude": 52.511004,
+      "longitude": 4.945273,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 24,
+      "name": "CityStay The Hague",
+      "latitude": 52.073418,
+      "longitude": 4.307645,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 25,
+      "name": "Clink",
+      "latitude": 52.35875,
+      "longitude": 4.898647,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 26,
+      "name": "ClinkNoord",
+      "latitude": 52.384185,
+      "longitude": 4.903671,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 27,
+      "name": "De Admiraal",
+      "latitude": 52.944706,
+      "longitude": 4.753573,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 28,
+      "name": "De Banjaert",
+      "latitude": 52.494528,
+      "longitude": 4.602705,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 29,
+      "name": "De Bedstee",
+      "latitude": 52.355816,
+      "longitude": 4.877772,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 30,
+      "name": "De Blauwe Kei",
+      "latitude": 51.4231,
+      "longitude": 5.626929,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 31,
+      "name": "De Clinge",
+      "latitude": 53.064067,
+      "longitude": 6.651199,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 32,
+      "name": "De Haverkamp",
+      "latitude": 52.051446,
+      "longitude": 6.388641,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 33,
+      "name": "De Kievit",
+      "latitude": 51.443849,
+      "longitude": 5.164864,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 34,
+      "name": "De Kwartjesberg",
+      "latitude": 52.95871,
+      "longitude": 6.786106,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 35,
+      "name": "De Langenberg",
+      "latitude": 52.286528,
+      "longitude": 6.547933,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 36,
+      "name": "De Martiene Plats groepsaccomodatie",
+      "latitude": 51.511494,
+      "longitude": 5.927759,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 37,
+      "name": "De Zandkreek",
+      "latitude": 52.458539,
+      "longitude": 6.047766,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 38,
+      "name": "De Zwerfsteen (groepsaccommodatie)",
+      "latitude": 53.117339,
+      "longitude": 6.412808,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 39,
+      "name": "Den Broam",
+      "latitude": 52.137586,
+      "longitude": 6.853442,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 40,
+      "name": "Dom",
+      "latitude": 52.088404,
+      "longitude": 5.002429,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 41,
+      "name": "Domaine Haute Bruyere - Bed and Breakfast",
+      "latitude": 51.432361,
+      "longitude": 4.329868,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 42,
+      "name": "Dopersduin",
+      "latitude": 52.710274,
+      "longitude": 4.683045,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 43,
+      "name": "Duinhostel Duinrell",
+      "latitude": 52.147945,
+      "longitude": 4.384931,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 44,
+      "name": "Durty Nellys Inn",
+      "latitude": 52.374088,
+      "longitude": 4.896578,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 45,
+      "name": "Dutchies Hostel",
+      "latitude": 52.383127,
+      "longitude": 4.846216,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 46,
+      "name": "Ecomama",
+      "latitude": 52.369724,
+      "longitude": 4.906737,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 47,
+      "name": "Erfgoed Bosgunst",
+      "latitude": 52.072933,
+      "longitude": 6.317164,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 48,
+      "name": "F Building",
+      "latitude": 51.918538,
+      "longitude": 4.528572,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 49,
+      "name": "Frank's backpackers hostel Helmond",
+      "latitude": 51.480045,
+      "longitude": 5.661575,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 50,
+      "name": "Generator",
+      "latitude": 52.360892,
+      "longitude": 4.919021,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 51,
+      "name": "Groenendael",
+      "latitude": 52.378603,
+      "longitude": 4.895144,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 52,
+      "name": "Groepsaccommodatie De Bonte Haan",
+      "latitude": 50.852429,
+      "longitude": 5.780776,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 53,
+      "name": "Groepsaccommodatie Emsland",
+      "latitude": 52.531873,
+      "longitude": 6.382287,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 54,
+      "name": "Groepsaccommodatie W'tjewel",
+      "latitude": 51.339423,
+      "longitude": 5.338047,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 55,
+      "name": "Groepsaccomodatie - De Wildwal",
+      "latitude": 52.079873,
+      "longitude": 5.643373,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 56,
+      "name": "Groepsaccomodatie De Zandberg",
+      "latitude": 51.457705,
+      "longitude": 5.999541,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 57,
+      "name": "Groepsaccomodatie Het Droogdok",
+      "latitude": 52.217737,
+      "longitude": 4.935727,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 58,
+      "name": "H2O",
+      "latitude": 53.397783,
+      "longitude": 5.353511,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 59,
+      "name": "Hans Brinker",
+      "latitude": 52.363618,
+      "longitude": 4.888169,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 60,
+      "name": "Harba Lorifa",
+      "latitude": 51.366873,
+      "longitude": 5.455684,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 61,
+      "name": "Hello I'm Local",
+      "latitude": 52.3797,
+      "longitude": 4.643767,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 62,
+      "name": "Herberg De Esborg",
+      "latitude": 53.175523,
+      "longitude": 6.974088,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 63,
+      "name": "Herberg De Lindehoeve",
+      "latitude": 51.430522,
+      "longitude": 6.093801,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 64,
+      "name": "Herberg op Hodenpijl",
+      "latitude": 51.98726,
+      "longitude": 4.321197,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 65,
+      "name": "Het Archief",
+      "latitude": 52.51264,
+      "longitude": 6.096843,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 66,
+      "name": "Het Wakend Ook",
+      "latitude": 52.94314,
+      "longitude": 5.628741,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 67,
+      "name": "Het Zeehuis",
+      "latitude": 52.665968,
+      "longitude": 4.636017,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 68,
+      "name": "Het Zwarte Schaap",
+      "latitude": 52.711145,
+      "longitude": 6.08118,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 69,
+      "name": "Hoeve de Knol",
+      "latitude": 51.57798,
+      "longitude": 5.996879,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 70,
+      "name": "Hoeve ten Bosch",
+      "latitude": 50.765293,
+      "longitude": 5.941485,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 71,
+      "name": "Hof van Twente",
+      "latitude": 52.200647,
+      "longitude": 6.637093,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 72,
+      "name": "Hostel Ameland",
+      "latitude": 53.447943,
+      "longitude": 5.620244,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 73,
+      "name": "Hostel Deventer",
+      "latitude": 52.252001,
+      "longitude": 6.153554,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 74,
+      "name": "Hostel Easy-Stay",
+      "latitude": 52.374925,
+      "longitude": 4.897629,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 75,
+      "name": "Hostel Kersenhof",
+      "latitude": 51.657215,
+      "longitude": 5.599393,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 76,
+      "name": "Hostel Meeting Point",
+      "latitude": 52.376101,
+      "longitude": 4.899122,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 77,
+      "name": "Hostel Roots",
+      "latitude": 51.558212,
+      "longitude": 5.081833,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 78,
+      "name": "Hostel Terschelling",
+      "latitude": 53.366668,
+      "longitude": 5.229863,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 79,
+      "name": "Hostel The Hague",
+      "latitude": 52.075162,
+      "longitude": 4.309503,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 80,
+      "name": "Hostel de Basis",
+      "latitude": 52.51063,
+      "longitude": 6.090269,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 81,
+      "name": "Hostelle",
+      "latitude": 52.315269,
+      "longitude": 4.95364,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 82,
+      "name": "Hotel Cosmos",
+      "latitude": 52.354276,
+      "longitude": 4.881918,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 83,
+      "name": "Hotel Mevlana",
+      "latitude": 52.374495,
+      "longitude": 4.891105,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 84,
+      "name": "Hotel The Globe",
+      "latitude": 52.375196,
+      "longitude": 4.900237,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 85,
+      "name": "Hotel Utopia",
+      "latitude": 52.375099,
+      "longitude": 4.891612,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 86,
+      "name": "In de Witte Dame",
+      "latitude": 51.419581,
+      "longitude": 6.149251,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 87,
+      "name": "International Budget Hostel",
+      "latitude": 52.36608,
+      "longitude": 4.881964,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 88,
+      "name": "It Sailhûs",
+      "latitude": 52.928767,
+      "longitude": 5.542819,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 89,
+      "name": "Jongerenhotel Simplon",
+      "latitude": 53.224982,
+      "longitude": 6.563968,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 90,
+      "name": "Jorplace Beach Hostel",
+      "latitude": 52.104414,
+      "longitude": 4.275925,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 91,
+      "name": "Kampeerboederij Springfield",
+      "latitude": 53.475422,
+      "longitude": 6.155092,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 92,
+      "name": "Kampeerboerderij Hettinga",
+      "latitude": 53.031917,
+      "longitude": 5.790688,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 93,
+      "name": "Kampeerboerderij Land van Kleef",
+      "latitude": 51.633001,
+      "longitude": 5.078416,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 94,
+      "name": "Kampeerboerderij de Kievit",
+      "latitude": 51.443345,
+      "longitude": 5.165504,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 95,
+      "name": "Katteveld",
+      "latitude": 52.024185,
+      "longitude": 5.257055,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 96,
+      "name": "Kazemi",
+      "latitude": 51.799861,
+      "longitude": 5.975194,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 97,
+      "name": "King Kong Hostel",
+      "latitude": 51.915317,
+      "longitude": 4.476487,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 98,
+      "name": "Kings Inn",
+      "latitude": 52.632671,
+      "longitude": 4.750303,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 99,
+      "name": "Klooster van Kranenburg",
+      "latitude": 52.102199,
+      "longitude": 6.358356,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 100,
+      "name": "Kraanswijk",
+      "latitude": 52.04425,
+      "longitude": 6.66742,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 101,
+      "name": "Kuijpershoefke",
+      "latitude": 51.633006,
+      "longitude": 5.079043,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 102,
+      "name": "Little Monkey",
+      "latitude": 52.221426,
+      "longitude": 6.894884,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 103,
+      "name": "Lucky Lake Hostel",
+      "latitude": 52.252457,
+      "longitude": 4.962947,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 104,
+      "name": "Masterveld",
+      "latitude": 51.997125,
+      "longitude": 6.800831,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 105,
+      "name": "Meppel's Inn",
+      "latitude": 52.690388,
+      "longitude": 6.195588,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 106,
+      "name": "Mid83",
+      "latitude": 52.94288,
+      "longitude": 5.628571,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 107,
+      "name": "Mokumsuites",
+      "latitude": 52.364584,
+      "longitude": 4.895487,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 108,
+      "name": "Nasrin",
+      "latitude": 51.966533,
+      "longitude": 5.904987,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 109,
+      "name": "Natuurvriendenhuis De Hondsrug",
+      "latitude": 53.119141,
+      "longitude": 6.651703,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 110,
+      "name": "Natuurvriendenhuis Koos Vorrinkhuis",
+      "latitude": 52.177298,
+      "longitude": 5.213271,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 111,
+      "name": "Op de Hopschet",
+      "latitude": 50.786603,
+      "longitude": 5.964495,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 112,
+      "name": "Orfeo Hostel",
+      "latitude": 52.363824,
+      "longitude": 4.885222,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 113,
+      "name": "Pension de Wadden",
+      "latitude": 53.361263,
+      "longitude": 5.215786,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 114,
+      "name": "Pieterburen",
+      "latitude": 53.393231,
+      "longitude": 6.422717,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 115,
+      "name": "Pink Flamingo Hostel",
+      "latitude": 52.075895,
+      "longitude": 4.308268,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 116,
+      "name": "ROOM Hostel Rotterdam",
+      "latitude": 51.90937,
+      "longitude": 4.478784,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 117,
+      "name": "Rebel Rebel Hostel",
+      "latitude": 53.211221,
+      "longitude": 6.537596,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 118,
+      "name": "Recharge Hostel",
+      "latitude": 51.91582,
+      "longitude": 4.477553,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 119,
+      "name": "Recreatie Tolbrugschans",
+      "latitude": 52.950758,
+      "longitude": 6.111486,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 120,
+      "name": "Resort Haamstede",
+      "latitude": 51.685892,
+      "longitude": 3.729163,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 121,
+      "name": "Ruigrok",
+      "latitude": 52.209011,
+      "longitude": 4.624241,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 122,
+      "name": "Sier aan zee",
+      "latitude": 53.44768,
+      "longitude": 5.62124,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 123,
+      "name": "Sint-Jozefhoeve",
+      "latitude": 51.220596,
+      "longitude": 5.647018,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 124,
+      "name": "Sparks Hostel",
+      "latitude": 51.920657,
+      "longitude": 4.47124,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 125,
+      "name": "Sporta Spot Maasland",
+      "latitude": 51.104713,
+      "longitude": 5.817029,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 126,
+      "name": "St. Christopher's at The Winston",
+      "latitude": 52.373993,
+      "longitude": 4.896388,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 127,
+      "name": "Stadsklooster Dordt",
+      "latitude": 51.812339,
+      "longitude": 4.669837,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 128,
+      "name": "Stayokay Amsterdam Oost",
+      "latitude": 52.365361,
+      "longitude": 4.935503,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 129,
+      "name": "Stayokay Amsterdam Stadsdoelen",
+      "latitude": 52.369029,
+      "longitude": 4.897318,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 130,
+      "name": "Stayokay Amsterdam Vondelpark",
+      "latitude": 52.361139,
+      "longitude": 4.878023,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 131,
+      "name": "Stayokay Apeldoorn",
+      "latitude": 52.207571,
+      "longitude": 5.925619,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 132,
+      "name": "Stayokay Arnhem",
+      "latitude": 52.000844,
+      "longitude": 5.91416,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 133,
+      "name": "Stayokay Den Haag (The Hague)",
+      "latitude": 52.072596,
+      "longitude": 4.325267,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 134,
+      "name": "Stayokay Domburg",
+      "latitude": 51.569829,
+      "longitude": 3.521723,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 135,
+      "name": "Stayokay Dordrecht",
+      "latitude": 51.810278,
+      "longitude": 4.751392,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 136,
+      "name": "Stayokay Egmond",
+      "latitude": 52.610239,
+      "longitude": 4.650682,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 137,
+      "name": "Stayokay Eindhoven",
+      "latitude": 51.448423,
+      "longitude": 5.458606,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 138,
+      "name": "Stayokay Gorssel",
+      "latitude": 52.223231,
+      "longitude": 6.263171,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 139,
+      "name": "Stayokay Haarlem",
+      "latitude": 52.414001,
+      "longitude": 4.639987,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 140,
+      "name": "Stayokay Heemskerk",
+      "latitude": 52.505189,
+      "longitude": 4.68513,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 141,
+      "name": "Stayokay Maastricht",
+      "latitude": 50.843568,
+      "longitude": 5.69751,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 142,
+      "name": "Stayokay Noordwijk",
+      "latitude": 52.283034,
+      "longitude": 4.485439,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 143,
+      "name": "Stayokay Rotterdam",
+      "latitude": 51.920063,
+      "longitude": 4.490575,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 144,
+      "name": "Stayokay Soest",
+      "latitude": 52.163317,
+      "longitude": 5.293539,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 145,
+      "name": "Stayokay Texel",
+      "latitude": 53.049584,
+      "longitude": 4.802538,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 146,
+      "name": "Stayokay Utrecht Centrum",
+      "latitude": 52.093393,
+      "longitude": 5.119016,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 147,
+      "name": "Stayokay Utrecht-Bunnik",
+      "latitude": 52.06909,
+      "longitude": 5.177001,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 148,
+      "name": "Strowis",
+      "latitude": 52.094671,
+      "longitude": 5.12216,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 149,
+      "name": "Student Hostel",
+      "latitude": 52.093129,
+      "longitude": 5.126192,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 150,
+      "name": "Su hostel",
+      "latitude": 52.252678,
+      "longitude": 4.657135,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 151,
+      "name": "Ten Vorsel",
+      "latitude": 51.348288,
+      "longitude": 5.224673,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 152,
+      "name": "Ten Vorsel",
+      "latitude": 51.350825,
+      "longitude": 5.229678,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 153,
+      "name": "The Bee Hostel",
+      "latitude": 52.366172,
+      "longitude": 4.911267,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 154,
+      "name": "The Bulldog",
+      "latitude": 52.372549,
+      "longitude": 4.896228,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 155,
+      "name": "The Elephant Hostel",
+      "latitude": 52.36709,
+      "longitude": 4.910377,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 156,
+      "name": "The Flying Pig Downtown",
+      "latitude": 52.376682,
+      "longitude": 4.896346,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 157,
+      "name": "The Flying Pig Hotel Uptown",
+      "latitude": 52.36025,
+      "longitude": 4.878359,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 158,
+      "name": "The Flying Pig Youth Hostel Noordwijk",
+      "latitude": 52.24615,
+      "longitude": 4.43297,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 159,
+      "name": "The Golden Stork",
+      "latitude": 52.075238,
+      "longitude": 4.319096,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 160,
+      "name": "The Green Elephant",
+      "latitude": 50.851305,
+      "longitude": 5.703207,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 161,
+      "name": "The Veteran",
+      "latitude": 52.365049,
+      "longitude": 4.895527,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 162,
+      "name": "The White Tulip Hostel",
+      "latitude": 52.374706,
+      "longitude": 4.897377,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 163,
+      "name": "Thuis bij Schell",
+      "latitude": 51.917173,
+      "longitude": 4.474019,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 164,
+      "name": "Uptown Amsterdam",
+      "latitude": 52.362941,
+      "longitude": 4.885352,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 165,
+      "name": "Vakantiehuis Boerderij Sevenum",
+      "latitude": 51.392218,
+      "longitude": 6.04784,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 166,
+      "name": "Via Amsterdam",
+      "latitude": 52.326102,
+      "longitude": 4.953761,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 167,
+      "name": "Villapark Livingstone",
+      "latitude": 51.686012,
+      "longitude": 3.729566,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 168,
+      "name": "Waterhostel Friesland",
+      "latitude": 53.096707,
+      "longitude": 5.838523,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 169,
+      "name": "Watersport academy De Kaag",
+      "latitude": 52.212855,
+      "longitude": 4.557287,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 170,
+      "name": "Will & Tate City Stay",
+      "latitude": 52.074087,
+      "longitude": 4.304552,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 171,
+      "name": "Workforce Hotel",
+      "latitude": 53.302419,
+      "longitude": 6.854841,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 172,
+      "name": "YMCA",
+      "latitude": 52.339857,
+      "longitude": 5.704595,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 173,
+      "name": "Zaanse Hostel",
+      "latitude": 52.442532,
+      "longitude": 4.821217,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 174,
+      "name": "a&o Rotterdam City",
+      "latitude": 51.928668,
+      "longitude": 4.473764,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 175,
+      "name": "d'n Dijk",
+      "latitude": 51.759701,
+      "longitude": 5.132847,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 176,
+      "name": "de Hooge Weide",
+      "latitude": 52.098405,
+      "longitude": 6.352341,
+      "osm_klasse": "tourism=hostel"
+    },
+    {
+      "id": 177,
+      "name": "de Krekel & de Mier",
+      "latitude": 52.094203,
+      "longitude": 5.299845,
+      "osm_klasse": "tourism=hostel"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: hostel (tourism=hostel) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged tourism=hostel in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 177 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: hostel (tourism=hostel) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: hostel (tourism=hostel) — 177 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 177 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

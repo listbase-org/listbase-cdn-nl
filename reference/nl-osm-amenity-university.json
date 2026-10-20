@@ -1,0 +1,1640 @@
+{
+  "id": "nl-osm-amenity-university",
+  "name": "Netherlands OSM: university (amenity=university)",
+  "title": "Netherlands OSM: university (amenity=university)",
+  "description": "Named OpenStreetMap features tagged amenity=university in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 227,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "AKI ArtEZ",
+      "latitude": 52.23448,
+      "longitude": 6.896407,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 2,
+      "name": "Academie Minerva",
+      "latitude": 53.214724,
+      "longitude": 6.561458,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 3,
+      "name": "Academie van Bouwkunst",
+      "latitude": 53.215215,
+      "longitude": 6.560885,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 4,
+      "name": "Academiegebouw",
+      "latitude": 52.090244,
+      "longitude": 5.122334,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 5,
+      "name": "Aeres Hogeschool",
+      "latitude": 51.986238,
+      "longitude": 5.672231,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 6,
+      "name": "Aeres Hogeschool Almere",
+      "latitude": 52.356602,
+      "longitude": 5.223162,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 7,
+      "name": "Amsterdam University College",
+      "latitude": 52.354977,
+      "longitude": 4.95109,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 8,
+      "name": "Amsterdamse Hogeschool voor de Kunsten",
+      "latitude": 52.369569,
+      "longitude": 4.901968,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 9,
+      "name": "Arnhem Business School",
+      "latitude": 51.988982,
+      "longitude": 5.949212,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 10,
+      "name": "ArtEZ Academie voor Theater / Dansacademie",
+      "latitude": 51.984152,
+      "longitude": 5.893352,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 11,
+      "name": "ArtEZ hogeschool voor de Kunsten",
+      "latitude": 52.514003,
+      "longitude": 6.106259,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 12,
+      "name": "Aula UvA",
+      "latitude": 52.368281,
+      "longitude": 4.889187,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 13,
+      "name": "Avans Hogeschool",
+      "latitude": 51.561421,
+      "longitude": 5.05758,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 14,
+      "name": "Avans Hogeschool",
+      "latitude": 51.584434,
+      "longitude": 4.797672,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 15,
+      "name": "Avans Hogeschool",
+      "latitude": 51.585606,
+      "longitude": 4.794096,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 16,
+      "name": "Avans Hogeschool",
+      "latitude": 51.688714,
+      "longitude": 5.285743,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 17,
+      "name": "Avans Hogeschool",
+      "latitude": 51.689347,
+      "longitude": 5.294138,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 18,
+      "name": "Avans Hogeschool",
+      "latitude": 51.701872,
+      "longitude": 5.322082,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 19,
+      "name": "Breda University of Applied Sciences",
+      "latitude": 51.590157,
+      "longitude": 4.794794,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 20,
+      "name": "Breitner Academie",
+      "latitude": 52.384277,
+      "longitude": 4.902839,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 21,
+      "name": "Built Enviroment",
+      "latitude": 51.987843,
+      "longitude": 5.95011,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 22,
+      "name": "Capabel Hogeschool",
+      "latitude": 51.90534,
+      "longitude": 4.496472,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 23,
+      "name": "Centre for Digital Humanities",
+      "latitude": 52.094716,
+      "longitude": 5.123316,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 24,
+      "name": "Christelijke Hogeschool Ede",
+      "latitude": 52.019765,
+      "longitude": 5.663836,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 25,
+      "name": "Codarts Hoogeschool voor de Kunsten",
+      "latitude": 51.922128,
+      "longitude": 4.471668,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 26,
+      "name": "DUB30",
+      "latitude": 50.839645,
+      "longitude": 5.708146,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 27,
+      "name": "Dansacademie Lucia Marthas",
+      "latitude": 52.351189,
+      "longitude": 4.888193,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 28,
+      "name": "Dansacademie Lucia Marthas",
+      "latitude": 53.227523,
+      "longitude": 6.55764,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 29,
+      "name": "Data School",
+      "latitude": 52.093581,
+      "longitude": 5.123326,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 30,
+      "name": "De Haagse Hogeschool",
+      "latitude": 52.001536,
+      "longitude": 4.368198,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 31,
+      "name": "De Haagse Hogeschool",
+      "latitude": 52.067419,
+      "longitude": 4.324205,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 32,
+      "name": "De Ruyter Academy",
+      "latitude": 51.450356,
+      "longitude": 3.589401,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 33,
+      "name": "De Uithof / Utrecht Science Park",
+      "latitude": 52.084646,
+      "longitude": 5.172394,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 34,
+      "name": "Department of Knowledge Engineering",
+      "latitude": 50.847131,
+      "longitude": 5.687418,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 35,
+      "name": "Design Academy Eindhoven",
+      "latitude": 51.439721,
+      "longitude": 5.474895,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 36,
+      "name": "Digital Humanities Workspace",
+      "latitude": 52.094997,
+      "longitude": 5.12482,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 37,
+      "name": "Digital Society Hub",
+      "latitude": 53.244796,
+      "longitude": 6.534411,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 38,
+      "name": "Dordrecht Academy",
+      "latitude": 51.797127,
+      "longitude": 4.679158,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 39,
+      "name": "Driestar Educatief",
+      "latitude": 52.01882,
+      "longitude": 4.699188,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 40,
+      "name": "EnTranCe",
+      "latitude": 53.247472,
+      "longitude": 6.530309,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 41,
+      "name": "Erasmus MC - Faculty",
+      "latitude": 51.910528,
+      "longitude": 4.469439,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 42,
+      "name": "Erasmus Universiteit Rotterdam",
+      "latitude": 51.917011,
+      "longitude": 4.527034,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 43,
+      "name": "Erasmus University College",
+      "latitude": 51.923013,
+      "longitude": 4.487743,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 44,
+      "name": "Fablab",
+      "latitude": 51.987917,
+      "longitude": 5.95086,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 45,
+      "name": "Factulteit Wijsbegeerte",
+      "latitude": 53.220324,
+      "longitude": 6.563344,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 46,
+      "name": "Faculteit Gedrags- en Maatschappijwetenschappen",
+      "latitude": 53.222452,
+      "longitude": 6.558158,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 47,
+      "name": "Faculteit Geesteswetenschappen",
+      "latitude": 52.094679,
+      "longitude": 5.123335,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 48,
+      "name": "Faculteit Medische Wetenschappen",
+      "latitude": 53.223971,
+      "longitude": 6.571155,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 49,
+      "name": "Faculteit Natuur & Techniek (HU)",
+      "latitude": 52.084063,
+      "longitude": 5.168439,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 50,
+      "name": "Faculteit Religie, Cultuur en Maatschappij",
+      "latitude": 53.219825,
+      "longitude": 6.563737,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 51,
+      "name": "Faculteit Techniek",
+      "latitude": 51.987207,
+      "longitude": 5.950638,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 52,
+      "name": "Faculteit der Geesteswetenschappen",
+      "latitude": 52.093558,
+      "longitude": 5.123328,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 53,
+      "name": "Faculty of Aerospace Engineering",
+      "latitude": 51.989999,
+      "longitude": 4.37545,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 54,
+      "name": "Faculty of Applied Sciences",
+      "latitude": 51.989853,
+      "longitude": 4.379812,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 55,
+      "name": "Faculty of Applied Sciences",
+      "latitude": 52.000879,
+      "longitude": 4.374045,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 56,
+      "name": "Faculty of Architecture and the Built Environment",
+      "latitude": 52.005715,
+      "longitude": 4.37047,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 57,
+      "name": "Faculty of Civil Engineering and Geosciences",
+      "latitude": 51.998809,
+      "longitude": 4.375574,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 58,
+      "name": "Faculty of Electrical Engineering, Mathematics & Computer Science",
+      "latitude": 51.998844,
+      "longitude": 4.373648,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 59,
+      "name": "Faculty of Industrial Design Engineering",
+      "latitude": 52.00164,
+      "longitude": 4.369927,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 60,
+      "name": "Faculty of Mechanical Engineering",
+      "latitude": 52.000978,
+      "longitude": 4.371897,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 61,
+      "name": "Faculty of Science and Engineering",
+      "latitude": 50.839588,
+      "longitude": 5.715119,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 62,
+      "name": "Faculty of Science and Engineering",
+      "latitude": 53.238627,
+      "longitude": 6.537872,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 63,
+      "name": "Faculty of Technology, Policy and Management",
+      "latitude": 52.002497,
+      "longitude": 4.369293,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 64,
+      "name": "Fontys",
+      "latitude": 51.539073,
+      "longitude": 5.0805,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 65,
+      "name": "Fontys Hogescholen",
+      "latitude": 51.353435,
+      "longitude": 6.154598,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 66,
+      "name": "Fontys Hogeschool",
+      "latitude": 50.998409,
+      "longitude": 5.860835,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 67,
+      "name": "Fontys Hogeschool",
+      "latitude": 51.439041,
+      "longitude": 5.474456,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 68,
+      "name": "Fontys Hogeschool",
+      "latitude": 51.704842,
+      "longitude": 5.311457,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 69,
+      "name": "Fontys Hogeschool Eindhoven",
+      "latitude": 51.451752,
+      "longitude": 5.481215,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 70,
+      "name": "Fontys Hogeschool voor de Kunsten",
+      "latitude": 51.553401,
+      "longitude": 5.084922,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 71,
+      "name": "Fotovakschool",
+      "latitude": 52.209969,
+      "longitude": 5.972546,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 72,
+      "name": "Frank Mohr Instituut",
+      "latitude": 53.215013,
+      "longitude": 6.559728,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 73,
+      "name": "HAN Automotive",
+      "latitude": 51.989213,
+      "longitude": 5.948123,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 74,
+      "name": "HAN Hydromotive",
+      "latitude": 51.98902,
+      "longitude": 5.947876,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 75,
+      "name": "HAS Hogeschool",
+      "latitude": 51.366726,
+      "longitude": 6.169583,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 76,
+      "name": "HAS green academy",
+      "latitude": 51.686683,
+      "longitude": 5.284846,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 77,
+      "name": "HBO Drechtsteden",
+      "latitude": 51.811776,
+      "longitude": 4.666288,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 78,
+      "name": "HBO-ICT & HBO-Rechten",
+      "latitude": 51.830269,
+      "longitude": 5.868846,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 79,
+      "name": "HZ Smart Services",
+      "latitude": 51.448422,
+      "longitude": 3.589473,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 80,
+      "name": "HZ University of Applied Sciences",
+      "latitude": 51.449898,
+      "longitude": 3.590061,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 81,
+      "name": "HZ University of Applied Sciences",
+      "latitude": 51.495033,
+      "longitude": 3.60936,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 82,
+      "name": "Haagsche Academie voor Internationaal Recht",
+      "latitude": 52.085847,
+      "longitude": 4.294497,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 83,
+      "name": "Hanzehogeschool",
+      "latitude": 53.243662,
+      "longitude": 6.533663,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 84,
+      "name": "Harmoniecomplex",
+      "latitude": 53.219062,
+      "longitude": 6.560925,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 85,
+      "name": "Hogeschool Inholland",
+      "latitude": 52.00032,
+      "longitude": 4.368816,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 86,
+      "name": "Hogeschool Inholland",
+      "latitude": 52.083651,
+      "longitude": 4.32952,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 87,
+      "name": "Hogeschool Inholland",
+      "latitude": 52.642151,
+      "longitude": 4.724876,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 88,
+      "name": "Hogeschool Inholland Haarlem",
+      "latitude": 52.388798,
+      "longitude": 4.612682,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 89,
+      "name": "Hogeschool KPZ",
+      "latitude": 52.50594,
+      "longitude": 6.107078,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 90,
+      "name": "Hogeschool Leiden",
+      "latitude": 52.167561,
+      "longitude": 4.471405,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 91,
+      "name": "Hogeschool Rotterdam",
+      "latitude": 51.901863,
+      "longitude": 4.461187,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 92,
+      "name": "Hogeschool Tio Groningen",
+      "latitude": 53.213498,
+      "longitude": 6.568153,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 93,
+      "name": "Hogeschool Utrecht",
+      "latitude": 52.159213,
+      "longitude": 5.379955,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 94,
+      "name": "Hogeschool Van Hall Larenstein",
+      "latitude": 53.194212,
+      "longitude": 5.803903,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 95,
+      "name": "Hogeschool Viaa",
+      "latitude": 52.508276,
+      "longitude": 6.102452,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 96,
+      "name": "Hogeschool Windesheim",
+      "latitude": 52.50016,
+      "longitude": 6.081107,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 97,
+      "name": "Hogeschool van Amsterdam (BSV)",
+      "latitude": 52.367929,
+      "longitude": 4.806058,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 98,
+      "name": "Hogeschool van Hall Larenstein",
+      "latitude": 51.991461,
+      "longitude": 5.961435,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 99,
+      "name": "Hogeschool voor de Kunsten Utrecht",
+      "latitude": 52.092817,
+      "longitude": 5.121137,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 100,
+      "name": "Hotelschool The Hague locatie Den Haag",
+      "latitude": 52.107867,
+      "longitude": 4.292942,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 101,
+      "name": "House of Connections",
+      "latitude": 53.219466,
+      "longitude": 6.566302,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 102,
+      "name": "Humanities IT",
+      "latitude": 52.094655,
+      "longitude": 5.123264,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 103,
+      "name": "ICA Media Lab",
+      "latitude": 51.987022,
+      "longitude": 5.952258,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 104,
+      "name": "IHE Delft Institute for Water Education",
+      "latitude": 52.008944,
+      "longitude": 4.356775,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 105,
+      "name": "IPABO",
+      "latitude": 52.367488,
+      "longitude": 4.836886,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 106,
+      "name": "IPABO",
+      "latitude": 52.627034,
+      "longitude": 4.71796,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 107,
+      "name": "Informatica",
+      "latitude": 51.999066,
+      "longitude": 4.378316,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 108,
+      "name": "Institute for Language Sciences Labs",
+      "latitude": 52.093956,
+      "longitude": 5.122823,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 109,
+      "name": "International Campus Utrecht",
+      "latitude": 52.083714,
+      "longitude": 5.148854,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 110,
+      "name": "Islamitische Hogeschool Rotterdam",
+      "latitude": 51.935089,
+      "longitude": 4.469485,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 111,
+      "name": "Ixperium Arnhem",
+      "latitude": 51.988408,
+      "longitude": 5.948012,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 112,
+      "name": "Jheronimus Academy of Data Science",
+      "latitude": 51.688204,
+      "longitude": 5.29854,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 113,
+      "name": "Kernfysisch Versneller Instituut",
+      "latitude": 53.249957,
+      "longitude": 6.526291,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 114,
+      "name": "Ketelhuis",
+      "latitude": 52.005342,
+      "longitude": 4.371215,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 115,
+      "name": "Koning Willem 1 College",
+      "latitude": 51.755902,
+      "longitude": 5.525388,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 116,
+      "name": "Koninklijk Conservatorium Den Haag",
+      "latitude": 52.077431,
+      "longitude": 4.31852,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 117,
+      "name": "Koninklijke Academie van Beeldende Kunsten",
+      "latitude": 52.081541,
+      "longitude": 4.319114,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 118,
+      "name": "Leiden Bio Science Park",
+      "latitude": 52.169661,
+      "longitude": 4.449959,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 119,
+      "name": "Leiden University College The Hague",
+      "latitude": 52.081835,
+      "longitude": 4.326065,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 120,
+      "name": "MBO Utrecht",
+      "latitude": 52.227227,
+      "longitude": 5.180359,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 121,
+      "name": "Maastricht University",
+      "latitude": 50.847177,
+      "longitude": 5.685997,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 122,
+      "name": "Maastricht University, Faculty of Arts and Social Sciences",
+      "latitude": 50.849911,
+      "longitude": 5.685603,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 123,
+      "name": "Maritiem Instituut Willem Barentsz",
+      "latitude": 53.366,
+      "longitude": 5.22184,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 124,
+      "name": "Mediacollege Amsterdam",
+      "latitude": 52.344582,
+      "longitude": 4.893177,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 125,
+      "name": "Meerwold",
+      "latitude": 53.188294,
+      "longitude": 6.564194,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 126,
+      "name": "Minerva Academie voor Popcultuur",
+      "latitude": 53.19837,
+      "longitude": 5.801511,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 127,
+      "name": "NHL Stenden Hogeschool",
+      "latitude": 52.703273,
+      "longitude": 6.199356,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 128,
+      "name": "NHL Stenden Hogeschool",
+      "latitude": 52.778188,
+      "longitude": 6.912116,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 129,
+      "name": "NHL Stenden Hogeschool",
+      "latitude": 52.995627,
+      "longitude": 6.549363,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 130,
+      "name": "NHL Stenden Hogeschool",
+      "latitude": 53.212477,
+      "longitude": 5.79578,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 131,
+      "name": "NHL Stenden PABO",
+      "latitude": 53.211988,
+      "longitude": 6.570198,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 132,
+      "name": "Nederlandse Film en Televisie Academie",
+      "latitude": 52.368389,
+      "longitude": 4.905577,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 133,
+      "name": "Nyenrode Business Universiteit",
+      "latitude": 52.160704,
+      "longitude": 5.006358,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 134,
+      "name": "Nyenrode Business Universiteit",
+      "latitude": 52.370759,
+      "longitude": 4.885564,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 135,
+      "name": "Open Universiteit",
+      "latitude": 50.878189,
+      "longitude": 5.95911,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 136,
+      "name": "Open Universiteit",
+      "latitude": 51.820747,
+      "longitude": 5.863361,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 137,
+      "name": "Open Universiteit",
+      "latitude": 52.334721,
+      "longitude": 4.864918,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 138,
+      "name": "Open Universiteit",
+      "latitude": 53.204149,
+      "longitude": 6.553145,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 139,
+      "name": "Open Universiteit Nederland",
+      "latitude": 52.077921,
+      "longitude": 5.115635,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 140,
+      "name": "Open Universiteit Studiecentrum",
+      "latitude": 52.503181,
+      "longitude": 6.086987,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 141,
+      "name": "Oude Sterrewacht",
+      "latitude": 52.154961,
+      "longitude": 4.484343,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 142,
+      "name": "Oude Sterrewacht (hoofdgebouw)",
+      "latitude": 52.154835,
+      "longitude": 4.483938,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 143,
+      "name": "P",
+      "latitude": 52.364075,
+      "longitude": 4.914782,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 144,
+      "name": "PABO",
+      "latitude": 51.988588,
+      "longitude": 5.948297,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 145,
+      "name": "PABO Veghel",
+      "latitude": 51.620872,
+      "longitude": 5.562281,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 146,
+      "name": "Pedagogische Hogeschool De Kempel",
+      "latitude": 51.470159,
+      "longitude": 5.710733,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 147,
+      "name": "Prins Claus Conservatorium",
+      "latitude": 53.213744,
+      "longitude": 6.577423,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 148,
+      "name": "Protestantse Theologische Universiteit",
+      "latitude": 52.093028,
+      "longitude": 5.12278,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 149,
+      "name": "Protestantse Theologische Universiteit",
+      "latitude": 52.334495,
+      "longitude": 4.867898,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 150,
+      "name": "ROC Leeuwenborgh",
+      "latitude": 51.003259,
+      "longitude": 5.849999,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 151,
+      "name": "Radboud Universiteit",
+      "latitude": 51.8217,
+      "longitude": 5.867534,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 152,
+      "name": "Research Software Lab",
+      "latitude": 52.094777,
+      "longitude": 5.123289,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 153,
+      "name": "Reuvens",
+      "latitude": 52.158529,
+      "longitude": 4.482695,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 154,
+      "name": "Rijksuniversiteit Groningen",
+      "latitude": 53.219274,
+      "longitude": 6.563051,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 155,
+      "name": "Roeterseiland (UvA)",
+      "latitude": 52.363615,
+      "longitude": 4.912481,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 156,
+      "name": "Royal Academy of Art",
+      "latitude": 52.080772,
+      "longitude": 4.317804,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 157,
+      "name": "Royal Academy of Art",
+      "latitude": 52.081793,
+      "longitude": 4.319213,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 158,
+      "name": "Ruimtelijke Wetenschappen (FMG)",
+      "latitude": 52.364207,
+      "longitude": 4.91235,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 159,
+      "name": "SOMT University of Physiotherapy",
+      "latitude": 52.173006,
+      "longitude": 5.412287,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 160,
+      "name": "Saxion",
+      "latitude": 52.209552,
+      "longitude": 5.973223,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 161,
+      "name": "Saxion",
+      "latitude": 52.219442,
+      "longitude": 6.88711,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 162,
+      "name": "Saxion Hogeschool Deventer",
+      "latitude": 52.254351,
+      "longitude": 6.168188,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 163,
+      "name": "Science Park Amsterdam",
+      "latitude": 52.354553,
+      "longitude": 4.957982,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 164,
+      "name": "Spui25",
+      "latitude": 52.368593,
+      "longitude": 4.889688,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 165,
+      "name": "St. Joost",
+      "latitude": 51.579436,
+      "longitude": 4.810962,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 166,
+      "name": "Studentencentrum Plexus",
+      "latitude": 52.155667,
+      "longitude": 4.485481,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 167,
+      "name": "TIAS School for Business and Society",
+      "latitude": 51.564221,
+      "longitude": 5.044659,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 168,
+      "name": "TIAS school for Business and Society",
+      "latitude": 52.090861,
+      "longitude": 5.1256,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 169,
+      "name": "TIO - University for applied sciences",
+      "latitude": 52.096985,
+      "longitude": 5.112785,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 170,
+      "name": "TPAC-ThermoPlastic composites Application Center",
+      "latitude": 52.218883,
+      "longitude": 6.886825,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 171,
+      "name": "TU Aula Congrescentrum",
+      "latitude": 52.002192,
+      "longitude": 4.373471,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 172,
+      "name": "TechHub Assen",
+      "latitude": 52.999244,
+      "longitude": 6.570367,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 173,
+      "name": "Technische Universiteit Delft",
+      "latitude": 52.001012,
+      "longitude": 4.372992,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 174,
+      "name": "Technische Universiteit Eindhoven",
+      "latitude": 51.448942,
+      "longitude": 5.489885,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 175,
+      "name": "Technovium",
+      "latitude": 51.827322,
+      "longitude": 5.868989,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 176,
+      "name": "The Hague Student Center",
+      "latitude": 52.078759,
+      "longitude": 4.319783,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 177,
+      "name": "Theologische Universiteit",
+      "latitude": 52.095532,
+      "longitude": 5.123698,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 178,
+      "name": "Theologische Universiteit Apeldoorn",
+      "latitude": 52.221039,
+      "longitude": 5.964803,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 179,
+      "name": "Theologische Universiteit Kampen",
+      "latitude": 52.55766,
+      "longitude": 5.912919,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 180,
+      "name": "Theologische Universiteit Utrecht",
+      "latitude": 52.092644,
+      "longitude": 5.123339,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 181,
+      "name": "Thomas More Hogeschool",
+      "latitude": 51.92552,
+      "longitude": 4.464042,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 182,
+      "name": "Tilburg University",
+      "latitude": 51.563661,
+      "longitude": 5.044425,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 183,
+      "name": "UNS40 - Faculty of Health, Medicine and Life Sciences",
+      "latitude": 50.836695,
+      "longitude": 5.716067,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 184,
+      "name": "UNS40 - Faculty of Psychology and Neuroscience",
+      "latitude": 50.836689,
+      "longitude": 5.716866,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 185,
+      "name": "UNS60 - Faculty of Health, Medicine and Life Sciences",
+      "latitude": 50.833852,
+      "longitude": 5.715987,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 186,
+      "name": "UNU-MERIT",
+      "latitude": 50.854968,
+      "longitude": 5.689717,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 187,
+      "name": "USBO",
+      "latitude": 52.081517,
+      "longitude": 5.122881,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 188,
+      "name": "Universiteit Leiden",
+      "latitude": 52.156226,
+      "longitude": 4.490023,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 189,
+      "name": "Universiteit Leiden",
+      "latitude": 52.168101,
+      "longitude": 4.458885,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 190,
+      "name": "Universiteit Leiden Locatie Sylvius",
+      "latitude": 52.168458,
+      "longitude": 4.466759,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 191,
+      "name": "Universiteit Leiden Locatie Van Steenis",
+      "latitude": 52.16518,
+      "longitude": 4.46371,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 192,
+      "name": "Universiteit Leiden Locatie Wijnhaven",
+      "latitude": 52.078604,
+      "longitude": 4.320287,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 193,
+      "name": "Universiteit Leiden locatie Spuigebouw",
+      "latitude": 52.078126,
+      "longitude": 4.313763,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 194,
+      "name": "Universiteit Maastricht",
+      "latitude": 50.835276,
+      "longitude": 5.716562,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 195,
+      "name": "Universiteit Twente",
+      "latitude": 52.243744,
+      "longitude": 6.855285,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 196,
+      "name": "Universiteit Utrecht",
+      "latitude": 52.09046,
+      "longitude": 5.12339,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 197,
+      "name": "Universiteit Utrecht, facilitair centrum",
+      "latitude": 52.094572,
+      "longitude": 5.122145,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 198,
+      "name": "Universiteit van Amsterdam",
+      "latitude": 52.368181,
+      "longitude": 4.889664,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 199,
+      "name": "Universiteit van Amsterdam",
+      "latitude": 52.368585,
+      "longitude": 4.890201,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 200,
+      "name": "University College Maastricht",
+      "latitude": 50.844728,
+      "longitude": 5.687942,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 201,
+      "name": "University College Roosevelt",
+      "latitude": 51.499104,
+      "longitude": 3.611,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 202,
+      "name": "University College Utrecht",
+      "latitude": 52.083276,
+      "longitude": 5.147818,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 203,
+      "name": "University Maastricht, School of Business and Economics",
+      "latitude": 50.845146,
+      "longitude": 5.684899,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 204,
+      "name": "University of Groningen – Campus Fryslân",
+      "latitude": 53.19858,
+      "longitude": 5.796163,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 205,
+      "name": "University of Maastricht Faculty of Law",
+      "latitude": 50.847016,
+      "longitude": 5.688155,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 206,
+      "name": "Utrecht University School of Economics",
+      "latitude": 52.08242,
+      "longitude": 5.145853,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 207,
+      "name": "UvA Binnengasthuisterrein",
+      "latitude": 52.36874,
+      "longitude": 4.894777,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 208,
+      "name": "UvA Faculteit der Economische Wetenschappen en Econometrie",
+      "latitude": 52.363773,
+      "longitude": 4.911543,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 209,
+      "name": "UvA Faculteit der Maatschappij-en Gedragswetenschappen",
+      "latitude": 52.362704,
+      "longitude": 4.91168,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 210,
+      "name": "UvA Oudemanhuispoort",
+      "latitude": 52.369429,
+      "longitude": 4.896065,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 211,
+      "name": "UvA PC Hoofthuis",
+      "latitude": 52.373911,
+      "longitude": 4.889712,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 212,
+      "name": "Vector",
+      "latitude": 51.453594,
+      "longitude": 5.490421,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 213,
+      "name": "Volksuniversiteit",
+      "latitude": 51.692107,
+      "longitude": 5.298119,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 214,
+      "name": "Volksuniversiteit",
+      "latitude": 51.911682,
+      "longitude": 4.455566,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 215,
+      "name": "Volksuniversiteit Het Groene Hart",
+      "latitude": 52.084899,
+      "longitude": 4.886391,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 216,
+      "name": "Volksuniversiteit Hilversum",
+      "latitude": 52.227193,
+      "longitude": 5.166797,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 217,
+      "name": "Vrije Universiteit Amsterdam",
+      "latitude": 52.336449,
+      "longitude": 4.860556,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 218,
+      "name": "Wageningen Plant Research",
+      "latitude": 52.965341,
+      "longitude": 6.656705,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 219,
+      "name": "Wageningen University & Research",
+      "latitude": 51.984201,
+      "longitude": 5.662573,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 220,
+      "name": "Webster University",
+      "latitude": 52.160678,
+      "longitude": 4.486083,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 221,
+      "name": "Wiebengacomplex",
+      "latitude": 53.227572,
+      "longitude": 6.567819,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 222,
+      "name": "Willem de Kooning Academy",
+      "latitude": 51.918469,
+      "longitude": 4.488377,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 223,
+      "name": "Windesheim Almere",
+      "latitude": 52.370377,
+      "longitude": 5.222126,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 224,
+      "name": "Witte Singel-Doelencomplex",
+      "latitude": 52.158012,
+      "longitude": 4.48119,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 225,
+      "name": "Wittenborg University",
+      "latitude": 52.210011,
+      "longitude": 5.971777,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 226,
+      "name": "Young Business",
+      "latitude": 51.987495,
+      "longitude": 5.951351,
+      "osm_klasse": "amenity=university"
+    },
+    {
+      "id": 227,
+      "name": "Zernike Campus",
+      "latitude": 53.241194,
+      "longitude": 6.535637,
+      "osm_klasse": "amenity=university"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: university (amenity=university) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=university in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 227 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: university (amenity=university) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: university (amenity=university) — 227 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 227 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

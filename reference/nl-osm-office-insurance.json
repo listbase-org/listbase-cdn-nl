@@ -1,0 +1,1794 @@
+{
+  "id": "nl-osm-office-insurance",
+  "name": "Netherlands OSM: insurance (office=insurance)",
+  "title": "Netherlands OSM: insurance (office=insurance)",
+  "description": "Named OpenStreetMap features tagged office=insurance in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 249,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Assuratie Huys",
+      "latitude": 52.628834,
+      "longitude": 4.747287,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 2,
+      "name": "A1B Adviesgroep",
+      "latitude": 52.027866,
+      "longitude": 5.647384,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 3,
+      "name": "AE Insurance",
+      "latitude": 52.059668,
+      "longitude": 4.34488,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 4,
+      "name": "AON",
+      "latitude": 51.410675,
+      "longitude": 5.457985,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 5,
+      "name": "AVéWé",
+      "latitude": 52.503783,
+      "longitude": 4.96313,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 6,
+      "name": "Aa & Hunze Makelaardij en Assurantiën BV",
+      "latitude": 53.005615,
+      "longitude": 6.765387,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 7,
+      "name": "Aarts & van der Wouw",
+      "latitude": 51.575009,
+      "longitude": 5.082491,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 8,
+      "name": "Acquest v.o.f.",
+      "latitude": 52.440925,
+      "longitude": 5.946325,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 9,
+      "name": "Administratiekantoor S. Westendorp",
+      "latitude": 52.975305,
+      "longitude": 5.450133,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 10,
+      "name": "Advies Verzekerd!",
+      "latitude": 52.711808,
+      "longitude": 6.198541,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 11,
+      "name": "Adviesbureau Askal",
+      "latitude": 50.939703,
+      "longitude": 5.798458,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 12,
+      "name": "Aegon",
+      "latitude": 52.308087,
+      "longitude": 4.758263,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 13,
+      "name": "Agriver",
+      "latitude": 52.590522,
+      "longitude": 6.088529,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 14,
+      "name": "Allround Benefits",
+      "latitude": 51.819004,
+      "longitude": 4.65528,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 15,
+      "name": "Amptmeijer",
+      "latitude": 52.466708,
+      "longitude": 6.002125,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 16,
+      "name": "Ardanta",
+      "latitude": 52.220825,
+      "longitude": 6.88771,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 17,
+      "name": "Assuflex",
+      "latitude": 51.68687,
+      "longitude": 5.305423,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 18,
+      "name": "Assurantiekantoor Burgers en Van Esch",
+      "latitude": 51.518722,
+      "longitude": 5.067988,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 19,
+      "name": "Assurantiekantoor Hoekstra",
+      "latitude": 53.280325,
+      "longitude": 6.154617,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 20,
+      "name": "Assurantiekantoor Kooijmans",
+      "latitude": 51.617901,
+      "longitude": 5.425942,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 21,
+      "name": "Assurantiekantoor Lichtendonk",
+      "latitude": 52.72684,
+      "longitude": 6.489924,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 22,
+      "name": "Assurantiekantoor Nico van Peer",
+      "latitude": 51.587303,
+      "longitude": 4.319683,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 23,
+      "name": "Assurantiekantoor Oldenburger",
+      "latitude": 53.103642,
+      "longitude": 7.008126,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 24,
+      "name": "Assurantiekantoor Ruiter",
+      "latitude": 52.655208,
+      "longitude": 5.065358,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 25,
+      "name": "Atsurance",
+      "latitude": 51.915397,
+      "longitude": 4.481562,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 26,
+      "name": "BMP finance",
+      "latitude": 51.853887,
+      "longitude": 4.540183,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 27,
+      "name": "Bart Karel",
+      "latitude": 52.656791,
+      "longitude": 5.060141,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 28,
+      "name": "Beks Groep",
+      "latitude": 53.276238,
+      "longitude": 6.697055,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 29,
+      "name": "Bert van Vulpen Makelaar",
+      "latitude": 52.494811,
+      "longitude": 4.762969,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 30,
+      "name": "Bijdevaate verzekeringen",
+      "latitude": 51.653892,
+      "longitude": 3.923784,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 31,
+      "name": "Bijnen Kantoren",
+      "latitude": 51.643765,
+      "longitude": 5.292746,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 32,
+      "name": "Blok Assurantiën",
+      "latitude": 52.068263,
+      "longitude": 4.366186,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 33,
+      "name": "Boidin",
+      "latitude": 51.326133,
+      "longitude": 3.489682,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 34,
+      "name": "Boks Beijer",
+      "latitude": 52.282694,
+      "longitude": 6.420707,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 35,
+      "name": "Bongers assurantie adviseurs bv",
+      "latitude": 51.972051,
+      "longitude": 5.73051,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 36,
+      "name": "BosBoon Expertise",
+      "latitude": 51.871445,
+      "longitude": 4.550986,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 37,
+      "name": "Brabantstad Verzekeringen",
+      "latitude": 51.556095,
+      "longitude": 5.068154,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 38,
+      "name": "Brantjes Makelaars",
+      "latitude": 52.489072,
+      "longitude": 4.752605,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 39,
+      "name": "Bus Verzekeringen",
+      "latitude": 51.587426,
+      "longitude": 4.459691,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 40,
+      "name": "CZ",
+      "latitude": 50.888384,
+      "longitude": 5.979419,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 41,
+      "name": "CZ",
+      "latitude": 51.498655,
+      "longitude": 3.893911,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 42,
+      "name": "CZ",
+      "latitude": 51.537359,
+      "longitude": 5.041594,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 43,
+      "name": "CZ",
+      "latitude": 51.760387,
+      "longitude": 4.158155,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 44,
+      "name": "CZ",
+      "latitude": 51.844578,
+      "longitude": 5.864689,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 45,
+      "name": "CZ Zorgverzekeringen",
+      "latitude": 51.557667,
+      "longitude": 5.064827,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 46,
+      "name": "Claeren Assurantien",
+      "latitude": 51.684552,
+      "longitude": 5.297628,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 47,
+      "name": "Cornelius & de Wit",
+      "latitude": 52.655795,
+      "longitude": 5.066552,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 48,
+      "name": "Corstanje Assurantien",
+      "latitude": 51.601269,
+      "longitude": 3.847808,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 49,
+      "name": "Corstanje Assurantiën",
+      "latitude": 51.499236,
+      "longitude": 3.889331,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 50,
+      "name": "DSW Zorgverzekeraar",
+      "latitude": 51.922162,
+      "longitude": 4.40354,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 51,
+      "name": "De Bruin Verzekeringen",
+      "latitude": 51.653509,
+      "longitude": 5.619951,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 52,
+      "name": "De Groot Verzekeringen",
+      "latitude": 52.525277,
+      "longitude": 4.708779,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 53,
+      "name": "De Heer & Partners",
+      "latitude": 52.408375,
+      "longitude": 4.649937,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 54,
+      "name": "De Hypotheek Shop",
+      "latitude": 52.354115,
+      "longitude": 4.930942,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 55,
+      "name": "De Hypotheekshop",
+      "latitude": 51.99562,
+      "longitude": 5.974466,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 56,
+      "name": "De Jong Assurantiën",
+      "latitude": 52.936614,
+      "longitude": 4.754391,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 57,
+      "name": "De Koning Adviesgroep",
+      "latitude": 51.680605,
+      "longitude": 5.316425,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 58,
+      "name": "De Verzekeringswinkel",
+      "latitude": 52.629528,
+      "longitude": 4.745915,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 59,
+      "name": "De Zeeuwse Verzekeringen",
+      "latitude": 51.497423,
+      "longitude": 3.615918,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 60,
+      "name": "Deterink",
+      "latitude": 52.407747,
+      "longitude": 6.780932,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 61,
+      "name": "Dijkstra Makelaardij en Financieel Advies Zuidhorn",
+      "latitude": 53.243887,
+      "longitude": 6.407567,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 62,
+      "name": "Dorrestein Hypotheken & Verzekeringen",
+      "latitude": 52.206319,
+      "longitude": 5.138333,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 63,
+      "name": "Dutch Credit Brokers",
+      "latitude": 52.268792,
+      "longitude": 4.747152,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 64,
+      "name": "EOC Scheepsvezekeringen",
+      "latitude": 52.698303,
+      "longitude": 6.207571,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 65,
+      "name": "Eddy Ten Cate Verzekeringen",
+      "latitude": 53.031642,
+      "longitude": 5.659395,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 66,
+      "name": "Elan",
+      "latitude": 51.510198,
+      "longitude": 5.491666,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 67,
+      "name": "Estaete",
+      "latitude": 51.996438,
+      "longitude": 5.672712,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 68,
+      "name": "Evertse",
+      "latitude": 51.836215,
+      "longitude": 4.564627,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 69,
+      "name": "Extenso Assurantiën",
+      "latitude": 53.280106,
+      "longitude": 6.150646,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 70,
+      "name": "Financieel Raadhuis",
+      "latitude": 52.051395,
+      "longitude": 6.103493,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 71,
+      "name": "Finasecur",
+      "latitude": 52.068781,
+      "longitude": 4.285196,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 72,
+      "name": "Find Hypotheken",
+      "latitude": 53.243532,
+      "longitude": 6.407845,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 73,
+      "name": "Fiscaal Correct",
+      "latitude": 51.90275,
+      "longitude": 4.507303,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 74,
+      "name": "Flynth Adviseurs En Accountants BV",
+      "latitude": 52.474449,
+      "longitude": 4.657,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 75,
+      "name": "GAVA Assurantien B.V.",
+      "latitude": 51.814897,
+      "longitude": 4.415796,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 76,
+      "name": "Gjaltema",
+      "latitude": 52.50598,
+      "longitude": 6.260671,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 77,
+      "name": "Guitjens Verzekeringen en Risicobeheer",
+      "latitude": 51.38,
+      "longitude": 5.577445,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 78,
+      "name": "HVS",
+      "latitude": 52.06294,
+      "longitude": 4.325537,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 79,
+      "name": "Hakan finance",
+      "latitude": 52.448349,
+      "longitude": 4.844673,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 80,
+      "name": "Heilbron Groep",
+      "latitude": 52.204867,
+      "longitude": 5.939365,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 81,
+      "name": "Heinenoord Assuradeuren",
+      "latitude": 51.826973,
+      "longitude": 4.477828,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 82,
+      "name": "Hendriks Assurantien",
+      "latitude": 51.996525,
+      "longitude": 5.970399,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 83,
+      "name": "HermelinG",
+      "latitude": 51.960911,
+      "longitude": 5.813705,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 84,
+      "name": "Het Nederlands Volmachtbedrijf",
+      "latitude": 51.542435,
+      "longitude": 5.053374,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 85,
+      "name": "Holland Verzekerd.nl",
+      "latitude": 52.592153,
+      "longitude": 6.08884,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 86,
+      "name": "Howden",
+      "latitude": 51.585938,
+      "longitude": 4.799964,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 87,
+      "name": "Huisman",
+      "latitude": 52.621499,
+      "longitude": 6.040965,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 88,
+      "name": "Hypotheek Visie",
+      "latitude": 51.690594,
+      "longitude": 5.297995,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 89,
+      "name": "Hypotheekcentrum Hoogeveen",
+      "latitude": 52.725445,
+      "longitude": 6.479495,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 90,
+      "name": "Hypotheekshop",
+      "latitude": 52.38478,
+      "longitude": 4.635861,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 91,
+      "name": "IJsselborg Hendriks Assurantien & Hypotheken",
+      "latitude": 52.087581,
+      "longitude": 6.155491,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 92,
+      "name": "Insure to Study",
+      "latitude": 52.084676,
+      "longitude": 4.338236,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 93,
+      "name": "Interpolis",
+      "latitude": 51.559392,
+      "longitude": 5.095295,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 94,
+      "name": "J.J. Meijer Assurantiën",
+      "latitude": 52.592428,
+      "longitude": 6.096971,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 95,
+      "name": "Jan Brouwer",
+      "latitude": 52.622287,
+      "longitude": 6.041131,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 96,
+      "name": "Jonker-Schotte Adviesgroep",
+      "latitude": 52.084699,
+      "longitude": 4.338288,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 97,
+      "name": "Jouke Sjaardema",
+      "latitude": 52.163586,
+      "longitude": 4.485886,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 98,
+      "name": "K/ap",
+      "latitude": 51.840874,
+      "longitude": 5.857583,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 99,
+      "name": "KIEBOOM Assurantiën",
+      "latitude": 51.555905,
+      "longitude": 5.066663,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 100,
+      "name": "KRK Makelaar",
+      "latitude": 52.494415,
+      "longitude": 4.764921,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 101,
+      "name": "KROES/VAN TIJEN ASSURANTIEKANTOOR",
+      "latitude": 52.384377,
+      "longitude": 4.626579,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 102,
+      "name": "Kees Stoop",
+      "latitude": 51.51614,
+      "longitude": 4.467955,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 103,
+      "name": "Klaverblad Verzekeringen",
+      "latitude": 52.058428,
+      "longitude": 4.481167,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 104,
+      "name": "Klein & Uitslag",
+      "latitude": 52.446867,
+      "longitude": 5.897278,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 105,
+      "name": "Kloosterboer",
+      "latitude": 53.176302,
+      "longitude": 6.971544,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 106,
+      "name": "Kuindersma",
+      "latitude": 52.969558,
+      "longitude": 5.791865,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 107,
+      "name": "L.G. Borst",
+      "latitude": 52.863139,
+      "longitude": 4.830215,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 108,
+      "name": "Lodewijk",
+      "latitude": 52.467675,
+      "longitude": 5.991199,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 109,
+      "name": "MEN verzekeringen",
+      "latitude": 52.062493,
+      "longitude": 4.293607,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 110,
+      "name": "Makelaardij Zuidhorn LID NVM",
+      "latitude": 53.244039,
+      "longitude": 6.407398,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 111,
+      "name": "Matthieu Assurantien",
+      "latitude": 52.068058,
+      "longitude": 4.360556,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 112,
+      "name": "Melitene",
+      "latitude": 52.363828,
+      "longitude": 4.933679,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 113,
+      "name": "Meliténe",
+      "latitude": 52.369392,
+      "longitude": 4.836895,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 114,
+      "name": "Memelink & Bergevoet",
+      "latitude": 52.051177,
+      "longitude": 6.310717,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 115,
+      "name": "Merkelbag Adviesgroep",
+      "latitude": 52.34145,
+      "longitude": 4.906789,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 116,
+      "name": "Monuta hoofdkantoor",
+      "latitude": 52.156328,
+      "longitude": 5.381437,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 117,
+      "name": "Mooijman Assurantiën",
+      "latitude": 52.06507,
+      "longitude": 4.359953,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 118,
+      "name": "Multi Advies Assurantien",
+      "latitude": 52.104087,
+      "longitude": 5.093871,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 119,
+      "name": "Mutsaers Advies",
+      "latitude": 51.575359,
+      "longitude": 5.135682,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 120,
+      "name": "N.V. Univé Schade (Hoofdkantoor)",
+      "latitude": 53.010833,
+      "longitude": 6.570108,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 121,
+      "name": "Nefkens Verzekeringen",
+      "latitude": 52.169386,
+      "longitude": 5.349036,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 122,
+      "name": "Nh1816",
+      "latitude": 52.711792,
+      "longitude": 4.809369,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 123,
+      "name": "Noorderlinge",
+      "latitude": 53.196594,
+      "longitude": 5.797902,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 124,
+      "name": "OBM Verzekeringen",
+      "latitude": 52.726773,
+      "longitude": 5.150391,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 125,
+      "name": "ONVZ",
+      "latitude": 52.030952,
+      "longitude": 5.171448,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 126,
+      "name": "OVM Twente",
+      "latitude": 52.301179,
+      "longitude": 6.754043,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 127,
+      "name": "OVM Verzekeringsmaatschappij",
+      "latitude": 52.295296,
+      "longitude": 6.574531,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 128,
+      "name": "OWM Achterhoek",
+      "latitude": 51.921069,
+      "longitude": 6.580474,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 129,
+      "name": "OWM Achterhoek",
+      "latitude": 52.101661,
+      "longitude": 6.650657,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 130,
+      "name": "Odding",
+      "latitude": 52.362453,
+      "longitude": 6.460143,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 131,
+      "name": "Onderlinge 's-Gravenhage",
+      "latitude": 52.081131,
+      "longitude": 4.345247,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 132,
+      "name": "Onderlinge Brandverzekering",
+      "latitude": 52.804685,
+      "longitude": 6.065599,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 133,
+      "name": "Onderlinge Verzekeringen Kamerik",
+      "latitude": 52.111629,
+      "longitude": 4.89403,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 134,
+      "name": "Op Heij",
+      "latitude": 50.939053,
+      "longitude": 5.796657,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 135,
+      "name": "Op-Heij Verzekeringsgroep",
+      "latitude": 51.251705,
+      "longitude": 5.710901,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 136,
+      "name": "Overwater Assurantie Adviesbureau",
+      "latitude": 51.797629,
+      "longitude": 4.491515,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 137,
+      "name": "P.J.G. de Maat Assurantiën",
+      "latitude": 52.255912,
+      "longitude": 6.786227,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 138,
+      "name": "Padmos Assurantieën",
+      "latitude": 51.491049,
+      "longitude": 4.051171,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 139,
+      "name": "Peter Jansen Verzekeringen",
+      "latitude": 51.404211,
+      "longitude": 5.3978,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 140,
+      "name": "Peter Rijsdijk Assurantiën",
+      "latitude": 51.534061,
+      "longitude": 4.457977,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 141,
+      "name": "Pierre Gorissen",
+      "latitude": 50.93896,
+      "longitude": 5.79495,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 142,
+      "name": "Prima Advies",
+      "latitude": 52.500562,
+      "longitude": 6.108945,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 143,
+      "name": "Quintes",
+      "latitude": 52.260074,
+      "longitude": 4.768433,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 144,
+      "name": "Quintes",
+      "latitude": 52.479068,
+      "longitude": 4.654915,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 145,
+      "name": "Quintes West-Friesland",
+      "latitude": 52.699962,
+      "longitude": 5.149967,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 146,
+      "name": "Regiobank Van Veen Assurantiën en Hypotheken",
+      "latitude": 52.121144,
+      "longitude": 4.496482,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 147,
+      "name": "Regiobank Van Veen Assurantiën en Hypotheken",
+      "latitude": 52.124477,
+      "longitude": 4.446399,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 148,
+      "name": "Remo Assuradeuren",
+      "latitude": 52.068063,
+      "longitude": 4.360956,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 149,
+      "name": "Richard",
+      "latitude": 53.094673,
+      "longitude": 6.686997,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 150,
+      "name": "Ridder Letselschade",
+      "latitude": 52.339509,
+      "longitude": 5.519806,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 151,
+      "name": "Rivez-Zuiderhuis Horn",
+      "latitude": 51.20844,
+      "longitude": 5.94898,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 152,
+      "name": "Roos & Van Eijk",
+      "latitude": 52.063785,
+      "longitude": 4.280481,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 153,
+      "name": "SB Groep Verzekeringen",
+      "latitude": 52.47613,
+      "longitude": 4.65662,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 154,
+      "name": "Saurwalt & Partners",
+      "latitude": 52.082233,
+      "longitude": 4.313254,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 155,
+      "name": "Schalk Makelaardij B.V.",
+      "latitude": 51.516454,
+      "longitude": 4.702041,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 156,
+      "name": "Scildon",
+      "latitude": 52.211268,
+      "longitude": 5.183355,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 157,
+      "name": "Seinen",
+      "latitude": 52.270179,
+      "longitude": 6.796045,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 158,
+      "name": "Siebe de Vries",
+      "latitude": 52.942005,
+      "longitude": 5.943944,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 159,
+      "name": "Stellema Verzekeringen",
+      "latitude": 53.280612,
+      "longitude": 6.146793,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 160,
+      "name": "Stichting Univé Rechtshulp",
+      "latitude": 53.009144,
+      "longitude": 6.569651,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 161,
+      "name": "TAF",
+      "latitude": 51.437559,
+      "longitude": 5.481891,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 162,
+      "name": "TAG Administraties en verzekeringen",
+      "latitude": 51.619075,
+      "longitude": 5.43374,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 163,
+      "name": "TVM",
+      "latitude": 52.720791,
+      "longitude": 6.471388,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 164,
+      "name": "Ten Cate Verzekeringen",
+      "latitude": 53.030443,
+      "longitude": 5.657286,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 165,
+      "name": "Ter Haar & Dunnink Hypotheken en Verzekeringen B.V.",
+      "latitude": 52.519057,
+      "longitude": 6.423305,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 166,
+      "name": "The Financials",
+      "latitude": 52.331934,
+      "longitude": 4.883819,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 167,
+      "name": "Tiecken",
+      "latitude": 51.875715,
+      "longitude": 6.245013,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 168,
+      "name": "Tijms Verzekeringen",
+      "latitude": 52.509013,
+      "longitude": 4.674321,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 169,
+      "name": "Timmermans",
+      "latitude": 51.643824,
+      "longitude": 4.864301,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 170,
+      "name": "Unigarant",
+      "latitude": 52.72019,
+      "longitude": 6.470219,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 171,
+      "name": "Unive",
+      "latitude": 52.236957,
+      "longitude": 6.10516,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 172,
+      "name": "Unive",
+      "latitude": 52.698767,
+      "longitude": 5.234039,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 173,
+      "name": "Unive",
+      "latitude": 52.699694,
+      "longitude": 6.188809,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 174,
+      "name": "Unive",
+      "latitude": 53.192499,
+      "longitude": 5.990833,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 175,
+      "name": "Univé",
+      "latitude": 51.519595,
+      "longitude": 4.391484,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 176,
+      "name": "Univé",
+      "latitude": 51.832525,
+      "longitude": 4.14579,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 177,
+      "name": "Univé",
+      "latitude": 51.888021,
+      "longitude": 5.433651,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 178,
+      "name": "Univé",
+      "latitude": 51.963175,
+      "longitude": 6.291213,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 179,
+      "name": "Univé",
+      "latitude": 52.031438,
+      "longitude": 4.705559,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 180,
+      "name": "Univé",
+      "latitude": 52.043339,
+      "longitude": 4.502784,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 181,
+      "name": "Univé",
+      "latitude": 52.047438,
+      "longitude": 5.671512,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 182,
+      "name": "Univé",
+      "latitude": 52.13962,
+      "longitude": 5.589459,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 183,
+      "name": "Univé",
+      "latitude": 52.148154,
+      "longitude": 6.197405,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 184,
+      "name": "Univé",
+      "latitude": 52.155423,
+      "longitude": 5.389664,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 185,
+      "name": "Univé",
+      "latitude": 52.205835,
+      "longitude": 5.957492,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 186,
+      "name": "Univé",
+      "latitude": 52.264043,
+      "longitude": 6.796328,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 187,
+      "name": "Univé",
+      "latitude": 52.348191,
+      "longitude": 5.985475,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 188,
+      "name": "Univé",
+      "latitude": 52.374442,
+      "longitude": 4.629856,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 189,
+      "name": "Univé",
+      "latitude": 52.38647,
+      "longitude": 6.275931,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 190,
+      "name": "Univé",
+      "latitude": 52.498917,
+      "longitude": 4.813973,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 191,
+      "name": "Univé",
+      "latitude": 52.502358,
+      "longitude": 6.08381,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 192,
+      "name": "Univé",
+      "latitude": 52.513477,
+      "longitude": 6.097441,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 193,
+      "name": "Univé",
+      "latitude": 52.559313,
+      "longitude": 5.91667,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 194,
+      "name": "Univé",
+      "latitude": 52.574694,
+      "longitude": 6.61713,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 195,
+      "name": "Univé",
+      "latitude": 52.631205,
+      "longitude": 4.743709,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 196,
+      "name": "Univé",
+      "latitude": 52.642197,
+      "longitude": 5.052877,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 197,
+      "name": "Univé",
+      "latitude": 52.687727,
+      "longitude": 6.195505,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 198,
+      "name": "Univé",
+      "latitude": 52.957547,
+      "longitude": 4.75927,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 199,
+      "name": "Univé",
+      "latitude": 53.032967,
+      "longitude": 5.661818,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 200,
+      "name": "Univé",
+      "latitude": 53.092834,
+      "longitude": 6.686555,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 201,
+      "name": "Univé",
+      "latitude": 53.161928,
+      "longitude": 6.390951,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 202,
+      "name": "Univé",
+      "latitude": 53.216575,
+      "longitude": 6.558989,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 203,
+      "name": "Univé",
+      "latitude": 53.320075,
+      "longitude": 6.863483,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 204,
+      "name": "Univé 'Mijn makelaar/Mijn Hypotheek'",
+      "latitude": 53.010157,
+      "longitude": 6.570163,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 205,
+      "name": "Univé Dichtbij",
+      "latitude": 52.26025,
+      "longitude": 5.603268,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 206,
+      "name": "Univé Dichtbij - Hilversum",
+      "latitude": 52.227893,
+      "longitude": 5.176828,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 207,
+      "name": "Univé Noord-Nederland",
+      "latitude": 52.876351,
+      "longitude": 5.998055,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 208,
+      "name": "Univé Noord-Nederland",
+      "latitude": 53.406512,
+      "longitude": 6.676515,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 209,
+      "name": "Univé Ruinen",
+      "latitude": 52.763766,
+      "longitude": 6.356218,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 210,
+      "name": "Univé Zuid-Nederland",
+      "latitude": 51.828657,
+      "longitude": 4.778634,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 211,
+      "name": "Univé winkel Ruurlo",
+      "latitude": 52.082182,
+      "longitude": 6.450699,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 212,
+      "name": "Univé-kantoor Elst",
+      "latitude": 51.918426,
+      "longitude": 5.850078,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 213,
+      "name": "Univé-winkel Bunschoten",
+      "latitude": 52.253897,
+      "longitude": 5.377233,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 214,
+      "name": "Univé-winkel Rijssen",
+      "latitude": 52.310841,
+      "longitude": 6.519538,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 215,
+      "name": "V. Rooij Assurantiën",
+      "latitude": 52.05235,
+      "longitude": 4.511133,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 216,
+      "name": "VDZ",
+      "latitude": 51.697729,
+      "longitude": 5.257416,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 217,
+      "name": "VGZ",
+      "latitude": 51.984078,
+      "longitude": 5.899974,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 218,
+      "name": "Van Dalfsen",
+      "latitude": 52.622124,
+      "longitude": 6.041177,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 219,
+      "name": "Van Dis Verzekeringen en Hypotheken",
+      "latitude": 51.757213,
+      "longitude": 4.165789,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 220,
+      "name": "Van Eikeren Assurantiën",
+      "latitude": 51.787666,
+      "longitude": 4.555526,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 221,
+      "name": "Van Loon",
+      "latitude": 52.071741,
+      "longitude": 4.258415,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 222,
+      "name": "Van Zeeburg Assurantiën Vorden",
+      "latitude": 52.104284,
+      "longitude": 6.311742,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 223,
+      "name": "Van de Zandschulp assurantien",
+      "latitude": 51.996017,
+      "longitude": 5.672243,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 224,
+      "name": "Van den Ende",
+      "latitude": 51.973773,
+      "longitude": 4.247836,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 225,
+      "name": "Van der Eijk Assurantiën",
+      "latitude": 52.301416,
+      "longitude": 4.846335,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 226,
+      "name": "Van der Stoep Verzekeringen",
+      "latitude": 52.015449,
+      "longitude": 4.43065,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 227,
+      "name": "Veldsink - Bekx Adviesgroep",
+      "latitude": 51.444603,
+      "longitude": 5.621512,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 228,
+      "name": "Veldsink Finas",
+      "latitude": 51.969619,
+      "longitude": 5.668313,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 229,
+      "name": "Veldsink Pensioen",
+      "latitude": 51.500702,
+      "longitude": 3.888781,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 230,
+      "name": "Venhorst Verzekeringen",
+      "latitude": 52.699296,
+      "longitude": 6.755729,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 231,
+      "name": "Verbrugge Makelaar",
+      "latitude": 51.696769,
+      "longitude": 4.872914,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 232,
+      "name": "Verhoeven Verzekeringen",
+      "latitude": 51.617195,
+      "longitude": 5.437608,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 233,
+      "name": "Verzekering Kan",
+      "latitude": 52.883569,
+      "longitude": 7.049611,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 234,
+      "name": "ViaDAL",
+      "latitude": 51.283853,
+      "longitude": 5.749427,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 235,
+      "name": "Vijselaar Hypotheken en Verzekeringen",
+      "latitude": 52.854019,
+      "longitude": 5.023118,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 236,
+      "name": "Voets Assurantiën",
+      "latitude": 51.534358,
+      "longitude": 4.459116,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 237,
+      "name": "Voogd & Voogd",
+      "latitude": 51.558861,
+      "longitude": 4.455984,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 238,
+      "name": "Vrolijk Verzekeringen",
+      "latitude": 52.744811,
+      "longitude": 5.215692,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 239,
+      "name": "WJonkverzekeringen",
+      "latitude": 52.632229,
+      "longitude": 4.748264,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 240,
+      "name": "Warande",
+      "latitude": 52.031478,
+      "longitude": 5.17101,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 241,
+      "name": "Wij Verzekeren",
+      "latitude": 53.211822,
+      "longitude": 6.569481,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 242,
+      "name": "York Verzekeringen",
+      "latitude": 51.907575,
+      "longitude": 4.495682,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 243,
+      "name": "You Sure",
+      "latitude": 51.805263,
+      "longitude": 4.568381,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 244,
+      "name": "ZLM",
+      "latitude": 51.508157,
+      "longitude": 3.87709,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 245,
+      "name": "Zorg en Zekerheid",
+      "latitude": 52.164845,
+      "longitude": 4.454646,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 246,
+      "name": "Zorg en Zekerheid",
+      "latitude": 52.30392,
+      "longitude": 4.692388,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 247,
+      "name": "Zorg en Zekerheid",
+      "latitude": 52.304704,
+      "longitude": 4.8612,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 248,
+      "name": "Zwartewaterland assurantieen",
+      "latitude": 52.590504,
+      "longitude": 6.088449,
+      "osm_klasse": "office=insurance"
+    },
+    {
+      "id": 249,
+      "name": "Zwolle & Willemse Verzekeringen",
+      "latitude": 52.068453,
+      "longitude": 4.256882,
+      "osm_klasse": "office=insurance"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: insurance (office=insurance) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=insurance in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 249 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: insurance (office=insurance) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: insurance (office=insurance) — 249 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 249 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

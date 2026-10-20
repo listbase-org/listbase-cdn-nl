@@ -1,0 +1,1367 @@
+{
+  "id": "nl-osm-office-association",
+  "name": "Netherlands OSM: association (office=association)",
+  "title": "Netherlands OSM: association (office=association)",
+  "description": "Named OpenStreetMap features tagged office=association in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 188,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "ACKU",
+      "latitude": 52.066983,
+      "longitude": 4.323367,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 2,
+      "name": "AEGEE-Eindhoven",
+      "latitude": 51.447465,
+      "longitude": 5.487687,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 3,
+      "name": "AEGEE-Nijmegen",
+      "latitude": 51.842844,
+      "longitude": 5.856351,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 4,
+      "name": "ASV Karpe Noktem",
+      "latitude": 51.842844,
+      "longitude": 5.856335,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 5,
+      "name": "ATD - Vierde Wereld",
+      "latitude": 52.076847,
+      "longitude": 4.283421,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 6,
+      "name": "Aachener Jugendring e.V.",
+      "latitude": 50.770516,
+      "longitude": 6.024943,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 7,
+      "name": "AeroDelft",
+      "latitude": 51.989847,
+      "longitude": 4.375468,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 8,
+      "name": "Afvalfonds Verpakkingen",
+      "latitude": 52.076538,
+      "longitude": 4.39507,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 9,
+      "name": "Amsterdams Chemisch Dispuut",
+      "latitude": 52.354562,
+      "longitude": 4.955203,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 10,
+      "name": "Amsterdamse Orde van Advocaten",
+      "latitude": 52.358991,
+      "longitude": 4.881089,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 11,
+      "name": "Arcade",
+      "latitude": 52.337816,
+      "longitude": 4.956206,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 12,
+      "name": "Azerbidjaanse Culturele Vereniging Nederland",
+      "latitude": 52.062949,
+      "longitude": 4.29361,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 13,
+      "name": "BC De Waterstraot",
+      "latitude": 51.541993,
+      "longitude": 4.288603,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 14,
+      "name": "Biblionet Groningen",
+      "latitude": 53.243088,
+      "longitude": 6.529058,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 15,
+      "name": "Bijen-paringsstation \"RKH Kreverhille\"",
+      "latitude": 51.388886,
+      "longitude": 3.974304,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 16,
+      "name": "Bionext",
+      "latitude": 52.028667,
+      "longitude": 5.674965,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 17,
+      "name": "Brandweervereniging De Koppeling",
+      "latitude": 52.205459,
+      "longitude": 5.128216,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 18,
+      "name": "C.T.S.G. Alembic",
+      "latitude": 52.238635,
+      "longitude": 6.857534,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 19,
+      "name": "CV 't Vagevuur",
+      "latitude": 51.542084,
+      "longitude": 4.288554,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 20,
+      "name": "Camping Geversduin",
+      "latitude": 52.530418,
+      "longitude": 4.648527,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 21,
+      "name": "Cazas Wonen",
+      "latitude": 52.081773,
+      "longitude": 4.890746,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 22,
+      "name": "Coöperatie GilzeEnRijenGlas U.A.",
+      "latitude": 51.531354,
+      "longitude": 5.014056,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 23,
+      "name": "DKO - Dienstplicht Koude Oorlog",
+      "latitude": 52.132737,
+      "longitude": 6.028777,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 24,
+      "name": "Dagbesteding KrommeNoord",
+      "latitude": 52.502256,
+      "longitude": 4.771503,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 25,
+      "name": "Dahliavereniging",
+      "latitude": 52.521904,
+      "longitude": 6.098871,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 26,
+      "name": "De Dree Marken",
+      "latitude": 52.316559,
+      "longitude": 6.986437,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 27,
+      "name": "De Groote Keijns",
+      "latitude": 52.810968,
+      "longitude": 4.785001,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 28,
+      "name": "De Spoorwegen Den Haag",
+      "latitude": 52.077801,
+      "longitude": 4.322026,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 29,
+      "name": "De huisartsenconnectie",
+      "latitude": 51.472578,
+      "longitude": 3.817168,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 30,
+      "name": "Delft Aerospace Rocket Engineering",
+      "latitude": 51.990704,
+      "longitude": 4.376688,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 31,
+      "name": "Dorpsraad Dirksland",
+      "latitude": 51.747418,
+      "longitude": 4.100881,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 32,
+      "name": "Drijehornick",
+      "latitude": 51.478567,
+      "longitude": 5.553004,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 33,
+      "name": "Dura Vermeer",
+      "latitude": 52.379204,
+      "longitude": 4.958747,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 34,
+      "name": "E.T.S.V. Scintilla",
+      "latitude": 52.239169,
+      "longitude": 6.856044,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 35,
+      "name": "Eerste Apeldoornse Volkstuindersvereniging",
+      "latitude": 52.182946,
+      "longitude": 5.997279,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 36,
+      "name": "European Hematology Association",
+      "latitude": 52.08689,
+      "longitude": 4.314097,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 37,
+      "name": "FNV Vakbondshuis",
+      "latitude": 52.229062,
+      "longitude": 5.179906,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 38,
+      "name": "Fietsersbond",
+      "latitude": 52.09324,
+      "longitude": 5.092123,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 39,
+      "name": "Franciscaanse Beweging Nederland",
+      "latitude": 51.689214,
+      "longitude": 5.297724,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 40,
+      "name": "Groninger Dorpen",
+      "latitude": 53.275334,
+      "longitude": 6.692291,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 41,
+      "name": "Groover Jazz",
+      "latitude": 52.008732,
+      "longitude": 4.361167,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 42,
+      "name": "H.S.C. INTAC Van Zwijndregt",
+      "latitude": 52.072905,
+      "longitude": 4.323022,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 43,
+      "name": "HV Schipluiden",
+      "latitude": 51.98072,
+      "longitude": 4.322924,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 44,
+      "name": "Halal Quality Control",
+      "latitude": 52.084908,
+      "longitude": 4.294407,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 45,
+      "name": "Harmonie Phileutonia",
+      "latitude": 51.475736,
+      "longitude": 5.651518,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 46,
+      "name": "Hart van Tiel",
+      "latitude": 51.886434,
+      "longitude": 5.438791,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 47,
+      "name": "Heemkundekring De Heerlijkheid Heeze-Leende-Zesgehuchten",
+      "latitude": 51.38298,
+      "longitude": 5.565702,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 48,
+      "name": "Heemkundekring De Vonder",
+      "latitude": 51.383801,
+      "longitude": 5.712769,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 49,
+      "name": "Heemkundekring Erthepe",
+      "latitude": 51.600474,
+      "longitude": 5.605668,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 50,
+      "name": "Heemkundekring Helmont",
+      "latitude": 51.480593,
+      "longitude": 5.667688,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 51,
+      "name": "Heemkundekring Myerle",
+      "latitude": 51.443209,
+      "longitude": 5.61599,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 52,
+      "name": "Het Noorden",
+      "latitude": 52.517709,
+      "longitude": 6.089967,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 53,
+      "name": "Historisch Genootschap",
+      "latitude": 52.161319,
+      "longitude": 6.398317,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 54,
+      "name": "Historische Vereniging Oud Veenendaal",
+      "latitude": 52.027372,
+      "longitude": 5.559507,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 55,
+      "name": "Historische Vereniging Oudheidkamer Rhenen en omstreken",
+      "latitude": 51.957535,
+      "longitude": 5.567759,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 56,
+      "name": "Historische Vereniging Schiedam",
+      "latitude": 51.915074,
+      "longitude": 4.398875,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 57,
+      "name": "Hoes veur 't Limburgs",
+      "latitude": 51.198724,
+      "longitude": 6.004239,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 58,
+      "name": "I.C.T.S.V Inter-Actief",
+      "latitude": 52.239097,
+      "longitude": 6.855987,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 59,
+      "name": "International Bar Association",
+      "latitude": 52.088034,
+      "longitude": 4.306721,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 60,
+      "name": "International Headquarters of the Theosophical Society Point Loma",
+      "latitude": 52.08544,
+      "longitude": 4.300071,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 61,
+      "name": "It Fryske Gea",
+      "latitude": 52.861362,
+      "longitude": 5.494992,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 62,
+      "name": "It Fryske Gea",
+      "latitude": 52.940634,
+      "longitude": 6.031458,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 63,
+      "name": "It Fryske Gea",
+      "latitude": 53.064767,
+      "longitude": 6.098516,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 64,
+      "name": "It Fryske Gea",
+      "latitude": 53.135409,
+      "longitude": 5.95171,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 65,
+      "name": "It Fryske Gea",
+      "latitude": 53.23272,
+      "longitude": 5.876805,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 66,
+      "name": "J.O.V.D.",
+      "latitude": 52.082269,
+      "longitude": 4.310736,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 67,
+      "name": "Jeugdhulp Friesland",
+      "latitude": 53.187149,
+      "longitude": 5.798264,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 68,
+      "name": "Jongerenvereniging 't Honk",
+      "latitude": 52.613414,
+      "longitude": 4.818941,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 69,
+      "name": "KNDB Koninklijke Nederlandse Drogisten Bond",
+      "latitude": 52.076495,
+      "longitude": 4.395073,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 70,
+      "name": "KNRM station Hoek van Holland",
+      "latitude": 51.97742,
+      "longitude": 4.126259,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 71,
+      "name": "Kalverenhouderij Bekkers",
+      "latitude": 51.52303,
+      "longitude": 4.992006,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 72,
+      "name": "Kantine TV 't Woud",
+      "latitude": 52.69396,
+      "longitude": 5.054252,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 73,
+      "name": "Kantoor Theater Utrecht",
+      "latitude": 52.095989,
+      "longitude": 5.136315,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 74,
+      "name": "Katholieke Bond van Ouderen Kring Beekland",
+      "latitude": 51.526722,
+      "longitude": 5.009453,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 75,
+      "name": "Kerkelijk Bureau Protestantse Kerk Gouda",
+      "latitude": 52.021079,
+      "longitude": 4.710751,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 76,
+      "name": "Koninklijk Instituut voor Ingenieurs",
+      "latitude": 52.084388,
+      "longitude": 4.316314,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 77,
+      "name": "Koninklijke Harmonie van Thorn",
+      "latitude": 51.161733,
+      "longitude": 5.842187,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 78,
+      "name": "Koninklijke Nederlandsche Roeibond",
+      "latitude": 52.329016,
+      "longitude": 4.850117,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 79,
+      "name": "Koninklijke Nederlandse Gymnastiek Unie",
+      "latitude": 52.14555,
+      "longitude": 6.004817,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 80,
+      "name": "Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie",
+      "latitude": 52.085564,
+      "longitude": 4.305948,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 81,
+      "name": "Koninklijke Nederlandse Schaatsbond",
+      "latitude": 52.123082,
+      "longitude": 5.086114,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 82,
+      "name": "Louise Bolk Instituut",
+      "latitude": 52.061997,
+      "longitude": 5.208844,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 83,
+      "name": "Lowrey Foley McClane (LFMC)",
+      "latitude": 52.38402,
+      "longitude": 4.905693,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 84,
+      "name": "MC De Kraats",
+      "latitude": 52.034253,
+      "longitude": 5.640601,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 85,
+      "name": "Meezingkoor Vrij & Blij",
+      "latitude": 51.51193,
+      "longitude": 5.008669,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 86,
+      "name": "NLnet",
+      "latitude": 52.356349,
+      "longitude": 4.955544,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 87,
+      "name": "NTjong",
+      "latitude": 52.088319,
+      "longitude": 4.308768,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 88,
+      "name": "Naturisten Camping Abtswoudse Hoeve (NAVAH)",
+      "latitude": 51.978968,
+      "longitude": 4.389483,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 89,
+      "name": "Naturistenvereniging Aamsveen (NON)",
+      "latitude": 52.180063,
+      "longitude": 6.939579,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 90,
+      "name": "Naturistenvereniging Chamavi",
+      "latitude": 52.319377,
+      "longitude": 5.302449,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 91,
+      "name": "Naturistenvereniging De Vrije Vogels",
+      "latitude": 52.704789,
+      "longitude": 5.06186,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 92,
+      "name": "Naturistenvereniging Ostana",
+      "latitude": 52.171447,
+      "longitude": 6.825405,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 93,
+      "name": "Natuurmonumenten",
+      "latitude": 52.15321,
+      "longitude": 5.376155,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 94,
+      "name": "Natuurvereniging Zuidwolde",
+      "latitude": 52.657111,
+      "longitude": 6.423914,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 95,
+      "name": "Natuurwetenschappelijke Studievereniging Amsterdam",
+      "latitude": 52.354499,
+      "longitude": 4.955104,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 96,
+      "name": "Navigators Studentenvereniging Enschede",
+      "latitude": 52.243207,
+      "longitude": 6.851593,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 97,
+      "name": "Navigators Studentenvereniging Utrecht",
+      "latitude": 52.094764,
+      "longitude": 5.122225,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 98,
+      "name": "Nederlands Agrarisch Jongeren Kontakt (NAJK)",
+      "latitude": 52.155949,
+      "longitude": 5.381015,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 99,
+      "name": "Nederlandse Rode Kruis Zaanstreek-Waterland",
+      "latitude": 52.503143,
+      "longitude": 4.961016,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 100,
+      "name": "Nederlandse Tafeltennisbond",
+      "latitude": 52.052705,
+      "longitude": 4.521115,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 101,
+      "name": "Nederlandse Vereniging voor Burgerzaken",
+      "latitude": 52.04871,
+      "longitude": 4.477281,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 102,
+      "name": "Nieuwspoort",
+      "latitude": 52.083077,
+      "longitude": 4.326407,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 103,
+      "name": "Notariskantoor Winsum - Aequo Notariaat Hunsingo",
+      "latitude": 53.329192,
+      "longitude": 6.516383,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 104,
+      "name": "Olympus Squash Arnhem",
+      "latitude": 51.962612,
+      "longitude": 5.904642,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 105,
+      "name": "Oranjevereniging",
+      "latitude": 52.189943,
+      "longitude": 5.609576,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 106,
+      "name": "Oud Zoeterwoude",
+      "latitude": 52.121005,
+      "longitude": 4.496858,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 107,
+      "name": "Puttens Mannenkoor",
+      "latitude": 52.248365,
+      "longitude": 5.593375,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 108,
+      "name": "RIBW Brabant",
+      "latitude": 51.582859,
+      "longitude": 5.111144,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 109,
+      "name": "Reddingsbrigade",
+      "latitude": 51.995332,
+      "longitude": 4.172734,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 110,
+      "name": "Reddingsbrigade Wassenaar",
+      "latitude": 52.163187,
+      "longitude": 4.348337,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 111,
+      "name": "Respectus huurdersvereniging",
+      "latitude": 52.081935,
+      "longitude": 4.364767,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 112,
+      "name": "Ripe NCC",
+      "latitude": 52.377762,
+      "longitude": 4.90211,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 113,
+      "name": "Rode Kruis",
+      "latitude": 51.930263,
+      "longitude": 6.068639,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 114,
+      "name": "Rode Kruis De Baronie",
+      "latitude": 51.598411,
+      "longitude": 4.752882,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 115,
+      "name": "Rode Kruis Renkum-Wageningen",
+      "latitude": 51.981051,
+      "longitude": 5.676512,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 116,
+      "name": "Ronald McDonaldhuis",
+      "latitude": 50.836447,
+      "longitude": 5.714611,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 117,
+      "name": "Rotterdams Ongedocumenteerden Steunpunt",
+      "latitude": 51.900191,
+      "longitude": 4.483022,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 118,
+      "name": "Rover",
+      "latitude": 52.152186,
+      "longitude": 5.387326,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 119,
+      "name": "S.A. Astatine",
+      "latitude": 52.23876,
+      "longitude": 6.857906,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 120,
+      "name": "S.A. Atlantis",
+      "latitude": 52.242455,
+      "longitude": 6.853917,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 121,
+      "name": "S.A. Proto",
+      "latitude": 52.239374,
+      "longitude": 6.85697,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 122,
+      "name": "S.V. Arago",
+      "latitude": 52.238487,
+      "longitude": 6.857645,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 123,
+      "name": "S.V. Versorium",
+      "latitude": 53.240938,
+      "longitude": 6.531854,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 124,
+      "name": "SCEZ",
+      "latitude": 51.498345,
+      "longitude": 3.605135,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 125,
+      "name": "Samen op de Heuvelrug -Sociale Dorpsteam",
+      "latitude": 52.010444,
+      "longitude": 5.424944,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 126,
+      "name": "Scouting Mierlo",
+      "latitude": 51.429378,
+      "longitude": 5.615401,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 127,
+      "name": "Scouting Polanen",
+      "latitude": 52.03317,
+      "longitude": 4.181363,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 128,
+      "name": "Societeit Confide",
+      "latitude": 52.006048,
+      "longitude": 4.360278,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 129,
+      "name": "Sociëteit de Dieu",
+      "latitude": 52.632362,
+      "longitude": 4.745119,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 130,
+      "name": "Staatsbosbeheer",
+      "latitude": 53.369322,
+      "longitude": 5.217598,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 131,
+      "name": "Staatsbosbeheer Beheerseenheid De Noordkop",
+      "latitude": 52.719725,
+      "longitude": 5.226792,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 132,
+      "name": "Stichting Alterse Carnaval",
+      "latitude": 51.542174,
+      "longitude": 4.288506,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 133,
+      "name": "Stichting Coburlular",
+      "latitude": 52.072386,
+      "longitude": 4.284486,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 134,
+      "name": "Stichting GIPS Spelen & Leren",
+      "latitude": 50.873728,
+      "longitude": 6.066994,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 135,
+      "name": "Stichting Huurdersraad Woningbedrijf Velsen",
+      "latitude": 52.45636,
+      "longitude": 4.603621,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 136,
+      "name": "Stichting Landjuweel",
+      "latitude": 52.410314,
+      "longitude": 4.749113,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 137,
+      "name": "Stichting MooiWonenInEnspijk",
+      "latitude": 51.883705,
+      "longitude": 5.215438,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 138,
+      "name": "Stichting Pakistan Arabic & Islamic Centre",
+      "latitude": 52.067173,
+      "longitude": 4.293171,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 139,
+      "name": "Stichting Post-X Society",
+      "latitude": 52.081358,
+      "longitude": 4.315272,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 140,
+      "name": "Stichting SUR Sunrise Foundation",
+      "latitude": 51.900937,
+      "longitude": 4.498371,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 141,
+      "name": "Stichting Woord en Daad",
+      "latitude": 51.842849,
+      "longitude": 4.952437,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 142,
+      "name": "Stichting Yozgatlilar 66",
+      "latitude": 52.065813,
+      "longitude": 4.295768,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 143,
+      "name": "Stichting de Parabool",
+      "latitude": 52.263922,
+      "longitude": 6.201602,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 144,
+      "name": "Stimenz",
+      "latitude": 52.206349,
+      "longitude": 5.949519,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 145,
+      "name": "Studievereniging Congo",
+      "latitude": 52.354056,
+      "longitude": 4.955375,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 146,
+      "name": "Studievereniging KIC",
+      "latitude": 53.240883,
+      "longitude": 6.531738,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 147,
+      "name": "Studievereniging SIM",
+      "latitude": 52.066791,
+      "longitude": 4.323464,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 148,
+      "name": "Studievereniging Scopus",
+      "latitude": 53.241189,
+      "longitude": 6.531668,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 149,
+      "name": "Studievereniging Spectrum",
+      "latitude": 52.354084,
+      "longitude": 4.955421,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 150,
+      "name": "Studievereniging VIA",
+      "latitude": 52.354962,
+      "longitude": 4.954474,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 151,
+      "name": "Study hall Wallstreet",
+      "latitude": 52.220054,
+      "longitude": 6.894161,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 152,
+      "name": "Tantiri Creatief",
+      "latitude": 52.002927,
+      "longitude": 4.343064,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 153,
+      "name": "Tennisvereniging De Gouwen",
+      "latitude": 52.343607,
+      "longitude": 5.208829,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 154,
+      "name": "Thalia",
+      "latitude": 51.825374,
+      "longitude": 5.868542,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 155,
+      "name": "Theatergroep Drang",
+      "latitude": 52.088271,
+      "longitude": 4.30821,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 156,
+      "name": "Unie Van Vrijwilligers",
+      "latitude": 51.920192,
+      "longitude": 4.511567,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 157,
+      "name": "United Building And Structural Engineering (U-BASE)",
+      "latitude": 51.998565,
+      "longitude": 4.376211,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 158,
+      "name": "V.O.K.A.",
+      "latitude": 52.289949,
+      "longitude": 4.834511,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 159,
+      "name": "V.V. ETS / HILALSPOR",
+      "latitude": 51.454736,
+      "longitude": 5.493423,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 160,
+      "name": "VH De Boog",
+      "latitude": 52.648963,
+      "longitude": 5.053154,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 161,
+      "name": "VNO-NCW Noord",
+      "latitude": 53.197395,
+      "longitude": 6.546948,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 162,
+      "name": "VPKT Verpakkingsketen",
+      "latitude": 52.076538,
+      "longitude": 4.395113,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 163,
+      "name": "Vereniging Centraal Wonen Het Hallehuis",
+      "latitude": 52.175531,
+      "longitude": 5.397048,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 164,
+      "name": "Vereniging Hogescholen",
+      "latitude": 52.084127,
+      "longitude": 4.316573,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 165,
+      "name": "Vereniging Kalecik Köyü",
+      "latitude": 52.067413,
+      "longitude": 4.293351,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 166,
+      "name": "Vereniging Onbeperkt Lezen",
+      "latitude": 52.084748,
+      "longitude": 4.282997,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 167,
+      "name": "Vestide",
+      "latitude": 51.436258,
+      "longitude": 5.478098,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 168,
+      "name": "Voar",
+      "latitude": 52.096841,
+      "longitude": 5.115879,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 169,
+      "name": "Volkstuindersvereniging Etten-Leur",
+      "latitude": 51.554532,
+      "longitude": 4.634943,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 170,
+      "name": "Voor Anker",
+      "latitude": 51.81458,
+      "longitude": 5.816454,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 171,
+      "name": "Vrijmetselarij Loge W.A. Mozart",
+      "latitude": 52.22807,
+      "longitude": 5.170419,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 172,
+      "name": "VvAA",
+      "latitude": 51.841837,
+      "longitude": 5.85791,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 173,
+      "name": "W.S.G. Abacus",
+      "latitude": 52.239187,
+      "longitude": 6.856255,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 174,
+      "name": "W.S.G. Isaac Newton",
+      "latitude": 52.237504,
+      "longitude": 6.860649,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 175,
+      "name": "WAT-pand",
+      "latitude": 52.028903,
+      "longitude": 5.675033,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 176,
+      "name": "WSKOV Klankrijk",
+      "latitude": 51.967477,
+      "longitude": 5.676169,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 177,
+      "name": "WSV Wijnhaven",
+      "latitude": 51.818857,
+      "longitude": 4.671725,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 178,
+      "name": "WWF",
+      "latitude": 52.07417,
+      "longitude": 5.246578,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 179,
+      "name": "Watersportvereniging \"De Broekerhaven\"",
+      "latitude": 52.686922,
+      "longitude": 5.254473,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 180,
+      "name": "Watersportvereniging De Amer",
+      "latitude": 51.709146,
+      "longitude": 4.818138,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 181,
+      "name": "Watersportvereniging De Eendracht",
+      "latitude": 52.256122,
+      "longitude": 5.382208,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 182,
+      "name": "Werkgroep Vrijwillig Landschapsbeheer",
+      "latitude": 52.944741,
+      "longitude": 4.749054,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 183,
+      "name": "Werkschuur Staatsbosbeheer",
+      "latitude": 53.396552,
+      "longitude": 5.326296,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 184,
+      "name": "Wolbodo",
+      "latitude": 52.014827,
+      "longitude": 4.357402,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 185,
+      "name": "Woonbedrijf",
+      "latitude": 51.436287,
+      "longitude": 5.478059,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 186,
+      "name": "netShelter",
+      "latitude": 51.911657,
+      "longitude": 4.23376,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 187,
+      "name": "v.v. Terlo",
+      "latitude": 51.309017,
+      "longitude": 5.331943,
+      "osm_klasse": "office=association"
+    },
+    {
+      "id": 188,
+      "name": "wijdezorg",
+      "latitude": 52.119261,
+      "longitude": 4.495028,
+      "osm_klasse": "office=association"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: association (office=association) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=association in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 188 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: association (office=association) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: association (office=association) — 188 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 188 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

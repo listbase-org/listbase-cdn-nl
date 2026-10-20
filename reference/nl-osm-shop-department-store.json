@@ -1,0 +1,4384 @@
+{
+  "id": "nl-osm-shop-department-store",
+  "name": "Netherlands OSM: department store (shop=department_store)",
+  "title": "Netherlands OSM: department store (shop=department_store)",
+  "description": "Named OpenStreetMap features tagged shop=department_store in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 619,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Berden",
+      "latitude": 50.887755,
+      "longitude": 5.976624,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 2,
+      "name": "Boerhof",
+      "latitude": 52.833484,
+      "longitude": 6.362112,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 3,
+      "name": "Bomont",
+      "latitude": 51.56801,
+      "longitude": 4.63726,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 4,
+      "name": "CIV Texel",
+      "latitude": 53.040944,
+      "longitude": 4.851523,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 5,
+      "name": "De Bijenkorf",
+      "latitude": 50.849233,
+      "longitude": 5.692334,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 6,
+      "name": "De Bijenkorf",
+      "latitude": 51.441599,
+      "longitude": 5.477097,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 7,
+      "name": "De Bijenkorf",
+      "latitude": 51.920249,
+      "longitude": 4.478871,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 8,
+      "name": "De Bijenkorf",
+      "latitude": 52.076501,
+      "longitude": 4.312441,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 9,
+      "name": "De Bijenkorf",
+      "latitude": 52.093291,
+      "longitude": 5.11489,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 10,
+      "name": "De Bijenkorf",
+      "latitude": 52.30336,
+      "longitude": 4.859187,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 11,
+      "name": "De Bijenkorf",
+      "latitude": 52.373349,
+      "longitude": 4.893942,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 12,
+      "name": "De Jong",
+      "latitude": 52.968026,
+      "longitude": 5.606199,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 13,
+      "name": "Elbertsen Warenhuis",
+      "latitude": 52.113612,
+      "longitude": 5.718995,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 14,
+      "name": "Elliz in company",
+      "latitude": 51.814513,
+      "longitude": 5.247312,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 15,
+      "name": "Fashion & Travel",
+      "latitude": 52.307424,
+      "longitude": 4.765042,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 16,
+      "name": "HEMA",
+      "latitude": 50.772007,
+      "longitude": 6.022083,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 17,
+      "name": "HEMA",
+      "latitude": 50.815468,
+      "longitude": 5.893409,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 18,
+      "name": "HEMA",
+      "latitude": 50.842845,
+      "longitude": 5.728431,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 19,
+      "name": "HEMA",
+      "latitude": 50.849968,
+      "longitude": 5.69189,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 20,
+      "name": "HEMA",
+      "latitude": 50.850019,
+      "longitude": 5.705518,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 21,
+      "name": "HEMA",
+      "latitude": 50.850964,
+      "longitude": 5.665792,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 22,
+      "name": "HEMA",
+      "latitude": 50.865075,
+      "longitude": 5.834026,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 23,
+      "name": "HEMA",
+      "latitude": 50.865917,
+      "longitude": 6.063321,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 24,
+      "name": "HEMA",
+      "latitude": 50.884872,
+      "longitude": 5.753707,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 25,
+      "name": "HEMA",
+      "latitude": 50.885698,
+      "longitude": 5.970556,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 26,
+      "name": "HEMA",
+      "latitude": 50.888884,
+      "longitude": 5.97681,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 27,
+      "name": "HEMA",
+      "latitude": 50.90587,
+      "longitude": 6.023232,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 28,
+      "name": "HEMA",
+      "latitude": 50.925044,
+      "longitude": 5.926303,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 29,
+      "name": "HEMA",
+      "latitude": 50.946307,
+      "longitude": 5.97188,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 30,
+      "name": "HEMA",
+      "latitude": 50.94885,
+      "longitude": 5.79513,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 31,
+      "name": "HEMA",
+      "latitude": 50.968587,
+      "longitude": 5.766028,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 32,
+      "name": "HEMA",
+      "latitude": 50.970487,
+      "longitude": 5.829064,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 33,
+      "name": "HEMA",
+      "latitude": 50.99729,
+      "longitude": 5.87026,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 34,
+      "name": "HEMA",
+      "latitude": 51.032144,
+      "longitude": 5.809313,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 35,
+      "name": "HEMA",
+      "latitude": 51.104003,
+      "longitude": 5.86688,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 36,
+      "name": "HEMA",
+      "latitude": 51.14719,
+      "longitude": 5.89232,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 37,
+      "name": "HEMA",
+      "latitude": 51.192488,
+      "longitude": 5.989348,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 38,
+      "name": "HEMA",
+      "latitude": 51.250391,
+      "longitude": 5.897229,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 39,
+      "name": "HEMA",
+      "latitude": 51.252592,
+      "longitude": 5.705088,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 40,
+      "name": "HEMA",
+      "latitude": 51.2742,
+      "longitude": 5.573726,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 41,
+      "name": "HEMA",
+      "latitude": 51.279104,
+      "longitude": 4.051729,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 42,
+      "name": "HEMA",
+      "latitude": 51.284314,
+      "longitude": 6.078792,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 43,
+      "name": "HEMA",
+      "latitude": 51.284874,
+      "longitude": 5.748675,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 44,
+      "name": "HEMA",
+      "latitude": 51.306969,
+      "longitude": 3.388035,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 45,
+      "name": "HEMA",
+      "latitude": 51.321953,
+      "longitude": 5.359124,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 46,
+      "name": "HEMA",
+      "latitude": 51.325781,
+      "longitude": 3.485726,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 47,
+      "name": "HEMA",
+      "latitude": 51.329022,
+      "longitude": 5.981749,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 48,
+      "name": "HEMA",
+      "latitude": 51.337575,
+      "longitude": 3.828754,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 49,
+      "name": "HEMA",
+      "latitude": 51.341028,
+      "longitude": 6.140164,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 50,
+      "name": "HEMA",
+      "latitude": 51.351893,
+      "longitude": 5.459621,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 51,
+      "name": "HEMA",
+      "latitude": 51.360885,
+      "longitude": 5.309663,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 52,
+      "name": "HEMA",
+      "latitude": 51.361923,
+      "longitude": 5.160788,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 53,
+      "name": "HEMA",
+      "latitude": 51.367334,
+      "longitude": 6.150372,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 54,
+      "name": "HEMA",
+      "latitude": 51.367624,
+      "longitude": 5.219121,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 55,
+      "name": "HEMA",
+      "latitude": 51.368845,
+      "longitude": 6.168365,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 56,
+      "name": "HEMA",
+      "latitude": 51.380462,
+      "longitude": 5.578707,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 57,
+      "name": "HEMA",
+      "latitude": 51.384179,
+      "longitude": 6.181304,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 58,
+      "name": "HEMA",
+      "latitude": 51.384763,
+      "longitude": 5.711524,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 59,
+      "name": "HEMA",
+      "latitude": 51.4039,
+      "longitude": 5.746642,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 60,
+      "name": "HEMA",
+      "latitude": 51.418775,
+      "longitude": 5.440007,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 61,
+      "name": "HEMA",
+      "latitude": 51.420036,
+      "longitude": 5.406942,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 62,
+      "name": "HEMA",
+      "latitude": 51.421255,
+      "longitude": 5.560297,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 63,
+      "name": "HEMA",
+      "latitude": 51.425686,
+      "longitude": 4.322301,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 64,
+      "name": "HEMA",
+      "latitude": 51.441122,
+      "longitude": 5.477706,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 65,
+      "name": "HEMA",
+      "latitude": 51.441277,
+      "longitude": 5.502352,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 66,
+      "name": "HEMA",
+      "latitude": 51.44186,
+      "longitude": 5.456001,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 67,
+      "name": "HEMA",
+      "latitude": 51.442433,
+      "longitude": 5.409713,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 68,
+      "name": "HEMA",
+      "latitude": 51.443044,
+      "longitude": 5.618542,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 69,
+      "name": "HEMA",
+      "latitude": 51.443314,
+      "longitude": 3.573126,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 70,
+      "name": "HEMA",
+      "latitude": 51.444059,
+      "longitude": 4.932656,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 71,
+      "name": "HEMA",
+      "latitude": 51.451184,
+      "longitude": 5.471163,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 72,
+      "name": "HEMA",
+      "latitude": 51.452701,
+      "longitude": 6.053123,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 73,
+      "name": "HEMA",
+      "latitude": 51.460173,
+      "longitude": 5.610806,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 74,
+      "name": "HEMA",
+      "latitude": 51.461813,
+      "longitude": 5.796125,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 75,
+      "name": "HEMA",
+      "latitude": 51.469602,
+      "longitude": 5.475358,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 76,
+      "name": "HEMA",
+      "latitude": 51.471146,
+      "longitude": 4.661169,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 77,
+      "name": "HEMA",
+      "latitude": 51.47419,
+      "longitude": 5.546636,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 78,
+      "name": "HEMA",
+      "latitude": 51.478888,
+      "longitude": 5.654479,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 79,
+      "name": "HEMA",
+      "latitude": 51.484213,
+      "longitude": 5.137045,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 80,
+      "name": "HEMA",
+      "latitude": 51.485201,
+      "longitude": 3.959638,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 81,
+      "name": "HEMA",
+      "latitude": 51.493878,
+      "longitude": 4.290689,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 82,
+      "name": "HEMA",
+      "latitude": 51.498356,
+      "longitude": 3.614172,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 83,
+      "name": "HEMA",
+      "latitude": 51.50248,
+      "longitude": 3.89111,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 84,
+      "name": "HEMA",
+      "latitude": 51.503371,
+      "longitude": 5.310937,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 85,
+      "name": "HEMA",
+      "latitude": 51.510812,
+      "longitude": 5.491674,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 86,
+      "name": "HEMA",
+      "latitude": 51.512237,
+      "longitude": 5.393631,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 87,
+      "name": "HEMA",
+      "latitude": 51.520308,
+      "longitude": 5.068254,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 88,
+      "name": "HEMA",
+      "latitude": 51.525829,
+      "longitude": 5.975548,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 89,
+      "name": "HEMA",
+      "latitude": 51.526955,
+      "longitude": 4.268513,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 90,
+      "name": "HEMA",
+      "latitude": 51.530955,
+      "longitude": 4.45447,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 91,
+      "name": "HEMA",
+      "latitude": 51.538271,
+      "longitude": 5.62807,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 92,
+      "name": "HEMA",
+      "latitude": 51.556677,
+      "longitude": 5.088209,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 93,
+      "name": "HEMA",
+      "latitude": 51.557328,
+      "longitude": 5.682373,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 94,
+      "name": "HEMA",
+      "latitude": 51.562672,
+      "longitude": 5.460468,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 95,
+      "name": "HEMA",
+      "latitude": 51.568273,
+      "longitude": 4.636099,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 96,
+      "name": "HEMA",
+      "latitude": 51.569401,
+      "longitude": 5.054543,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 97,
+      "name": "HEMA",
+      "latitude": 51.569895,
+      "longitude": 4.792672,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 98,
+      "name": "HEMA",
+      "latitude": 51.577388,
+      "longitude": 4.738812,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 99,
+      "name": "HEMA",
+      "latitude": 51.577667,
+      "longitude": 5.004887,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 100,
+      "name": "HEMA",
+      "latitude": 51.580762,
+      "longitude": 5.194806,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 101,
+      "name": "HEMA",
+      "latitude": 51.584578,
+      "longitude": 5.086837,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 102,
+      "name": "HEMA",
+      "latitude": 51.585098,
+      "longitude": 4.77658,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 103,
+      "name": "HEMA",
+      "latitude": 51.586376,
+      "longitude": 5.135824,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 104,
+      "name": "HEMA",
+      "latitude": 51.586426,
+      "longitude": 4.319367,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 105,
+      "name": "HEMA",
+      "latitude": 51.588013,
+      "longitude": 5.3254,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 106,
+      "name": "HEMA",
+      "latitude": 51.588738,
+      "longitude": 4.919221,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 107,
+      "name": "HEMA",
+      "latitude": 51.591454,
+      "longitude": 4.52512,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 108,
+      "name": "HEMA",
+      "latitude": 51.599798,
+      "longitude": 4.720149,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 109,
+      "name": "HEMA",
+      "latitude": 51.602597,
+      "longitude": 5.673987,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 110,
+      "name": "HEMA",
+      "latitude": 51.603867,
+      "longitude": 6.049869,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 111,
+      "name": "HEMA",
+      "latitude": 51.608327,
+      "longitude": 4.790572,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 112,
+      "name": "HEMA",
+      "latitude": 51.616532,
+      "longitude": 5.54555,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 113,
+      "name": "HEMA",
+      "latitude": 51.618406,
+      "longitude": 5.434515,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 114,
+      "name": "HEMA",
+      "latitude": 51.6228,
+      "longitude": 4.74425,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 115,
+      "name": "HEMA",
+      "latitude": 51.626118,
+      "longitude": 4.943894,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 116,
+      "name": "HEMA",
+      "latitude": 51.638697,
+      "longitude": 5.349665,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 117,
+      "name": "HEMA",
+      "latitude": 51.643509,
+      "longitude": 4.854405,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 118,
+      "name": "HEMA",
+      "latitude": 51.643802,
+      "longitude": 4.602838,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 119,
+      "name": "HEMA",
+      "latitude": 51.647601,
+      "longitude": 5.950071,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 120,
+      "name": "HEMA",
+      "latitude": 51.649813,
+      "longitude": 3.919696,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 121,
+      "name": "HEMA",
+      "latitude": 51.657596,
+      "longitude": 5.614085,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 122,
+      "name": "HEMA",
+      "latitude": 51.657821,
+      "longitude": 5.299189,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 123,
+      "name": "HEMA",
+      "latitude": 51.661805,
+      "longitude": 5.036012,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 124,
+      "name": "HEMA",
+      "latitude": 51.67892,
+      "longitude": 4.792673,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 125,
+      "name": "HEMA",
+      "latitude": 51.679376,
+      "longitude": 5.397541,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 126,
+      "name": "HEMA",
+      "latitude": 51.685533,
+      "longitude": 5.783085,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 127,
+      "name": "HEMA",
+      "latitude": 51.686512,
+      "longitude": 5.133569,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 128,
+      "name": "HEMA",
+      "latitude": 51.689442,
+      "longitude": 5.065988,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 129,
+      "name": "HEMA",
+      "latitude": 51.689566,
+      "longitude": 5.302314,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 130,
+      "name": "HEMA",
+      "latitude": 51.690265,
+      "longitude": 5.294591,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 131,
+      "name": "HEMA",
+      "latitude": 51.69482,
+      "longitude": 4.87371,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 132,
+      "name": "HEMA",
+      "latitude": 51.696004,
+      "longitude": 5.219351,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 133,
+      "name": "HEMA",
+      "latitude": 51.696202,
+      "longitude": 5.267723,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 134,
+      "name": "HEMA",
+      "latitude": 51.699477,
+      "longitude": 5.971264,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 135,
+      "name": "HEMA",
+      "latitude": 51.716287,
+      "longitude": 5.362168,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 136,
+      "name": "HEMA",
+      "latitude": 51.726192,
+      "longitude": 5.308127,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 137,
+      "name": "HEMA",
+      "latitude": 51.728129,
+      "longitude": 4.438128,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 138,
+      "name": "HEMA",
+      "latitude": 51.729524,
+      "longitude": 5.880505,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 139,
+      "name": "HEMA",
+      "latitude": 51.734685,
+      "longitude": 5.526315,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 140,
+      "name": "HEMA",
+      "latitude": 51.744988,
+      "longitude": 5.632736,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 141,
+      "name": "HEMA",
+      "latitude": 51.753641,
+      "longitude": 5.512465,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 142,
+      "name": "HEMA",
+      "latitude": 51.755532,
+      "longitude": 5.13011,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 143,
+      "name": "HEMA",
+      "latitude": 51.759739,
+      "longitude": 5.739897,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 144,
+      "name": "HEMA",
+      "latitude": 51.760493,
+      "longitude": 4.157023,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 145,
+      "name": "HEMA",
+      "latitude": 51.768061,
+      "longitude": 5.522869,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 146,
+      "name": "HEMA",
+      "latitude": 51.77296,
+      "longitude": 5.340335,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 147,
+      "name": "HEMA",
+      "latitude": 51.778417,
+      "longitude": 5.933708,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 148,
+      "name": "HEMA",
+      "latitude": 51.780839,
+      "longitude": 5.853639,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 149,
+      "name": "HEMA",
+      "latitude": 51.785956,
+      "longitude": 4.676882,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 150,
+      "name": "HEMA",
+      "latitude": 51.803245,
+      "longitude": 4.715879,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 151,
+      "name": "HEMA",
+      "latitude": 51.806546,
+      "longitude": 4.568982,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 152,
+      "name": "HEMA",
+      "latitude": 51.807707,
+      "longitude": 5.725174,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 153,
+      "name": "HEMA",
+      "latitude": 51.808802,
+      "longitude": 3.933964,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 154,
+      "name": "HEMA",
+      "latitude": 51.812769,
+      "longitude": 4.667191,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 155,
+      "name": "HEMA",
+      "latitude": 51.813179,
+      "longitude": 5.2481,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 156,
+      "name": "HEMA",
+      "latitude": 51.813739,
+      "longitude": 4.891875,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 157,
+      "name": "HEMA",
+      "latitude": 51.819981,
+      "longitude": 4.774835,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 158,
+      "name": "HEMA",
+      "latitude": 51.821328,
+      "longitude": 5.851612,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 159,
+      "name": "HEMA",
+      "latitude": 51.823435,
+      "longitude": 5.796015,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 160,
+      "name": "HEMA",
+      "latitude": 51.823702,
+      "longitude": 4.651256,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 161,
+      "name": "HEMA",
+      "latitude": 51.825131,
+      "longitude": 4.412203,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 162,
+      "name": "HEMA",
+      "latitude": 51.825822,
+      "longitude": 4.684705,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 163,
+      "name": "HEMA",
+      "latitude": 51.827582,
+      "longitude": 4.833534,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 164,
+      "name": "HEMA",
+      "latitude": 51.8304,
+      "longitude": 4.974739,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 165,
+      "name": "HEMA",
+      "latitude": 51.83064,
+      "longitude": 4.145416,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 166,
+      "name": "HEMA",
+      "latitude": 51.833299,
+      "longitude": 4.320437,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 167,
+      "name": "HEMA",
+      "latitude": 51.837314,
+      "longitude": 5.007343,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 168,
+      "name": "HEMA",
+      "latitude": 51.847247,
+      "longitude": 5.863685,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 169,
+      "name": "HEMA",
+      "latitude": 51.847671,
+      "longitude": 4.499581,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 170,
+      "name": "HEMA",
+      "latitude": 51.848298,
+      "longitude": 4.329295,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 171,
+      "name": "HEMA",
+      "latitude": 51.848673,
+      "longitude": 4.64381,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 172,
+      "name": "HEMA",
+      "latitude": 51.853888,
+      "longitude": 4.541056,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 173,
+      "name": "HEMA",
+      "latitude": 51.856499,
+      "longitude": 4.420204,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 174,
+      "name": "HEMA",
+      "latitude": 51.860845,
+      "longitude": 5.772004,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 175,
+      "name": "HEMA",
+      "latitude": 51.862482,
+      "longitude": 4.657248,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 176,
+      "name": "HEMA",
+      "latitude": 51.863117,
+      "longitude": 6.488032,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 177,
+      "name": "HEMA",
+      "latitude": 51.86435,
+      "longitude": 5.852997,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 178,
+      "name": "HEMA",
+      "latitude": 51.86993,
+      "longitude": 4.600917,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 179,
+      "name": "HEMA",
+      "latitude": 51.874428,
+      "longitude": 4.068881,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 180,
+      "name": "HEMA",
+      "latitude": 51.87607,
+      "longitude": 6.246907,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 181,
+      "name": "HEMA",
+      "latitude": 51.881864,
+      "longitude": 5.514953,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 182,
+      "name": "HEMA",
+      "latitude": 51.882892,
+      "longitude": 5.290995,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 183,
+      "name": "HEMA",
+      "latitude": 51.886928,
+      "longitude": 4.490929,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 184,
+      "name": "HEMA",
+      "latitude": 51.887458,
+      "longitude": 5.437639,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 185,
+      "name": "HEMA",
+      "latitude": 51.890426,
+      "longitude": 5.091807,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 186,
+      "name": "HEMA",
+      "latitude": 51.890955,
+      "longitude": 5.610832,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 187,
+      "name": "HEMA",
+      "latitude": 51.891044,
+      "longitude": 6.381553,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 188,
+      "name": "HEMA",
+      "latitude": 51.892333,
+      "longitude": 5.898531,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 189,
+      "name": "HEMA",
+      "latitude": 51.900832,
+      "longitude": 4.164658,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 190,
+      "name": "HEMA",
+      "latitude": 51.903913,
+      "longitude": 4.50421,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 191,
+      "name": "HEMA",
+      "latitude": 51.905201,
+      "longitude": 4.248981,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 192,
+      "name": "HEMA",
+      "latitude": 51.910109,
+      "longitude": 4.339973,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 193,
+      "name": "HEMA",
+      "latitude": 51.914017,
+      "longitude": 4.100496,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 194,
+      "name": "HEMA",
+      "latitude": 51.914971,
+      "longitude": 4.589083,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 195,
+      "name": "HEMA",
+      "latitude": 51.915708,
+      "longitude": 4.400553,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 196,
+      "name": "HEMA",
+      "latitude": 51.916862,
+      "longitude": 4.446343,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 197,
+      "name": "HEMA",
+      "latitude": 51.918709,
+      "longitude": 5.847217,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 198,
+      "name": "HEMA",
+      "latitude": 51.920079,
+      "longitude": 4.481838,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 199,
+      "name": "HEMA",
+      "latitude": 51.924406,
+      "longitude": 4.46926,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 200,
+      "name": "HEMA",
+      "latitude": 51.924863,
+      "longitude": 4.509304,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 201,
+      "name": "HEMA",
+      "latitude": 51.927402,
+      "longitude": 4.239719,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 202,
+      "name": "HEMA",
+      "latitude": 51.927574,
+      "longitude": 6.582994,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 203,
+      "name": "HEMA",
+      "latitude": 51.92823,
+      "longitude": 6.077741,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 204,
+      "name": "HEMA",
+      "latitude": 51.92874,
+      "longitude": 4.547093,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 205,
+      "name": "HEMA",
+      "latitude": 51.929076,
+      "longitude": 5.713144,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 206,
+      "name": "HEMA",
+      "latitude": 51.929393,
+      "longitude": 4.590034,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 207,
+      "name": "HEMA",
+      "latitude": 51.931175,
+      "longitude": 4.346392,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 208,
+      "name": "HEMA",
+      "latitude": 51.934245,
+      "longitude": 4.428678,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 209,
+      "name": "HEMA",
+      "latitude": 51.936371,
+      "longitude": 6.130332,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 210,
+      "name": "HEMA",
+      "latitude": 51.937137,
+      "longitude": 5.943986,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 211,
+      "name": "HEMA",
+      "latitude": 51.941725,
+      "longitude": 4.548576,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 212,
+      "name": "HEMA",
+      "latitude": 51.943264,
+      "longitude": 6.462207,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 213,
+      "name": "HEMA",
+      "latitude": 51.943862,
+      "longitude": 5.518051,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 214,
+      "name": "HEMA",
+      "latitude": 51.94525,
+      "longitude": 4.851553,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 215,
+      "name": "HEMA",
+      "latitude": 51.948174,
+      "longitude": 6.023035,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 216,
+      "name": "HEMA",
+      "latitude": 51.948892,
+      "longitude": 4.554878,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 217,
+      "name": "HEMA",
+      "latitude": 51.953903,
+      "longitude": 5.847918,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 218,
+      "name": "HEMA",
+      "latitude": 51.957832,
+      "longitude": 4.495605,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 219,
+      "name": "HEMA",
+      "latitude": 51.958013,
+      "longitude": 5.566045,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 220,
+      "name": "HEMA",
+      "latitude": 51.958278,
+      "longitude": 5.224906,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 221,
+      "name": "HEMA",
+      "latitude": 51.958473,
+      "longitude": 5.897813,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 222,
+      "name": "HEMA",
+      "latitude": 51.960328,
+      "longitude": 4.533365,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 223,
+      "name": "HEMA",
+      "latitude": 51.960538,
+      "longitude": 4.469585,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 224,
+      "name": "HEMA",
+      "latitude": 51.961934,
+      "longitude": 5.967089,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 225,
+      "name": "HEMA",
+      "latitude": 51.962862,
+      "longitude": 5.967051,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 226,
+      "name": "HEMA",
+      "latitude": 51.964954,
+      "longitude": 6.289969,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 227,
+      "name": "HEMA",
+      "latitude": 51.966392,
+      "longitude": 5.663431,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 228,
+      "name": "HEMA",
+      "latitude": 51.968021,
+      "longitude": 4.618709,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 229,
+      "name": "HEMA",
+      "latitude": 51.971015,
+      "longitude": 6.718275,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 230,
+      "name": "HEMA",
+      "latitude": 51.971942,
+      "longitude": 5.728865,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 231,
+      "name": "HEMA",
+      "latitude": 51.973193,
+      "longitude": 5.346497,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 232,
+      "name": "HEMA",
+      "latitude": 51.974859,
+      "longitude": 4.249968,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 233,
+      "name": "HEMA",
+      "latitude": 51.97835,
+      "longitude": 4.130172,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 234,
+      "name": "HEMA",
+      "latitude": 51.981055,
+      "longitude": 4.581977,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 235,
+      "name": "HEMA",
+      "latitude": 51.981728,
+      "longitude": 5.910847,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 236,
+      "name": "HEMA",
+      "latitude": 51.983431,
+      "longitude": 5.951405,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 237,
+      "name": "HEMA",
+      "latitude": 51.987117,
+      "longitude": 5.843318,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 238,
+      "name": "HEMA",
+      "latitude": 51.987496,
+      "longitude": 6.5681,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 239,
+      "name": "HEMA",
+      "latitude": 51.993655,
+      "longitude": 4.20643,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 240,
+      "name": "HEMA",
+      "latitude": 51.994348,
+      "longitude": 4.475212,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 241,
+      "name": "HEMA",
+      "latitude": 51.994604,
+      "longitude": 5.092477,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 242,
+      "name": "HEMA",
+      "latitude": 51.995534,
+      "longitude": 5.974059,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 243,
+      "name": "HEMA",
+      "latitude": 51.99763,
+      "longitude": 4.351999,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 244,
+      "name": "HEMA",
+      "latitude": 51.998814,
+      "longitude": 5.675159,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 245,
+      "name": "HEMA",
+      "latitude": 52.002951,
+      "longitude": 4.160961,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 246,
+      "name": "HEMA",
+      "latitude": 52.006919,
+      "longitude": 6.348374,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 247,
+      "name": "HEMA",
+      "latitude": 52.010267,
+      "longitude": 4.362373,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 248,
+      "name": "HEMA",
+      "latitude": 52.0106,
+      "longitude": 5.432079,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 249,
+      "name": "HEMA",
+      "latitude": 52.01355,
+      "longitude": 4.709949,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 250,
+      "name": "HEMA",
+      "latitude": 52.014223,
+      "longitude": 6.135055,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 251,
+      "name": "HEMA",
+      "latitude": 52.017468,
+      "longitude": 5.177665,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 252,
+      "name": "HEMA",
+      "latitude": 52.01811,
+      "longitude": 5.649075,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 253,
+      "name": "HEMA",
+      "latitude": 52.01881,
+      "longitude": 4.431059,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 254,
+      "name": "HEMA",
+      "latitude": 52.020146,
+      "longitude": 5.044715,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 255,
+      "name": "HEMA",
+      "latitude": 52.022401,
+      "longitude": 4.172134,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 256,
+      "name": "HEMA",
+      "latitude": 52.023306,
+      "longitude": 4.871562,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 257,
+      "name": "HEMA",
+      "latitude": 52.024363,
+      "longitude": 4.275481,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 258,
+      "name": "HEMA",
+      "latitude": 52.026631,
+      "longitude": 5.555715,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 259,
+      "name": "HEMA",
+      "latitude": 52.028947,
+      "longitude": 5.532479,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 260,
+      "name": "HEMA",
+      "latitude": 52.029076,
+      "longitude": 5.082289,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 261,
+      "name": "HEMA",
+      "latitude": 52.032603,
+      "longitude": 4.704395,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 262,
+      "name": "HEMA",
+      "latitude": 52.033794,
+      "longitude": 5.169457,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 263,
+      "name": "HEMA",
+      "latitude": 52.03422,
+      "longitude": 5.346007,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 264,
+      "name": "HEMA",
+      "latitude": 52.037141,
+      "longitude": 4.315387,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 265,
+      "name": "HEMA",
+      "latitude": 52.041506,
+      "longitude": 4.369802,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 266,
+      "name": "HEMA",
+      "latitude": 52.041661,
+      "longitude": 4.650849,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 267,
+      "name": "HEMA",
+      "latitude": 52.042954,
+      "longitude": 4.477543,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 268,
+      "name": "HEMA",
+      "latitude": 52.044427,
+      "longitude": 4.391516,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 269,
+      "name": "HEMA",
+      "latitude": 52.045294,
+      "longitude": 5.670662,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 270,
+      "name": "HEMA",
+      "latitude": 52.04657,
+      "longitude": 4.949933,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 271,
+      "name": "HEMA",
+      "latitude": 52.047131,
+      "longitude": 4.277411,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 272,
+      "name": "HEMA",
+      "latitude": 52.050963,
+      "longitude": 6.101593,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 273,
+      "name": "HEMA",
+      "latitude": 52.052503,
+      "longitude": 5.28445,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 274,
+      "name": "HEMA",
+      "latitude": 52.052551,
+      "longitude": 6.308329,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 275,
+      "name": "HEMA",
+      "latitude": 52.053873,
+      "longitude": 4.236557,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 276,
+      "name": "HEMA",
+      "latitude": 52.056509,
+      "longitude": 4.336529,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 277,
+      "name": "HEMA",
+      "latitude": 52.059812,
+      "longitude": 4.540251,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 278,
+      "name": "HEMA",
+      "latitude": 52.061,
+      "longitude": 4.48948,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 279,
+      "name": "HEMA",
+      "latitude": 52.064929,
+      "longitude": 4.401655,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 280,
+      "name": "HEMA",
+      "latitude": 52.066329,
+      "longitude": 4.282801,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 281,
+      "name": "HEMA",
+      "latitude": 52.066654,
+      "longitude": 4.245437,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 282,
+      "name": "HEMA",
+      "latitude": 52.068082,
+      "longitude": 5.201367,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 283,
+      "name": "HEMA",
+      "latitude": 52.072251,
+      "longitude": 5.12358,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 284,
+      "name": "HEMA",
+      "latitude": 52.07443,
+      "longitude": 4.658365,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 285,
+      "name": "HEMA",
+      "latitude": 52.074797,
+      "longitude": 5.095083,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 286,
+      "name": "HEMA",
+      "latitude": 52.075941,
+      "longitude": 4.359397,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 287,
+      "name": "HEMA",
+      "latitude": 52.076728,
+      "longitude": 4.313437,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 288,
+      "name": "HEMA",
+      "latitude": 52.079203,
+      "longitude": 4.269124,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 289,
+      "name": "HEMA",
+      "latitude": 52.081082,
+      "longitude": 5.490347,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 290,
+      "name": "HEMA",
+      "latitude": 52.081338,
+      "longitude": 4.323494,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 291,
+      "name": "HEMA",
+      "latitude": 52.082582,
+      "longitude": 5.416964,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 292,
+      "name": "HEMA",
+      "latitude": 52.085384,
+      "longitude": 5.243491,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 293,
+      "name": "HEMA",
+      "latitude": 52.085558,
+      "longitude": 4.882481,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 294,
+      "name": "HEMA",
+      "latitude": 52.085959,
+      "longitude": 4.746862,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 295,
+      "name": "HEMA",
+      "latitude": 52.085986,
+      "longitude": 4.336908,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 296,
+      "name": "HEMA",
+      "latitude": 52.087058,
+      "longitude": 6.448793,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 297,
+      "name": "HEMA",
+      "latitude": 52.089383,
+      "longitude": 5.1136,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 298,
+      "name": "HEMA",
+      "latitude": 52.089517,
+      "longitude": 5.109613,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 299,
+      "name": "HEMA",
+      "latitude": 52.090216,
+      "longitude": 4.383463,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 300,
+      "name": "HEMA",
+      "latitude": 52.090839,
+      "longitude": 5.117158,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 301,
+      "name": "HEMA",
+      "latitude": 52.090904,
+      "longitude": 4.272909,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 302,
+      "name": "HEMA",
+      "latitude": 52.091506,
+      "longitude": 5.132238,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 303,
+      "name": "HEMA",
+      "latitude": 52.093323,
+      "longitude": 5.011978,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 304,
+      "name": "HEMA",
+      "latitude": 52.09735,
+      "longitude": 5.063139,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 305,
+      "name": "HEMA",
+      "latitude": 52.102139,
+      "longitude": 6.64886,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 306,
+      "name": "HEMA",
+      "latitude": 52.10368,
+      "longitude": 6.059047,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 307,
+      "name": "HEMA",
+      "latitude": 52.104351,
+      "longitude": 6.311487,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 308,
+      "name": "HEMA",
+      "latitude": 52.104431,
+      "longitude": 5.093841,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 309,
+      "name": "HEMA",
+      "latitude": 52.104915,
+      "longitude": 4.275312,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 310,
+      "name": "HEMA",
+      "latitude": 52.10562,
+      "longitude": 5.013092,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 311,
+      "name": "HEMA",
+      "latitude": 52.105682,
+      "longitude": 6.063979,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 312,
+      "name": "HEMA",
+      "latitude": 52.106663,
+      "longitude": 5.13537,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 313,
+      "name": "HEMA",
+      "latitude": 52.109071,
+      "longitude": 5.182006,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 314,
+      "name": "HEMA",
+      "latitude": 52.113491,
+      "longitude": 5.111066,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 315,
+      "name": "HEMA",
+      "latitude": 52.114618,
+      "longitude": 4.283165,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 316,
+      "name": "HEMA",
+      "latitude": 52.116208,
+      "longitude": 6.525114,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 317,
+      "name": "HEMA",
+      "latitude": 52.125228,
+      "longitude": 4.446008,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 318,
+      "name": "HEMA",
+      "latitude": 52.127684,
+      "longitude": 5.209314,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 319,
+      "name": "HEMA",
+      "latitude": 52.129461,
+      "longitude": 4.665175,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 320,
+      "name": "HEMA",
+      "latitude": 52.130515,
+      "longitude": 5.427801,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 321,
+      "name": "HEMA",
+      "latitude": 52.134789,
+      "longitude": 6.229479,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 322,
+      "name": "HEMA",
+      "latitude": 52.13586,
+      "longitude": 5.029459,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 323,
+      "name": "HEMA",
+      "latitude": 52.139002,
+      "longitude": 5.586328,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 324,
+      "name": "HEMA",
+      "latitude": 52.141807,
+      "longitude": 5.039649,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 325,
+      "name": "HEMA",
+      "latitude": 52.141905,
+      "longitude": 6.196541,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 326,
+      "name": "HEMA",
+      "latitude": 52.142862,
+      "longitude": 4.395076,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 327,
+      "name": "HEMA",
+      "latitude": 52.147028,
+      "longitude": 4.476743,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 328,
+      "name": "HEMA",
+      "latitude": 52.150103,
+      "longitude": 4.778398,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 329,
+      "name": "HEMA",
+      "latitude": 52.154116,
+      "longitude": 5.386112,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 330,
+      "name": "HEMA",
+      "latitude": 52.157106,
+      "longitude": 6.738133,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 331,
+      "name": "HEMA",
+      "latitude": 52.16033,
+      "longitude": 4.492181,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 332,
+      "name": "HEMA",
+      "latitude": 52.160705,
+      "longitude": 6.416725,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 333,
+      "name": "HEMA",
+      "latitude": 52.163561,
+      "longitude": 4.532451,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 334,
+      "name": "HEMA",
+      "latitude": 52.164703,
+      "longitude": 5.309269,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 335,
+      "name": "HEMA",
+      "latitude": 52.165846,
+      "longitude": 4.482453,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 336,
+      "name": "HEMA",
+      "latitude": 52.166583,
+      "longitude": 4.709526,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 337,
+      "name": "HEMA",
+      "latitude": 52.170999,
+      "longitude": 5.002232,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 338,
+      "name": "HEMA",
+      "latitude": 52.174978,
+      "longitude": 5.455798,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 339,
+      "name": "HEMA",
+      "latitude": 52.176877,
+      "longitude": 4.505144,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 340,
+      "name": "HEMA",
+      "latitude": 52.18598,
+      "longitude": 4.470905,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 341,
+      "name": "HEMA",
+      "latitude": 52.186399,
+      "longitude": 5.397475,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 342,
+      "name": "HEMA",
+      "latitude": 52.187145,
+      "longitude": 5.293694,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 343,
+      "name": "HEMA",
+      "latitude": 52.187437,
+      "longitude": 5.608792,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 344,
+      "name": "HEMA",
+      "latitude": 52.191195,
+      "longitude": 6.880504,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 345,
+      "name": "HEMA",
+      "latitude": 52.19165,
+      "longitude": 4.441231,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 346,
+      "name": "HEMA",
+      "latitude": 52.194985,
+      "longitude": 5.430892,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 347,
+      "name": "HEMA",
+      "latitude": 52.195706,
+      "longitude": 6.004687,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 348,
+      "name": "HEMA",
+      "latitude": 52.199404,
+      "longitude": 5.965973,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 349,
+      "name": "HEMA",
+      "latitude": 52.200035,
+      "longitude": 5.139144,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 350,
+      "name": "HEMA",
+      "latitude": 52.201233,
+      "longitude": 4.632152,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 351,
+      "name": "HEMA",
+      "latitude": 52.204606,
+      "longitude": 4.395562,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 352,
+      "name": "HEMA",
+      "latitude": 52.205568,
+      "longitude": 4.866168,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 353,
+      "name": "HEMA",
+      "latitude": 52.212215,
+      "longitude": 5.292598,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 354,
+      "name": "HEMA",
+      "latitude": 52.213643,
+      "longitude": 5.96326,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 355,
+      "name": "HEMA",
+      "latitude": 52.21546,
+      "longitude": 6.973387,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 356,
+      "name": "HEMA",
+      "latitude": 52.215958,
+      "longitude": 5.168809,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 357,
+      "name": "HEMA",
+      "latitude": 52.217042,
+      "longitude": 6.897968,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 358,
+      "name": "HEMA",
+      "latitude": 52.219391,
+      "longitude": 6.928451,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 359,
+      "name": "HEMA",
+      "latitude": 52.221483,
+      "longitude": 4.481624,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 360,
+      "name": "HEMA",
+      "latitude": 52.224048,
+      "longitude": 5.485211,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 361,
+      "name": "HEMA",
+      "latitude": 52.225243,
+      "longitude": 5.175847,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 362,
+      "name": "HEMA",
+      "latitude": 52.226911,
+      "longitude": 4.523331,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 363,
+      "name": "HEMA",
+      "latitude": 52.229078,
+      "longitude": 5.98626,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 364,
+      "name": "HEMA",
+      "latitude": 52.23159,
+      "longitude": 6.889704,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 365,
+      "name": "HEMA",
+      "latitude": 52.232375,
+      "longitude": 4.828265,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 366,
+      "name": "HEMA",
+      "latitude": 52.233672,
+      "longitude": 6.58681,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 367,
+      "name": "HEMA",
+      "latitude": 52.236227,
+      "longitude": 6.105575,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 368,
+      "name": "HEMA",
+      "latitude": 52.239658,
+      "longitude": 5.113101,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 369,
+      "name": "HEMA",
+      "latitude": 52.243247,
+      "longitude": 4.433733,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 370,
+      "name": "HEMA",
+      "latitude": 52.248707,
+      "longitude": 6.216766,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 371,
+      "name": "HEMA",
+      "latitude": 52.251979,
+      "longitude": 5.379139,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 372,
+      "name": "HEMA",
+      "latitude": 52.254261,
+      "longitude": 6.158756,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 373,
+      "name": "HEMA",
+      "latitude": 52.25538,
+      "longitude": 5.224703,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 374,
+      "name": "HEMA",
+      "latitude": 52.260266,
+      "longitude": 4.558664,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 375,
+      "name": "HEMA",
+      "latitude": 52.260499,
+      "longitude": 5.60886,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 376,
+      "name": "HEMA",
+      "latitude": 52.261826,
+      "longitude": 6.70944,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 377,
+      "name": "HEMA",
+      "latitude": 52.261933,
+      "longitude": 7.007762,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 378,
+      "name": "HEMA",
+      "latitude": 52.262496,
+      "longitude": 4.491683,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 379,
+      "name": "HEMA",
+      "latitude": 52.264331,
+      "longitude": 4.632315,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 380,
+      "name": "HEMA",
+      "latitude": 52.265124,
+      "longitude": 6.7942,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 381,
+      "name": "HEMA",
+      "latitude": 52.267629,
+      "longitude": 4.748026,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 382,
+      "name": "HEMA",
+      "latitude": 52.271661,
+      "longitude": 4.974395,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 383,
+      "name": "HEMA",
+      "latitude": 52.274182,
+      "longitude": 5.163548,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 384,
+      "name": "HEMA",
+      "latitude": 52.282979,
+      "longitude": 6.421991,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 385,
+      "name": "HEMA",
+      "latitude": 52.284509,
+      "longitude": 6.827848,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 386,
+      "name": "HEMA",
+      "latitude": 52.287762,
+      "longitude": 5.968325,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 387,
+      "name": "HEMA",
+      "latitude": 52.29316,
+      "longitude": 4.579249,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 388,
+      "name": "HEMA",
+      "latitude": 52.298167,
+      "longitude": 5.235594,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 389,
+      "name": "HEMA",
+      "latitude": 52.298916,
+      "longitude": 5.620666,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 390,
+      "name": "HEMA",
+      "latitude": 52.300721,
+      "longitude": 6.756852,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 391,
+      "name": "HEMA",
+      "latitude": 52.302444,
+      "longitude": 4.694839,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 392,
+      "name": "HEMA",
+      "latitude": 52.302913,
+      "longitude": 4.861926,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 393,
+      "name": "HEMA",
+      "latitude": 52.306135,
+      "longitude": 5.041183,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 394,
+      "name": "HEMA",
+      "latitude": 52.307072,
+      "longitude": 4.640088,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 395,
+      "name": "HEMA",
+      "latitude": 52.307703,
+      "longitude": 6.51936,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 396,
+      "name": "HEMA",
+      "latitude": 52.310054,
+      "longitude": 4.760378,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 397,
+      "name": "HEMA",
+      "latitude": 52.314109,
+      "longitude": 6.92781,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 398,
+      "name": "HEMA",
+      "latitude": 52.314129,
+      "longitude": 4.953811,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 399,
+      "name": "HEMA",
+      "latitude": 52.325538,
+      "longitude": 5.601371,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 400,
+      "name": "HEMA",
+      "latitude": 52.33137,
+      "longitude": 5.544095,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 401,
+      "name": "HEMA",
+      "latitude": 52.331578,
+      "longitude": 4.876439,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 402,
+      "name": "HEMA",
+      "latitude": 52.334185,
+      "longitude": 5.218149,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 403,
+      "name": "HEMA",
+      "latitude": 52.334548,
+      "longitude": 5.021873,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 404,
+      "name": "HEMA",
+      "latitude": 52.33825,
+      "longitude": 4.873744,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 405,
+      "name": "HEMA",
+      "latitude": 52.342574,
+      "longitude": 4.964438,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 406,
+      "name": "HEMA",
+      "latitude": 52.34563,
+      "longitude": 4.905734,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 407,
+      "name": "HEMA",
+      "latitude": 52.346728,
+      "longitude": 4.876601,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 408,
+      "name": "HEMA",
+      "latitude": 52.347481,
+      "longitude": 5.983598,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 409,
+      "name": "HEMA",
+      "latitude": 52.349506,
+      "longitude": 5.618109,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 410,
+      "name": "HEMA",
+      "latitude": 52.350184,
+      "longitude": 4.939738,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 411,
+      "name": "HEMA",
+      "latitude": 52.352014,
+      "longitude": 4.852202,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 412,
+      "name": "HEMA",
+      "latitude": 52.352915,
+      "longitude": 4.621226,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 413,
+      "name": "HEMA",
+      "latitude": 52.353679,
+      "longitude": 4.891022,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 414,
+      "name": "HEMA",
+      "latitude": 52.356012,
+      "longitude": 6.664869,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 415,
+      "name": "HEMA",
+      "latitude": 52.356761,
+      "longitude": 4.929412,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 416,
+      "name": "HEMA",
+      "latitude": 52.357374,
+      "longitude": 6.591565,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 417,
+      "name": "HEMA",
+      "latitude": 52.358689,
+      "longitude": 4.990763,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 418,
+      "name": "HEMA",
+      "latitude": 52.358841,
+      "longitude": 4.80417,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 419,
+      "name": "HEMA",
+      "latitude": 52.359006,
+      "longitude": 4.653862,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 420,
+      "name": "HEMA",
+      "latitude": 52.362939,
+      "longitude": 4.92795,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 421,
+      "name": "HEMA",
+      "latitude": 52.364154,
+      "longitude": 6.459688,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 422,
+      "name": "HEMA",
+      "latitude": 52.364703,
+      "longitude": 4.862952,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 423,
+      "name": "HEMA",
+      "latitude": 52.366394,
+      "longitude": 6.680175,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 424,
+      "name": "HEMA",
+      "latitude": 52.367362,
+      "longitude": 4.892009,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 425,
+      "name": "HEMA",
+      "latitude": 52.370052,
+      "longitude": 5.220233,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 426,
+      "name": "HEMA",
+      "latitude": 52.371822,
+      "longitude": 4.529526,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 427,
+      "name": "HEMA",
+      "latitude": 52.374098,
+      "longitude": 4.937498,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 428,
+      "name": "HEMA",
+      "latitude": 52.375073,
+      "longitude": 4.894278,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 429,
+      "name": "HEMA",
+      "latitude": 52.375328,
+      "longitude": 7.006563,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 430,
+      "name": "HEMA",
+      "latitude": 52.375993,
+      "longitude": 5.782671,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 431,
+      "name": "HEMA",
+      "latitude": 52.376255,
+      "longitude": 4.631739,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 432,
+      "name": "HEMA",
+      "latitude": 52.378577,
+      "longitude": 4.846418,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 433,
+      "name": "HEMA",
+      "latitude": 52.37906,
+      "longitude": 4.899195,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 434,
+      "name": "HEMA",
+      "latitude": 52.379332,
+      "longitude": 4.633312,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 435,
+      "name": "HEMA",
+      "latitude": 52.379582,
+      "longitude": 4.901492,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 436,
+      "name": "HEMA",
+      "latitude": 52.379618,
+      "longitude": 4.822725,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 437,
+      "name": "HEMA",
+      "latitude": 52.384674,
+      "longitude": 4.88442,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 438,
+      "name": "HEMA",
+      "latitude": 52.386027,
+      "longitude": 6.275972,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 439,
+      "name": "HEMA",
+      "latitude": 52.387438,
+      "longitude": 6.041363,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 440,
+      "name": "HEMA",
+      "latitude": 52.388641,
+      "longitude": 6.135311,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 441,
+      "name": "HEMA",
+      "latitude": 52.393371,
+      "longitude": 5.279793,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 442,
+      "name": "HEMA",
+      "latitude": 52.396792,
+      "longitude": 4.643088,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 443,
+      "name": "HEMA",
+      "latitude": 52.399035,
+      "longitude": 4.938,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 444,
+      "name": "HEMA",
+      "latitude": 52.403792,
+      "longitude": 4.888722,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 445,
+      "name": "HEMA",
+      "latitude": 52.405072,
+      "longitude": 4.621343,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 446,
+      "name": "HEMA",
+      "latitude": 52.406886,
+      "longitude": 6.781971,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 447,
+      "name": "HEMA",
+      "latitude": 52.412693,
+      "longitude": 6.625834,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 448,
+      "name": "HEMA",
+      "latitude": 52.429156,
+      "longitude": 4.912955,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 449,
+      "name": "HEMA",
+      "latitude": 52.433561,
+      "longitude": 4.660376,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 450,
+      "name": "HEMA",
+      "latitude": 52.43476,
+      "longitude": 6.23699,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 451,
+      "name": "HEMA",
+      "latitude": 52.439154,
+      "longitude": 4.820617,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 452,
+      "name": "HEMA",
+      "latitude": 52.440569,
+      "longitude": 4.875068,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 453,
+      "name": "HEMA",
+      "latitude": 52.44897,
+      "longitude": 5.834182,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 454,
+      "name": "HEMA",
+      "latitude": 52.459056,
+      "longitude": 4.620637,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 455,
+      "name": "HEMA",
+      "latitude": 52.460625,
+      "longitude": 5.999746,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 456,
+      "name": "HEMA",
+      "latitude": 52.460793,
+      "longitude": 6.571331,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 457,
+      "name": "HEMA",
+      "latitude": 52.474835,
+      "longitude": 6.067119,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 458,
+      "name": "HEMA",
+      "latitude": 52.481542,
+      "longitude": 4.657243,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 459,
+      "name": "HEMA",
+      "latitude": 52.483942,
+      "longitude": 6.11264,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 460,
+      "name": "HEMA",
+      "latitude": 52.488827,
+      "longitude": 4.752874,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 461,
+      "name": "HEMA",
+      "latitude": 52.494064,
+      "longitude": 5.072095,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 462,
+      "name": "HEMA",
+      "latitude": 52.49508,
+      "longitude": 4.78569,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 463,
+      "name": "HEMA",
+      "latitude": 52.497816,
+      "longitude": 4.767436,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 464,
+      "name": "HEMA",
+      "latitude": 52.499405,
+      "longitude": 4.812864,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 465,
+      "name": "HEMA",
+      "latitude": 52.505171,
+      "longitude": 6.260585,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 466,
+      "name": "HEMA",
+      "latitude": 52.508454,
+      "longitude": 5.474698,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 467,
+      "name": "HEMA",
+      "latitude": 52.50866,
+      "longitude": 4.946725,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 468,
+      "name": "HEMA",
+      "latitude": 52.511004,
+      "longitude": 4.671848,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 469,
+      "name": "HEMA",
+      "latitude": 52.512399,
+      "longitude": 6.093784,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 470,
+      "name": "HEMA",
+      "latitude": 52.519469,
+      "longitude": 6.421674,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 471,
+      "name": "HEMA",
+      "latitude": 52.524255,
+      "longitude": 4.709943,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 472,
+      "name": "HEMA",
+      "latitude": 52.525189,
+      "longitude": 5.717488,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 473,
+      "name": "HEMA",
+      "latitude": 52.533428,
+      "longitude": 6.05512,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 474,
+      "name": "HEMA",
+      "latitude": 52.533805,
+      "longitude": 5.916993,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 475,
+      "name": "HEMA",
+      "latitude": 52.550845,
+      "longitude": 4.673573,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 476,
+      "name": "HEMA",
+      "latitude": 52.556128,
+      "longitude": 5.919144,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 477,
+      "name": "HEMA",
+      "latitude": 52.575617,
+      "longitude": 6.619057,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 478,
+      "name": "HEMA",
+      "latitude": 52.590967,
+      "longitude": 6.282553,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 479,
+      "name": "HEMA",
+      "latitude": 52.601013,
+      "longitude": 6.45562,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 480,
+      "name": "HEMA",
+      "latitude": 52.60484,
+      "longitude": 4.710753,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 481,
+      "name": "HEMA",
+      "latitude": 52.619643,
+      "longitude": 4.736263,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 482,
+      "name": "HEMA",
+      "latitude": 52.623617,
+      "longitude": 6.041161,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 483,
+      "name": "HEMA",
+      "latitude": 52.623902,
+      "longitude": 4.948115,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 484,
+      "name": "HEMA",
+      "latitude": 52.631779,
+      "longitude": 4.746642,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 485,
+      "name": "HEMA",
+      "latitude": 52.637683,
+      "longitude": 4.740465,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 486,
+      "name": "HEMA",
+      "latitude": 52.641729,
+      "longitude": 5.059995,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 487,
+      "name": "HEMA",
+      "latitude": 52.647446,
+      "longitude": 6.206764,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 488,
+      "name": "HEMA",
+      "latitude": 52.654337,
+      "longitude": 4.758671,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 489,
+      "name": "HEMA",
+      "latitude": 52.662703,
+      "longitude": 5.625856,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 490,
+      "name": "HEMA",
+      "latitude": 52.66297,
+      "longitude": 6.737978,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 491,
+      "name": "HEMA",
+      "latitude": 52.66315,
+      "longitude": 4.828573,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 492,
+      "name": "HEMA",
+      "latitude": 52.669958,
+      "longitude": 4.703253,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 493,
+      "name": "HEMA",
+      "latitude": 52.679134,
+      "longitude": 4.80495,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 494,
+      "name": "HEMA",
+      "latitude": 52.695425,
+      "longitude": 5.237484,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 495,
+      "name": "HEMA",
+      "latitude": 52.695433,
+      "longitude": 5.176375,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 496,
+      "name": "HEMA",
+      "latitude": 52.698141,
+      "longitude": 6.190298,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 497,
+      "name": "HEMA",
+      "latitude": 52.701283,
+      "longitude": 4.94844,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 498,
+      "name": "HEMA",
+      "latitude": 52.703131,
+      "longitude": 5.28703,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 499,
+      "name": "HEMA",
+      "latitude": 52.711233,
+      "longitude": 5.757347,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 500,
+      "name": "HEMA",
+      "latitude": 52.71508,
+      "longitude": 6.859627,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 501,
+      "name": "HEMA",
+      "latitude": 52.721709,
+      "longitude": 6.478087,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 502,
+      "name": "HEMA",
+      "latitude": 52.725292,
+      "longitude": 6.987346,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 503,
+      "name": "HEMA",
+      "latitude": 52.727292,
+      "longitude": 5.15043,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 504,
+      "name": "HEMA",
+      "latitude": 52.771329,
+      "longitude": 5.106795,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 505,
+      "name": "HEMA",
+      "latitude": 52.78616,
+      "longitude": 6.894912,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 506,
+      "name": "HEMA",
+      "latitude": 52.787526,
+      "longitude": 6.118867,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 507,
+      "name": "HEMA",
+      "latitude": 52.787676,
+      "longitude": 4.796411,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 508,
+      "name": "HEMA",
+      "latitude": 52.843697,
+      "longitude": 5.71356,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 509,
+      "name": "HEMA",
+      "latitude": 52.85483,
+      "longitude": 5.024742,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 510,
+      "name": "HEMA",
+      "latitude": 52.859113,
+      "longitude": 6.514361,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 511,
+      "name": "HEMA",
+      "latitude": 52.862967,
+      "longitude": 4.83102,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 512,
+      "name": "HEMA",
+      "latitude": 52.874229,
+      "longitude": 7.058524,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 513,
+      "name": "HEMA",
+      "latitude": 52.876041,
+      "longitude": 6.000252,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 514,
+      "name": "HEMA",
+      "latitude": 52.897186,
+      "longitude": 5.578686,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 515,
+      "name": "HEMA",
+      "latitude": 52.898027,
+      "longitude": 4.753575,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 516,
+      "name": "HEMA",
+      "latitude": 52.92223,
+      "longitude": 6.792706,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 517,
+      "name": "HEMA",
+      "latitude": 52.957625,
+      "longitude": 4.761166,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 518,
+      "name": "HEMA",
+      "latitude": 52.958028,
+      "longitude": 5.925832,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 519,
+      "name": "HEMA",
+      "latitude": 52.966919,
+      "longitude": 5.796535,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 520,
+      "name": "HEMA",
+      "latitude": 52.988143,
+      "longitude": 6.953199,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 521,
+      "name": "HEMA",
+      "latitude": 52.989649,
+      "longitude": 6.290829,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 522,
+      "name": "HEMA",
+      "latitude": 52.995053,
+      "longitude": 6.560003,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 523,
+      "name": "HEMA",
+      "latitude": 52.999567,
+      "longitude": 6.514149,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 524,
+      "name": "HEMA",
+      "latitude": 53.000886,
+      "longitude": 6.765525,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 525,
+      "name": "HEMA",
+      "latitude": 53.002644,
+      "longitude": 6.065107,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 526,
+      "name": "HEMA",
+      "latitude": 53.017462,
+      "longitude": 6.585028,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 527,
+      "name": "HEMA",
+      "latitude": 53.033244,
+      "longitude": 5.663711,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 528,
+      "name": "HEMA",
+      "latitude": 53.055636,
+      "longitude": 4.797669,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 529,
+      "name": "HEMA",
+      "latitude": 53.061871,
+      "longitude": 5.520971,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 530,
+      "name": "HEMA",
+      "latitude": 53.092855,
+      "longitude": 6.6837,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 531,
+      "name": "HEMA",
+      "latitude": 53.095679,
+      "longitude": 5.839392,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 532,
+      "name": "HEMA",
+      "latitude": 53.102948,
+      "longitude": 7.007586,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 533,
+      "name": "HEMA",
+      "latitude": 53.106524,
+      "longitude": 6.87764,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 534,
+      "name": "HEMA",
+      "latitude": 53.10697,
+      "longitude": 6.099244,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 535,
+      "name": "HEMA",
+      "latitude": 53.133895,
+      "longitude": 6.564626,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 536,
+      "name": "HEMA",
+      "latitude": 53.137427,
+      "longitude": 6.429577,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 537,
+      "name": "HEMA",
+      "latitude": 53.14321,
+      "longitude": 7.038896,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 538,
+      "name": "HEMA",
+      "latitude": 53.144776,
+      "longitude": 6.268708,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 539,
+      "name": "HEMA",
+      "latitude": 53.154261,
+      "longitude": 6.757208,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 540,
+      "name": "HEMA",
+      "latitude": 53.163566,
+      "longitude": 6.391419,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 541,
+      "name": "HEMA",
+      "latitude": 53.173346,
+      "longitude": 6.604585,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 542,
+      "name": "HEMA",
+      "latitude": 53.174995,
+      "longitude": 5.41845,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 543,
+      "name": "HEMA",
+      "latitude": 53.179712,
+      "longitude": 5.823716,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 544,
+      "name": "HEMA",
+      "latitude": 53.182555,
+      "longitude": 6.166787,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 545,
+      "name": "HEMA",
+      "latitude": 53.186778,
+      "longitude": 5.542189,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 546,
+      "name": "HEMA",
+      "latitude": 53.192439,
+      "longitude": 5.98965,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 547,
+      "name": "HEMA",
+      "latitude": 53.198197,
+      "longitude": 6.558491,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 548,
+      "name": "HEMA",
+      "latitude": 53.198641,
+      "longitude": 6.579452,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 549,
+      "name": "HEMA",
+      "latitude": 53.200254,
+      "longitude": 5.794626,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 550,
+      "name": "HEMA",
+      "latitude": 53.21522,
+      "longitude": 5.79655,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 551,
+      "name": "HEMA",
+      "latitude": 53.215288,
+      "longitude": 6.557184,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 552,
+      "name": "HEMA",
+      "latitude": 53.216083,
+      "longitude": 6.568438,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 553,
+      "name": "HEMA",
+      "latitude": 53.230683,
+      "longitude": 6.544091,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 554,
+      "name": "HEMA",
+      "latitude": 53.23785,
+      "longitude": 6.623225,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 555,
+      "name": "HEMA",
+      "latitude": 53.243973,
+      "longitude": 6.406353,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 556,
+      "name": "HEMA",
+      "latitude": 53.261237,
+      "longitude": 5.758944,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 557,
+      "name": "HEMA",
+      "latitude": 53.276354,
+      "longitude": 5.660675,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 558,
+      "name": "HEMA",
+      "latitude": 53.282564,
+      "longitude": 6.154806,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 559,
+      "name": "HEMA",
+      "latitude": 53.301144,
+      "longitude": 6.601985,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 560,
+      "name": "HEMA",
+      "latitude": 53.320758,
+      "longitude": 6.858574,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 561,
+      "name": "HEMA",
+      "latitude": 53.325703,
+      "longitude": 5.998139,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 562,
+      "name": "HEMA",
+      "latitude": 53.331834,
+      "longitude": 6.926139,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 563,
+      "name": "HEMA",
+      "latitude": 53.359632,
+      "longitude": 5.2143,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 564,
+      "name": "HEMA",
+      "latitude": 53.40695,
+      "longitude": 6.676186,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 565,
+      "name": "HEMA Hoogvliet",
+      "latitude": 51.866284,
+      "longitude": 4.35399,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 566,
+      "name": "HEMA Outlet",
+      "latitude": 51.716534,
+      "longitude": 5.362325,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 567,
+      "name": "HEMA Outlet",
+      "latitude": 52.722033,
+      "longitude": 6.478065,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 568,
+      "name": "HEMA outlet",
+      "latitude": 51.863102,
+      "longitude": 4.657848,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 569,
+      "name": "HEMArkt",
+      "latitude": 52.364065,
+      "longitude": 6.459711,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 570,
+      "name": "Het Duurzame Warenhuis",
+      "latitude": 51.846333,
+      "longitude": 5.86831,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 571,
+      "name": "Het Geschenkenhuis",
+      "latitude": 52.898099,
+      "longitude": 5.580509,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 572,
+      "name": "Het pakhuis van meneer Jan",
+      "latitude": 52.13861,
+      "longitude": 5.586692,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 573,
+      "name": "HunebedCity",
+      "latitude": 52.924426,
+      "longitude": 6.790139,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 574,
+      "name": "Interieurwereld van de Belt",
+      "latitude": 52.686586,
+      "longitude": 6.262738,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 575,
+      "name": "Kay's Odyssey The Experiance",
+      "latitude": 51.660437,
+      "longitude": 4.739226,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 576,
+      "name": "Koopcentrum Duijzer",
+      "latitude": 51.773966,
+      "longitude": 5.103788,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 577,
+      "name": "Kringloopwinkel",
+      "latitude": 53.326541,
+      "longitude": 5.984658,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 578,
+      "name": "L.O.I.C. Concept Store",
+      "latitude": 51.943969,
+      "longitude": 4.852317,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 579,
+      "name": "M&S Outlet",
+      "latitude": 53.229789,
+      "longitude": 6.544244,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 580,
+      "name": "Mechanisatie Bedrijf Mabelis",
+      "latitude": 51.37171,
+      "longitude": 3.471217,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 581,
+      "name": "Morsink Dier & Hobby",
+      "latitude": 52.314486,
+      "longitude": 6.994184,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 582,
+      "name": "Munt",
+      "latitude": 52.888218,
+      "longitude": 4.802745,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 583,
+      "name": "Nieuw Mos Warenhuis",
+      "latitude": 52.149632,
+      "longitude": 5.384084,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 584,
+      "name": "Novy",
+      "latitude": 52.890332,
+      "longitude": 6.139586,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 585,
+      "name": "Pijnacker",
+      "latitude": 53.339459,
+      "longitude": 5.826349,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 586,
+      "name": "Pop-up Gaard",
+      "latitude": 52.095942,
+      "longitude": 5.063937,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 587,
+      "name": "SoLow",
+      "latitude": 51.479515,
+      "longitude": 5.654554,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 588,
+      "name": "Staarink Warenhuis",
+      "latitude": 52.014256,
+      "longitude": 6.134551,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 589,
+      "name": "Stuifzand Allerhande",
+      "latitude": 52.676182,
+      "longitude": 6.428847,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 590,
+      "name": "TK Maxx",
+      "latitude": 50.887718,
+      "longitude": 5.978816,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 591,
+      "name": "TK Maxx",
+      "latitude": 51.438295,
+      "longitude": 5.480856,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 592,
+      "name": "TK Maxx",
+      "latitude": 51.688857,
+      "longitude": 5.302659,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 593,
+      "name": "TK Maxx",
+      "latitude": 51.847225,
+      "longitude": 5.8644,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 594,
+      "name": "TK Maxx",
+      "latitude": 51.885713,
+      "longitude": 4.489987,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 595,
+      "name": "TK Maxx",
+      "latitude": 51.917983,
+      "longitude": 4.477944,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 596,
+      "name": "TK Maxx",
+      "latitude": 51.951493,
+      "longitude": 4.558632,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 597,
+      "name": "TK Maxx",
+      "latitude": 51.982163,
+      "longitude": 5.911851,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 598,
+      "name": "TK Maxx",
+      "latitude": 52.061412,
+      "longitude": 4.490627,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 599,
+      "name": "TK Maxx",
+      "latitude": 52.077294,
+      "longitude": 4.314699,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 600,
+      "name": "TK Maxx",
+      "latitude": 52.091475,
+      "longitude": 5.117961,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 601,
+      "name": "TK Maxx",
+      "latitude": 52.213332,
+      "longitude": 5.961905,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 602,
+      "name": "TK Maxx",
+      "latitude": 52.217994,
+      "longitude": 6.899571,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 603,
+      "name": "TK Maxx",
+      "latitude": 52.31453,
+      "longitude": 4.952849,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 604,
+      "name": "TK Maxx",
+      "latitude": 52.356805,
+      "longitude": 4.929232,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 605,
+      "name": "TK Maxx",
+      "latitude": 52.359058,
+      "longitude": 4.805017,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 606,
+      "name": "TK Maxx",
+      "latitude": 52.372852,
+      "longitude": 5.220468,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 607,
+      "name": "TK Maxx",
+      "latitude": 52.374496,
+      "longitude": 4.894406,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 608,
+      "name": "TK Maxx",
+      "latitude": 53.21828,
+      "longitude": 6.565555,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 609,
+      "name": "Thuis bij Hapers",
+      "latitude": 51.544089,
+      "longitude": 4.94165,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 610,
+      "name": "Tigelaar",
+      "latitude": 52.908372,
+      "longitude": 6.399996,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 611,
+      "name": "Van 't Ende",
+      "latitude": 52.46223,
+      "longitude": 6.496545,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 612,
+      "name": "Van Leeuwen",
+      "latitude": 52.145202,
+      "longitude": 4.674867,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 613,
+      "name": "Warenhuis Engels",
+      "latitude": 53.441113,
+      "longitude": 5.638302,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 614,
+      "name": "Warenhuis Frans Jansen",
+      "latitude": 51.960854,
+      "longitude": 6.211369,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 615,
+      "name": "Warenhuis Van der Velde",
+      "latitude": 53.109389,
+      "longitude": 5.588296,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 616,
+      "name": "Warenhuis Vanderveen",
+      "latitude": 52.994406,
+      "longitude": 6.56091,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 617,
+      "name": "Wibra",
+      "latitude": 52.066193,
+      "longitude": 4.283916,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 618,
+      "name": "Wijha",
+      "latitude": 52.460582,
+      "longitude": 6.505547,
+      "osm_klasse": "shop=department_store"
+    },
+    {
+      "id": 619,
+      "name": "van der Garde",
+      "latitude": 51.932623,
+      "longitude": 5.634241,
+      "osm_klasse": "shop=department_store"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: department store (shop=department_store) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=department_store in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 619 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: department store (shop=department_store) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: department store (shop=department_store) — 619 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 619 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

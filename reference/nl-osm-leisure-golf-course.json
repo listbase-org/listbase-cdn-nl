@@ -1,0 +1,1948 @@
+{
+  "id": "nl-osm-leisure-golf-course",
+  "name": "Netherlands OSM: golf course (leisure=golf_course)",
+  "title": "Netherlands OSM: golf course (leisure=golf_course)",
+  "description": "Named OpenStreetMap features tagged leisure=golf_course in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 271,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Kruisselt",
+      "latitude": 52.319175,
+      "longitude": 6.966898,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 2,
+      "name": "Aachener Golf Club 1927 e.V.",
+      "latitude": 50.783121,
+      "longitude": 6.024474,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 3,
+      "name": "Amsterdam Old Course",
+      "latitude": 52.319437,
+      "longitude": 4.934485,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 4,
+      "name": "Amsterdamse Golf Club",
+      "latitude": 52.400746,
+      "longitude": 4.745228,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 5,
+      "name": "Bernardus Golf",
+      "latitude": 51.667712,
+      "longitude": 5.218493,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 6,
+      "name": "Best Golf",
+      "latitude": 51.493647,
+      "longitude": 5.409663,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 7,
+      "name": "Brabant Golf",
+      "latitude": 51.597353,
+      "longitude": 4.909512,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 8,
+      "name": "Championship Course",
+      "latitude": 50.852951,
+      "longitude": 5.644846,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 9,
+      "name": "Chi Chi - The Golf Venue",
+      "latitude": 52.122222,
+      "longitude": 5.138876,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 10,
+      "name": "Country Golf Ees",
+      "latitude": 52.90635,
+      "longitude": 6.818372,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 11,
+      "name": "Crayestein Golf",
+      "latitude": 51.817089,
+      "longitude": 4.744952,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 12,
+      "name": "DSV Concordia Golf",
+      "latitude": 52.027868,
+      "longitude": 4.370489,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 13,
+      "name": "De Breuninkhof",
+      "latitude": 52.197724,
+      "longitude": 6.120497,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 14,
+      "name": "De Hattemse Golf & Country Club",
+      "latitude": 52.454176,
+      "longitude": 6.076195,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 15,
+      "name": "De Koepel",
+      "latitude": 52.34156,
+      "longitude": 6.563596,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 16,
+      "name": "De Lage Mors",
+      "latitude": 52.256887,
+      "longitude": 6.731225,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 17,
+      "name": "De Leemput",
+      "latitude": 51.588535,
+      "longitude": 4.898786,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 18,
+      "name": "De Strijensche Golfclub",
+      "latitude": 51.759284,
+      "longitude": 4.554556,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 19,
+      "name": "De Utrechtse",
+      "latitude": 52.034858,
+      "longitude": 5.12223,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 20,
+      "name": "De Woeste Kop",
+      "latitude": 51.257742,
+      "longitude": 3.899914,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 21,
+      "name": "De Zeeuwsche",
+      "latitude": 51.482681,
+      "longitude": 3.644326,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 22,
+      "name": "De Zuid Limburgse Golf & Country Club Wittem",
+      "latitude": 50.7924,
+      "longitude": 5.891574,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 23,
+      "name": "Domburgsche Golfclub",
+      "latitude": 51.56,
+      "longitude": 3.48482,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 24,
+      "name": "Doornse Golfclub",
+      "latitude": 52.041913,
+      "longitude": 5.329097,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 25,
+      "name": "Drentsche Golf & Country Club",
+      "latitude": 53.017712,
+      "longitude": 6.529521,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 26,
+      "name": "Drentse Golfclub de Gelpenberg",
+      "latitude": 52.801,
+      "longitude": 6.702151,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 27,
+      "name": "Driving Range",
+      "latitude": 52.89348,
+      "longitude": 4.732741,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 28,
+      "name": "Dutch Golf Hattem",
+      "latitude": 52.458462,
+      "longitude": 6.074759,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 29,
+      "name": "ESTEC Golf Club",
+      "latitude": 52.217039,
+      "longitude": 4.422717,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 30,
+      "name": "Edese Golf Club Papendal",
+      "latitude": 52.006715,
+      "longitude": 5.824058,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 31,
+      "name": "Eindhovensche Golf",
+      "latitude": 51.369096,
+      "longitude": 5.482428,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 32,
+      "name": "Galecop Golf",
+      "latitude": 52.059304,
+      "longitude": 5.091218,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 33,
+      "name": "Goese Golf",
+      "latitude": 51.520498,
+      "longitude": 3.916188,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 34,
+      "name": "Golf & Country Club Winterswijk",
+      "latitude": 51.984721,
+      "longitude": 6.769447,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 35,
+      "name": "Golf & Country Course Sint-Oedenrode",
+      "latitude": 51.585849,
+      "longitude": 5.439843,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 36,
+      "name": "Golf & Country Losdorp",
+      "latitude": 53.37122,
+      "longitude": 6.846771,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 37,
+      "name": "Golf & Countryclub De Tongelreep",
+      "latitude": 51.408041,
+      "longitude": 5.467589,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 38,
+      "name": "Golf & Countryclub Lauswolt",
+      "latitude": 53.048814,
+      "longitude": 6.09524,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 39,
+      "name": "Golf & recreatiepark 't Caves",
+      "latitude": 51.435856,
+      "longitude": 5.336749,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 40,
+      "name": "Golf Amsteldijk",
+      "latitude": 52.28329,
+      "longitude": 4.875397,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 41,
+      "name": "Golf Centrum Noordwijk",
+      "latitude": 52.227243,
+      "longitude": 4.46624,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 42,
+      "name": "Golf Club Havelte",
+      "latitude": 52.782722,
+      "longitude": 6.2461,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 43,
+      "name": "Golf Club Hoog Vaals",
+      "latitude": 50.770454,
+      "longitude": 6.00066,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 44,
+      "name": "Golf De Gulbergen",
+      "latitude": 51.452205,
+      "longitude": 5.564533,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 45,
+      "name": "Golf De Gulbergen - Old Course",
+      "latitude": 51.451084,
+      "longitude": 5.565503,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 46,
+      "name": "Golf Duinzicht",
+      "latitude": 52.106055,
+      "longitude": 4.331685,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 47,
+      "name": "Golf Maasduinen",
+      "latitude": 51.499831,
+      "longitude": 6.178219,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 48,
+      "name": "Golf Ockenburgh",
+      "latitude": 52.058154,
+      "longitude": 4.214959,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 49,
+      "name": "Golf Parc De Pettelaar",
+      "latitude": 51.679627,
+      "longitude": 5.336617,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 50,
+      "name": "Golf Residentie Dronten",
+      "latitude": 52.502451,
+      "longitude": 5.716172,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 51,
+      "name": "Golf- & Country Club Liemeer",
+      "latitude": 52.188539,
+      "longitude": 4.737304,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 52,
+      "name": "Golf- & Countryclub Geijsteren",
+      "latitude": 51.537066,
+      "longitude": 6.05319,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 53,
+      "name": "Golf- & Countryclub Heiloo",
+      "latitude": 52.58465,
+      "longitude": 4.713845,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 54,
+      "name": "Golf- en Businessclub De Scherpenbergh",
+      "latitude": 52.146955,
+      "longitude": 6.019377,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 55,
+      "name": "Golfbaan Ameland",
+      "latitude": 53.449768,
+      "longitude": 5.648919,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 56,
+      "name": "Golfbaan Bentwoud",
+      "latitude": 52.070621,
+      "longitude": 4.572081,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 57,
+      "name": "Golfbaan Brunssummerheide",
+      "latitude": 50.933182,
+      "longitude": 6.010725,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 58,
+      "name": "Golfbaan Catharinenburg",
+      "latitude": 51.770959,
+      "longitude": 4.055751,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 59,
+      "name": "Golfbaan Catharinenburg",
+      "latitude": 51.771051,
+      "longitude": 4.056692,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 60,
+      "name": "Golfbaan Crimpenerhout",
+      "latitude": 51.906147,
+      "longitude": 4.616476,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 61,
+      "name": "Golfbaan Crossmoor",
+      "latitude": 51.223657,
+      "longitude": 5.639431,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 62,
+      "name": "Golfbaan De Hoge Dijk",
+      "latitude": 52.283851,
+      "longitude": 4.95738,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 63,
+      "name": "Golfbaan De Hooge Rotterdamsche",
+      "latitude": 51.974288,
+      "longitude": 4.536125,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 64,
+      "name": "Golfbaan De Texelse",
+      "latitude": 53.150469,
+      "longitude": 4.850881,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 65,
+      "name": "Golfbaan De Vlietlanden",
+      "latitude": 52.748068,
+      "longitude": 5.107688,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 66,
+      "name": "Golfbaan Delfland",
+      "latitude": 51.979717,
+      "longitude": 4.325242,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 67,
+      "name": "Golfbaan Dirkshorn",
+      "latitude": 52.758342,
+      "longitude": 4.781923,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 68,
+      "name": "Golfbaan Dorhout Mees",
+      "latitude": 52.409143,
+      "longitude": 5.682168,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 69,
+      "name": "Golfbaan Echt-Susteren",
+      "latitude": 51.072717,
+      "longitude": 5.89133,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 70,
+      "name": "Golfbaan Eyckenduyn",
+      "latitude": 51.318043,
+      "longitude": 6.006364,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 71,
+      "name": "Golfbaan Het Rijk van Nunspeet",
+      "latitude": 52.369288,
+      "longitude": 5.803533,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 72,
+      "name": "Golfbaan Het Rijk van Sybrook",
+      "latitude": 52.272,
+      "longitude": 6.930588,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 73,
+      "name": "Golfbaan Het Wedde",
+      "latitude": 52.139731,
+      "longitude": 4.452512,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 74,
+      "name": "Golfbaan Hitland",
+      "latitude": 51.949178,
+      "longitude": 4.616567,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 75,
+      "name": "Golfbaan Hoenderdaal",
+      "latitude": 52.054573,
+      "longitude": 5.261445,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 76,
+      "name": "Golfbaan Kasteel Engelenburg",
+      "latitude": 52.090791,
+      "longitude": 6.128935,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 77,
+      "name": "Golfbaan Kralingen",
+      "latitude": 51.93236,
+      "longitude": 4.531372,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 78,
+      "name": "Golfbaan Kromme Rijn",
+      "latitude": 52.066771,
+      "longitude": 5.215975,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 79,
+      "name": "Golfbaan Land van Thorn",
+      "latitude": 51.189165,
+      "longitude": 5.819398,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 80,
+      "name": "Golfbaan Landgoed Welderen",
+      "latitude": 51.942256,
+      "longitude": 5.831521,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 81,
+      "name": "Golfbaan Martensplek",
+      "latitude": 52.762873,
+      "longitude": 6.557251,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 82,
+      "name": "Golfbaan Midden-Brabant",
+      "latitude": 51.441529,
+      "longitude": 5.149078,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 83,
+      "name": "Golfbaan Noordeloos",
+      "latitude": 51.897231,
+      "longitude": 4.926976,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 84,
+      "name": "Golfbaan Ooghduyne",
+      "latitude": 52.889923,
+      "longitude": 4.730416,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 85,
+      "name": "Golfbaan Overloon",
+      "latitude": 51.578022,
+      "longitude": 5.953969,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 86,
+      "name": "Golfbaan Schinkelshoek",
+      "latitude": 51.90962,
+      "longitude": 4.304811,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 87,
+      "name": "Golfbaan Sloten",
+      "latitude": 52.33932,
+      "longitude": 4.806305,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 88,
+      "name": "Golfbaan Spaarnwoude",
+      "latitude": 52.420571,
+      "longitude": 4.685338,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 89,
+      "name": "Golfbaan Spierdijk",
+      "latitude": 52.653922,
+      "longitude": 4.932954,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 90,
+      "name": "Golfbaan Stippelberg",
+      "latitude": 51.515728,
+      "longitude": 5.75122,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 91,
+      "name": "Golfbaan Tespelduyn",
+      "latitude": 52.284042,
+      "longitude": 4.522059,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 92,
+      "name": "Golfbaan The Dunes",
+      "latitude": 52.383896,
+      "longitude": 4.54782,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 93,
+      "name": "Golfbaan Waterland Amsterdam",
+      "latitude": 52.411661,
+      "longitude": 4.939987,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 94,
+      "name": "Golfbaan Weesp",
+      "latitude": 52.300795,
+      "longitude": 5.024571,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 95,
+      "name": "Golfbaan Westwoud",
+      "latitude": 52.6715,
+      "longitude": 5.142384,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 96,
+      "name": "Golfbaan Zuid-Drenthe",
+      "latitude": 52.682811,
+      "longitude": 6.935466,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 97,
+      "name": "Golfbaan de Golfhorst",
+      "latitude": 51.42526,
+      "longitude": 5.964781,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 98,
+      "name": "Golfbaan de Kroonprins",
+      "latitude": 51.966382,
+      "longitude": 5.081912,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 99,
+      "name": "Golfbaan de Swinkelsche",
+      "latitude": 51.378199,
+      "longitude": 5.667889,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 100,
+      "name": "Golfbaan het Woold",
+      "latitude": 51.366725,
+      "longitude": 5.768036,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 101,
+      "name": "Golfcenter Seve",
+      "latitude": 51.943893,
+      "longitude": 4.463569,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 102,
+      "name": "Golfcenter Uithoorn",
+      "latitude": 52.245774,
+      "longitude": 4.80199,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 103,
+      "name": "Golfcentrum De Batouwe",
+      "latitude": 51.931259,
+      "longitude": 5.420927,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 104,
+      "name": "Golfcentrum Dongen",
+      "latitude": 51.615187,
+      "longitude": 4.916153,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 105,
+      "name": "Golfcentrum Eindhoven",
+      "latitude": 51.456391,
+      "longitude": 5.491395,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 106,
+      "name": "Golfcentrum Roosendaal",
+      "latitude": 51.538961,
+      "longitude": 4.434819,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 107,
+      "name": "Golfclub 't Jagerspaadje",
+      "latitude": 52.226335,
+      "longitude": 5.144169,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 108,
+      "name": "Golfclub 't Lohr",
+      "latitude": 51.870288,
+      "longitude": 6.415086,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 109,
+      "name": "Golfclub 't Zelle",
+      "latitude": 52.060259,
+      "longitude": 6.388343,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 110,
+      "name": "Golfclub Almeerderhout",
+      "latitude": 52.348139,
+      "longitude": 5.296573,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 111,
+      "name": "Golfclub Anderstein",
+      "latitude": 52.063924,
+      "longitude": 5.398125,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 112,
+      "name": "Golfclub Bleijenbeek",
+      "latitude": 51.633198,
+      "longitude": 6.04221,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 113,
+      "name": "Golfclub Broekpolder",
+      "latitude": 51.937498,
+      "longitude": 4.317795,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 114,
+      "name": "Golfclub Capelle",
+      "latitude": 51.940979,
+      "longitude": 4.59258,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 115,
+      "name": "Golfclub Cromstrijen",
+      "latitude": 51.726255,
+      "longitude": 4.41417,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 116,
+      "name": "Golfclub De Berendock",
+      "latitude": 51.806357,
+      "longitude": 5.770834,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 117,
+      "name": "Golfclub De Dorpswaard",
+      "latitude": 51.781358,
+      "longitude": 5.328229,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 118,
+      "name": "Golfclub De Haar",
+      "latitude": 52.116086,
+      "longitude": 4.983557,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 119,
+      "name": "Golfclub De Haverleij",
+      "latitude": 51.724489,
+      "longitude": 5.252287,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 120,
+      "name": "Golfclub De Hoge Kleij",
+      "latitude": 52.130297,
+      "longitude": 5.357006,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 121,
+      "name": "Golfclub Driene",
+      "latitude": 52.252476,
+      "longitude": 6.824938,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 122,
+      "name": "Golfclub Emmeloord",
+      "latitude": 52.737442,
+      "longitude": 5.781877,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 123,
+      "name": "Golfclub Flevoland",
+      "latitude": 52.534101,
+      "longitude": 5.451429,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 124,
+      "name": "Golfclub Gaasterland",
+      "latitude": 52.865727,
+      "longitude": 5.546469,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 125,
+      "name": "Golfclub Gendersteyn",
+      "latitude": 51.3872,
+      "longitude": 5.371827,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 126,
+      "name": "Golfclub Grevelingenhout",
+      "latitude": 51.671577,
+      "longitude": 4.06443,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 127,
+      "name": "Golfclub Heelsum",
+      "latitude": 51.991892,
+      "longitude": 5.753631,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 128,
+      "name": "Golfclub Heidemeer",
+      "latitude": 52.938402,
+      "longitude": 5.926461,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 129,
+      "name": "Golfclub Holthuizen",
+      "latitude": 53.140257,
+      "longitude": 6.450134,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 130,
+      "name": "Golfclub Hoogland Amersfoort",
+      "latitude": 52.190423,
+      "longitude": 5.364873,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 131,
+      "name": "Golfclub Houtrak",
+      "latitude": 52.404359,
+      "longitude": 4.721574,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 132,
+      "name": "Golfclub Kagerzoom",
+      "latitude": 52.187225,
+      "longitude": 4.50296,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 133,
+      "name": "Golfclub Landgoed Coudewater",
+      "latitude": 51.702075,
+      "longitude": 5.376514,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 134,
+      "name": "Golfclub Landgoed Nieuwkerk",
+      "latitude": 51.495679,
+      "longitude": 5.03671,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 135,
+      "name": "Golfclub Mariënweide",
+      "latitude": 52.354377,
+      "longitude": 4.582725,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 136,
+      "name": "Golfclub Meerssen",
+      "latitude": 50.897144,
+      "longitude": 5.744291,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 137,
+      "name": "Golfclub Ookmeer",
+      "latitude": 52.371811,
+      "longitude": 4.794705,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 138,
+      "name": "Golfclub Oostburg",
+      "latitude": 51.324452,
+      "longitude": 3.46663,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 139,
+      "name": "Golfclub Princenbosch",
+      "latitude": 51.544824,
+      "longitude": 4.871741,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 140,
+      "name": "Golfclub Prinses Wilhelmina",
+      "latitude": 52.235147,
+      "longitude": 6.873857,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 141,
+      "name": "Golfclub Putten",
+      "latitude": 52.236989,
+      "longitude": 5.515252,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 142,
+      "name": "Golfclub Riel",
+      "latitude": 51.423758,
+      "longitude": 5.53147,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 143,
+      "name": "Golfclub Sint Nyk",
+      "latitude": 52.936856,
+      "longitude": 5.734975,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 144,
+      "name": "Golfclub Sint Nyk",
+      "latitude": 52.937054,
+      "longitude": 5.733443,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 145,
+      "name": "Golfclub Slottermolen",
+      "latitude": 51.406541,
+      "longitude": 6.1456,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 146,
+      "name": "Golfclub Son",
+      "latitude": 51.52359,
+      "longitude": 5.487771,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 147,
+      "name": "Golfclub Vught",
+      "latitude": 51.629861,
+      "longitude": 5.270507,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 148,
+      "name": "Golfclub Westerpark",
+      "latitude": 52.055696,
+      "longitude": 4.429852,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 149,
+      "name": "Golfclub Westerwolde",
+      "latitude": 53.038686,
+      "longitude": 7.107918,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 150,
+      "name": "Golfclub Westland",
+      "latitude": 51.992692,
+      "longitude": 4.174013,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 151,
+      "name": "Golfclub Wouwse Plantage",
+      "latitude": 51.478489,
+      "longitude": 4.361923,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 152,
+      "name": "Golfclub Zeegersloot",
+      "latitude": 52.146227,
+      "longitude": 4.694876,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 153,
+      "name": "Golfclub Zeewolde",
+      "latitude": 52.319873,
+      "longitude": 5.510133,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 154,
+      "name": "Golfclub Zwolle",
+      "latitude": 52.502821,
+      "longitude": 6.147507,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 155,
+      "name": "Golfclub de Berckt",
+      "latitude": 51.344905,
+      "longitude": 6.111763,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 156,
+      "name": "Golfclub de Compagnie",
+      "latitude": 53.118839,
+      "longitude": 6.840951,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 157,
+      "name": "Golfclub de Dommel",
+      "latitude": 51.631304,
+      "longitude": 5.327866,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 158,
+      "name": "Golfclub de Semslanden",
+      "latitude": 52.98448,
+      "longitude": 6.808786,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 159,
+      "name": "Golferij Eelde",
+      "latitude": 53.133579,
+      "longitude": 6.556398,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 160,
+      "name": "Golfodome",
+      "latitude": 51.254503,
+      "longitude": 6.059394,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 161,
+      "name": "Golfparc Sandur",
+      "latitude": 52.728449,
+      "longitude": 6.912414,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 162,
+      "name": "Golfpark Almkreek",
+      "latitude": 51.769827,
+      "longitude": 4.975366,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 163,
+      "name": "Golfpark De Biltse Duinen",
+      "latitude": 52.129458,
+      "longitude": 5.218463,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 164,
+      "name": "Golfpark De Bonte Bij",
+      "latitude": 51.67992,
+      "longitude": 5.600581,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 165,
+      "name": "Golfpark De Hildenberg",
+      "latitude": 52.940457,
+      "longitude": 6.352014,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 166,
+      "name": "Golfpark De Kurenpolder",
+      "latitude": 51.723317,
+      "longitude": 4.883868,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 167,
+      "name": "Golfpark De Loonsche Duynen",
+      "latitude": 51.641731,
+      "longitude": 5.035604,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 168,
+      "name": "Golfpark De Purmer",
+      "latitude": 52.500301,
+      "longitude": 4.999103,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 169,
+      "name": "Golfpark De Star",
+      "latitude": 52.085703,
+      "longitude": 4.412265,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 170,
+      "name": "Golfpark De Turfvaert",
+      "latitude": 51.53117,
+      "longitude": 4.698449,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 171,
+      "name": "Golfpark Exloo",
+      "latitude": 52.874407,
+      "longitude": 6.886285,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 172,
+      "name": "Golfpark Soestduinen",
+      "latitude": 52.14345,
+      "longitude": 5.289801,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 173,
+      "name": "Golfpark Spandersbosch",
+      "latitude": 52.2537,
+      "longitude": 5.172078,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 174,
+      "name": "Golfpark Weilenseind",
+      "latitude": 51.535135,
+      "longitude": 4.946362,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 175,
+      "name": "Golfpark Wilnis",
+      "latitude": 52.181676,
+      "longitude": 4.88423,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 176,
+      "name": "Golfpark de Haenen",
+      "latitude": 51.613679,
+      "longitude": 4.835126,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 177,
+      "name": "Golfplezier Twente",
+      "latitude": 52.407795,
+      "longitude": 6.571418,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 178,
+      "name": "Golfsociëteit De Lage Vuursche",
+      "latitude": 52.156719,
+      "longitude": 5.23765,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 179,
+      "name": "Golftuin Zwolle",
+      "latitude": 52.466594,
+      "longitude": 6.125709,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 180,
+      "name": "Golfvereniging Albatross",
+      "latitude": 51.618274,
+      "longitude": 4.696657,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 181,
+      "name": "Golfvereniging De Peelse Golf",
+      "latitude": 51.381252,
+      "longitude": 5.965248,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 182,
+      "name": "Golfvereniging Reymerswael",
+      "latitude": 51.388844,
+      "longitude": 4.242515,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 183,
+      "name": "Gooise Golfclub",
+      "latitude": 52.207661,
+      "longitude": 5.132895,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 184,
+      "name": "Goyer Golf & Country Club",
+      "latitude": 52.241144,
+      "longitude": 5.239615,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 185,
+      "name": "Groningse Golfclub Duurswold",
+      "latitude": 53.263991,
+      "longitude": 6.837697,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 186,
+      "name": "H.C.C. Groen-Geel Golf",
+      "latitude": 52.115413,
+      "longitude": 4.342077,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 187,
+      "name": "H.C.C. Groen-Geel Golf",
+      "latitude": 52.116383,
+      "longitude": 4.343727,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 188,
+      "name": "Haagse Golfvereniging Leeuwenbergh",
+      "latitude": 52.054504,
+      "longitude": 4.357058,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 189,
+      "name": "Haarlemmermeersche Golfclub",
+      "latitude": 52.337596,
+      "longitude": 4.657227,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 190,
+      "name": "Harderwold Golf & Events",
+      "latitude": 52.377468,
+      "longitude": 5.60153,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 191,
+      "name": "Haviksoord",
+      "latitude": 51.337754,
+      "longitude": 5.586078,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 192,
+      "name": "Heemskerkse Golfclub",
+      "latitude": 52.492672,
+      "longitude": 4.709842,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 193,
+      "name": "Helmondse Golfclub 'Overbrug'",
+      "latitude": 51.497606,
+      "longitude": 5.648061,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 194,
+      "name": "Het Buiten-land Pitch & Putt",
+      "latitude": 53.184892,
+      "longitude": 5.852199,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 195,
+      "name": "Het Rijk van Margraten",
+      "latitude": 50.838699,
+      "longitude": 5.75748,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 196,
+      "name": "Het Rijk van Nijmegen",
+      "latitude": 51.79499,
+      "longitude": 5.923572,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 197,
+      "name": "Hilversumsche Golf Club",
+      "latitude": 52.201069,
+      "longitude": 5.212083,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 198,
+      "name": "Hooge Graven Golfclub Ommen",
+      "latitude": 52.545483,
+      "longitude": 6.447415,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 199,
+      "name": "Hooge Graven Golfclub Ommen",
+      "latitude": 52.546048,
+      "longitude": 6.447149,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 200,
+      "name": "Huninga's Heem Pitch & Putt",
+      "latitude": 53.201033,
+      "longitude": 7.033475,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 201,
+      "name": "Kapèlkeshof",
+      "latitude": 51.366512,
+      "longitude": 5.941918,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 202,
+      "name": "Kavel II Beemster",
+      "latitude": 52.526246,
+      "longitude": 4.920962,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 203,
+      "name": "Kennemer Golf & Country Club",
+      "latitude": 52.373387,
+      "longitude": 4.557935,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 204,
+      "name": "Keppelse Golfclub",
+      "latitude": 52.007091,
+      "longitude": 6.204346,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 205,
+      "name": "Koninklijke Haagsche Golf- en Country Club",
+      "latitude": 52.133366,
+      "longitude": 4.365229,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 206,
+      "name": "Landgoed Bergvliet",
+      "latitude": 51.639324,
+      "longitude": 4.803283,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 207,
+      "name": "Leeuwarder Golfclub De Groene Ster",
+      "latitude": 53.211319,
+      "longitude": 5.885084,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 208,
+      "name": "Limburg Course",
+      "latitude": 50.856467,
+      "longitude": 5.646753,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 209,
+      "name": "Lochemse Golfclub",
+      "latitude": 52.138364,
+      "longitude": 6.35871,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 210,
+      "name": "Marine Golfclub Nieuwediep",
+      "latitude": 52.924456,
+      "longitude": 4.777999,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 211,
+      "name": "Martensplek",
+      "latitude": 52.757408,
+      "longitude": 6.558181,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 212,
+      "name": "Mergelhof",
+      "latitude": 50.75642,
+      "longitude": 5.947404,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 213,
+      "name": "Multi Fun Bussloo - Pitch en Putt",
+      "latitude": 52.201927,
+      "longitude": 6.090809,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 214,
+      "name": "MultiGolf Maurik",
+      "latitude": 51.972365,
+      "longitude": 5.418723,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 215,
+      "name": "Noord-Brabantsche Golfclub Toxandria",
+      "latitude": 51.580772,
+      "longitude": 4.880606,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 216,
+      "name": "Noord-Nederlandse Golf & Country Club",
+      "latitude": 53.124975,
+      "longitude": 6.63352,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 217,
+      "name": "Noordwijkse Golfclub",
+      "latitude": 52.283885,
+      "longitude": 4.473394,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 218,
+      "name": "Oegstgeester golfclub",
+      "latitude": 52.184705,
+      "longitude": 4.461566,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 219,
+      "name": "Oegstgeester golfclub",
+      "latitude": 52.186144,
+      "longitude": 4.462596,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 220,
+      "name": "Oegstgeester golfclub",
+      "latitude": 52.186951,
+      "longitude": 4.46212,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 221,
+      "name": "Old Course Loenen",
+      "latitude": 52.213492,
+      "longitude": 5.010225,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 222,
+      "name": "Oosterhoutse Golf Club",
+      "latitude": 51.613184,
+      "longitude": 4.861726,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 223,
+      "name": "Openbare Golfclub Dronten",
+      "latitude": 52.497519,
+      "longitude": 5.708991,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 224,
+      "name": "Oude Maas",
+      "latitude": 51.837681,
+      "longitude": 4.452479,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 225,
+      "name": "Pitch & Putt",
+      "latitude": 52.7144,
+      "longitude": 6.30332,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 226,
+      "name": "Pitch & Putt Doetinchem",
+      "latitude": 51.967653,
+      "longitude": 6.238484,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 227,
+      "name": "Pitch & Putt Esonstad",
+      "latitude": 53.374885,
+      "longitude": 6.154076,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 228,
+      "name": "Pitch & Putt Heerde",
+      "latitude": 52.397184,
+      "longitude": 6.009817,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 229,
+      "name": "Pitch & Putt Martensplek",
+      "latitude": 52.760957,
+      "longitude": 6.56338,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 230,
+      "name": "Pitch & Putt Molenhoek",
+      "latitude": 51.77588,
+      "longitude": 5.876772,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 231,
+      "name": "Pitch & Putt Orveltermarke (Landal)",
+      "latitude": 52.834817,
+      "longitude": 6.665604,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 232,
+      "name": "Pitch & Putt Zeumeren",
+      "latitude": 52.175069,
+      "longitude": 5.615252,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 233,
+      "name": "Pitch&Putt De Blanckenborg",
+      "latitude": 52.032546,
+      "longitude": 6.63904,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 234,
+      "name": "Pitch&Putt Golf Lemele",
+      "latitude": 52.453664,
+      "longitude": 6.410476,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 235,
+      "name": "Pitch&Putt Golf Oirschot",
+      "latitude": 51.515037,
+      "longitude": 5.278578,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 236,
+      "name": "Pitch&Putt Golf Strand Horst",
+      "latitude": 52.299925,
+      "longitude": 5.553011,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 237,
+      "name": "Pitch&Putt Groningen",
+      "latitude": 53.241474,
+      "longitude": 6.597374,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 238,
+      "name": "Pitch&Putt Kameryck",
+      "latitude": 52.131298,
+      "longitude": 4.906773,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 239,
+      "name": "Pitch&Putt Koudum",
+      "latitude": 52.919024,
+      "longitude": 5.460417,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 240,
+      "name": "Pitch&Putt Papendal",
+      "latitude": 52.010169,
+      "longitude": 5.82457,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 241,
+      "name": "Pitch&Putt Rhoon",
+      "latitude": 51.84509,
+      "longitude": 4.418734,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 242,
+      "name": "Pitch&Putt Twente",
+      "latitude": 52.196348,
+      "longitude": 6.592466,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 243,
+      "name": "Prise d'Eau Golf",
+      "latitude": 51.545384,
+      "longitude": 4.988818,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 244,
+      "name": "Regthuys Golf",
+      "latitude": 52.754058,
+      "longitude": 4.916418,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 245,
+      "name": "Rijswijkse Golfclub",
+      "latitude": 52.034279,
+      "longitude": 4.350301,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 246,
+      "name": "Rosendaelsche Golfclub",
+      "latitude": 52.021564,
+      "longitude": 5.930793,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 247,
+      "name": "Sallandsche Golfclub 'de Hoek'",
+      "latitude": 52.295299,
+      "longitude": 6.168766,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 248,
+      "name": "Schaerweijde Golf",
+      "latitude": 52.10523,
+      "longitude": 5.268405,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 249,
+      "name": "Schots Golf",
+      "latitude": 51.926289,
+      "longitude": 6.135366,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 250,
+      "name": "Shortgolf Berkelland",
+      "latitude": 52.107573,
+      "longitude": 6.647524,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 251,
+      "name": "Shortgolf Swifterbant",
+      "latitude": 52.583318,
+      "longitude": 5.629099,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 252,
+      "name": "Shortgolf Twente",
+      "latitude": 52.410562,
+      "longitude": 6.805014,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 253,
+      "name": "Sluispolder",
+      "latitude": 52.656901,
+      "longitude": 4.734043,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 254,
+      "name": "Spielehof",
+      "latitude": 52.200327,
+      "longitude": 6.784406,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 255,
+      "name": "Supagolf",
+      "latitude": 52.257684,
+      "longitude": 6.727906,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 256,
+      "name": "The Duke Club",
+      "latitude": 51.722244,
+      "longitude": 5.562608,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 257,
+      "name": "The Dutch",
+      "latitude": 51.850062,
+      "longitude": 5.012273,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 258,
+      "name": "The International",
+      "latitude": 52.323205,
+      "longitude": 4.810966,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 259,
+      "name": "The International",
+      "latitude": 52.330269,
+      "longitude": 4.802164,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 260,
+      "name": "The Links Valley",
+      "latitude": 52.300649,
+      "longitude": 5.686221,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 261,
+      "name": "Twentsche Golfclub",
+      "latitude": 52.291536,
+      "longitude": 6.675301,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 262,
+      "name": "Twentse Golf Academy",
+      "latitude": 52.241175,
+      "longitude": 6.694721,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 263,
+      "name": "Twentse Golf Park",
+      "latitude": 52.139817,
+      "longitude": 6.730396,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 264,
+      "name": "Utrechtse Golfclub 'De Pan'",
+      "latitude": 52.118463,
+      "longitude": 5.223889,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 265,
+      "name": "Utrechtse Golfclub Amelisweerd",
+      "latitude": 52.062032,
+      "longitude": 5.154317,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 266,
+      "name": "Valkenswaardse Golfclub",
+      "latitude": 51.365768,
+      "longitude": 5.457406,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 267,
+      "name": "Veluwse Golfclub",
+      "latitude": 52.216826,
+      "longitude": 5.867833,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 268,
+      "name": "Wassenaarse Golf Groendael",
+      "latitude": 52.110808,
+      "longitude": 4.339848,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 269,
+      "name": "Wassenaarse Golfclub Rozenstein",
+      "latitude": 52.152762,
+      "longitude": 4.388595,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 270,
+      "name": "Zaanse Golf Club",
+      "latitude": 52.473056,
+      "longitude": 4.866272,
+      "osm_klasse": "leisure=golf_course"
+    },
+    {
+      "id": 271,
+      "name": "de Herkenbosche",
+      "latitude": 51.172377,
+      "longitude": 6.067163,
+      "osm_klasse": "leisure=golf_course"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: golf course (leisure=golf_course) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged leisure=golf_course in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 271 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: golf course (leisure=golf_course) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: golf course (leisure=golf_course) — 271 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 271 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

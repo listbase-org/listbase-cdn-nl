@@ -1,0 +1,2298 @@
+{
+  "id": "nl-osm-office-accountant",
+  "name": "Netherlands OSM: accountant (office=accountant)",
+  "title": "Netherlands OSM: accountant (office=accountant)",
+  "description": "Named OpenStreetMap features tagged office=accountant in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 321,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "223 Timmermans Accountancy",
+      "latitude": 52.059773,
+      "longitude": 4.344991,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 2,
+      "name": "A.A.S. bedrijfsadministraties",
+      "latitude": 52.079011,
+      "longitude": 4.400061,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 3,
+      "name": "A3 Regio Advies",
+      "latitude": 52.355414,
+      "longitude": 6.475724,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 4,
+      "name": "AACC",
+      "latitude": 52.210151,
+      "longitude": 5.961482,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 5,
+      "name": "AB data & Partners Accountants",
+      "latitude": 50.939777,
+      "longitude": 5.795375,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 6,
+      "name": "ADOP Administratiekantoor",
+      "latitude": 52.997653,
+      "longitude": 6.573345,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 7,
+      "name": "AJ Consultancy",
+      "latitude": 52.075993,
+      "longitude": 4.283329,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 8,
+      "name": "AMS Accountants",
+      "latitude": 52.603311,
+      "longitude": 6.457991,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 9,
+      "name": "ANB Accountants",
+      "latitude": 51.429468,
+      "longitude": 5.447582,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 10,
+      "name": "ATB Administratie & Advies",
+      "latitude": 53.252064,
+      "longitude": 6.144521,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 11,
+      "name": "AVO controlling",
+      "latitude": 51.865672,
+      "longitude": 4.481838,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 12,
+      "name": "Aaff",
+      "latitude": 53.164068,
+      "longitude": 5.795338,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 13,
+      "name": "Aantafel accountants",
+      "latitude": 51.649041,
+      "longitude": 5.623662,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 14,
+      "name": "Abo Vastgoed & Financieel Advies",
+      "latitude": 51.845842,
+      "longitude": 5.868687,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 15,
+      "name": "Accon",
+      "latitude": 51.327267,
+      "longitude": 3.491418,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 16,
+      "name": "Accon Avm",
+      "latitude": 51.979288,
+      "longitude": 5.974516,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 17,
+      "name": "Accountants- en Administratiekantoor VFM",
+      "latitude": 52.362848,
+      "longitude": 5.183152,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 18,
+      "name": "Accountantskantoor Cevezet",
+      "latitude": 51.548396,
+      "longitude": 5.067693,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 19,
+      "name": "Accountantskantoor De Wit",
+      "latitude": 52.50511,
+      "longitude": 4.665907,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 20,
+      "name": "Accountantskantoor Hut B.V.",
+      "latitude": 53.091646,
+      "longitude": 6.671933,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 21,
+      "name": "Accountantskantoor Jongejan",
+      "latitude": 52.646532,
+      "longitude": 5.08127,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 22,
+      "name": "Accountantskantoor Spijk",
+      "latitude": 53.406461,
+      "longitude": 6.672116,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 23,
+      "name": "Accountantskantoor Trox",
+      "latitude": 53.332127,
+      "longitude": 6.73935,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 24,
+      "name": "Accountantskantoor Verstraelen",
+      "latitude": 51.454126,
+      "longitude": 6.050698,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 25,
+      "name": "Accountantskantoor van Pomp",
+      "latitude": 52.189973,
+      "longitude": 5.943608,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 26,
+      "name": "Accuraat Accountants",
+      "latitude": 52.463577,
+      "longitude": 6.495574,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 27,
+      "name": "Admaa",
+      "latitude": 52.124379,
+      "longitude": 4.44398,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 28,
+      "name": "Admaa Accountants",
+      "latitude": 52.067855,
+      "longitude": 4.360453,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 29,
+      "name": "Administratie & Advies Zoetermeer",
+      "latitude": 52.034655,
+      "longitude": 4.495572,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 30,
+      "name": "Administratie- en Assurantiekantoor Koningswoud",
+      "latitude": 51.751148,
+      "longitude": 4.10046,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 31,
+      "name": "Administratiekantoor A. Boekee",
+      "latitude": 51.748891,
+      "longitude": 4.097136,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 32,
+      "name": "Administratiekantoor B. Hoeksema & Zn.",
+      "latitude": 53.213298,
+      "longitude": 6.277538,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 33,
+      "name": "Administratiekantoor Bobest",
+      "latitude": 52.205271,
+      "longitude": 5.938491,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 34,
+      "name": "Administratiekantoor Bouterse",
+      "latitude": 51.549178,
+      "longitude": 3.592692,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 35,
+      "name": "Administratiekantoor De Armenweg",
+      "latitude": 51.748966,
+      "longitude": 4.102523,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 36,
+      "name": "Administratiekantoor De Glee",
+      "latitude": 52.931873,
+      "longitude": 5.883789,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 37,
+      "name": "Administratiekantoor Esteriann",
+      "latitude": 52.168922,
+      "longitude": 5.348566,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 38,
+      "name": "Administratiekantoor Gorter",
+      "latitude": 51.749489,
+      "longitude": 4.100812,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 39,
+      "name": "Administratiekantoor Hofman",
+      "latitude": 51.74566,
+      "longitude": 4.099347,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 40,
+      "name": "Administratiekantoor J.M.P. van Dam",
+      "latitude": 51.744438,
+      "longitude": 4.10014,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 41,
+      "name": "Administratiekantoor Koch",
+      "latitude": 51.973596,
+      "longitude": 5.668267,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 42,
+      "name": "Administratiekantoor LR",
+      "latitude": 52.094934,
+      "longitude": 5.06527,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 43,
+      "name": "Administratiekantoor Palm",
+      "latitude": 51.884981,
+      "longitude": 4.512491,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 44,
+      "name": "Administratiekantoor Westhoeve",
+      "latitude": 51.750013,
+      "longitude": 4.11919,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 45,
+      "name": "Adviesgroep Voorne Putten",
+      "latitude": 51.855309,
+      "longitude": 4.142471,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 46,
+      "name": "Afier Accountants & Adviseurs",
+      "latitude": 53.083657,
+      "longitude": 6.602543,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 47,
+      "name": "Agaath Administraties",
+      "latitude": 52.368575,
+      "longitude": 4.869029,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 48,
+      "name": "Ahead Accountants",
+      "latitude": 53.280272,
+      "longitude": 6.150784,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 49,
+      "name": "Alfa Accountants en Adviseurs",
+      "latitude": 52.504004,
+      "longitude": 4.958279,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 50,
+      "name": "Ambitions",
+      "latitude": 52.362506,
+      "longitude": 6.458987,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 51,
+      "name": "Apert Advies",
+      "latitude": 51.445949,
+      "longitude": 5.614391,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 52,
+      "name": "Assurantie Kant Groot",
+      "latitude": 52.142307,
+      "longitude": 4.461006,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 53,
+      "name": "Atripel / Atripel & Cross",
+      "latitude": 52.088691,
+      "longitude": 4.33678,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 54,
+      "name": "Avenue Accountants",
+      "latitude": 52.140029,
+      "longitude": 5.417288,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 55,
+      "name": "Avera",
+      "latitude": 51.999533,
+      "longitude": 4.329051,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 56,
+      "name": "B & E",
+      "latitude": 52.200154,
+      "longitude": 5.958425,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 57,
+      "name": "BBP Administratie",
+      "latitude": 52.500182,
+      "longitude": 4.769722,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 58,
+      "name": "BD Lease",
+      "latitude": 51.25139,
+      "longitude": 5.713018,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 59,
+      "name": "BDO",
+      "latitude": 51.82456,
+      "longitude": 5.783202,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 60,
+      "name": "BDO",
+      "latitude": 52.067375,
+      "longitude": 5.075846,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 61,
+      "name": "BDO Accountants & Adviseurs",
+      "latitude": 52.282962,
+      "longitude": 6.777496,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 62,
+      "name": "BDO Arnhem",
+      "latitude": 51.979129,
+      "longitude": 5.974038,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 63,
+      "name": "BG Accountants",
+      "latitude": 52.95634,
+      "longitude": 4.757384,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 64,
+      "name": "Baker Tilly",
+      "latitude": 52.353983,
+      "longitude": 6.660891,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 65,
+      "name": "BakerTilly",
+      "latitude": 51.497826,
+      "longitude": 3.887598,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 66,
+      "name": "Balance",
+      "latitude": 52.241978,
+      "longitude": 6.104464,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 67,
+      "name": "BazBin",
+      "latitude": 52.399698,
+      "longitude": 4.931906,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 68,
+      "name": "BenT Accountants en Belastingadviseurs",
+      "latitude": 51.443904,
+      "longitude": 5.50422,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 69,
+      "name": "Bentacera",
+      "latitude": 52.964456,
+      "longitude": 5.929838,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 70,
+      "name": "Bentacera",
+      "latitude": 53.103123,
+      "longitude": 6.127192,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 71,
+      "name": "Bentacera",
+      "latitude": 53.199364,
+      "longitude": 5.776234,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 72,
+      "name": "Berghoef",
+      "latitude": 52.272362,
+      "longitude": 4.752272,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 73,
+      "name": "Bloemendaal & Wiegerinck Accountants en Belastingadviseurs",
+      "latitude": 52.104307,
+      "longitude": 6.319605,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 74,
+      "name": "Boekhoudburo Westfriesland",
+      "latitude": 52.655206,
+      "longitude": 5.066599,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 75,
+      "name": "Boekzo",
+      "latitude": 51.671054,
+      "longitude": 5.607256,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 76,
+      "name": "Bol",
+      "latitude": 51.646698,
+      "longitude": 5.937969,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 77,
+      "name": "Bongaerts Advies",
+      "latitude": 51.05426,
+      "longitude": 5.939119,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 78,
+      "name": "BonsenReuling Accountants & Adviseurs",
+      "latitude": 52.375735,
+      "longitude": 7.002986,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 79,
+      "name": "Boom Adviesgroep",
+      "latitude": 52.517256,
+      "longitude": 4.996637,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 80,
+      "name": "Brem",
+      "latitude": 52.395074,
+      "longitude": 6.044073,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 81,
+      "name": "Brink & Hoek",
+      "latitude": 53.201826,
+      "longitude": 6.576337,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 82,
+      "name": "C.J. van Beek & Co",
+      "latitude": 52.280413,
+      "longitude": 5.166366,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 83,
+      "name": "CaseWare Nederland",
+      "latitude": 52.234327,
+      "longitude": 5.977094,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 84,
+      "name": "Cash flow administrations",
+      "latitude": 52.14695,
+      "longitude": 4.394615,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 85,
+      "name": "Cashcontrol",
+      "latitude": 51.913596,
+      "longitude": 4.399552,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 86,
+      "name": "Cijfermeester E. van Bruggen",
+      "latitude": 51.792923,
+      "longitude": 4.552167,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 87,
+      "name": "Cijfers & Mensen in balans",
+      "latitude": 50.943589,
+      "longitude": 5.796833,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 88,
+      "name": "Cijfers van de Zaak",
+      "latitude": 51.815673,
+      "longitude": 4.662033,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 89,
+      "name": "Cijns",
+      "latitude": 52.214089,
+      "longitude": 5.974381,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 90,
+      "name": "Connie Maasse",
+      "latitude": 52.160198,
+      "longitude": 5.363166,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 91,
+      "name": "Corbeel accountants & adviseurs",
+      "latitude": 52.090833,
+      "longitude": 4.96436,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 92,
+      "name": "Counters B.V.",
+      "latitude": 51.57348,
+      "longitude": 5.049125,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 93,
+      "name": "Countus",
+      "latitude": 52.126083,
+      "longitude": 5.566444,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 94,
+      "name": "DGD Administratie- en Belastingadviseurs",
+      "latitude": 51.543359,
+      "longitude": 4.44787,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 95,
+      "name": "DK Accountants",
+      "latitude": 52.141021,
+      "longitude": 5.419008,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 96,
+      "name": "DK Accountants & Adviseurs",
+      "latitude": 52.041014,
+      "longitude": 5.539666,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 97,
+      "name": "DKL",
+      "latitude": 51.814273,
+      "longitude": 4.664779,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 98,
+      "name": "DTG Accountants & Adviseurs",
+      "latitude": 52.672343,
+      "longitude": 5.063702,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 99,
+      "name": "DVEN",
+      "latitude": 53.181196,
+      "longitude": 6.161553,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 100,
+      "name": "Dadem",
+      "latitude": 52.073901,
+      "longitude": 4.277396,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 101,
+      "name": "De Beers Accountants",
+      "latitude": 51.443395,
+      "longitude": 4.929087,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 102,
+      "name": "De Hypotheekshop Hoorn",
+      "latitude": 52.652352,
+      "longitude": 5.07542,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 103,
+      "name": "De Jong & Laan",
+      "latitude": 53.212801,
+      "longitude": 6.587972,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 104,
+      "name": "De Kok accountants en adviseurs",
+      "latitude": 52.350203,
+      "longitude": 6.671277,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 105,
+      "name": "De Man",
+      "latitude": 52.62898,
+      "longitude": 4.745721,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 106,
+      "name": "De Meerse",
+      "latitude": 52.283142,
+      "longitude": 4.793469,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 107,
+      "name": "De Velden",
+      "latitude": 52.174871,
+      "longitude": 5.456366,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 108,
+      "name": "De Zorg Accountants",
+      "latitude": 51.98896,
+      "longitude": 5.933675,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 109,
+      "name": "Dedel",
+      "latitude": 52.008911,
+      "longitude": 4.529114,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 110,
+      "name": "Deloitte",
+      "latitude": 51.977628,
+      "longitude": 5.969852,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 111,
+      "name": "Dijksterhuis Accountants en Advieskantoor",
+      "latitude": 51.522575,
+      "longitude": 4.447815,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 112,
+      "name": "Elferink & Co. Accountants",
+      "latitude": 52.051313,
+      "longitude": 5.281143,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 113,
+      "name": "Equus",
+      "latitude": 52.033081,
+      "longitude": 5.669769,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 114,
+      "name": "FROM925.works",
+      "latitude": 51.471967,
+      "longitude": 3.592681,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 115,
+      "name": "FSV Accountants",
+      "latitude": 51.797418,
+      "longitude": 5.256956,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 116,
+      "name": "Finance Anders",
+      "latitude": 52.211811,
+      "longitude": 5.972723,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 117,
+      "name": "Finlife Financieel Planners",
+      "latitude": 52.079833,
+      "longitude": 4.280882,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 118,
+      "name": "Finta",
+      "latitude": 52.695829,
+      "longitude": 6.207095,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 119,
+      "name": "FlexFinancials",
+      "latitude": 52.06364,
+      "longitude": 4.53192,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 120,
+      "name": "Flow Accountants",
+      "latitude": 52.164913,
+      "longitude": 5.371319,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 121,
+      "name": "Flynth",
+      "latitude": 52.036389,
+      "longitude": 6.623572,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 122,
+      "name": "Flynth",
+      "latitude": 52.410484,
+      "longitude": 6.901856,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 123,
+      "name": "Flynth",
+      "latitude": 52.512557,
+      "longitude": 6.088597,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 124,
+      "name": "Flynth",
+      "latitude": 52.698806,
+      "longitude": 5.145522,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 125,
+      "name": "Flynth",
+      "latitude": 52.772433,
+      "longitude": 6.896632,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 126,
+      "name": "G.M. Van der Meijden",
+      "latitude": 51.331512,
+      "longitude": 3.833055,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 127,
+      "name": "GOO Zoetermeer B.V.",
+      "latitude": 52.037596,
+      "longitude": 4.499476,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 128,
+      "name": "Gerritsen",
+      "latitude": 52.384107,
+      "longitude": 6.271862,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 129,
+      "name": "Govers Accountants",
+      "latitude": 51.428384,
+      "longitude": 5.447468,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 130,
+      "name": "HBG & Partners",
+      "latitude": 52.8817,
+      "longitude": 7.054952,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 131,
+      "name": "HD Consultancy",
+      "latitude": 52.321817,
+      "longitude": 4.975842,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 132,
+      "name": "Heidinga accountants",
+      "latitude": 53.048086,
+      "longitude": 6.555108,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 133,
+      "name": "Het Kantoor",
+      "latitude": 52.338234,
+      "longitude": 5.620633,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 134,
+      "name": "Hilco Admin",
+      "latitude": 52.503799,
+      "longitude": 4.95759,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 135,
+      "name": "Hilgers Accountants",
+      "latitude": 52.503835,
+      "longitude": 4.95761,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 136,
+      "name": "Hofhuis Accountancy",
+      "latitude": 52.261566,
+      "longitude": 6.788676,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 137,
+      "name": "Hofman Financial Mamagement",
+      "latitude": 52.180306,
+      "longitude": 5.986105,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 138,
+      "name": "Hoorn Administratieve Dienstverlening",
+      "latitude": 52.651929,
+      "longitude": 5.076123,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 139,
+      "name": "In Zaken",
+      "latitude": 51.333414,
+      "longitude": 3.828818,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 140,
+      "name": "InterChange",
+      "latitude": 52.079506,
+      "longitude": 4.293225,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 141,
+      "name": "J. Prins",
+      "latitude": 52.215494,
+      "longitude": 5.933408,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 142,
+      "name": "JAN©",
+      "latitude": 52.503628,
+      "longitude": 4.959035,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 143,
+      "name": "JB accountants/adviseurs",
+      "latitude": 51.882564,
+      "longitude": 5.289414,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 144,
+      "name": "JaDaa Vries",
+      "latitude": 53.073378,
+      "longitude": 6.578815,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 145,
+      "name": "Joore Tilburg",
+      "latitude": 51.540981,
+      "longitude": 5.04994,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 146,
+      "name": "Joosse Accountants",
+      "latitude": 51.567083,
+      "longitude": 3.553888,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 147,
+      "name": "K&D Accountants",
+      "latitude": 51.542343,
+      "longitude": 5.057692,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 148,
+      "name": "K&M Accountants",
+      "latitude": 52.047872,
+      "longitude": 4.504631,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 149,
+      "name": "K.A.N. Accountants",
+      "latitude": 51.979166,
+      "longitude": 5.799073,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 150,
+      "name": "KPMG",
+      "latitude": 52.295649,
+      "longitude": 4.877179,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 151,
+      "name": "KRC van Elderen",
+      "latitude": 52.213816,
+      "longitude": 5.974245,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 152,
+      "name": "Kantoor Vreugdenhil",
+      "latitude": 53.414206,
+      "longitude": 6.725446,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 153,
+      "name": "Kees de Boekhouder",
+      "latitude": 52.385629,
+      "longitude": 4.884706,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 154,
+      "name": "Kleur Accountants",
+      "latitude": 52.512829,
+      "longitude": 5.006262,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 155,
+      "name": "Koeleman",
+      "latitude": 52.125863,
+      "longitude": 4.444336,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 156,
+      "name": "Koelman Administratie en Belastingen",
+      "latitude": 52.503858,
+      "longitude": 4.958773,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 157,
+      "name": "Kroesewevers",
+      "latitude": 52.519594,
+      "longitude": 6.118964,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 158,
+      "name": "Kubus",
+      "latitude": 52.518693,
+      "longitude": 6.075514,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 159,
+      "name": "LHB administraties",
+      "latitude": 52.369445,
+      "longitude": 4.954698,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 160,
+      "name": "Lakarsk",
+      "latitude": 52.061443,
+      "longitude": 4.345338,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 161,
+      "name": "Lantinga",
+      "latitude": 52.389567,
+      "longitude": 6.44782,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 162,
+      "name": "Lauret & Roose",
+      "latitude": 51.330266,
+      "longitude": 3.833642,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 163,
+      "name": "Leermakers",
+      "latitude": 51.486008,
+      "longitude": 5.135955,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 164,
+      "name": "Lemmen & Keijsers Accountancy",
+      "latitude": 51.455644,
+      "longitude": 6.050922,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 165,
+      "name": "Leyestaete",
+      "latitude": 52.082274,
+      "longitude": 4.288481,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 166,
+      "name": "Lubbersen Accountancy en Advies",
+      "latitude": 52.258666,
+      "longitude": 5.609493,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 167,
+      "name": "M. van Loon",
+      "latitude": 52.359888,
+      "longitude": 6.375945,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 168,
+      "name": "M.A. Bekke",
+      "latitude": 52.365504,
+      "longitude": 6.454093,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 169,
+      "name": "Mands",
+      "latitude": 51.925129,
+      "longitude": 4.485806,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 170,
+      "name": "Mands",
+      "latitude": 52.064308,
+      "longitude": 4.331011,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 171,
+      "name": "Mazars",
+      "latitude": 52.206134,
+      "longitude": 5.9573,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 172,
+      "name": "Meester & Kuiper Accountants",
+      "latitude": 52.22679,
+      "longitude": 5.168286,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 173,
+      "name": "Milder administraties & belastingen",
+      "latitude": 51.844952,
+      "longitude": 5.86871,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 174,
+      "name": "Moore DRV",
+      "latitude": 51.653943,
+      "longitude": 3.923785,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 175,
+      "name": "Moore DRV",
+      "latitude": 51.820413,
+      "longitude": 4.437416,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 176,
+      "name": "Moore MKW",
+      "latitude": 51.957601,
+      "longitude": 6.2933,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 177,
+      "name": "Mossink",
+      "latitude": 52.19927,
+      "longitude": 5.951664,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 178,
+      "name": "Mulderij & Partners Accountants en Adviseurs",
+      "latitude": 52.732284,
+      "longitude": 6.475813,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 179,
+      "name": "Nijhuis & te Winkel Boekel",
+      "latitude": 51.602661,
+      "longitude": 5.671624,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 180,
+      "name": "Novel Groep Holding B.V.",
+      "latitude": 51.920084,
+      "longitude": 6.568643,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 181,
+      "name": "Novèns",
+      "latitude": 52.233637,
+      "longitude": 4.443868,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 182,
+      "name": "O&W Accountants",
+      "latitude": 51.644391,
+      "longitude": 5.656437,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 183,
+      "name": "OAMKB Eindhoven & Gemert",
+      "latitude": 51.4453,
+      "longitude": 5.460066,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 184,
+      "name": "OOvB",
+      "latitude": 51.606294,
+      "longitude": 5.670673,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 185,
+      "name": "Omnyacc accountants & adviseurs",
+      "latitude": 53.204535,
+      "longitude": 5.76389,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 186,
+      "name": "Ontdek Kracht",
+      "latitude": 51.522886,
+      "longitude": 5.065032,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 187,
+      "name": "Ooms & Elzakkers",
+      "latitude": 51.523103,
+      "longitude": 4.447833,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 188,
+      "name": "Outback B.V.",
+      "latitude": 51.972931,
+      "longitude": 5.734169,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 189,
+      "name": "P&MKooy accountants & belastingadviseurs",
+      "latitude": 51.782061,
+      "longitude": 4.612059,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 190,
+      "name": "PV Accountants",
+      "latitude": 52.522083,
+      "longitude": 6.118232,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 191,
+      "name": "PWC",
+      "latitude": 51.979176,
+      "longitude": 5.980871,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 192,
+      "name": "PWC",
+      "latitude": 52.516969,
+      "longitude": 6.085829,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 193,
+      "name": "Pors Accountants",
+      "latitude": 52.873991,
+      "longitude": 7.065916,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 194,
+      "name": "Practical Accounting",
+      "latitude": 51.923355,
+      "longitude": 4.469049,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 195,
+      "name": "Practical Accounting administratiekantoor Rotterdam",
+      "latitude": 51.923278,
+      "longitude": 4.469165,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 196,
+      "name": "Practical | Excellence in Finance",
+      "latitude": 52.158886,
+      "longitude": 5.165724,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 197,
+      "name": "Practical | Excellence in Finance",
+      "latitude": 52.362533,
+      "longitude": 4.915477,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 198,
+      "name": "Profiscus",
+      "latitude": 52.075448,
+      "longitude": 4.279787,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 199,
+      "name": "RBZ",
+      "latitude": 53.213754,
+      "longitude": 6.570511,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 200,
+      "name": "RSM",
+      "latitude": 52.095383,
+      "longitude": 5.137691,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 201,
+      "name": "Raad",
+      "latitude": 51.683597,
+      "longitude": 5.324053,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 202,
+      "name": "Reitsma & de Jong Administratie en Belastingadvies",
+      "latitude": 52.816308,
+      "longitude": 6.516106,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 203,
+      "name": "Robbers",
+      "latitude": 52.223685,
+      "longitude": 5.975745,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 204,
+      "name": "Rogiest & Meijer",
+      "latitude": 51.304894,
+      "longitude": 3.852347,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 205,
+      "name": "Roovers & Theeuwes",
+      "latitude": 51.55602,
+      "longitude": 5.064595,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 206,
+      "name": "S&S consultants",
+      "latitude": 52.32152,
+      "longitude": 4.977129,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 207,
+      "name": "SCAB",
+      "latitude": 51.541379,
+      "longitude": 5.050077,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 208,
+      "name": "SRA",
+      "latitude": 52.072483,
+      "longitude": 5.046072,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 209,
+      "name": "ST Finance",
+      "latitude": 52.16696,
+      "longitude": 5.364276,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 210,
+      "name": "Salarisvisie",
+      "latitude": 52.503816,
+      "longitude": 4.957599,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 211,
+      "name": "Schaap & Van Dijk",
+      "latitude": 52.228431,
+      "longitude": 5.367356,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 212,
+      "name": "Scheffel Accountancy",
+      "latitude": 52.50378,
+      "longitude": 4.958874,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 213,
+      "name": "Schipper",
+      "latitude": 51.870394,
+      "longitude": 4.551654,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 214,
+      "name": "Schipper Accountants BV",
+      "latitude": 51.527001,
+      "longitude": 4.46008,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 215,
+      "name": "Schouten Accountants",
+      "latitude": 51.859975,
+      "longitude": 4.436562,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 216,
+      "name": "Schouten Financiële Dienstverlening",
+      "latitude": 52.366983,
+      "longitude": 4.93415,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 217,
+      "name": "Schuurmans Rombouts",
+      "latitude": 51.64626,
+      "longitude": 5.292247,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 218,
+      "name": "Sijben & Hupperetz",
+      "latitude": 50.895376,
+      "longitude": 6.006773,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 219,
+      "name": "Simple Business Support",
+      "latitude": 52.321746,
+      "longitude": 4.977732,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 220,
+      "name": "Slot Accountants",
+      "latitude": 52.642237,
+      "longitude": 5.053086,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 221,
+      "name": "Soetens Finance",
+      "latitude": 51.432834,
+      "longitude": 5.440128,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 222,
+      "name": "Spiegel",
+      "latitude": 52.50955,
+      "longitude": 6.087118,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 223,
+      "name": "Spoelstra Accountancy Services",
+      "latitude": 52.428952,
+      "longitude": 4.913887,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 224,
+      "name": "Stielstra & Partners",
+      "latitude": 52.142177,
+      "longitude": 4.392987,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 225,
+      "name": "Stolwijk Kelderman Accountants Fiscalisten",
+      "latitude": 51.961138,
+      "longitude": 6.293714,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 226,
+      "name": "Swaans Registeraccountants",
+      "latitude": 51.542837,
+      "longitude": 5.090797,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 227,
+      "name": "Takken Financieel",
+      "latitude": 51.891481,
+      "longitude": 5.912583,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 228,
+      "name": "Tameling",
+      "latitude": 52.630513,
+      "longitude": 4.755243,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 229,
+      "name": "Timmer BV",
+      "latitude": 52.419092,
+      "longitude": 5.817106,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 230,
+      "name": "Timmer-Aalten",
+      "latitude": 52.216906,
+      "longitude": 5.966679,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 231,
+      "name": "Today administraties",
+      "latitude": 51.512019,
+      "longitude": 5.494026,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 232,
+      "name": "Treep - Wedzinga",
+      "latitude": 52.515255,
+      "longitude": 6.104006,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 233,
+      "name": "Trinitas Accountants",
+      "latitude": 51.685911,
+      "longitude": 5.29747,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 234,
+      "name": "Troost Accountantskantoor v.o.f.",
+      "latitude": 51.81499,
+      "longitude": 4.4159,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 235,
+      "name": "Univé",
+      "latitude": 52.837528,
+      "longitude": 6.36538,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 236,
+      "name": "Up2Date Administratie",
+      "latitude": 51.650229,
+      "longitude": 3.931518,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 237,
+      "name": "V&S Accountancy",
+      "latitude": 52.503629,
+      "longitude": 6.10849,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 238,
+      "name": "VBA",
+      "latitude": 52.283024,
+      "longitude": 6.431141,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 239,
+      "name": "Vacura",
+      "latitude": 52.130183,
+      "longitude": 5.566769,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 240,
+      "name": "Vallei Accountants",
+      "latitude": 52.129509,
+      "longitude": 5.567699,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 241,
+      "name": "Van Iersel Adviesgroep",
+      "latitude": 52.391041,
+      "longitude": 4.957717,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 242,
+      "name": "Van Lienden & Kooistra",
+      "latitude": 52.124296,
+      "longitude": 5.567208,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 243,
+      "name": "Van Lith Gerechtsdeurwaarders en Incasso",
+      "latitude": 51.427735,
+      "longitude": 5.445768,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 244,
+      "name": "Van Oers Breda - Accountancy",
+      "latitude": 51.574604,
+      "longitude": 4.783185,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 245,
+      "name": "Van Ree Accountants",
+      "latitude": 52.12882,
+      "longitude": 5.567435,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 246,
+      "name": "Van den Oever Management",
+      "latitude": 52.008804,
+      "longitude": 5.673032,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 247,
+      "name": "Van der Aa",
+      "latitude": 51.556185,
+      "longitude": 5.06759,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 248,
+      "name": "Van der Wiel",
+      "latitude": 52.968638,
+      "longitude": 5.793128,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 249,
+      "name": "Vermetten",
+      "latitude": 51.554919,
+      "longitude": 5.063943,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 250,
+      "name": "Vermetten & Vogelaars",
+      "latitude": 51.535046,
+      "longitude": 4.454815,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 251,
+      "name": "Verseput",
+      "latitude": 52.216061,
+      "longitude": 5.975686,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 252,
+      "name": "Vind Advies",
+      "latitude": 52.613412,
+      "longitude": 4.742234,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 253,
+      "name": "Visser & Visser",
+      "latitude": 51.814767,
+      "longitude": 4.416984,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 254,
+      "name": "Visser & Visser",
+      "latitude": 52.128206,
+      "longitude": 5.567288,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 255,
+      "name": "Visser&Visser",
+      "latitude": 52.022422,
+      "longitude": 4.685746,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 256,
+      "name": "Vliegenberg",
+      "latitude": 51.486542,
+      "longitude": 5.137838,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 257,
+      "name": "WEA Accountants en Adviseurs",
+      "latitude": 51.513755,
+      "longitude": 4.465764,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 258,
+      "name": "WEA Deltaland",
+      "latitude": 51.803779,
+      "longitude": 4.704551,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 259,
+      "name": "WEA Deltaland",
+      "latitude": 51.814908,
+      "longitude": 4.416422,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 260,
+      "name": "WEA accountants adviseurs",
+      "latitude": 51.655091,
+      "longitude": 3.907712,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 261,
+      "name": "WG-Accountants",
+      "latitude": 51.342881,
+      "longitude": 5.466812,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 262,
+      "name": "WG-Accountants",
+      "latitude": 51.361514,
+      "longitude": 5.427103,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 263,
+      "name": "WGS Accountants",
+      "latitude": 52.131598,
+      "longitude": 5.427121,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 264,
+      "name": "WIJmetAARTS",
+      "latitude": 51.696975,
+      "longitude": 4.87416,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 265,
+      "name": "WKG Groep Accountants & Fiscaal Juristen",
+      "latitude": 51.522787,
+      "longitude": 4.447797,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 266,
+      "name": "Waterland Accountants & Adviseurs",
+      "latitude": 52.503473,
+      "longitude": 4.96266,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 267,
+      "name": "Wea",
+      "latitude": 52.016495,
+      "longitude": 4.712973,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 268,
+      "name": "Wemer & Joesoef Accountancy",
+      "latitude": 52.262065,
+      "longitude": 4.631124,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 269,
+      "name": "Werring & Schuler",
+      "latitude": 52.138645,
+      "longitude": 5.242928,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 270,
+      "name": "Westerveld en Vossers Accountantskantoor",
+      "latitude": 51.959879,
+      "longitude": 6.295248,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 271,
+      "name": "Wij met Aarts",
+      "latitude": 51.552524,
+      "longitude": 5.077576,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 272,
+      "name": "Yver Administratie",
+      "latitude": 52.210758,
+      "longitude": 6.87912,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 273,
+      "name": "Yvo Accountancy",
+      "latitude": 52.630524,
+      "longitude": 4.755059,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 274,
+      "name": "Zirikzee Groep",
+      "latitude": 52.18252,
+      "longitude": 4.485831,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 275,
+      "name": "Zwolse Adviesgroep",
+      "latitude": 52.352854,
+      "longitude": 4.932414,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 276,
+      "name": "aaff",
+      "latitude": 51.249746,
+      "longitude": 5.881949,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 277,
+      "name": "aaff",
+      "latitude": 51.334672,
+      "longitude": 3.828249,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 278,
+      "name": "aaff",
+      "latitude": 51.393953,
+      "longitude": 6.17745,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 279,
+      "name": "aaff",
+      "latitude": 51.440002,
+      "longitude": 5.427757,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 280,
+      "name": "aaff",
+      "latitude": 51.473552,
+      "longitude": 5.6264,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 281,
+      "name": "aaff",
+      "latitude": 51.50614,
+      "longitude": 3.877399,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 282,
+      "name": "aaff",
+      "latitude": 51.524279,
+      "longitude": 4.469355,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 283,
+      "name": "aaff",
+      "latitude": 51.538754,
+      "longitude": 5.046334,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 284,
+      "name": "aaff",
+      "latitude": 51.607661,
+      "longitude": 4.721698,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 285,
+      "name": "aaff",
+      "latitude": 51.652431,
+      "longitude": 5.601443,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 286,
+      "name": "aaff",
+      "latitude": 51.657571,
+      "longitude": 5.941834,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 287,
+      "name": "aaff",
+      "latitude": 51.707498,
+      "longitude": 4.876317,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 288,
+      "name": "aaff",
+      "latitude": 51.709924,
+      "longitude": 5.342507,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 289,
+      "name": "aaff",
+      "latitude": 51.775906,
+      "longitude": 4.651608,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 290,
+      "name": "aaff",
+      "latitude": 51.824085,
+      "longitude": 5.789139,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 291,
+      "name": "aaff",
+      "latitude": 51.841071,
+      "longitude": 5.000699,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 292,
+      "name": "aaff",
+      "latitude": 51.91862,
+      "longitude": 5.647212,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 293,
+      "name": "aaff",
+      "latitude": 51.91976,
+      "longitude": 6.572074,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 294,
+      "name": "aaff",
+      "latitude": 51.976581,
+      "longitude": 5.648218,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 295,
+      "name": "aaff",
+      "latitude": 51.977004,
+      "longitude": 5.967298,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 296,
+      "name": "aaff",
+      "latitude": 51.990724,
+      "longitude": 4.220156,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 297,
+      "name": "aaff",
+      "latitude": 52.000901,
+      "longitude": 6.362065,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 298,
+      "name": "aaff",
+      "latitude": 52.005587,
+      "longitude": 4.526979,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 299,
+      "name": "aaff",
+      "latitude": 52.016234,
+      "longitude": 5.054836,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 300,
+      "name": "aaff",
+      "latitude": 52.028126,
+      "longitude": 5.647342,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 301,
+      "name": "aaff",
+      "latitude": 52.160766,
+      "longitude": 5.601334,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 302,
+      "name": "aaff",
+      "latitude": 52.163604,
+      "longitude": 4.475865,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 303,
+      "name": "aaff",
+      "latitude": 52.195194,
+      "longitude": 5.392474,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 304,
+      "name": "aaff",
+      "latitude": 52.209296,
+      "longitude": 5.463305,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 305,
+      "name": "aaff",
+      "latitude": 52.26004,
+      "longitude": 4.764598,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 306,
+      "name": "aaff",
+      "latitude": 52.325597,
+      "longitude": 5.617978,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 307,
+      "name": "aaff",
+      "latitude": 52.359883,
+      "longitude": 6.512306,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 308,
+      "name": "aaff",
+      "latitude": 52.516658,
+      "longitude": 6.085484,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 309,
+      "name": "aaff",
+      "latitude": 52.539084,
+      "longitude": 5.702116,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 310,
+      "name": "aaff",
+      "latitude": 52.574009,
+      "longitude": 6.603412,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 311,
+      "name": "aaff",
+      "latitude": 52.656846,
+      "longitude": 5.063153,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 312,
+      "name": "aaff",
+      "latitude": 52.662063,
+      "longitude": 4.811072,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 313,
+      "name": "aaff",
+      "latitude": 52.717884,
+      "longitude": 6.458869,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 314,
+      "name": "aaff",
+      "latitude": 52.770656,
+      "longitude": 6.900553,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 315,
+      "name": "aaff",
+      "latitude": 52.992489,
+      "longitude": 6.52181,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 316,
+      "name": "aaff",
+      "latitude": 53.022466,
+      "longitude": 5.667155,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 317,
+      "name": "aaff",
+      "latitude": 53.196835,
+      "longitude": 6.528148,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 318,
+      "name": "aaff",
+      "latitude": 53.243339,
+      "longitude": 6.157048,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 319,
+      "name": "abel administraties BV",
+      "latitude": 51.980297,
+      "longitude": 5.754894,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 320,
+      "name": "de Jong&Laan",
+      "latitude": 52.193799,
+      "longitude": 5.934942,
+      "osm_klasse": "office=accountant"
+    },
+    {
+      "id": 321,
+      "name": "vvroem B.V.",
+      "latitude": 51.945351,
+      "longitude": 4.851257,
+      "osm_klasse": "office=accountant"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: accountant (office=accountant) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=accountant in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 321 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: accountant (office=accountant) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: accountant (office=accountant) — 321 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 321 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

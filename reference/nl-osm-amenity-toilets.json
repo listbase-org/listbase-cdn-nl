@@ -1,0 +1,1262 @@
+{
+  "id": "nl-osm-amenity-toilets",
+  "name": "Netherlands OSM: toilets (amenity=toilets)",
+  "title": "Netherlands OSM: toilets (amenity=toilets)",
+  "description": "Named OpenStreetMap features tagged amenity=toilets in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 173,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "2theloo",
+      "latitude": 50.822887,
+      "longitude": 6.019615,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 2,
+      "name": "2theloo",
+      "latitude": 51.010818,
+      "longitude": 5.799696,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 3,
+      "name": "2theloo",
+      "latitude": 51.424002,
+      "longitude": 5.667358,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 4,
+      "name": "2theloo",
+      "latitude": 51.492168,
+      "longitude": 5.349764,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 5,
+      "name": "2theloo",
+      "latitude": 51.497559,
+      "longitude": 4.742372,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 6,
+      "name": "2theloo",
+      "latitude": 51.499656,
+      "longitude": 4.741496,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 7,
+      "name": "2theloo",
+      "latitude": 51.548812,
+      "longitude": 4.531096,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 8,
+      "name": "2theloo",
+      "latitude": 51.554713,
+      "longitude": 4.912729,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 9,
+      "name": "2theloo",
+      "latitude": 51.573514,
+      "longitude": 4.684671,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 10,
+      "name": "2theloo",
+      "latitude": 51.683473,
+      "longitude": 5.893034,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 11,
+      "name": "2theloo",
+      "latitude": 51.694156,
+      "longitude": 5.018373,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 12,
+      "name": "2theloo",
+      "latitude": 51.728514,
+      "longitude": 5.475485,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 13,
+      "name": "2theloo",
+      "latitude": 51.734818,
+      "longitude": 4.632461,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 14,
+      "name": "2theloo",
+      "latitude": 51.736257,
+      "longitude": 4.410338,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 15,
+      "name": "2theloo",
+      "latitude": 51.744099,
+      "longitude": 4.917594,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 16,
+      "name": "2theloo",
+      "latitude": 51.775131,
+      "longitude": 5.260564,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 17,
+      "name": "2theloo",
+      "latitude": 51.776742,
+      "longitude": 5.257817,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 18,
+      "name": "2theloo",
+      "latitude": 51.833772,
+      "longitude": 4.620748,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 19,
+      "name": "2theloo",
+      "latitude": 51.847865,
+      "longitude": 5.190134,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 20,
+      "name": "2theloo",
+      "latitude": 51.850167,
+      "longitude": 4.680112,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 21,
+      "name": "2theloo",
+      "latitude": 51.862396,
+      "longitude": 4.461168,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 22,
+      "name": "2theloo",
+      "latitude": 51.905841,
+      "longitude": 6.156622,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 23,
+      "name": "2theloo",
+      "latitude": 51.910958,
+      "longitude": 4.984323,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 24,
+      "name": "2theloo",
+      "latitude": 51.923533,
+      "longitude": 5.607009,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 25,
+      "name": "2theloo",
+      "latitude": 51.931819,
+      "longitude": 5.876782,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 26,
+      "name": "2theloo",
+      "latitude": 51.933211,
+      "longitude": 5.877877,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 27,
+      "name": "2theloo",
+      "latitude": 51.958953,
+      "longitude": 5.895136,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 28,
+      "name": "2theloo",
+      "latitude": 51.967493,
+      "longitude": 4.589311,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 29,
+      "name": "2theloo",
+      "latitude": 52.00923,
+      "longitude": 4.311687,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 30,
+      "name": "2theloo",
+      "latitude": 52.024426,
+      "longitude": 5.879688,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 31,
+      "name": "2theloo",
+      "latitude": 52.039677,
+      "longitude": 4.705514,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 32,
+      "name": "2theloo",
+      "latitude": 52.05038,
+      "longitude": 5.461882,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 33,
+      "name": "2theloo",
+      "latitude": 52.0654,
+      "longitude": 4.317643,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 34,
+      "name": "2theloo",
+      "latitude": 52.081237,
+      "longitude": 4.983872,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 35,
+      "name": "2theloo",
+      "latitude": 52.091388,
+      "longitude": 5.113574,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 36,
+      "name": "2theloo",
+      "latitude": 52.143677,
+      "longitude": 5.001035,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 37,
+      "name": "2theloo",
+      "latitude": 52.162624,
+      "longitude": 4.554894,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 38,
+      "name": "2theloo",
+      "latitude": 52.166502,
+      "longitude": 6.025407,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 39,
+      "name": "2theloo",
+      "latitude": 52.183688,
+      "longitude": 4.987983,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 40,
+      "name": "2theloo",
+      "latitude": 52.195498,
+      "longitude": 5.834767,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 41,
+      "name": "2theloo",
+      "latitude": 52.212027,
+      "longitude": 5.341001,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 42,
+      "name": "2theloo",
+      "latitude": 52.255364,
+      "longitude": 6.437546,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 43,
+      "name": "2theloo",
+      "latitude": 52.258752,
+      "longitude": 4.685727,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 44,
+      "name": "2theloo",
+      "latitude": 52.303264,
+      "longitude": 4.859441,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 45,
+      "name": "2theloo",
+      "latitude": 52.321725,
+      "longitude": 5.083427,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 46,
+      "name": "2theloo",
+      "latitude": 52.486526,
+      "longitude": 5.493257,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 47,
+      "name": "2theloo",
+      "latitude": 52.545902,
+      "longitude": 6.168183,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 48,
+      "name": "2theloo",
+      "latitude": 52.624132,
+      "longitude": 6.207548,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 49,
+      "name": "2theloo",
+      "latitude": 52.784805,
+      "longitude": 5.758711,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 50,
+      "name": "2theloo",
+      "latitude": 52.81779,
+      "longitude": 5.743186,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 51,
+      "name": "2theloo",
+      "latitude": 53.031746,
+      "longitude": 6.020835,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 52,
+      "name": "2theloo",
+      "latitude": 53.148681,
+      "longitude": 6.60445,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 53,
+      "name": "2theloo",
+      "latitude": 53.161705,
+      "longitude": 6.292499,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 54,
+      "name": "2theloo",
+      "latitude": 53.167047,
+      "longitude": 6.312868,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 55,
+      "name": "3",
+      "latitude": 52.082357,
+      "longitude": 5.375703,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 56,
+      "name": "5",
+      "latitude": 52.079711,
+      "longitude": 5.369334,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 57,
+      "name": "6",
+      "latitude": 52.077861,
+      "longitude": 5.370207,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 58,
+      "name": "7",
+      "latitude": 52.079447,
+      "longitude": 5.372245,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 59,
+      "name": "8",
+      "latitude": 52.079357,
+      "longitude": 5.376835,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 60,
+      "name": "Bembom Hoeve",
+      "latitude": 52.617419,
+      "longitude": 6.567065,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 61,
+      "name": "Bijenkorf 5e etage",
+      "latitude": 52.373315,
+      "longitude": 4.893849,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 62,
+      "name": "Bruijd van Haerlem",
+      "latitude": 52.40866,
+      "longitude": 4.557956,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 63,
+      "name": "Burger King",
+      "latitude": 51.49997,
+      "longitude": 5.472782,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 64,
+      "name": "Butterkop",
+      "latitude": 52.411909,
+      "longitude": 4.555708,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 65,
+      "name": "Damestoilet",
+      "latitude": 53.241541,
+      "longitude": 6.550983,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 66,
+      "name": "De Hooimaat",
+      "latitude": 51.947006,
+      "longitude": 5.900466,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 67,
+      "name": "De Keldershoeve",
+      "latitude": 51.425092,
+      "longitude": 5.378569,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 68,
+      "name": "De Laetste Hoop",
+      "latitude": 51.648239,
+      "longitude": 5.048463,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 69,
+      "name": "De Twee Gebroeders",
+      "latitude": 51.371601,
+      "longitude": 6.171316,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 70,
+      "name": "Dixi",
+      "latitude": 52.055234,
+      "longitude": 5.721132,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 71,
+      "name": "Dixi",
+      "latitude": 52.056174,
+      "longitude": 5.721816,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 72,
+      "name": "Duijnpieper",
+      "latitude": 52.409814,
+      "longitude": 4.555027,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 73,
+      "name": "GEEL Toiletgebouw 2",
+      "latitude": 53.15566,
+      "longitude": 4.855552,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 74,
+      "name": "Got2Go",
+      "latitude": 51.91829,
+      "longitude": 4.480147,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 75,
+      "name": "HEMA",
+      "latitude": 51.469809,
+      "longitude": 5.475182,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 76,
+      "name": "HEMA",
+      "latitude": 51.965119,
+      "longitude": 6.290254,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 77,
+      "name": "Havenkantoor",
+      "latitude": 52.924553,
+      "longitude": 5.045691,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 78,
+      "name": "Herentoilet",
+      "latitude": 53.241519,
+      "longitude": 6.550919,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 79,
+      "name": "Ikea Eindhoven",
+      "latitude": 51.498552,
+      "longitude": 5.471214,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 80,
+      "name": "Invalidentoilet",
+      "latitude": 53.241851,
+      "longitude": 6.551131,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 81,
+      "name": "It Tobbehúske",
+      "latitude": 53.148296,
+      "longitude": 5.845692,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 82,
+      "name": "Jachthaven Wetterwille",
+      "latitude": 52.206412,
+      "longitude": 5.084092,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 83,
+      "name": "Jumbo Veldhoven",
+      "latitude": 51.418376,
+      "longitude": 5.408145,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 84,
+      "name": "Kakhuis",
+      "latitude": 51.515667,
+      "longitude": 5.103612,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 85,
+      "name": "Kasteelruïne",
+      "latitude": 50.862574,
+      "longitude": 5.830494,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 86,
+      "name": "Laaghe Zeeveld",
+      "latitude": 52.407958,
+      "longitude": 4.551126,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 87,
+      "name": "Leidseplein",
+      "latitude": 52.363445,
+      "longitude": 4.88191,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 88,
+      "name": "Museum Vrijthof",
+      "latitude": 50.848318,
+      "longitude": 5.68881,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 89,
+      "name": "Nieuw-Unicum",
+      "latitude": 52.365823,
+      "longitude": 4.557776,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 90,
+      "name": "One Hundred Restrooms",
+      "latitude": 50.886602,
+      "longitude": 5.739613,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 91,
+      "name": "One Hundred Restrooms",
+      "latitude": 51.191176,
+      "longitude": 6.02931,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 92,
+      "name": "One Hundred Restrooms",
+      "latitude": 51.322311,
+      "longitude": 5.593809,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 93,
+      "name": "One Hundred Restrooms",
+      "latitude": 51.379243,
+      "longitude": 5.983846,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 94,
+      "name": "One Hundred Restrooms",
+      "latitude": 51.484649,
+      "longitude": 3.849894,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 95,
+      "name": "One Hundred Restrooms",
+      "latitude": 51.542327,
+      "longitude": 5.158506,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 96,
+      "name": "One Hundred Restrooms",
+      "latitude": 51.733117,
+      "longitude": 5.488724,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 97,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.016604,
+      "longitude": 5.06843,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 98,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.050897,
+      "longitude": 5.46537,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 99,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.063729,
+      "longitude": 5.60968,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 100,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.066074,
+      "longitude": 4.741687,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 101,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.079984,
+      "longitude": 4.980302,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 102,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.089905,
+      "longitude": 5.112418,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 103,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.160186,
+      "longitude": 4.554676,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 104,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.163199,
+      "longitude": 5.534081,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 105,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.20942,
+      "longitude": 6.097601,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 106,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.25737,
+      "longitude": 5.520424,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 107,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.261267,
+      "longitude": 4.686586,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 108,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.304334,
+      "longitude": 4.751233,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 109,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.435541,
+      "longitude": 5.424881,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 110,
+      "name": "One Hundred Restrooms",
+      "latitude": 52.716065,
+      "longitude": 6.643323,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 111,
+      "name": "Openbaar mindervalide toilet",
+      "latitude": 52.51362,
+      "longitude": 6.089879,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 112,
+      "name": "Openbaar toilet",
+      "latitude": 52.994822,
+      "longitude": 6.56426,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 113,
+      "name": "Openbare Toiletten Parkeerterrein Havenpoort",
+      "latitude": 51.646759,
+      "longitude": 3.928502,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 114,
+      "name": "Passantenhaven Oldemarkt",
+      "latitude": 52.824191,
+      "longitude": 5.969882,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 115,
+      "name": "Public WC Marktstraat",
+      "latitude": 50.864926,
+      "longitude": 6.062911,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 116,
+      "name": "Restroom",
+      "latitude": 51.816147,
+      "longitude": 4.666848,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 117,
+      "name": "Ruthne",
+      "latitude": 52.281994,
+      "longitude": 5.528734,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 118,
+      "name": "Sanifair",
+      "latitude": 51.690507,
+      "longitude": 5.294494,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 119,
+      "name": "Sanifair",
+      "latitude": 52.069842,
+      "longitude": 4.322665,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 120,
+      "name": "Sanitair Wagon Stadscamping Tilburg",
+      "latitude": 51.560873,
+      "longitude": 5.071858,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 121,
+      "name": "Sanitaire Voorziening",
+      "latitude": 53.185404,
+      "longitude": 5.547689,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 122,
+      "name": "Sanitairgebouw",
+      "latitude": 51.736622,
+      "longitude": 3.82849,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 123,
+      "name": "Schuijtengat",
+      "latitude": 52.412658,
+      "longitude": 4.55473,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 124,
+      "name": "Shell",
+      "latitude": 52.848103,
+      "longitude": 6.342437,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 125,
+      "name": "Stedelijk Museum Breda",
+      "latitude": 51.589598,
+      "longitude": 4.780929,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 126,
+      "name": "Toilet winkelcentrum Overvecht",
+      "latitude": 52.113748,
+      "longitude": 5.111094,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 127,
+      "name": "Toilet/Douche gebouw",
+      "latitude": 52.132876,
+      "longitude": 5.949461,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 128,
+      "name": "Toiletgebouw",
+      "latitude": 51.541328,
+      "longitude": 3.808746,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 129,
+      "name": "Toiletgebouw",
+      "latitude": 52.882961,
+      "longitude": 5.361779,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 130,
+      "name": "Toiletgebouw 1",
+      "latitude": 52.140752,
+      "longitude": 6.576045,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 131,
+      "name": "Toiletgebouw 2",
+      "latitude": 52.139532,
+      "longitude": 6.576008,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 132,
+      "name": "Toiletgebouw Haven",
+      "latitude": 52.845467,
+      "longitude": 5.709776,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 133,
+      "name": "Toiletgebouw Turgroute",
+      "latitude": 52.992079,
+      "longitude": 6.287279,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 134,
+      "name": "Toiletruimte",
+      "latitude": 51.731856,
+      "longitude": 3.946243,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 135,
+      "name": "Toilets by Decathlon",
+      "latitude": 52.218784,
+      "longitude": 6.893944,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 136,
+      "name": "Toilette",
+      "latitude": 52.114973,
+      "longitude": 4.284559,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 137,
+      "name": "Toiletten",
+      "latitude": 51.469299,
+      "longitude": 3.523277,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 138,
+      "name": "Toiletten",
+      "latitude": 52.213143,
+      "longitude": 5.961774,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 139,
+      "name": "Toiletten 't Gemack",
+      "latitude": 51.65237,
+      "longitude": 5.047935,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 140,
+      "name": "Toiletten Carnaval Festival",
+      "latitude": 51.652146,
+      "longitude": 5.051854,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 141,
+      "name": "Toiletten Diorama",
+      "latitude": 51.651002,
+      "longitude": 5.048552,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 142,
+      "name": "Toiletten Fabula",
+      "latitude": 51.648997,
+      "longitude": 5.046834,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 143,
+      "name": "Toiletten HEMA",
+      "latitude": 52.375132,
+      "longitude": 4.894211,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 144,
+      "name": "Toiletten Het Witte Paard",
+      "latitude": 51.651956,
+      "longitude": 5.048919,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 145,
+      "name": "Toiletten Hoofdentree",
+      "latitude": 51.649586,
+      "longitude": 5.043351,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 146,
+      "name": "Toiletten Kleine Boodschap",
+      "latitude": 51.650205,
+      "longitude": 5.045156,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 147,
+      "name": "Toiletten Kleuterhof",
+      "latitude": 51.651877,
+      "longitude": 5.053396,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 148,
+      "name": "Toiletten Meermin",
+      "latitude": 51.648542,
+      "longitude": 5.05268,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 149,
+      "name": "Toiletten Parkeerterrein",
+      "latitude": 51.650404,
+      "longitude": 5.0437,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 150,
+      "name": "Toiletten Polles Keuken",
+      "latitude": 51.650095,
+      "longitude": 5.048432,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 151,
+      "name": "Toiletten Restaurant Kashba",
+      "latitude": 51.651856,
+      "longitude": 5.052852,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 152,
+      "name": "Toiletten Station de Oost",
+      "latitude": 51.648249,
+      "longitude": 5.054216,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 153,
+      "name": "Toiletten Zuidplein",
+      "latitude": 51.88563,
+      "longitude": 4.489798,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 154,
+      "name": "Toiletten Zwemstrand",
+      "latitude": 52.332517,
+      "longitude": 5.214252,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 155,
+      "name": "Toiletten Zwemstrand",
+      "latitude": 52.333992,
+      "longitude": 5.210056,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 156,
+      "name": "Toiletten zuidplein",
+      "latitude": 51.887272,
+      "longitude": 4.49127,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 157,
+      "name": "Torum",
+      "latitude": 52.286251,
+      "longitude": 5.529908,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 158,
+      "name": "Trefpunt P+R Meerhoven",
+      "latitude": 51.435677,
+      "longitude": 5.423384,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 159,
+      "name": "Tuincentrum Veldhoven",
+      "latitude": 51.405631,
+      "longitude": 5.425358,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 160,
+      "name": "Urinal",
+      "latitude": 52.558769,
+      "longitude": 5.913986,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 161,
+      "name": "Urinoir",
+      "latitude": 51.901431,
+      "longitude": 4.406709,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 162,
+      "name": "Urinoir",
+      "latitude": 51.953411,
+      "longitude": 5.222876,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 163,
+      "name": "Vd Valkhotel",
+      "latitude": 51.406725,
+      "longitude": 5.479803,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 164,
+      "name": "Vendor",
+      "latitude": 51.844232,
+      "longitude": 5.863959,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 165,
+      "name": "Vuurtoren",
+      "latitude": 53.449225,
+      "longitude": 5.625738,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 166,
+      "name": "Wagenborg",
+      "latitude": 53.394704,
+      "longitude": 5.87978,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 167,
+      "name": "Wasruimte West",
+      "latitude": 51.564455,
+      "longitude": 3.543389,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 168,
+      "name": "Wasstation voor kinderen",
+      "latitude": 51.730594,
+      "longitude": 3.755036,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 169,
+      "name": "Wastobbe",
+      "latitude": 52.406234,
+      "longitude": 4.556403,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 170,
+      "name": "Watersport Vereniging Arne",
+      "latitude": 51.499845,
+      "longitude": 3.622168,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 171,
+      "name": "Westerkerk WC",
+      "latitude": 52.374673,
+      "longitude": 4.884037,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 172,
+      "name": "Weverkershof",
+      "latitude": 51.481051,
+      "longitude": 5.554025,
+      "osm_klasse": "amenity=toilets"
+    },
+    {
+      "id": 173,
+      "name": "Willemsen",
+      "latitude": 52.220488,
+      "longitude": 6.898841,
+      "osm_klasse": "amenity=toilets"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: toilets (amenity=toilets) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=toilets in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 173 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: toilets (amenity=toilets) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: toilets (amenity=toilets) — 173 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 173 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

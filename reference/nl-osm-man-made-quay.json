@@ -1,0 +1,1367 @@
+{
+  "id": "nl-osm-man-made-quay",
+  "name": "Netherlands OSM: quay (man_made=quay)",
+  "title": "Netherlands OSM: quay (man_made=quay)",
+  "description": "Named OpenStreetMap features tagged man_made=quay in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 188,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Aanlegplaats",
+      "latitude": 52.232619,
+      "longitude": 5.079598,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 2,
+      "name": "Aanlegplaats",
+      "latitude": 52.237005,
+      "longitude": 5.074374,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 3,
+      "name": "Aanlegplaats",
+      "latitude": 52.237853,
+      "longitude": 5.083299,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 4,
+      "name": "Aanlegplaats",
+      "latitude": 52.243394,
+      "longitude": 5.094459,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 5,
+      "name": "Aanlegplaats 19",
+      "latitude": 52.801272,
+      "longitude": 5.936695,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 6,
+      "name": "Aanlegsteiger",
+      "latitude": 52.236326,
+      "longitude": 5.090209,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 7,
+      "name": "Aanlegsteiger 'De Willigen'",
+      "latitude": 52.252359,
+      "longitude": 5.043722,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 8,
+      "name": "Albert Joachimikade",
+      "latitude": 51.510727,
+      "longitude": 3.892552,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 9,
+      "name": "Arnesteinkade",
+      "latitude": 51.502357,
+      "longitude": 3.64605,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 10,
+      "name": "De Bird",
+      "latitude": 52.969781,
+      "longitude": 5.576802,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 11,
+      "name": "De Meerkoet",
+      "latitude": 52.523318,
+      "longitude": 5.85648,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 12,
+      "name": "De Voskade",
+      "latitude": 52.099708,
+      "longitude": 4.299614,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 13,
+      "name": "De Zegge",
+      "latitude": 52.289576,
+      "longitude": 5.537049,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 14,
+      "name": "De Zegge",
+      "latitude": 52.291046,
+      "longitude": 5.535865,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 15,
+      "name": "De Zegge",
+      "latitude": 52.331243,
+      "longitude": 5.560673,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 16,
+      "name": "Dode Hond",
+      "latitude": 52.290598,
+      "longitude": 5.325693,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 17,
+      "name": "Dode Hond",
+      "latitude": 52.290799,
+      "longitude": 5.32684,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 18,
+      "name": "Dode Hond",
+      "latitude": 52.29473,
+      "longitude": 5.319057,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 19,
+      "name": "Eekt",
+      "latitude": 52.486898,
+      "longitude": 5.844528,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 20,
+      "name": "Emmeloord",
+      "latitude": 52.707699,
+      "longitude": 5.762379,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 21,
+      "name": "FL 16A",
+      "latitude": 52.966309,
+      "longitude": 5.515751,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 22,
+      "name": "FL 18C",
+      "latitude": 52.967656,
+      "longitude": 5.517676,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 23,
+      "name": "FL 18F",
+      "latitude": 52.968625,
+      "longitude": 5.518904,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 24,
+      "name": "FL 38",
+      "latitude": 52.962914,
+      "longitude": 5.502316,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 25,
+      "name": "FL 44",
+      "latitude": 52.993602,
+      "longitude": 5.515437,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 26,
+      "name": "FL23B",
+      "latitude": 52.949038,
+      "longitude": 5.546458,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 27,
+      "name": "FL23C",
+      "latitude": 52.949431,
+      "longitude": 5.547003,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 28,
+      "name": "FL23D",
+      "latitude": 52.948665,
+      "longitude": 5.547561,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 29,
+      "name": "FL24A",
+      "latitude": 52.945578,
+      "longitude": 5.564795,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 30,
+      "name": "FL24B",
+      "latitude": 52.94536,
+      "longitude": 5.56509,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 31,
+      "name": "FL28B",
+      "latitude": 52.931234,
+      "longitude": 5.51141,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 32,
+      "name": "FL28C",
+      "latitude": 52.930567,
+      "longitude": 5.51167,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 33,
+      "name": "Gemeente Oldeboarn",
+      "latitude": 53.047823,
+      "longitude": 5.891643,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 34,
+      "name": "Gemeente Oldeboarn",
+      "latitude": 53.047949,
+      "longitude": 5.89012,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 35,
+      "name": "Gemeente Oldeboarn",
+      "latitude": 53.048838,
+      "longitude": 5.896509,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 36,
+      "name": "Gorredijk Passantenhaven",
+      "latitude": 53.006024,
+      "longitude": 6.056145,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 37,
+      "name": "Houtkade",
+      "latitude": 51.511041,
+      "longitude": 3.893341,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 38,
+      "name": "Industriehaven",
+      "latitude": 52.628677,
+      "longitude": 6.053452,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 39,
+      "name": "Industriehaven Assen",
+      "latitude": 52.999861,
+      "longitude": 6.573773,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 40,
+      "name": "Industriehaven Assen",
+      "latitude": 53.000348,
+      "longitude": 6.573079,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 41,
+      "name": "Junokade",
+      "latitude": 53.196822,
+      "longitude": 5.8338,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 42,
+      "name": "Kanosteiger",
+      "latitude": 52.242866,
+      "longitude": 5.048597,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 43,
+      "name": "Kanosteiger",
+      "latitude": 52.244404,
+      "longitude": 5.047345,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 44,
+      "name": "Kanosteiger",
+      "latitude": 52.252129,
+      "longitude": 5.043648,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 45,
+      "name": "Kleine Zwaan",
+      "latitude": 52.492183,
+      "longitude": 5.846478,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 46,
+      "name": "LM01",
+      "latitude": 53.311028,
+      "longitude": 5.921315,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 47,
+      "name": "LM02",
+      "latitude": 53.324261,
+      "longitude": 6.036474,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 48,
+      "name": "LM04",
+      "latitude": 53.324176,
+      "longitude": 6.07978,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 49,
+      "name": "LM05",
+      "latitude": 53.321822,
+      "longitude": 6.113694,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 50,
+      "name": "LM07",
+      "latitude": 53.291804,
+      "longitude": 6.06069,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 51,
+      "name": "LM09C",
+      "latitude": 53.20074,
+      "longitude": 6.037518,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 52,
+      "name": "LM10",
+      "latitude": 53.2974,
+      "longitude": 6.108154,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 53,
+      "name": "LM17",
+      "latitude": 53.316858,
+      "longitude": 5.942327,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 54,
+      "name": "LM20",
+      "latitude": 53.236729,
+      "longitude": 5.825884,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 55,
+      "name": "LM26A",
+      "latitude": 53.34429,
+      "longitude": 6.174974,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 56,
+      "name": "LM27E",
+      "latitude": 53.346622,
+      "longitude": 6.268705,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 57,
+      "name": "LM40A",
+      "latitude": 53.275358,
+      "longitude": 5.833934,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 58,
+      "name": "LM63",
+      "latitude": 53.371618,
+      "longitude": 6.209566,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 59,
+      "name": "LM64C",
+      "latitude": 53.364421,
+      "longitude": 6.211582,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 60,
+      "name": "Lekdijk-West",
+      "latitude": 51.919906,
+      "longitude": 4.783984,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 61,
+      "name": "Loskade Heuvelman GSO",
+      "latitude": 53.306503,
+      "longitude": 6.966727,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 62,
+      "name": "Loswal",
+      "latitude": 52.666028,
+      "longitude": 5.81099,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 63,
+      "name": "Marrekrite Liegeplatz",
+      "latitude": 52.954763,
+      "longitude": 5.614775,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 64,
+      "name": "Mildam",
+      "latitude": 52.933685,
+      "longitude": 6.000242,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 65,
+      "name": "Mildam",
+      "latitude": 52.933963,
+      "longitude": 6.002157,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 66,
+      "name": "PR03",
+      "latitude": 53.156143,
+      "longitude": 5.870568,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 67,
+      "name": "PR04P1",
+      "latitude": 53.132374,
+      "longitude": 5.895238,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 68,
+      "name": "PR04P2",
+      "latitude": 53.133195,
+      "longitude": 5.894364,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 69,
+      "name": "PR05A",
+      "latitude": 53.120251,
+      "longitude": 5.910473,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 70,
+      "name": "PR06",
+      "latitude": 53.12929,
+      "longitude": 5.921133,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 71,
+      "name": "PR07",
+      "latitude": 53.123734,
+      "longitude": 5.926308,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 72,
+      "name": "PR08",
+      "latitude": 53.121115,
+      "longitude": 5.944381,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 73,
+      "name": "PR09",
+      "latitude": 53.11644,
+      "longitude": 5.934557,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 74,
+      "name": "PR10A",
+      "latitude": 53.115509,
+      "longitude": 5.921227,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 75,
+      "name": "PR12",
+      "latitude": 53.110991,
+      "longitude": 5.926733,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 76,
+      "name": "PR13",
+      "latitude": 53.108631,
+      "longitude": 5.926915,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 77,
+      "name": "PR14",
+      "latitude": 53.108653,
+      "longitude": 5.924561,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 78,
+      "name": "PR15",
+      "latitude": 53.108663,
+      "longitude": 5.921001,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 79,
+      "name": "PR16B",
+      "latitude": 53.109293,
+      "longitude": 5.914106,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 80,
+      "name": "PR19",
+      "latitude": 53.115928,
+      "longitude": 5.877736,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 81,
+      "name": "PR20B",
+      "latitude": 53.113634,
+      "longitude": 5.879782,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 82,
+      "name": "PR24B",
+      "latitude": 53.11431,
+      "longitude": 5.88823,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 83,
+      "name": "PR26",
+      "latitude": 53.1096,
+      "longitude": 5.861561,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 84,
+      "name": "PR27",
+      "latitude": 53.087059,
+      "longitude": 5.860961,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 85,
+      "name": "PR28",
+      "latitude": 53.087241,
+      "longitude": 5.862265,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 86,
+      "name": "PR29",
+      "latitude": 53.087993,
+      "longitude": 5.867679,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 87,
+      "name": "PR31",
+      "latitude": 53.094465,
+      "longitude": 5.878325,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 88,
+      "name": "PR34",
+      "latitude": 53.107409,
+      "longitude": 6.003275,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 89,
+      "name": "PR35",
+      "latitude": 53.105629,
+      "longitude": 5.996486,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 90,
+      "name": "PR39",
+      "latitude": 53.09897,
+      "longitude": 5.918568,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 91,
+      "name": "PR41",
+      "latitude": 53.10162,
+      "longitude": 5.91053,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 92,
+      "name": "PR43",
+      "latitude": 53.098922,
+      "longitude": 5.903438,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 93,
+      "name": "PR45A",
+      "latitude": 53.093489,
+      "longitude": 5.883401,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 94,
+      "name": "PR45B",
+      "latitude": 53.092347,
+      "longitude": 5.88361,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 95,
+      "name": "PR45D",
+      "latitude": 53.091549,
+      "longitude": 5.883224,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 96,
+      "name": "PR45E",
+      "latitude": 53.091254,
+      "longitude": 5.88349,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 97,
+      "name": "PR45F",
+      "latitude": 53.09189,
+      "longitude": 5.88085,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 98,
+      "name": "PR45G",
+      "latitude": 53.091432,
+      "longitude": 5.881392,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 99,
+      "name": "PR50",
+      "latitude": 53.084709,
+      "longitude": 5.878102,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 100,
+      "name": "PR51F",
+      "latitude": 53.090545,
+      "longitude": 5.860353,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 101,
+      "name": "PR51H",
+      "latitude": 53.090144,
+      "longitude": 5.858148,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 102,
+      "name": "PR51I",
+      "latitude": 53.090603,
+      "longitude": 5.861356,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 103,
+      "name": "PR53B",
+      "latitude": 53.08564,
+      "longitude": 5.890441,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 104,
+      "name": "PR54",
+      "latitude": 53.084198,
+      "longitude": 5.868547,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 105,
+      "name": "PR58",
+      "latitude": 53.119011,
+      "longitude": 5.832918,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 106,
+      "name": "PR59",
+      "latitude": 53.163224,
+      "longitude": 5.851994,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 107,
+      "name": "PR61",
+      "latitude": 53.023971,
+      "longitude": 5.940856,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 108,
+      "name": "PR62",
+      "latitude": 53.005848,
+      "longitude": 5.881918,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 109,
+      "name": "PR63",
+      "latitude": 53.052935,
+      "longitude": 5.933565,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 110,
+      "name": "PR64",
+      "latitude": 53.041949,
+      "longitude": 6.025956,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 111,
+      "name": "PR80",
+      "latitude": 53.033154,
+      "longitude": 6.169925,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 112,
+      "name": "Passanten Opeinde",
+      "latitude": 53.13561,
+      "longitude": 6.056888,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 113,
+      "name": "Passantenhaven Assen",
+      "latitude": 52.99393,
+      "longitude": 6.555504,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 114,
+      "name": "Passantenhaven Driewegsluis",
+      "latitude": 52.836379,
+      "longitude": 5.939614,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 115,
+      "name": "Prins Willem-Alexander kade",
+      "latitude": 51.794239,
+      "longitude": 4.632381,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 116,
+      "name": "SL01",
+      "latitude": 52.893276,
+      "longitude": 5.694984,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 117,
+      "name": "SL03A",
+      "latitude": 52.886335,
+      "longitude": 5.660988,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 118,
+      "name": "SL03C",
+      "latitude": 52.885593,
+      "longitude": 5.660457,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 119,
+      "name": "SL03E",
+      "latitude": 52.885028,
+      "longitude": 5.660128,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 120,
+      "name": "SL04",
+      "latitude": 52.869464,
+      "longitude": 5.645848,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 121,
+      "name": "SL25",
+      "latitude": 52.945039,
+      "longitude": 5.631563,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 122,
+      "name": "SN01",
+      "latitude": 53.067964,
+      "longitude": 5.807671,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 123,
+      "name": "SN03B",
+      "latitude": 53.05671,
+      "longitude": 5.830422,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 124,
+      "name": "SN04",
+      "latitude": 53.044302,
+      "longitude": 5.80805,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 125,
+      "name": "SN05",
+      "latitude": 53.043976,
+      "longitude": 5.808031,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 126,
+      "name": "SN09B",
+      "latitude": 53.033488,
+      "longitude": 5.796215,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 127,
+      "name": "SN09C",
+      "latitude": 53.034204,
+      "longitude": 5.797692,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 128,
+      "name": "SN10B",
+      "latitude": 53.034439,
+      "longitude": 5.801438,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 129,
+      "name": "SN10C",
+      "latitude": 53.034613,
+      "longitude": 5.801506,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 130,
+      "name": "SN10D",
+      "latitude": 53.03495,
+      "longitude": 5.802549,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 131,
+      "name": "SN11",
+      "latitude": 53.034257,
+      "longitude": 5.804241,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 132,
+      "name": "SN12B",
+      "latitude": 53.031272,
+      "longitude": 5.806421,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 133,
+      "name": "SN13",
+      "latitude": 53.028648,
+      "longitude": 5.804225,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 134,
+      "name": "SN14A",
+      "latitude": 53.029325,
+      "longitude": 5.76733,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 135,
+      "name": "SN15B",
+      "latitude": 53.02918,
+      "longitude": 5.771097,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 136,
+      "name": "SN17A",
+      "latitude": 53.024498,
+      "longitude": 5.812346,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 137,
+      "name": "SN17B",
+      "latitude": 53.024083,
+      "longitude": 5.813255,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 138,
+      "name": "SN17C",
+      "latitude": 53.024041,
+      "longitude": 5.814537,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 139,
+      "name": "SN19B",
+      "latitude": 53.023016,
+      "longitude": 5.715725,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 140,
+      "name": "SN23 C",
+      "latitude": 53.015911,
+      "longitude": 5.732513,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 141,
+      "name": "SN23 C",
+      "latitude": 53.016535,
+      "longitude": 5.731031,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 142,
+      "name": "SN24 B",
+      "latitude": 53.019782,
+      "longitude": 5.729583,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 143,
+      "name": "SN26A",
+      "latitude": 53.020774,
+      "longitude": 5.749154,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 144,
+      "name": "SN26D",
+      "latitude": 53.02009,
+      "longitude": 5.752283,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 145,
+      "name": "SN27",
+      "latitude": 53.01954,
+      "longitude": 5.749679,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 146,
+      "name": "SN29E",
+      "latitude": 53.012351,
+      "longitude": 5.748465,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 147,
+      "name": "SN31A",
+      "latitude": 53.008719,
+      "longitude": 5.747689,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 148,
+      "name": "SN35",
+      "latitude": 53.005706,
+      "longitude": 5.755449,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 149,
+      "name": "SN36B",
+      "latitude": 53.006276,
+      "longitude": 5.752755,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 150,
+      "name": "SN39B",
+      "latitude": 53.003654,
+      "longitude": 5.736873,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 151,
+      "name": "SN52D",
+      "latitude": 52.983187,
+      "longitude": 5.686549,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 152,
+      "name": "SN56",
+      "latitude": 52.982028,
+      "longitude": 5.735528,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 153,
+      "name": "SN58",
+      "latitude": 52.973227,
+      "longitude": 5.71881,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 154,
+      "name": "SN64A",
+      "latitude": 52.980238,
+      "longitude": 5.762138,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 155,
+      "name": "SN64B",
+      "latitude": 52.979595,
+      "longitude": 5.761938,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 156,
+      "name": "SN64D",
+      "latitude": 52.978395,
+      "longitude": 5.761203,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 157,
+      "name": "SN64E",
+      "latitude": 52.979982,
+      "longitude": 5.762582,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 158,
+      "name": "SN64F",
+      "latitude": 52.978809,
+      "longitude": 5.762101,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 159,
+      "name": "SN64I",
+      "latitude": 52.979155,
+      "longitude": 5.762933,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 160,
+      "name": "SN72",
+      "latitude": 52.981299,
+      "longitude": 5.701073,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 161,
+      "name": "SN74",
+      "latitude": 53.002046,
+      "longitude": 5.612124,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 162,
+      "name": "SN75",
+      "latitude": 53.035802,
+      "longitude": 5.820816,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 163,
+      "name": "SN76",
+      "latitude": 53.028233,
+      "longitude": 5.812114,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 164,
+      "name": "SN78",
+      "latitude": 53.018285,
+      "longitude": 5.804016,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 165,
+      "name": "SN82",
+      "latitude": 53.043577,
+      "longitude": 5.752432,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 166,
+      "name": "Smilde",
+      "latitude": 52.946347,
+      "longitude": 6.441836,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 167,
+      "name": "TJ01B",
+      "latitude": 52.913546,
+      "longitude": 5.791726,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 168,
+      "name": "TJ03",
+      "latitude": 52.889277,
+      "longitude": 5.881875,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 169,
+      "name": "TJ04",
+      "latitude": 52.895922,
+      "longitude": 5.898775,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 170,
+      "name": "TJ05",
+      "latitude": 52.896727,
+      "longitude": 5.90189,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 171,
+      "name": "TJ06",
+      "latitude": 52.921201,
+      "longitude": 6.051675,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 172,
+      "name": "TJ08C",
+      "latitude": 52.902509,
+      "longitude": 5.771837,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 173,
+      "name": "TJ15D",
+      "latitude": 52.88533,
+      "longitude": 5.780565,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 174,
+      "name": "TJ15I",
+      "latitude": 52.884975,
+      "longitude": 5.783072,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 175,
+      "name": "TJ17",
+      "latitude": 52.831197,
+      "longitude": 5.828404,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 176,
+      "name": "TJ20",
+      "latitude": 52.933847,
+      "longitude": 6.004016,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 177,
+      "name": "TJ21",
+      "latitude": 52.950786,
+      "longitude": 6.113987,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 178,
+      "name": "TJ29",
+      "latitude": 52.97755,
+      "longitude": 6.163795,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 179,
+      "name": "TJ29",
+      "latitude": 52.989003,
+      "longitude": 6.201233,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 180,
+      "name": "Vedderkade",
+      "latitude": 52.257774,
+      "longitude": 5.464703,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 181,
+      "name": "Vollenhover stennen",
+      "latitude": 52.692854,
+      "longitude": 5.953904,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 182,
+      "name": "Voormalige Zuiderkogge-tramlijn 1913-1935",
+      "latitude": 52.641115,
+      "longitude": 5.168296,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 183,
+      "name": "Voormalige Zuiderkogge-tramlijn 1913-1935",
+      "latitude": 52.643267,
+      "longitude": 5.144641,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 184,
+      "name": "Voormalige Zuiderkogge-tramlijn 1913-1935",
+      "latitude": 52.675388,
+      "longitude": 5.216828,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 185,
+      "name": "Zaagmolenpolder",
+      "latitude": 51.486206,
+      "longitude": 3.653197,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 186,
+      "name": "Zandwal Oude Wetering",
+      "latitude": 52.214958,
+      "longitude": 4.646174,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 187,
+      "name": "heavy load quay",
+      "latitude": 53.458324,
+      "longitude": 6.81728,
+      "osm_klasse": "man_made=quay"
+    },
+    {
+      "id": 188,
+      "name": "wachtplaats recreatievaart oostzijde",
+      "latitude": 53.22809,
+      "longitude": 6.174455,
+      "osm_klasse": "man_made=quay"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: quay (man_made=quay) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged man_made=quay in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 188 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: quay (man_made=quay) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: quay (man_made=quay) — 188 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 188 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

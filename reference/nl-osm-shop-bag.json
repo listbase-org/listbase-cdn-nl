@@ -1,0 +1,1199 @@
+{
+  "id": "nl-osm-shop-bag",
+  "name": "Netherlands OSM: bag (shop=bag)",
+  "title": "Netherlands OSM: bag (shop=bag)",
+  "description": "Named OpenStreetMap features tagged shop=bag in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 164,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "786Fridge",
+      "latitude": 52.632416,
+      "longitude": 4.745812,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 2,
+      "name": "Aigner",
+      "latitude": 51.199375,
+      "longitude": 5.989025,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 3,
+      "name": "Albert Slinger Lederwaren",
+      "latitude": 51.444383,
+      "longitude": 3.574115,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 4,
+      "name": "Albert Slinger Lederwaren",
+      "latitude": 51.498339,
+      "longitude": 3.614919,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 5,
+      "name": "Albert de Vries Koffers",
+      "latitude": 51.826759,
+      "longitude": 4.833018,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 6,
+      "name": "Amy's Reis- en Lederwaren",
+      "latitude": 52.160533,
+      "longitude": 4.495279,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 7,
+      "name": "Annie's Tasjes",
+      "latitude": 51.52879,
+      "longitude": 5.640269,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 8,
+      "name": "BEARLifestyle.nl",
+      "latitude": 52.091017,
+      "longitude": 5.116764,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 9,
+      "name": "Bags2buy",
+      "latitude": 50.815528,
+      "longitude": 5.893579,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 10,
+      "name": "Bon Dia",
+      "latitude": 52.373978,
+      "longitude": 4.893155,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 11,
+      "name": "Bottega Veneta",
+      "latitude": 52.310181,
+      "longitude": 4.765334,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 12,
+      "name": "Brabants Lederwarenhuis",
+      "latitude": 52.090191,
+      "longitude": 4.274333,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 13,
+      "name": "Burkely",
+      "latitude": 51.535701,
+      "longitude": 5.052316,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 14,
+      "name": "By Malin",
+      "latitude": 52.631402,
+      "longitude": 4.749137,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 15,
+      "name": "Cabaia",
+      "latitude": 52.088371,
+      "longitude": 4.385166,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 16,
+      "name": "Cargo Reisprodukten",
+      "latitude": 51.983892,
+      "longitude": 5.916347,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 17,
+      "name": "Chris Theil Lederwaren",
+      "latitude": 52.141675,
+      "longitude": 4.393233,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 18,
+      "name": "Christian Louboutin",
+      "latitude": 50.84833,
+      "longitude": 5.691534,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 19,
+      "name": "Coccinelle",
+      "latitude": 51.201194,
+      "longitude": 5.986303,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 20,
+      "name": "De Groen Lederwaren",
+      "latitude": 52.142982,
+      "longitude": 4.39484,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 21,
+      "name": "De Grote Tas",
+      "latitude": 52.363177,
+      "longitude": 4.888565,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 22,
+      "name": "De Grote Tas",
+      "latitude": 52.37135,
+      "longitude": 4.89717,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 23,
+      "name": "De Grote Tas",
+      "latitude": 52.380707,
+      "longitude": 4.636738,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 24,
+      "name": "De Jong",
+      "latitude": 52.303497,
+      "longitude": 4.694007,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 25,
+      "name": "De Sleutelhoek",
+      "latitude": 52.143632,
+      "longitude": 5.045146,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 26,
+      "name": "Delsey",
+      "latitude": 51.531894,
+      "longitude": 4.43008,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 27,
+      "name": "Duifhuizen",
+      "latitude": 51.369001,
+      "longitude": 6.169052,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 28,
+      "name": "Duifhuizen",
+      "latitude": 51.494972,
+      "longitude": 4.288349,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 29,
+      "name": "Duifhuizen",
+      "latitude": 51.497118,
+      "longitude": 3.609085,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 30,
+      "name": "Duifhuizen",
+      "latitude": 51.502201,
+      "longitude": 3.892133,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 31,
+      "name": "Duifhuizen",
+      "latitude": 51.532354,
+      "longitude": 4.457255,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 32,
+      "name": "Duifhuizen",
+      "latitude": 51.588195,
+      "longitude": 4.771946,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 33,
+      "name": "Duifhuizen",
+      "latitude": 51.759956,
+      "longitude": 4.164121,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 34,
+      "name": "Duifhuizen",
+      "latitude": 51.812831,
+      "longitude": 4.667704,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 35,
+      "name": "Duifhuizen",
+      "latitude": 51.823358,
+      "longitude": 4.651844,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 36,
+      "name": "Duifhuizen",
+      "latitude": 51.825757,
+      "longitude": 4.412035,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 37,
+      "name": "Duifhuizen",
+      "latitude": 51.825889,
+      "longitude": 4.685436,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 38,
+      "name": "Duifhuizen",
+      "latitude": 51.8294,
+      "longitude": 4.975972,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 39,
+      "name": "Duifhuizen",
+      "latitude": 51.831256,
+      "longitude": 4.97524,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 40,
+      "name": "Duifhuizen",
+      "latitude": 51.870089,
+      "longitude": 4.60041,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 41,
+      "name": "Duifhuizen",
+      "latitude": 51.886301,
+      "longitude": 4.490864,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 42,
+      "name": "Duifhuizen",
+      "latitude": 51.886576,
+      "longitude": 4.548429,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 43,
+      "name": "Duifhuizen",
+      "latitude": 52.01186,
+      "longitude": 4.709943,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 44,
+      "name": "Duifhuizen",
+      "latitude": 52.036714,
+      "longitude": 4.314473,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 45,
+      "name": "Duifhuizen",
+      "latitude": 52.043541,
+      "longitude": 5.66964,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 46,
+      "name": "Duifhuizen",
+      "latitude": 52.139029,
+      "longitude": 5.58574,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 47,
+      "name": "Duifhuizen",
+      "latitude": 52.156805,
+      "longitude": 5.39199,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 48,
+      "name": "Duifhuizen",
+      "latitude": 52.994539,
+      "longitude": 6.56053,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 49,
+      "name": "Duifhuizen",
+      "latitude": 53.10782,
+      "longitude": 6.096768,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 50,
+      "name": "Duifhuizen Tassen en Koffers - Corridor",
+      "latitude": 52.024959,
+      "longitude": 5.555873,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 51,
+      "name": "Duifhuizen Tassen en Koffers - Hoofdstraat",
+      "latitude": 52.028469,
+      "longitude": 5.556799,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 52,
+      "name": "Duifhuizen outlet",
+      "latitude": 52.014852,
+      "longitude": 4.709551,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 53,
+      "name": "Duifhuizen tassen & koffers",
+      "latitude": 51.948764,
+      "longitude": 4.555143,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 54,
+      "name": "Engbers",
+      "latitude": 52.219599,
+      "longitude": 6.898289,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 55,
+      "name": "Engbers lederwaren",
+      "latitude": 52.262804,
+      "longitude": 6.793421,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 56,
+      "name": "Frans Freijser",
+      "latitude": 52.430818,
+      "longitude": 4.644266,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 57,
+      "name": "Freitag Store Amsterdam",
+      "latitude": 52.368956,
+      "longitude": 4.883273,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 58,
+      "name": "Furla",
+      "latitude": 51.200308,
+      "longitude": 5.986406,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 59,
+      "name": "Gapa Lederwaren",
+      "latitude": 52.787658,
+      "longitude": 4.798991,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 60,
+      "name": "Ger Schoen",
+      "latitude": 52.09018,
+      "longitude": 5.120043,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 61,
+      "name": "Goodwalt bags&cases",
+      "latitude": 51.658082,
+      "longitude": 5.612765,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 62,
+      "name": "Gucci",
+      "latitude": 52.309662,
+      "longitude": 4.765415,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 63,
+      "name": "Gusti Leder",
+      "latitude": 52.367704,
+      "longitude": 4.891959,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 64,
+      "name": "Hafkamp tassen & koffers",
+      "latitude": 52.524271,
+      "longitude": 5.717472,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 65,
+      "name": "Hans Bakker Lederwaren",
+      "latitude": 51.419198,
+      "longitude": 5.407396,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 66,
+      "name": "Hester van Eeghen",
+      "latitude": 52.372268,
+      "longitude": 4.885405,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 67,
+      "name": "Het Lederwarenhuis",
+      "latitude": 51.965945,
+      "longitude": 6.289337,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 68,
+      "name": "JA Tassen",
+      "latitude": 51.497832,
+      "longitude": 3.616393,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 69,
+      "name": "JM Lederwaren en Reisartikelen",
+      "latitude": 51.555135,
+      "longitude": 5.083708,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 70,
+      "name": "Jolanda's Lederwaren",
+      "latitude": 52.307875,
+      "longitude": 5.041399,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 71,
+      "name": "Kipling",
+      "latitude": 51.200317,
+      "longitude": 5.987458,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 72,
+      "name": "Kipling",
+      "latitude": 52.367577,
+      "longitude": 4.890681,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 73,
+      "name": "Kymyka",
+      "latitude": 50.848266,
+      "longitude": 5.691524,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 74,
+      "name": "L'Etoile de Saint Honoré",
+      "latitude": 52.367818,
+      "longitude": 4.89137,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 75,
+      "name": "L'Étoile de Saint Honoré",
+      "latitude": 52.372453,
+      "longitude": 4.883674,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 76,
+      "name": "Lazy Sunday",
+      "latitude": 51.194146,
+      "longitude": 5.985145,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 77,
+      "name": "Le Bagage",
+      "latitude": 52.630657,
+      "longitude": 4.747928,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 78,
+      "name": "Le Cachet",
+      "latitude": 52.630242,
+      "longitude": 4.748827,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 79,
+      "name": "Leatherstyle",
+      "latitude": 52.155739,
+      "longitude": 5.390127,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 80,
+      "name": "Lucky Leder",
+      "latitude": 50.850206,
+      "longitude": 5.692249,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 81,
+      "name": "Mag Bag",
+      "latitude": 52.365729,
+      "longitude": 4.886167,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 82,
+      "name": "Marregien",
+      "latitude": 52.252539,
+      "longitude": 6.157158,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 83,
+      "name": "Melkert Lederwaren",
+      "latitude": 51.849802,
+      "longitude": 4.328399,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 84,
+      "name": "Mirjam Zwolsman Tassen",
+      "latitude": 51.588796,
+      "longitude": 4.778015,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 85,
+      "name": "MonAmy",
+      "latitude": 51.586739,
+      "longitude": 4.457963,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 86,
+      "name": "Mono",
+      "latitude": 52.379593,
+      "longitude": 4.893721,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 87,
+      "name": "Moschino",
+      "latitude": 52.374953,
+      "longitude": 4.895156,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 88,
+      "name": "NORTVI.",
+      "latitude": 52.36897,
+      "longitude": 4.883194,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 89,
+      "name": "O Bag",
+      "latitude": 51.200808,
+      "longitude": 5.987437,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 90,
+      "name": "O My Bag",
+      "latitude": 52.085973,
+      "longitude": 4.31187,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 91,
+      "name": "O My Bag",
+      "latitude": 52.353132,
+      "longitude": 4.892424,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 92,
+      "name": "Oostelbos Lederwaren",
+      "latitude": 51.556539,
+      "longitude": 5.089672,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 93,
+      "name": "Panara",
+      "latitude": 52.078347,
+      "longitude": 4.308938,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 94,
+      "name": "Paolo Salotto",
+      "latitude": 52.309548,
+      "longitude": 4.763083,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 95,
+      "name": "Petit Bijou",
+      "latitude": 53.201047,
+      "longitude": 5.79364,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 96,
+      "name": "Property Of...",
+      "latitude": 52.365345,
+      "longitude": 4.897579,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 97,
+      "name": "Property Of...",
+      "latitude": 52.377005,
+      "longitude": 4.88955,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 98,
+      "name": "Rimowa",
+      "latitude": 52.360515,
+      "longitude": 4.88198,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 99,
+      "name": "Roxilux",
+      "latitude": 52.076308,
+      "longitude": 4.309384,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 100,
+      "name": "Roya Bags",
+      "latitude": 52.04322,
+      "longitude": 5.669643,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 101,
+      "name": "Sacs & Bags",
+      "latitude": 51.967263,
+      "longitude": 5.664853,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 102,
+      "name": "Samsonite",
+      "latitude": 51.199446,
+      "longitude": 5.989903,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 103,
+      "name": "Samsonite",
+      "latitude": 51.531657,
+      "longitude": 4.429821,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 104,
+      "name": "Samsonite",
+      "latitude": 52.366932,
+      "longitude": 4.889259,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 105,
+      "name": "Samsonite",
+      "latitude": 52.367498,
+      "longitude": 4.890091,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 106,
+      "name": "Samsonite",
+      "latitude": 52.376518,
+      "longitude": 4.896412,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 107,
+      "name": "Samsonite",
+      "latitude": 52.376976,
+      "longitude": 4.896759,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 108,
+      "name": "Samsonite",
+      "latitude": 52.523855,
+      "longitude": 5.439944,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 109,
+      "name": "Service Point",
+      "latitude": 52.089445,
+      "longitude": 5.111097,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 110,
+      "name": "Service point Amsterdam CS",
+      "latitude": 52.379677,
+      "longitude": 4.900346,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 111,
+      "name": "Sharrybag",
+      "latitude": 52.080789,
+      "longitude": 4.290978,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 112,
+      "name": "Smaak",
+      "latitude": 52.370356,
+      "longitude": 4.883252,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 113,
+      "name": "Smaak Amsterdam",
+      "latitude": 52.089572,
+      "longitude": 4.382099,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 114,
+      "name": "Souvenirs",
+      "latitude": 52.375716,
+      "longitude": 4.894997,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 115,
+      "name": "Studio Noos",
+      "latitude": 52.369247,
+      "longitude": 4.880963,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 116,
+      "name": "Stuivenga Lederwaren",
+      "latitude": 52.009742,
+      "longitude": 4.36344,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 117,
+      "name": "T.A.S. Lederwaren",
+      "latitude": 52.16126,
+      "longitude": 4.487111,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 118,
+      "name": "Talens",
+      "latitude": 53.216363,
+      "longitude": 6.569507,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 119,
+      "name": "Tasjekopen",
+      "latitude": 52.512681,
+      "longitude": 6.095767,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 120,
+      "name": "The Clutch Corner",
+      "latitude": 52.371938,
+      "longitude": 5.220495,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 121,
+      "name": "The Little Green Bag",
+      "latitude": 51.922072,
+      "longitude": 4.475736,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 122,
+      "name": "The Little Green Bag",
+      "latitude": 52.011006,
+      "longitude": 4.35885,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 123,
+      "name": "Travelbags",
+      "latitude": 52.253454,
+      "longitude": 6.157686,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 124,
+      "name": "Travelbags",
+      "latitude": 52.511679,
+      "longitude": 6.094472,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 125,
+      "name": "Travelbags",
+      "latitude": 52.575053,
+      "longitude": 6.618696,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 126,
+      "name": "Tretsom",
+      "latitude": 52.345384,
+      "longitude": 4.890655,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 127,
+      "name": "Trésor",
+      "latitude": 52.376485,
+      "longitude": 4.896382,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 128,
+      "name": "Tumi",
+      "latitude": 51.199508,
+      "longitude": 5.987277,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 129,
+      "name": "Ulings",
+      "latitude": 51.587986,
+      "longitude": 4.775235,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 130,
+      "name": "UniqeU",
+      "latitude": 51.933329,
+      "longitude": 4.485889,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 131,
+      "name": "Vadobag Europe",
+      "latitude": 51.535038,
+      "longitude": 5.049185,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 132,
+      "name": "Van Os",
+      "latitude": 50.849051,
+      "longitude": 5.692748,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 133,
+      "name": "Van Os",
+      "latitude": 51.479353,
+      "longitude": 5.653418,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 134,
+      "name": "Van Os",
+      "latitude": 51.643591,
+      "longitude": 4.854829,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 135,
+      "name": "Van Os",
+      "latitude": 51.823359,
+      "longitude": 5.79687,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 136,
+      "name": "Van Os",
+      "latitude": 51.919262,
+      "longitude": 4.480645,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 137,
+      "name": "Van Os",
+      "latitude": 52.061385,
+      "longitude": 4.491353,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 138,
+      "name": "Van Os",
+      "latitude": 52.078261,
+      "longitude": 4.311724,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 139,
+      "name": "Van Os",
+      "latitude": 52.091327,
+      "longitude": 5.114324,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 140,
+      "name": "Van Os",
+      "latitude": 52.21333,
+      "longitude": 5.963933,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 141,
+      "name": "Van Os",
+      "latitude": 52.302002,
+      "longitude": 4.863121,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 142,
+      "name": "Van Os",
+      "latitude": 53.220107,
+      "longitude": 6.566363,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 143,
+      "name": "Van Os Lederwaren",
+      "latitude": 52.160659,
+      "longitude": 4.489215,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 144,
+      "name": "Van Os Tassen en Koffers",
+      "latitude": 51.648206,
+      "longitude": 5.948349,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 145,
+      "name": "Van Os Tassen en Koffers",
+      "latitude": 53.199627,
+      "longitude": 5.79591,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 146,
+      "name": "Van Os tassen",
+      "latitude": 52.162857,
+      "longitude": 4.531729,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 147,
+      "name": "Van Os tassen en koffers",
+      "latitude": 52.087974,
+      "longitude": 4.384602,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 148,
+      "name": "Van Os tassen en koffers",
+      "latitude": 52.12985,
+      "longitude": 4.665007,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 149,
+      "name": "Van Os tassen en koffers",
+      "latitude": 52.141333,
+      "longitude": 6.197446,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 150,
+      "name": "Van Os tassen en koffers",
+      "latitude": 52.204167,
+      "longitude": 4.394951,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 151,
+      "name": "Van Os tassen en koffers",
+      "latitude": 52.243121,
+      "longitude": 4.432958,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 152,
+      "name": "Van Os tassen en koffers",
+      "latitude": 52.255628,
+      "longitude": 5.226184,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 153,
+      "name": "Wennekes",
+      "latitude": 51.88769,
+      "longitude": 5.437089,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 154,
+      "name": "Wennekes",
+      "latitude": 52.076771,
+      "longitude": 4.310156,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 155,
+      "name": "Wennekes",
+      "latitude": 52.253839,
+      "longitude": 6.15718,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 156,
+      "name": "Wentholt Lederwaren & Babyartikelen",
+      "latitude": 51.927994,
+      "longitude": 6.077459,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 157,
+      "name": "Zeiltas.nl",
+      "latitude": 52.967909,
+      "longitude": 5.603998,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 158,
+      "name": "Zwierig",
+      "latitude": 51.921041,
+      "longitude": 4.485963,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 159,
+      "name": "iDeal",
+      "latitude": 51.920852,
+      "longitude": 4.484946,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 160,
+      "name": "jm",
+      "latitude": 51.887966,
+      "longitude": 4.491777,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 161,
+      "name": "l'Étoile Luxury Vintage",
+      "latitude": 52.363853,
+      "longitude": 4.889177,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 162,
+      "name": "pieterSZoon handcrafted leather bags",
+      "latitude": 52.378769,
+      "longitude": 4.636208,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 163,
+      "name": "t Oorzaakje",
+      "latitude": 52.011079,
+      "longitude": 4.359803,
+      "osm_klasse": "shop=bag"
+    },
+    {
+      "id": 164,
+      "name": "tassen en lederwaren",
+      "latitude": 51.833438,
+      "longitude": 4.320377,
+      "osm_klasse": "shop=bag"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: bag (shop=bag) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=bag in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 164 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: bag (shop=bag) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: bag (shop=bag) — 164 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 164 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

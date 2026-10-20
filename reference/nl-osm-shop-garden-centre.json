@@ -1,0 +1,5287 @@
+{
+  "id": "nl-osm-shop-garden-centre",
+  "name": "Netherlands OSM: garden centre (shop=garden_centre)",
+  "title": "Netherlands OSM: garden centre (shop=garden_centre)",
+  "description": "Named OpenStreetMap features tagged shop=garden_centre in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 748,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Groene Stadshart",
+      "latitude": 53.224439,
+      "longitude": 6.592329,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 2,
+      "name": "'t Mulligen",
+      "latitude": 52.434158,
+      "longitude": 5.927412,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 3,
+      "name": "A A",
+      "latitude": 52.009795,
+      "longitude": 5.330442,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 4,
+      "name": "AVRI Bloem- en Tuincentrum",
+      "latitude": 51.632169,
+      "longitude": 4.910479,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 5,
+      "name": "Aarts Tuinplanten",
+      "latitude": 51.414435,
+      "longitude": 5.726637,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 6,
+      "name": "Abbing",
+      "latitude": 52.063356,
+      "longitude": 5.253773,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 7,
+      "name": "Agapanthus",
+      "latitude": 53.045432,
+      "longitude": 6.545094,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 8,
+      "name": "Agrab",
+      "latitude": 52.90082,
+      "longitude": 6.393785,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 9,
+      "name": "Agrishop",
+      "latitude": 53.243797,
+      "longitude": 6.653695,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 10,
+      "name": "Aquabeek",
+      "latitude": 51.581654,
+      "longitude": 5.688054,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 11,
+      "name": "Arthur Verwoerd Reeuwijk",
+      "latitude": 52.039858,
+      "longitude": 4.718265,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 12,
+      "name": "Avalon",
+      "latitude": 52.0826,
+      "longitude": 4.305337,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 13,
+      "name": "Avalon Plants",
+      "latitude": 52.381986,
+      "longitude": 4.888563,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 14,
+      "name": "Aveve",
+      "latitude": 50.825171,
+      "longitude": 5.715504,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 15,
+      "name": "Baak",
+      "latitude": 52.17527,
+      "longitude": 4.540448,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 16,
+      "name": "Bakker Buitenleven",
+      "latitude": 52.500917,
+      "longitude": 4.652656,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 17,
+      "name": "Bart Faassen Hoveniers",
+      "latitude": 51.186107,
+      "longitude": 5.911223,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 18,
+      "name": "Bart Poppelaars Tuinmaterialen",
+      "latitude": 51.616196,
+      "longitude": 4.753319,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 19,
+      "name": "Bast de Plantgigant",
+      "latitude": 52.19671,
+      "longitude": 5.444609,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 20,
+      "name": "Beek Hoveniersbedrijf & Tuincentrum",
+      "latitude": 53.19212,
+      "longitude": 5.798635,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 21,
+      "name": "Beeker Tuincentrum",
+      "latitude": 50.934607,
+      "longitude": 5.796978,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 22,
+      "name": "Beekertuincentrum",
+      "latitude": 50.934405,
+      "longitude": 5.796486,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 23,
+      "name": "Benfried",
+      "latitude": 51.997752,
+      "longitude": 4.323798,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 24,
+      "name": "Benfried",
+      "latitude": 52.007109,
+      "longitude": 4.223069,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 25,
+      "name": "Betty's Greenhouse",
+      "latitude": 53.177194,
+      "longitude": 6.787568,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 26,
+      "name": "Bijenkans",
+      "latitude": 52.119598,
+      "longitude": 5.159399,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 27,
+      "name": "Bloemen en Plantenhandel \"De Kleine Markt\"",
+      "latitude": 52.144911,
+      "longitude": 4.390745,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 28,
+      "name": "Bloemencentrum \"De Molen\"",
+      "latitude": 51.883492,
+      "longitude": 4.469473,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 29,
+      "name": "Bloemenhuis Balkema",
+      "latitude": 53.30141,
+      "longitude": 6.599568,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 30,
+      "name": "Blumen en Plantencentrum",
+      "latitude": 52.02933,
+      "longitude": 4.182384,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 31,
+      "name": "Bodenstaff Smilde",
+      "latitude": 52.955464,
+      "longitude": 6.450584,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 32,
+      "name": "BoerenBond",
+      "latitude": 51.468216,
+      "longitude": 5.538243,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 33,
+      "name": "Boerenbnd",
+      "latitude": 51.813708,
+      "longitude": 5.732185,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 34,
+      "name": "Boerenbond",
+      "latitude": 50.906583,
+      "longitude": 5.784277,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 35,
+      "name": "Boerenbond",
+      "latitude": 51.247321,
+      "longitude": 5.732075,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 36,
+      "name": "Boerenbond",
+      "latitude": 51.412545,
+      "longitude": 5.380349,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 37,
+      "name": "Boerenbond",
+      "latitude": 51.430814,
+      "longitude": 4.319004,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 38,
+      "name": "Boerenbond",
+      "latitude": 51.510956,
+      "longitude": 5.644289,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 39,
+      "name": "Boerenbond",
+      "latitude": 51.519947,
+      "longitude": 4.442989,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 40,
+      "name": "Boerenbond",
+      "latitude": 51.537527,
+      "longitude": 4.599321,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 41,
+      "name": "Boerenbond",
+      "latitude": 51.572215,
+      "longitude": 4.66605,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 42,
+      "name": "Boerenbond",
+      "latitude": 51.589799,
+      "longitude": 4.554494,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 43,
+      "name": "Boerenbond",
+      "latitude": 51.644968,
+      "longitude": 5.294612,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 44,
+      "name": "Boerenbond",
+      "latitude": 51.776041,
+      "longitude": 5.937691,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 45,
+      "name": "Boerenbond - Pets Place",
+      "latitude": 51.441005,
+      "longitude": 4.927097,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 46,
+      "name": "Boerenbond - Pets Place",
+      "latitude": 51.480164,
+      "longitude": 3.623931,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 47,
+      "name": "Boerenbond - Pets Place",
+      "latitude": 51.575244,
+      "longitude": 4.741355,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 48,
+      "name": "Boerenbond Gilze",
+      "latitude": 51.544515,
+      "longitude": 4.948766,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 49,
+      "name": "Boerenbond Limbricht",
+      "latitude": 51.008333,
+      "longitude": 5.832413,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 50,
+      "name": "Boeve Sierbestrating en Steenhandel",
+      "latitude": 52.453045,
+      "longitude": 5.917384,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 51,
+      "name": "Bomenhub Amsterdamse Bos",
+      "latitude": 52.317911,
+      "longitude": 4.845624,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 52,
+      "name": "Boom en Tuin Techniek",
+      "latitude": 52.416108,
+      "longitude": 5.847154,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 53,
+      "name": "BoomNL.nl",
+      "latitude": 51.862588,
+      "longitude": 4.428302,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 54,
+      "name": "Boomkwekerij & Tuincentrum Gooiker",
+      "latitude": 52.281208,
+      "longitude": 6.159101,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 55,
+      "name": "Boomkwekerij Hartemink",
+      "latitude": 52.014497,
+      "longitude": 6.340098,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 56,
+      "name": "Boomkwekerij Hein Vorderman",
+      "latitude": 52.374226,
+      "longitude": 6.045115,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 57,
+      "name": "Boomkwekerij Jeroen Scholten",
+      "latitude": 52.303516,
+      "longitude": 6.831032,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 58,
+      "name": "Boomkwekerij L.H. Post",
+      "latitude": 52.146762,
+      "longitude": 5.065835,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 59,
+      "name": "Boomkwekerij Westerkwartier",
+      "latitude": 53.158033,
+      "longitude": 6.33735,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 60,
+      "name": "Boomkwekerij van Eeten",
+      "latitude": 51.993819,
+      "longitude": 5.844519,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 61,
+      "name": "Boomkwekerij&Plantencentrum Menkveld",
+      "latitude": 52.20178,
+      "longitude": 6.037876,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 62,
+      "name": "Boomkwererij René Nieuwesteeg",
+      "latitude": 51.655395,
+      "longitude": 4.740116,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 63,
+      "name": "Boot Natuursteen",
+      "latitude": 52.154469,
+      "longitude": 4.535954,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 64,
+      "name": "Bos Tuincentrum",
+      "latitude": 52.963041,
+      "longitude": 5.938644,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 65,
+      "name": "Boschhoeve",
+      "latitude": 52.003166,
+      "longitude": 5.774397,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 66,
+      "name": "Bosman Groenspecialist",
+      "latitude": 52.053304,
+      "longitude": 6.302345,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 67,
+      "name": "Buitenhof",
+      "latitude": 52.299501,
+      "longitude": 5.155662,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 68,
+      "name": "Buitenkweek",
+      "latitude": 52.02741,
+      "longitude": 4.377547,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 69,
+      "name": "CAVWinkel",
+      "latitude": 52.461173,
+      "longitude": 6.500877,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 70,
+      "name": "Calendula",
+      "latitude": 52.979146,
+      "longitude": 6.569509,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 71,
+      "name": "Cocasa",
+      "latitude": 52.354052,
+      "longitude": 5.000937,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 72,
+      "name": "Compagner",
+      "latitude": 52.591031,
+      "longitude": 6.282684,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 73,
+      "name": "Coppelmans",
+      "latitude": 51.367206,
+      "longitude": 5.443865,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 74,
+      "name": "Coppelmans",
+      "latitude": 51.401594,
+      "longitude": 5.377904,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 75,
+      "name": "Coppelmans",
+      "latitude": 51.4063,
+      "longitude": 5.389365,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 76,
+      "name": "Coppelmans",
+      "latitude": 51.458622,
+      "longitude": 5.642343,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 77,
+      "name": "Coppelmans",
+      "latitude": 51.461968,
+      "longitude": 5.77755,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 78,
+      "name": "Coppelmans",
+      "latitude": 51.46924,
+      "longitude": 5.534095,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 79,
+      "name": "Coppelmans",
+      "latitude": 51.505127,
+      "longitude": 5.342531,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 80,
+      "name": "Coppelmans",
+      "latitude": 51.575516,
+      "longitude": 5.15579,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 81,
+      "name": "Coppelmans",
+      "latitude": 51.781891,
+      "longitude": 5.50528,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 82,
+      "name": "De Ank Hoveniers en Groencentrum",
+      "latitude": 51.910789,
+      "longitude": 6.264772,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 83,
+      "name": "De Balkonie",
+      "latitude": 52.363882,
+      "longitude": 4.936782,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 84,
+      "name": "De Biesbosch Gijsbers",
+      "latitude": 51.769023,
+      "longitude": 4.691347,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 85,
+      "name": "De Blaakhof",
+      "latitude": 52.166045,
+      "longitude": 6.235289,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 86,
+      "name": "De Bloemenjungle",
+      "latitude": 51.85907,
+      "longitude": 4.611318,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 87,
+      "name": "De Boet",
+      "latitude": 52.719667,
+      "longitude": 4.943036,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 88,
+      "name": "De Boomhut Hovenierscentrum",
+      "latitude": 52.410459,
+      "longitude": 5.256278,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 89,
+      "name": "De Boshommel",
+      "latitude": 52.214116,
+      "longitude": 5.958864,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 90,
+      "name": "De Bosrand",
+      "latitude": 51.501588,
+      "longitude": 4.686515,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 91,
+      "name": "De Bosrand",
+      "latitude": 52.088296,
+      "longitude": 4.856042,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 92,
+      "name": "De Bosrand",
+      "latitude": 52.125235,
+      "longitude": 4.624766,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 93,
+      "name": "De Bosrand",
+      "latitude": 52.140018,
+      "longitude": 4.414221,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 94,
+      "name": "De Bosrand",
+      "latitude": 52.199315,
+      "longitude": 4.478481,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 95,
+      "name": "De Bosrand",
+      "latitude": 52.22948,
+      "longitude": 4.467766,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 96,
+      "name": "De Bree Tuinen",
+      "latitude": 51.922881,
+      "longitude": 6.600308,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 97,
+      "name": "De Carlton Tuincentrum",
+      "latitude": 51.988491,
+      "longitude": 4.18784,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 98,
+      "name": "De Driesprong",
+      "latitude": 52.073624,
+      "longitude": 5.692327,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 99,
+      "name": "De Eekhoorn",
+      "latitude": 51.60413,
+      "longitude": 5.387257,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 100,
+      "name": "De Evenaar",
+      "latitude": 51.574786,
+      "longitude": 4.689622,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 101,
+      "name": "De Fleurije",
+      "latitude": 52.887774,
+      "longitude": 6.034134,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 102,
+      "name": "De Fruittuin",
+      "latitude": 51.494976,
+      "longitude": 3.96372,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 103,
+      "name": "De Graaf",
+      "latitude": 51.951537,
+      "longitude": 5.288882,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 104,
+      "name": "De Graaff Tuin en Landschap",
+      "latitude": 51.902923,
+      "longitude": 4.693637,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 105,
+      "name": "De Groene Loods",
+      "latitude": 51.527281,
+      "longitude": 4.424206,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 106,
+      "name": "De Groene Schuur",
+      "latitude": 51.92698,
+      "longitude": 6.01357,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 107,
+      "name": "De Groenwinkel",
+      "latitude": 52.419998,
+      "longitude": 4.898133,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 108,
+      "name": "De Halve Maan",
+      "latitude": 51.753886,
+      "longitude": 4.126886,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 109,
+      "name": "De Heksenketel",
+      "latitude": 51.306762,
+      "longitude": 3.387831,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 110,
+      "name": "De Hessenhof",
+      "latitude": 52.073624,
+      "longitude": 5.677164,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 111,
+      "name": "De Inde",
+      "latitude": 50.787917,
+      "longitude": 5.988008,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 112,
+      "name": "De Klinker Sierbestrating B.V.",
+      "latitude": 51.768515,
+      "longitude": 5.161102,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 113,
+      "name": "De Koperwiek",
+      "latitude": 53.383399,
+      "longitude": 5.29012,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 114,
+      "name": "De Kwekerij",
+      "latitude": 51.878294,
+      "longitude": 5.524455,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 115,
+      "name": "De Landerije Tuin en Dier",
+      "latitude": 51.535631,
+      "longitude": 4.505859,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 116,
+      "name": "De Lange Akker",
+      "latitude": 51.604393,
+      "longitude": 4.69186,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 117,
+      "name": "De Lentekriebel",
+      "latitude": 51.972362,
+      "longitude": 4.242037,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 118,
+      "name": "De Lentekriebel Kwintsheul",
+      "latitude": 52.020167,
+      "longitude": 4.253536,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 119,
+      "name": "De Luie Tuinman",
+      "latitude": 52.752074,
+      "longitude": 6.402973,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 120,
+      "name": "De Mooij",
+      "latitude": 52.198626,
+      "longitude": 4.446933,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 121,
+      "name": "De Mulder Bomenteelt",
+      "latitude": 51.420651,
+      "longitude": 6.086038,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 122,
+      "name": "De Oosteinde",
+      "latitude": 52.369806,
+      "longitude": 4.683899,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 123,
+      "name": "De Oude Tol",
+      "latitude": 51.986596,
+      "longitude": 5.678466,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 124,
+      "name": "De Passerel De Kruidentuin",
+      "latitude": 52.23778,
+      "longitude": 6.119005,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 125,
+      "name": "De Plantenhal",
+      "latitude": 51.827583,
+      "longitude": 4.258438,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 126,
+      "name": "De Plantenhal",
+      "latitude": 51.864939,
+      "longitude": 4.429735,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 127,
+      "name": "De Plantenhal",
+      "latitude": 51.890713,
+      "longitude": 4.587789,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 128,
+      "name": "De Plantenhal Oud-Beijerland",
+      "latitude": 51.805121,
+      "longitude": 4.411879,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 129,
+      "name": "De Schouw",
+      "latitude": 52.023348,
+      "longitude": 5.17214,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 130,
+      "name": "De Spijteltuin",
+      "latitude": 52.346128,
+      "longitude": 4.846441,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 131,
+      "name": "De Tuinen van Bimax",
+      "latitude": 52.2288,
+      "longitude": 6.84872,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 132,
+      "name": "De Tuinkamer",
+      "latitude": 51.468807,
+      "longitude": 4.041695,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 133,
+      "name": "De Tuinwinkel",
+      "latitude": 52.202653,
+      "longitude": 4.813158,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 134,
+      "name": "De Wildernis",
+      "latitude": 52.025869,
+      "longitude": 5.53073,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 135,
+      "name": "De Wonderkas",
+      "latitude": 52.254041,
+      "longitude": 6.156865,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 136,
+      "name": "De Woudhof",
+      "latitude": 52.16495,
+      "longitude": 6.03108,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 137,
+      "name": "De glinstertuin",
+      "latitude": 52.113387,
+      "longitude": 5.507631,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 138,
+      "name": "De plantenbeurs",
+      "latitude": 52.07904,
+      "longitude": 4.633948,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 139,
+      "name": "DeZaden",
+      "latitude": 52.97162,
+      "longitude": 5.948758,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 140,
+      "name": "DekaTuin",
+      "latitude": 52.381923,
+      "longitude": 4.610688,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 141,
+      "name": "DekaTuin",
+      "latitude": 52.591784,
+      "longitude": 4.689027,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 142,
+      "name": "Den Haan",
+      "latitude": 52.19103,
+      "longitude": 4.445328,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 143,
+      "name": "Dongeneind Kwekerij",
+      "latitude": 51.642824,
+      "longitude": 4.914961,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 144,
+      "name": "Dons Boomkwekerij",
+      "latitude": 52.600024,
+      "longitude": 6.293436,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 145,
+      "name": "Doorn Plants",
+      "latitude": 52.374177,
+      "longitude": 6.045878,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 146,
+      "name": "Eldorado",
+      "latitude": 53.264558,
+      "longitude": 6.5952,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 147,
+      "name": "Ellman Kerstbomen",
+      "latitude": 51.958569,
+      "longitude": 6.267142,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 148,
+      "name": "Eric Sleutjes Bloemen en Planten",
+      "latitude": 51.662174,
+      "longitude": 5.366654,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 149,
+      "name": "Eurofleur",
+      "latitude": 52.141844,
+      "longitude": 5.410981,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 150,
+      "name": "Eurohandelsonderneming",
+      "latitude": 50.908195,
+      "longitude": 5.95802,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 151,
+      "name": "Extravert",
+      "latitude": 52.11033,
+      "longitude": 4.429551,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 152,
+      "name": "Florahoek",
+      "latitude": 53.22166,
+      "longitude": 5.936748,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 153,
+      "name": "Flower Farm",
+      "latitude": 52.964109,
+      "longitude": 5.936948,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 154,
+      "name": "Fonteyn",
+      "latitude": 52.23164,
+      "longitude": 5.773783,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 155,
+      "name": "Franssen - v.d. Heuvel",
+      "latitude": 51.280692,
+      "longitude": 6.104016,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 156,
+      "name": "Frits Janssen",
+      "latitude": 52.547293,
+      "longitude": 4.726476,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 157,
+      "name": "Fruitbomen.net",
+      "latitude": 52.098824,
+      "longitude": 4.667586,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 158,
+      "name": "Garden Design",
+      "latitude": 52.497928,
+      "longitude": 4.639819,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 159,
+      "name": "Grace & Graziani",
+      "latitude": 52.356258,
+      "longitude": 4.909819,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 160,
+      "name": "Grevers",
+      "latitude": 51.911653,
+      "longitude": 6.430072,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 161,
+      "name": "GroenRijk",
+      "latitude": 50.85997,
+      "longitude": 5.773401,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 162,
+      "name": "GroenRijk",
+      "latitude": 51.354017,
+      "longitude": 6.049038,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 163,
+      "name": "GroenRijk",
+      "latitude": 51.410882,
+      "longitude": 5.555789,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 164,
+      "name": "GroenRijk",
+      "latitude": 51.426478,
+      "longitude": 5.404496,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 165,
+      "name": "GroenRijk",
+      "latitude": 51.479606,
+      "longitude": 3.62488,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 166,
+      "name": "GroenRijk",
+      "latitude": 51.595502,
+      "longitude": 5.07898,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 167,
+      "name": "GroenRijk",
+      "latitude": 51.698292,
+      "longitude": 5.328003,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 168,
+      "name": "GroenRijk",
+      "latitude": 51.82638,
+      "longitude": 4.437923,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 169,
+      "name": "GroenRijk",
+      "latitude": 51.879394,
+      "longitude": 5.503292,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 170,
+      "name": "GroenRijk",
+      "latitude": 51.92197,
+      "longitude": 6.052969,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 171,
+      "name": "GroenRijk",
+      "latitude": 51.937916,
+      "longitude": 4.777454,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 172,
+      "name": "GroenRijk",
+      "latitude": 52.016437,
+      "longitude": 5.074023,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 173,
+      "name": "GroenRijk",
+      "latitude": 52.018542,
+      "longitude": 4.33502,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 174,
+      "name": "GroenRijk",
+      "latitude": 52.382131,
+      "longitude": 5.763125,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 175,
+      "name": "GroenRijk",
+      "latitude": 52.400581,
+      "longitude": 6.266241,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 176,
+      "name": "GroenRijk",
+      "latitude": 52.792584,
+      "longitude": 6.09679,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 177,
+      "name": "GroenRijk",
+      "latitude": 52.998065,
+      "longitude": 6.518988,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 178,
+      "name": "GroenRijk",
+      "latitude": 53.317498,
+      "longitude": 6.879262,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 179,
+      "name": "GroenRijk De Wilskracht",
+      "latitude": 52.057507,
+      "longitude": 4.394249,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 180,
+      "name": "GroenRijk Schalk",
+      "latitude": 51.613183,
+      "longitude": 4.701611,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 181,
+      "name": "GroenRijk Steentjes",
+      "latitude": 51.985152,
+      "longitude": 6.334347,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 182,
+      "name": "GroenRijk Timmerman",
+      "latitude": 52.459408,
+      "longitude": 6.509394,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 183,
+      "name": "Groencentrum & Kwekerij De Vlieren",
+      "latitude": 51.860639,
+      "longitude": 5.585582,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 184,
+      "name": "Groencentrum Bok",
+      "latitude": 50.926333,
+      "longitude": 5.973604,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 185,
+      "name": "Groencentrum Buurse 't Niej'nhoes",
+      "latitude": 52.155101,
+      "longitude": 6.848104,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 186,
+      "name": "Groencentrum De Meent",
+      "latitude": 52.344823,
+      "longitude": 6.001601,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 187,
+      "name": "Groencentrum Freek van der Wal",
+      "latitude": 53.257305,
+      "longitude": 6.85987,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 188,
+      "name": "Groencentrum Sonneveld",
+      "latitude": 52.076048,
+      "longitude": 4.63992,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 189,
+      "name": "Groencentrum Witmarsum",
+      "latitude": 53.100456,
+      "longitude": 5.480849,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 190,
+      "name": "Groene Vakwinkel Sikma",
+      "latitude": 53.236883,
+      "longitude": 5.897806,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 191,
+      "name": "Groene Vingers Delft",
+      "latitude": 52.010999,
+      "longitude": 4.361097,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 192,
+      "name": "Groenkoop",
+      "latitude": 52.402171,
+      "longitude": 6.636506,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 193,
+      "name": "Groenland Groningen",
+      "latitude": 53.21792,
+      "longitude": 6.593731,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 194,
+      "name": "Groenrijk Eethen",
+      "latitude": 51.730793,
+      "longitude": 5.048499,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 195,
+      "name": "Groenzo",
+      "latitude": 51.382402,
+      "longitude": 5.992586,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 196,
+      "name": "Handelskwekerij De Bloemenkampen BV",
+      "latitude": 52.377993,
+      "longitude": 5.759957,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 197,
+      "name": "Haneveld",
+      "latitude": 52.20169,
+      "longitude": 6.36968,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 198,
+      "name": "Hans Rozeboom",
+      "latitude": 52.006602,
+      "longitude": 5.66527,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 199,
+      "name": "Harkes Tuincentrum",
+      "latitude": 52.040984,
+      "longitude": 5.672769,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 200,
+      "name": "Hartogsveld",
+      "latitude": 52.162373,
+      "longitude": 5.425927,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 201,
+      "name": "Hawi Zelhem",
+      "latitude": 51.999781,
+      "longitude": 6.353069,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 202,
+      "name": "Heerdink",
+      "latitude": 52.412262,
+      "longitude": 6.731514,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 203,
+      "name": "Het Houten Huis",
+      "latitude": 51.801052,
+      "longitude": 5.231265,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 204,
+      "name": "Het Molentje",
+      "latitude": 51.833678,
+      "longitude": 5.892644,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 205,
+      "name": "Het Rozenpakhuys",
+      "latitude": 51.847722,
+      "longitude": 4.520973,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 206,
+      "name": "Het Tuincentrumpje",
+      "latitude": 51.874325,
+      "longitude": 4.484384,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 207,
+      "name": "Het Tuinhuis",
+      "latitude": 52.971737,
+      "longitude": 6.667091,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 208,
+      "name": "Het Veld",
+      "latitude": 52.181874,
+      "longitude": 6.01937,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 209,
+      "name": "Hol Plant en Kado",
+      "latitude": 51.868099,
+      "longitude": 5.279672,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 210,
+      "name": "Hollander",
+      "latitude": 52.903542,
+      "longitude": 4.80335,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 211,
+      "name": "Hoogeveen",
+      "latitude": 52.711622,
+      "longitude": 6.42216,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 212,
+      "name": "Hornbach",
+      "latitude": 51.589028,
+      "longitude": 5.031943,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 213,
+      "name": "Horta Baarle Hertog",
+      "latitude": 51.44242,
+      "longitude": 4.922304,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 214,
+      "name": "Horticoop",
+      "latitude": 51.895343,
+      "longitude": 4.086429,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 215,
+      "name": "Horticoop",
+      "latitude": 51.99833,
+      "longitude": 4.173463,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 216,
+      "name": "Hoveniersbedrijf Alwies Ottenschot",
+      "latitude": 52.185358,
+      "longitude": 6.672186,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 217,
+      "name": "Hoveniersbedrijf It Kampke",
+      "latitude": 53.175391,
+      "longitude": 6.146765,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 218,
+      "name": "Hoveniersbedrijf en Tuincentrum Boertien",
+      "latitude": 52.705476,
+      "longitude": 6.570574,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 219,
+      "name": "Hoveniersbedrijf/Tuincentrum \"Veeneslagen\"",
+      "latitude": 52.304942,
+      "longitude": 6.494147,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 220,
+      "name": "Huis & Tuin Hoogeveen",
+      "latitude": 52.732489,
+      "longitude": 6.509625,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 221,
+      "name": "Intratuin",
+      "latitude": 50.818781,
+      "longitude": 5.710811,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 222,
+      "name": "Intratuin",
+      "latitude": 50.991215,
+      "longitude": 5.822241,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 223,
+      "name": "Intratuin",
+      "latitude": 51.248115,
+      "longitude": 5.744357,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 224,
+      "name": "Intratuin",
+      "latitude": 51.275267,
+      "longitude": 4.031822,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 225,
+      "name": "Intratuin",
+      "latitude": 51.453123,
+      "longitude": 5.552674,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 226,
+      "name": "Intratuin",
+      "latitude": 51.471174,
+      "longitude": 3.556086,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 227,
+      "name": "Intratuin",
+      "latitude": 51.514321,
+      "longitude": 5.965689,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 228,
+      "name": "Intratuin",
+      "latitude": 51.516154,
+      "longitude": 4.278359,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 229,
+      "name": "Intratuin",
+      "latitude": 51.538268,
+      "longitude": 5.081571,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 230,
+      "name": "Intratuin",
+      "latitude": 51.575233,
+      "longitude": 4.663589,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 231,
+      "name": "Intratuin",
+      "latitude": 51.602996,
+      "longitude": 5.323994,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 232,
+      "name": "Intratuin",
+      "latitude": 51.603485,
+      "longitude": 4.778452,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 233,
+      "name": "Intratuin",
+      "latitude": 51.611487,
+      "longitude": 5.559105,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 234,
+      "name": "Intratuin",
+      "latitude": 51.723237,
+      "longitude": 5.343482,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 235,
+      "name": "Intratuin",
+      "latitude": 51.752008,
+      "longitude": 4.422096,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 236,
+      "name": "Intratuin",
+      "latitude": 51.795309,
+      "longitude": 5.849836,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 237,
+      "name": "Intratuin",
+      "latitude": 51.828034,
+      "longitude": 4.633667,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 238,
+      "name": "Intratuin",
+      "latitude": 51.828257,
+      "longitude": 4.802112,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 239,
+      "name": "Intratuin",
+      "latitude": 51.864071,
+      "longitude": 4.429223,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 240,
+      "name": "Intratuin",
+      "latitude": 51.913348,
+      "longitude": 5.871719,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 241,
+      "name": "Intratuin",
+      "latitude": 51.940303,
+      "longitude": 6.629292,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 242,
+      "name": "Intratuin",
+      "latitude": 51.959511,
+      "longitude": 6.013948,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 243,
+      "name": "Intratuin",
+      "latitude": 51.991064,
+      "longitude": 5.952028,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 244,
+      "name": "Intratuin",
+      "latitude": 52.012752,
+      "longitude": 5.027713,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 245,
+      "name": "Intratuin",
+      "latitude": 52.013622,
+      "longitude": 4.154341,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 246,
+      "name": "Intratuin",
+      "latitude": 52.017174,
+      "longitude": 4.419645,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 247,
+      "name": "Intratuin",
+      "latitude": 52.02487,
+      "longitude": 4.604038,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 248,
+      "name": "Intratuin",
+      "latitude": 52.065031,
+      "longitude": 4.453801,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 249,
+      "name": "Intratuin",
+      "latitude": 52.07547,
+      "longitude": 5.13682,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 250,
+      "name": "Intratuin",
+      "latitude": 52.091031,
+      "longitude": 5.000727,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 251,
+      "name": "Intratuin",
+      "latitude": 52.100006,
+      "longitude": 5.028524,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 252,
+      "name": "Intratuin",
+      "latitude": 52.121853,
+      "longitude": 5.575252,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 253,
+      "name": "Intratuin",
+      "latitude": 52.165121,
+      "longitude": 4.715381,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 254,
+      "name": "Intratuin",
+      "latitude": 52.16518,
+      "longitude": 5.355965,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 255,
+      "name": "Intratuin",
+      "latitude": 52.165943,
+      "longitude": 6.441439,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 256,
+      "name": "Intratuin",
+      "latitude": 52.207801,
+      "longitude": 6.853119,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 257,
+      "name": "Intratuin",
+      "latitude": 52.211424,
+      "longitude": 5.995173,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 258,
+      "name": "Intratuin",
+      "latitude": 52.214999,
+      "longitude": 5.476077,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 259,
+      "name": "Intratuin",
+      "latitude": 52.219105,
+      "longitude": 5.119332,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 260,
+      "name": "Intratuin",
+      "latitude": 52.250087,
+      "longitude": 4.542881,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 261,
+      "name": "Intratuin",
+      "latitude": 52.252446,
+      "longitude": 6.196949,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 262,
+      "name": "Intratuin",
+      "latitude": 52.330308,
+      "longitude": 4.631051,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 263,
+      "name": "Intratuin",
+      "latitude": 52.349012,
+      "longitude": 4.925982,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 264,
+      "name": "Intratuin",
+      "latitude": 52.360339,
+      "longitude": 6.630005,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 265,
+      "name": "Intratuin",
+      "latitude": 52.37511,
+      "longitude": 5.175737,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 266,
+      "name": "Intratuin",
+      "latitude": 52.490359,
+      "longitude": 5.482215,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 267,
+      "name": "Intratuin",
+      "latitude": 52.523788,
+      "longitude": 4.947369,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 268,
+      "name": "Intratuin",
+      "latitude": 52.53383,
+      "longitude": 6.163093,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 269,
+      "name": "Intratuin",
+      "latitude": 52.642831,
+      "longitude": 4.793902,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 270,
+      "name": "Intratuin",
+      "latitude": 52.666665,
+      "longitude": 5.101367,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 271,
+      "name": "Intratuin",
+      "latitude": 52.676484,
+      "longitude": 6.189562,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 272,
+      "name": "Intratuin",
+      "latitude": 52.723631,
+      "longitude": 5.725435,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 273,
+      "name": "Intratuin",
+      "latitude": 52.761957,
+      "longitude": 6.903262,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 274,
+      "name": "Intratuin",
+      "latitude": 53.131259,
+      "longitude": 6.076673,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 275,
+      "name": "Intratuin",
+      "latitude": 53.150397,
+      "longitude": 7.060195,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 276,
+      "name": "Intratuin",
+      "latitude": 53.192765,
+      "longitude": 5.8134,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 277,
+      "name": "J. van der Kamp",
+      "latitude": 52.162302,
+      "longitude": 5.986569,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 278,
+      "name": "J.K. van den Dool BV tuinmaterialen",
+      "latitude": 52.156258,
+      "longitude": 4.405771,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 279,
+      "name": "JMB Garden Supplies",
+      "latitude": 51.86118,
+      "longitude": 4.313577,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 280,
+      "name": "Jackel Visser",
+      "latitude": 53.091417,
+      "longitude": 6.684416,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 281,
+      "name": "Jacobs",
+      "latitude": 51.347751,
+      "longitude": 6.193814,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 282,
+      "name": "Jan Boomkamp",
+      "latitude": 52.298664,
+      "longitude": 6.782721,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 283,
+      "name": "Jansma's Hof",
+      "latitude": 52.943052,
+      "longitude": 6.039282,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 284,
+      "name": "Jurrie Baas",
+      "latitude": 52.539445,
+      "longitude": 6.407363,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 285,
+      "name": "KEDA B.V. Exotic Plants",
+      "latitude": 51.28785,
+      "longitude": 5.787477,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 286,
+      "name": "Keuper- Tuin & Parkmachines",
+      "latitude": 52.006586,
+      "longitude": 6.232066,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 287,
+      "name": "Knippenberg",
+      "latitude": 51.135839,
+      "longitude": 6.009183,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 288,
+      "name": "Kolbach",
+      "latitude": 51.800979,
+      "longitude": 5.007247,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 289,
+      "name": "Kooista Tuin & Dier",
+      "latitude": 53.299549,
+      "longitude": 6.596012,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 290,
+      "name": "Koos Vrieling Boomkwekerijen",
+      "latitude": 53.172127,
+      "longitude": 6.472074,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 291,
+      "name": "Koster Tuinmaterialen",
+      "latitude": 52.310006,
+      "longitude": 5.123141,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 292,
+      "name": "Kweek Stadstuinwinkel",
+      "latitude": 52.387712,
+      "longitude": 4.880997,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 293,
+      "name": "Kwekerij /Tuincentrum Bert Visscher",
+      "latitude": 52.725051,
+      "longitude": 6.158639,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 294,
+      "name": "Kwekerij Almere",
+      "latitude": 52.41529,
+      "longitude": 5.273797,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 295,
+      "name": "Kwekerij Arno Kuipers",
+      "latitude": 52.272832,
+      "longitude": 6.823942,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 296,
+      "name": "Kwekerij Aurora",
+      "latitude": 53.411765,
+      "longitude": 6.724716,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 297,
+      "name": "Kwekerij Brandenburg",
+      "latitude": 53.364252,
+      "longitude": 6.518257,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 298,
+      "name": "Kwekerij Bussink",
+      "latitude": 52.169174,
+      "longitude": 5.997191,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 299,
+      "name": "Kwekerij De Belder",
+      "latitude": 52.252929,
+      "longitude": 6.818066,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 300,
+      "name": "Kwekerij De Border",
+      "latitude": 52.271466,
+      "longitude": 6.711948,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 301,
+      "name": "Kwekerij Goede-Planten",
+      "latitude": 51.715255,
+      "longitude": 5.201657,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 302,
+      "name": "Kwekerij Hofste V.O.F.",
+      "latitude": 52.349648,
+      "longitude": 6.866602,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 303,
+      "name": "Kwekerij Jacco Jacco",
+      "latitude": 52.160935,
+      "longitude": 6.013374,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 304,
+      "name": "Kwekerij Jos Verdaasdonk",
+      "latitude": 51.645377,
+      "longitude": 4.705315,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 305,
+      "name": "Kwekerij Klein Hof",
+      "latitude": 52.149629,
+      "longitude": 5.492704,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 306,
+      "name": "Kwekerij Krijn Spaan",
+      "latitude": 52.228532,
+      "longitude": 5.088893,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 307,
+      "name": "Kwekerij Muijderman",
+      "latitude": 51.391949,
+      "longitude": 5.405072,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 308,
+      "name": "Kwekerij Pieters Planten",
+      "latitude": 52.423937,
+      "longitude": 6.061149,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 309,
+      "name": "Kwekerij Polman",
+      "latitude": 52.233186,
+      "longitude": 6.045536,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 310,
+      "name": "Kwekerij Poot",
+      "latitude": 51.952719,
+      "longitude": 4.382157,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 311,
+      "name": "Kwekerij Souman",
+      "latitude": 52.482645,
+      "longitude": 6.031174,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 312,
+      "name": "Kwekerij Stekkers",
+      "latitude": 52.120221,
+      "longitude": 5.136052,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 313,
+      "name": "Kwekerij Tuincentrum Giesbergen",
+      "latitude": 52.310476,
+      "longitude": 4.612474,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 314,
+      "name": "Kwekerij Van Houtum",
+      "latitude": 52.034017,
+      "longitude": 5.31524,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 315,
+      "name": "Kwekerij Zeelenberg",
+      "latitude": 51.640338,
+      "longitude": 4.953351,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 316,
+      "name": "Kwekerij de Linthorst",
+      "latitude": 52.214522,
+      "longitude": 6.556414,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 317,
+      "name": "Kwekerij de Morgen",
+      "latitude": 52.668107,
+      "longitude": 4.871874,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 318,
+      "name": "Kwekerij en Tuinplantencentrum Van Oosten",
+      "latitude": 52.650867,
+      "longitude": 6.241128,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 319,
+      "name": "Kwekerij van Dommelen",
+      "latitude": 51.460238,
+      "longitude": 5.149206,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 320,
+      "name": "Kwekerij van de Ven",
+      "latitude": 51.589824,
+      "longitude": 5.19625,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 321,
+      "name": "Kwekerij van de Waart",
+      "latitude": 51.476513,
+      "longitude": 3.660813,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 322,
+      "name": "Kwekerij van der Linden",
+      "latitude": 51.457263,
+      "longitude": 5.641225,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 323,
+      "name": "Lawn Mower Shop",
+      "latitude": 51.333209,
+      "longitude": 3.497462,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 324,
+      "name": "Leo Akkerman",
+      "latitude": 51.883993,
+      "longitude": 5.187447,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 325,
+      "name": "Lepona",
+      "latitude": 51.789487,
+      "longitude": 5.718549,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 326,
+      "name": "Les Fleurs d'Amour",
+      "latitude": 53.125347,
+      "longitude": 6.721753,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 327,
+      "name": "Liefers",
+      "latitude": 52.400547,
+      "longitude": 6.034225,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 328,
+      "name": "Lieren",
+      "latitude": 52.163378,
+      "longitude": 5.98946,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 329,
+      "name": "Life & Garden",
+      "latitude": 51.319152,
+      "longitude": 3.493518,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 330,
+      "name": "Life & Garden",
+      "latitude": 51.48867,
+      "longitude": 5.711405,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 331,
+      "name": "Life & Garden",
+      "latitude": 51.73941,
+      "longitude": 3.785452,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 332,
+      "name": "Life & Garden",
+      "latitude": 52.700407,
+      "longitude": 4.820373,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 333,
+      "name": "Life & Garden",
+      "latitude": 53.171267,
+      "longitude": 6.18294,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 334,
+      "name": "Loungehuis",
+      "latitude": 52.503841,
+      "longitude": 4.651815,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 335,
+      "name": "M. Vos Boomkwekerij",
+      "latitude": 51.444977,
+      "longitude": 4.387943,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 336,
+      "name": "Maison Mien",
+      "latitude": 52.642449,
+      "longitude": 5.058517,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 337,
+      "name": "Marcel de Wit bloemen en planten",
+      "latitude": 51.638831,
+      "longitude": 5.633572,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 338,
+      "name": "Marni's kwekerij",
+      "latitude": 50.893773,
+      "longitude": 5.741521,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 339,
+      "name": "Massop Tuin bedrijf en Hoveniers",
+      "latitude": 51.866326,
+      "longitude": 6.442418,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 340,
+      "name": "Mauvekoi",
+      "latitude": 51.963652,
+      "longitude": 6.021368,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 341,
+      "name": "McHoveniers",
+      "latitude": 52.573692,
+      "longitude": 6.185856,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 342,
+      "name": "Moerkerks Plantenparadijs",
+      "latitude": 52.133644,
+      "longitude": 4.465277,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 343,
+      "name": "Moes&Tuin",
+      "latitude": 51.707728,
+      "longitude": 5.455085,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 344,
+      "name": "MyPalmShop exotische planten",
+      "latitude": 52.468205,
+      "longitude": 5.987085,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 345,
+      "name": "Nancy's plantenhoekje",
+      "latitude": 51.701268,
+      "longitude": 5.173981,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 346,
+      "name": "Nieuwenhuis Buitenleven",
+      "latitude": 52.294016,
+      "longitude": 4.639458,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 347,
+      "name": "Nieuwesteeg Tuinplanten",
+      "latitude": 51.655785,
+      "longitude": 4.736663,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 348,
+      "name": "Nijssen Tuin & Bulbs Heemstede",
+      "latitude": 52.33902,
+      "longitude": 4.623937,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 349,
+      "name": "Nollestee",
+      "latitude": 51.772412,
+      "longitude": 4.074203,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 350,
+      "name": "Noorderbloemen",
+      "latitude": 52.395844,
+      "longitude": 4.912592,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 351,
+      "name": "Obelisk Hoveniers",
+      "latitude": 53.156751,
+      "longitude": 5.564745,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 352,
+      "name": "Odink",
+      "latitude": 52.349143,
+      "longitude": 6.477488,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 353,
+      "name": "Olifant",
+      "latitude": 52.20397,
+      "longitude": 4.755697,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 354,
+      "name": "Onrust",
+      "latitude": 52.973655,
+      "longitude": 6.882135,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 355,
+      "name": "Oogenlust",
+      "latitude": 51.368654,
+      "longitude": 5.328745,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 356,
+      "name": "Oonk Hoveniers",
+      "latitude": 51.956856,
+      "longitude": 6.630315,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 357,
+      "name": "Oosterik",
+      "latitude": 52.400651,
+      "longitude": 7.021503,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 358,
+      "name": "Organifer",
+      "latitude": 52.574591,
+      "longitude": 6.59029,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 359,
+      "name": "Ottenhof",
+      "latitude": 52.350819,
+      "longitude": 4.814859,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 360,
+      "name": "Pantropica",
+      "latitude": 52.758328,
+      "longitude": 5.834348,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 361,
+      "name": "Peer Tuincentrum en Sierbestrating BV",
+      "latitude": 51.955182,
+      "longitude": 6.272887,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 362,
+      "name": "Pekaar Bestratingsmaterialen",
+      "latitude": 51.479719,
+      "longitude": 4.007525,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 363,
+      "name": "Perkplantenkwekerij P. de Mulder",
+      "latitude": 51.541644,
+      "longitude": 6.172286,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 364,
+      "name": "Peschen",
+      "latitude": 50.888756,
+      "longitude": 6.065988,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 365,
+      "name": "Pets Place - Boerenbond",
+      "latitude": 51.671009,
+      "longitude": 5.410179,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 366,
+      "name": "Planta",
+      "latitude": 52.101665,
+      "longitude": 5.189684,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 367,
+      "name": "Planten & Zo",
+      "latitude": 51.830473,
+      "longitude": 4.335715,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 368,
+      "name": "Plantencentrum Velden",
+      "latitude": 51.405849,
+      "longitude": 6.158545,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 369,
+      "name": "Plantencentrum van den Beuken",
+      "latitude": 51.446158,
+      "longitude": 6.076282,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 370,
+      "name": "Plantenhal",
+      "latitude": 52.000671,
+      "longitude": 4.500408,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 371,
+      "name": "Plantenkwekerij Nico Zonneveld",
+      "latitude": 52.694179,
+      "longitude": 4.850263,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 372,
+      "name": "Plantenmarkt Boskoop",
+      "latitude": 52.251517,
+      "longitude": 5.243905,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 373,
+      "name": "Poot Tuincentrum",
+      "latitude": 52.469546,
+      "longitude": 6.064917,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 374,
+      "name": "Poppelaars Tuincentrum",
+      "latitude": 51.616874,
+      "longitude": 4.753079,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 375,
+      "name": "Populier Tuinmeubelen",
+      "latitude": 51.715148,
+      "longitude": 5.274737,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 376,
+      "name": "Praxis Groningen Damsterdiep",
+      "latitude": 53.222063,
+      "longitude": 6.593415,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 377,
+      "name": "Praxis Tuin",
+      "latitude": 52.052106,
+      "longitude": 4.52632,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 378,
+      "name": "Praxis Tuincentrum Amsterdam Zuidoost",
+      "latitude": 52.297616,
+      "longitude": 4.946669,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 379,
+      "name": "Primavera",
+      "latitude": 52.390455,
+      "longitude": 4.623721,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 380,
+      "name": "Primavera Tuincentrum",
+      "latitude": 52.390466,
+      "longitude": 4.623752,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 381,
+      "name": "Princenbosch",
+      "latitude": 51.547529,
+      "longitude": 4.879314,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 382,
+      "name": "Puik Tuincentrum",
+      "latitude": 52.215157,
+      "longitude": 5.132281,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 383,
+      "name": "Randijk Bamboe & Hoveniers",
+      "latitude": 52.130675,
+      "longitude": 5.448226,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 384,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 51.847012,
+      "longitude": 5.00988,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 385,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 51.908029,
+      "longitude": 4.438594,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 386,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.005231,
+      "longitude": 4.386887,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 387,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.101757,
+      "longitude": 5.184391,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 388,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.151903,
+      "longitude": 4.532608,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 389,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.168394,
+      "longitude": 5.426365,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 390,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.287661,
+      "longitude": 4.819252,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 391,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.288493,
+      "longitude": 5.240989,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 392,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.294934,
+      "longitude": 4.638814,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 393,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.336915,
+      "longitude": 4.921618,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 394,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.393972,
+      "longitude": 5.27107,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 395,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.431427,
+      "longitude": 4.810522,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 396,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.44125,
+      "longitude": 4.653732,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 397,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.621707,
+      "longitude": 4.775315,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 398,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 52.70612,
+      "longitude": 5.251857,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 399,
+      "name": "Ranzijn tuin & dier",
+      "latitude": 53.021105,
+      "longitude": 5.665827,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 400,
+      "name": "Reeuwijkse Plattelandswinkel",
+      "latitude": 52.023699,
+      "longitude": 4.738881,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 401,
+      "name": "Remy Tuincentrum",
+      "latitude": 51.514589,
+      "longitude": 5.083263,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 402,
+      "name": "Rob's Tuincentrum",
+      "latitude": 53.219661,
+      "longitude": 5.665663,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 403,
+      "name": "Roestenburg Kwekerijen",
+      "latitude": 51.688733,
+      "longitude": 5.170307,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 404,
+      "name": "Roggeveen & Vermeulen",
+      "latitude": 52.08112,
+      "longitude": 4.645846,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 405,
+      "name": "Rondomton",
+      "latitude": 52.221683,
+      "longitude": 5.7846,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 406,
+      "name": "Saman Boomspecialisme",
+      "latitude": 51.476942,
+      "longitude": 4.054993,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 407,
+      "name": "Schollevaart",
+      "latitude": 51.95447,
+      "longitude": 4.569852,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 408,
+      "name": "Schoutenbos",
+      "latitude": 52.709472,
+      "longitude": 4.723569,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 409,
+      "name": "Sealtec",
+      "latitude": 52.02375,
+      "longitude": 4.655084,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 410,
+      "name": "Seeds Shop",
+      "latitude": 53.22027,
+      "longitude": 6.558227,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 411,
+      "name": "Semper Florens Oranjedorp",
+      "latitude": 52.742164,
+      "longitude": 6.946517,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 412,
+      "name": "Sennema Tuintotaal",
+      "latitude": 53.335889,
+      "longitude": 6.506804,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 413,
+      "name": "Slingerland",
+      "latitude": 51.954858,
+      "longitude": 4.525824,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 414,
+      "name": "Smitco",
+      "latitude": 52.467608,
+      "longitude": 4.786403,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 415,
+      "name": "Stadskwekerij",
+      "latitude": 51.810874,
+      "longitude": 5.248217,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 416,
+      "name": "Stam Hoveniers",
+      "latitude": 51.777609,
+      "longitude": 4.648402,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 417,
+      "name": "Stek de Stadstuinwinkel",
+      "latitude": 51.913754,
+      "longitude": 4.462806,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 418,
+      "name": "Stempher Flevogroen",
+      "latitude": 52.531086,
+      "longitude": 5.499075,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 419,
+      "name": "Suidgeest",
+      "latitude": 52.257475,
+      "longitude": 4.626301,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 420,
+      "name": "TAS Boomkwekerij",
+      "latitude": 52.033828,
+      "longitude": 4.687864,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 421,
+      "name": "Teeninga Palmen",
+      "latitude": 53.111471,
+      "longitude": 6.073173,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 422,
+      "name": "Ten Hoven Bomen",
+      "latitude": 52.263503,
+      "longitude": 5.956007,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 423,
+      "name": "Timmer Grondverzet en materialen",
+      "latitude": 52.285407,
+      "longitude": 5.566719,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 424,
+      "name": "Tonsel Boomkwekerijen",
+      "latitude": 52.555673,
+      "longitude": 5.843081,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 425,
+      "name": "Toptuinplanten",
+      "latitude": 51.610754,
+      "longitude": 5.139326,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 426,
+      "name": "Tropic Trees",
+      "latitude": 52.250857,
+      "longitude": 6.815973,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 427,
+      "name": "Tuin & Bestrating Boxmeer",
+      "latitude": 51.655334,
+      "longitude": 5.943526,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 428,
+      "name": "Tuin Techniek Almere",
+      "latitude": 52.349314,
+      "longitude": 5.227544,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 429,
+      "name": "Tuin&Kado",
+      "latitude": 52.584358,
+      "longitude": 6.583118,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 430,
+      "name": "TuinToko Venray",
+      "latitude": 51.537867,
+      "longitude": 5.946287,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 431,
+      "name": "TuinWereld",
+      "latitude": 51.788784,
+      "longitude": 5.84424,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 432,
+      "name": "TuinWereld",
+      "latitude": 51.82233,
+      "longitude": 5.757268,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 433,
+      "name": "TuinWereld",
+      "latitude": 51.889246,
+      "longitude": 5.388227,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 434,
+      "name": "Tuinadviescentrum Noordbarge",
+      "latitude": 52.775239,
+      "longitude": 6.880658,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 435,
+      "name": "Tuinbrocante Marie-Marie",
+      "latitude": 52.34531,
+      "longitude": 4.947744,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 436,
+      "name": "Tuincenterum Sonneveld",
+      "latitude": 51.672061,
+      "longitude": 4.772041,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 437,
+      "name": "Tuincentrum \"De Zwaan\"",
+      "latitude": 51.646608,
+      "longitude": 5.693789,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 438,
+      "name": "Tuincentrum & Hoveniersbedrijf Schel",
+      "latitude": 51.638469,
+      "longitude": 5.419401,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 439,
+      "name": "Tuincentrum 't Vaarderhoogt",
+      "latitude": 52.174022,
+      "longitude": 5.263908,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 440,
+      "name": "Tuincentrum Arcen",
+      "latitude": 51.473648,
+      "longitude": 6.203596,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 441,
+      "name": "Tuincentrum Baltus Wölcken",
+      "latitude": 52.531714,
+      "longitude": 4.654117,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 442,
+      "name": "Tuincentrum Bannenberg",
+      "latitude": 51.335129,
+      "longitude": 5.458992,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 443,
+      "name": "Tuincentrum Boers",
+      "latitude": 51.953109,
+      "longitude": 4.225048,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 444,
+      "name": "Tuincentrum Borghuis",
+      "latitude": 52.297977,
+      "longitude": 6.833904,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 445,
+      "name": "Tuincentrum Brekelmans",
+      "latitude": 51.558728,
+      "longitude": 5.448862,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 446,
+      "name": "Tuincentrum Bull",
+      "latitude": 51.867076,
+      "longitude": 5.768645,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 447,
+      "name": "Tuincentrum Burgum",
+      "latitude": 53.198066,
+      "longitude": 6.006627,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 448,
+      "name": "Tuincentrum Daniëls",
+      "latitude": 51.145267,
+      "longitude": 6.099265,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 449,
+      "name": "Tuincentrum De Bont Oudenbosch",
+      "latitude": 51.587015,
+      "longitude": 4.565575,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 450,
+      "name": "Tuincentrum De Bosrank",
+      "latitude": 51.825688,
+      "longitude": 5.212748,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 451,
+      "name": "Tuincentrum De Driesprong",
+      "latitude": 52.038423,
+      "longitude": 4.474403,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 452,
+      "name": "Tuincentrum De Leeuw",
+      "latitude": 53.213705,
+      "longitude": 5.729242,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 453,
+      "name": "Tuincentrum De Oosteinde",
+      "latitude": 52.316678,
+      "longitude": 4.596682,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 454,
+      "name": "Tuincentrum De Uiver",
+      "latitude": 52.197782,
+      "longitude": 4.422482,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 455,
+      "name": "Tuincentrum De Wildernis",
+      "latitude": 51.977635,
+      "longitude": 5.601128,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 456,
+      "name": "Tuincentrum Den Helder",
+      "latitude": 52.947112,
+      "longitude": 4.75319,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 457,
+      "name": "Tuincentrum Dinanthus",
+      "latitude": 51.903389,
+      "longitude": 5.420774,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 458,
+      "name": "Tuincentrum Doff Eltariek",
+      "latitude": 53.415173,
+      "longitude": 6.657816,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 459,
+      "name": "Tuincentrum Drint",
+      "latitude": 53.209841,
+      "longitude": 6.264306,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 460,
+      "name": "Tuincentrum FloraJoy",
+      "latitude": 52.192724,
+      "longitude": 4.439793,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 461,
+      "name": "Tuincentrum Gerberosa",
+      "latitude": 52.976199,
+      "longitude": 5.79716,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 462,
+      "name": "Tuincentrum Global Garden",
+      "latitude": 52.308607,
+      "longitude": 4.609808,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 463,
+      "name": "Tuincentrum Groen Maastricht",
+      "latitude": 50.836886,
+      "longitude": 5.654557,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 464,
+      "name": "Tuincentrum Groenen",
+      "latitude": 51.380997,
+      "longitude": 5.20261,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 465,
+      "name": "Tuincentrum Haan",
+      "latitude": 52.441024,
+      "longitude": 4.641696,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 466,
+      "name": "Tuincentrum Hardenberg",
+      "latitude": 52.569533,
+      "longitude": 6.631852,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 467,
+      "name": "Tuincentrum Het Oosten",
+      "latitude": 52.286865,
+      "longitude": 4.81159,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 468,
+      "name": "Tuincentrum Het Westen",
+      "latitude": 51.88489,
+      "longitude": 5.080584,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 469,
+      "name": "Tuincentrum Hofwijck",
+      "latitude": 52.065313,
+      "longitude": 4.359615,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 470,
+      "name": "Tuincentrum John Kuipers B.V.",
+      "latitude": 52.335353,
+      "longitude": 7.009739,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 471,
+      "name": "Tuincentrum Leurs",
+      "latitude": 51.3806,
+      "longitude": 6.186983,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 472,
+      "name": "Tuincentrum Lindenholt",
+      "latitude": 51.8307,
+      "longitude": 5.802111,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 473,
+      "name": "Tuincentrum Lopik",
+      "latitude": 52.059064,
+      "longitude": 4.271473,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 474,
+      "name": "Tuincentrum Meijer",
+      "latitude": 51.869594,
+      "longitude": 4.527019,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 475,
+      "name": "Tuincentrum Meijs",
+      "latitude": 51.731355,
+      "longitude": 5.505946,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 476,
+      "name": "Tuincentrum Moerkerk",
+      "latitude": 52.183556,
+      "longitude": 4.414566,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 477,
+      "name": "Tuincentrum Natuurlijk Tilburg",
+      "latitude": 51.593281,
+      "longitude": 5.098526,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 478,
+      "name": "Tuincentrum Nieuwenhuijse",
+      "latitude": 51.472907,
+      "longitude": 4.041073,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 479,
+      "name": "Tuincentrum Ockenburgh",
+      "latitude": 52.052011,
+      "longitude": 4.227418,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 480,
+      "name": "Tuincentrum Ofman",
+      "latitude": 52.48189,
+      "longitude": 4.825257,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 481,
+      "name": "Tuincentrum Oosterhout",
+      "latitude": 51.662356,
+      "longitude": 4.854781,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 482,
+      "name": "Tuincentrum Osdorp",
+      "latitude": 52.351626,
+      "longitude": 4.790834,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 483,
+      "name": "Tuincentrum Overvecht",
+      "latitude": 51.998928,
+      "longitude": 4.523495,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 484,
+      "name": "Tuincentrum Overvecht",
+      "latitude": 52.227817,
+      "longitude": 5.233516,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 485,
+      "name": "Tuincentrum Overvecht",
+      "latitude": 52.428407,
+      "longitude": 4.825602,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 486,
+      "name": "Tuincentrum Overvecht",
+      "latitude": 52.533982,
+      "longitude": 4.952819,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 487,
+      "name": "Tuincentrum Overvecht",
+      "latitude": 52.645656,
+      "longitude": 5.035903,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 488,
+      "name": "Tuincentrum Overvecht",
+      "latitude": 52.776348,
+      "longitude": 4.816985,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 489,
+      "name": "Tuincentrum Paardekoper",
+      "latitude": 51.490403,
+      "longitude": 3.914513,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 490,
+      "name": "Tuincentrum Petersen",
+      "latitude": 52.262202,
+      "longitude": 5.557879,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 491,
+      "name": "Tuincentrum Roden",
+      "latitude": 53.14727,
+      "longitude": 6.430688,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 492,
+      "name": "Tuincentrum Rokkeveen",
+      "latitude": 52.042179,
+      "longitude": 4.482892,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 493,
+      "name": "Tuincentrum Rutgers",
+      "latitude": 53.150645,
+      "longitude": 6.566687,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 494,
+      "name": "Tuincentrum Schmitz",
+      "latitude": 51.147305,
+      "longitude": 6.096584,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 495,
+      "name": "Tuincentrum Schuurhuis",
+      "latitude": 52.650262,
+      "longitude": 6.618968,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 496,
+      "name": "Tuincentrum Slingerland",
+      "latitude": 51.901554,
+      "longitude": 4.643272,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 497,
+      "name": "Tuincentrum Soontiëns",
+      "latitude": 51.440547,
+      "longitude": 5.526991,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 498,
+      "name": "Tuincentrum Steck Utrecht",
+      "latitude": 52.118358,
+      "longitude": 5.133577,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 499,
+      "name": "Tuincentrum Steentjes",
+      "latitude": 51.90627,
+      "longitude": 6.400506,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 500,
+      "name": "Tuincentrum Strijker",
+      "latitude": 52.71788,
+      "longitude": 6.520464,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 501,
+      "name": "Tuincentrum Torreman",
+      "latitude": 51.874857,
+      "longitude": 4.073186,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 502,
+      "name": "Tuincentrum Troost",
+      "latitude": 52.314746,
+      "longitude": 6.503426,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 503,
+      "name": "Tuincentrum Tubantia",
+      "latitude": 53.168575,
+      "longitude": 6.606879,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 504,
+      "name": "Tuincentrum Vechtweelde",
+      "latitude": 52.143073,
+      "longitude": 5.071971,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 505,
+      "name": "Tuincentrum Vijverbroek",
+      "latitude": 51.163366,
+      "longitude": 5.807428,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 506,
+      "name": "Tuincentrum Vriezen",
+      "latitude": 51.963271,
+      "longitude": 6.303209,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 507,
+      "name": "Tuincentrum Westerman",
+      "latitude": 52.900757,
+      "longitude": 7.047891,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 508,
+      "name": "Tuincentrum Westland Floriade",
+      "latitude": 52.034075,
+      "longitude": 4.279482,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 509,
+      "name": "Tuincentrum Wolters",
+      "latitude": 52.231409,
+      "longitude": 7.041086,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 510,
+      "name": "Tuincentrum de Biezen",
+      "latitude": 51.530973,
+      "longitude": 5.648101,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 511,
+      "name": "Tuincentrum de Gruuntjes",
+      "latitude": 51.948621,
+      "longitude": 5.630654,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 512,
+      "name": "Tuincentrum de Keijzer",
+      "latitude": 51.478624,
+      "longitude": 3.960719,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 513,
+      "name": "Tuincentrum de Nieuwstad",
+      "latitude": 52.442356,
+      "longitude": 5.825285,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 514,
+      "name": "Tuincentrum de Struukakkers",
+      "latitude": 52.318103,
+      "longitude": 5.612597,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 515,
+      "name": "Tuincentrum de Weet",
+      "latitude": 52.745142,
+      "longitude": 5.235017,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 516,
+      "name": "Tuincentrum de Zonnebloem",
+      "latitude": 52.019038,
+      "longitude": 4.186798,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 517,
+      "name": "Tuincentrum van Ee",
+      "latitude": 52.076899,
+      "longitude": 5.255198,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 518,
+      "name": "Tuincentrum van Essen",
+      "latitude": 52.390297,
+      "longitude": 6.05528,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 519,
+      "name": "Tuincentrum van Gilst",
+      "latitude": 51.968384,
+      "longitude": 4.464031,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 520,
+      "name": "Tuincentrum van Ginkel",
+      "latitude": 52.140226,
+      "longitude": 5.058667,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 521,
+      "name": "Tuincentrum van Ingen",
+      "latitude": 51.946318,
+      "longitude": 5.51553,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 522,
+      "name": "Tuincentrum-Hoveniersbedrijf M,Hagels",
+      "latitude": 52.301916,
+      "longitude": 6.478822,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 523,
+      "name": "Tuinderij De Groenzoom",
+      "latitude": 52.015561,
+      "longitude": 4.472995,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 524,
+      "name": "Tuindersbedrijf Kesteloo",
+      "latitude": 51.482799,
+      "longitude": 3.563231,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 525,
+      "name": "Tuindorado",
+      "latitude": 53.006958,
+      "longitude": 6.055956,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 526,
+      "name": "Tuindorado",
+      "latitude": 53.086356,
+      "longitude": 6.097467,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 527,
+      "name": "Tuingoed Foltz",
+      "latitude": 53.136136,
+      "longitude": 6.955324,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 528,
+      "name": "Tuinland",
+      "latitude": 52.237446,
+      "longitude": 6.136435,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 529,
+      "name": "Tuinland",
+      "latitude": 52.497031,
+      "longitude": 6.116947,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 530,
+      "name": "Tuinland",
+      "latitude": 53.012148,
+      "longitude": 6.572623,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 531,
+      "name": "Tuinland",
+      "latitude": 53.209295,
+      "longitude": 6.540286,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 532,
+      "name": "Tuinmani",
+      "latitude": 52.246138,
+      "longitude": 6.202375,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 533,
+      "name": "Tuinmarkt Bilthoven",
+      "latitude": 52.129712,
+      "longitude": 5.211257,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 534,
+      "name": "Tuinmarkt G.van de Mars",
+      "latitude": 52.332486,
+      "longitude": 5.983415,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 535,
+      "name": "Tuinoutlet Siebengewald",
+      "latitude": 51.643287,
+      "longitude": 6.09386,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 536,
+      "name": "Tuinplantenwinkel",
+      "latitude": 52.398443,
+      "longitude": 5.799752,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 537,
+      "name": "Tuinrijk",
+      "latitude": 51.65234,
+      "longitude": 5.361721,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 538,
+      "name": "Tuinspul.nl",
+      "latitude": 53.283247,
+      "longitude": 6.156429,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 539,
+      "name": "Tuinwereld Dordrecht",
+      "latitude": 51.800345,
+      "longitude": 4.705451,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 540,
+      "name": "Tuinwinkel Klinkers",
+      "latitude": 53.059448,
+      "longitude": 6.724653,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 541,
+      "name": "Tuinwinkel de Ganzenbeek",
+      "latitude": 52.189396,
+      "longitude": 5.622293,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 542,
+      "name": "Tuinwinkel van den Elzen",
+      "latitude": 51.711315,
+      "longitude": 5.467634,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 543,
+      "name": "Tullekensmolen",
+      "latitude": 52.166645,
+      "longitude": 5.969833,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 544,
+      "name": "Unigarden",
+      "latitude": 52.255411,
+      "longitude": 4.632437,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 545,
+      "name": "V.O.F. Rotsplantenkwekerij Alpinefleur",
+      "latitude": 52.239941,
+      "longitude": 6.135014,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 546,
+      "name": "V.O.F. de Osseploeg",
+      "latitude": 50.894076,
+      "longitude": 5.858405,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 547,
+      "name": "VTV Blijdorp - Tuinwinkel",
+      "latitude": 51.93998,
+      "longitude": 4.439934,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 548,
+      "name": "Van Beest",
+      "latitude": 52.092083,
+      "longitude": 5.236262,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 549,
+      "name": "Van Kammen",
+      "latitude": 53.218149,
+      "longitude": 5.956683,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 550,
+      "name": "Van Laar",
+      "latitude": 52.223829,
+      "longitude": 5.977562,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 551,
+      "name": "Van Rosmalen Tuinplanten Snijbloemen",
+      "latitude": 51.862367,
+      "longitude": 4.428658,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 552,
+      "name": "Van der Dussen Groencentrum",
+      "latitude": 51.980989,
+      "longitude": 4.596354,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 553,
+      "name": "Van der Garde Tuinmeubelen",
+      "latitude": 51.964121,
+      "longitude": 5.998476,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 554,
+      "name": "Van der Ploeg Tuin- en Parkmachines",
+      "latitude": 51.74931,
+      "longitude": 4.117356,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 555,
+      "name": "Van der Velde",
+      "latitude": 52.374824,
+      "longitude": 6.045903,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 556,
+      "name": "Van der Wurff",
+      "latitude": 52.312233,
+      "longitude": 5.057379,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 557,
+      "name": "Venhoeven dier & tuin",
+      "latitude": 52.233126,
+      "longitude": 6.690395,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 558,
+      "name": "Verheijen Hoveniersbedrijf",
+      "latitude": 51.625847,
+      "longitude": 5.896193,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 559,
+      "name": "Verhoeve Groen",
+      "latitude": 53.030938,
+      "longitude": 6.572718,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 560,
+      "name": "Vijvercentrum Apeldoorn",
+      "latitude": 52.231245,
+      "longitude": 6.013862,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 561,
+      "name": "Vijverfolietechniek",
+      "latitude": 51.963732,
+      "longitude": 6.021496,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 562,
+      "name": "Vlijtig Liesje",
+      "latitude": 52.038857,
+      "longitude": 4.688536,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 563,
+      "name": "Voskamp Tuinmachines",
+      "latitude": 52.335277,
+      "longitude": 6.655737,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 564,
+      "name": "Vreeken's Zaden",
+      "latitude": 51.813662,
+      "longitude": 4.659566,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 565,
+      "name": "Welkoop",
+      "latitude": 50.932201,
+      "longitude": 5.947707,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 566,
+      "name": "Welkoop",
+      "latitude": 50.948523,
+      "longitude": 5.799143,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 567,
+      "name": "Welkoop",
+      "latitude": 51.008652,
+      "longitude": 5.832041,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 568,
+      "name": "Welkoop",
+      "latitude": 51.103076,
+      "longitude": 5.861549,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 569,
+      "name": "Welkoop",
+      "latitude": 51.200104,
+      "longitude": 6.013203,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 570,
+      "name": "Welkoop",
+      "latitude": 51.236636,
+      "longitude": 5.698525,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 571,
+      "name": "Welkoop",
+      "latitude": 51.249417,
+      "longitude": 5.879115,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 572,
+      "name": "Welkoop",
+      "latitude": 51.280702,
+      "longitude": 6.082983,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 573,
+      "name": "Welkoop",
+      "latitude": 51.328898,
+      "longitude": 5.969883,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 574,
+      "name": "Welkoop",
+      "latitude": 51.373441,
+      "longitude": 6.120728,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 575,
+      "name": "Welkoop",
+      "latitude": 51.373865,
+      "longitude": 5.576059,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 576,
+      "name": "Welkoop",
+      "latitude": 51.38911,
+      "longitude": 5.170465,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 577,
+      "name": "Welkoop",
+      "latitude": 51.39648,
+      "longitude": 5.720439,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 578,
+      "name": "Welkoop",
+      "latitude": 51.425447,
+      "longitude": 6.036489,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 579,
+      "name": "Welkoop",
+      "latitude": 51.451937,
+      "longitude": 3.779062,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 580,
+      "name": "Welkoop",
+      "latitude": 51.457115,
+      "longitude": 5.784874,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 581,
+      "name": "Welkoop",
+      "latitude": 51.468041,
+      "longitude": 5.250623,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 582,
+      "name": "Welkoop",
+      "latitude": 51.514669,
+      "longitude": 5.978548,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 583,
+      "name": "Welkoop",
+      "latitude": 51.542848,
+      "longitude": 4.230053,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 584,
+      "name": "Welkoop",
+      "latitude": 51.603222,
+      "longitude": 5.869573,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 585,
+      "name": "Welkoop",
+      "latitude": 51.607608,
+      "longitude": 5.153187,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 586,
+      "name": "Welkoop",
+      "latitude": 51.655613,
+      "longitude": 3.905861,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 587,
+      "name": "Welkoop",
+      "latitude": 51.746264,
+      "longitude": 5.111797,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 588,
+      "name": "Welkoop",
+      "latitude": 51.747708,
+      "longitude": 4.443094,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 589,
+      "name": "Welkoop",
+      "latitude": 51.7532,
+      "longitude": 4.172961,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 590,
+      "name": "Welkoop",
+      "latitude": 51.754015,
+      "longitude": 5.732381,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 591,
+      "name": "Welkoop",
+      "latitude": 51.754801,
+      "longitude": 4.173299,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 592,
+      "name": "Welkoop",
+      "latitude": 51.795515,
+      "longitude": 5.260335,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 593,
+      "name": "Welkoop",
+      "latitude": 51.806769,
+      "longitude": 5.441578,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 594,
+      "name": "Welkoop",
+      "latitude": 51.853785,
+      "longitude": 4.889099,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 595,
+      "name": "Welkoop",
+      "latitude": 51.873018,
+      "longitude": 5.287483,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 596,
+      "name": "Welkoop",
+      "latitude": 51.882171,
+      "longitude": 5.971064,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 597,
+      "name": "Welkoop",
+      "latitude": 51.89591,
+      "longitude": 4.086203,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 598,
+      "name": "Welkoop",
+      "latitude": 51.902868,
+      "longitude": 6.387425,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 599,
+      "name": "Welkoop",
+      "latitude": 51.90714,
+      "longitude": 5.865023,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 600,
+      "name": "Welkoop",
+      "latitude": 51.926955,
+      "longitude": 6.564905,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 601,
+      "name": "Welkoop",
+      "latitude": 51.93217,
+      "longitude": 5.932557,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 602,
+      "name": "Welkoop",
+      "latitude": 51.935141,
+      "longitude": 6.137112,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 603,
+      "name": "Welkoop",
+      "latitude": 51.942867,
+      "longitude": 5.518756,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 604,
+      "name": "Welkoop",
+      "latitude": 51.944148,
+      "longitude": 6.46517,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 605,
+      "name": "Welkoop",
+      "latitude": 51.961488,
+      "longitude": 5.656089,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 606,
+      "name": "Welkoop",
+      "latitude": 51.972305,
+      "longitude": 6.707727,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 607,
+      "name": "Welkoop",
+      "latitude": 51.983269,
+      "longitude": 5.34132,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 608,
+      "name": "Welkoop",
+      "latitude": 51.989278,
+      "longitude": 6.566858,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 609,
+      "name": "Welkoop",
+      "latitude": 51.989972,
+      "longitude": 4.475639,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 610,
+      "name": "Welkoop",
+      "latitude": 51.998096,
+      "longitude": 4.173537,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 611,
+      "name": "Welkoop",
+      "latitude": 51.998586,
+      "longitude": 4.211976,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 612,
+      "name": "Welkoop",
+      "latitude": 52.003103,
+      "longitude": 6.350619,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 613,
+      "name": "Welkoop",
+      "latitude": 52.013233,
+      "longitude": 4.814366,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 614,
+      "name": "Welkoop",
+      "latitude": 52.013487,
+      "longitude": 4.591507,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 615,
+      "name": "Welkoop",
+      "latitude": 52.014724,
+      "longitude": 5.56149,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 616,
+      "name": "Welkoop",
+      "latitude": 52.015432,
+      "longitude": 5.050801,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 617,
+      "name": "Welkoop",
+      "latitude": 52.029556,
+      "longitude": 5.171862,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 618,
+      "name": "Welkoop",
+      "latitude": 52.029893,
+      "longitude": 4.231887,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 619,
+      "name": "Welkoop",
+      "latitude": 52.030163,
+      "longitude": 5.643752,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 620,
+      "name": "Welkoop",
+      "latitude": 52.049357,
+      "longitude": 6.310451,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 621,
+      "name": "Welkoop",
+      "latitude": 52.052701,
+      "longitude": 6.221068,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 622,
+      "name": "Welkoop",
+      "latitude": 52.081812,
+      "longitude": 5.448877,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 623,
+      "name": "Welkoop",
+      "latitude": 52.082405,
+      "longitude": 6.451556,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 624,
+      "name": "Welkoop",
+      "latitude": 52.087024,
+      "longitude": 4.737977,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 625,
+      "name": "Welkoop",
+      "latitude": 52.088946,
+      "longitude": 5.211081,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 626,
+      "name": "Welkoop",
+      "latitude": 52.093236,
+      "longitude": 6.648667,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 627,
+      "name": "Welkoop",
+      "latitude": 52.098274,
+      "longitude": 4.943892,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 628,
+      "name": "Welkoop",
+      "latitude": 52.103547,
+      "longitude": 6.065953,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 629,
+      "name": "Welkoop",
+      "latitude": 52.105498,
+      "longitude": 6.317608,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 630,
+      "name": "Welkoop",
+      "latitude": 52.114636,
+      "longitude": 5.719103,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 631,
+      "name": "Welkoop",
+      "latitude": 52.118176,
+      "longitude": 6.52479,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 632,
+      "name": "Welkoop",
+      "latitude": 52.140628,
+      "longitude": 5.591133,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 633,
+      "name": "Welkoop",
+      "latitude": 52.15315,
+      "longitude": 6.201432,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 634,
+      "name": "Welkoop",
+      "latitude": 52.16332,
+      "longitude": 4.518429,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 635,
+      "name": "Welkoop",
+      "latitude": 52.172075,
+      "longitude": 5.310674,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 636,
+      "name": "Welkoop",
+      "latitude": 52.172719,
+      "longitude": 6.74349,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 637,
+      "name": "Welkoop",
+      "latitude": 52.179386,
+      "longitude": 4.711685,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 638,
+      "name": "Welkoop",
+      "latitude": 52.191222,
+      "longitude": 6.36643,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 639,
+      "name": "Welkoop",
+      "latitude": 52.193492,
+      "longitude": 4.628321,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 640,
+      "name": "Welkoop",
+      "latitude": 52.194624,
+      "longitude": 5.935887,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 641,
+      "name": "Welkoop",
+      "latitude": 52.19669,
+      "longitude": 4.450508,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 642,
+      "name": "Welkoop",
+      "latitude": 52.202753,
+      "longitude": 6.201673,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 643,
+      "name": "Welkoop",
+      "latitude": 52.22288,
+      "longitude": 6.879689,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 644,
+      "name": "Welkoop",
+      "latitude": 52.22794,
+      "longitude": 6.11075,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 645,
+      "name": "Welkoop",
+      "latitude": 52.230922,
+      "longitude": 5.377089,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 646,
+      "name": "Welkoop",
+      "latitude": 52.235593,
+      "longitude": 6.49648,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 647,
+      "name": "Welkoop",
+      "latitude": 52.236521,
+      "longitude": 5.987029,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 648,
+      "name": "Welkoop",
+      "latitude": 52.24905,
+      "longitude": 7.0083,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 649,
+      "name": "Welkoop",
+      "latitude": 52.249999,
+      "longitude": 6.288532,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 650,
+      "name": "Welkoop",
+      "latitude": 52.250237,
+      "longitude": 5.60662,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 651,
+      "name": "Welkoop",
+      "latitude": 52.257782,
+      "longitude": 5.252194,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 652,
+      "name": "Welkoop",
+      "latitude": 52.259631,
+      "longitude": 4.771846,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 653,
+      "name": "Welkoop",
+      "latitude": 52.280946,
+      "longitude": 6.772497,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 654,
+      "name": "Welkoop",
+      "latitude": 52.283627,
+      "longitude": 6.14998,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 655,
+      "name": "Welkoop",
+      "latitude": 52.290252,
+      "longitude": 5.974277,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 656,
+      "name": "Welkoop",
+      "latitude": 52.304423,
+      "longitude": 6.492953,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 657,
+      "name": "Welkoop",
+      "latitude": 52.347713,
+      "longitude": 5.516623,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 658,
+      "name": "Welkoop",
+      "latitude": 52.352057,
+      "longitude": 5.989086,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 659,
+      "name": "Welkoop",
+      "latitude": 52.352714,
+      "longitude": 5.639413,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 660,
+      "name": "Welkoop",
+      "latitude": 52.359619,
+      "longitude": 6.656678,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 661,
+      "name": "Welkoop",
+      "latitude": 52.370534,
+      "longitude": 5.78019,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 662,
+      "name": "Welkoop",
+      "latitude": 52.372055,
+      "longitude": 7.001524,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 663,
+      "name": "Welkoop",
+      "latitude": 52.382125,
+      "longitude": 6.281935,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 664,
+      "name": "Welkoop",
+      "latitude": 52.410832,
+      "longitude": 6.902007,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 665,
+      "name": "Welkoop",
+      "latitude": 52.411797,
+      "longitude": 6.600673,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 666,
+      "name": "Welkoop",
+      "latitude": 52.428179,
+      "longitude": 4.820538,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 667,
+      "name": "Welkoop",
+      "latitude": 52.436756,
+      "longitude": 6.239595,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 668,
+      "name": "Welkoop",
+      "latitude": 52.440619,
+      "longitude": 4.641941,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 669,
+      "name": "Welkoop",
+      "latitude": 52.462191,
+      "longitude": 5.993453,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 670,
+      "name": "Welkoop",
+      "latitude": 52.48172,
+      "longitude": 6.031964,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 671,
+      "name": "Welkoop",
+      "latitude": 52.491373,
+      "longitude": 5.48464,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 672,
+      "name": "Welkoop",
+      "latitude": 52.505115,
+      "longitude": 4.780089,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 673,
+      "name": "Welkoop",
+      "latitude": 52.506466,
+      "longitude": 4.655009,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 674,
+      "name": "Welkoop",
+      "latitude": 52.511189,
+      "longitude": 6.270593,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 675,
+      "name": "Welkoop",
+      "latitude": 52.516435,
+      "longitude": 4.998838,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 676,
+      "name": "Welkoop",
+      "latitude": 52.532481,
+      "longitude": 6.416876,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 677,
+      "name": "Welkoop",
+      "latitude": 52.544921,
+      "longitude": 5.707218,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 678,
+      "name": "Welkoop",
+      "latitude": 52.55142,
+      "longitude": 4.903314,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 679,
+      "name": "Welkoop",
+      "latitude": 52.578498,
+      "longitude": 6.595217,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 680,
+      "name": "Welkoop",
+      "latitude": 52.593588,
+      "longitude": 6.096375,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 681,
+      "name": "Welkoop",
+      "latitude": 52.60058,
+      "longitude": 6.393432,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 682,
+      "name": "Welkoop",
+      "latitude": 52.638594,
+      "longitude": 6.192293,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 683,
+      "name": "Welkoop",
+      "latitude": 52.659883,
+      "longitude": 5.064387,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 684,
+      "name": "Welkoop",
+      "latitude": 52.663269,
+      "longitude": 6.724735,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 685,
+      "name": "Welkoop",
+      "latitude": 52.672799,
+      "longitude": 6.287111,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 686,
+      "name": "Welkoop",
+      "latitude": 52.693862,
+      "longitude": 5.227582,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 687,
+      "name": "Welkoop",
+      "latitude": 52.702077,
+      "longitude": 6.182292,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 688,
+      "name": "Welkoop",
+      "latitude": 52.702916,
+      "longitude": 5.746561,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 689,
+      "name": "Welkoop",
+      "latitude": 52.703204,
+      "longitude": 5.152984,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 690,
+      "name": "Welkoop",
+      "latitude": 52.706755,
+      "longitude": 4.817545,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 691,
+      "name": "Welkoop",
+      "latitude": 52.719903,
+      "longitude": 6.847807,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 692,
+      "name": "Welkoop",
+      "latitude": 52.729905,
+      "longitude": 6.491778,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 693,
+      "name": "Welkoop",
+      "latitude": 52.731641,
+      "longitude": 6.97894,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 694,
+      "name": "Welkoop",
+      "latitude": 52.751265,
+      "longitude": 4.748229,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 695,
+      "name": "Welkoop",
+      "latitude": 52.764095,
+      "longitude": 6.899327,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 696,
+      "name": "Welkoop",
+      "latitude": 52.79128,
+      "longitude": 6.096337,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 697,
+      "name": "Welkoop",
+      "latitude": 52.801127,
+      "longitude": 6.733669,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 698,
+      "name": "Welkoop",
+      "latitude": 52.838737,
+      "longitude": 6.37981,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 699,
+      "name": "Welkoop",
+      "latitude": 52.840762,
+      "longitude": 5.023382,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 700,
+      "name": "Welkoop",
+      "latitude": 52.844044,
+      "longitude": 6.618605,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 701,
+      "name": "Welkoop",
+      "latitude": 52.854723,
+      "longitude": 5.719296,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 702,
+      "name": "Welkoop",
+      "latitude": 52.855662,
+      "longitude": 6.498577,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 703,
+      "name": "Welkoop",
+      "latitude": 52.855924,
+      "longitude": 4.84107,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 704,
+      "name": "Welkoop",
+      "latitude": 52.881958,
+      "longitude": 6.001901,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 705,
+      "name": "Welkoop",
+      "latitude": 52.916072,
+      "longitude": 5.445097,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 706,
+      "name": "Welkoop",
+      "latitude": 52.92173,
+      "longitude": 7.023097,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 707,
+      "name": "Welkoop",
+      "latitude": 52.964375,
+      "longitude": 6.657342,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 708,
+      "name": "Welkoop",
+      "latitude": 52.965286,
+      "longitude": 5.905971,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 709,
+      "name": "Welkoop",
+      "latitude": 52.979152,
+      "longitude": 6.295755,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 710,
+      "name": "Welkoop",
+      "latitude": 52.983358,
+      "longitude": 6.099307,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 711,
+      "name": "Welkoop",
+      "latitude": 53.022995,
+      "longitude": 5.67469,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 712,
+      "name": "Welkoop",
+      "latitude": 53.025821,
+      "longitude": 7.139324,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 713,
+      "name": "Welkoop",
+      "latitude": 53.058077,
+      "longitude": 4.797622,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 714,
+      "name": "Welkoop",
+      "latitude": 53.063916,
+      "longitude": 5.512333,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 715,
+      "name": "Welkoop",
+      "latitude": 53.070236,
+      "longitude": 6.578327,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 716,
+      "name": "Welkoop",
+      "latitude": 53.096658,
+      "longitude": 6.106581,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 717,
+      "name": "Welkoop",
+      "latitude": 53.106112,
+      "longitude": 6.890841,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 718,
+      "name": "Welkoop",
+      "latitude": 53.145546,
+      "longitude": 7.045748,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 719,
+      "name": "Welkoop",
+      "latitude": 53.147987,
+      "longitude": 6.275717,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 720,
+      "name": "Welkoop",
+      "latitude": 53.167411,
+      "longitude": 6.759271,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 721,
+      "name": "Welkoop",
+      "latitude": 53.169141,
+      "longitude": 6.375857,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 722,
+      "name": "Welkoop",
+      "latitude": 53.182918,
+      "longitude": 5.545347,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 723,
+      "name": "Welkoop",
+      "latitude": 53.19352,
+      "longitude": 5.842965,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 724,
+      "name": "Welkoop",
+      "latitude": 53.197281,
+      "longitude": 5.773545,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 725,
+      "name": "Welkoop",
+      "latitude": 53.204127,
+      "longitude": 5.981968,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 726,
+      "name": "Welkoop",
+      "latitude": 53.208996,
+      "longitude": 6.544102,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 727,
+      "name": "Welkoop",
+      "latitude": 53.258837,
+      "longitude": 6.393696,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 728,
+      "name": "Welkoop",
+      "latitude": 53.268214,
+      "longitude": 5.659853,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 729,
+      "name": "Welkoop",
+      "latitude": 53.282092,
+      "longitude": 6.153866,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 730,
+      "name": "Welkoop",
+      "latitude": 53.315815,
+      "longitude": 5.990045,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 731,
+      "name": "Welkoop",
+      "latitude": 53.336094,
+      "longitude": 6.508985,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 732,
+      "name": "Welkoop",
+      "latitude": 53.442352,
+      "longitude": 5.639502,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 733,
+      "name": "Weulen Kranenbarg Tuin & Erf",
+      "latitude": 52.10491,
+      "longitude": 6.326351,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 734,
+      "name": "Wibbelink",
+      "latitude": 52.361686,
+      "longitude": 6.46703,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 735,
+      "name": "Wildernis",
+      "latitude": 52.367672,
+      "longitude": 4.872116,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 736,
+      "name": "Wim Vos",
+      "latitude": 51.750071,
+      "longitude": 5.125973,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 737,
+      "name": "Woon- en Tuinwinkel",
+      "latitude": 51.975195,
+      "longitude": 5.731907,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 738,
+      "name": "Zandkop",
+      "latitude": 52.744659,
+      "longitude": 6.909993,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 739,
+      "name": "Zeelandplant",
+      "latitude": 51.529526,
+      "longitude": 3.560312,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 740,
+      "name": "Zonnebeld",
+      "latitude": 52.353625,
+      "longitude": 6.492861,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 741,
+      "name": "Zorgkwekerij 't Lieseind",
+      "latitude": 51.64373,
+      "longitude": 5.40568,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 742,
+      "name": "Zorgkwekerij Bloei",
+      "latitude": 52.015394,
+      "longitude": 4.429365,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 743,
+      "name": "bijSTOX",
+      "latitude": 50.897785,
+      "longitude": 5.947242,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 744,
+      "name": "bijSTOX",
+      "latitude": 51.203086,
+      "longitude": 6.025819,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 745,
+      "name": "de Batterijen",
+      "latitude": 51.913951,
+      "longitude": 5.611347,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 746,
+      "name": "de Hemeltjes",
+      "latitude": 51.590522,
+      "longitude": 5.134322,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 747,
+      "name": "van der Drift",
+      "latitude": 52.011735,
+      "longitude": 4.298769,
+      "osm_klasse": "shop=garden_centre"
+    },
+    {
+      "id": 748,
+      "name": "van der Spek",
+      "latitude": 52.021035,
+      "longitude": 4.612363,
+      "osm_klasse": "shop=garden_centre"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: garden centre (shop=garden_centre) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=garden_centre in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 748 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: garden centre (shop=garden_centre) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: garden centre (shop=garden_centre) — 748 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 748 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

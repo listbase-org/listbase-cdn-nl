@@ -1,0 +1,2375 @@
+{
+  "id": "nl-osm-leisure-horse-riding",
+  "name": "Netherlands OSM: horse riding (leisure=horse_riding)",
+  "title": "Netherlands OSM: horse riding (leisure=horse_riding)",
+  "description": "Named OpenStreetMap features tagged leisure=horse_riding in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 332,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'s-Gravenhaagsche Stadsrijschool",
+      "latitude": 52.083452,
+      "longitude": 4.310756,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 2,
+      "name": "'t Spant",
+      "latitude": 53.185975,
+      "longitude": 5.513285,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 3,
+      "name": "Almeersch Hippisch Centrum",
+      "latitude": 52.378508,
+      "longitude": 5.283845,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 4,
+      "name": "Anna's Hoeve",
+      "latitude": 51.862545,
+      "longitude": 4.091589,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 5,
+      "name": "Arces Stables",
+      "latitude": 51.17168,
+      "longitude": 5.897388,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 6,
+      "name": "Arina's Hoeve",
+      "latitude": 51.922254,
+      "longitude": 4.839102,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 7,
+      "name": "Balijmanege",
+      "latitude": 52.043824,
+      "longitude": 4.457073,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 8,
+      "name": "Barnhoeve",
+      "latitude": 52.245723,
+      "longitude": 4.433215,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 9,
+      "name": "Bio Manege",
+      "latitude": 52.015438,
+      "longitude": 5.828404,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 10,
+      "name": "Blossom Paardencoaching",
+      "latitude": 52.442139,
+      "longitude": 4.753527,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 11,
+      "name": "Bosmanege Bakkeveen",
+      "latitude": 53.091178,
+      "longitude": 6.269189,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 12,
+      "name": "Breidablik",
+      "latitude": 51.491062,
+      "longitude": 5.326007,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 13,
+      "name": "Bumaruiters",
+      "latitude": 52.697266,
+      "longitude": 6.872098,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 14,
+      "name": "Capelse Manege",
+      "latitude": 51.94538,
+      "longitude": 4.593059,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 15,
+      "name": "De Akker",
+      "latitude": 52.135057,
+      "longitude": 4.420168,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 16,
+      "name": "De Amsterdamse Manege",
+      "latitude": 52.317837,
+      "longitude": 4.84191,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 17,
+      "name": "De Batouwers",
+      "latitude": 51.946791,
+      "longitude": 5.296629,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 18,
+      "name": "De Blesruiters",
+      "latitude": 52.097177,
+      "longitude": 4.461188,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 19,
+      "name": "De Blinkert",
+      "latitude": 53.447877,
+      "longitude": 5.686111,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 20,
+      "name": "De Derkjeshoeve",
+      "latitude": 52.361195,
+      "longitude": 6.499492,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 21,
+      "name": "De Duinruiters",
+      "latitude": 52.939196,
+      "longitude": 4.784576,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 22,
+      "name": "De Eilandruiters",
+      "latitude": 51.863673,
+      "longitude": 6.120278,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 23,
+      "name": "De Goudse Manege B.V.",
+      "latitude": 52.019328,
+      "longitude": 4.728563,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 24,
+      "name": "De Hazelhorst",
+      "latitude": 52.471189,
+      "longitude": 6.467961,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 25,
+      "name": "De Horsthoekruiters",
+      "latitude": 52.373858,
+      "longitude": 6.010917,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 26,
+      "name": "De IJslander",
+      "latitude": 51.490577,
+      "longitude": 3.532445,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 27,
+      "name": "De Kroo Ruitersport",
+      "latitude": 51.475166,
+      "longitude": 3.657332,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 28,
+      "name": "De Maartenruiters",
+      "latitude": 53.28614,
+      "longitude": 6.160027,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 29,
+      "name": "De Mallejan",
+      "latitude": 52.140931,
+      "longitude": 5.495141,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 30,
+      "name": "De Manege",
+      "latitude": 52.136639,
+      "longitude": 4.463008,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 31,
+      "name": "De Rosrakkers Manege Paardenstal",
+      "latitude": 51.587954,
+      "longitude": 4.856798,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 32,
+      "name": "De Schutskooi",
+      "latitude": 51.672268,
+      "longitude": 5.415565,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 33,
+      "name": "De Seeruyter",
+      "latitude": 53.304116,
+      "longitude": 5.053876,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 34,
+      "name": "De Tutenburg",
+      "latitude": 51.992972,
+      "longitude": 6.077595,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 35,
+      "name": "De Veldruiters",
+      "latitude": 51.905333,
+      "longitude": 5.976081,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 36,
+      "name": "De Vier Hoeven",
+      "latitude": 52.145753,
+      "longitude": 5.416326,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 37,
+      "name": "De Weideruiters",
+      "latitude": 52.692692,
+      "longitude": 6.575949,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 38,
+      "name": "De Welle",
+      "latitude": 53.16342,
+      "longitude": 5.590748,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 39,
+      "name": "De Wolvenhoeve",
+      "latitude": 52.92003,
+      "longitude": 6.412116,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 40,
+      "name": "De Zandvang",
+      "latitude": 52.09082,
+      "longitude": 6.723999,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 41,
+      "name": "De hoefslag",
+      "latitude": 52.196873,
+      "longitude": 6.847849,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 42,
+      "name": "Develruiters",
+      "latitude": 51.839305,
+      "longitude": 4.574082,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 43,
+      "name": "Die Flardingha Ruiters",
+      "latitude": 51.919946,
+      "longitude": 4.326572,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 44,
+      "name": "Dressuurstal Marjolein Verharen",
+      "latitude": 51.624138,
+      "longitude": 4.914667,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 45,
+      "name": "Duinmanege van Poelenburgh",
+      "latitude": 52.685475,
+      "longitude": 4.702226,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 46,
+      "name": "Duno",
+      "latitude": 51.576934,
+      "longitude": 3.553512,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 47,
+      "name": "Equito",
+      "latitude": 52.321226,
+      "longitude": 4.893643,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 48,
+      "name": "Fair to Horses",
+      "latitude": 51.999513,
+      "longitude": 4.542486,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 49,
+      "name": "Fok- en opfok bedrijf Haikens en Haikens-Stiekema",
+      "latitude": 52.953359,
+      "longitude": 6.697637,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 50,
+      "name": "Forest Mountain Ranch",
+      "latitude": 52.115524,
+      "longitude": 5.481648,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 51,
+      "name": "Four Star Stables",
+      "latitude": 52.103766,
+      "longitude": 4.448876,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 52,
+      "name": "Frysk Andaluz",
+      "latitude": 51.807923,
+      "longitude": 4.511483,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 53,
+      "name": "GDS Training",
+      "latitude": 51.238761,
+      "longitude": 5.754239,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 54,
+      "name": "Galaxy International",
+      "latitude": 52.46793,
+      "longitude": 6.480317,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 55,
+      "name": "Geerts Gilze Mentuin",
+      "latitude": 51.518324,
+      "longitude": 4.932161,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 56,
+      "name": "Gouden Adelaar",
+      "latitude": 52.234073,
+      "longitude": 5.363251,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 57,
+      "name": "Groenendaal",
+      "latitude": 52.209461,
+      "longitude": 5.389852,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 58,
+      "name": "Hestarholt IJslandse Paarden",
+      "latitude": 52.151901,
+      "longitude": 6.022261,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 59,
+      "name": "Het Lamoen",
+      "latitude": 52.278411,
+      "longitude": 6.540257,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 60,
+      "name": "Het Oude Rijnhuis",
+      "latitude": 52.10146,
+      "longitude": 4.703886,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 61,
+      "name": "Het Slangenbeek",
+      "latitude": 52.299494,
+      "longitude": 6.805547,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 62,
+      "name": "Hilversumse Ponyclub",
+      "latitude": 52.195834,
+      "longitude": 5.147164,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 63,
+      "name": "Hippisch Centrum Bodegraven",
+      "latitude": 52.082405,
+      "longitude": 4.762537,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 64,
+      "name": "Hippisch Centrum Boeyenkamp",
+      "latitude": 53.073427,
+      "longitude": 5.401066,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 65,
+      "name": "Hippisch Centrum Bommelerwaard",
+      "latitude": 51.788255,
+      "longitude": 5.199208,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 66,
+      "name": "Hippisch Centrum De Vossenbos",
+      "latitude": 52.380074,
+      "longitude": 6.566744,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 67,
+      "name": "Hippisch Centrum Dordrecht",
+      "latitude": 51.773021,
+      "longitude": 4.686472,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 68,
+      "name": "Hippisch Centrum Exloo",
+      "latitude": 52.875036,
+      "longitude": 6.882929,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 69,
+      "name": "Hippisch Centrum Flevodrome",
+      "latitude": 52.529187,
+      "longitude": 5.682637,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 70,
+      "name": "Hippisch Centrum Lathum",
+      "latitude": 51.98371,
+      "longitude": 6.007865,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 71,
+      "name": "Hippisch Centrum Nootdorp",
+      "latitude": 52.037158,
+      "longitude": 4.400998,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 72,
+      "name": "Hippisch Centrum Stal Alblas",
+      "latitude": 51.835486,
+      "longitude": 4.764933,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 73,
+      "name": "Hippisch Centrum Zeegersloot",
+      "latitude": 52.148053,
+      "longitude": 4.702541,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 74,
+      "name": "Hippisch Centrum Zwartewaterruiters",
+      "latitude": 52.615755,
+      "longitude": 6.034756,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 75,
+      "name": "Hippo Sofia Academie",
+      "latitude": 51.400033,
+      "longitude": 5.118363,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 76,
+      "name": "Hoeve Beukers",
+      "latitude": 52.667167,
+      "longitude": 6.109793,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 77,
+      "name": "Horse Palace",
+      "latitude": 51.575287,
+      "longitude": 4.463462,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 78,
+      "name": "Horse Paradise Stables",
+      "latitude": 52.299871,
+      "longitude": 4.813643,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 79,
+      "name": "Horse in a box",
+      "latitude": 53.136068,
+      "longitude": 7.003777,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 80,
+      "name": "Human Horse Power (HHP)",
+      "latitude": 52.233694,
+      "longitude": 5.655889,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 81,
+      "name": "Jelgersmahiem",
+      "latitude": 53.248812,
+      "longitude": 5.562457,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 82,
+      "name": "Jeugdmanege Hestar",
+      "latitude": 52.085215,
+      "longitude": 4.385375,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 83,
+      "name": "Klein Heiligenberg",
+      "latitude": 52.138984,
+      "longitude": 5.414899,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 84,
+      "name": "Klein Hermana",
+      "latitude": 53.257796,
+      "longitude": 5.590549,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 85,
+      "name": "Kloosterhof",
+      "latitude": 52.192996,
+      "longitude": 4.504801,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 86,
+      "name": "Kluizerheide",
+      "latitude": 51.319363,
+      "longitude": 5.465767,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 87,
+      "name": "LR & PC Dubbeldam e.o.",
+      "latitude": 51.77814,
+      "longitude": 4.688546,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 88,
+      "name": "LR & PC Sallandruiters",
+      "latitude": 52.568679,
+      "longitude": 6.591665,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 89,
+      "name": "Land. Rijver. & Ponycl. \"De Vier Heemskinderen\"",
+      "latitude": 51.877472,
+      "longitude": 5.508946,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 90,
+      "name": "Landelijke Rijvereniging & Ponyclub De Deltaruiters",
+      "latitude": 52.581593,
+      "longitude": 5.942858,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 91,
+      "name": "Lone star western stable",
+      "latitude": 52.14021,
+      "longitude": 4.631694,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 92,
+      "name": "Longines Tops International Arena",
+      "latitude": 51.303169,
+      "longitude": 5.468424,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 93,
+      "name": "Madurodam Manege",
+      "latitude": 52.070953,
+      "longitude": 4.245793,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 94,
+      "name": "Mady's Pony Paradijs",
+      "latitude": 53.203486,
+      "longitude": 5.592817,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 95,
+      "name": "Manage de Roosahoeve",
+      "latitude": 51.834939,
+      "longitude": 5.053475,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 96,
+      "name": "Mandy's Pony Plezier",
+      "latitude": 52.342729,
+      "longitude": 4.793789,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 97,
+      "name": "Manege",
+      "latitude": 52.137947,
+      "longitude": 4.650734,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 98,
+      "name": "Manege 'De Gulle Ruif'",
+      "latitude": 51.570498,
+      "longitude": 5.154548,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 99,
+      "name": "Manege 't Halster",
+      "latitude": 51.5715,
+      "longitude": 5.181224,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 100,
+      "name": "Manege 't Jutterspad",
+      "latitude": 53.447531,
+      "longitude": 5.784149,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 101,
+      "name": "Manege 't Ruiterkamp",
+      "latitude": 52.257191,
+      "longitude": 6.287258,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 102,
+      "name": "Manege 't Zandeind",
+      "latitude": 51.533028,
+      "longitude": 5.009957,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 103,
+      "name": "Manege Achter'n Bos",
+      "latitude": 52.314745,
+      "longitude": 6.545876,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 104,
+      "name": "Manege Balans",
+      "latitude": 51.692579,
+      "longitude": 3.978706,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 105,
+      "name": "Manege Bartels",
+      "latitude": 52.37161,
+      "longitude": 6.315842,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 106,
+      "name": "Manege Belvedere",
+      "latitude": 52.374999,
+      "longitude": 5.80246,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 107,
+      "name": "Manege Bentwoud",
+      "latitude": 52.074509,
+      "longitude": 4.634583,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 108,
+      "name": "Manege Blauwendraad",
+      "latitude": 51.997208,
+      "longitude": 5.548379,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 109,
+      "name": "Manege Bleijenberg",
+      "latitude": 52.307965,
+      "longitude": 5.049687,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 110,
+      "name": "Manege Castellum",
+      "latitude": 52.076676,
+      "longitude": 5.003252,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 111,
+      "name": "Manege Craeyenburch",
+      "latitude": 52.039171,
+      "longitude": 4.376534,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 112,
+      "name": "Manege De Bongerd",
+      "latitude": 53.130583,
+      "longitude": 6.625171,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 113,
+      "name": "Manege De Eenhoorn",
+      "latitude": 52.345097,
+      "longitude": 4.97623,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 114,
+      "name": "Manege De Fruithof",
+      "latitude": 51.960384,
+      "longitude": 5.763354,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 115,
+      "name": "Manege De Kamphorst",
+      "latitude": 52.196631,
+      "longitude": 5.146332,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 116,
+      "name": "Manege De Kraalhoeve",
+      "latitude": 52.884662,
+      "longitude": 7.069759,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 117,
+      "name": "Manege De Molenberg",
+      "latitude": 51.348062,
+      "longitude": 5.541976,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 118,
+      "name": "Manege De Nieuwe Heuvel",
+      "latitude": 52.073503,
+      "longitude": 5.635614,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 119,
+      "name": "Manege De Oude Held",
+      "latitude": 53.227994,
+      "longitude": 6.518327,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 120,
+      "name": "Manege De Paardenhoeve",
+      "latitude": 51.523616,
+      "longitude": 4.312362,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 121,
+      "name": "Manege De Pijnhorst",
+      "latitude": 51.579722,
+      "longitude": 5.451794,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 122,
+      "name": "Manege De Ruiterhoek",
+      "latitude": 51.845736,
+      "longitude": 4.310703,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 123,
+      "name": "Manege De Sanninghoeve",
+      "latitude": 53.124175,
+      "longitude": 5.975644,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 124,
+      "name": "Manege De Veerkracht",
+      "latitude": 51.771749,
+      "longitude": 5.814726,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 125,
+      "name": "Manege De Vijf Eiken",
+      "latitude": 51.588088,
+      "longitude": 4.90157,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 126,
+      "name": "Manege De Vreehorst",
+      "latitude": 52.113214,
+      "longitude": 4.429898,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 127,
+      "name": "Manege De Wending",
+      "latitude": 52.898893,
+      "longitude": 6.014397,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 128,
+      "name": "Manege De Wildhoef",
+      "latitude": 52.071294,
+      "longitude": 4.245865,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 129,
+      "name": "Manege De Zonneruiters",
+      "latitude": 52.366438,
+      "longitude": 4.614965,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 130,
+      "name": "Manege De groene Vallei",
+      "latitude": 50.853386,
+      "longitude": 6.044365,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 131,
+      "name": "Manege Den Esch V.O.F.",
+      "latitude": 52.668717,
+      "longitude": 6.438074,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 132,
+      "name": "Manege El Sham",
+      "latitude": 52.031208,
+      "longitude": 4.190513,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 133,
+      "name": "Manege Elzenhof",
+      "latitude": 53.088697,
+      "longitude": 4.764062,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 134,
+      "name": "Manege Flemming",
+      "latitude": 51.791337,
+      "longitude": 4.440517,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 135,
+      "name": "Manege Galop",
+      "latitude": 50.872473,
+      "longitude": 6.024423,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 136,
+      "name": "Manege Gasselte",
+      "latitude": 52.971598,
+      "longitude": 6.781639,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 137,
+      "name": "Manege Grensstreek",
+      "latitude": 51.30874,
+      "longitude": 6.1228,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 138,
+      "name": "Manege Grol",
+      "latitude": 51.730338,
+      "longitude": 3.777488,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 139,
+      "name": "Manege Hatzum Poptaruters",
+      "latitude": 53.178101,
+      "longitude": 5.635003,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 140,
+      "name": "Manege Hillegersberg",
+      "latitude": 51.971868,
+      "longitude": 4.509433,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 141,
+      "name": "Manege Hillegom",
+      "latitude": 52.304895,
+      "longitude": 4.594687,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 142,
+      "name": "Manege Hippo d'Or Nieuwvliet",
+      "latitude": 51.391207,
+      "longitude": 3.458222,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 143,
+      "name": "Manege Hoger Duinen",
+      "latitude": 51.6243,
+      "longitude": 5.580135,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 144,
+      "name": "Manege Hoogenweg",
+      "latitude": 52.565337,
+      "longitude": 6.668206,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 145,
+      "name": "Manege Hoogvliet",
+      "latitude": 51.847982,
+      "longitude": 4.377393,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 146,
+      "name": "Manege Jonker",
+      "latitude": 52.212202,
+      "longitude": 4.404377,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 147,
+      "name": "Manege Kennemergaarde",
+      "latitude": 52.434397,
+      "longitude": 4.631417,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 148,
+      "name": "Manege Kuiper",
+      "latitude": 52.701922,
+      "longitude": 6.855128,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 149,
+      "name": "Manege Lansbergen",
+      "latitude": 51.976931,
+      "longitude": 4.498666,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 150,
+      "name": "Manege Ludanchelo",
+      "latitude": 52.918455,
+      "longitude": 6.259241,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 151,
+      "name": "Manege M. Meijer",
+      "latitude": 50.906076,
+      "longitude": 5.746302,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 152,
+      "name": "Manege Moedig Voorwaarts",
+      "latitude": 52.170064,
+      "longitude": 4.467602,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 153,
+      "name": "Manege Molenschot",
+      "latitude": 51.573549,
+      "longitude": 4.886316,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 154,
+      "name": "Manege Nieuw Amstelland",
+      "latitude": 52.323014,
+      "longitude": 4.855257,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 155,
+      "name": "Manege Nieuw Amstelland",
+      "latitude": 52.323548,
+      "longitude": 4.855435,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 156,
+      "name": "Manege Nijhuis",
+      "latitude": 52.072408,
+      "longitude": 6.633369,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 157,
+      "name": "Manege Ommerland",
+      "latitude": 52.501119,
+      "longitude": 6.440382,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 158,
+      "name": "Manege Onder de Linde",
+      "latitude": 53.061571,
+      "longitude": 6.07233,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 159,
+      "name": "Manege Oostmoer",
+      "latitude": 51.728753,
+      "longitude": 4.223856,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 160,
+      "name": "Manege Op de Berg",
+      "latitude": 51.096476,
+      "longitude": 5.904461,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 161,
+      "name": "Manege Pampushout",
+      "latitude": 52.366617,
+      "longitude": 5.167999,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 162,
+      "name": "Manege Piaffe",
+      "latitude": 51.576701,
+      "longitude": 4.461515,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 163,
+      "name": "Manege Pothoven",
+      "latitude": 52.259077,
+      "longitude": 6.031824,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 164,
+      "name": "Manege Pullens",
+      "latitude": 51.661502,
+      "longitude": 5.064608,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 165,
+      "name": "Manege Quadenoord",
+      "latitude": 51.994776,
+      "longitude": 5.730625,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 166,
+      "name": "Manege RV-Staphorst",
+      "latitude": 52.645041,
+      "longitude": 6.198941,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 167,
+      "name": "Manege Rijnenburg",
+      "latitude": 52.055085,
+      "longitude": 5.06923,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 168,
+      "name": "Manege Rottemeren",
+      "latitude": 51.999287,
+      "longitude": 4.542311,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 169,
+      "name": "Manege Rutger Van Herpen",
+      "latitude": 51.603963,
+      "longitude": 5.693333,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 170,
+      "name": "Manege Santhorst",
+      "latitude": 52.132394,
+      "longitude": 4.419361,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 171,
+      "name": "Manege Soethout",
+      "latitude": 51.489038,
+      "longitude": 5.289826,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 172,
+      "name": "Manege Stal Flicka",
+      "latitude": 51.867064,
+      "longitude": 4.162831,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 173,
+      "name": "Manege Stal Sintels",
+      "latitude": 51.542743,
+      "longitude": 4.720031,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 174,
+      "name": "Manege Stal van Brenk",
+      "latitude": 52.113157,
+      "longitude": 5.151269,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 175,
+      "name": "Manege Ten Eysden",
+      "latitude": 50.960196,
+      "longitude": 5.84062,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 176,
+      "name": "Manege VarioHippiQue",
+      "latitude": 52.45344,
+      "longitude": 4.672568,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 177,
+      "name": "Manege Winnetou",
+      "latitude": 53.355003,
+      "longitude": 6.334419,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 178,
+      "name": "Manege Wittebrug",
+      "latitude": 52.102795,
+      "longitude": 4.306887,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 179,
+      "name": "Manege Zwanenburg",
+      "latitude": 52.116414,
+      "longitude": 5.506331,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 180,
+      "name": "Manege de Driesporen",
+      "latitude": 53.040167,
+      "longitude": 7.046607,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 181,
+      "name": "Manege de Drift",
+      "latitude": 52.826968,
+      "longitude": 6.369066,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 182,
+      "name": "Manege de Eendenkooi",
+      "latitude": 52.05197,
+      "longitude": 4.281495,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 183,
+      "name": "Manege de Eenhoorn",
+      "latitude": 52.66099,
+      "longitude": 5.074528,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 184,
+      "name": "Manege de Hulhorst",
+      "latitude": 53.128236,
+      "longitude": 6.421521,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 185,
+      "name": "Manege de Oosterhoffruiters",
+      "latitude": 52.299255,
+      "longitude": 6.507066,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 186,
+      "name": "Manege de Wildkamp",
+      "latitude": 51.969263,
+      "longitude": 5.340507,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 187,
+      "name": "Manege en Dressuurstal Hallinckveld",
+      "latitude": 52.193817,
+      "longitude": 5.125031,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 188,
+      "name": "Manege “De Hazelaar”",
+      "latitude": 51.96745,
+      "longitude": 4.478902,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 189,
+      "name": "Marcroix",
+      "latitude": 52.116523,
+      "longitude": 5.368661,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 190,
+      "name": "Marjan's Paardenschool",
+      "latitude": 52.230828,
+      "longitude": 6.236397,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 191,
+      "name": "Martini Manege",
+      "latitude": 53.257989,
+      "longitude": 6.644792,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 192,
+      "name": "Medisch Centrum voor Paarden - De Hofstede",
+      "latitude": 52.123462,
+      "longitude": 5.488506,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 193,
+      "name": "Meers Paarden Centrum",
+      "latitude": 52.295881,
+      "longitude": 4.636541,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 194,
+      "name": "Meers Paarden Centrum",
+      "latitude": 52.296116,
+      "longitude": 4.634898,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 195,
+      "name": "Michel de Koning Special Horses",
+      "latitude": 52.068855,
+      "longitude": 5.695964,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 196,
+      "name": "Middenhoeve",
+      "latitude": 52.249967,
+      "longitude": 4.849432,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 197,
+      "name": "Molenrúters",
+      "latitude": 53.28024,
+      "longitude": 5.720638,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 198,
+      "name": "Nakita's Eastend Stables",
+      "latitude": 52.290774,
+      "longitude": 4.815736,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 199,
+      "name": "Nieuw Eldorado",
+      "latitude": 52.161136,
+      "longitude": 5.293201,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 200,
+      "name": "Nijboer Stables",
+      "latitude": 52.969292,
+      "longitude": 6.498234,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 201,
+      "name": "Nimmerdor",
+      "latitude": 52.129241,
+      "longitude": 5.373695,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 202,
+      "name": "No Limits Sables",
+      "latitude": 52.263115,
+      "longitude": 4.47637,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 203,
+      "name": "Noorder Sandt",
+      "latitude": 52.905912,
+      "longitude": 4.725094,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 204,
+      "name": "Olympic",
+      "latitude": 51.6756,
+      "longitude": 5.644716,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 205,
+      "name": "Orcaruiters",
+      "latitude": 52.670981,
+      "longitude": 5.615905,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 206,
+      "name": "PSC de Zuidstroom",
+      "latitude": 52.870997,
+      "longitude": 6.113493,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 207,
+      "name": "PSV De Caprilli",
+      "latitude": 52.869786,
+      "longitude": 5.972103,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 208,
+      "name": "PSV de Stuwruiters",
+      "latitude": 51.979554,
+      "longitude": 5.115874,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 209,
+      "name": "Paard & Sport De Buitenwijck",
+      "latitude": 52.743968,
+      "longitude": 6.49411,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 210,
+      "name": "Paard&Inspiratie",
+      "latitude": 52.039131,
+      "longitude": 4.688956,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 211,
+      "name": "Paardencentrum Tijdhof",
+      "latitude": 52.405435,
+      "longitude": 6.868729,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 212,
+      "name": "Paardenpension De Raakeindse Hoeve",
+      "latitude": 51.550193,
+      "longitude": 4.898102,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 213,
+      "name": "Paardenpension De Zwing",
+      "latitude": 51.544402,
+      "longitude": 4.89471,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 214,
+      "name": "Paardenpensionstalling Radermacher",
+      "latitude": 50.763532,
+      "longitude": 6.000654,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 215,
+      "name": "Paardensport Chardon",
+      "latitude": 51.992064,
+      "longitude": 4.324566,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 216,
+      "name": "Paardensport Vereniging De Oosterhoffruiters",
+      "latitude": 52.29917,
+      "longitude": 6.506747,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 217,
+      "name": "Paardensportcentrum Diekshuus",
+      "latitude": 51.873895,
+      "longitude": 6.386196,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 218,
+      "name": "Paardensportcentrum Jan Dolfing",
+      "latitude": 53.080002,
+      "longitude": 6.590343,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 219,
+      "name": "Paardensportvereniging De Burchtruiters",
+      "latitude": 52.203301,
+      "longitude": 4.44754,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 220,
+      "name": "Paardensportvereniging Het Veluws Ros",
+      "latitude": 52.313985,
+      "longitude": 5.631857,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 221,
+      "name": "Paardensportvereniging Koningin Emma",
+      "latitude": 52.135622,
+      "longitude": 4.419468,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 222,
+      "name": "Paardensportvereniging Luttenberg",
+      "latitude": 52.40116,
+      "longitude": 6.377485,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 223,
+      "name": "Paardensportvereniging Vollenhove en omstreken",
+      "latitude": 52.677776,
+      "longitude": 5.987797,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 224,
+      "name": "Papendrechtse Ruiter Club",
+      "latitude": 51.833282,
+      "longitude": 4.705676,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 225,
+      "name": "Pensionsstal Andeweg",
+      "latitude": 51.741964,
+      "longitude": 4.522521,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 226,
+      "name": "Pensionstal Dresspring B.V.",
+      "latitude": 52.271635,
+      "longitude": 5.976707,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 227,
+      "name": "Pensionstal de Windhoek",
+      "latitude": 52.096848,
+      "longitude": 4.419351,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 228,
+      "name": "Pensionstal in 't Veld",
+      "latitude": 51.770772,
+      "longitude": 4.688708,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 229,
+      "name": "Pensionstalling Zeggezicht",
+      "latitude": 51.64075,
+      "longitude": 4.762591,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 230,
+      "name": "Pensionstalling de Osseweide",
+      "latitude": 53.247494,
+      "longitude": 6.430876,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 231,
+      "name": "Poko Loko Stables",
+      "latitude": 52.678634,
+      "longitude": 4.764685,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 232,
+      "name": "Pony & Paardensportvereniging De Spreng",
+      "latitude": 52.067973,
+      "longitude": 6.079278,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 233,
+      "name": "Ponycentrum de Prairie",
+      "latitude": 53.391325,
+      "longitude": 5.301897,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 234,
+      "name": "Ponyclub Floradorp",
+      "latitude": 52.412062,
+      "longitude": 4.913397,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 235,
+      "name": "Ponyclub W.E.T. Wissel",
+      "latitude": 52.342552,
+      "longitude": 5.955063,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 236,
+      "name": "Ponyhof Wattel",
+      "latitude": 51.580257,
+      "longitude": 3.618065,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 237,
+      "name": "Ponystal Banjer",
+      "latitude": 52.192676,
+      "longitude": 6.835939,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 238,
+      "name": "Ponytrail",
+      "latitude": 52.422046,
+      "longitude": 6.230527,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 239,
+      "name": "Prometheus Ruitersport",
+      "latitude": 51.982745,
+      "longitude": 4.379221,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 240,
+      "name": "R.S.C. De Roosberg",
+      "latitude": 51.558181,
+      "longitude": 4.823041,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 241,
+      "name": "RSV De Hoge Devel",
+      "latitude": 51.823049,
+      "longitude": 4.601979,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 242,
+      "name": "RV Siegfried",
+      "latitude": 51.926708,
+      "longitude": 4.78414,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 243,
+      "name": "Randhoeve",
+      "latitude": 51.772573,
+      "longitude": 4.683486,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 244,
+      "name": "Recreatiecentrum Het Zwarte Water",
+      "latitude": 51.554708,
+      "longitude": 5.743843,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 245,
+      "name": "Recreatieve Rijvereniging Luttenberg",
+      "latitude": 52.40107,
+      "longitude": 6.377631,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 246,
+      "name": "Reiterhof Rüenberg",
+      "latitude": 52.236487,
+      "longitude": 7.06412,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 247,
+      "name": "Reitstall Dreiländerhof",
+      "latitude": 50.753159,
+      "longitude": 6.002303,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 248,
+      "name": "Rigoletto Manege",
+      "latitude": 53.22058,
+      "longitude": 6.648192,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 249,
+      "name": "Rijstal Venhof",
+      "latitude": 51.166899,
+      "longitude": 6.085727,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 250,
+      "name": "Rijvereniging en Ponyclub De Voorruiters",
+      "latitude": 52.213439,
+      "longitude": 4.4853,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 251,
+      "name": "Rock Valley Stables",
+      "latitude": 52.288878,
+      "longitude": 4.809089,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 252,
+      "name": "Ruitersport Centrum Lingebos",
+      "latitude": 51.845909,
+      "longitude": 5.047378,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 253,
+      "name": "Ruitersport Centrum Zutphen",
+      "latitude": 52.122694,
+      "longitude": 6.235488,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 254,
+      "name": "Ruitersportcentrum Breda",
+      "latitude": 51.562975,
+      "longitude": 4.80588,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 255,
+      "name": "Ruitersportcentrum Henschoten",
+      "latitude": 52.074709,
+      "longitude": 5.389976,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 256,
+      "name": "Ruitersportcentrum Schoteroog",
+      "latitude": 52.395545,
+      "longitude": 4.670496,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 257,
+      "name": "Ruitersportcentrum Zeewolde",
+      "latitude": 52.322188,
+      "longitude": 5.529225,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 258,
+      "name": "Selevia Hoeve",
+      "latitude": 51.784727,
+      "longitude": 4.87035,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 259,
+      "name": "Selma Snel",
+      "latitude": 51.983297,
+      "longitude": 5.678171,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 260,
+      "name": "Sequoia Stables",
+      "latitude": 52.315379,
+      "longitude": 5.63516,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 261,
+      "name": "Siem Budding Horseback Archery",
+      "latitude": 52.132093,
+      "longitude": 5.418143,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 262,
+      "name": "Sport- en Handelsstal de Schuilenburg",
+      "latitude": 52.202953,
+      "longitude": 6.043492,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 263,
+      "name": "Sportclub Gehandicapten Manege Gooi en Eemland",
+      "latitude": 52.2657,
+      "longitude": 5.195607,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 264,
+      "name": "Springstal Rianty Zwart",
+      "latitude": 53.207495,
+      "longitude": 6.450597,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 265,
+      "name": "St Paard Klep en Co",
+      "latitude": 52.075074,
+      "longitude": 4.289171,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 266,
+      "name": "Stal 't Kabel",
+      "latitude": 52.256819,
+      "longitude": 4.645479,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 267,
+      "name": "Stal 't Reelaer",
+      "latitude": 52.416527,
+      "longitude": 6.251343,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 268,
+      "name": "Stal 't Sander",
+      "latitude": 51.588507,
+      "longitude": 4.636387,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 269,
+      "name": "Stal A. Zoer",
+      "latitude": 52.713307,
+      "longitude": 6.387323,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 270,
+      "name": "Stal Amstelhoeve",
+      "latitude": 52.291831,
+      "longitude": 4.894065,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 271,
+      "name": "Stal Andries",
+      "latitude": 52.161339,
+      "longitude": 5.200985,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 272,
+      "name": "Stal Balemans",
+      "latitude": 51.61098,
+      "longitude": 4.836895,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 273,
+      "name": "Stal Barendregt",
+      "latitude": 51.786207,
+      "longitude": 4.43724,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 274,
+      "name": "Stal Blomsma",
+      "latitude": 52.961835,
+      "longitude": 6.464496,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 275,
+      "name": "Stal Buitenleven",
+      "latitude": 52.674408,
+      "longitude": 6.806746,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 276,
+      "name": "Stal CK Bliss",
+      "latitude": 52.097782,
+      "longitude": 4.423262,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 277,
+      "name": "Stal Chavaleh",
+      "latitude": 52.197145,
+      "longitude": 4.459473,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 278,
+      "name": "Stal De Boswal",
+      "latitude": 52.909121,
+      "longitude": 6.39123,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 279,
+      "name": "Stal De Driegang",
+      "latitude": 52.074656,
+      "longitude": 4.422259,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 280,
+      "name": "Stal Deb",
+      "latitude": 51.957205,
+      "longitude": 6.719322,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 281,
+      "name": "Stal Edwin Agterhuis",
+      "latitude": 52.457327,
+      "longitude": 6.098934,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 282,
+      "name": "Stal Eikelboom",
+      "latitude": 51.985389,
+      "longitude": 5.675727,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 283,
+      "name": "Stal Everse",
+      "latitude": 52.073271,
+      "longitude": 4.63426,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 284,
+      "name": "Stal Groenewoude",
+      "latitude": 52.091954,
+      "longitude": 4.609234,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 285,
+      "name": "Stal Hilverzicht",
+      "latitude": 52.199862,
+      "longitude": 5.133915,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 286,
+      "name": "Stal Jager Van Der Jagt",
+      "latitude": 52.819976,
+      "longitude": 6.468431,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 287,
+      "name": "Stal Jespers & Manege Hoeveneind",
+      "latitude": 51.62741,
+      "longitude": 4.822964,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 288,
+      "name": "Stal Kees Wassenaar",
+      "latitude": 52.241884,
+      "longitude": 4.480479,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 289,
+      "name": "Stal Klootwijk",
+      "latitude": 51.874732,
+      "longitude": 4.553411,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 290,
+      "name": "Stal Meenderink",
+      "latitude": 52.273028,
+      "longitude": 6.827622,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 291,
+      "name": "Stal Midler",
+      "latitude": 51.780978,
+      "longitude": 4.405932,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 292,
+      "name": "Stal Mulder",
+      "latitude": 52.473579,
+      "longitude": 4.767952,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 293,
+      "name": "Stal Nobel",
+      "latitude": 51.901835,
+      "longitude": 4.661668,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 294,
+      "name": "Stal Oud Wulven",
+      "latitude": 52.043375,
+      "longitude": 5.155288,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 295,
+      "name": "Stal Schrotenboer",
+      "latitude": 52.719138,
+      "longitude": 6.143507,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 296,
+      "name": "Stal Swanenberg",
+      "latitude": 51.725344,
+      "longitude": 5.648094,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 297,
+      "name": "Stal Te Bokkel",
+      "latitude": 52.090327,
+      "longitude": 6.075014,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 298,
+      "name": "Stal Tilburgs",
+      "latitude": 51.306034,
+      "longitude": 5.374408,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 299,
+      "name": "Stal Zina",
+      "latitude": 51.965269,
+      "longitude": 5.254514,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 300,
+      "name": "Stal de Naaldenhof",
+      "latitude": 52.360869,
+      "longitude": 4.569428,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 301,
+      "name": "Stal van Gils",
+      "latitude": 51.607572,
+      "longitude": 4.917509,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 302,
+      "name": "Stal van Gils",
+      "latitude": 51.608026,
+      "longitude": 4.916763,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 303,
+      "name": "Stal Écurie de la Fontaine",
+      "latitude": 52.093952,
+      "longitude": 5.208078,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 304,
+      "name": "Stalhouderij Manege Vosse",
+      "latitude": 52.388119,
+      "longitude": 4.629425,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 305,
+      "name": "Stalhouderij ZeggeZicht",
+      "latitude": 51.641071,
+      "longitude": 4.763772,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 306,
+      "name": "Stalhouderij- en manege Nieboer",
+      "latitude": 53.144794,
+      "longitude": 6.754043,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 307,
+      "name": "Stichting \"De Kapberg\"",
+      "latitude": 52.287277,
+      "longitude": 6.784672,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 308,
+      "name": "Stichting Paardrijden Gehandicapten IJsselmuiden",
+      "latitude": 52.561667,
+      "longitude": 5.936465,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 309,
+      "name": "Stichting op je gemak",
+      "latitude": 51.483054,
+      "longitude": 4.041026,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 310,
+      "name": "Stoeterij 't Heerenhuys",
+      "latitude": 51.808899,
+      "longitude": 4.435716,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 311,
+      "name": "Stoeterij Black Horses",
+      "latitude": 51.829977,
+      "longitude": 4.780356,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 312,
+      "name": "Stoeterij Het Swarte Paert",
+      "latitude": 53.033008,
+      "longitude": 6.129181,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 313,
+      "name": "Stoeterij Rodenburgh",
+      "latitude": 51.400292,
+      "longitude": 5.357428,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 314,
+      "name": "Taams Stables",
+      "latitude": 52.468764,
+      "longitude": 4.89051,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 315,
+      "name": "The Mill Ranch",
+      "latitude": 52.070709,
+      "longitude": 5.696035,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 316,
+      "name": "Toppaardencoaching",
+      "latitude": 52.144503,
+      "longitude": 5.445186,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 317,
+      "name": "Turner's Stable",
+      "latitude": 52.411368,
+      "longitude": 4.912921,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 318,
+      "name": "Twents Ruitercentrum \"Het Hulsbeek\"",
+      "latitude": 52.307317,
+      "longitude": 6.882576,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 319,
+      "name": "V.O.F. Paarden Heerlijkheid",
+      "latitude": 51.914538,
+      "longitude": 5.239407,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 320,
+      "name": "Van Olst Horses",
+      "latitude": 51.647243,
+      "longitude": 4.806239,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 321,
+      "name": "Verboon Pensionstalling",
+      "latitude": 51.956648,
+      "longitude": 4.356724,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 322,
+      "name": "Voltigevereniging De Eemsrakkers",
+      "latitude": 53.360649,
+      "longitude": 6.871005,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 323,
+      "name": "Voornruiters",
+      "latitude": 52.073796,
+      "longitude": 5.060992,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 324,
+      "name": "West Stichtse Ruiters",
+      "latitude": 52.03882,
+      "longitude": 4.936036,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 325,
+      "name": "Western Stables",
+      "latitude": 52.474452,
+      "longitude": 4.851908,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 326,
+      "name": "Wolfshoeve",
+      "latitude": 51.42426,
+      "longitude": 4.383372,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 327,
+      "name": "Zaanse Ruiters",
+      "latitude": 52.500428,
+      "longitude": 4.778768,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 328,
+      "name": "Zilfia's Hoeve",
+      "latitude": 52.052367,
+      "longitude": 5.147938,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 329,
+      "name": "Zorgmanage Stal Starro",
+      "latitude": 52.322787,
+      "longitude": 4.676613,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 330,
+      "name": "Zwanenburg",
+      "latitude": 52.11669,
+      "longitude": 5.507167,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 331,
+      "name": "de Mustang",
+      "latitude": 51.748736,
+      "longitude": 4.390716,
+      "osm_klasse": "leisure=horse_riding"
+    },
+    {
+      "id": 332,
+      "name": "manege Tjoonk",
+      "latitude": 52.28303,
+      "longitude": 6.162999,
+      "osm_klasse": "leisure=horse_riding"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: horse riding (leisure=horse_riding) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged leisure=horse_riding in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 332 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: horse riding (leisure=horse_riding) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: horse riding (leisure=horse_riding) — 332 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 332 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

@@ -1,0 +1,1262 @@
+{
+  "id": "nl-osm-amenity-marketplace",
+  "name": "Netherlands OSM: marketplace (amenity=marketplace)",
+  "title": "Netherlands OSM: marketplace (amenity=marketplace)",
+  "description": "Named OpenStreetMap features tagged amenity=marketplace in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 173,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Afrikaanderplein",
+      "latitude": 51.900117,
+      "longitude": 4.499423,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 2,
+      "name": "Albert Cuyp-markt",
+      "latitude": 52.355199,
+      "longitude": 4.891534,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 3,
+      "name": "Albert Cuypmarkt",
+      "latitude": 52.35573,
+      "longitude": 4.894361,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 4,
+      "name": "Algemene Warenmarkt",
+      "latitude": 51.58417,
+      "longitude": 4.760853,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 5,
+      "name": "Asser warenmarkt",
+      "latitude": 52.994963,
+      "longitude": 6.564014,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 6,
+      "name": "BeatrixMarkt",
+      "latitude": 52.957482,
+      "longitude": 4.761798,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 7,
+      "name": "Binnenrotte",
+      "latitude": 51.922133,
+      "longitude": 4.486346,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 8,
+      "name": "Biologische woensdagmarkt",
+      "latitude": 52.371635,
+      "longitude": 4.938714,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 9,
+      "name": "Bloemenmarkt",
+      "latitude": 52.093673,
+      "longitude": 5.121216,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 10,
+      "name": "Bloemenmarkt",
+      "latitude": 52.366921,
+      "longitude": 4.891252,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 11,
+      "name": "Boerenmarkt",
+      "latitude": 52.082717,
+      "longitude": 4.314414,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 12,
+      "name": "Bos en Lommerplein markt",
+      "latitude": 52.378563,
+      "longitude": 4.845785,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 13,
+      "name": "Brabantse Turfmarkt",
+      "latitude": 52.010398,
+      "longitude": 4.360522,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 14,
+      "name": "Brink",
+      "latitude": 52.252657,
+      "longitude": 6.160291,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 15,
+      "name": "Buikslotermeermarkt",
+      "latitude": 52.39946,
+      "longitude": 4.935167,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 16,
+      "name": "Burgwal",
+      "latitude": 52.011047,
+      "longitude": 4.360879,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 17,
+      "name": "Dappermarkt",
+      "latitude": 52.36271,
+      "longitude": 4.927462,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 18,
+      "name": "De Biomarkt",
+      "latitude": 50.847007,
+      "longitude": 5.699145,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 19,
+      "name": "De Markt",
+      "latitude": 51.893777,
+      "longitude": 4.629193,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 20,
+      "name": "De Markt",
+      "latitude": 52.786806,
+      "longitude": 6.116601,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 21,
+      "name": "Dinsdag",
+      "latitude": 52.023478,
+      "longitude": 4.172198,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 22,
+      "name": "Dinsdag Markt",
+      "latitude": 52.357808,
+      "longitude": 4.655597,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 23,
+      "name": "Dinsdag- en Zaterdagmarkt",
+      "latitude": 51.85015,
+      "longitude": 4.324764,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 24,
+      "name": "Dinsdagmarkt Stiens",
+      "latitude": 53.261032,
+      "longitude": 5.758627,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 25,
+      "name": "Dinsdagochtendmarkt",
+      "latitude": 52.30019,
+      "longitude": 5.617912,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 26,
+      "name": "Donderdag",
+      "latitude": 52.234461,
+      "longitude": 4.445394,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 27,
+      "name": "Donderdagmarkt",
+      "latitude": 52.399234,
+      "longitude": 4.645132,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 28,
+      "name": "Donderdagmarkt",
+      "latitude": 52.459443,
+      "longitude": 4.620439,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 29,
+      "name": "Dorpsplein",
+      "latitude": 53.363635,
+      "longitude": 6.460918,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 30,
+      "name": "Duurzame Weekmarkt Wilhelminaplein",
+      "latitude": 51.437855,
+      "longitude": 5.471123,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 31,
+      "name": "Duurzame Weekmarkt Wilhelminaplein",
+      "latitude": 51.441104,
+      "longitude": 5.454453,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 32,
+      "name": "FloriMarkt",
+      "latitude": 52.306698,
+      "longitude": 4.638805,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 33,
+      "name": "Friese Streekmarkt",
+      "latitude": 52.938658,
+      "longitude": 6.131348,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 34,
+      "name": "Gerardusplein",
+      "latitude": 51.420674,
+      "longitude": 5.488511,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 35,
+      "name": "Groote Markt",
+      "latitude": 52.313624,
+      "longitude": 6.92919,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 36,
+      "name": "Grote Markt",
+      "latitude": 51.279762,
+      "longitude": 4.053974,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 37,
+      "name": "Grote Markt",
+      "latitude": 51.588441,
+      "longitude": 4.776213,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 38,
+      "name": "Haagse Markt",
+      "latitude": 52.064969,
+      "longitude": 4.298798,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 39,
+      "name": "Hof",
+      "latitude": 51.321667,
+      "longitude": 5.358468,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 40,
+      "name": "Hof",
+      "latitude": 52.156474,
+      "longitude": 5.389464,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 41,
+      "name": "IJ-Hallen",
+      "latitude": 52.401278,
+      "longitude": 4.896595,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 42,
+      "name": "Jouw Marktkraam",
+      "latitude": 51.758821,
+      "longitude": 4.164305,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 43,
+      "name": "Jouw Marktkraam",
+      "latitude": 51.810136,
+      "longitude": 3.934893,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 44,
+      "name": "Juttersmarkt",
+      "latitude": 52.957485,
+      "longitude": 4.761968,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 45,
+      "name": "Kaasmarkten Edam",
+      "latitude": 52.513537,
+      "longitude": 5.047567,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 46,
+      "name": "Kerkhoflaan",
+      "latitude": 52.146853,
+      "longitude": 4.391349,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 47,
+      "name": "Kofferbakmarkt",
+      "latitude": 52.935241,
+      "longitude": 4.733548,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 48,
+      "name": "Landsmeerse Vrijdagmarkt",
+      "latitude": 52.428981,
+      "longitude": 4.912347,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 49,
+      "name": "Langgewenst",
+      "latitude": 52.227365,
+      "longitude": 5.177486,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 50,
+      "name": "Lapjesmarkt",
+      "latitude": 52.09527,
+      "longitude": 5.120108,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 51,
+      "name": "Lapjesmarkt",
+      "latitude": 52.378517,
+      "longitude": 4.884078,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 52,
+      "name": "Leidse Markt",
+      "latitude": 52.15905,
+      "longitude": 4.491056,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 53,
+      "name": "Lindenmarkt",
+      "latitude": 52.380038,
+      "longitude": 4.883459,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 54,
+      "name": "Lindenmarkt",
+      "latitude": 52.380282,
+      "longitude": 4.885117,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 55,
+      "name": "Lonneker Markt",
+      "latitude": 52.249858,
+      "longitude": 6.911666,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 56,
+      "name": "Maandag & Zaterdag Markt",
+      "latitude": 52.381441,
+      "longitude": 4.635914,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 57,
+      "name": "Maandagmarkt",
+      "latitude": 53.107319,
+      "longitude": 6.876852,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 58,
+      "name": "Marché 010",
+      "latitude": 51.929308,
+      "longitude": 4.477431,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 59,
+      "name": "Markt",
+      "latitude": 50.940457,
+      "longitude": 5.796057,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 60,
+      "name": "Markt",
+      "latitude": 51.498452,
+      "longitude": 3.611597,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 61,
+      "name": "Markt",
+      "latitude": 51.531445,
+      "longitude": 4.220239,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 62,
+      "name": "Markt",
+      "latitude": 51.807288,
+      "longitude": 5.726144,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 63,
+      "name": "Markt",
+      "latitude": 51.957282,
+      "longitude": 5.225348,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 64,
+      "name": "Markt",
+      "latitude": 51.97259,
+      "longitude": 5.34552,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 65,
+      "name": "Markt",
+      "latitude": 52.011801,
+      "longitude": 4.359145,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 66,
+      "name": "Markt",
+      "latitude": 52.336347,
+      "longitude": 5.218855,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 67,
+      "name": "Markt",
+      "latitude": 52.505754,
+      "longitude": 4.98409,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 68,
+      "name": "Markt",
+      "latitude": 52.65723,
+      "longitude": 5.056171,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 69,
+      "name": "Markt Anton de Komplein",
+      "latitude": 52.315953,
+      "longitude": 4.95628,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 70,
+      "name": "Markt Badhoevedorp",
+      "latitude": 52.338422,
+      "longitude": 4.779577,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 71,
+      "name": "Markt Enschede Zuid",
+      "latitude": 52.192189,
+      "longitude": 6.879526,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 72,
+      "name": "Markt Hoofddorp Overbos",
+      "latitude": 52.314186,
+      "longitude": 4.658402,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 73,
+      "name": "Markt Hoofddorp Toolenburg",
+      "latitude": 52.301808,
+      "longitude": 4.66312,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 74,
+      "name": "Markt Katwijk",
+      "latitude": 52.201987,
+      "longitude": 4.410566,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 75,
+      "name": "Markt Kraaiennest",
+      "latitude": 52.317266,
+      "longitude": 4.978809,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 76,
+      "name": "Markt Merenwijk",
+      "latitude": 52.175541,
+      "longitude": 4.507003,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 77,
+      "name": "Markt Oegstgeest",
+      "latitude": 52.185031,
+      "longitude": 4.470009,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 78,
+      "name": "Markt Ommoord",
+      "latitude": 51.961918,
+      "longitude": 4.551353,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 79,
+      "name": "Markt Raadhuisplein",
+      "latitude": 53.105461,
+      "longitude": 6.099363,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 80,
+      "name": "Markt Rijsenhout",
+      "latitude": 52.258873,
+      "longitude": 4.715333,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 81,
+      "name": "Markt Visserijplein",
+      "latitude": 51.912007,
+      "longitude": 4.441655,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 82,
+      "name": "Markt Woubrugge",
+      "latitude": 52.167878,
+      "longitude": 4.635676,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 83,
+      "name": "Markt Yerseke",
+      "latitude": 51.492232,
+      "longitude": 4.049655,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 84,
+      "name": "Markt de Loper",
+      "latitude": 51.93169,
+      "longitude": 4.346155,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 85,
+      "name": "Markt op Dinsdag",
+      "latitude": 52.132543,
+      "longitude": 6.611887,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 86,
+      "name": "Markthal",
+      "latitude": 51.940647,
+      "longitude": 6.129387,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 87,
+      "name": "Marktplein",
+      "latitude": 52.002974,
+      "longitude": 4.161593,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 88,
+      "name": "Marktplein",
+      "latitude": 52.046565,
+      "longitude": 5.669702,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 89,
+      "name": "Marktstraat",
+      "latitude": 52.041984,
+      "longitude": 4.651649,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 90,
+      "name": "Marktstraat 8",
+      "latitude": 52.600949,
+      "longitude": 6.457181,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 91,
+      "name": "Meerssen",
+      "latitude": 50.884032,
+      "longitude": 5.754977,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 92,
+      "name": "Museum Market",
+      "latitude": 52.358722,
+      "longitude": 4.882742,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 93,
+      "name": "Nieuwmarkt",
+      "latitude": 52.372553,
+      "longitude": 4.900089,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 94,
+      "name": "Nishi Japanese Mini Mall",
+      "latitude": 52.374225,
+      "longitude": 4.900497,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 95,
+      "name": "Noordermarkt",
+      "latitude": 52.379308,
+      "longitude": 4.88667,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 96,
+      "name": "Noordwijkerhout",
+      "latitude": 52.262103,
+      "longitude": 4.493951,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 97,
+      "name": "Ommelander Markt",
+      "latitude": 53.226883,
+      "longitude": 6.562866,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 98,
+      "name": "Opnieuw & Co Barendrecht",
+      "latitude": 51.857562,
+      "longitude": 4.518041,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 99,
+      "name": "Pekmarkt",
+      "latitude": 52.3893,
+      "longitude": 4.909954,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 100,
+      "name": "Plantenmarkt",
+      "latitude": 52.362304,
+      "longitude": 4.897676,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 101,
+      "name": "Saturday's Marketplace",
+      "latitude": 51.825939,
+      "longitude": 4.836249,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 102,
+      "name": "Smaragdplein",
+      "latitude": 52.072599,
+      "longitude": 5.124789,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 103,
+      "name": "Spuidamplein",
+      "latitude": 51.548718,
+      "longitude": 4.103856,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 104,
+      "name": "Stadhuisplein",
+      "latitude": 52.371632,
+      "longitude": 5.220464,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 105,
+      "name": "Streekproductenmarkt Nienoord",
+      "latitude": 53.165981,
+      "longitude": 6.389314,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 106,
+      "name": "Ten Katemarkt",
+      "latitude": 52.366294,
+      "longitude": 4.867313,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 107,
+      "name": "Ten Katemarkt",
+      "latitude": 52.366725,
+      "longitude": 4.867018,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 108,
+      "name": "Thursday",
+      "latitude": 52.127919,
+      "longitude": 4.588435,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 109,
+      "name": "Used Products Arnhem",
+      "latitude": 51.983981,
+      "longitude": 5.916816,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 110,
+      "name": "Veemarkt Purmerend",
+      "latitude": 52.50888,
+      "longitude": 5.005453,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 111,
+      "name": "Versmarkt De 3 Ambachten",
+      "latitude": 52.977792,
+      "longitude": 5.445857,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 112,
+      "name": "Versmarkt Neerbeek",
+      "latitude": 50.951308,
+      "longitude": 5.81414,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 113,
+      "name": "Vismarkt",
+      "latitude": 53.217242,
+      "longitude": 6.564957,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 114,
+      "name": "Vita Maia",
+      "latitude": 52.187168,
+      "longitude": 4.487609,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 115,
+      "name": "Vredenburgplein",
+      "latitude": 52.092135,
+      "longitude": 5.114593,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 116,
+      "name": "Vrijdagmarkt",
+      "latitude": 51.967439,
+      "longitude": 4.616891,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 117,
+      "name": "Vrijdagmarkt",
+      "latitude": 52.377059,
+      "longitude": 4.649945,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 118,
+      "name": "Vrijdagmarkt Rokkeveen",
+      "latitude": 52.043619,
+      "longitude": 4.478527,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 119,
+      "name": "Vrijdagochtend Markt",
+      "latitude": 52.103873,
+      "longitude": 6.314531,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 120,
+      "name": "Waddenmarkt",
+      "latitude": 53.400189,
+      "longitude": 6.4536,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 121,
+      "name": "Warenmarkt",
+      "latitude": 52.162024,
+      "longitude": 6.415069,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 122,
+      "name": "Warenmarkt",
+      "latitude": 52.217741,
+      "longitude": 6.897347,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 123,
+      "name": "Warenmarkt zaterdag",
+      "latitude": 52.186829,
+      "longitude": 5.607528,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 124,
+      "name": "Waterloopleinmarkt",
+      "latitude": 52.368622,
+      "longitude": 4.901193,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 125,
+      "name": "Weekmarkt",
+      "latitude": 51.812809,
+      "longitude": 4.946974,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 126,
+      "name": "Weekmarkt",
+      "latitude": 51.81379,
+      "longitude": 4.668443,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 127,
+      "name": "Weekmarkt",
+      "latitude": 52.052874,
+      "longitude": 6.308441,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 128,
+      "name": "Weekmarkt",
+      "latitude": 52.120424,
+      "longitude": 5.183637,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 129,
+      "name": "Weekmarkt",
+      "latitude": 52.253109,
+      "longitude": 5.377748,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 130,
+      "name": "Weekmarkt",
+      "latitude": 52.307159,
+      "longitude": 5.042023,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 131,
+      "name": "Weekmarkt",
+      "latitude": 52.494649,
+      "longitude": 4.78622,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 132,
+      "name": "Weekmarkt",
+      "latitude": 52.499071,
+      "longitude": 4.811441,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 133,
+      "name": "Weekmarkt",
+      "latitude": 53.199598,
+      "longitude": 5.793249,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 134,
+      "name": "Weekmarkt Bathmen",
+      "latitude": 52.25001,
+      "longitude": 6.287007,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 135,
+      "name": "Weekmarkt Dirksland",
+      "latitude": 51.74754,
+      "longitude": 4.105354,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 136,
+      "name": "Weekmarkt Druten",
+      "latitude": 51.890965,
+      "longitude": 5.610425,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 137,
+      "name": "Weekmarkt Egmond aan Zee",
+      "latitude": 52.618264,
+      "longitude": 4.625764,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 138,
+      "name": "Weekmarkt Elburg",
+      "latitude": 52.446721,
+      "longitude": 5.837422,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 139,
+      "name": "Weekmarkt Gorredijk",
+      "latitude": 53.003595,
+      "longitude": 6.065461,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 140,
+      "name": "Weekmarkt Goverwelle",
+      "latitude": 52.011317,
+      "longitude": 4.742694,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 141,
+      "name": "Weekmarkt Heemstede",
+      "latitude": 52.343122,
+      "longitude": 4.62064,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 142,
+      "name": "Weekmarkt Hoofddorp Centrum",
+      "latitude": 52.301888,
+      "longitude": 4.692261,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 143,
+      "name": "Weekmarkt Kersenboogerd",
+      "latitude": 52.652427,
+      "longitude": 5.085653,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 144,
+      "name": "Weekmarkt Leidschendam",
+      "latitude": 52.088845,
+      "longitude": 4.38016,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 145,
+      "name": "Weekmarkt Middelharnis",
+      "latitude": 51.759689,
+      "longitude": 4.163784,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 146,
+      "name": "Weekmarkt Nieuw-Vennep",
+      "latitude": 52.265356,
+      "longitude": 4.628861,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 147,
+      "name": "Weekmarkt Nijverdal",
+      "latitude": 52.364271,
+      "longitude": 6.463953,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 148,
+      "name": "Weekmarkt Oostvoorne",
+      "latitude": 51.915417,
+      "longitude": 4.103308,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 149,
+      "name": "Weekmarkt Ouddorp",
+      "latitude": 51.809314,
+      "longitude": 3.933476,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 150,
+      "name": "Weekmarkt Putten",
+      "latitude": 52.2612,
+      "longitude": 5.607363,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 151,
+      "name": "Weekmarkt Rockanje",
+      "latitude": 51.874477,
+      "longitude": 4.069383,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 152,
+      "name": "Weekmarkt Ter Apel",
+      "latitude": 52.87531,
+      "longitude": 7.058539,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 153,
+      "name": "Weekmarkt Valkenswaard",
+      "latitude": 51.350011,
+      "longitude": 5.458754,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 154,
+      "name": "Weekmarkt Voorburg",
+      "latitude": 52.069659,
+      "longitude": 4.367647,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 155,
+      "name": "Weekmarkt Zuidlaren",
+      "latitude": 53.093685,
+      "longitude": 6.687227,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 156,
+      "name": "Wilhelminaplein",
+      "latitude": 51.993018,
+      "longitude": 4.207541,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 157,
+      "name": "Witte Markt",
+      "latitude": 51.817724,
+      "longitude": 4.525937,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 158,
+      "name": "Woensdag",
+      "latitude": 51.986973,
+      "longitude": 4.66874,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 159,
+      "name": "Woensdag markt",
+      "latitude": 51.419352,
+      "longitude": 5.441333,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 160,
+      "name": "Woensdag, Vrijdag & Zaterdag Markt",
+      "latitude": 52.379727,
+      "longitude": 4.631759,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 161,
+      "name": "Woensdagmarkt",
+      "latitude": 52.483546,
+      "longitude": 4.66059,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 162,
+      "name": "Woenselse Markt",
+      "latitude": 51.451035,
+      "longitude": 5.472062,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 163,
+      "name": "Yada Yada Market",
+      "latitude": 52.421819,
+      "longitude": 4.831779,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 164,
+      "name": "Zaterdag markt",
+      "latitude": 52.510352,
+      "longitude": 5.476394,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 165,
+      "name": "Zaterdagmarkt",
+      "latitude": 51.554372,
+      "longitude": 5.086533,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 166,
+      "name": "Zaterdagmarkt Stadshart",
+      "latitude": 52.059447,
+      "longitude": 4.49522,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 167,
+      "name": "Zaterdagochtendmarkt",
+      "latitude": 52.3476,
+      "longitude": 5.617547,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 168,
+      "name": "Zutphense markt",
+      "latitude": 52.140773,
+      "longitude": 6.196584,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 169,
+      "name": "dinsdag",
+      "latitude": 52.29347,
+      "longitude": 4.578549,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 170,
+      "name": "donderdag",
+      "latitude": 52.787833,
+      "longitude": 4.80247,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 171,
+      "name": "donderdag ochtendmarkt",
+      "latitude": 51.520265,
+      "longitude": 5.066894,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 172,
+      "name": "markt heerenveen",
+      "latitude": 52.960137,
+      "longitude": 5.924541,
+      "osm_klasse": "amenity=marketplace"
+    },
+    {
+      "id": 173,
+      "name": "zuiderMRKT",
+      "latitude": 52.355483,
+      "longitude": 4.875735,
+      "osm_klasse": "amenity=marketplace"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: marketplace (amenity=marketplace) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=marketplace in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 173 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: marketplace (amenity=marketplace) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: marketplace (amenity=marketplace) — 173 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 173 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

@@ -1,0 +1,1297 @@
+{
+  "id": "nl-osm-office-architect",
+  "name": "Netherlands OSM: architect (office=architect)",
+  "title": "Netherlands OSM: architect (office=architect)",
+  "description": "Named OpenStreetMap features tagged office=architect in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 178,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "01Architecten",
+      "latitude": 52.362584,
+      "longitude": 6.460134,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 2,
+      "name": "19 Het Atelier architecten",
+      "latitude": 52.514663,
+      "longitude": 6.09807,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 3,
+      "name": "3D Maker Store",
+      "latitude": 52.328835,
+      "longitude": 5.544691,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 4,
+      "name": "A.J.W. Hoek",
+      "latitude": 52.085802,
+      "longitude": 5.122645,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 5,
+      "name": "A3 Architecten",
+      "latitude": 51.910527,
+      "longitude": 4.488983,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 6,
+      "name": "AKOS",
+      "latitude": 52.191964,
+      "longitude": 5.938057,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 7,
+      "name": "Achterbosch Architecten",
+      "latitude": 53.201163,
+      "longitude": 5.756279,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 8,
+      "name": "Achterbosch Architecten",
+      "latitude": 53.201797,
+      "longitude": 5.802568,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 9,
+      "name": "Adema Architecten",
+      "latitude": 53.32477,
+      "longitude": 5.99729,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 10,
+      "name": "Aerde Borgert Architecten",
+      "latitude": 51.574504,
+      "longitude": 5.081265,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 11,
+      "name": "ArchiXL",
+      "latitude": 52.070283,
+      "longitude": 5.259236,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 12,
+      "name": "Archikon",
+      "latitude": 51.496674,
+      "longitude": 3.889648,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 13,
+      "name": "Architecten Alliantie",
+      "latitude": 51.493001,
+      "longitude": 3.879532,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 14,
+      "name": "Architectenbureau Koorn",
+      "latitude": 52.657202,
+      "longitude": 5.059672,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 15,
+      "name": "Architectenbureau Nienhuis",
+      "latitude": 53.414871,
+      "longitude": 6.724451,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 16,
+      "name": "Architectenbureau Ron Spanjaard BNA",
+      "latitude": 52.322636,
+      "longitude": 4.598264,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 17,
+      "name": "Architectenbureau VANDERZANDEN",
+      "latitude": 51.308592,
+      "longitude": 5.334688,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 18,
+      "name": "Architectenbureau VNL",
+      "latitude": 53.093706,
+      "longitude": 5.83491,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 19,
+      "name": "Architectenburo Van Vliet",
+      "latitude": 52.07923,
+      "longitude": 4.395155,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 20,
+      "name": "Architectenteam",
+      "latitude": 53.236985,
+      "longitude": 5.7818,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 21,
+      "name": "Architectuur Maken",
+      "latitude": 51.903184,
+      "longitude": 4.449291,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 22,
+      "name": "ArchitectuurSupport.nl",
+      "latitude": 53.091369,
+      "longitude": 6.06605,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 23,
+      "name": "Architektenburo Archivice B.V.",
+      "latitude": 52.201244,
+      "longitude": 5.388678,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 24,
+      "name": "Architektengroep Gelderland",
+      "latitude": 52.006269,
+      "longitude": 6.342959,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 25,
+      "name": "Architom Architecten",
+      "latitude": 52.386624,
+      "longitude": 7.012428,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 26,
+      "name": "Artwyse",
+      "latitude": 52.99761,
+      "longitude": 6.573165,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 27,
+      "name": "Atelier Jelle Verheijen",
+      "latitude": 52.156854,
+      "longitude": 4.491006,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 28,
+      "name": "Auke J. de Vries Architekten",
+      "latitude": 53.092478,
+      "longitude": 6.072156,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 29,
+      "name": "BBAW bouwmanagement",
+      "latitude": 53.066734,
+      "longitude": 6.463542,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 30,
+      "name": "BDG Architecten",
+      "latitude": 52.512686,
+      "longitude": 6.074611,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 31,
+      "name": "BIAS Architecten",
+      "latitude": 51.912388,
+      "longitude": 4.491649,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 32,
+      "name": "BLOK Meubel",
+      "latitude": 51.450542,
+      "longitude": 5.624053,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 33,
+      "name": "Benthem Crouwel Architects",
+      "latitude": 52.332118,
+      "longitude": 4.964016,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 34,
+      "name": "Benthem Crouwel Architects",
+      "latitude": 52.344603,
+      "longitude": 4.84694,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 35,
+      "name": "BiermanHenket",
+      "latitude": 51.619211,
+      "longitude": 5.312912,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 36,
+      "name": "Bogaerds",
+      "latitude": 51.748569,
+      "longitude": 4.442777,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 37,
+      "name": "Bongers",
+      "latitude": 51.85882,
+      "longitude": 4.704279,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 38,
+      "name": "Boogaart B.V.",
+      "latitude": 52.345409,
+      "longitude": 5.219112,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 39,
+      "name": "Borren Staalenhoef",
+      "latitude": 53.202496,
+      "longitude": 5.787239,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 40,
+      "name": "Bouwbureau Jansman",
+      "latitude": 52.519074,
+      "longitude": 6.425227,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 41,
+      "name": "Bouwkundig Adviesbureau Twente",
+      "latitude": 52.312248,
+      "longitude": 6.523136,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 42,
+      "name": "Bouwkundig Ontwerp- en Tekenbureau Zuidema",
+      "latitude": 53.182483,
+      "longitude": 6.15611,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 43,
+      "name": "Bouwkundig Tekenburo Gerrit Scholten",
+      "latitude": 52.399807,
+      "longitude": 6.04313,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 44,
+      "name": "Boxxis Architecten",
+      "latitude": 52.129057,
+      "longitude": 5.568987,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 45,
+      "name": "Braaksma & Roos Architectenbureau",
+      "latitude": 52.081897,
+      "longitude": 4.301471,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 46,
+      "name": "Brand",
+      "latitude": 51.869171,
+      "longitude": 4.769082,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 47,
+      "name": "Broekbakema",
+      "latitude": 51.923978,
+      "longitude": 4.432447,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 48,
+      "name": "Broos de Bruijn architecten",
+      "latitude": 51.913866,
+      "longitude": 4.4775,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 49,
+      "name": "Bruins Koopman architecten",
+      "latitude": 52.241506,
+      "longitude": 6.865435,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 50,
+      "name": "Brummel Projectinrichters B.V.",
+      "latitude": 52.207086,
+      "longitude": 5.984196,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 51,
+      "name": "Bureau voor Architectuur Aujourd'hui",
+      "latitude": 51.598033,
+      "longitude": 5.680097,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 52,
+      "name": "Burokoek",
+      "latitude": 51.685925,
+      "longitude": 5.306214,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 53,
+      "name": "Choc Studio Interieur",
+      "latitude": 52.386657,
+      "longitude": 4.652739,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 54,
+      "name": "Common Affairs",
+      "latitude": 52.377239,
+      "longitude": 4.938794,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 55,
+      "name": "Cor Mastenbroek",
+      "latitude": 51.924907,
+      "longitude": 4.499572,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 56,
+      "name": "Courage Architecten",
+      "latitude": 52.22,
+      "longitude": 6.011482,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 57,
+      "name": "DAVL Studio",
+      "latitude": 52.079237,
+      "longitude": 4.272894,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 58,
+      "name": "DP6 architectuurstudio",
+      "latitude": 52.014422,
+      "longitude": 4.35921,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 59,
+      "name": "Daad Architecten",
+      "latitude": 52.857537,
+      "longitude": 6.521602,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 60,
+      "name": "De Balansbrug",
+      "latitude": 52.339143,
+      "longitude": 5.224296,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 61,
+      "name": "De Bruin",
+      "latitude": 52.506103,
+      "longitude": 6.07663,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 62,
+      "name": "De Twee Snoeken",
+      "latitude": 51.688287,
+      "longitude": 5.300871,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 63,
+      "name": "De Unie architecten",
+      "latitude": 53.210249,
+      "longitude": 6.537234,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 64,
+      "name": "De Urbanisten",
+      "latitude": 51.908362,
+      "longitude": 4.433451,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 65,
+      "name": "Dedem Architectuur",
+      "latitude": 52.605282,
+      "longitude": 6.456973,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 66,
+      "name": "Dennis Kooloos Woninginrichting",
+      "latitude": 52.131123,
+      "longitude": 5.563949,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 67,
+      "name": "Dijkmagazijn Elden",
+      "latitude": 51.968651,
+      "longitude": 5.855913,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 68,
+      "name": "Dorenbos Architekten",
+      "latitude": 53.246653,
+      "longitude": 5.897037,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 69,
+      "name": "Driessen Architectuur",
+      "latitude": 51.534893,
+      "longitude": 5.976093,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 70,
+      "name": "EGM Architecten",
+      "latitude": 51.810866,
+      "longitude": 4.6532,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 71,
+      "name": "ERS Architecten B.V.",
+      "latitude": 51.922614,
+      "longitude": 6.363938,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 72,
+      "name": "Engelman Architecten",
+      "latitude": 51.189038,
+      "longitude": 5.981269,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 73,
+      "name": "Eveline Vinkenborg Architect",
+      "latitude": 52.344367,
+      "longitude": 4.952806,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 74,
+      "name": "Fierloos Architecten",
+      "latitude": 51.496549,
+      "longitude": 3.892865,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 75,
+      "name": "GROUP A",
+      "latitude": 51.908298,
+      "longitude": 4.433652,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 76,
+      "name": "Gallo",
+      "latitude": 52.36925,
+      "longitude": 4.947764,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 77,
+      "name": "Grunstra Architecten Groep",
+      "latitude": 53.062518,
+      "longitude": 5.520073,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 78,
+      "name": "HET Architectenbureau",
+      "latitude": 51.997709,
+      "longitude": 4.210559,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 79,
+      "name": "HP Architecten",
+      "latitude": 51.908311,
+      "longitude": 4.433303,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 80,
+      "name": "Hal2",
+      "latitude": 51.430187,
+      "longitude": 5.469139,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 81,
+      "name": "Hans Vesseur",
+      "latitude": 53.013313,
+      "longitude": 6.568689,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 82,
+      "name": "Harmonische Architectuur",
+      "latitude": 52.127803,
+      "longitude": 6.143748,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 83,
+      "name": "Hop Architekten",
+      "latitude": 52.356166,
+      "longitude": 4.909474,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 84,
+      "name": "Houweling Architecten",
+      "latitude": 52.006786,
+      "longitude": 4.5279,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 85,
+      "name": "I.D. Binnenhuisarchitectuur",
+      "latitude": 52.151069,
+      "longitude": 5.391324,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 86,
+      "name": "IAA Architecten",
+      "latitude": 52.225256,
+      "longitude": 6.89011,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 87,
+      "name": "Inreda",
+      "latitude": 52.700471,
+      "longitude": 6.171719,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 88,
+      "name": "Inter A70 Architecten",
+      "latitude": 52.077779,
+      "longitude": 4.34509,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 89,
+      "name": "JCR Architecten",
+      "latitude": 52.032648,
+      "longitude": 5.874802,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 90,
+      "name": "JMW architecten B.V.",
+      "latitude": 51.541523,
+      "longitude": 5.059316,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 91,
+      "name": "KAAN Architecten",
+      "latitude": 51.914647,
+      "longitude": 4.487203,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 92,
+      "name": "KAW",
+      "latitude": 53.221272,
+      "longitude": 6.568225,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 93,
+      "name": "KJK Architecten",
+      "latitude": 52.962093,
+      "longitude": 4.754329,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 94,
+      "name": "Karel Nieuwland Architekten",
+      "latitude": 52.154991,
+      "longitude": 4.444661,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 95,
+      "name": "Kat Architecten",
+      "latitude": 53.032413,
+      "longitude": 5.662201,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 96,
+      "name": "Kdra",
+      "latitude": 52.630453,
+      "longitude": 4.753143,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 97,
+      "name": "Klinkers Interieurproducties BV",
+      "latitude": 50.910822,
+      "longitude": 5.774894,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 98,
+      "name": "Koezen Architecten",
+      "latitude": 52.694333,
+      "longitude": 6.190842,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 99,
+      "name": "Kort Geytenbeek Architecten BNA",
+      "latitude": 51.656231,
+      "longitude": 3.912124,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 100,
+      "name": "Lab32 architecten",
+      "latitude": 50.946785,
+      "longitude": 5.765234,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 101,
+      "name": "Lars Goossens Architect",
+      "latitude": 52.371063,
+      "longitude": 4.931261,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 102,
+      "name": "Lautenbach Architectuur",
+      "latitude": 53.202369,
+      "longitude": 5.799055,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 103,
+      "name": "Leeflang Architectuur",
+      "latitude": 52.103473,
+      "longitude": 6.312514,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 104,
+      "name": "Lenz",
+      "latitude": 51.658861,
+      "longitude": 5.610366,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 105,
+      "name": "M.G.J. Schoenmakers Bouwkundig Teken- en Adviesbureau",
+      "latitude": 51.762813,
+      "longitude": 5.782547,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 106,
+      "name": "MIX architectuur",
+      "latitude": 52.033627,
+      "longitude": 5.679945,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 107,
+      "name": "MOZAIEK",
+      "latitude": 52.713266,
+      "longitude": 5.070709,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 108,
+      "name": "MVRDV",
+      "latitude": 51.923507,
+      "longitude": 4.492525,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 109,
+      "name": "Marc Melissen Architect",
+      "latitude": 51.551212,
+      "longitude": 5.08019,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 110,
+      "name": "Mecanoo",
+      "latitude": 52.013317,
+      "longitude": 4.354542,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 111,
+      "name": "Moederscheim Moonen",
+      "latitude": 51.906933,
+      "longitude": 4.431445,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 112,
+      "name": "Morphique Architecten",
+      "latitude": 52.513026,
+      "longitude": 6.099188,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 113,
+      "name": "Nicemakers",
+      "latitude": 52.358513,
+      "longitude": 4.903612,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 114,
+      "name": "OSLO",
+      "latitude": 51.683877,
+      "longitude": 5.386478,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 115,
+      "name": "Octatube",
+      "latitude": 52.000988,
+      "longitude": 4.367373,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 116,
+      "name": "Omega Architects",
+      "latitude": 51.883798,
+      "longitude": 5.609854,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 117,
+      "name": "Palazzo",
+      "latitude": 52.279574,
+      "longitude": 6.426671,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 118,
+      "name": "Penta Architecten",
+      "latitude": 53.169643,
+      "longitude": 5.422405,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 119,
+      "name": "Peter Stello Architect",
+      "latitude": 51.917618,
+      "longitude": 4.459526,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 120,
+      "name": "R/VDM Architectuur",
+      "latitude": 52.079077,
+      "longitude": 4.287095,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 121,
+      "name": "Rabarb",
+      "latitude": 52.99389,
+      "longitude": 6.561297,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 122,
+      "name": "Raymakers Ontwerp",
+      "latitude": 51.445199,
+      "longitude": 5.613261,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 123,
+      "name": "Rever Interieurprojecten B.V.",
+      "latitude": 52.101706,
+      "longitude": 5.068441,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 124,
+      "name": "Rinke ter Haar Architectuur",
+      "latitude": 51.92575,
+      "longitude": 6.584996,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 125,
+      "name": "Rob Vreeswijk",
+      "latitude": 52.077189,
+      "longitude": 4.294375,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 126,
+      "name": "Roordink Architecten",
+      "latitude": 52.260987,
+      "longitude": 5.612828,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 127,
+      "name": "RoosRos Architecten",
+      "latitude": 51.824494,
+      "longitude": 4.42652,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 128,
+      "name": "SPACEVALUE",
+      "latitude": 51.58803,
+      "longitude": 4.769872,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 129,
+      "name": "SVP",
+      "latitude": 52.158395,
+      "longitude": 5.38839,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 130,
+      "name": "Sada",
+      "latitude": 52.307213,
+      "longitude": 6.519722,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 131,
+      "name": "Schaap en Sturm Architecten",
+      "latitude": 51.539108,
+      "longitude": 4.460088,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 132,
+      "name": "Sec",
+      "latitude": 52.559327,
+      "longitude": 5.916341,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 133,
+      "name": "Sierhuis",
+      "latitude": 52.37879,
+      "longitude": 4.882949,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 134,
+      "name": "Sjaak Goud Architect",
+      "latitude": 51.497355,
+      "longitude": 4.042293,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 135,
+      "name": "SkateOn",
+      "latitude": 52.34563,
+      "longitude": 4.963416,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 136,
+      "name": "Skill Architectuur",
+      "latitude": 52.518874,
+      "longitude": 6.423773,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 137,
+      "name": "Specht",
+      "latitude": 53.216098,
+      "longitude": 6.557885,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 138,
+      "name": "Statt",
+      "latitude": 51.980599,
+      "longitude": 5.919974,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 139,
+      "name": "StrandNL",
+      "latitude": 52.095121,
+      "longitude": 5.124968,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 140,
+      "name": "Strk",
+      "latitude": 51.47258,
+      "longitude": 5.546337,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 141,
+      "name": "Studio Adams",
+      "latitude": 51.908249,
+      "longitude": 4.433466,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 142,
+      "name": "Studio Durf Tuinarchitectuur",
+      "latitude": 52.196272,
+      "longitude": 5.138005,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 143,
+      "name": "Studio Marcovermeulen",
+      "latitude": 51.914069,
+      "longitude": 4.494499,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 144,
+      "name": "Studio Seven Archtecten",
+      "latitude": 52.074196,
+      "longitude": 4.307553,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 145,
+      "name": "Sweco Architects",
+      "latitude": 51.443945,
+      "longitude": 5.472967,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 146,
+      "name": "Sweco Architects",
+      "latitude": 52.102838,
+      "longitude": 5.080004,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 147,
+      "name": "T2 Architecten",
+      "latitude": 52.042806,
+      "longitude": 6.306561,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 148,
+      "name": "TWA Architecten",
+      "latitude": 53.291266,
+      "longitude": 5.86944,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 149,
+      "name": "Te Kiefte",
+      "latitude": 52.300891,
+      "longitude": 6.746828,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 150,
+      "name": "Thomas Kemme Architecten",
+      "latitude": 51.701574,
+      "longitude": 5.286935,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 151,
+      "name": "Tijmen Bos Architecten",
+      "latitude": 52.2506,
+      "longitude": 6.18047,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 152,
+      "name": "Traanberg Partners",
+      "latitude": 51.885229,
+      "longitude": 4.496545,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 153,
+      "name": "UNStudio",
+      "latitude": 52.357518,
+      "longitude": 4.897586,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 154,
+      "name": "UniQ Architecten B.V.",
+      "latitude": 51.824188,
+      "longitude": 4.437424,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 155,
+      "name": "VORM",
+      "latitude": 51.902708,
+      "longitude": 4.453092,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 156,
+      "name": "Van Oers Weijers Architecten BNA",
+      "latitude": 51.555794,
+      "longitude": 5.082778,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 157,
+      "name": "VersteeghHofman",
+      "latitude": 52.51533,
+      "longitude": 6.116888,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 158,
+      "name": "Visser Ontwerpburo",
+      "latitude": 53.180796,
+      "longitude": 6.16886,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 159,
+      "name": "Wagterkrijer",
+      "latitude": 51.88616,
+      "longitude": 5.435479,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 160,
+      "name": "Weedarchitecten",
+      "latitude": 51.913637,
+      "longitude": 4.478726,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 161,
+      "name": "Wiel Arets Architect B.V.",
+      "latitude": 50.841034,
+      "longitude": 5.673436,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 162,
+      "name": "Wiel Arets Architect B.V.",
+      "latitude": 52.354413,
+      "longitude": 4.875477,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 163,
+      "name": "Wildenberg Interieurarchitectuur",
+      "latitude": 52.119867,
+      "longitude": 5.4234,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 164,
+      "name": "WillemsenU",
+      "latitude": 51.443747,
+      "longitude": 5.504234,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 165,
+      "name": "Wintermans",
+      "latitude": 51.908707,
+      "longitude": 4.47949,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 166,
+      "name": "WnS Architecten",
+      "latitude": 52.023902,
+      "longitude": 4.275417,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 167,
+      "name": "Woonsubliem",
+      "latitude": 52.107007,
+      "longitude": 6.329623,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 168,
+      "name": "Woudstra Architecten",
+      "latitude": 51.617942,
+      "longitude": 5.435486,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 169,
+      "name": "ZEEP",
+      "latitude": 52.162436,
+      "longitude": 5.37505,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 170,
+      "name": "ZJA Architects",
+      "latitude": 52.36363,
+      "longitude": 4.978584,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 171,
+      "name": "de Werkplaatsgsb",
+      "latitude": 52.14818,
+      "longitude": 4.481818,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 172,
+      "name": "de Woonwensfabriek",
+      "latitude": 53.024758,
+      "longitude": 6.576127,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 173,
+      "name": "deMunnik-deJong-Steinhauser",
+      "latitude": 52.378698,
+      "longitude": 4.880424,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 174,
+      "name": "ipv Delft",
+      "latitude": 52.006647,
+      "longitude": 4.359675,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 175,
+      "name": "pdb design",
+      "latitude": 53.209018,
+      "longitude": 6.568324,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 176,
+      "name": "studioPAS architecten",
+      "latitude": 50.940896,
+      "longitude": 5.794183,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 177,
+      "name": "van der Bergen Kolpa Architecten",
+      "latitude": 51.917502,
+      "longitude": 4.48476,
+      "osm_klasse": "office=architect"
+    },
+    {
+      "id": 178,
+      "name": "vanardennearchitects",
+      "latitude": 51.991491,
+      "longitude": 5.919964,
+      "osm_klasse": "office=architect"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: architect (office=architect) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=architect in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 178 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: architect (office=architect) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: architect (office=architect) — 178 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 178 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

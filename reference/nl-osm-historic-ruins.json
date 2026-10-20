@@ -1,0 +1,1528 @@
+{
+  "id": "nl-osm-historic-ruins",
+  "name": "Netherlands OSM: ruins (historic=ruins)",
+  "title": "Netherlands OSM: ruins (historic=ruins)",
+  "description": "Named OpenStreetMap features tagged historic=ruins in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 211,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Rechthuis",
+      "latitude": 51.811588,
+      "longitude": 5.052994,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 2,
+      "name": "Aldenhaag",
+      "latitude": 51.915697,
+      "longitude": 5.397334,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 3,
+      "name": "Alte Polizeistation",
+      "latitude": 50.777252,
+      "longitude": 6.006049,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 4,
+      "name": "Alte Schmiede",
+      "latitude": 51.742002,
+      "longitude": 5.959257,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 5,
+      "name": "Badhuis",
+      "latitude": 52.916685,
+      "longitude": 6.606551,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 6,
+      "name": "Barak 57",
+      "latitude": 52.916438,
+      "longitude": 6.609967,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 7,
+      "name": "Barbarossakapel",
+      "latitude": 51.847558,
+      "longitude": 5.870554,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 8,
+      "name": "Barlham",
+      "latitude": 51.978462,
+      "longitude": 6.23876,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 9,
+      "name": "Bastion Treurniet",
+      "latitude": 51.945321,
+      "longitude": 6.618862,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 10,
+      "name": "Bekhofschans",
+      "latitude": 52.933914,
+      "longitude": 6.165103,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 11,
+      "name": "Beldhuismolen",
+      "latitude": 52.306662,
+      "longitude": 6.8657,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 12,
+      "name": "Bleekhuis",
+      "latitude": 51.955625,
+      "longitude": 6.722213,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 13,
+      "name": "Buitenhuis De Hut",
+      "latitude": 51.3743,
+      "longitude": 5.632676,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 14,
+      "name": "Bunker",
+      "latitude": 52.073891,
+      "longitude": 4.231539,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 15,
+      "name": "Bunker",
+      "latitude": 53.133198,
+      "longitude": 4.789676,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 16,
+      "name": "Bunker 222",
+      "latitude": 51.640993,
+      "longitude": 5.707897,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 17,
+      "name": "Burcht van Elsloo",
+      "latitude": 50.950242,
+      "longitude": 5.756953,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 18,
+      "name": "Cementfabriek Beutenaken",
+      "latitude": 50.782577,
+      "longitude": 5.858408,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 19,
+      "name": "Cisterciënzerklooster Galilaea Maior (Groot Galilea)",
+      "latitude": 52.481198,
+      "longitude": 6.641377,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 20,
+      "name": "Contouren kasteel Nieuwburg",
+      "latitude": 52.639283,
+      "longitude": 4.772792,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 21,
+      "name": "Dam Holwerd-Ameland",
+      "latitude": 53.403464,
+      "longitude": 5.870595,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 22,
+      "name": "Dam Holwerd-Ameland",
+      "latitude": 53.410417,
+      "longitude": 5.866081,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 23,
+      "name": "Dam Holwerd-Ameland",
+      "latitude": 53.419863,
+      "longitude": 5.851456,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 24,
+      "name": "Dam Holwerd-Ameland",
+      "latitude": 53.4215,
+      "longitude": 5.848957,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 25,
+      "name": "Dam Holwerd-Ameland",
+      "latitude": 53.433974,
+      "longitude": 5.827698,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 26,
+      "name": "De Groote Boel",
+      "latitude": 51.876242,
+      "longitude": 5.853764,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 27,
+      "name": "De Hoeksche Molen",
+      "latitude": 52.045497,
+      "longitude": 4.986401,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 28,
+      "name": "De Kloes",
+      "latitude": 50.943543,
+      "longitude": 5.927123,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 29,
+      "name": "De Uilenhorst",
+      "latitude": 52.904283,
+      "longitude": 6.338655,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 30,
+      "name": "De Waerdenborch",
+      "latitude": 52.278901,
+      "longitude": 6.432044,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 31,
+      "name": "De plek waar havezate Weleveld heeft gestaan",
+      "latitude": 52.325915,
+      "longitude": 6.744384,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 32,
+      "name": "Detailmodel Brouwershavense Gat",
+      "latitude": 52.67163,
+      "longitude": 5.914753,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 33,
+      "name": "Detailmodel sluitgat Lauwerszee",
+      "latitude": 52.670775,
+      "longitude": 5.916579,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 34,
+      "name": "Enghuizen",
+      "latitude": 52.012262,
+      "longitude": 6.233058,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 35,
+      "name": "Eversberg",
+      "latitude": 52.368568,
+      "longitude": 6.476757,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 36,
+      "name": "Fort de Ruyter",
+      "latitude": 51.441608,
+      "longitude": 3.609828,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 37,
+      "name": "Fort den Haak",
+      "latitude": 51.584935,
+      "longitude": 3.624122,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 38,
+      "name": "Fundering Watermolen",
+      "latitude": 51.839224,
+      "longitude": 4.682799,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 39,
+      "name": "Fundering molen",
+      "latitude": 51.957152,
+      "longitude": 4.634116,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 40,
+      "name": "Gebruik van isotopen als tracers",
+      "latitude": 52.672807,
+      "longitude": 5.927383,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 41,
+      "name": "Genneperhuis",
+      "latitude": 51.713862,
+      "longitude": 5.95041,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 42,
+      "name": "German World War II ruins",
+      "latitude": 52.870125,
+      "longitude": 5.586909,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 43,
+      "name": "Giessenburg",
+      "latitude": 51.843392,
+      "longitude": 4.867658,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 44,
+      "name": "Grote zaal",
+      "latitude": 52.916369,
+      "longitude": 6.604704,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 45,
+      "name": "Grotwoning Geulhem",
+      "latitude": 50.868172,
+      "longitude": 5.783571,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 46,
+      "name": "Het Hoompje",
+      "latitude": 51.311774,
+      "longitude": 3.370435,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 47,
+      "name": "Het Lijkenhuisje",
+      "latitude": 52.132753,
+      "longitude": 5.363137,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 48,
+      "name": "Hoeve Beekhuizen",
+      "latitude": 52.325337,
+      "longitude": 5.684771,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 49,
+      "name": "Hotel Dullemond",
+      "latitude": 52.076114,
+      "longitude": 6.081412,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 50,
+      "name": "Huis Berendrecht",
+      "latitude": 52.121249,
+      "longitude": 4.668433,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 51,
+      "name": "Huis te Riviere",
+      "latitude": 51.918195,
+      "longitude": 4.402947,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 52,
+      "name": "Huis te Vliet",
+      "latitude": 52.018481,
+      "longitude": 4.856109,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 53,
+      "name": "Huys te Woude",
+      "latitude": 51.880024,
+      "longitude": 4.609902,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 54,
+      "name": "IJskelder",
+      "latitude": 51.812474,
+      "longitude": 5.255222,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 55,
+      "name": "IJskelder",
+      "latitude": 51.974104,
+      "longitude": 5.713004,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 56,
+      "name": "IJskelder",
+      "latitude": 53.257163,
+      "longitude": 5.901227,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 57,
+      "name": "Inlaatsluis Volkerakdam",
+      "latitude": 52.67518,
+      "longitude": 5.924815,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 58,
+      "name": "Kalkoven Amerikaanse Branderij",
+      "latitude": 50.872907,
+      "longitude": 5.916868,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 59,
+      "name": "Kalkoven Daelsweg",
+      "latitude": 50.8584,
+      "longitude": 5.965191,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 60,
+      "name": "Kalkoven Dalberg",
+      "latitude": 50.859905,
+      "longitude": 5.964603,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 61,
+      "name": "Kalkoven Dikkebuiksweg-noord",
+      "latitude": 50.8313,
+      "longitude": 5.902305,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 62,
+      "name": "Kalkoven Dikkebuiksweg-zuid",
+      "latitude": 50.831198,
+      "longitude": 5.902149,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 63,
+      "name": "Kalkoven Engwegen",
+      "latitude": 50.846897,
+      "longitude": 5.874279,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 64,
+      "name": "Kalkoven Kasteel Haren",
+      "latitude": 50.872833,
+      "longitude": 5.913384,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 65,
+      "name": "Kalkoven Koffiepotje",
+      "latitude": 50.869499,
+      "longitude": 5.957459,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 66,
+      "name": "Kalkoven Kurvers",
+      "latitude": 50.856158,
+      "longitude": 5.963145,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 67,
+      "name": "Kalkoven Putberg",
+      "latitude": 50.858678,
+      "longitude": 5.968678,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 68,
+      "name": "Kalkoven Schaelsberg",
+      "latitude": 50.858922,
+      "longitude": 5.856582,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 69,
+      "name": "Kalkoven Sieben",
+      "latitude": 50.85395,
+      "longitude": 5.958994,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 70,
+      "name": "Kalkoven Winthagen",
+      "latitude": 50.862441,
+      "longitude": 5.933258,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 71,
+      "name": "Kalkoven bij Curfsgroeve",
+      "latitude": 50.871606,
+      "longitude": 5.773759,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 72,
+      "name": "Kalkoven bij ingang Curfsgroeve",
+      "latitude": 50.870852,
+      "longitude": 5.775773,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 73,
+      "name": "Kasteel Batenburg",
+      "latitude": 51.823817,
+      "longitude": 5.631006,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 74,
+      "name": "Kasteel Blitterswijck",
+      "latitude": 51.531284,
+      "longitude": 6.112015,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 75,
+      "name": "Kasteel Bokhoven",
+      "latitude": 51.736798,
+      "longitude": 5.233642,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 76,
+      "name": "Kasteel Born",
+      "latitude": 51.031058,
+      "longitude": 5.811299,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 77,
+      "name": "Kasteel Capelle",
+      "latitude": 51.922347,
+      "longitude": 4.583585,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 78,
+      "name": "Kasteel Cronesteyn",
+      "latitude": 52.141246,
+      "longitude": 4.491174,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 79,
+      "name": "Kasteel De Lichtenberg",
+      "latitude": 52.076592,
+      "longitude": 5.409685,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 80,
+      "name": "Kasteel Durendael",
+      "latitude": 51.574191,
+      "longitude": 5.179928,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 81,
+      "name": "Kasteel Eyckholt",
+      "latitude": 50.886775,
+      "longitude": 5.958555,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 82,
+      "name": "Kasteel Goudenstein",
+      "latitude": 51.814519,
+      "longitude": 5.212653,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 83,
+      "name": "Kasteel Groot Poelgeest",
+      "latitude": 52.13297,
+      "longitude": 4.594505,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 84,
+      "name": "Kasteel Huis te Voorn",
+      "latitude": 52.085127,
+      "longitude": 5.072408,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 85,
+      "name": "Kasteel Keenenburg",
+      "latitude": 51.976801,
+      "longitude": 4.31782,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 86,
+      "name": "Kasteel Leuvenum",
+      "latitude": 52.299718,
+      "longitude": 5.718397,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 87,
+      "name": "Kasteel Nuwendoorn",
+      "latitude": 52.735714,
+      "longitude": 4.710899,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 88,
+      "name": "Kasteel Rosande",
+      "latitude": 51.976605,
+      "longitude": 5.861313,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 89,
+      "name": "Kasteel Schalkwijk",
+      "latitude": 51.987788,
+      "longitude": 5.191047,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 90,
+      "name": "Kasteel Ten Goye",
+      "latitude": 52.003685,
+      "longitude": 5.210564,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 91,
+      "name": "Kasteel Walburg",
+      "latitude": 51.123511,
+      "longitude": 5.820371,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 92,
+      "name": "Kasteel Wulven",
+      "latitude": 52.03198,
+      "longitude": 5.137927,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 93,
+      "name": "Kasteel ter Wijc",
+      "latitude": 52.492219,
+      "longitude": 4.67454,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 94,
+      "name": "Kasteel van Wouw",
+      "latitude": 51.527103,
+      "longitude": 4.378056,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 95,
+      "name": "Kasteelruïne Montfort",
+      "latitude": 51.124334,
+      "longitude": 5.942074,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 96,
+      "name": "Kasteelruïne Schaesberg",
+      "latitude": 50.898233,
+      "longitude": 5.997343,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 97,
+      "name": "Kasteeltoren Zwanenburg",
+      "latitude": 51.858173,
+      "longitude": 6.392645,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 98,
+      "name": "Kavirondo Ruïne",
+      "latitude": 51.450874,
+      "longitude": 5.740935,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 99,
+      "name": "Kazematten",
+      "latitude": 50.843469,
+      "longitude": 5.680424,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 100,
+      "name": "Kazerne",
+      "latitude": 52.916136,
+      "longitude": 6.607727,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 101,
+      "name": "Kelder Rouwenberg",
+      "latitude": 52.027885,
+      "longitude": 6.043059,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 102,
+      "name": "Kerk Zuidpunt",
+      "latitude": 52.620286,
+      "longitude": 5.773516,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 103,
+      "name": "Kerk van Eikenduinen",
+      "latitude": 52.067326,
+      "longitude": 4.2635,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 104,
+      "name": "Kerkje van Eiteren",
+      "latitude": 52.027705,
+      "longitude": 5.035433,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 105,
+      "name": "Ketelhuis",
+      "latitude": 52.916627,
+      "longitude": 6.607678,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 106,
+      "name": "Keuken",
+      "latitude": 52.916814,
+      "longitude": 6.605328,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 107,
+      "name": "Keuperstoren",
+      "latitude": 51.846647,
+      "longitude": 5.872064,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 108,
+      "name": "Korenmolen",
+      "latitude": 52.179528,
+      "longitude": 6.139972,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 109,
+      "name": "Kruittoren",
+      "latitude": 51.847464,
+      "longitude": 5.857595,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 110,
+      "name": "Kruittoren",
+      "latitude": 52.145445,
+      "longitude": 6.196717,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 111,
+      "name": "Kuinderburcht",
+      "latitude": 52.780165,
+      "longitude": 5.84021,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 112,
+      "name": "Landgoed Seldensate",
+      "latitude": 51.663712,
+      "longitude": 5.409259,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 113,
+      "name": "Luchtwachttoren 6K1 Urk",
+      "latitude": 52.661851,
+      "longitude": 5.593745,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 114,
+      "name": "Luchtwachttoren 6K2 Emmeloord",
+      "latitude": 52.721044,
+      "longitude": 5.751962,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 115,
+      "name": "Luchtwachttoren 6K3 Ens",
+      "latitude": 52.641412,
+      "longitude": 5.830616,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 116,
+      "name": "Marckenburg",
+      "latitude": 51.996614,
+      "longitude": 5.20581,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 117,
+      "name": "Meisjesbarak",
+      "latitude": 52.917891,
+      "longitude": 6.606355,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 118,
+      "name": "Middenmolen, 1843-1846",
+      "latitude": 52.013832,
+      "longitude": 4.291278,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 119,
+      "name": "Model Bajibo Rapids",
+      "latitude": 52.670931,
+      "longitude": 5.924812,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 120,
+      "name": "Model Canal du Vridi, de toegang tot de haven van Abidjan, Ivoorkust",
+      "latitude": 52.670285,
+      "longitude": 5.918748,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 121,
+      "name": "Model Harbour Bangkok",
+      "latitude": 52.669701,
+      "longitude": 5.919987,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 122,
+      "name": "Model Haven van Lagos",
+      "latitude": 52.673625,
+      "longitude": 5.926985,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 123,
+      "name": "Model IJmuiden",
+      "latitude": 52.674775,
+      "longitude": 5.917836,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 124,
+      "name": "Model Keta Lagoon Outfall, Ghana",
+      "latitude": 52.671913,
+      "longitude": 5.927417,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 125,
+      "name": "Model Lagos Harbour, Nigeria",
+      "latitude": 52.672767,
+      "longitude": 5.926306,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 126,
+      "name": "Model Marsa El Brega",
+      "latitude": 52.669113,
+      "longitude": 5.921315,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 127,
+      "name": "Model Nederrijn",
+      "latitude": 52.674588,
+      "longitude": 5.925389,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 128,
+      "name": "Model Nieuwe Waterweg",
+      "latitude": 52.671105,
+      "longitude": 5.923109,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 129,
+      "name": "Model Noordzeekanaal",
+      "latitude": 52.671484,
+      "longitude": 5.921514,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 130,
+      "name": "Model Willemstunnel",
+      "latitude": 52.672867,
+      "longitude": 5.922703,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 131,
+      "name": "Model afsluiting Grevelingen",
+      "latitude": 52.672079,
+      "longitude": 5.917296,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 132,
+      "name": "Model bocht in de Waal bij Nijmegen",
+      "latitude": 52.673928,
+      "longitude": 5.924034,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 133,
+      "name": "Model bochtverbetering Bonnyrivier bij Port Harcourt, Nigeria",
+      "latitude": 52.671896,
+      "longitude": 5.924996,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 134,
+      "name": "Model havenuitbreiding Licata, Sicilië",
+      "latitude": 52.673202,
+      "longitude": 5.918194,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 135,
+      "name": "Model interactie duwvaart - overige vaart",
+      "latitude": 52.674524,
+      "longitude": 5.922298,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 136,
+      "name": "Model koelwatervijver Maasvlaktecentrale",
+      "latitude": 52.674271,
+      "longitude": 5.91936,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 137,
+      "name": "Model onderzoek Waalbocht bij Nijmegen",
+      "latitude": 52.672502,
+      "longitude": 5.920318,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 138,
+      "name": "Model ontgronding bij stuwcomplexen Maas",
+      "latitude": 52.668767,
+      "longitude": 5.925969,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 139,
+      "name": "Model splitsingspunt van de Rijn bij Westervoort",
+      "latitude": 52.668542,
+      "longitude": 5.925053,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 140,
+      "name": "Model vormgeving splitsingspunt Oude Maas - Hartelkanaal",
+      "latitude": 52.671228,
+      "longitude": 5.919314,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 141,
+      "name": "Modellen Turkse havens",
+      "latitude": 52.673904,
+      "longitude": 5.916888,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 142,
+      "name": "Molen van Ruysdael (molenromp)",
+      "latitude": 51.969923,
+      "longitude": 5.347333,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 143,
+      "name": "Molen van Trip",
+      "latitude": 52.262999,
+      "longitude": 6.798283,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 144,
+      "name": "Motteheuvel",
+      "latitude": 52.511132,
+      "longitude": 6.392655,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 145,
+      "name": "Mottekasteel Het Rondeel",
+      "latitude": 52.02654,
+      "longitude": 5.136504,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 146,
+      "name": "Muur van Mussert",
+      "latitude": 52.09594,
+      "longitude": 5.646385,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 147,
+      "name": "Nettelhorst",
+      "latitude": 52.159178,
+      "longitude": 6.457944,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 148,
+      "name": "Onderste Douvenrade",
+      "latitude": 50.883733,
+      "longitude": 5.957711,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 149,
+      "name": "Ottinkmolen",
+      "latitude": 52.189891,
+      "longitude": 6.724165,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 150,
+      "name": "Oude/Molenstomp Reeuwijkse Molen",
+      "latitude": 52.022576,
+      "longitude": 4.719977,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 151,
+      "name": "Peapark",
+      "latitude": 51.485871,
+      "longitude": 5.642564,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 152,
+      "name": "Pelicaenhoeve",
+      "latitude": 51.506531,
+      "longitude": 4.874841,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 153,
+      "name": "Pentagoot",
+      "latitude": 52.672347,
+      "longitude": 5.915484,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 154,
+      "name": "Philips van Kleefbolwerck",
+      "latitude": 51.797747,
+      "longitude": 5.64887,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 155,
+      "name": "Restant Verdedigingstoren",
+      "latitude": 51.590757,
+      "longitude": 4.778361,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 156,
+      "name": "Ridderhofstad Den Hoet",
+      "latitude": 52.098566,
+      "longitude": 5.058019,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 157,
+      "name": "Rochuskapel",
+      "latitude": 51.318881,
+      "longitude": 5.999836,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 158,
+      "name": "Roomsche Voet",
+      "latitude": 51.846449,
+      "longitude": 5.858185,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 159,
+      "name": "Ruine Oude Matthiaskerk",
+      "latitude": 52.200722,
+      "longitude": 4.501422,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 160,
+      "name": "Ruïne Herikhuizen",
+      "latitude": 52.019267,
+      "longitude": 6.004552,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 161,
+      "name": "Ruïne van Brederode",
+      "latitude": 52.425279,
+      "longitude": 4.62255,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 162,
+      "name": "Ruïne van Teylingen",
+      "latitude": 52.23124,
+      "longitude": 4.519055,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 163,
+      "name": "Schuilkelder WOII",
+      "latitude": 51.278372,
+      "longitude": 5.901976,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 164,
+      "name": "Schuilplaats WOII",
+      "latitude": 51.283709,
+      "longitude": 5.894758,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 165,
+      "name": "Sint Geertruidenkapel",
+      "latitude": 51.847076,
+      "longitude": 5.872168,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 166,
+      "name": "Sint Jacobstoren",
+      "latitude": 51.845287,
+      "longitude": 5.858842,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 167,
+      "name": "Sint-Jacobskapel",
+      "latitude": 51.988425,
+      "longitude": 6.610147,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 168,
+      "name": "Sint-Janskerk",
+      "latitude": 51.311072,
+      "longitude": 3.389336,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 169,
+      "name": "Sluis IV",
+      "latitude": 52.435848,
+      "longitude": 6.456735,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 170,
+      "name": "Spijtbroekstoren",
+      "latitude": 52.704094,
+      "longitude": 5.284328,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 171,
+      "name": "St. Elizabethsmolen",
+      "latitude": 51.248141,
+      "longitude": 5.936377,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 172,
+      "name": "Steenfabriek \"De Ossenwaard\"",
+      "latitude": 51.991001,
+      "longitude": 5.13874,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 173,
+      "name": "Steenovens",
+      "latitude": 51.958211,
+      "longitude": 4.641921,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 174,
+      "name": "Stekelvarken",
+      "latitude": 51.742888,
+      "longitude": 5.735885,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 175,
+      "name": "Stilteplaats Weiteveen",
+      "latitude": 52.665058,
+      "longitude": 6.989297,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 176,
+      "name": "Stoel van Swentibold",
+      "latitude": 51.02033,
+      "longitude": 5.821268,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 177,
+      "name": "TS 311",
+      "latitude": 53.423321,
+      "longitude": 5.408864,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 178,
+      "name": "Trambrug",
+      "latitude": 51.451024,
+      "longitude": 5.624202,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 179,
+      "name": "V1 Feuerstellung",
+      "latitude": 52.194697,
+      "longitude": 6.845393,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 180,
+      "name": "V1-lanceerinrichting",
+      "latitude": 52.283004,
+      "longitude": 6.297912,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 181,
+      "name": "V1-lanceerinrichting",
+      "latitude": 52.331451,
+      "longitude": 6.681493,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 182,
+      "name": "V1lanceringsplaats WOII",
+      "latitude": 52.209961,
+      "longitude": 6.245743,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 183,
+      "name": "Veldoven",
+      "latitude": 51.870181,
+      "longitude": 5.906945,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 184,
+      "name": "Verloren toren",
+      "latitude": 51.845658,
+      "longitude": 5.862795,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 185,
+      "name": "Villa Zeedennen",
+      "latitude": 52.124404,
+      "longitude": 4.336979,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 186,
+      "name": "Vlamoven Deest",
+      "latitude": 51.895309,
+      "longitude": 5.651572,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 187,
+      "name": "Vloerplaten SE Fireworks",
+      "latitude": 52.230275,
+      "longitude": 6.893412,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 188,
+      "name": "Voormalige Brandewijnfabriek Pfaff",
+      "latitude": 53.142339,
+      "longitude": 7.04501,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 189,
+      "name": "Voormalige H. Lambertuskerk van Haaren",
+      "latitude": 51.597275,
+      "longitude": 5.214924,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 190,
+      "name": "Voormalige Lanceerplaats V1",
+      "latitude": 52.327959,
+      "longitude": 6.421195,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 191,
+      "name": "Voormalige Sluis V",
+      "latitude": 52.451072,
+      "longitude": 6.561401,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 192,
+      "name": "Voormalige scheepsreparatiewerf",
+      "latitude": 52.436057,
+      "longitude": 6.443872,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 193,
+      "name": "Voormalige steenfabriek Rusthoven",
+      "latitude": 53.317034,
+      "longitude": 6.804403,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 194,
+      "name": "Voormalige wachtpost 49",
+      "latitude": 52.211272,
+      "longitude": 4.964644,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 195,
+      "name": "Vrouwekerk",
+      "latitude": 52.161072,
+      "longitude": 4.489473,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 196,
+      "name": "Vuurboet",
+      "latitude": 52.48936,
+      "longitude": 4.587282,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 197,
+      "name": "WW2 Bunker",
+      "latitude": 53.423678,
+      "longitude": 5.408577,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 198,
+      "name": "WW2 geschutsplek",
+      "latitude": 52.075788,
+      "longitude": 4.634584,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 199,
+      "name": "Witte Keet",
+      "latitude": 51.718669,
+      "longitude": 4.838518,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 200,
+      "name": "Ziekenhuis",
+      "latitude": 52.915807,
+      "longitude": 6.60454,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 201,
+      "name": "de eerste burcht van Kuinre",
+      "latitude": 52.780186,
+      "longitude": 5.840189,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 202,
+      "name": "kampbewaking",
+      "latitude": 52.916829,
+      "longitude": 6.602892,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 203,
+      "name": "overblijfselen van de 'Molen van Ruisdael'",
+      "latitude": 51.969923,
+      "longitude": 5.347331,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 204,
+      "name": "ruïne",
+      "latitude": 53.224427,
+      "longitude": 6.333691,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 205,
+      "name": "ruïne van de gotische kloosterkerk",
+      "latitude": 50.850095,
+      "longitude": 5.684092,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 206,
+      "name": "school",
+      "latitude": 52.917649,
+      "longitude": 6.611068,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 207,
+      "name": "strafbarak 65",
+      "latitude": 52.917972,
+      "longitude": 6.609071,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 208,
+      "name": "strafbarak 66",
+      "latitude": 52.918161,
+      "longitude": 6.609153,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 209,
+      "name": "strafbarak 67",
+      "latitude": 52.918323,
+      "longitude": 6.609399,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 210,
+      "name": "vliegtuigdemontagehal",
+      "latitude": 52.916463,
+      "longitude": 6.61126,
+      "osm_klasse": "historic=ruins"
+    },
+    {
+      "id": 211,
+      "name": "woonbarak",
+      "latitude": 52.918172,
+      "longitude": 6.606431,
+      "osm_klasse": "historic=ruins"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: ruins (historic=ruins) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged historic=ruins in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 211 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: ruins (historic=ruins) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: ruins (historic=ruins) — 211 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 211 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

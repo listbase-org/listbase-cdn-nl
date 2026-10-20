@@ -1,0 +1,3103 @@
+{
+  "id": "nl-osm-amenity-bicycle-parking",
+  "name": "Netherlands OSM: bicycle parking (amenity=bicycle_parking)",
+  "title": "Netherlands OSM: bicycle parking (amenity=bicycle_parking)",
+  "description": "Named OpenStreetMap features tagged amenity=bicycle_parking in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 436,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Hooge Erf",
+      "latitude": 52.201537,
+      "longitude": 5.23312,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 2,
+      "name": "'t Kalf",
+      "latitude": 52.467845,
+      "longitude": 4.834818,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 3,
+      "name": "'t Kalf",
+      "latitude": 52.46817,
+      "longitude": 4.83551,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 4,
+      "name": "A33",
+      "latitude": 51.384533,
+      "longitude": 5.669365,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 5,
+      "name": "ACEC gebouw",
+      "latitude": 52.216106,
+      "longitude": 5.957672,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 6,
+      "name": "Achterom",
+      "latitude": 53.054474,
+      "longitude": 4.801597,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 7,
+      "name": "Achterweg",
+      "latitude": 53.210246,
+      "longitude": 6.568752,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 8,
+      "name": "Adamas",
+      "latitude": 52.436362,
+      "longitude": 4.808887,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 9,
+      "name": "Alkmaar",
+      "latitude": 52.637508,
+      "longitude": 4.738919,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 10,
+      "name": "Amicitia",
+      "latitude": 52.15361,
+      "longitude": 5.385163,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 11,
+      "name": "Amsterdam Centraal IJboulevard",
+      "latitude": 52.380054,
+      "longitude": 4.901482,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 12,
+      "name": "Androclusgebouw",
+      "latitude": 52.082707,
+      "longitude": 5.177973,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 13,
+      "name": "Antoni",
+      "latitude": 52.006034,
+      "longitude": 4.356483,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 14,
+      "name": "Arendshof",
+      "latitude": 51.64417,
+      "longitude": 4.856829,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 15,
+      "name": "Aurum",
+      "latitude": 52.437254,
+      "longitude": 4.810137,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 16,
+      "name": "Automatische Stalling Tolhuisplein",
+      "latitude": 52.382209,
+      "longitude": 4.903531,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 17,
+      "name": "Barneveld Centrum",
+      "latitude": 52.139741,
+      "longitude": 5.590246,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 18,
+      "name": "Barneveld Centrum",
+      "latitude": 52.140759,
+      "longitude": 5.589557,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 19,
+      "name": "Batau Noord",
+      "latitude": 52.041418,
+      "longitude": 5.080463,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 20,
+      "name": "Begraafplaats De Stuivenberg Montfoort",
+      "latitude": 52.034983,
+      "longitude": 4.957506,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 21,
+      "name": "Bewaakt",
+      "latitude": 52.637574,
+      "longitude": 4.739355,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 22,
+      "name": "Bewaakte Fietsenstalling",
+      "latitude": 51.495436,
+      "longitude": 4.295938,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 23,
+      "name": "Bewaakte fietsenstalling Station Arnhem",
+      "latitude": 51.984065,
+      "longitude": 5.901591,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 24,
+      "name": "Bewonersstalling Springweg",
+      "latitude": 52.08868,
+      "longitude": 5.11971,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 25,
+      "name": "Bezoekers fietsenstalling",
+      "latitude": 52.09234,
+      "longitude": 4.383982,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 26,
+      "name": "Biesieklete",
+      "latitude": 52.078969,
+      "longitude": 4.310931,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 27,
+      "name": "Biesieklette",
+      "latitude": 51.915093,
+      "longitude": 4.401037,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 28,
+      "name": "Biesieklette",
+      "latitude": 51.928412,
+      "longitude": 4.237688,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 29,
+      "name": "Biesieklette",
+      "latitude": 51.993893,
+      "longitude": 4.210198,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 30,
+      "name": "Biesieklette",
+      "latitude": 52.046949,
+      "longitude": 4.414815,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 31,
+      "name": "Biesieklette",
+      "latitude": 52.065929,
+      "longitude": 4.297406,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 32,
+      "name": "Biesieklette",
+      "latitude": 52.067649,
+      "longitude": 4.222945,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 33,
+      "name": "Biesieklette",
+      "latitude": 52.076423,
+      "longitude": 4.314,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 34,
+      "name": "Biesieklette",
+      "latitude": 52.078032,
+      "longitude": 4.308012,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 35,
+      "name": "Biesieklette",
+      "latitude": 52.078482,
+      "longitude": 4.307275,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 36,
+      "name": "Biesieklette",
+      "latitude": 52.078953,
+      "longitude": 4.31086,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 37,
+      "name": "Biesieklette",
+      "latitude": 52.082528,
+      "longitude": 4.305683,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 38,
+      "name": "Biesieklette",
+      "latitude": 52.101172,
+      "longitude": 4.262574,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 39,
+      "name": "Biesieklette",
+      "latitude": 52.109123,
+      "longitude": 4.274601,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 40,
+      "name": "Biesieklette Grote Halstraat",
+      "latitude": 52.078006,
+      "longitude": 4.308042,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 41,
+      "name": "Biesieklette Grote Markt",
+      "latitude": 52.076,
+      "longitude": 4.307944,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 42,
+      "name": "Biesieklette Station Pijnacker-Centrum",
+      "latitude": 52.019597,
+      "longitude": 4.437328,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 43,
+      "name": "Biesieklette Station Pijnacker-Zuid",
+      "latitude": 52.005149,
+      "longitude": 4.446135,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 44,
+      "name": "Bike parking DNW",
+      "latitude": 52.683217,
+      "longitude": 5.932573,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 45,
+      "name": "Bioscoop",
+      "latitude": 51.339144,
+      "longitude": 3.824106,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 46,
+      "name": "Blijdorp",
+      "latitude": 51.92497,
+      "longitude": 4.454251,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 47,
+      "name": "Boerderij Restaurant Catharinahoeve",
+      "latitude": 53.058756,
+      "longitude": 4.762637,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 48,
+      "name": "Bosrestaurant Overberg",
+      "latitude": 52.029201,
+      "longitude": 5.500149,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 49,
+      "name": "Botermarkt",
+      "latitude": 52.252556,
+      "longitude": 6.155274,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 50,
+      "name": "Breestraat",
+      "latitude": 52.158774,
+      "longitude": 4.489835,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 51,
+      "name": "Broedplaats Fenix",
+      "latitude": 52.331596,
+      "longitude": 4.967585,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 52,
+      "name": "Bunde Station",
+      "latitude": 50.896409,
+      "longitude": 5.736458,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 53,
+      "name": "Bunde Station",
+      "latitude": 50.897059,
+      "longitude": 5.736232,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 54,
+      "name": "Burgemeester Molendijkflat",
+      "latitude": 52.166992,
+      "longitude": 5.416622,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 55,
+      "name": "Bushalte G. de Voslaan",
+      "latitude": 51.807573,
+      "longitude": 4.564461,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 56,
+      "name": "Busstation",
+      "latitude": 51.66049,
+      "longitude": 5.617787,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 57,
+      "name": "Busstation",
+      "latitude": 52.638188,
+      "longitude": 4.743898,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 58,
+      "name": "Buurtfietsenstalling Walenburgerweg",
+      "latitude": 51.92801,
+      "longitude": 4.466079,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 59,
+      "name": "Buurtstalling",
+      "latitude": 52.078581,
+      "longitude": 5.123286,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 60,
+      "name": "Buurtstalling Bolstraat",
+      "latitude": 52.088876,
+      "longitude": 5.132671,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 61,
+      "name": "Buurtstalling Eerste Jan Steenstraat",
+      "latitude": 52.35426,
+      "longitude": 4.891346,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 62,
+      "name": "Buurtstalling Gerard Doustraat",
+      "latitude": 52.355983,
+      "longitude": 4.894474,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 63,
+      "name": "Buurtstalling Govert Flinckstraat",
+      "latitude": 52.35455,
+      "longitude": 4.890914,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 64,
+      "name": "Buurtstalling Vleutenseweg",
+      "latitude": 52.092862,
+      "longitude": 5.099964,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 65,
+      "name": "C20",
+      "latitude": 51.381585,
+      "longitude": 5.672812,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 66,
+      "name": "C21",
+      "latitude": 51.381429,
+      "longitude": 5.672772,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 67,
+      "name": "C23",
+      "latitude": 51.381246,
+      "longitude": 5.672459,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 68,
+      "name": "Capelsebrug",
+      "latitude": 51.921358,
+      "longitude": 4.559334,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 69,
+      "name": "Carpool",
+      "latitude": 53.085707,
+      "longitude": 6.965235,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 70,
+      "name": "Carpoolplaats Workum",
+      "latitude": 52.97533,
+      "longitude": 5.451666,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 71,
+      "name": "Chevremont Station",
+      "latitude": 50.876294,
+      "longitude": 6.059625,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 72,
+      "name": "Clingendael",
+      "latitude": 52.097698,
+      "longitude": 4.332445,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 73,
+      "name": "Coenderstraat",
+      "latitude": 52.006593,
+      "longitude": 4.356165,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 74,
+      "name": "D13",
+      "latitude": 51.381988,
+      "longitude": 5.674162,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 75,
+      "name": "D7",
+      "latitude": 51.381467,
+      "longitude": 5.6744,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 76,
+      "name": "D8",
+      "latitude": 51.381493,
+      "longitude": 5.674483,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 77,
+      "name": "De Baron de stalling",
+      "latitude": 52.382799,
+      "longitude": 4.872585,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 78,
+      "name": "De Beurs",
+      "latitude": 52.263693,
+      "longitude": 6.795402,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 79,
+      "name": "De Bol",
+      "latitude": 51.95421,
+      "longitude": 4.926806,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 80,
+      "name": "De Caegh",
+      "latitude": 52.673504,
+      "longitude": 4.908586,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 81,
+      "name": "De Droogschuur",
+      "latitude": 52.437627,
+      "longitude": 4.813311,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 82,
+      "name": "De Fietsappel",
+      "latitude": 52.125143,
+      "longitude": 4.65734,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 83,
+      "name": "De Jong",
+      "latitude": 52.985958,
+      "longitude": 6.561705,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 84,
+      "name": "De Koopgoot",
+      "latitude": 51.921253,
+      "longitude": 4.482727,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 85,
+      "name": "De Notenboom",
+      "latitude": 51.88619,
+      "longitude": 5.196645,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 86,
+      "name": "De Omnibus",
+      "latitude": 52.356297,
+      "longitude": 5.18192,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 87,
+      "name": "De Overdekte",
+      "latitude": 52.633185,
+      "longitude": 4.743948,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 88,
+      "name": "De Proefzaak",
+      "latitude": 52.30321,
+      "longitude": 4.951733,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 89,
+      "name": "De Rede",
+      "latitude": 51.322684,
+      "longitude": 3.838505,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 90,
+      "name": "De Vis",
+      "latitude": 51.504756,
+      "longitude": 3.891373,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 91,
+      "name": "De Wereld van Water",
+      "latitude": 51.976941,
+      "longitude": 5.160427,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 92,
+      "name": "Deltion Bike Parking P1",
+      "latitude": 52.521769,
+      "longitude": 6.086398,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 93,
+      "name": "Deltion Bike Parking P3",
+      "latitude": 52.519643,
+      "longitude": 6.082022,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 94,
+      "name": "Den Haag Noorderstrand 34",
+      "latitude": 52.120993,
+      "longitude": 4.295331,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 95,
+      "name": "Denekamperstraat",
+      "latitude": 52.410153,
+      "longitude": 6.900752,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 96,
+      "name": "Diakonessenhuis",
+      "latitude": 52.081384,
+      "longitude": 5.138847,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 97,
+      "name": "Doorneind",
+      "latitude": 51.478273,
+      "longitude": 5.65827,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 98,
+      "name": "Down under",
+      "latitude": 52.478607,
+      "longitude": 4.655038,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 99,
+      "name": "DrBeyk's Fietsenstalling Rivierenbuurt 1",
+      "latitude": 52.342768,
+      "longitude": 4.901592,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 100,
+      "name": "DrBeyk's Fietsenstalling Rivierenbuurt 2",
+      "latitude": 52.343471,
+      "longitude": 4.90913,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 101,
+      "name": "Duinpad",
+      "latitude": 51.671102,
+      "longitude": 3.705048,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 102,
+      "name": "Dwaalgebied",
+      "latitude": 51.555024,
+      "longitude": 5.08245,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 103,
+      "name": "Echt Station",
+      "latitude": 51.0995,
+      "longitude": 5.878227,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 104,
+      "name": "Efteling Fietsenstalling",
+      "latitude": 51.649185,
+      "longitude": 5.041487,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 105,
+      "name": "Eijsden Station",
+      "latitude": 50.771952,
+      "longitude": 5.709849,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 106,
+      "name": "Euretco",
+      "latitude": 52.038631,
+      "longitude": 5.141203,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 107,
+      "name": "Expert",
+      "latitude": 51.969877,
+      "longitude": 5.669014,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 108,
+      "name": "Eys-Wittem Station",
+      "latitude": 50.823024,
+      "longitude": 5.924956,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 109,
+      "name": "Faculteitsstalling",
+      "latitude": 52.084095,
+      "longitude": 5.16742,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 110,
+      "name": "Fiets en Service, OVfiets, NS",
+      "latitude": 52.337618,
+      "longitude": 5.618996,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 111,
+      "name": "Fietsdepot Haaglanden",
+      "latitude": 52.06898,
+      "longitude": 4.333355,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 112,
+      "name": "Fietsen Personeel",
+      "latitude": 52.384581,
+      "longitude": 4.654248,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 113,
+      "name": "Fietsenhok Zèta",
+      "latitude": 52.019888,
+      "longitude": 4.699988,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 114,
+      "name": "Fietsenkelder GHZ",
+      "latitude": 52.021049,
+      "longitude": 4.707428,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 115,
+      "name": "Fietsenkelder medewerkers",
+      "latitude": 52.09245,
+      "longitude": 4.383063,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 116,
+      "name": "Fietsenstalling",
+      "latitude": 51.192012,
+      "longitude": 5.993525,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 117,
+      "name": "Fietsenstalling",
+      "latitude": 51.517996,
+      "longitude": 3.448907,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 118,
+      "name": "Fietsenstalling",
+      "latitude": 52.126519,
+      "longitude": 4.433556,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 119,
+      "name": "Fietsenstalling",
+      "latitude": 52.782571,
+      "longitude": 6.896158,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 120,
+      "name": "Fietsenstalling A",
+      "latitude": 52.336975,
+      "longitude": 4.970965,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 121,
+      "name": "Fietsenstalling Aarkade",
+      "latitude": 52.130471,
+      "longitude": 4.665135,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 122,
+      "name": "Fietsenstalling Achterom",
+      "latitude": 51.812625,
+      "longitude": 4.666281,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 123,
+      "name": "Fietsenstalling Assen",
+      "latitude": 52.992595,
+      "longitude": 6.570887,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 124,
+      "name": "Fietsenstalling B",
+      "latitude": 52.337248,
+      "longitude": 4.970148,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 125,
+      "name": "Fietsenstalling BalPol 2",
+      "latitude": 51.996428,
+      "longitude": 4.374155,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 126,
+      "name": "Fietsenstalling BalPol1",
+      "latitude": 51.996529,
+      "longitude": 4.375628,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 127,
+      "name": "Fietsenstalling Belcrum",
+      "latitude": 51.596075,
+      "longitude": 4.778297,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 128,
+      "name": "Fietsenstalling Bewoners De Hulk",
+      "latitude": 52.33567,
+      "longitude": 5.217353,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 129,
+      "name": "Fietsenstalling Bisschop Hamerstraat",
+      "latitude": 51.842991,
+      "longitude": 5.860544,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 130,
+      "name": "Fietsenstalling Blauw-Zwart",
+      "latitude": 52.152236,
+      "longitude": 4.391386,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 131,
+      "name": "Fietsenstalling Boschbad",
+      "latitude": 52.217277,
+      "longitude": 5.923385,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 132,
+      "name": "Fietsenstalling Botermarkt",
+      "latitude": 52.379872,
+      "longitude": 4.631434,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 133,
+      "name": "Fietsenstalling Brouwershof",
+      "latitude": 52.154166,
+      "longitude": 5.379085,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 134,
+      "name": "Fietsenstalling Burgemeester Loeffplein",
+      "latitude": 51.689924,
+      "longitude": 5.304381,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 135,
+      "name": "Fietsenstalling C",
+      "latitude": 52.337297,
+      "longitude": 4.970227,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 136,
+      "name": "Fietsenstalling Castellum",
+      "latitude": 52.129221,
+      "longitude": 4.660507,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 137,
+      "name": "Fietsenstalling Centrum",
+      "latitude": 51.594791,
+      "longitude": 4.77993,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 138,
+      "name": "Fietsenstalling Concertzaal",
+      "latitude": 51.553983,
+      "longitude": 5.084975,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 139,
+      "name": "Fietsenstalling Coolsingel",
+      "latitude": 51.918047,
+      "longitude": 4.479993,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 140,
+      "name": "Fietsenstalling D",
+      "latitude": 52.337425,
+      "longitude": 4.970431,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 141,
+      "name": "Fietsenstalling Drievriendenhof",
+      "latitude": 51.813566,
+      "longitude": 4.669733,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 142,
+      "name": "Fietsenstalling E",
+      "latitude": 52.336816,
+      "longitude": 4.970669,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 143,
+      "name": "Fietsenstalling ETZ Elisabeth Ziekenhuis",
+      "latitude": 51.539518,
+      "longitude": 5.102192,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 144,
+      "name": "Fietsenstalling Energiehuis",
+      "latitude": 51.815759,
+      "longitude": 4.681077,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 145,
+      "name": "Fietsenstalling Europapark",
+      "latitude": 53.20472,
+      "longitude": 6.586417,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 146,
+      "name": "Fietsenstalling F",
+      "latitude": 52.336835,
+      "longitude": 4.970605,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 147,
+      "name": "Fietsenstalling Friese Poort",
+      "latitude": 53.118816,
+      "longitude": 6.092329,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 148,
+      "name": "Fietsenstalling G",
+      "latitude": 52.336824,
+      "longitude": 4.969469,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 149,
+      "name": "Fietsenstalling Gerard Douplein",
+      "latitude": 52.355946,
+      "longitude": 4.893377,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 150,
+      "name": "Fietsenstalling H1",
+      "latitude": 52.336541,
+      "longitude": 4.970072,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 151,
+      "name": "Fietsenstalling H2",
+      "latitude": 52.33649,
+      "longitude": 4.970247,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 152,
+      "name": "Fietsenstalling Haven",
+      "latitude": 51.590182,
+      "longitude": 4.773653,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 153,
+      "name": "Fietsenstalling Heerlen",
+      "latitude": 50.886378,
+      "longitude": 5.979827,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 154,
+      "name": "Fietsenstalling Hoogvliet",
+      "latitude": 51.86002,
+      "longitude": 4.366348,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 155,
+      "name": "Fietsenstalling Hortusplein",
+      "latitude": 52.38136,
+      "longitude": 4.629158,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 156,
+      "name": "Fietsenstalling House Modernes",
+      "latitude": 52.093176,
+      "longitude": 5.115888,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 157,
+      "name": "Fietsenstalling IJboulevard (ingang oost)",
+      "latitude": 52.379406,
+      "longitude": 4.902732,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 158,
+      "name": "Fietsenstalling IJboulevard (ingang west)",
+      "latitude": 52.380274,
+      "longitude": 4.90035,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 159,
+      "name": "Fietsenstalling Kamperbinnenpoort",
+      "latitude": 52.157136,
+      "longitude": 5.392405,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 160,
+      "name": "Fietsenstalling Katterug",
+      "latitude": 51.554584,
+      "longitude": 5.088126,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 161,
+      "name": "Fietsenstalling Kerkstraat",
+      "latitude": 51.687908,
+      "longitude": 5.306418,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 162,
+      "name": "Fietsenstalling Kloosterwandplein",
+      "latitude": 51.191944,
+      "longitude": 5.990075,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 163,
+      "name": "Fietsenstalling Knoop",
+      "latitude": 52.087632,
+      "longitude": 5.109161,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 164,
+      "name": "Fietsenstalling Koningin Julianaplein",
+      "latitude": 52.081721,
+      "longitude": 4.322761,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 165,
+      "name": "Fietsenstalling Kruisstraat",
+      "latitude": 51.767551,
+      "longitude": 5.522104,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 166,
+      "name": "Fietsenstalling Laag Catharijne",
+      "latitude": 52.091716,
+      "longitude": 5.11212,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 167,
+      "name": "Fietsenstalling Leidseplein",
+      "latitude": 52.363291,
+      "longitude": 4.8835,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 168,
+      "name": "Fietsenstalling Mahlerplein",
+      "latitude": 52.337397,
+      "longitude": 4.873554,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 169,
+      "name": "Fietsenstalling Mariastraat en Fietsdepot",
+      "latitude": 52.213651,
+      "longitude": 5.96088,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 170,
+      "name": "Fietsenstalling Markt",
+      "latitude": 50.852195,
+      "longitude": 5.691143,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 171,
+      "name": "Fietsenstalling Meent",
+      "latitude": 51.921599,
+      "longitude": 4.480331,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 172,
+      "name": "Fietsenstalling Meerminneplein",
+      "latitude": 52.513709,
+      "longitude": 6.093639,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 173,
+      "name": "Fietsenstalling Musiskwartier",
+      "latitude": 51.982822,
+      "longitude": 5.912177,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 174,
+      "name": "Fietsenstalling NS",
+      "latitude": 52.408946,
+      "longitude": 5.892066,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 175,
+      "name": "Fietsenstalling Neude",
+      "latitude": 52.092877,
+      "longitude": 5.118171,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 176,
+      "name": "Fietsenstalling Nieuwe Markt",
+      "latitude": 52.013379,
+      "longitude": 4.710883,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 177,
+      "name": "Fietsenstalling Nieuwstad",
+      "latitude": 51.9644,
+      "longitude": 6.29186,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 178,
+      "name": "Fietsenstalling Nieuwstraat",
+      "latitude": 51.5869,
+      "longitude": 4.77522,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 179,
+      "name": "Fietsenstalling Nunspeetlaan",
+      "latitude": 52.065581,
+      "longitude": 4.28611,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 180,
+      "name": "Fietsenstalling Oostwal",
+      "latitude": 51.76941,
+      "longitude": 5.5275,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 181,
+      "name": "Fietsenstalling Oranje Zuid",
+      "latitude": 51.584667,
+      "longitude": 4.775067,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 182,
+      "name": "Fietsenstalling Oude Langendijk 13",
+      "latitude": 52.011107,
+      "longitude": 4.359111,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 183,
+      "name": "Fietsenstalling Oude Vest",
+      "latitude": 51.587204,
+      "longitude": 4.779293,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 184,
+      "name": "Fietsenstalling Park Berg & Bos",
+      "latitude": 52.213504,
+      "longitude": 5.926905,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 185,
+      "name": "Fietsenstalling Perlstein",
+      "latitude": 51.964647,
+      "longitude": 6.287602,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 186,
+      "name": "Fietsenstalling Pletterstraat",
+      "latitude": 52.514131,
+      "longitude": 6.09694,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 187,
+      "name": "Fietsenstalling Raamplein",
+      "latitude": 52.36614,
+      "longitude": 4.880186,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 188,
+      "name": "Fietsenstalling Reguliers",
+      "latitude": 52.366181,
+      "longitude": 4.891827,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 189,
+      "name": "Fietsenstalling Rodetorenplein",
+      "latitude": 52.513649,
+      "longitude": 6.090009,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 190,
+      "name": "Fietsenstalling Rokin",
+      "latitude": 52.369477,
+      "longitude": 4.892061,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 191,
+      "name": "Fietsenstalling Schiphol Plaza",
+      "latitude": 52.309206,
+      "longitude": 4.759073,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 192,
+      "name": "Fietsenstalling Schrijverstraat",
+      "latitude": 52.372507,
+      "longitude": 5.221183,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 193,
+      "name": "Fietsenstalling Singel",
+      "latitude": 52.367015,
+      "longitude": 4.892341,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 194,
+      "name": "Fietsenstalling Singel",
+      "latitude": 52.36719,
+      "longitude": 4.89043,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 195,
+      "name": "Fietsenstalling Smedestraat",
+      "latitude": 52.381836,
+      "longitude": 4.636689,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 196,
+      "name": "Fietsenstalling Spoorzone Zwijsen",
+      "latitude": 51.561259,
+      "longitude": 5.081547,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 197,
+      "name": "Fietsenstalling Sporthal De Schulpwei",
+      "latitude": 52.151649,
+      "longitude": 4.392155,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 198,
+      "name": "Fietsenstalling St Jansdal",
+      "latitude": 52.342736,
+      "longitude": 5.61642,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 199,
+      "name": "Fietsenstalling Stadhuisplein",
+      "latitude": 52.092222,
+      "longitude": 5.119646,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 200,
+      "name": "Fietsenstalling Station",
+      "latitude": 52.371047,
+      "longitude": 5.78466,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 201,
+      "name": "Fietsenstalling Station Akkrum",
+      "latitude": 53.047896,
+      "longitude": 5.842744,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 202,
+      "name": "Fietsenstalling Station Etten-Leur",
+      "latitude": 51.57486,
+      "longitude": 4.635952,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 203,
+      "name": "Fietsenstalling Stationsplein",
+      "latitude": 52.377742,
+      "longitude": 4.898255,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 204,
+      "name": "Fietsenstalling Stationsplein",
+      "latitude": 52.505904,
+      "longitude": 6.090944,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 205,
+      "name": "Fietsenstalling Stationsplein souterain",
+      "latitude": 52.38756,
+      "longitude": 4.637593,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 206,
+      "name": "Fietsenstalling Steenen Trappen",
+      "latitude": 51.193577,
+      "longitude": 5.985638,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 207,
+      "name": "Fietsenstalling Suikervat",
+      "latitude": 52.024157,
+      "longitude": 5.557962,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 208,
+      "name": "Fietsenstalling Tempeliersstraat",
+      "latitude": 52.375278,
+      "longitude": 4.629812,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 209,
+      "name": "Fietsenstalling UBB",
+      "latitude": 52.094702,
+      "longitude": 5.124336,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 210,
+      "name": "Fietsenstalling Vesteplein",
+      "latitude": 52.008811,
+      "longitude": 4.362734,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 211,
+      "name": "Fietsenstalling Voldersgracht",
+      "latitude": 52.012318,
+      "longitude": 4.359302,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 212,
+      "name": "Fietsenstalling Vredenburg",
+      "latitude": 52.092627,
+      "longitude": 5.114138,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 213,
+      "name": "Fietsenstalling Wiebengacomplex",
+      "latitude": 53.227428,
+      "longitude": 6.567135,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 214,
+      "name": "Fietsenstalling Wolvenhoek",
+      "latitude": 51.686592,
+      "longitude": 5.30334,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 215,
+      "name": "Fietsenstalling Zadelstraat",
+      "latitude": 52.089888,
+      "longitude": 5.118376,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 216,
+      "name": "Fietsenstalling Zeedijk Hilversum",
+      "latitude": 52.224066,
+      "longitude": 5.175877,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 217,
+      "name": "Fietsenstalling bushalte",
+      "latitude": 52.379807,
+      "longitude": 5.190507,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 218,
+      "name": "Fietsenstalling de Fietspomp",
+      "latitude": 52.028172,
+      "longitude": 5.086123,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 219,
+      "name": "Fietsenstalling de Snelbinder",
+      "latitude": 52.029151,
+      "longitude": 5.083002,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 220,
+      "name": "Fietsenstalling personeel",
+      "latitude": 51.790965,
+      "longitude": 4.684194,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 221,
+      "name": "Fietsenstalling personeel",
+      "latitude": 52.000311,
+      "longitude": 5.909947,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 222,
+      "name": "Fietsenstalling personeel",
+      "latitude": 53.182535,
+      "longitude": 6.957757,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 223,
+      "name": "Fietsflat Rijnstraat",
+      "latitude": 52.080075,
+      "longitude": 4.324461,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 224,
+      "name": "Fietsgevel Kennermerplein",
+      "latitude": 52.388524,
+      "longitude": 4.637917,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 225,
+      "name": "Fietskluis",
+      "latitude": 52.330063,
+      "longitude": 4.953976,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 226,
+      "name": "Fietsnietjes",
+      "latitude": 52.34708,
+      "longitude": 4.686572,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 227,
+      "name": "Fietsnietjes",
+      "latitude": 52.348047,
+      "longitude": 4.687829,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 228,
+      "name": "Fietsparkeergarage Strawinskylaan",
+      "latitude": 52.341358,
+      "longitude": 4.872993,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 229,
+      "name": "Fietsparkeerplek",
+      "latitude": 52.507959,
+      "longitude": 6.102514,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 230,
+      "name": "Fietspoint",
+      "latitude": 52.209687,
+      "longitude": 5.969227,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 231,
+      "name": "Fietspunt Station Zuid WTC",
+      "latitude": 52.33986,
+      "longitude": 4.873352,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 232,
+      "name": "Fietspunt Vijzelstraat",
+      "latitude": 52.36573,
+      "longitude": 4.892774,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 233,
+      "name": "Fietstransferium",
+      "latitude": 51.84447,
+      "longitude": 5.854104,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 234,
+      "name": "Fietstransferium",
+      "latitude": 52.033826,
+      "longitude": 5.168265,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 235,
+      "name": "Fietstransferium Exloo",
+      "latitude": 52.883521,
+      "longitude": 6.874211,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 236,
+      "name": "Fietstransferium Frederiksoord",
+      "latitude": 52.845796,
+      "longitude": 6.189666,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 237,
+      "name": "Fietstransferium Houten Castellum",
+      "latitude": 52.01731,
+      "longitude": 5.17988,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 238,
+      "name": "Fietstransferium Ruinen",
+      "latitude": 52.763541,
+      "longitude": 6.363536,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 239,
+      "name": "Fietstransferium Veenhuizen",
+      "latitude": 53.043564,
+      "longitude": 6.393316,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 240,
+      "name": "Fort H",
+      "latitude": 52.327109,
+      "longitude": 5.066973,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 241,
+      "name": "Fort bij Jutphaas",
+      "latitude": 52.037188,
+      "longitude": 5.100081,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 242,
+      "name": "G",
+      "latitude": 52.306911,
+      "longitude": 6.869739,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 243,
+      "name": "Gamma",
+      "latitude": 53.009173,
+      "longitude": 6.585647,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 244,
+      "name": "Gasthuisplein",
+      "latitude": 52.511889,
+      "longitude": 6.096443,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 245,
+      "name": "Gele Rijders Plein",
+      "latitude": 51.983349,
+      "longitude": 5.907335,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 246,
+      "name": "Geleen-Oost Station",
+      "latitude": 50.967923,
+      "longitude": 5.843557,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 247,
+      "name": "Gemeentelijke Fietsenstalling Ceintuurbaan",
+      "latitude": 52.352876,
+      "longitude": 4.8905,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 248,
+      "name": "Gemeentelijke Fietsenstalling Ferdinand Bolstraat",
+      "latitude": 52.353433,
+      "longitude": 4.890058,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 249,
+      "name": "Gorlaeus fietsenstalling",
+      "latitude": 52.167986,
+      "longitude": 4.459359,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 250,
+      "name": "Groene Entree Prattenburg",
+      "latitude": 52.00714,
+      "longitude": 5.536762,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 251,
+      "name": "Groene Ree",
+      "latitude": 52.033104,
+      "longitude": 4.737994,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 252,
+      "name": "Groningen Park+Bike",
+      "latitude": 53.237894,
+      "longitude": 6.59374,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 253,
+      "name": "Grote Markt",
+      "latitude": 53.219355,
+      "longitude": 6.566458,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 254,
+      "name": "HC Diemen",
+      "latitude": 52.338244,
+      "longitude": 4.976025,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 255,
+      "name": "Hartebrugkerk",
+      "latitude": 52.160921,
+      "longitude": 4.490628,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 256,
+      "name": "Hedon",
+      "latitude": 52.517258,
+      "longitude": 6.094477,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 257,
+      "name": "Heerlen Woonboulvard Station",
+      "latitude": 50.89607,
+      "longitude": 5.953346,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 258,
+      "name": "Hegstraat",
+      "latitude": 51.254651,
+      "longitude": 5.706554,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 259,
+      "name": "Heineken",
+      "latitude": 51.735364,
+      "longitude": 5.562475,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 260,
+      "name": "Helsdingen",
+      "latitude": 51.986915,
+      "longitude": 5.082732,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 261,
+      "name": "Hely Hub ASML",
+      "latitude": 51.443659,
+      "longitude": 5.48012,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 262,
+      "name": "Hemelrijk",
+      "latitude": 51.63706,
+      "longitude": 5.671621,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 263,
+      "name": "Het Drachtster Lyceum - Fietsenstalling leerlingen",
+      "latitude": 53.111164,
+      "longitude": 6.101614,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 264,
+      "name": "Het Turfschip",
+      "latitude": 51.589231,
+      "longitude": 4.785432,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 265,
+      "name": "Heuvel Fietsenstalling",
+      "latitude": 51.557299,
+      "longitude": 5.090331,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 266,
+      "name": "Hofstraat",
+      "latitude": 52.211642,
+      "longitude": 5.963217,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 267,
+      "name": "Hoogvliet",
+      "latitude": 51.965415,
+      "longitude": 5.657656,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 268,
+      "name": "Houthem-Sint Gerlach",
+      "latitude": 50.873547,
+      "longitude": 5.796073,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 269,
+      "name": "Houtplein",
+      "latitude": 52.375369,
+      "longitude": 4.63132,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 270,
+      "name": "Huurfietsen Donkey Republic",
+      "latitude": 52.066421,
+      "longitude": 5.143375,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 271,
+      "name": "IJsboerderij Labora",
+      "latitude": 53.144331,
+      "longitude": 4.866223,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 272,
+      "name": "IKEA",
+      "latitude": 52.062418,
+      "longitude": 5.100529,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 273,
+      "name": "In de Bende",
+      "latitude": 50.910982,
+      "longitude": 6.034632,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 274,
+      "name": "Insulindeplein",
+      "latitude": 52.402767,
+      "longitude": 5.300419,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 275,
+      "name": "Jaarbeursplein",
+      "latitude": 52.089034,
+      "longitude": 5.107336,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 276,
+      "name": "Kampen Zuid",
+      "latitude": 52.533394,
+      "longitude": 5.913125,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 277,
+      "name": "Karwei",
+      "latitude": 53.010567,
+      "longitude": 6.580079,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 278,
+      "name": "Kelfkensbos",
+      "latitude": 51.846823,
+      "longitude": 5.870007,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 279,
+      "name": "Kraaiennest",
+      "latitude": 52.521693,
+      "longitude": 4.648237,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 280,
+      "name": "Lavendelplantsoen",
+      "latitude": 52.381892,
+      "longitude": 5.19874,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 281,
+      "name": "Lidl",
+      "latitude": 52.132748,
+      "longitude": 5.017494,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 282,
+      "name": "Ligneparking",
+      "latitude": 51.000828,
+      "longitude": 5.86661,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 283,
+      "name": "Lijnbaan",
+      "latitude": 51.923341,
+      "longitude": 4.475747,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 284,
+      "name": "Loonse Molenstraat",
+      "latitude": 51.623569,
+      "longitude": 5.098885,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 285,
+      "name": "Lorentz fietsenstalling",
+      "latitude": 52.166049,
+      "longitude": 4.483796,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 286,
+      "name": "MCA - Fietsenstalling Metiusgracht",
+      "latitude": 52.62958,
+      "longitude": 4.736777,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 287,
+      "name": "Maartenskerk",
+      "latitude": 52.033182,
+      "longitude": 5.344486,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 288,
+      "name": "Maasstad Ziekenhuis",
+      "latitude": 51.880378,
+      "longitude": 4.535622,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 289,
+      "name": "Mariënburg",
+      "latitude": 51.844665,
+      "longitude": 5.866122,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 290,
+      "name": "Markt",
+      "latitude": 51.644843,
+      "longitude": 4.861645,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 291,
+      "name": "Meerpark",
+      "latitude": 52.347168,
+      "longitude": 4.949031,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 292,
+      "name": "Meersen Station",
+      "latitude": 50.882786,
+      "longitude": 5.750148,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 293,
+      "name": "Midden-Heerenduin",
+      "latitude": 52.441771,
+      "longitude": 4.628351,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 294,
+      "name": "Monkeytown Indoor Speelparadijs",
+      "latitude": 52.016264,
+      "longitude": 5.053552,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 295,
+      "name": "NIVON Bosbeek",
+      "latitude": 52.008229,
+      "longitude": 5.733788,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 296,
+      "name": "NS",
+      "latitude": 52.045134,
+      "longitude": 6.102948,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 297,
+      "name": "NS Alexander",
+      "latitude": 51.952195,
+      "longitude": 4.551744,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 298,
+      "name": "NS Fietsenstalling",
+      "latitude": 52.644969,
+      "longitude": 5.053671,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 299,
+      "name": "NS Fietsenstalling",
+      "latitude": 52.733703,
+      "longitude": 6.473394,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 300,
+      "name": "NS-stalling",
+      "latitude": 53.210982,
+      "longitude": 6.56581,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 301,
+      "name": "NS-stalling Centrumzijde",
+      "latitude": 52.166631,
+      "longitude": 4.483167,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 302,
+      "name": "NS-stalling LUMC-zijde",
+      "latitude": 52.166638,
+      "longitude": 4.481834,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 303,
+      "name": "Nieuwe Markt",
+      "latitude": 53.218895,
+      "longitude": 6.569446,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 304,
+      "name": "Noordelijke Stalling",
+      "latitude": 52.017846,
+      "longitude": 4.707138,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 305,
+      "name": "Noorderf",
+      "latitude": 51.596451,
+      "longitude": 4.779261,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 306,
+      "name": "Nuth Station",
+      "latitude": 50.920097,
+      "longitude": 5.892143,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 307,
+      "name": "OBS De Heliotroop",
+      "latitude": 52.382596,
+      "longitude": 5.19751,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 308,
+      "name": "OBS Het Atelier",
+      "latitude": 52.326526,
+      "longitude": 4.958104,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 309,
+      "name": "OV-fiets",
+      "latitude": 50.837586,
+      "longitude": 5.718913,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 310,
+      "name": "OV-fiets bewaakte stalling",
+      "latitude": 52.960707,
+      "longitude": 5.915812,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 311,
+      "name": "Oefenveldje",
+      "latitude": 51.706165,
+      "longitude": 5.395561,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 312,
+      "name": "Onbewaakte Fietsenstalling",
+      "latitude": 51.658996,
+      "longitude": 5.613041,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 313,
+      "name": "Oostelijke Stalling",
+      "latitude": 52.016989,
+      "longitude": 4.707879,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 314,
+      "name": "Oostvaardersplein",
+      "latitude": 52.403602,
+      "longitude": 5.299898,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 315,
+      "name": "Oostwal",
+      "latitude": 51.50499,
+      "longitude": 3.892711,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 316,
+      "name": "Openbare Fietsenstalling",
+      "latitude": 52.216895,
+      "longitude": 6.896297,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 317,
+      "name": "Openbare Fietsenstalling",
+      "latitude": 52.221057,
+      "longitude": 6.892697,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 318,
+      "name": "Openbare Fietsenstalling",
+      "latitude": 52.222591,
+      "longitude": 6.893467,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 319,
+      "name": "Oranjeplein",
+      "latitude": 51.467952,
+      "longitude": 4.657068,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 320,
+      "name": "Oude Boteringestraat",
+      "latitude": 53.219,
+      "longitude": 6.564493,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 321,
+      "name": "Oude Haven",
+      "latitude": 51.888747,
+      "longitude": 5.438838,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 322,
+      "name": "Oude Langendijk",
+      "latitude": 52.012086,
+      "longitude": 4.361209,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 323,
+      "name": "P & R Frieschepalen",
+      "latitude": 53.130597,
+      "longitude": 6.182871,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 324,
+      "name": "P4 West",
+      "latitude": 51.413184,
+      "longitude": 5.458357,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 325,
+      "name": "Pandhuis",
+      "latitude": 52.087445,
+      "longitude": 5.120594,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 326,
+      "name": "Pannekoekenmolen de Graanhalm",
+      "latitude": 51.693826,
+      "longitude": 3.737835,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 327,
+      "name": "Parallelweg",
+      "latitude": 51.911705,
+      "longitude": 4.642366,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 328,
+      "name": "Park & Bike",
+      "latitude": 53.22544,
+      "longitude": 6.616076,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 329,
+      "name": "Parkeerboot Lijnbaansgracht",
+      "latitude": 52.364918,
+      "longitude": 4.881363,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 330,
+      "name": "Parkeerplaats Empese en Tondense Heide",
+      "latitude": 52.145791,
+      "longitude": 6.092559,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 331,
+      "name": "Parkeerplaats Juttersmuseum",
+      "latitude": 53.073431,
+      "longitude": 4.769515,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 332,
+      "name": "Parkeren Bezoekers MCL",
+      "latitude": 53.188719,
+      "longitude": 5.808525,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 333,
+      "name": "Parking Karwei",
+      "latitude": 52.050229,
+      "longitude": 5.122029,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 334,
+      "name": "Parnassia aan zee",
+      "latitude": 52.418028,
+      "longitude": 4.554813,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 335,
+      "name": "Pieter Groen Noordzijde",
+      "latitude": 52.20672,
+      "longitude": 4.427287,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 336,
+      "name": "Pieter Groen Zuid",
+      "latitude": 52.206174,
+      "longitude": 4.42704,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 337,
+      "name": "Pieter Vreedeplein",
+      "latitude": 51.55778,
+      "longitude": 5.087237,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 338,
+      "name": "Plein",
+      "latitude": 52.335246,
+      "longitude": 5.218446,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 339,
+      "name": "Plein 1944",
+      "latitude": 51.845614,
+      "longitude": 5.862783,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 340,
+      "name": "Plus van Limbeek",
+      "latitude": 52.351229,
+      "longitude": 6.666896,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 341,
+      "name": "Pop-Up stalling Springweg",
+      "latitude": 52.088642,
+      "longitude": 5.119711,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 342,
+      "name": "Prins Hendrik hoofdgebouw",
+      "latitude": 51.665088,
+      "longitude": 5.279778,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 343,
+      "name": "Privé fietsenstalling Powerhouse",
+      "latitude": 53.203248,
+      "longitude": 6.591262,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 344,
+      "name": "Promen Fietsenstalling",
+      "latitude": 52.014145,
+      "longitude": 4.710877,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 345,
+      "name": "RUG",
+      "latitude": 53.223577,
+      "longitude": 6.571217,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 346,
+      "name": "Raad voor de Kinderbescherming",
+      "latitude": 52.353677,
+      "longitude": 6.659674,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 347,
+      "name": "Rataplan / OV Fiets",
+      "latitude": 52.670141,
+      "longitude": 4.823928,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 348,
+      "name": "Rijwielhuis",
+      "latitude": 52.348513,
+      "longitude": 5.617895,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 349,
+      "name": "Rsthf 37",
+      "latitude": 52.345312,
+      "longitude": 4.924759,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 350,
+      "name": "SGA fietsenstalling",
+      "latitude": 51.982689,
+      "longitude": 5.926563,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 351,
+      "name": "Saenden",
+      "latitude": 52.442784,
+      "longitude": 4.818386,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 352,
+      "name": "Saenredam College",
+      "latitude": 52.474724,
+      "longitude": 4.798343,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 353,
+      "name": "Salwega Scouting",
+      "latitude": 52.069819,
+      "longitude": 5.133349,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 354,
+      "name": "Schiedam Centrum",
+      "latitude": 51.92182,
+      "longitude": 4.407941,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 355,
+      "name": "Schinkel-Stalling",
+      "latitude": 52.353376,
+      "longitude": 4.854278,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 356,
+      "name": "Schinnen Station",
+      "latitude": 50.938799,
+      "longitude": 5.875118,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 357,
+      "name": "Sijpesteijn",
+      "latitude": 52.091081,
+      "longitude": 5.107877,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 358,
+      "name": "Sint Jorisplein",
+      "latitude": 52.155557,
+      "longitude": 5.385669,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 359,
+      "name": "Speelhuisplein",
+      "latitude": 51.480657,
+      "longitude": 5.65401,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 360,
+      "name": "Speelstad Oranje",
+      "latitude": 52.908391,
+      "longitude": 6.445928,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 361,
+      "name": "Sportpark Reeweg",
+      "latitude": 51.805547,
+      "longitude": 4.695895,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 362,
+      "name": "Sportpark Willem Alexander",
+      "latitude": 51.941,
+      "longitude": 4.359224,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 363,
+      "name": "Stadhuis",
+      "latitude": 51.846044,
+      "longitude": 5.865561,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 364,
+      "name": "Stadhuis",
+      "latitude": 52.215873,
+      "longitude": 5.963538,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 365,
+      "name": "Stadsbalkon",
+      "latitude": 53.211209,
+      "longitude": 6.564407,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 366,
+      "name": "Stadskantoor",
+      "latitude": 51.587227,
+      "longitude": 4.784209,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 367,
+      "name": "Stalling Winkelcentrum",
+      "latitude": 51.567535,
+      "longitude": 4.639192,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 368,
+      "name": "Station",
+      "latitude": 51.498702,
+      "longitude": 3.89077,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 369,
+      "name": "Station Campus",
+      "latitude": 51.99022,
+      "longitude": 4.364725,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 370,
+      "name": "Station Cuijk",
+      "latitude": 51.727446,
+      "longitude": 5.874062,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 371,
+      "name": "Station Ermelo",
+      "latitude": 52.300395,
+      "longitude": 5.613573,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 372,
+      "name": "Station Gilze-Rijen",
+      "latitude": 51.584038,
+      "longitude": 4.924879,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 373,
+      "name": "Station Glanerbrug",
+      "latitude": 52.218809,
+      "longitude": 6.973746,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 374,
+      "name": "Station Hardinxveld-Giessendam",
+      "latitude": 51.830398,
+      "longitude": 4.836237,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 375,
+      "name": "Station Hillegom",
+      "latitude": 52.302696,
+      "longitude": 4.566015,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 376,
+      "name": "Station Muziekwijk",
+      "latitude": 52.368111,
+      "longitude": 5.190993,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 377,
+      "name": "Station Nieuwland",
+      "latitude": 51.922757,
+      "longitude": 4.382643,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 378,
+      "name": "Station's-Hertogenbosch",
+      "latitude": 51.690528,
+      "longitude": 5.295167,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 379,
+      "name": "StationRilland",
+      "latitude": 51.422764,
+      "longitude": 4.161358,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 380,
+      "name": "Stationsfietsenstalling",
+      "latitude": 51.923348,
+      "longitude": 4.469882,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 381,
+      "name": "Stationsfietsenstalling",
+      "latitude": 52.01942,
+      "longitude": 5.549159,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 382,
+      "name": "Stationsplein",
+      "latitude": 52.006613,
+      "longitude": 4.357059,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 383,
+      "name": "Stationsplein",
+      "latitude": 52.2568,
+      "longitude": 6.160866,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 384,
+      "name": "Stationspleinstalling",
+      "latitude": 52.090313,
+      "longitude": 5.111297,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 385,
+      "name": "Stationsstalling Barendrecht",
+      "latitude": 51.853319,
+      "longitude": 4.553853,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 386,
+      "name": "Stationsweg",
+      "latitude": 51.595012,
+      "longitude": 4.781394,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 387,
+      "name": "Stedelijk Dalton Lyceum",
+      "latitude": 51.790161,
+      "longitude": 4.6765,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 388,
+      "name": "Stedelijk Gymnasium Leiden Socrates",
+      "latitude": 52.170201,
+      "longitude": 4.498278,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 389,
+      "name": "Strandslag 28",
+      "latitude": 52.648377,
+      "longitude": 4.628139,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 390,
+      "name": "Strandslag 37",
+      "latitude": 52.567366,
+      "longitude": 4.612488,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 391,
+      "name": "Surfstrand",
+      "latitude": 52.335128,
+      "longitude": 5.206457,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 392,
+      "name": "TESO",
+      "latitude": 52.962582,
+      "longitude": 4.778073,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 393,
+      "name": "Talanta",
+      "latitude": 53.055656,
+      "longitude": 4.808039,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 394,
+      "name": "Taxistandplaats fietsenstalling",
+      "latitude": 52.166314,
+      "longitude": 4.483733,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 395,
+      "name": "Tijdelijke stalling Achterweg",
+      "latitude": 53.209187,
+      "longitude": 6.566258,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 396,
+      "name": "Tilburg Noord",
+      "latitude": 51.56077,
+      "longitude": 5.085229,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 397,
+      "name": "Tilburg Zuid",
+      "latitude": 51.560249,
+      "longitude": 5.085895,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 398,
+      "name": "Tol West",
+      "latitude": 51.801118,
+      "longitude": 4.930863,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 399,
+      "name": "Trafolocatie",
+      "latitude": 52.164668,
+      "longitude": 4.480978,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 400,
+      "name": "UMCG",
+      "latitude": 53.221911,
+      "longitude": 6.577622,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 401,
+      "name": "VGGA",
+      "latitude": 52.344585,
+      "longitude": 4.9487,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 402,
+      "name": "Vaartsche Rijn",
+      "latitude": 52.078433,
+      "longitude": 5.122798,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 403,
+      "name": "Velperbuitensingel",
+      "latitude": 51.983134,
+      "longitude": 5.914899,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 404,
+      "name": "Veluwehal",
+      "latitude": 52.142013,
+      "longitude": 5.585004,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 405,
+      "name": "Vinkendwarsstraat",
+      "latitude": 52.439461,
+      "longitude": 4.820036,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 406,
+      "name": "Volgermeerpolder",
+      "latitude": 52.425143,
+      "longitude": 4.995144,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 407,
+      "name": "Vuurtoren Eierland",
+      "latitude": 53.180927,
+      "longitude": 4.852765,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 408,
+      "name": "Waagstalling",
+      "latitude": 52.159222,
+      "longitude": 4.490573,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 409,
+      "name": "Westerpark West",
+      "latitude": 52.385608,
+      "longitude": 4.854518,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 410,
+      "name": "Westerpark West",
+      "latitude": 52.385803,
+      "longitude": 4.853011,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 411,
+      "name": "Willem Alexander school",
+      "latitude": 52.008163,
+      "longitude": 5.095824,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 412,
+      "name": "Willem Alexander school",
+      "latitude": 52.008474,
+      "longitude": 5.095266,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 413,
+      "name": "Winkelcentrum Moesel",
+      "latitude": 51.243736,
+      "longitude": 5.707818,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 414,
+      "name": "Wolfsbree",
+      "latitude": 52.403273,
+      "longitude": 6.897541,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 415,
+      "name": "Z Stal",
+      "latitude": 52.062102,
+      "longitude": 4.495363,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 416,
+      "name": "Z Stal",
+      "latitude": 52.062956,
+      "longitude": 4.490773,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 417,
+      "name": "Z-stal",
+      "latitude": 52.060894,
+      "longitude": 4.48359,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 418,
+      "name": "Z.V.V. Zaandijk",
+      "latitude": 52.470902,
+      "longitude": 4.818884,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 419,
+      "name": "ZMC",
+      "latitude": 52.45323,
+      "longitude": 4.826384,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 420,
+      "name": "Zeezijde fietsenstalling",
+      "latitude": 52.166716,
+      "longitude": 4.481601,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 421,
+      "name": "Ziekenhuis fietsenstalling",
+      "latitude": 52.627261,
+      "longitude": 4.736636,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 422,
+      "name": "Zuidhorst-Meander",
+      "latitude": 52.236899,
+      "longitude": 6.859529,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 423,
+      "name": "Zwarte Pad",
+      "latitude": 52.118861,
+      "longitude": 4.291864,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 424,
+      "name": "Zwembad",
+      "latitude": 51.834475,
+      "longitude": 4.694276,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 425,
+      "name": "Zwembad Het Hofbad",
+      "latitude": 52.052991,
+      "longitude": 4.382012,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 426,
+      "name": "Zwembad Veluwehal",
+      "latitude": 52.14312,
+      "longitude": 5.585131,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 427,
+      "name": "Zwerfkei",
+      "latitude": 52.077854,
+      "longitude": 4.897907,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 428,
+      "name": "Zwolle Hanzeland",
+      "latitude": 52.50347,
+      "longitude": 6.089481,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 429,
+      "name": "de Ark",
+      "latitude": 51.996288,
+      "longitude": 5.10472,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 430,
+      "name": "docenten",
+      "latitude": 51.531,
+      "longitude": 5.059062,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 431,
+      "name": "fietsenstalling radiotherapie",
+      "latitude": 52.087258,
+      "longitude": 5.182422,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 432,
+      "name": "moped",
+      "latitude": 52.34351,
+      "longitude": 4.948025,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 433,
+      "name": "oplaadpunt (fiets / telefoon, gratis)",
+      "latitude": 51.777693,
+      "longitude": 5.93461,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 434,
+      "name": "station Heemstede",
+      "latitude": 52.360237,
+      "longitude": 4.606944,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 435,
+      "name": "stationsfietsenstalling",
+      "latitude": 51.807803,
+      "longitude": 4.666374,
+      "osm_klasse": "amenity=bicycle_parking"
+    },
+    {
+      "id": 436,
+      "name": "voorne-putten werkt",
+      "latitude": 51.837812,
+      "longitude": 4.331947,
+      "osm_klasse": "amenity=bicycle_parking"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: bicycle parking (amenity=bicycle_parking) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=bicycle_parking in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 436 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: bicycle parking (amenity=bicycle_parking) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: bicycle parking (amenity=bicycle_parking) — 436 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 436 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

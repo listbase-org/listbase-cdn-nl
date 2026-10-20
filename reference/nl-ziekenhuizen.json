@@ -1,0 +1,926 @@
+{
+  "id": "nl-ziekenhuizen",
+  "name": "Netherlands Ziekenhuizen (hospitals)",
+  "title": "Netherlands Ziekenhuizen (hospitals)",
+  "description": "Ziekenhuizen in the Netherlands derived from OpenStreetMap POI exports (EU-POIS/NL, quadkey-tiled). Named features only (amenity=hospital), filtered to the European Netherlands bounding box (lat 50.7–53.62, lon 3.3–7.25) to exclude cross-border tile bleed, deduplicated on (name, ~100 m coordinates), coordinates to 6 dp (WGS84), sorted by name. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 177,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Admiraal De Ruyter Ziekenhuis",
+      "latitude": 51.451322,
+      "longitude": 3.566387
+    },
+    {
+      "name": "Admiraal De Ruyter Ziekenhuis",
+      "latitude": 51.656402,
+      "longitude": 3.928352
+    },
+    {
+      "name": "Adrz",
+      "latitude": 51.48482,
+      "longitude": 3.90727
+    },
+    {
+      "name": "Albert Schweitzer Ziekenhuis, loc. Dordwijk",
+      "latitude": 51.791685,
+      "longitude": 4.682018
+    },
+    {
+      "name": "Albert Schweitzer Ziekenhuis, loc. Zwijndrecht",
+      "latitude": 51.826497,
+      "longitude": 4.629365
+    },
+    {
+      "name": "Alrijne Alphen aan den Rijn",
+      "latitude": 52.142673,
+      "longitude": 4.661279
+    },
+    {
+      "name": "Alrijne Ziekenhuis Leiden",
+      "latitude": 52.173961,
+      "longitude": 4.482063
+    },
+    {
+      "name": "Alrijne Ziekenhuis Leiderdorp",
+      "latitude": 52.15687,
+      "longitude": 4.540916
+    },
+    {
+      "name": "Amphia",
+      "latitude": 51.647672,
+      "longitude": 4.870159
+    },
+    {
+      "name": "Amphia",
+      "latitude": 51.648364,
+      "longitude": 4.87178
+    },
+    {
+      "name": "Amphia Breda",
+      "latitude": 51.581828,
+      "longitude": 4.798311
+    },
+    {
+      "name": "Amsterdam UMC - locatie VUMC",
+      "latitude": 52.334985,
+      "longitude": 4.859627
+    },
+    {
+      "name": "Amsterdam UMC locatie AMC",
+      "latitude": 52.292128,
+      "longitude": 4.956898
+    },
+    {
+      "name": "Anna Ziekenhuis",
+      "latitude": 51.416844,
+      "longitude": 5.477404
+    },
+    {
+      "name": "Anna Ziekenhuis",
+      "latitude": 51.419851,
+      "longitude": 5.558559
+    },
+    {
+      "name": "Annadal Kliniek",
+      "latitude": 50.847919,
+      "longitude": 5.668827
+    },
+    {
+      "name": "Antes klinieken Poortugaal",
+      "latitude": 51.847591,
+      "longitude": 4.396272
+    },
+    {
+      "name": "Antoni van Leeuwenhoek",
+      "latitude": 52.350565,
+      "longitude": 4.825715
+    },
+    {
+      "name": "Antonius",
+      "latitude": 51.324962,
+      "longitude": 3.481591
+    },
+    {
+      "name": "Antonius Ziekenhuis",
+      "latitude": 53.034989,
+      "longitude": 5.642183
+    },
+    {
+      "name": "Basalt revalidatie Den Haag",
+      "latitude": 52.041432,
+      "longitude": 4.267876
+    },
+    {
+      "name": "Basalt Revalidatiecentrum",
+      "latitude": 52.170263,
+      "longitude": 4.468987
+    },
+    {
+      "name": "Beatrixziekenhuis",
+      "latitude": 51.839299,
+      "longitude": 4.957295
+    },
+    {
+      "name": "Bernhoven",
+      "latitude": 51.673713,
+      "longitude": 5.60699
+    },
+    {
+      "name": "BovenIJ Ziekenhuis",
+      "latitude": 52.404744,
+      "longitude": 4.921191
+    },
+    {
+      "name": "Bravis Ziekenhuis - locatie Bergen op Zoom",
+      "latitude": 51.48665,
+      "longitude": 4.314408
+    },
+    {
+      "name": "Bravis Ziekenhuis locatie Roosendaal",
+      "latitude": 51.528523,
+      "longitude": 4.437486
+    },
+    {
+      "name": "Canisius-Wilhelmina Ziekenhuis",
+      "latitude": 51.817529,
+      "longitude": 5.830345
+    },
+    {
+      "name": "Catharina Ziekenhuis",
+      "latitude": 51.465717,
+      "longitude": 5.472767
+    },
+    {
+      "name": "Centraal Dierenlaboratorium",
+      "latitude": 51.824533,
+      "longitude": 5.864933
+    },
+    {
+      "name": "De Gezichtskliniek",
+      "latitude": 51.913204,
+      "longitude": 4.485017
+    },
+    {
+      "name": "De Honte",
+      "latitude": 51.308578,
+      "longitude": 3.860719
+    },
+    {
+      "name": "De Hospicegroep Alphen",
+      "latitude": 52.146045,
+      "longitude": 4.679483
+    },
+    {
+      "name": "de Waterpoort",
+      "latitude": 51.881612,
+      "longitude": 5.519074
+    },
+    {
+      "name": "Deventer Ziekenhuis",
+      "latitude": 52.260699,
+      "longitude": 6.191167
+    },
+    {
+      "name": "DG&J-ZHZ",
+      "latitude": 51.791506,
+      "longitude": 4.680169
+    },
+    {
+      "name": "Diakonessenhuis",
+      "latitude": 52.081494,
+      "longitude": 5.138519
+    },
+    {
+      "name": "Diakonessenhuis",
+      "latitude": 52.091271,
+      "longitude": 5.262152
+    },
+    {
+      "name": "Dialyse afd. Radboud UMC",
+      "latitude": 51.822696,
+      "longitude": 5.861128
+    },
+    {
+      "name": "Dijklander Ziekenhuis",
+      "latitude": 52.500202,
+      "longitude": 4.962698
+    },
+    {
+      "name": "Dijklander Ziekenhuis",
+      "latitude": 52.647745,
+      "longitude": 5.053925
+    },
+    {
+      "name": "Elkerliek Ziekenhuis",
+      "latitude": 51.468218,
+      "longitude": 5.79046
+    },
+    {
+      "name": "Elkerliek Ziekenhuis",
+      "latitude": 51.481813,
+      "longitude": 5.642405
+    },
+    {
+      "name": "Erasmus MC - Sophia",
+      "latitude": 51.912014,
+      "longitude": 4.469995
+    },
+    {
+      "name": "Erasmus Medisch Centrum",
+      "latitude": 51.911462,
+      "longitude": 4.468659
+    },
+    {
+      "name": "ETZ Elisabeth Ziekenhuis",
+      "latitude": 51.539995,
+      "longitude": 5.104122
+    },
+    {
+      "name": "ETZ TweeSteden ziekenhuis",
+      "latitude": 51.577245,
+      "longitude": 5.059837
+    },
+    {
+      "name": "ETZ TweeSteden ziekenhuis",
+      "latitude": 51.577604,
+      "longitude": 5.058296
+    },
+    {
+      "name": "Flevoziekenhuis",
+      "latitude": 52.368928,
+      "longitude": 5.223664
+    },
+    {
+      "name": "Franciscus Gasthuis",
+      "latitude": 51.941554,
+      "longitude": 4.463303
+    },
+    {
+      "name": "Franciscus Maassluis",
+      "latitude": 51.930405,
+      "longitude": 4.24255
+    },
+    {
+      "name": "Franciscus Vlietland",
+      "latitude": 51.922607,
+      "longitude": 4.380273
+    },
+    {
+      "name": "Frisius Medisch Centrum Harlingen",
+      "latitude": 53.162458,
+      "longitude": 5.430086
+    },
+    {
+      "name": "Frisius Medisch Centrum Heerenveen",
+      "latitude": 52.966001,
+      "longitude": 5.917752
+    },
+    {
+      "name": "Frisius Medisch Centrum Leeuwarden",
+      "latitude": 53.189236,
+      "longitude": 5.803606
+    },
+    {
+      "name": "Gelre Diagnostisch Centrum",
+      "latitude": 52.211331,
+      "longitude": 5.933973
+    },
+    {
+      "name": "Gelre ziekenhuizen",
+      "latitude": 52.181312,
+      "longitude": 5.947129
+    },
+    {
+      "name": "Gelre Zutphen",
+      "latitude": 52.12298,
+      "longitude": 6.217764
+    },
+    {
+      "name": "Gezondheidscentrum De Grote Beek",
+      "latitude": 51.46798,
+      "longitude": 5.44156
+    },
+    {
+      "name": "Gezondheidscentrum De Grote Beek",
+      "latitude": 51.468676,
+      "longitude": 5.440427
+    },
+    {
+      "name": "GGD Haaglanden",
+      "latitude": 52.075239,
+      "longitude": 4.301388
+    },
+    {
+      "name": "GGZ Delfland",
+      "latitude": 52.022066,
+      "longitude": 4.360198
+    },
+    {
+      "name": "GGZ Rivierduinen",
+      "latitude": 52.172081,
+      "longitude": 4.45982
+    },
+    {
+      "name": "GGZ Rivierduinen",
+      "latitude": 52.175032,
+      "longitude": 4.467177
+    },
+    {
+      "name": "Groene Hart Ziekenhuis",
+      "latitude": 52.02179,
+      "longitude": 4.705928
+    },
+    {
+      "name": "Groene Hart Ziekenhuis",
+      "latitude": 52.088048,
+      "longitude": 4.748723
+    },
+    {
+      "name": "HagaZiekenhuis Juliana Kinderziekenhuis",
+      "latitude": 52.055139,
+      "longitude": 4.264032
+    },
+    {
+      "name": "HagaZiekenhuis locatie Leyweg",
+      "latitude": 52.055795,
+      "longitude": 4.263207
+    },
+    {
+      "name": "HagaZiekenhuis Zoetermeer",
+      "latitude": 52.068889,
+      "longitude": 4.499596
+    },
+    {
+      "name": "Heliomare",
+      "latitude": 52.497355,
+      "longitude": 4.593605
+    },
+    {
+      "name": "Het Ooghuis",
+      "latitude": 51.915786,
+      "longitude": 4.480151
+    },
+    {
+      "name": "Het Oogziekenhuis",
+      "latitude": 51.915031,
+      "longitude": 4.480033
+    },
+    {
+      "name": "HMC Antoniushove",
+      "latitude": 52.092662,
+      "longitude": 4.383689
+    },
+    {
+      "name": "HMC Bronovo",
+      "latitude": 52.101589,
+      "longitude": 4.318083
+    },
+    {
+      "name": "HMC Westeinde",
+      "latitude": 52.074002,
+      "longitude": 4.299787
+    },
+    {
+      "name": "Hospice",
+      "latitude": 52.264949,
+      "longitude": 6.764076
+    },
+    {
+      "name": "IJsselland Ziekenhuis",
+      "latitude": 51.938915,
+      "longitude": 4.562998
+    },
+    {
+      "name": "Ikazia Ziekenhuis",
+      "latitude": 51.885844,
+      "longitude": 4.492961
+    },
+    {
+      "name": "Ipse de Bruggen - SGLVG+",
+      "latitude": 51.846139,
+      "longitude": 4.387154
+    },
+    {
+      "name": "Isala",
+      "latitude": 52.512471,
+      "longitude": 6.123584
+    },
+    {
+      "name": "Isala Meppel",
+      "latitude": 52.69032,
+      "longitude": 6.213535
+    },
+    {
+      "name": "Jeroen Bosch Ziekenhuis",
+      "latitude": 51.68518,
+      "longitude": 5.276192
+    },
+    {
+      "name": "Jeroen Bosch, locatie Liduina",
+      "latitude": 51.594005,
+      "longitude": 5.320951
+    },
+    {
+      "name": "Kliniek Somatische zorg en Ouderenpsychiatrie Zuidlaren",
+      "latitude": 53.087247,
+      "longitude": 6.671895
+    },
+    {
+      "name": "Langdurige Forensisch Psychiatrische Zorg Zeeland",
+      "latitude": 51.68327,
+      "longitude": 5.658861
+    },
+    {
+      "name": "Laurentius Ziekenhuis",
+      "latitude": 51.191668,
+      "longitude": 5.999954
+    },
+    {
+      "name": "Leids Universitair Medisch Centrum",
+      "latitude": 52.165642,
+      "longitude": 4.477695
+    },
+    {
+      "name": "Lentis Zuidlaren",
+      "latitude": 53.084617,
+      "longitude": 6.672154
+    },
+    {
+      "name": "Liduina",
+      "latitude": 51.287076,
+      "longitude": 4.050833
+    },
+    {
+      "name": "Liesbreukcentrum Nederland",
+      "latitude": 52.091511,
+      "longitude": 5.262567
+    },
+    {
+      "name": "LUMC Curium",
+      "latitude": 52.172567,
+      "longitude": 4.456714
+    },
+    {
+      "name": "Maasstad Ziekenhuis",
+      "latitude": 51.878917,
+      "longitude": 4.535833
+    },
+    {
+      "name": "Maastricht UMC+",
+      "latitude": 50.83446,
+      "longitude": 5.71297
+    },
+    {
+      "name": "Maasziekenhuis Pantein",
+      "latitude": 51.663559,
+      "longitude": 5.940355
+    },
+    {
+      "name": "Martini Ziekenhuis",
+      "latitude": 53.191314,
+      "longitude": 6.551189
+    },
+    {
+      "name": "Meander Medisch Centrum Amersfoort",
+      "latitude": 52.171132,
+      "longitude": 5.370134
+    },
+    {
+      "name": "Meander Medisch Centrum Baarn",
+      "latitude": 52.214664,
+      "longitude": 5.276862
+    },
+    {
+      "name": "Medisch Spectrum Twente",
+      "latitude": 52.216119,
+      "longitude": 6.892162
+    },
+    {
+      "name": "Medish Centrum Maastricht Annadal",
+      "latitude": 50.848258,
+      "longitude": 5.668739
+    },
+    {
+      "name": "MST Oldenzaal",
+      "latitude": 52.308291,
+      "longitude": 6.93111
+    },
+    {
+      "name": "Máxima Medisch Centrum",
+      "latitude": 51.406153,
+      "longitude": 5.419788
+    },
+    {
+      "name": "Máxima Medisch Centrum Eindhoven",
+      "latitude": 51.45409,
+      "longitude": 5.487426
+    },
+    {
+      "name": "Nij Smellinghe",
+      "latitude": 53.100168,
+      "longitude": 6.11161
+    },
+    {
+      "name": "Noordwest Ziekenhuisgroep",
+      "latitude": 52.669159,
+      "longitude": 4.822931
+    },
+    {
+      "name": "Noordwest Ziekenhuisgroep Den Helder",
+      "latitude": 52.958137,
+      "longitude": 4.74453
+    },
+    {
+      "name": "Noordwest Ziekenhuisgroep locatie Alkmaar",
+      "latitude": 52.628453,
+      "longitude": 4.735506
+    },
+    {
+      "name": "NWZ kliniek + Starlet DC",
+      "latitude": 52.783285,
+      "longitude": 4.807611
+    },
+    {
+      "name": "OLVG West",
+      "latitude": 52.37103,
+      "longitude": 4.839967
+    },
+    {
+      "name": "OLVG, locatie Oost",
+      "latitude": 52.35852,
+      "longitude": 4.915688
+    },
+    {
+      "name": "Ommelander Ziekenhuis Groningen",
+      "latitude": 53.18338,
+      "longitude": 6.959297
+    },
+    {
+      "name": "Parnassia",
+      "latitude": 52.044166,
+      "longitude": 4.212683
+    },
+    {
+      "name": "Parnassia psycho-medisch centrum",
+      "latitude": 52.045378,
+      "longitude": 4.209519
+    },
+    {
+      "name": "Parnassia psycho-medisch centrum",
+      "latitude": 52.0609,
+      "longitude": 4.249841
+    },
+    {
+      "name": "Pluryn Zeist",
+      "latitude": 52.096902,
+      "longitude": 5.258276
+    },
+    {
+      "name": "Polikliniek",
+      "latitude": 52.200423,
+      "longitude": 4.75343
+    },
+    {
+      "name": "Polikliniek",
+      "latitude": 52.551616,
+      "longitude": 5.919334
+    },
+    {
+      "name": "Polikliniek CWZ de Waalsprong",
+      "latitude": 51.881991,
+      "longitude": 5.845308
+    },
+    {
+      "name": "Polikliniek CWZ Druten",
+      "latitude": 51.888014,
+      "longitude": 5.615048
+    },
+    {
+      "name": "Polikliniek Jeroen Bosch Ziekenhuis",
+      "latitude": 51.713645,
+      "longitude": 5.370334
+    },
+    {
+      "name": "Polikliniek Kralingen",
+      "latitude": 51.924784,
+      "longitude": 4.515642
+    },
+    {
+      "name": "Prinses Máxima Centrum Utrecht",
+      "latitude": 52.09022,
+      "longitude": 5.183842
+    },
+    {
+      "name": "Pro Persona GGZ",
+      "latitude": 51.997734,
+      "longitude": 5.91153
+    },
+    {
+      "name": "PsyQ",
+      "latitude": 52.07425,
+      "longitude": 4.298734
+    },
+    {
+      "name": "Radboud Universitair Medisch Centrum",
+      "latitude": 51.82343,
+      "longitude": 5.863543
+    },
+    {
+      "name": "Radiotherapiegroep",
+      "latitude": 52.00138,
+      "longitude": 5.908168
+    },
+    {
+      "name": "Reade (JBI)",
+      "latitude": 52.370583,
+      "longitude": 4.844506
+    },
+    {
+      "name": "Regionaal Medisch Centrum Blaricum",
+      "latitude": 52.267705,
+      "longitude": 5.206111
+    },
+    {
+      "name": "Reinier de Graaf Gasthuis",
+      "latitude": 51.997257,
+      "longitude": 4.337966
+    },
+    {
+      "name": "Rijnstate Arnhem",
+      "latitude": 52.000488,
+      "longitude": 5.909067
+    },
+    {
+      "name": "Rijnstate Elst",
+      "latitude": 51.917046,
+      "longitude": 5.855963
+    },
+    {
+      "name": "Rijnstate Ziekenhuis Zevenaar",
+      "latitude": 51.9422,
+      "longitude": 6.070731
+    },
+    {
+      "name": "Rode Kruis Ziekenhuis",
+      "latitude": 52.479437,
+      "longitude": 4.650801
+    },
+    {
+      "name": "Rode Kruis Ziekenhuis, Buitenpolikliniek Heemskerk",
+      "latitude": 52.518999,
+      "longitude": 4.676057
+    },
+    {
+      "name": "Saxenburgh Medisch Centrum",
+      "latitude": 52.572565,
+      "longitude": 6.632045
+    },
+    {
+      "name": "Scheper Ziekenhuis",
+      "latitude": 52.786062,
+      "longitude": 6.912829
+    },
+    {
+      "name": "Sint Antonius Woerden",
+      "latitude": 52.079241,
+      "longitude": 4.890736
+    },
+    {
+      "name": "Sint Antonius Ziekenhuis Nieuwegein",
+      "latitude": 52.024942,
+      "longitude": 5.081324
+    },
+    {
+      "name": "Sint Antonius Ziekenhuis Utrecht",
+      "latitude": 52.102713,
+      "longitude": 5.058575
+    },
+    {
+      "name": "Sint Jans Gasthuis",
+      "latitude": 51.254646,
+      "longitude": 5.713251
+    },
+    {
+      "name": "Sint Maartenskliniek Nijmegen",
+      "latitude": 51.83356,
+      "longitude": 5.899554
+    },
+    {
+      "name": "Slingeland Ziekenhuis",
+      "latitude": 51.975655,
+      "longitude": 6.286052
+    },
+    {
+      "name": "Slingeland Ziekenhuis Locatie Gezellenlaan",
+      "latitude": 51.954382,
+      "longitude": 6.301253
+    },
+    {
+      "name": "Spaarne Gasthuis Haarlem-Noord",
+      "latitude": 52.422595,
+      "longitude": 4.650467
+    },
+    {
+      "name": "Spaarne Gasthuis Hoofddorp",
+      "latitude": 52.323498,
+      "longitude": 4.653032
+    },
+    {
+      "name": "Spaarne Gasthuis Zuid",
+      "latitude": 52.366561,
+      "longitude": 4.651597
+    },
+    {
+      "name": "Spijkenisse Medisch Centrum",
+      "latitude": 51.847111,
+      "longitude": 4.33733
+    },
+    {
+      "name": "St. Jansdal Polikliniek",
+      "latitude": 52.504286,
+      "longitude": 5.477045
+    },
+    {
+      "name": "Stadskliniek Utrecht",
+      "latitude": 52.095303,
+      "longitude": 5.134745
+    },
+    {
+      "name": "Streekziekenhuis Koningin Beatrix",
+      "latitude": 51.978403,
+      "longitude": 6.700328
+    },
+    {
+      "name": "Streekziekenhuis Koningin Beatrix",
+      "latitude": 51.978614,
+      "longitude": 6.701427
+    },
+    {
+      "name": "Tergooi MC",
+      "latitude": 52.2147,
+      "longitude": 5.200802
+    },
+    {
+      "name": "Tergooi MC",
+      "latitude": 52.216023,
+      "longitude": 5.201398
+    },
+    {
+      "name": "Treant Refaja Ziekenhuis",
+      "latitude": 53.001682,
+      "longitude": 6.935776
+    },
+    {
+      "name": "Tweesteden Ziekenhuis Waalwijk",
+      "latitude": 51.68599,
+      "longitude": 5.053336
+    },
+    {
+      "name": "U-center",
+      "latitude": 50.772774,
+      "longitude": 5.898554
+    },
+    {
+      "name": "UMCG-Beatrixoord",
+      "latitude": 53.182986,
+      "longitude": 6.598474
+    },
+    {
+      "name": "Universitair Medisch Centrum Groningen",
+      "latitude": 53.223342,
+      "longitude": 6.573369
+    },
+    {
+      "name": "Universitair Medisch Centrum Utrecht",
+      "latitude": 52.086716,
+      "longitude": 5.180176
+    },
+    {
+      "name": "Van der Hoeven Kliniek",
+      "latitude": 52.104944,
+      "longitude": 5.111933
+    },
+    {
+      "name": "Van der Hoeven Kliniek (De Wierde)",
+      "latitude": 52.105492,
+      "longitude": 5.113256
+    },
+    {
+      "name": "Van Weel-Bethesda Ziekenhuis",
+      "latitude": 51.75014,
+      "longitude": 4.102044
+    },
+    {
+      "name": "Veldwijk",
+      "latitude": 52.301567,
+      "longitude": 5.608804
+    },
+    {
+      "name": "VieCuri",
+      "latitude": 51.357909,
+      "longitude": 6.153684
+    },
+    {
+      "name": "VieCuri Medisch Centrum locatie Venray",
+      "latitude": 51.527496,
+      "longitude": 5.960658
+    },
+    {
+      "name": "Wilhelmina Kinderziekenhuis (WKZ)",
+      "latitude": 52.089464,
+      "longitude": 5.181182
+    },
+    {
+      "name": "Wilhelmina Ziekenhuis",
+      "latitude": 52.983821,
+      "longitude": 6.564862
+    },
+    {
+      "name": "Zaans Medisch Centrum",
+      "latitude": 52.453302,
+      "longitude": 4.825689
+    },
+    {
+      "name": "ZGT Almelo",
+      "latitude": 52.337155,
+      "longitude": 6.640803
+    },
+    {
+      "name": "ZGT Hengelo",
+      "latitude": 52.263175,
+      "longitude": 6.770632
+    },
+    {
+      "name": "Ziekenhuis Amstelland",
+      "latitude": 52.293828,
+      "longitude": 4.873525
+    },
+    {
+      "name": "Ziekenhuis Bethesda",
+      "latitude": 52.727147,
+      "longitude": 6.460456
+    },
+    {
+      "name": "Ziekenhuis Gelderse Vallei",
+      "latitude": 52.022389,
+      "longitude": 5.645897
+    },
+    {
+      "name": "Ziekenhuis Rivierenland",
+      "latitude": 51.890364,
+      "longitude": 5.415719
+    },
+    {
+      "name": "Ziekenhuis St. Jansdal",
+      "latitude": 52.342004,
+      "longitude": 5.616592
+    },
+    {
+      "name": "Zorgcentrum Martinus",
+      "latitude": 51.254757,
+      "longitude": 5.710275
+    },
+    {
+      "name": "Zuyderland",
+      "latitude": 50.870077,
+      "longitude": 5.976695
+    },
+    {
+      "name": "Zuyderland",
+      "latitude": 50.984171,
+      "longitude": 5.842386
+    }
+  ],
+  "meta": {
+    "title": "Netherlands Ziekenhuizen (hospitals) - Gratis downloaden",
+    "description": "Ziekenhuizen in the Netherlands derived from OpenStreetMap POI exports (EU-POIS/NL, quadkey-tiled). Named features only (amenity=hospital), filtered to the European Netherlands bounding box (lat 50.7–53.62, lon 3.3–7.25) to exclude cross-border tile bleed, deduplicated on (name, ~100 m coordinates), coordinates to 6 dp (WGS84), sorted by name. Native Dutch names preserved (ensure_ascii=False). Bevat 177 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands Ziekenhuizen (hospitals) | ListBase",
+    "seo_description": "Downloaden Netherlands Ziekenhuizen (hospitals) — 177 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 177 records / 3 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

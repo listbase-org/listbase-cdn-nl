@@ -1,0 +1,2172 @@
+{
+  "id": "nl-osm-natural-wetland",
+  "name": "Netherlands OSM: wetland (natural=wetland)",
+  "title": "Netherlands OSM: wetland (natural=wetland)",
+  "description": "Named OpenStreetMap features tagged natural=wetland in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 303,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Groote Veen",
+      "latitude": 52.92471,
+      "longitude": 6.33205,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 2,
+      "name": "4e Slenk",
+      "latitude": 53.488448,
+      "longitude": 6.262437,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 3,
+      "name": "Aardappelenbult",
+      "latitude": 51.805772,
+      "longitude": 3.818598,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 4,
+      "name": "Achterste Goor",
+      "latitude": 52.114204,
+      "longitude": 6.483272,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 5,
+      "name": "Agger",
+      "latitude": 51.422306,
+      "longitude": 4.289918,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 6,
+      "name": "Amelanderwad",
+      "latitude": 53.422285,
+      "longitude": 5.893745,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 7,
+      "name": "Andel Bult",
+      "latitude": 53.439922,
+      "longitude": 6.500317,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 8,
+      "name": "Aschbroek",
+      "latitude": 51.366531,
+      "longitude": 6.022029,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 9,
+      "name": "Asserveen",
+      "latitude": 53.056067,
+      "longitude": 6.48121,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 10,
+      "name": "Balgzand",
+      "latitude": 52.929748,
+      "longitude": 4.853852,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 11,
+      "name": "Ballastplaat",
+      "latitude": 53.168893,
+      "longitude": 4.931154,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 12,
+      "name": "Ballastplaat",
+      "latitude": 53.258345,
+      "longitude": 5.444146,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 13,
+      "name": "Ballastplaat",
+      "latitude": 53.387342,
+      "longitude": 6.228574,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 14,
+      "name": "Ballumerbocht",
+      "latitude": 53.439763,
+      "longitude": 5.725491,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 15,
+      "name": "Bathse Schor",
+      "latitude": 51.404855,
+      "longitude": 4.225217,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 16,
+      "name": "Beelestukken",
+      "latitude": 53.159168,
+      "longitude": 6.523928,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 17,
+      "name": "Bergboezem",
+      "latitude": 53.201548,
+      "longitude": 6.424284,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 18,
+      "name": "Bergboezem",
+      "latitude": 53.204042,
+      "longitude": 6.417724,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 19,
+      "name": "Beunakker",
+      "latitude": 52.673754,
+      "longitude": 4.816444,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 20,
+      "name": "Biezelingsche Ham",
+      "latitude": 51.446894,
+      "longitude": 3.925504,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 21,
+      "name": "Bijenkamp",
+      "latitude": 52.986381,
+      "longitude": 5.408517,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 22,
+      "name": "Binnenkwelder",
+      "latitude": 53.479046,
+      "longitude": 6.215288,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 23,
+      "name": "Blanke Slikken",
+      "latitude": 51.740652,
+      "longitude": 4.285462,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 24,
+      "name": "Blankeveen",
+      "latitude": 52.82042,
+      "longitude": 6.452614,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 25,
+      "name": "Blankeveen",
+      "latitude": 52.905066,
+      "longitude": 6.654831,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 26,
+      "name": "Bloeidaal",
+      "latitude": 52.163554,
+      "longitude": 5.431782,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 27,
+      "name": "Boereplaat",
+      "latitude": 52.966564,
+      "longitude": 5.016669,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 28,
+      "name": "Bosch",
+      "latitude": 53.040575,
+      "longitude": 4.925352,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 29,
+      "name": "Boschplaat",
+      "latitude": 53.426217,
+      "longitude": 5.475115,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 30,
+      "name": "Brakzand",
+      "latitude": 53.426961,
+      "longitude": 6.153254,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 31,
+      "name": "Breehorn",
+      "latitude": 52.928525,
+      "longitude": 4.947526,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 32,
+      "name": "Broekland",
+      "latitude": 53.105599,
+      "longitude": 6.454148,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 33,
+      "name": "Brouwerplaat",
+      "latitude": 51.433805,
+      "longitude": 3.940915,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 34,
+      "name": "Bultje van Glorie",
+      "latitude": 53.452586,
+      "longitude": 6.000539,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 35,
+      "name": "Burgzand",
+      "latitude": 53.042872,
+      "longitude": 4.934047,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 36,
+      "name": "Cupido's Polder",
+      "latitude": 53.440945,
+      "longitude": 5.503027,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 37,
+      "name": "Dalerpeel",
+      "latitude": 52.675828,
+      "longitude": 6.639612,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 38,
+      "name": "De Bol",
+      "latitude": 51.391865,
+      "longitude": 3.627313,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 39,
+      "name": "De Eilandjes",
+      "latitude": 51.491241,
+      "longitude": 4.019773,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 40,
+      "name": "De Groede",
+      "latitude": 53.410706,
+      "longitude": 5.448584,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 41,
+      "name": "De Gruyts",
+      "latitude": 53.296994,
+      "longitude": 6.212005,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 42,
+      "name": "De Heest",
+      "latitude": 53.039538,
+      "longitude": 6.641617,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 43,
+      "name": "De Kampjes",
+      "latitude": 53.178179,
+      "longitude": 6.505715,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 44,
+      "name": "De Marsen",
+      "latitude": 52.766872,
+      "longitude": 6.673891,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 45,
+      "name": "De Plaat",
+      "latitude": 53.363111,
+      "longitude": 5.229328,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 46,
+      "name": "De Poort",
+      "latitude": 52.827234,
+      "longitude": 6.432339,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 47,
+      "name": "De Punt",
+      "latitude": 53.361868,
+      "longitude": 6.166694,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 48,
+      "name": "De Rel",
+      "latitude": 52.261481,
+      "longitude": 4.742158,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 49,
+      "name": "De Schorren",
+      "latitude": 53.133913,
+      "longitude": 4.903619,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 50,
+      "name": "De Slufter",
+      "latitude": 51.45094,
+      "longitude": 3.650549,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 51,
+      "name": "De Slufter",
+      "latitude": 53.140646,
+      "longitude": 4.816799,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 52,
+      "name": "De Tweelingen",
+      "latitude": 52.88462,
+      "longitude": 6.697898,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 53,
+      "name": "De Tweelingen",
+      "latitude": 52.886457,
+      "longitude": 6.701209,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 54,
+      "name": "De Vennep",
+      "latitude": 52.262227,
+      "longitude": 4.743632,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 55,
+      "name": "De Vinger",
+      "latitude": 52.436591,
+      "longitude": 5.271505,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 56,
+      "name": "De Witten",
+      "latitude": 52.692833,
+      "longitude": 6.681015,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 57,
+      "name": "Dennekamp",
+      "latitude": 52.765907,
+      "longitude": 6.663545,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 58,
+      "name": "Diepbroek",
+      "latitude": 51.407812,
+      "longitude": 6.187468,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 59,
+      "name": "Dollardmond / Dollartmund",
+      "latitude": 53.310299,
+      "longitude": 7.087189,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 60,
+      "name": "Drooge Meerven",
+      "latitude": 51.375395,
+      "longitude": 5.529289,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 61,
+      "name": "Dwars in de Weg",
+      "latitude": 51.623046,
+      "longitude": 4.113991,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 62,
+      "name": "Eemshornplaat / Emshörnplate",
+      "latitude": 53.4711,
+      "longitude": 6.889888,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 63,
+      "name": "Eerbeekse Hooilanden",
+      "latitude": 52.138412,
+      "longitude": 6.077729,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 64,
+      "name": "Eerste Dillingveen",
+      "latitude": 52.919836,
+      "longitude": 6.657636,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 65,
+      "name": "Eiland in Krabbenkreek",
+      "latitude": 51.607857,
+      "longitude": 4.16508,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 66,
+      "name": "Eilanderbult",
+      "latitude": 53.411294,
+      "longitude": 6.114111,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 67,
+      "name": "Engelsmanplaat",
+      "latitude": 53.441177,
+      "longitude": 6.044379,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 68,
+      "name": "Entelsveld",
+      "latitude": 52.118668,
+      "longitude": 6.467154,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 69,
+      "name": "Feugelpôlle",
+      "latitude": 53.426952,
+      "longitude": 5.643893,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 70,
+      "name": "Feyesslink",
+      "latitude": 53.482648,
+      "longitude": 6.220523,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 71,
+      "name": "Flessenhals Voorste Diep",
+      "latitude": 52.91477,
+      "longitude": 6.798797,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 72,
+      "name": "Friese Wad",
+      "latitude": 53.365671,
+      "longitude": 5.704054,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 73,
+      "name": "Galgeplaat",
+      "latitude": 51.558078,
+      "longitude": 3.961821,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 74,
+      "name": "Gariper Rak",
+      "latitude": 53.164015,
+      "longitude": 5.925093,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 75,
+      "name": "Gebben zien meertien",
+      "latitude": 52.856861,
+      "longitude": 6.731376,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 76,
+      "name": "Geise",
+      "latitude": 53.296767,
+      "longitude": 7.218032,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 77,
+      "name": "Gelders Vlies",
+      "latitude": 51.467891,
+      "longitude": 6.207248,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 78,
+      "name": "Getijdenoever Nassauhaven",
+      "latitude": 51.911518,
+      "longitude": 4.507831,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 79,
+      "name": "Geul van de Pin",
+      "latitude": 51.352434,
+      "longitude": 4.17688,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 80,
+      "name": "Grauwse Plaat",
+      "latitude": 51.348423,
+      "longitude": 4.138857,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 81,
+      "name": "Grienden van Kuipersveer",
+      "latitude": 51.82665,
+      "longitude": 4.551529,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 82,
+      "name": "Grienderwaard",
+      "latitude": 53.261299,
+      "longitude": 5.321674,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 83,
+      "name": "Groene Maat",
+      "latitude": 52.114311,
+      "longitude": 6.476375,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 84,
+      "name": "Groene Maat Zuid",
+      "latitude": 52.109901,
+      "longitude": 6.477566,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 85,
+      "name": "Grolloerveen",
+      "latitude": 52.915181,
+      "longitude": 6.657351,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 86,
+      "name": "Groningerwad",
+      "latitude": 53.460435,
+      "longitude": 6.325891,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 87,
+      "name": "Groot Buitenschoor",
+      "latitude": 51.373148,
+      "longitude": 4.240069,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 88,
+      "name": "Groote Meer",
+      "latitude": 51.362397,
+      "longitude": 5.466065,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 89,
+      "name": "Groote Plaat",
+      "latitude": 53.344261,
+      "longitude": 5.247491,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 90,
+      "name": "Groote Veen",
+      "latitude": 52.819385,
+      "longitude": 6.434938,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 91,
+      "name": "Grote Plas",
+      "latitude": 52.448366,
+      "longitude": 5.321822,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 92,
+      "name": "Grote Ried",
+      "latitude": 53.476608,
+      "longitude": 6.213229,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 93,
+      "name": "Grote Veen",
+      "latitude": 53.138271,
+      "longitude": 6.642593,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 94,
+      "name": "Gruttolandje",
+      "latitude": 52.074685,
+      "longitude": 4.44923,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 95,
+      "name": "Haaksbergerveen",
+      "latitude": 52.125389,
+      "longitude": 6.768101,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 96,
+      "name": "Halkenveen",
+      "latitude": 52.913588,
+      "longitude": 6.637554,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 97,
+      "name": "Hangmoor",
+      "latitude": 50.949763,
+      "longitude": 6.029992,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 98,
+      "name": "Harener Wildernis",
+      "latitude": 53.172023,
+      "longitude": 6.641628,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 99,
+      "name": "Haverkampsveen",
+      "latitude": 53.047361,
+      "longitude": 6.533222,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 100,
+      "name": "Heidemoor",
+      "latitude": 50.940113,
+      "longitude": 6.039039,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 101,
+      "name": "Heidemoor",
+      "latitude": 51.1755,
+      "longitude": 6.147516,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 102,
+      "name": "Heideveld",
+      "latitude": 53.401022,
+      "longitude": 5.928578,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 103,
+      "name": "Hendrik Tjaars plaat",
+      "latitude": 53.20363,
+      "longitude": 5.272064,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 104,
+      "name": "Hengst",
+      "latitude": 53.182511,
+      "longitude": 4.916661,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 105,
+      "name": "Heringsplaat",
+      "latitude": 53.304369,
+      "longitude": 7.125021,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 106,
+      "name": "Heringsplaat",
+      "latitude": 53.304936,
+      "longitude": 7.124642,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 107,
+      "name": "Het Rif",
+      "latitude": 53.464918,
+      "longitude": 6.15115,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 108,
+      "name": "Hinderplaat",
+      "latitude": 51.873836,
+      "longitude": 4.002278,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 109,
+      "name": "Hingsteveen",
+      "latitude": 52.922222,
+      "longitude": 6.593424,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 110,
+      "name": "Hoedveen",
+      "latitude": 52.961659,
+      "longitude": 6.49172,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 111,
+      "name": "Hoek van Hessing",
+      "latitude": 53.412056,
+      "longitude": 5.679811,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 112,
+      "name": "Holtveen",
+      "latitude": 52.797176,
+      "longitude": 6.438767,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 113,
+      "name": "Hond en Paapzand / Hund und Paapsand",
+      "latitude": 53.377476,
+      "longitude": 6.922545,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 114,
+      "name": "Hondegat",
+      "latitude": 51.358016,
+      "longitude": 4.191278,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 115,
+      "name": "Hooge Kraaijer of Tarweplaat",
+      "latitude": 51.473537,
+      "longitude": 4.165036,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 116,
+      "name": "Hooge Platen",
+      "latitude": 51.396485,
+      "longitude": 3.641567,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 117,
+      "name": "Hooge Springer",
+      "latitude": 51.385994,
+      "longitude": 3.680919,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 118,
+      "name": "Hoogeplaat",
+      "latitude": 53.246863,
+      "longitude": 7.15608,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 119,
+      "name": "Horsbornzand",
+      "latitude": 53.511792,
+      "longitude": 6.647925,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 120,
+      "name": "Horsterveen",
+      "latitude": 52.132642,
+      "longitude": 6.772094,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 121,
+      "name": "Huerderslink",
+      "latitude": 53.48054,
+      "longitude": 6.217876,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 122,
+      "name": "Huisven",
+      "latitude": 51.369335,
+      "longitude": 5.39732,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 123,
+      "name": "Hypofytenfilter",
+      "latitude": 51.611203,
+      "longitude": 4.644961,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 124,
+      "name": "IJsbaan de Hoekskamp",
+      "latitude": 52.766991,
+      "longitude": 6.454669,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 125,
+      "name": "IJskelder",
+      "latitude": 51.349071,
+      "longitude": 4.158732,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 126,
+      "name": "Ierst",
+      "latitude": 52.610343,
+      "longitude": 5.431523,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 127,
+      "name": "Jachthaven Paal",
+      "latitude": 51.352614,
+      "longitude": 4.111038,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 128,
+      "name": "Jacobsruggen",
+      "latitude": 53.324841,
+      "longitude": 5.197521,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 129,
+      "name": "Jacobsruggen",
+      "latitude": 53.324859,
+      "longitude": 5.19676,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 130,
+      "name": "Japanse Park",
+      "latitude": 52.303702,
+      "longitude": 4.836941,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 131,
+      "name": "Kapelleplaat",
+      "latitude": 51.458141,
+      "longitude": 3.977,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 132,
+      "name": "Katseplaat",
+      "latitude": 51.552231,
+      "longitude": 3.88115,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 133,
+      "name": "Kievitsplak",
+      "latitude": 53.458124,
+      "longitude": 5.849476,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 134,
+      "name": "Kikkereiland",
+      "latitude": 51.907988,
+      "longitude": 4.989033,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 135,
+      "name": "Kikkertplaat",
+      "latitude": 53.408825,
+      "longitude": 5.717998,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 136,
+      "name": "Kikkertplaat",
+      "latitude": 53.40902,
+      "longitude": 5.718736,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 137,
+      "name": "Klein Hondegat",
+      "latitude": 51.365874,
+      "longitude": 4.189308,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 138,
+      "name": "Kleine Veen",
+      "latitude": 53.135455,
+      "longitude": 6.643513,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 139,
+      "name": "Klumpersveld",
+      "latitude": 52.117352,
+      "longitude": 6.470986,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 140,
+      "name": "Kluteneiland",
+      "latitude": 53.247433,
+      "longitude": 7.117149,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 141,
+      "name": "Koemarsen",
+      "latitude": 52.773263,
+      "longitude": 6.662664,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 142,
+      "name": "Konijnenschor",
+      "latitude": 51.3577,
+      "longitude": 4.12861,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 143,
+      "name": "Koolhaar",
+      "latitude": 52.658654,
+      "longitude": 6.263675,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 144,
+      "name": "Kootwijkerveen",
+      "latitude": 52.207384,
+      "longitude": 5.800713,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 145,
+      "name": "Korebaaksslink",
+      "latitude": 53.483762,
+      "longitude": 6.233788,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 146,
+      "name": "Kornwerderzand",
+      "latitude": 53.125806,
+      "longitude": 5.349489,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 147,
+      "name": "Kromme Geul",
+      "latitude": 51.349435,
+      "longitude": 4.138423,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 148,
+      "name": "Kroonpolders",
+      "latitude": 53.255452,
+      "longitude": 4.964348,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 149,
+      "name": "Kropswolderbuitenpolder",
+      "latitude": 53.163065,
+      "longitude": 6.699119,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 150,
+      "name": "Kuypersplaat",
+      "latitude": 53.443778,
+      "longitude": 6.108432,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 151,
+      "name": "Lage Springer",
+      "latitude": 51.3701,
+      "longitude": 3.708502,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 152,
+      "name": "Langaarsveen",
+      "latitude": 53.086499,
+      "longitude": 6.511629,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 153,
+      "name": "Lange Veen",
+      "latitude": 52.817005,
+      "longitude": 6.430423,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 154,
+      "name": "Lange Zand",
+      "latitude": 53.185764,
+      "longitude": 5.229314,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 155,
+      "name": "Lauwerswal",
+      "latitude": 53.464796,
+      "longitude": 6.531522,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 156,
+      "name": "Loodijke",
+      "latitude": 51.501463,
+      "longitude": 4.122266,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 157,
+      "name": "Lutjeswaard",
+      "latitude": 53.003184,
+      "longitude": 4.9944,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 158,
+      "name": "Lutjewad",
+      "latitude": 53.422604,
+      "longitude": 6.313679,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 159,
+      "name": "Maasvallei Maasband",
+      "latitude": 50.976251,
+      "longitude": 5.743796,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 160,
+      "name": "Maasvallei Visserweert",
+      "latitude": 51.069433,
+      "longitude": 5.804181,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 161,
+      "name": "Mandelanden",
+      "latitude": 52.908926,
+      "longitude": 6.78599,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 162,
+      "name": "Mariapolder",
+      "latitude": 51.801797,
+      "longitude": 4.752626,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 163,
+      "name": "Marlemontsche Plaat",
+      "latitude": 51.362414,
+      "longitude": 4.158742,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 164,
+      "name": "Marumerlage",
+      "latitude": 53.154851,
+      "longitude": 6.254595,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 165,
+      "name": "Matslootgebied",
+      "latitude": 53.190858,
+      "longitude": 6.471576,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 166,
+      "name": "Meeuwenplassen",
+      "latitude": 52.863827,
+      "longitude": 6.695903,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 167,
+      "name": "Meeuwenstaart / Mövensteert",
+      "latitude": 53.523055,
+      "longitude": 6.705519,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 168,
+      "name": "Mehr",
+      "latitude": 51.402515,
+      "longitude": 6.094306,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 169,
+      "name": "Middelplaat",
+      "latitude": 51.36123,
+      "longitude": 3.843843,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 170,
+      "name": "Middelplaat",
+      "latitude": 51.361382,
+      "longitude": 3.842987,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 171,
+      "name": "Middelplaat",
+      "latitude": 51.361665,
+      "longitude": 3.890735,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 172,
+      "name": "Middelplaat",
+      "latitude": 51.365306,
+      "longitude": 3.79191,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 173,
+      "name": "Middelplaat",
+      "latitude": 51.544189,
+      "longitude": 4.002883,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 174,
+      "name": "Middelplaat",
+      "latitude": 51.752008,
+      "longitude": 3.763275,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 175,
+      "name": "Middelplaat",
+      "latitude": 52.963663,
+      "longitude": 4.970351,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 176,
+      "name": "Middelplaat",
+      "latitude": 52.963986,
+      "longitude": 4.969392,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 177,
+      "name": "Moerasgebied Hooglandsedijk",
+      "latitude": 52.163923,
+      "longitude": 5.381641,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 178,
+      "name": "Molenplaat",
+      "latitude": 51.438604,
+      "longitude": 3.956227,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 179,
+      "name": "Molenplaat",
+      "latitude": 53.428534,
+      "longitude": 5.742644,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 180,
+      "name": "Molenven",
+      "latitude": 51.433133,
+      "longitude": 5.595939,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 181,
+      "name": "Naaktstrand",
+      "latitude": 51.631041,
+      "longitude": 3.688692,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 182,
+      "name": "Neeltje Jans",
+      "latitude": 51.627717,
+      "longitude": 3.737801,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 183,
+      "name": "Nieuwe Akker",
+      "latitude": 52.680518,
+      "longitude": 4.822261,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 184,
+      "name": "Nieuwlandsreid",
+      "latitude": 53.453441,
+      "longitude": 5.873367,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 185,
+      "name": "Nonnenland",
+      "latitude": 52.171316,
+      "longitude": 5.2337,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 186,
+      "name": "Onnerpolder",
+      "latitude": 53.183489,
+      "longitude": 6.64767,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 187,
+      "name": "Oosterkwelder",
+      "latitude": 53.484271,
+      "longitude": 6.245217,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 188,
+      "name": "Oosterse Bekade Gorzen",
+      "latitude": 51.717463,
+      "longitude": 4.455633,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 189,
+      "name": "Oostfriesche Plaat / Ostfriesische Platte",
+      "latitude": 53.247355,
+      "longitude": 7.199403,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 190,
+      "name": "Oud-Heinenoordse Gorzen",
+      "latitude": 51.829815,
+      "longitude": 4.460922,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 191,
+      "name": "Oude Wal",
+      "latitude": 53.452406,
+      "longitude": 6.145541,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 192,
+      "name": "Oude Waterleiding",
+      "latitude": 51.494744,
+      "longitude": 3.941587,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 193,
+      "name": "Oude vuilstortplaats",
+      "latitude": 53.171686,
+      "longitude": 6.441369,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 194,
+      "name": "Overbraker Binnenpolder",
+      "latitude": 52.388337,
+      "longitude": 4.866733,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 195,
+      "name": "Paardenhoek",
+      "latitude": 53.152989,
+      "longitude": 5.198437,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 196,
+      "name": "Paddenpoel",
+      "latitude": 52.078141,
+      "longitude": 5.135462,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 197,
+      "name": "Paddenpoel",
+      "latitude": 52.846497,
+      "longitude": 6.743768,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 198,
+      "name": "Peizerweering",
+      "latitude": 53.180597,
+      "longitude": 6.519769,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 199,
+      "name": "Pesserkoelen",
+      "latitude": 52.750098,
+      "longitude": 6.419995,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 200,
+      "name": "Piet Scheve plaat",
+      "latitude": 53.395761,
+      "longitude": 5.794012,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 201,
+      "name": "Pinkewad",
+      "latitude": 53.443382,
+      "longitude": 5.860813,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 202,
+      "name": "Pionierskwelder",
+      "latitude": 53.327435,
+      "longitude": 6.947338,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 203,
+      "name": "Plaat van Breskens",
+      "latitude": 51.399807,
+      "longitude": 3.582763,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 204,
+      "name": "Plaat van Breskens",
+      "latitude": 51.400064,
+      "longitude": 3.582124,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 205,
+      "name": "Plaat van Doel",
+      "latitude": 51.345287,
+      "longitude": 4.237712,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 206,
+      "name": "Plaat van Oude Tonge",
+      "latitude": 51.669834,
+      "longitude": 4.105871,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 207,
+      "name": "Plaat van Oude Tonge",
+      "latitude": 51.67517,
+      "longitude": 4.132864,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 208,
+      "name": "Plaat van Walsoorden",
+      "latitude": 51.385077,
+      "longitude": 4.067852,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 209,
+      "name": "Plaat van Yerseke",
+      "latitude": 51.506064,
+      "longitude": 4.080697,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 210,
+      "name": "Platen van Hulst",
+      "latitude": 51.36138,
+      "longitude": 3.92331,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 211,
+      "name": "Platen van Hulst",
+      "latitude": 51.373106,
+      "longitude": 3.954359,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 212,
+      "name": "Platen van Ossenisse",
+      "latitude": 51.413485,
+      "longitude": 3.992686,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 213,
+      "name": "Platen van Valkenisse",
+      "latitude": 51.400803,
+      "longitude": 4.130039,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 214,
+      "name": "Polder Stededijk",
+      "latitude": 51.811621,
+      "longitude": 4.7883,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 215,
+      "name": "Prinsenplaat",
+      "latitude": 51.506795,
+      "longitude": 4.061305,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 216,
+      "name": "Punt van de Groede",
+      "latitude": 53.410114,
+      "longitude": 5.464033,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 217,
+      "name": "Rammegors",
+      "latitude": 51.608358,
+      "longitude": 4.185611,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 218,
+      "name": "Reiderplaat",
+      "latitude": 53.265251,
+      "longitude": 7.095326,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 219,
+      "name": "Rietvenne",
+      "latitude": 52.111184,
+      "longitude": 6.474227,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 220,
+      "name": "Rijpema",
+      "latitude": 53.222472,
+      "longitude": 6.717239,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 221,
+      "name": "Rijskampen",
+      "latitude": 51.683408,
+      "longitude": 5.261305,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 222,
+      "name": "Rijskampen",
+      "latitude": 51.684351,
+      "longitude": 5.265695,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 223,
+      "name": "Robbenplaat / Robbenplate",
+      "latitude": 53.404013,
+      "longitude": 6.884488,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 224,
+      "name": "Roggenplaat",
+      "latitude": 51.663352,
+      "longitude": 3.797709,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 225,
+      "name": "Roode Hoofd",
+      "latitude": 53.438152,
+      "longitude": 6.177277,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 226,
+      "name": "Roonboom",
+      "latitude": 52.733815,
+      "longitude": 6.660495,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 227,
+      "name": "Rottegeul",
+      "latitude": 51.342815,
+      "longitude": 4.154346,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 228,
+      "name": "Rug van Baarland",
+      "latitude": 51.409611,
+      "longitude": 3.938331,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 229,
+      "name": "Schaar van Yerseke",
+      "latitude": 51.510809,
+      "longitude": 4.035471,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 230,
+      "name": "Schattenbergveen",
+      "latitude": 52.909057,
+      "longitude": 6.604091,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 231,
+      "name": "Schelpkreek",
+      "latitude": 51.344408,
+      "longitude": 4.141967,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 232,
+      "name": "Scheursvennetje",
+      "latitude": 52.570863,
+      "longitude": 6.55327,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 233,
+      "name": "Schillenveen",
+      "latitude": 53.085498,
+      "longitude": 6.465173,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 234,
+      "name": "Schor Wilhelminapolder",
+      "latitude": 51.54349,
+      "longitude": 3.895817,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 235,
+      "name": "Schor van Baalhoek",
+      "latitude": 51.363838,
+      "longitude": 4.083069,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 236,
+      "name": "Schoteroog",
+      "latitude": 52.407084,
+      "longitude": 4.670789,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 237,
+      "name": "Schuitenzand",
+      "latitude": 53.150035,
+      "longitude": 5.313472,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 238,
+      "name": "Siege wal",
+      "latitude": 53.457501,
+      "longitude": 6.165661,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 239,
+      "name": "Simonszand",
+      "latitude": 53.5252,
+      "longitude": 6.424207,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 240,
+      "name": "Simonszand",
+      "latitude": 53.525696,
+      "longitude": 6.423735,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 241,
+      "name": "Sittarder Hecke",
+      "latitude": 50.983535,
+      "longitude": 5.9882,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 242,
+      "name": "Slaak en Rumoirtschorren",
+      "latitude": 51.6453,
+      "longitude": 4.15408,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 243,
+      "name": "Slichteveen",
+      "latitude": 52.822726,
+      "longitude": 6.422012,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 244,
+      "name": "Slikken van Dortsman",
+      "latitude": 51.570299,
+      "longitude": 4.007332,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 245,
+      "name": "Slikken van Everingen",
+      "latitude": 51.390602,
+      "longitude": 3.854406,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 246,
+      "name": "Slikken van Kats",
+      "latitude": 51.584761,
+      "longitude": 3.882983,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 247,
+      "name": "Slikken van Viane",
+      "latitude": 51.62204,
+      "longitude": 4.025866,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 248,
+      "name": "Slufterbollen",
+      "latitude": 53.129713,
+      "longitude": 4.803889,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 249,
+      "name": "Spauwer",
+      "latitude": 51.352084,
+      "longitude": 4.13449,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 250,
+      "name": "Speelmansgat",
+      "latitude": 51.343731,
+      "longitude": 4.135177,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 251,
+      "name": "Speelmansplaten",
+      "latitude": 51.499762,
+      "longitude": 4.174046,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 252,
+      "name": "Stadskwelder",
+      "latitude": 53.331535,
+      "longitude": 6.942515,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 253,
+      "name": "Stavenisse Gronden",
+      "latitude": 51.5917,
+      "longitude": 3.988074,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 254,
+      "name": "Steenplaat",
+      "latitude": 53.193591,
+      "longitude": 4.913078,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 255,
+      "name": "Stelkampsveld s.s.",
+      "latitude": 52.117643,
+      "longitude": 6.477681,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 256,
+      "name": "Stern",
+      "latitude": 53.407947,
+      "longitude": 6.88545,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 257,
+      "name": "Suikerplaat",
+      "latitude": 51.3814,
+      "longitude": 3.740219,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 258,
+      "name": "Tempelstukken",
+      "latitude": 53.049988,
+      "longitude": 6.425328,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 259,
+      "name": "Terschellinger Wad",
+      "latitude": 53.350569,
+      "longitude": 5.524045,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 260,
+      "name": "Tetjehorn",
+      "latitude": 53.280536,
+      "longitude": 6.824786,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 261,
+      "name": "Tweede Dillingveen",
+      "latitude": 52.917716,
+      "longitude": 6.654331,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 262,
+      "name": "Uferingsveen",
+      "latitude": 52.920947,
+      "longitude": 6.670783,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 263,
+      "name": "Uffelterveen",
+      "latitude": 52.803983,
+      "longitude": 6.243731,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 264,
+      "name": "Uithuizerwad",
+      "latitude": 53.496553,
+      "longitude": 6.520971,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 265,
+      "name": "Van der Zandgeul",
+      "latitude": 51.35805,
+      "longitude": 4.172755,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 266,
+      "name": "Verdolven landen",
+      "latitude": 52.423067,
+      "longitude": 4.668928,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 267,
+      "name": "Verdolven landen",
+      "latitude": 52.426389,
+      "longitude": 4.65763,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 268,
+      "name": "Verdolven landen",
+      "latitude": 52.427909,
+      "longitude": 4.650935,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 269,
+      "name": "Verdolven landen",
+      "latitude": 52.428683,
+      "longitude": 4.648306,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 270,
+      "name": "Verdronken Land van Zuid-Beveland",
+      "latitude": 51.442738,
+      "longitude": 4.169209,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 271,
+      "name": "Verdronken Land van Zuid-Beveland",
+      "latitude": 51.446968,
+      "longitude": 4.092872,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 272,
+      "name": "Vlakte Van Kerken",
+      "latitude": 53.132394,
+      "longitude": 4.91843,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 273,
+      "name": "Vliegenven",
+      "latitude": 51.380847,
+      "longitude": 5.457891,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 274,
+      "name": "Vogelzand",
+      "latitude": 53.03795,
+      "longitude": 4.994554,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 275,
+      "name": "Vondelingsplaat",
+      "latitude": 51.580444,
+      "longitude": 3.947901,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 276,
+      "name": "Vossenveen",
+      "latitude": 52.934448,
+      "longitude": 6.718859,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 277,
+      "name": "Vreewater",
+      "latitude": 51.436169,
+      "longitude": 6.208132,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 278,
+      "name": "Vrijheidsplaat",
+      "latitude": 53.424423,
+      "longitude": 5.648037,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 279,
+      "name": "Waarden",
+      "latitude": 51.817769,
+      "longitude": 5.105559,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 280,
+      "name": "Waardgronden",
+      "latitude": 53.220285,
+      "longitude": 5.030939,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 281,
+      "name": "Wadi",
+      "latitude": 52.24547,
+      "longitude": 5.235341,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 282,
+      "name": "Waterberging Wognum",
+      "latitude": 52.672303,
+      "longitude": 5.027651,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 283,
+      "name": "Waterknoop",
+      "latitude": 51.474919,
+      "longitude": 4.278205,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 284,
+      "name": "Weeringsbroeken",
+      "latitude": 53.168502,
+      "longitude": 6.51998,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 285,
+      "name": "Wei van Brasser",
+      "latitude": 52.572159,
+      "longitude": 4.629132,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 286,
+      "name": "Westerbroekstermadepolder",
+      "latitude": 53.170023,
+      "longitude": 6.679214,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 287,
+      "name": "Westerlanden",
+      "latitude": 53.115397,
+      "longitude": 6.634387,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 288,
+      "name": "Westerveen",
+      "latitude": 52.811869,
+      "longitude": 6.452395,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 289,
+      "name": "Wetering Oost",
+      "latitude": 52.773537,
+      "longitude": 5.995355,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 290,
+      "name": "Wierumerwad",
+      "latitude": 53.421884,
+      "longitude": 6.02652,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 291,
+      "name": "Witte Klap",
+      "latitude": 52.352377,
+      "longitude": 5.814591,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 292,
+      "name": "Witte Veen",
+      "latitude": 52.83458,
+      "longitude": 6.463071,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 293,
+      "name": "Wolkenberg",
+      "latitude": 52.209046,
+      "longitude": 5.30895,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 294,
+      "name": "Wolvenvallei",
+      "latitude": 51.943543,
+      "longitude": 4.514771,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 295,
+      "name": "Wulpenveen",
+      "latitude": 52.937979,
+      "longitude": 6.719452,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 296,
+      "name": "Yerseksche Oesterbank",
+      "latitude": 51.47577,
+      "longitude": 4.074615,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 297,
+      "name": "Zoere Grachten",
+      "latitude": 52.637364,
+      "longitude": 6.270626,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 298,
+      "name": "Zwanenven",
+      "latitude": 51.239616,
+      "longitude": 5.662061,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 299,
+      "name": "Zwarte Water",
+      "latitude": 51.159984,
+      "longitude": 5.996042,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 300,
+      "name": "Zwarte Water",
+      "latitude": 52.78567,
+      "longitude": 6.487392,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 301,
+      "name": "Zwinvlakte",
+      "latitude": 51.36138,
+      "longitude": 3.374721,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 302,
+      "name": "Zwinvlakte",
+      "latitude": 51.362088,
+      "longitude": 3.362842,
+      "osm_klasse": "natural=wetland"
+    },
+    {
+      "id": 303,
+      "name": "de Kil",
+      "latitude": 51.96901,
+      "longitude": 5.253621,
+      "osm_klasse": "natural=wetland"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: wetland (natural=wetland) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged natural=wetland in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 303 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: wetland (natural=wetland) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: wetland (natural=wetland) — 303 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 303 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

@@ -1,0 +1,1227 @@
+{
+  "id": "nl-osm-natural-wood",
+  "name": "Netherlands OSM: wood (natural=wood)",
+  "title": "Netherlands OSM: wood (natural=wood)",
+  "description": "Named OpenStreetMap features tagged natural=wood in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 168,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Aalt Jans Akkertje",
+      "latitude": 52.682566,
+      "longitude": 4.813867,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 2,
+      "name": "Aanakkertje",
+      "latitude": 52.680705,
+      "longitude": 4.822212,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 3,
+      "name": "Achterbos",
+      "latitude": 52.120554,
+      "longitude": 5.034037,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 4,
+      "name": "Admiraalsgroet",
+      "latitude": 52.67943,
+      "longitude": 4.814789,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 5,
+      "name": "Anemonen bosje",
+      "latitude": 51.998443,
+      "longitude": 6.334436,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 6,
+      "name": "Babybos",
+      "latitude": 51.941664,
+      "longitude": 4.582836,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 7,
+      "name": "Babybos",
+      "latitude": 51.941704,
+      "longitude": 4.583622,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 8,
+      "name": "Benedenste Jannezand",
+      "latitude": 51.727827,
+      "longitude": 4.842597,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 9,
+      "name": "Bergbos",
+      "latitude": 52.537452,
+      "longitude": 5.51035,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 10,
+      "name": "Bertus Steegen Bosje",
+      "latitude": 52.719749,
+      "longitude": 6.688873,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 11,
+      "name": "Bestevaer",
+      "latitude": 52.682424,
+      "longitude": 4.819004,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 12,
+      "name": "Biene-Grootakker",
+      "latitude": 52.683535,
+      "longitude": 4.815528,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 13,
+      "name": "Bijlakker",
+      "latitude": 52.692713,
+      "longitude": 4.821092,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 14,
+      "name": "Blind",
+      "latitude": 52.688518,
+      "longitude": 4.822254,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 15,
+      "name": "Bob",
+      "latitude": 52.680522,
+      "longitude": 4.824315,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 16,
+      "name": "Boetakker",
+      "latitude": 52.69302,
+      "longitude": 4.813163,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 17,
+      "name": "Bolberg",
+      "latitude": 51.113284,
+      "longitude": 6.042482,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 18,
+      "name": "Bonje",
+      "latitude": 52.682791,
+      "longitude": 4.814925,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 19,
+      "name": "Bos Veenoord",
+      "latitude": 52.707544,
+      "longitude": 6.828212,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 20,
+      "name": "Bos de boekweitakkers",
+      "latitude": 52.697948,
+      "longitude": 6.825929,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 21,
+      "name": "Bosje van Hardeman",
+      "latitude": 52.0151,
+      "longitude": 5.52846,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 22,
+      "name": "Breedje",
+      "latitude": 52.682458,
+      "longitude": 4.815093,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 23,
+      "name": "Breetje",
+      "latitude": 52.685135,
+      "longitude": 4.815217,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 24,
+      "name": "Bremerwildernis",
+      "latitude": 52.873538,
+      "longitude": 5.571983,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 25,
+      "name": "Brink",
+      "latitude": 52.5312,
+      "longitude": 5.013654,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 26,
+      "name": "Bruggenbos",
+      "latitude": 51.826872,
+      "longitude": 4.521715,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 27,
+      "name": "Buitenpolderbos",
+      "latitude": 51.830606,
+      "longitude": 4.475156,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 28,
+      "name": "Butters Akker",
+      "latitude": 52.689022,
+      "longitude": 4.819402,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 29,
+      "name": "Butters Akker",
+      "latitude": 52.689757,
+      "longitude": 4.819658,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 30,
+      "name": "Carisborg",
+      "latitude": 50.886401,
+      "longitude": 6.068872,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 31,
+      "name": "Clingse bossen",
+      "latitude": 51.257715,
+      "longitude": 4.078154,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 32,
+      "name": "Collsche Heide",
+      "latitude": 51.44443,
+      "longitude": 5.564417,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 33,
+      "name": "Dalenberg",
+      "latitude": 52.686748,
+      "longitude": 4.814545,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 34,
+      "name": "Dazenplak",
+      "latitude": 53.42035,
+      "longitude": 5.410648,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 35,
+      "name": "De Bannink",
+      "latitude": 52.261529,
+      "longitude": 6.268753,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 36,
+      "name": "De Boschberg",
+      "latitude": 52.42261,
+      "longitude": 5.751092,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 37,
+      "name": "De Bult",
+      "latitude": 51.517574,
+      "longitude": 5.999214,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 38,
+      "name": "De Starnuman Bossen",
+      "latitude": 52.874851,
+      "longitude": 5.562075,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 39,
+      "name": "Deel",
+      "latitude": 52.692458,
+      "longitude": 4.822112,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 40,
+      "name": "Diepsterbos",
+      "latitude": 53.329341,
+      "longitude": 6.182351,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 41,
+      "name": "Dijk",
+      "latitude": 52.687862,
+      "longitude": 4.824767,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 42,
+      "name": "Domaniale Bossen",
+      "latitude": 51.684183,
+      "longitude": 3.701802,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 43,
+      "name": "Drukker",
+      "latitude": 52.682697,
+      "longitude": 4.811155,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 44,
+      "name": "Duingeest",
+      "latitude": 52.108551,
+      "longitude": 4.341243,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 45,
+      "name": "Ecoduct Bunderbosch",
+      "latitude": 50.897735,
+      "longitude": 5.749567,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 46,
+      "name": "Ecoduct Kalverbosch",
+      "latitude": 50.897007,
+      "longitude": 5.751848,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 47,
+      "name": "Eilandt",
+      "latitude": 52.684765,
+      "longitude": 4.813117,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 48,
+      "name": "Essehof Oost",
+      "latitude": 51.960103,
+      "longitude": 4.608933,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 49,
+      "name": "Essehof West",
+      "latitude": 51.958555,
+      "longitude": 4.605612,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 50,
+      "name": "Ganzenhoek",
+      "latitude": 52.159876,
+      "longitude": 4.358043,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 51,
+      "name": "Geertje Bies",
+      "latitude": 52.693055,
+      "longitude": 4.815253,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 52,
+      "name": "Gerwense Heide",
+      "latitude": 51.496086,
+      "longitude": 5.571287,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 53,
+      "name": "Gorzenbosch",
+      "latitude": 51.830544,
+      "longitude": 4.503297,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 54,
+      "name": "Grasakker",
+      "latitude": 52.685251,
+      "longitude": 4.817511,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 55,
+      "name": "Groet van Russen",
+      "latitude": 52.688766,
+      "longitude": 4.810093,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 56,
+      "name": "Groet van Spaan",
+      "latitude": 52.690164,
+      "longitude": 4.816558,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 57,
+      "name": "Groet van Spaan",
+      "latitude": 52.690822,
+      "longitude": 4.81624,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 58,
+      "name": "Groetje van Brugman",
+      "latitude": 52.695891,
+      "longitude": 4.824299,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 59,
+      "name": "Grootakker",
+      "latitude": 52.686288,
+      "longitude": 4.809657,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 60,
+      "name": "Grootakker",
+      "latitude": 52.686858,
+      "longitude": 4.812761,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 61,
+      "name": "Grootakker",
+      "latitude": 52.691641,
+      "longitude": 4.819214,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 62,
+      "name": "Halepaden",
+      "latitude": 53.282567,
+      "longitude": 5.99303,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 63,
+      "name": "Hamboersgroet",
+      "latitude": 52.69049,
+      "longitude": 4.82089,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 64,
+      "name": "Hamboersgroet",
+      "latitude": 52.690691,
+      "longitude": 4.821655,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 65,
+      "name": "Hamelsweid",
+      "latitude": 52.681127,
+      "longitude": 4.824611,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 66,
+      "name": "Hazencasino",
+      "latitude": 52.104735,
+      "longitude": 5.381922,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 67,
+      "name": "Het Beloken Land",
+      "latitude": 52.018495,
+      "longitude": 4.947441,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 68,
+      "name": "Het Liniebos",
+      "latitude": 52.951073,
+      "longitude": 4.754994,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 69,
+      "name": "Het Lotter",
+      "latitude": 52.651919,
+      "longitude": 6.536243,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 70,
+      "name": "Het Paradijs",
+      "latitude": 52.932909,
+      "longitude": 6.568777,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 71,
+      "name": "Het Refter",
+      "latitude": 53.184483,
+      "longitude": 6.564212,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 72,
+      "name": "Het oude hout",
+      "latitude": 52.049032,
+      "longitude": 5.777977,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 73,
+      "name": "Hoogakker",
+      "latitude": 52.680639,
+      "longitude": 4.819022,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 74,
+      "name": "Hoogcannerbos",
+      "latitude": 50.819223,
+      "longitude": 5.662201,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 75,
+      "name": "Hoogcannerbos",
+      "latitude": 50.820965,
+      "longitude": 5.661118,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 76,
+      "name": "Huisweersterbos",
+      "latitude": 53.267884,
+      "longitude": 6.869429,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 77,
+      "name": "Isabellabos",
+      "latitude": 51.298154,
+      "longitude": 3.713392,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 78,
+      "name": "Jacob Bak",
+      "latitude": 52.692909,
+      "longitude": 4.82072,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 79,
+      "name": "Jacob Pietersakker",
+      "latitude": 52.682515,
+      "longitude": 4.818935,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 80,
+      "name": "Jagersbosje",
+      "latitude": 52.107644,
+      "longitude": 4.495477,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 81,
+      "name": "Jan Dirxz Ackerke",
+      "latitude": 52.68339,
+      "longitude": 4.816067,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 82,
+      "name": "Jan Teeuwisakker",
+      "latitude": 52.682543,
+      "longitude": 4.819908,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 83,
+      "name": "Jantjesakker",
+      "latitude": 52.680416,
+      "longitude": 4.818898,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 84,
+      "name": "Katuil",
+      "latitude": 52.680543,
+      "longitude": 4.817378,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 85,
+      "name": "Kavelbos",
+      "latitude": 52.661778,
+      "longitude": 6.565099,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 86,
+      "name": "Kerkegroet",
+      "latitude": 52.693758,
+      "longitude": 4.814355,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 87,
+      "name": "Ketelakker",
+      "latitude": 52.684379,
+      "longitude": 4.817878,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 88,
+      "name": "Ketelakker",
+      "latitude": 52.684957,
+      "longitude": 4.817896,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 89,
+      "name": "Klaas Kardinaal",
+      "latitude": 52.688261,
+      "longitude": 4.81618,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 90,
+      "name": "Klokje",
+      "latitude": 52.684335,
+      "longitude": 4.814461,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 91,
+      "name": "Kooike",
+      "latitude": 52.684618,
+      "longitude": 4.815209,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 92,
+      "name": "Kruiponder",
+      "latitude": 52.058446,
+      "longitude": 5.763243,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 93,
+      "name": "Lange Smal",
+      "latitude": 52.691157,
+      "longitude": 4.818012,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 94,
+      "name": "Lutjeland",
+      "latitude": 52.684314,
+      "longitude": 4.815483,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 95,
+      "name": "Lycklemabosch",
+      "latitude": 52.864452,
+      "longitude": 5.550043,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 96,
+      "name": "Maijerslootakker",
+      "latitude": 52.684857,
+      "longitude": 4.814201,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 97,
+      "name": "Mennegoor",
+      "latitude": 52.114446,
+      "longitude": 6.462316,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 98,
+      "name": "Miesbos",
+      "latitude": 51.645678,
+      "longitude": 5.466664,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 99,
+      "name": "Molakker",
+      "latitude": 52.681324,
+      "longitude": 4.82089,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 100,
+      "name": "Mollebos",
+      "latitude": 51.827879,
+      "longitude": 4.515645,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 101,
+      "name": "Mollenvanger",
+      "latitude": 52.680961,
+      "longitude": 4.821657,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 102,
+      "name": "Muitertje",
+      "latitude": 52.684637,
+      "longitude": 4.817303,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 103,
+      "name": "Muntjewerf",
+      "latitude": 52.685346,
+      "longitude": 4.813027,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 104,
+      "name": "Naturgebiet Mariental",
+      "latitude": 50.923025,
+      "longitude": 6.081806,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 105,
+      "name": "Nieuwe Akker",
+      "latitude": 52.680296,
+      "longitude": 4.822193,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 106,
+      "name": "Nieuwe Akker",
+      "latitude": 52.690194,
+      "longitude": 4.822846,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 107,
+      "name": "Noorder Lelybosplantsoen",
+      "latitude": 52.859728,
+      "longitude": 5.024491,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 108,
+      "name": "Nuenens Broek",
+      "latitude": 51.481006,
+      "longitude": 5.540351,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 109,
+      "name": "Nuenens Broek",
+      "latitude": 51.482723,
+      "longitude": 5.538522,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 110,
+      "name": "Oekelbos",
+      "latitude": 51.498963,
+      "longitude": 4.702786,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 111,
+      "name": "Oldenhaver veld",
+      "latitude": 52.733856,
+      "longitude": 6.354028,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 112,
+      "name": "Oostdijkakker",
+      "latitude": 52.691323,
+      "longitude": 4.825688,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 113,
+      "name": "Oukerweid",
+      "latitude": 52.692994,
+      "longitude": 4.814382,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 114,
+      "name": "Panlat",
+      "latitude": 52.687735,
+      "longitude": 4.820737,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 115,
+      "name": "Pieterties Acker",
+      "latitude": 52.682469,
+      "longitude": 4.810405,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 116,
+      "name": "Pollepel",
+      "latitude": 52.684185,
+      "longitude": 4.823753,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 117,
+      "name": "Quantesakker",
+      "latitude": 52.685064,
+      "longitude": 4.824674,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 118,
+      "name": "Rattennest",
+      "latitude": 52.680848,
+      "longitude": 4.818904,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 119,
+      "name": "Refelingsche Heide",
+      "latitude": 51.457207,
+      "longitude": 5.55359,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 120,
+      "name": "Reigersbos",
+      "latitude": 52.253262,
+      "longitude": 4.528781,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 121,
+      "name": "Reigersbos",
+      "latitude": 52.25397,
+      "longitude": 4.527595,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 122,
+      "name": "Reigersbos",
+      "latitude": 52.255378,
+      "longitude": 4.52862,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 123,
+      "name": "Rengerspole",
+      "latitude": 53.113307,
+      "longitude": 5.881651,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 124,
+      "name": "Rhododendronvallei",
+      "latitude": 52.228597,
+      "longitude": 5.137083,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 125,
+      "name": "Ringwalburg (Reconstructie)",
+      "latitude": 51.69032,
+      "longitude": 3.736824,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 126,
+      "name": "Ringwalburg (Reconstructie)",
+      "latitude": 51.691016,
+      "longitude": 3.736696,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 127,
+      "name": "Rolles",
+      "latitude": 52.693776,
+      "longitude": 4.814969,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 128,
+      "name": "Rootje",
+      "latitude": 52.681186,
+      "longitude": 4.817576,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 129,
+      "name": "Rustgebied",
+      "latitude": 52.158218,
+      "longitude": 5.922644,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 130,
+      "name": "Schagerakker",
+      "latitude": 52.680026,
+      "longitude": 4.819269,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 131,
+      "name": "Schelm",
+      "latitude": 52.691946,
+      "longitude": 4.825376,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 132,
+      "name": "Schelm",
+      "latitude": 52.693029,
+      "longitude": 4.817466,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 133,
+      "name": "Schelm",
+      "latitude": 52.69319,
+      "longitude": 4.819548,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 134,
+      "name": "Schepersland",
+      "latitude": 53.173212,
+      "longitude": 6.560579,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 135,
+      "name": "Scoutingterrein Zeesserveld",
+      "latitude": 52.50356,
+      "longitude": 6.44883,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 136,
+      "name": "Simon Blom",
+      "latitude": 52.692257,
+      "longitude": 4.822649,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 137,
+      "name": "Slakkeneiland",
+      "latitude": 53.172491,
+      "longitude": 6.568799,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 138,
+      "name": "Smal",
+      "latitude": 52.68235,
+      "longitude": 4.813899,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 139,
+      "name": "Smalke",
+      "latitude": 52.693618,
+      "longitude": 4.824978,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 140,
+      "name": "Spaarbankbos",
+      "latitude": 52.750387,
+      "longitude": 6.470016,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 141,
+      "name": "Speeleiland.",
+      "latitude": 53.053042,
+      "longitude": 5.382027,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 142,
+      "name": "Steertmolens",
+      "latitude": 52.69373,
+      "longitude": 4.821893,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 143,
+      "name": "Steertmolens",
+      "latitude": 52.694069,
+      "longitude": 4.821335,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 144,
+      "name": "Steertmolens",
+      "latitude": 52.694131,
+      "longitude": 4.823353,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 145,
+      "name": "Steertmolens",
+      "latitude": 52.694655,
+      "longitude": 4.82472,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 146,
+      "name": "Steertmolens",
+      "latitude": 52.694828,
+      "longitude": 4.823053,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 147,
+      "name": "Sterrebos",
+      "latitude": 52.23079,
+      "longitude": 5.132115,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 148,
+      "name": "Sterrenbosch",
+      "latitude": 52.107905,
+      "longitude": 5.368691,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 149,
+      "name": "Struunpad Bos",
+      "latitude": 52.717128,
+      "longitude": 6.336836,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 150,
+      "name": "Tijsakker",
+      "latitude": 52.681885,
+      "longitude": 4.822231,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 151,
+      "name": "Tiny Forest Springpostbos",
+      "latitude": 52.100098,
+      "longitude": 4.597842,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 152,
+      "name": "Uilenbosje",
+      "latitude": 51.813144,
+      "longitude": 5.804296,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 153,
+      "name": "Van Windeneiland",
+      "latitude": 52.148023,
+      "longitude": 4.452168,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 154,
+      "name": "Varkensput",
+      "latitude": 51.438481,
+      "longitude": 5.544353,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 155,
+      "name": "Visdonkse bos",
+      "latitude": 51.513773,
+      "longitude": 4.492462,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 156,
+      "name": "Vlindertuin",
+      "latitude": 52.16772,
+      "longitude": 5.280481,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 157,
+      "name": "Voormalig Slot Valckesteyn",
+      "latitude": 51.86818,
+      "longitude": 4.408266,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 158,
+      "name": "Vrouwezijp",
+      "latitude": 50.871607,
+      "longitude": 6.081183,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 159,
+      "name": "Waligs Breedje",
+      "latitude": 52.685101,
+      "longitude": 4.814119,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 160,
+      "name": "Wedze-boskje",
+      "latitude": 53.246944,
+      "longitude": 6.095436,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 161,
+      "name": "Wildse Kooi",
+      "latitude": 51.767264,
+      "longitude": 5.373729,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 162,
+      "name": "Woeste Weelde",
+      "latitude": 53.199615,
+      "longitude": 6.593625,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 163,
+      "name": "Zomerhuisbos",
+      "latitude": 53.331254,
+      "longitude": 6.190914,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 164,
+      "name": "Zomerlanden",
+      "latitude": 51.830772,
+      "longitude": 4.489121,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 165,
+      "name": "Zuidbossen",
+      "latitude": 51.302523,
+      "longitude": 3.716982,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 166,
+      "name": "Zuiddiepbos",
+      "latitude": 51.805023,
+      "longitude": 4.591715,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 167,
+      "name": "Zwaan",
+      "latitude": 52.684047,
+      "longitude": 4.818679,
+      "osm_klasse": "natural=wood"
+    },
+    {
+      "id": 168,
+      "name": "it Fintsje",
+      "latitude": 53.12004,
+      "longitude": 5.911044,
+      "osm_klasse": "natural=wood"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: wood (natural=wood) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged natural=wood in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 168 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: wood (natural=wood) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: wood (natural=wood) — 168 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 168 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

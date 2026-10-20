@@ -1,0 +1,1297 @@
+{
+  "id": "nl-osm-shop-kiosk",
+  "name": "Netherlands OSM: kiosk (shop=kiosk)",
+  "title": "Netherlands OSM: kiosk (shop=kiosk)",
+  "description": "Named OpenStreetMap features tagged shop=kiosk in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 178,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Kroontje",
+      "latitude": 52.376084,
+      "longitude": 4.891842,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 2,
+      "name": "'t Posthoekje",
+      "latitude": 51.327662,
+      "longitude": 3.491955,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 3,
+      "name": "'t Schot",
+      "latitude": 52.014828,
+      "longitude": 5.678369,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 4,
+      "name": "Abdijwinkel",
+      "latitude": 52.001505,
+      "longitude": 5.83083,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 5,
+      "name": "Argos",
+      "latitude": 52.319496,
+      "longitude": 5.624423,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 6,
+      "name": "Avond verkoop",
+      "latitude": 52.380738,
+      "longitude": 4.820728,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 7,
+      "name": "BP",
+      "latitude": 52.273027,
+      "longitude": 5.61753,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 8,
+      "name": "BP",
+      "latitude": 52.38326,
+      "longitude": 5.787723,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 9,
+      "name": "BP Lemmer",
+      "latitude": 52.84338,
+      "longitude": 5.716171,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 10,
+      "name": "Balvert",
+      "latitude": 52.366889,
+      "longitude": 4.888285,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 11,
+      "name": "Bij de Centrale",
+      "latitude": 51.834505,
+      "longitude": 4.68172,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 12,
+      "name": "Boekhandel Funcken",
+      "latitude": 50.893026,
+      "longitude": 6.015441,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 13,
+      "name": "Boekhandel Timp",
+      "latitude": 52.493772,
+      "longitude": 4.968912,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 14,
+      "name": "Boerderijwinkel Den doorn",
+      "latitude": 51.65789,
+      "longitude": 5.068899,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 15,
+      "name": "Brio Kiosk",
+      "latitude": 52.111595,
+      "longitude": 5.12443,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 16,
+      "name": "CIGO Gogo",
+      "latitude": 51.923389,
+      "longitude": 4.478326,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 17,
+      "name": "Cadeauwinkel",
+      "latitude": 52.513312,
+      "longitude": 6.124341,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 18,
+      "name": "Cigo",
+      "latitude": 52.076969,
+      "longitude": 4.751358,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 19,
+      "name": "Cigo",
+      "latitude": 52.372186,
+      "longitude": 4.611851,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 20,
+      "name": "Daily Shop Hoytema",
+      "latitude": 52.092379,
+      "longitude": 4.324872,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 21,
+      "name": "De Bijbel: het woord van God",
+      "latitude": 52.355799,
+      "longitude": 4.879911,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 22,
+      "name": "De Kiosk",
+      "latitude": 50.8493,
+      "longitude": 5.694837,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 23,
+      "name": "De Leeuw",
+      "latitude": 52.832984,
+      "longitude": 6.368375,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 24,
+      "name": "De Slag",
+      "latitude": 52.301568,
+      "longitude": 4.477417,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 25,
+      "name": "De Smulbaai",
+      "latitude": 52.435079,
+      "longitude": 6.23483,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 26,
+      "name": "De Stasie",
+      "latitude": 51.526381,
+      "longitude": 6.014301,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 27,
+      "name": "De Tabakshoek",
+      "latitude": 52.354083,
+      "longitude": 4.884175,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 28,
+      "name": "De Tabakspot",
+      "latitude": 52.512506,
+      "longitude": 6.093272,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 29,
+      "name": "De Vier Bannen",
+      "latitude": 51.617859,
+      "longitude": 3.986467,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 30,
+      "name": "Eekie's eethuisje",
+      "latitude": 50.970936,
+      "longitude": 5.78159,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 31,
+      "name": "Esso Express De Gender",
+      "latitude": 51.419842,
+      "longitude": 5.441166,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 32,
+      "name": "Euro-Kiosk",
+      "latitude": 50.770517,
+      "longitude": 6.026395,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 33,
+      "name": "Express Shop",
+      "latitude": 52.146854,
+      "longitude": 4.492674,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 34,
+      "name": "FC Utrecht",
+      "latitude": 52.078904,
+      "longitude": 5.144454,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 35,
+      "name": "Fietsenstalling Inter",
+      "latitude": 51.916786,
+      "longitude": 4.253647,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 36,
+      "name": "GJ Carwash",
+      "latitude": 51.620351,
+      "longitude": 5.51412,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 37,
+      "name": "Gemaks En Tabakswinkel AD SHOP HOOGVLIET",
+      "latitude": 51.860626,
+      "longitude": 4.366581,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 38,
+      "name": "Haan",
+      "latitude": 51.813425,
+      "longitude": 4.647106,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 39,
+      "name": "Haan Kanaleneiland",
+      "latitude": 52.066702,
+      "longitude": 5.109622,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 40,
+      "name": "Het Hunnerpark",
+      "latitude": 51.845832,
+      "longitude": 5.872115,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 41,
+      "name": "Holland Souvenirs",
+      "latitude": 52.079842,
+      "longitude": 4.317304,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 42,
+      "name": "IJskast",
+      "latitude": 51.494747,
+      "longitude": 3.724317,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 43,
+      "name": "IJssalon L'Arcobaleno",
+      "latitude": 52.042288,
+      "longitude": 4.393193,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 44,
+      "name": "Kaasboerderij Mollinkwoner",
+      "latitude": 52.278177,
+      "longitude": 6.7145,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 45,
+      "name": "Kiosk",
+      "latitude": 50.850397,
+      "longitude": 5.705315,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 46,
+      "name": "Kiosk",
+      "latitude": 50.89092,
+      "longitude": 5.975165,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 47,
+      "name": "Kiosk",
+      "latitude": 51.001788,
+      "longitude": 5.858764,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 48,
+      "name": "Kiosk",
+      "latitude": 51.24871,
+      "longitude": 5.703778,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 49,
+      "name": "Kiosk",
+      "latitude": 51.365235,
+      "longitude": 6.171316,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 50,
+      "name": "Kiosk",
+      "latitude": 51.443326,
+      "longitude": 5.480582,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 51,
+      "name": "Kiosk",
+      "latitude": 51.4756,
+      "longitude": 5.661627,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 52,
+      "name": "Kiosk",
+      "latitude": 51.495145,
+      "longitude": 4.295954,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 53,
+      "name": "Kiosk",
+      "latitude": 51.540325,
+      "longitude": 4.458934,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 54,
+      "name": "Kiosk",
+      "latitude": 51.561295,
+      "longitude": 5.07355,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 55,
+      "name": "Kiosk",
+      "latitude": 51.595438,
+      "longitude": 4.779865,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 56,
+      "name": "Kiosk",
+      "latitude": 51.595894,
+      "longitude": 4.778835,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 57,
+      "name": "Kiosk",
+      "latitude": 51.690205,
+      "longitude": 5.293192,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 58,
+      "name": "Kiosk",
+      "latitude": 51.690864,
+      "longitude": 5.293824,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 59,
+      "name": "Kiosk",
+      "latitude": 51.7652,
+      "longitude": 5.530195,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 60,
+      "name": "Kiosk",
+      "latitude": 51.815619,
+      "longitude": 4.640967,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 61,
+      "name": "Kiosk",
+      "latitude": 51.84329,
+      "longitude": 5.85305,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 62,
+      "name": "Kiosk",
+      "latitude": 51.843689,
+      "longitude": 5.852567,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 63,
+      "name": "Kiosk",
+      "latitude": 51.92004,
+      "longitude": 4.488858,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 64,
+      "name": "Kiosk",
+      "latitude": 51.924457,
+      "longitude": 4.467871,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 65,
+      "name": "Kiosk",
+      "latitude": 51.925039,
+      "longitude": 4.467522,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 66,
+      "name": "Kiosk",
+      "latitude": 51.925623,
+      "longitude": 4.469166,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 67,
+      "name": "Kiosk",
+      "latitude": 51.984741,
+      "longitude": 5.900046,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 68,
+      "name": "Kiosk",
+      "latitude": 51.985561,
+      "longitude": 5.899004,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 69,
+      "name": "Kiosk",
+      "latitude": 52.007621,
+      "longitude": 4.356592,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 70,
+      "name": "Kiosk",
+      "latitude": 52.017269,
+      "longitude": 4.706809,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 71,
+      "name": "Kiosk",
+      "latitude": 52.017596,
+      "longitude": 4.705773,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 72,
+      "name": "Kiosk",
+      "latitude": 52.02665,
+      "longitude": 5.674687,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 73,
+      "name": "Kiosk",
+      "latitude": 52.045973,
+      "longitude": 5.573861,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 74,
+      "name": "Kiosk",
+      "latitude": 52.069674,
+      "longitude": 4.322304,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 75,
+      "name": "Kiosk",
+      "latitude": 52.079212,
+      "longitude": 4.342936,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 76,
+      "name": "Kiosk",
+      "latitude": 52.081447,
+      "longitude": 4.324046,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 77,
+      "name": "Kiosk",
+      "latitude": 52.088451,
+      "longitude": 5.110104,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 78,
+      "name": "Kiosk",
+      "latitude": 52.088792,
+      "longitude": 5.110982,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 79,
+      "name": "Kiosk",
+      "latitude": 52.089569,
+      "longitude": 5.109761,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 80,
+      "name": "Kiosk",
+      "latitude": 52.090176,
+      "longitude": 5.109308,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 81,
+      "name": "Kiosk",
+      "latitude": 52.144587,
+      "longitude": 6.194494,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 82,
+      "name": "Kiosk",
+      "latitude": 52.153406,
+      "longitude": 5.37188,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 83,
+      "name": "Kiosk",
+      "latitude": 52.153429,
+      "longitude": 5.374328,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 84,
+      "name": "Kiosk",
+      "latitude": 52.153972,
+      "longitude": 5.373434,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 85,
+      "name": "Kiosk",
+      "latitude": 52.165942,
+      "longitude": 4.481235,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 86,
+      "name": "Kiosk",
+      "latitude": 52.226457,
+      "longitude": 5.181999,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 87,
+      "name": "Kiosk",
+      "latitude": 52.26183,
+      "longitude": 6.794257,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 88,
+      "name": "Kiosk",
+      "latitude": 52.292099,
+      "longitude": 4.715219,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 89,
+      "name": "Kiosk",
+      "latitude": 52.311891,
+      "longitude": 4.947494,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 90,
+      "name": "Kiosk",
+      "latitude": 52.337596,
+      "longitude": 5.619866,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 91,
+      "name": "Kiosk",
+      "latitude": 52.339212,
+      "longitude": 4.87354,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 92,
+      "name": "Kiosk",
+      "latitude": 52.346179,
+      "longitude": 4.917549,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 93,
+      "name": "Kiosk",
+      "latitude": 52.360622,
+      "longitude": 4.931888,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 94,
+      "name": "Kiosk",
+      "latitude": 52.370597,
+      "longitude": 4.900487,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 95,
+      "name": "Kiosk",
+      "latitude": 52.373793,
+      "longitude": 5.816925,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 96,
+      "name": "Kiosk",
+      "latitude": 52.375177,
+      "longitude": 5.21869,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 97,
+      "name": "Kiosk",
+      "latitude": 52.375702,
+      "longitude": 4.531548,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 98,
+      "name": "Kiosk",
+      "latitude": 52.378827,
+      "longitude": 4.900283,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 99,
+      "name": "Kiosk",
+      "latitude": 52.387784,
+      "longitude": 4.637641,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 100,
+      "name": "Kiosk",
+      "latitude": 52.387821,
+      "longitude": 4.63928,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 101,
+      "name": "Kiosk",
+      "latitude": 52.388828,
+      "longitude": 4.83826,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 102,
+      "name": "Kiosk",
+      "latitude": 52.437997,
+      "longitude": 4.814208,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 103,
+      "name": "Kiosk",
+      "latitude": 52.504645,
+      "longitude": 6.092263,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 104,
+      "name": "Kiosk",
+      "latitude": 52.505066,
+      "longitude": 6.089845,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 105,
+      "name": "Kiosk",
+      "latitude": 52.507951,
+      "longitude": 5.47281,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 106,
+      "name": "Kiosk",
+      "latitude": 52.545746,
+      "longitude": 4.658754,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 107,
+      "name": "Kiosk",
+      "latitude": 52.60011,
+      "longitude": 4.70121,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 108,
+      "name": "Kiosk",
+      "latitude": 52.638069,
+      "longitude": 4.740149,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 109,
+      "name": "Kiosk",
+      "latitude": 52.644974,
+      "longitude": 5.054217,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 110,
+      "name": "Kiosk",
+      "latitude": 52.733411,
+      "longitude": 6.472916,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 111,
+      "name": "Kiosk",
+      "latitude": 52.943389,
+      "longitude": 6.347778,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 112,
+      "name": "Kiosk",
+      "latitude": 52.956936,
+      "longitude": 4.760538,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 113,
+      "name": "Kiosk",
+      "latitude": 53.196213,
+      "longitude": 5.793023,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 114,
+      "name": "Kiosk",
+      "latitude": 53.204632,
+      "longitude": 6.586289,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 115,
+      "name": "Kiosk",
+      "latitude": 53.210125,
+      "longitude": 6.565282,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 116,
+      "name": "Kiosk",
+      "latitude": 53.210855,
+      "longitude": 6.563165,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 117,
+      "name": "Kiosk",
+      "latitude": 53.210984,
+      "longitude": 6.564966,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 118,
+      "name": "Kiosk",
+      "latitude": 53.211137,
+      "longitude": 6.566719,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 119,
+      "name": "Kiosk",
+      "latitude": 53.218345,
+      "longitude": 6.567725,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 120,
+      "name": "Kiosk Maassen",
+      "latitude": 51.830563,
+      "longitude": 5.829533,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 121,
+      "name": "Kiosk Ome Toon",
+      "latitude": 52.308308,
+      "longitude": 6.92736,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 122,
+      "name": "Kiosken",
+      "latitude": 52.957914,
+      "longitude": 6.334894,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 123,
+      "name": "Le Duc",
+      "latitude": 51.817154,
+      "longitude": 4.669686,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 124,
+      "name": "MC Jad Tokosupermarkt",
+      "latitude": 52.314065,
+      "longitude": 4.975029,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 125,
+      "name": "Martins avondwinkel",
+      "latitude": 52.375033,
+      "longitude": 4.859999,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 126,
+      "name": "Multi Tabak Shop",
+      "latitude": 51.886461,
+      "longitude": 4.490487,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 127,
+      "name": "News & Books",
+      "latitude": 52.305178,
+      "longitude": 4.761244,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 128,
+      "name": "OK Venlo",
+      "latitude": 51.380077,
+      "longitude": 6.190016,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 129,
+      "name": "Panoramazaal Kinderdijk",
+      "latitude": 51.889093,
+      "longitude": 4.635804,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 130,
+      "name": "PlanV Quiche kraam",
+      "latitude": 52.226929,
+      "longitude": 5.182316,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 131,
+      "name": "Primera",
+      "latitude": 52.349526,
+      "longitude": 4.839868,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 132,
+      "name": "Ramon's Coffee Kiosk",
+      "latitude": 52.389848,
+      "longitude": 4.891049,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 133,
+      "name": "Receptie camping /wsc",
+      "latitude": 52.12241,
+      "longitude": 4.460968,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 134,
+      "name": "Reset Bar",
+      "latitude": 52.33444,
+      "longitude": 4.854374,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 135,
+      "name": "Royal Tobacco",
+      "latitude": 52.361883,
+      "longitude": 4.898943,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 136,
+      "name": "SH Snacks",
+      "latitude": 52.326426,
+      "longitude": 4.946151,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 137,
+      "name": "Schippers tabak & lectuur",
+      "latitude": 53.181315,
+      "longitude": 6.163428,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 138,
+      "name": "Schoenherstelbedrijf",
+      "latitude": 51.428379,
+      "longitude": 4.319767,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 139,
+      "name": "Servicestation Jansema",
+      "latitude": 52.266929,
+      "longitude": 6.775612,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 140,
+      "name": "Shell",
+      "latitude": 52.208322,
+      "longitude": 5.97534,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 141,
+      "name": "Shell",
+      "latitude": 52.331513,
+      "longitude": 5.619025,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 142,
+      "name": "Shell",
+      "latitude": 52.365427,
+      "longitude": 5.784138,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 143,
+      "name": "Shell",
+      "latitude": 52.419916,
+      "longitude": 5.879932,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 144,
+      "name": "Shell",
+      "latitude": 52.520328,
+      "longitude": 5.481861,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 145,
+      "name": "Shell",
+      "latitude": 52.973827,
+      "longitude": 5.452655,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 146,
+      "name": "Shell Hanex",
+      "latitude": 51.691171,
+      "longitude": 5.209873,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 147,
+      "name": "Shell Kort Ambachtlaan",
+      "latitude": 51.811002,
+      "longitude": 4.628902,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 148,
+      "name": "Shell de Rijp",
+      "latitude": 52.551447,
+      "longitude": 4.845485,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 149,
+      "name": "Siemar",
+      "latitude": 51.488302,
+      "longitude": 5.440916,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 150,
+      "name": "StationsHuiskamer",
+      "latitude": 52.78538,
+      "longitude": 4.805076,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 151,
+      "name": "Stationshuys",
+      "latitude": 52.690496,
+      "longitude": 5.182457,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 152,
+      "name": "Strandtoko Kavel 1",
+      "latitude": 51.596106,
+      "longitude": 3.6702,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 153,
+      "name": "Sunrise Belhuis & Tabakshop",
+      "latitude": 51.898067,
+      "longitude": 4.497626,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 154,
+      "name": "Sweets To Go",
+      "latitude": 52.489353,
+      "longitude": 4.793408,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 155,
+      "name": "T&G robrijkers.nl",
+      "latitude": 51.9288,
+      "longitude": 4.23963,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 156,
+      "name": "Tabac & Gifts",
+      "latitude": 51.907649,
+      "longitude": 4.492586,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 157,
+      "name": "Tabac & Gifts van Oostrom",
+      "latitude": 52.508836,
+      "longitude": 4.968795,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 158,
+      "name": "Tabak en Gemakszaak Hintham",
+      "latitude": 51.69876,
+      "longitude": 5.341387,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 159,
+      "name": "Tabak-Lectuurshop Royal",
+      "latitude": 51.896096,
+      "longitude": 4.499601,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 160,
+      "name": "Tabaksshop",
+      "latitude": 51.888053,
+      "longitude": 4.508291,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 161,
+      "name": "Tabaksspeciaalzaak Kramer",
+      "latitude": 51.902122,
+      "longitude": 4.164688,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 162,
+      "name": "Tamoil",
+      "latitude": 51.536301,
+      "longitude": 4.468541,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 163,
+      "name": "Tankstation Stam",
+      "latitude": 52.137657,
+      "longitude": 5.074282,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 164,
+      "name": "Techador Tekin",
+      "latitude": 52.379235,
+      "longitude": 4.833842,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 165,
+      "name": "The Kiosk",
+      "latitude": 51.444013,
+      "longitude": 3.595842,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 166,
+      "name": "The Kiosk",
+      "latitude": 51.495466,
+      "longitude": 3.618761,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 167,
+      "name": "The Roundabout",
+      "latitude": 52.39059,
+      "longitude": 4.927875,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 168,
+      "name": "Van Hinsberg",
+      "latitude": 50.969619,
+      "longitude": 5.82394,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 169,
+      "name": "Vivant Butterfly",
+      "latitude": 52.045742,
+      "longitude": 4.725337,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 170,
+      "name": "Vivant Edwin en Janet",
+      "latitude": 52.010593,
+      "longitude": 5.431562,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 171,
+      "name": "Vivant de Jordaan",
+      "latitude": 52.37856,
+      "longitude": 4.88345,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 172,
+      "name": "Vorst IJs",
+      "latitude": 52.225253,
+      "longitude": 5.171737,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 173,
+      "name": "Ylmz tabakshop",
+      "latitude": 52.379614,
+      "longitude": 4.83144,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 174,
+      "name": "Zandziebar",
+      "latitude": 51.897192,
+      "longitude": 5.779487,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 175,
+      "name": "Zomers aan Zee",
+      "latitude": 52.495238,
+      "longitude": 4.585871,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 176,
+      "name": "Zuhal's Hoekje",
+      "latitude": 52.494798,
+      "longitude": 4.755675,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 177,
+      "name": "camping De Bovenberg",
+      "latitude": 52.26562,
+      "longitude": 6.520179,
+      "osm_klasse": "shop=kiosk"
+    },
+    {
+      "id": 178,
+      "name": "de Kuiter",
+      "latitude": 52.196408,
+      "longitude": 6.100994,
+      "osm_klasse": "shop=kiosk"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: kiosk (shop=kiosk) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=kiosk in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 178 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: kiosk (shop=kiosk) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: kiosk (shop=kiosk) — 178 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 178 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

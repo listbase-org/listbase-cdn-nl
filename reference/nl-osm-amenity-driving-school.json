@@ -1,0 +1,1444 @@
+{
+  "id": "nl-osm-amenity-driving-school",
+  "name": "Netherlands OSM: driving school (amenity=driving_school)",
+  "title": "Netherlands OSM: driving school (amenity=driving_school)",
+  "description": "Named OpenStreetMap features tagged amenity=driving_school in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 199,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "A. Boonen",
+      "latitude": 52.068758,
+      "longitude": 5.119614,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 2,
+      "name": "ACBE",
+      "latitude": 51.897792,
+      "longitude": 4.573074,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 3,
+      "name": "ANWB Rijopleiding Amersfoort",
+      "latitude": 52.141061,
+      "longitude": 5.42098,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 4,
+      "name": "ANWB Rijschool Amsterdam",
+      "latitude": 52.390616,
+      "longitude": 4.827814,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 5,
+      "name": "ANWB Rijschool Nijmegen",
+      "latitude": 51.843362,
+      "longitude": 5.825639,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 6,
+      "name": "ANWB Rijschool Pumerend",
+      "latitude": 52.514075,
+      "longitude": 4.995805,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 7,
+      "name": "Agrilog",
+      "latitude": 53.196411,
+      "longitude": 5.769465,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 8,
+      "name": "Amsterdamse VerkeersOpleidingen (AVO)",
+      "latitude": 52.348692,
+      "longitude": 4.832643,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 9,
+      "name": "Apeldoorn & Bloemzaad",
+      "latitude": 52.188404,
+      "longitude": 5.988478,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 10,
+      "name": "Auto- en Motorrijschool R. Vriends",
+      "latitude": 51.944887,
+      "longitude": 4.470366,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 11,
+      "name": "Auto- en motorrijschool 'Ted'",
+      "latitude": 51.883424,
+      "longitude": 4.543116,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 12,
+      "name": "Autorijschool Bruinsma",
+      "latitude": 52.079149,
+      "longitude": 5.145672,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 13,
+      "name": "Autorijschool Buivenga",
+      "latitude": 53.209422,
+      "longitude": 6.265108,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 14,
+      "name": "Autorijschool Buivenga",
+      "latitude": 53.213201,
+      "longitude": 6.272327,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 15,
+      "name": "Autorijschool De Eglantier",
+      "latitude": 52.193569,
+      "longitude": 6.006277,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 16,
+      "name": "Autorijschool De Groen",
+      "latitude": 51.520767,
+      "longitude": 4.441649,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 17,
+      "name": "Autorijschool De Maas",
+      "latitude": 51.906769,
+      "longitude": 4.457815,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 18,
+      "name": "Autorijschool Elsenaar",
+      "latitude": 51.425279,
+      "longitude": 5.549575,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 19,
+      "name": "Autorijschool Geert de Bruin",
+      "latitude": 53.179996,
+      "longitude": 6.164864,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 20,
+      "name": "Autorijschool J van Schalk",
+      "latitude": 51.328109,
+      "longitude": 3.492095,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 21,
+      "name": "Autorijschool Jan van Dijk",
+      "latitude": 53.17927,
+      "longitude": 6.17513,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 22,
+      "name": "Autorijschool Jos Pieters",
+      "latitude": 50.862721,
+      "longitude": 5.887749,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 23,
+      "name": "Autorijschool Leen Kant",
+      "latitude": 51.814501,
+      "longitude": 4.619048,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 24,
+      "name": "Autorijschool Mels Bos",
+      "latitude": 51.886868,
+      "longitude": 5.18684,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 25,
+      "name": "Autorijschool Rino de Windt",
+      "latitude": 51.328529,
+      "longitude": 3.495095,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 26,
+      "name": "Autorijschool Schreuder",
+      "latitude": 53.262045,
+      "longitude": 6.590045,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 27,
+      "name": "Autorijschool TonTon",
+      "latitude": 52.11751,
+      "longitude": 5.411732,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 28,
+      "name": "Autorijschool Wischmann",
+      "latitude": 50.905288,
+      "longitude": 6.057952,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 29,
+      "name": "Autorijschool de Wind",
+      "latitude": 53.182623,
+      "longitude": 6.177152,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 30,
+      "name": "Autorijschool van der V1",
+      "latitude": 52.512499,
+      "longitude": 4.997818,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 31,
+      "name": "Autoverhuur en Verkeersschool Fikkert",
+      "latitude": 52.277314,
+      "longitude": 6.789963,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 32,
+      "name": "Ayman Rijschool",
+      "latitude": 51.647513,
+      "longitude": 3.903256,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 33,
+      "name": "Bel-Hamel",
+      "latitude": 51.781645,
+      "longitude": 4.552149,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 34,
+      "name": "Ben & Eddy's Rijopleidingen",
+      "latitude": 51.923892,
+      "longitude": 4.498842,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 35,
+      "name": "Bert v/d Hoek",
+      "latitude": 52.143941,
+      "longitude": 5.387007,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 36,
+      "name": "Beugelsdijk",
+      "latitude": 52.147191,
+      "longitude": 4.653477,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 37,
+      "name": "Blok-Huls",
+      "latitude": 52.490845,
+      "longitude": 6.128091,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 38,
+      "name": "Blom Verkeersschool",
+      "latitude": 51.572782,
+      "longitude": 4.827276,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 39,
+      "name": "Brookhuis",
+      "latitude": 52.221628,
+      "longitude": 6.890444,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 40,
+      "name": "Bruggeman",
+      "latitude": 51.716071,
+      "longitude": 4.285758,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 41,
+      "name": "Brünen",
+      "latitude": 52.196405,
+      "longitude": 6.890417,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 42,
+      "name": "Budget",
+      "latitude": 52.375402,
+      "longitude": 4.827946,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 43,
+      "name": "CBR",
+      "latitude": 51.842617,
+      "longitude": 4.919453,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 44,
+      "name": "CBR Almelo",
+      "latitude": 52.369144,
+      "longitude": 6.611751,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 45,
+      "name": "CBR Examencentrum",
+      "latitude": 52.517784,
+      "longitude": 6.05715,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 46,
+      "name": "CBR Examencentrum Barendrecht",
+      "latitude": 51.868733,
+      "longitude": 4.537347,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 47,
+      "name": "CBR Examencentrum Mierlo",
+      "latitude": 51.44385,
+      "longitude": 5.61107,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 48,
+      "name": "CVNN",
+      "latitude": 52.519002,
+      "longitude": 6.117989,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 49,
+      "name": "De Hoog",
+      "latitude": 51.903468,
+      "longitude": 4.314501,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 50,
+      "name": "De Koning",
+      "latitude": 52.13517,
+      "longitude": 5.434192,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 51,
+      "name": "De Veluwe",
+      "latitude": 52.196208,
+      "longitude": 5.966137,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 52,
+      "name": "De Weerd",
+      "latitude": 52.190834,
+      "longitude": 5.980284,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 53,
+      "name": "De Zeeuwse Autorijschool",
+      "latitude": 51.695465,
+      "longitude": 3.745335,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 54,
+      "name": "Dek Opleiding en Training",
+      "latitude": 51.493185,
+      "longitude": 3.874873,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 55,
+      "name": "Dekker rijschool",
+      "latitude": 51.423503,
+      "longitude": 5.430796,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 56,
+      "name": "E & R Opleidingen B.V. Rijschool Aalsmeer",
+      "latitude": 52.256714,
+      "longitude": 4.778009,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 57,
+      "name": "E. van Drie Verkeersopleidingen",
+      "latitude": 52.090364,
+      "longitude": 5.241427,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 58,
+      "name": "Easy Driving",
+      "latitude": 52.060062,
+      "longitude": 4.278791,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 59,
+      "name": "Expert",
+      "latitude": 52.160816,
+      "longitude": 4.49689,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 60,
+      "name": "Fier Autorijschool",
+      "latitude": 51.810053,
+      "longitude": 4.634809,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 61,
+      "name": "Flyover",
+      "latitude": 52.053284,
+      "longitude": 4.49437,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 62,
+      "name": "Frank Raven Rijschool",
+      "latitude": 52.25185,
+      "longitude": 6.792263,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 63,
+      "name": "Frank Schuurman",
+      "latitude": 52.208411,
+      "longitude": 5.980836,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 64,
+      "name": "GUL",
+      "latitude": 52.06243,
+      "longitude": 4.293607,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 65,
+      "name": "Gooische Rijschool",
+      "latitude": 52.197637,
+      "longitude": 5.137456,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 66,
+      "name": "HIPPE Amstelveen",
+      "latitude": 52.298498,
+      "longitude": 4.847527,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 67,
+      "name": "Hans Boomsluiter",
+      "latitude": 52.021037,
+      "longitude": 4.709511,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 68,
+      "name": "Hans Slager Rijschool",
+      "latitude": 53.279622,
+      "longitude": 6.698209,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 69,
+      "name": "Hartemink",
+      "latitude": 52.091645,
+      "longitude": 6.644186,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 70,
+      "name": "Henk Legerstee",
+      "latitude": 51.786742,
+      "longitude": 4.558635,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 71,
+      "name": "Hoogesteger Verkeersopleidingen",
+      "latitude": 51.494959,
+      "longitude": 3.876164,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 72,
+      "name": "Ishak",
+      "latitude": 52.356481,
+      "longitude": 4.996593,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 73,
+      "name": "Istha",
+      "latitude": 52.943802,
+      "longitude": 4.774836,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 74,
+      "name": "Jaap Speelziek Opleidingen",
+      "latitude": 51.91997,
+      "longitude": 6.568698,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 75,
+      "name": "Jongen",
+      "latitude": 50.886049,
+      "longitude": 5.974662,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 76,
+      "name": "Joop Hagen",
+      "latitude": 52.253029,
+      "longitude": 6.175311,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 77,
+      "name": "Juk Rijopleidingen",
+      "latitude": 53.188816,
+      "longitude": 6.371058,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 78,
+      "name": "Knetemann",
+      "latitude": 51.717164,
+      "longitude": 4.282707,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 79,
+      "name": "Kreeft Opleidingen",
+      "latitude": 52.739108,
+      "longitude": 6.472271,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 80,
+      "name": "Kwerreveld",
+      "latitude": 53.231366,
+      "longitude": 6.583457,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 81,
+      "name": "Lazymotorbike.eu",
+      "latitude": 50.779297,
+      "longitude": 5.791289,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 82,
+      "name": "Les is More",
+      "latitude": 52.197614,
+      "longitude": 5.963104,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 83,
+      "name": "Let's go Sevda",
+      "latitude": 52.07146,
+      "longitude": 4.291677,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 84,
+      "name": "Leuwendaal Rijinstructies",
+      "latitude": 52.059135,
+      "longitude": 4.343069,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 85,
+      "name": "Mattemburgh Rijopleidingen",
+      "latitude": 51.500504,
+      "longitude": 3.888104,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 86,
+      "name": "Metro",
+      "latitude": 52.063545,
+      "longitude": 4.274608,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 87,
+      "name": "Motor & auto rijschool Marcel van den Bergh",
+      "latitude": 51.857343,
+      "longitude": 4.324972,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 88,
+      "name": "Motorrijschool Versnel",
+      "latitude": 52.334738,
+      "longitude": 4.967773,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 89,
+      "name": "Motorrijschool Zoetermeer Flex-line",
+      "latitude": 52.065322,
+      "longitude": 4.539656,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 90,
+      "name": "NXXT",
+      "latitude": 51.500216,
+      "longitude": 3.88774,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 91,
+      "name": "NXXT",
+      "latitude": 51.811199,
+      "longitude": 4.025334,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 92,
+      "name": "Nederlands Instituut voor Verkeersveiligheid",
+      "latitude": 52.712168,
+      "longitude": 6.199819,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 93,
+      "name": "Nutheorie",
+      "latitude": 52.517897,
+      "longitude": 6.058043,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 94,
+      "name": "Nxxt Rijschool Roy Hanssen",
+      "latitude": 50.971342,
+      "longitude": 5.776269,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 95,
+      "name": "Oosterpoort",
+      "latitude": 53.005603,
+      "longitude": 6.594008,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 96,
+      "name": "Oosterpoort",
+      "latitude": 53.200652,
+      "longitude": 5.8416,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 97,
+      "name": "Oosterpoort Opleidingen",
+      "latitude": 53.005468,
+      "longitude": 6.593562,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 98,
+      "name": "Perspectief",
+      "latitude": 52.502898,
+      "longitude": 5.436469,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 99,
+      "name": "Philippo",
+      "latitude": 52.073071,
+      "longitude": 4.275122,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 100,
+      "name": "Post",
+      "latitude": 52.453559,
+      "longitude": 4.590612,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 101,
+      "name": "Postma Rijopleidingen B.V.",
+      "latitude": 52.242016,
+      "longitude": 6.221886,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 102,
+      "name": "RVV.NL",
+      "latitude": 52.384669,
+      "longitude": 4.882545,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 103,
+      "name": "Riffi",
+      "latitude": 51.598619,
+      "longitude": 4.792137,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 104,
+      "name": "Rijden met Marcel",
+      "latitude": 52.001938,
+      "longitude": 6.365568,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 105,
+      "name": "Rijles Harderwijk",
+      "latitude": 52.328442,
+      "longitude": 5.591727,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 106,
+      "name": "Rijproces",
+      "latitude": 51.816451,
+      "longitude": 4.641471,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 107,
+      "name": "Rijschool 4U",
+      "latitude": 51.483309,
+      "longitude": 3.553252,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 108,
+      "name": "Rijschool A.A. Bosman",
+      "latitude": 53.264063,
+      "longitude": 6.304558,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 109,
+      "name": "Rijschool Actief",
+      "latitude": 51.489631,
+      "longitude": 3.605714,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 110,
+      "name": "Rijschool Attent",
+      "latitude": 51.68812,
+      "longitude": 5.207144,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 111,
+      "name": "Rijschool Barney",
+      "latitude": 51.4934,
+      "longitude": 3.907206,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 112,
+      "name": "Rijschool Berbers",
+      "latitude": 51.188901,
+      "longitude": 6.010469,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 113,
+      "name": "Rijschool Berendsen",
+      "latitude": 51.908131,
+      "longitude": 6.382409,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 114,
+      "name": "Rijschool Blad",
+      "latitude": 51.89038,
+      "longitude": 4.511116,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 115,
+      "name": "Rijschool Boering",
+      "latitude": 52.641398,
+      "longitude": 6.063649,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 116,
+      "name": "Rijschool Break",
+      "latitude": 51.894106,
+      "longitude": 4.511132,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 117,
+      "name": "Rijschool De Bruijn",
+      "latitude": 51.761932,
+      "longitude": 5.782841,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 118,
+      "name": "Rijschool Delfin",
+      "latitude": 52.040771,
+      "longitude": 4.359876,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 119,
+      "name": "Rijschool Enjoy Riding",
+      "latitude": 51.901945,
+      "longitude": 4.497296,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 120,
+      "name": "Rijschool Fryslân",
+      "latitude": 53.10437,
+      "longitude": 6.115705,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 121,
+      "name": "Rijschool G. Meijer",
+      "latitude": 51.431927,
+      "longitude": 5.386825,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 122,
+      "name": "Rijschool Goes",
+      "latitude": 51.495937,
+      "longitude": 3.908169,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 123,
+      "name": "Rijschool Gul",
+      "latitude": 52.066392,
+      "longitude": 4.319673,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 124,
+      "name": "Rijschool Heezen",
+      "latitude": 51.396595,
+      "longitude": 5.472694,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 125,
+      "name": "Rijschool Hendriks",
+      "latitude": 52.449869,
+      "longitude": 5.902294,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 126,
+      "name": "Rijschool Holland",
+      "latitude": 51.890527,
+      "longitude": 4.475941,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 127,
+      "name": "Rijschool Homeijer",
+      "latitude": 52.231513,
+      "longitude": 6.854136,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 128,
+      "name": "Rijschool Houtekamer",
+      "latitude": 51.442622,
+      "longitude": 4.077435,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 129,
+      "name": "Rijschool Ildes",
+      "latitude": 51.51661,
+      "longitude": 4.47238,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 130,
+      "name": "Rijschool Jack Kollard",
+      "latitude": 50.997906,
+      "longitude": 5.770382,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 131,
+      "name": "Rijschool Jet Blei",
+      "latitude": 52.284469,
+      "longitude": 4.55197,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 132,
+      "name": "Rijschool Juma",
+      "latitude": 53.020299,
+      "longitude": 6.560728,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 133,
+      "name": "Rijschool Licentiam Nieuw-Vennep",
+      "latitude": 52.25791,
+      "longitude": 4.628551,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 134,
+      "name": "Rijschool Look",
+      "latitude": 51.586629,
+      "longitude": 4.764731,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 135,
+      "name": "Rijschool Metin",
+      "latitude": 52.482676,
+      "longitude": 4.654545,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 136,
+      "name": "Rijschool Nancy",
+      "latitude": 51.44377,
+      "longitude": 5.8119,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 137,
+      "name": "Rijschool Nieuw Haarlem",
+      "latitude": 52.364368,
+      "longitude": 4.649786,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 138,
+      "name": "Rijschool Peter Hoek",
+      "latitude": 51.700756,
+      "longitude": 5.345743,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 139,
+      "name": "Rijschool Rainbow",
+      "latitude": 52.478608,
+      "longitude": 4.655476,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 140,
+      "name": "Rijschool Reniers",
+      "latitude": 51.364921,
+      "longitude": 5.170789,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 141,
+      "name": "Rijschool Roordink",
+      "latitude": 52.25551,
+      "longitude": 5.586448,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 142,
+      "name": "Rijschool Safety",
+      "latitude": 52.027066,
+      "longitude": 5.14613,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 143,
+      "name": "Rijschool Siegers",
+      "latitude": 52.487758,
+      "longitude": 4.653715,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 144,
+      "name": "Rijschool Tinus",
+      "latitude": 51.308077,
+      "longitude": 3.849181,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 145,
+      "name": "Rijschool Walcheren",
+      "latitude": 51.490299,
+      "longitude": 3.648799,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 146,
+      "name": "Rijschool Wheels",
+      "latitude": 51.275692,
+      "longitude": 4.068863,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 147,
+      "name": "Rijschool Zegers",
+      "latitude": 52.331208,
+      "longitude": 5.621053,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 148,
+      "name": "Rijschool de Eerste Stap",
+      "latitude": 52.07918,
+      "longitude": 4.397833,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 149,
+      "name": "Ronald Verkeersopleidingen B.V.",
+      "latitude": 51.833679,
+      "longitude": 4.73325,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 150,
+      "name": "Ronchetti",
+      "latitude": 52.445065,
+      "longitude": 4.837805,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 151,
+      "name": "Roordink",
+      "latitude": 52.220839,
+      "longitude": 5.493505,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 152,
+      "name": "Slotemakers Antislipschool",
+      "latitude": 52.383595,
+      "longitude": 4.535047,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 153,
+      "name": "Sterk Rijopleidingen",
+      "latitude": 52.123569,
+      "longitude": 5.090178,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 154,
+      "name": "Succes-Mimpen",
+      "latitude": 52.034664,
+      "longitude": 4.650102,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 155,
+      "name": "Tempo",
+      "latitude": 52.078833,
+      "longitude": 4.291272,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 156,
+      "name": "Theoriecentrum Venlo",
+      "latitude": 51.366278,
+      "longitude": 6.153452,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 157,
+      "name": "Theory Center",
+      "latitude": 52.32216,
+      "longitude": 4.975549,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 158,
+      "name": "Tom de Keizer",
+      "latitude": 52.444412,
+      "longitude": 4.832871,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 159,
+      "name": "Troy",
+      "latitude": 52.102728,
+      "longitude": 5.092401,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 160,
+      "name": "TurboTheorie Goes",
+      "latitude": 51.500138,
+      "longitude": 3.8884,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 161,
+      "name": "VEC Koops",
+      "latitude": 53.009457,
+      "longitude": 6.580813,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 162,
+      "name": "Van Buuren",
+      "latitude": 52.074032,
+      "longitude": 4.322813,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 163,
+      "name": "Van Buuren",
+      "latitude": 52.502894,
+      "longitude": 6.120699,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 164,
+      "name": "Van Vugt Verkeersopleidingen",
+      "latitude": 52.693533,
+      "longitude": 5.026248,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 165,
+      "name": "Van den Top Rijopleidingen",
+      "latitude": 52.003573,
+      "longitude": 5.680825,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 166,
+      "name": "Verkeers Educatie Centrum",
+      "latitude": 53.116985,
+      "longitude": 6.117873,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 167,
+      "name": "Verkeerscentrum Zoetermeer",
+      "latitude": 52.052888,
+      "longitude": 4.496663,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 168,
+      "name": "Verkeerschool Eros",
+      "latitude": 52.378306,
+      "longitude": 4.849208,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 169,
+      "name": "Verkeersopleidingscentrum Friesland",
+      "latitude": 53.202127,
+      "longitude": 5.845876,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 170,
+      "name": "Verkeersschool Bakker",
+      "latitude": 51.693573,
+      "longitude": 5.198219,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 171,
+      "name": "Verkeersschool Beni",
+      "latitude": 52.063099,
+      "longitude": 4.331494,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 172,
+      "name": "Verkeersschool Bullet 2",
+      "latitude": 52.070835,
+      "longitude": 4.28386,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 173,
+      "name": "Verkeersschool De Ridder",
+      "latitude": 52.103767,
+      "longitude": 4.278927,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 174,
+      "name": "Verkeersschool Fred Blommaert",
+      "latitude": 51.499513,
+      "longitude": 3.894977,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 175,
+      "name": "Verkeersschool Fred Blommaert",
+      "latitude": 51.648714,
+      "longitude": 3.92849,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 176,
+      "name": "Verkeersschool GO",
+      "latitude": 52.276418,
+      "longitude": 6.804498,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 177,
+      "name": "Verkeersschool Jongejan",
+      "latitude": 52.89539,
+      "longitude": 4.764842,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 178,
+      "name": "Verkeersschool Joro",
+      "latitude": 52.510249,
+      "longitude": 5.007104,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 179,
+      "name": "Verkeersschool Noordzee",
+      "latitude": 52.009356,
+      "longitude": 4.348531,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 180,
+      "name": "Verkeersschool Oosterpoort",
+      "latitude": 53.215626,
+      "longitude": 6.535998,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 181,
+      "name": "Verkeersschool Paul Lam",
+      "latitude": 51.837422,
+      "longitude": 5.834179,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 182,
+      "name": "Verkeersschool Post Klingeler",
+      "latitude": 52.486707,
+      "longitude": 4.66041,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 183,
+      "name": "Verkeersschool Saidi",
+      "latitude": 52.367526,
+      "longitude": 4.836118,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 184,
+      "name": "Verkeersschool Schuringa",
+      "latitude": 53.151965,
+      "longitude": 7.046925,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 185,
+      "name": "Verkeersschool Tilburg",
+      "latitude": 51.552561,
+      "longitude": 5.078033,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 186,
+      "name": "Verkeersschool Tilstra",
+      "latitude": 53.202036,
+      "longitude": 5.845586,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 187,
+      "name": "Verkeersschool Trilling",
+      "latitude": 52.400069,
+      "longitude": 4.837613,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 188,
+      "name": "Verkeersschool Van der Heijden",
+      "latitude": 52.163107,
+      "longitude": 5.40645,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 189,
+      "name": "Verkeersschool Wesseldijk",
+      "latitude": 51.843435,
+      "longitude": 5.82569,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 190,
+      "name": "Verkeersschool Wierks B.V.",
+      "latitude": 51.797184,
+      "longitude": 4.717051,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 191,
+      "name": "Verkeersschool de Bogerd",
+      "latitude": 51.68556,
+      "longitude": 3.982071,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 192,
+      "name": "Veronica Verkeersschool",
+      "latitude": 52.103159,
+      "longitude": 5.130709,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 193,
+      "name": "Vrijburg.nl",
+      "latitude": 53.114701,
+      "longitude": 6.097172,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 194,
+      "name": "W. van de Moosdijk",
+      "latitude": 50.942031,
+      "longitude": 5.833589,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 195,
+      "name": "Wagenmans",
+      "latitude": 52.361454,
+      "longitude": 6.460555,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 196,
+      "name": "Wildenberg",
+      "latitude": 51.427577,
+      "longitude": 5.498732,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 197,
+      "name": "Wilgenburg Rijopleidingen",
+      "latitude": 52.166923,
+      "longitude": 5.364437,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 198,
+      "name": "motorrijlesdirk.nl",
+      "latitude": 53.28915,
+      "longitude": 6.155249,
+      "osm_klasse": "amenity=driving_school"
+    },
+    {
+      "id": 199,
+      "name": "van Zanten",
+      "latitude": 52.338204,
+      "longitude": 5.620455,
+      "osm_klasse": "amenity=driving_school"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: driving school (amenity=driving_school) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=driving_school in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 199 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: driving school (amenity=driving_school) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: driving school (amenity=driving_school) — 199 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 199 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

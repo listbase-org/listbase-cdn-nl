@@ -1,0 +1,1689 @@
+{
+  "id": "nl-osm-office-foundation",
+  "name": "Netherlands OSM: foundation (office=foundation)",
+  "title": "Netherlands OSM: foundation (office=foundation)",
+  "description": "Named OpenStreetMap features tagged office=foundation in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 234,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Patronaat",
+      "latitude": 51.475564,
+      "longitude": 5.645409,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 2,
+      "name": "Academie voor Mindful Teaching",
+      "latitude": 52.131414,
+      "longitude": 5.41793,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 3,
+      "name": "Agrifirm",
+      "latitude": 52.206721,
+      "longitude": 6.015943,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 4,
+      "name": "Akvo Foundation",
+      "latitude": 52.374391,
+      "longitude": 4.89097,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 5,
+      "name": "Arkin",
+      "latitude": 52.406215,
+      "longitude": 4.891661,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 6,
+      "name": "Atlantische Commissie",
+      "latitude": 52.088606,
+      "longitude": 4.336643,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 7,
+      "name": "Augeo Foundation",
+      "latitude": 52.056539,
+      "longitude": 5.275532,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 8,
+      "name": "BIOTO",
+      "latitude": 51.909273,
+      "longitude": 4.448999,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 9,
+      "name": "Bartiméus",
+      "latitude": 52.075515,
+      "longitude": 4.307149,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 10,
+      "name": "Bestuursbureau Noorderpoort",
+      "latitude": 53.207377,
+      "longitude": 6.555955,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 11,
+      "name": "Biblionet Drenthe",
+      "latitude": 52.994862,
+      "longitude": 6.558445,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 12,
+      "name": "Bits of Freedom",
+      "latitude": 52.385244,
+      "longitude": 4.886637,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 13,
+      "name": "Blender",
+      "latitude": 52.399569,
+      "longitude": 4.937279,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 14,
+      "name": "Bond tegen vloeken",
+      "latitude": 52.040144,
+      "longitude": 5.549793,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 15,
+      "name": "Bond voor Belastingbetalers",
+      "latitude": 52.082786,
+      "longitude": 4.307348,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 16,
+      "name": "Boogh",
+      "latitude": 52.195773,
+      "longitude": 5.387391,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 17,
+      "name": "Brabants Landschap",
+      "latitude": 51.589185,
+      "longitude": 5.232352,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 18,
+      "name": "Buurtzorg",
+      "latitude": 51.79727,
+      "longitude": 4.493597,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 19,
+      "name": "CCV",
+      "latitude": 52.074245,
+      "longitude": 5.09573,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 20,
+      "name": "CSG De Waard",
+      "latitude": 51.814322,
+      "longitude": 4.416835,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 21,
+      "name": "Cellenbroedershuis",
+      "latitude": 51.8483,
+      "longitude": 5.867535,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 22,
+      "name": "Centraal Bureau Berend Botje",
+      "latitude": 52.663619,
+      "longitude": 5.063544,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 23,
+      "name": "Chavah",
+      "latitude": 53.234997,
+      "longitude": 6.596975,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 24,
+      "name": "CoMensha",
+      "latitude": 52.080848,
+      "longitude": 5.093774,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 25,
+      "name": "CorDeo scholengroep",
+      "latitude": 52.137214,
+      "longitude": 5.420793,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 26,
+      "name": "Cosis",
+      "latitude": 52.991878,
+      "longitude": 6.528968,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 27,
+      "name": "Dagbesteding Passewaay 's Heeren Loo",
+      "latitude": 51.873159,
+      "longitude": 5.409376,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 28,
+      "name": "De Rading",
+      "latitude": 52.13716,
+      "longitude": 5.420789,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 29,
+      "name": "De Utrechtse Bomenstichting",
+      "latitude": 52.062971,
+      "longitude": 5.147225,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 30,
+      "name": "De Vlinderstichting",
+      "latitude": 51.966421,
+      "longitude": 5.65555,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 31,
+      "name": "Dierenambulance Nijmegen",
+      "latitude": 51.832244,
+      "longitude": 5.852879,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 32,
+      "name": "Dorcas",
+      "latitude": 52.354286,
+      "longitude": 5.193286,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 33,
+      "name": "ETB-BISLIFE",
+      "latitude": 52.383888,
+      "longitude": 4.666974,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 34,
+      "name": "Educatieve Tuin Kornoeljestraat",
+      "latitude": 52.06652,
+      "longitude": 4.259946,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 35,
+      "name": "Energiewinkel",
+      "latitude": 51.971945,
+      "longitude": 5.729726,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 36,
+      "name": "Erfgoed in Groningen",
+      "latitude": 53.403484,
+      "longitude": 6.608977,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 37,
+      "name": "FLORON",
+      "latitude": 51.821845,
+      "longitude": 5.869118,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 38,
+      "name": "Fers",
+      "latitude": 53.193468,
+      "longitude": 5.845464,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 39,
+      "name": "Finx Accountants & Belastingadviseurs B.V.",
+      "latitude": 53.048018,
+      "longitude": 5.664068,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 40,
+      "name": "FlevoMeer Bibliotheek",
+      "latitude": 52.478108,
+      "longitude": 5.501472,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 41,
+      "name": "Fonds 1818",
+      "latitude": 52.076876,
+      "longitude": 4.307064,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 42,
+      "name": "Food for Good",
+      "latitude": 52.068418,
+      "longitude": 5.105932,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 43,
+      "name": "GGMD locatie Apeldoorn",
+      "latitude": 52.213511,
+      "longitude": 5.967796,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 44,
+      "name": "GZB",
+      "latitude": 52.055706,
+      "longitude": 5.265273,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 45,
+      "name": "Geldersch Landschap en Kasteelen",
+      "latitude": 51.999255,
+      "longitude": 5.893116,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 46,
+      "name": "Geonovum",
+      "latitude": 52.152474,
+      "longitude": 5.372033,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 47,
+      "name": "Goud Wonen",
+      "latitude": 53.408526,
+      "longitude": 6.673562,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 48,
+      "name": "Gravin van Bylandt Stichting",
+      "latitude": 52.092548,
+      "longitude": 4.319009,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 49,
+      "name": "Groenstichting Rozendaal",
+      "latitude": 52.134185,
+      "longitude": 5.433314,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 50,
+      "name": "Grounded",
+      "latitude": 52.076586,
+      "longitude": 5.14204,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 51,
+      "name": "HVO Querido Expertisecentrum",
+      "latitude": 52.357917,
+      "longitude": 4.900492,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 52,
+      "name": "Haags Ondernemershuis",
+      "latitude": 52.074105,
+      "longitude": 4.305927,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 53,
+      "name": "Het Beginstation",
+      "latitude": 51.47584,
+      "longitude": 5.660416,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 54,
+      "name": "Het Drentse Landschap",
+      "latitude": 52.993081,
+      "longitude": 6.56494,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 55,
+      "name": "Het Flevo-landschap",
+      "latitude": 52.483145,
+      "longitude": 5.530401,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 56,
+      "name": "Het Geldersch Landschap",
+      "latitude": 51.99934,
+      "longitude": 5.893059,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 57,
+      "name": "Het Groninger Landschap",
+      "latitude": 53.158526,
+      "longitude": 6.614264,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 58,
+      "name": "Het Heerlijke Land",
+      "latitude": 51.806027,
+      "longitude": 5.845335,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 59,
+      "name": "Het Juridisch Loket",
+      "latitude": 52.081078,
+      "longitude": 4.320863,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 60,
+      "name": "Het Limburgs Landschap",
+      "latitude": 51.457938,
+      "longitude": 6.176866,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 61,
+      "name": "Het Prins Bernhard Cultuurfonds",
+      "latitude": 52.36978,
+      "longitude": 4.871584,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 62,
+      "name": "Het Rode Kruis West-Friesland",
+      "latitude": 52.650927,
+      "longitude": 5.059322,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 63,
+      "name": "Het Utrechts Landschap",
+      "latitude": 52.090523,
+      "longitude": 5.191852,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 64,
+      "name": "Het Zeeuwse Landschap",
+      "latitude": 51.5295,
+      "longitude": 3.893427,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 65,
+      "name": "Historische Kring Hoogeveen",
+      "latitude": 52.720058,
+      "longitude": 6.475815,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 66,
+      "name": "Humanitas",
+      "latitude": 52.075528,
+      "longitude": 4.307178,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 67,
+      "name": "Huurdersorganisatie Haag Wonen",
+      "latitude": 52.075532,
+      "longitude": 4.319337,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 68,
+      "name": "Incluzio",
+      "latitude": 52.158122,
+      "longitude": 4.493182,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 69,
+      "name": "Instituut voor biografiek",
+      "latitude": 52.048381,
+      "longitude": 5.300364,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 70,
+      "name": "Iona Stichting",
+      "latitude": 52.370944,
+      "longitude": 4.886563,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 71,
+      "name": "Ipse de Bruggen",
+      "latitude": 52.046448,
+      "longitude": 4.480489,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 72,
+      "name": "Jebber",
+      "latitude": 52.080497,
+      "longitude": 5.135624,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 73,
+      "name": "K. F. Hein Fonds",
+      "latitude": 52.089737,
+      "longitude": 5.130002,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 74,
+      "name": "KNRM Hoofdkantoor",
+      "latitude": 52.457409,
+      "longitude": 4.594675,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 75,
+      "name": "KOALAH",
+      "latitude": 52.137282,
+      "longitude": 5.420711,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 76,
+      "name": "KRO-NCRV",
+      "latitude": 52.230747,
+      "longitude": 5.163557,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 77,
+      "name": "Kenniscentrum AD(H)D en ASS",
+      "latitude": 51.842803,
+      "longitude": 5.860793,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 78,
+      "name": "Kennisnet",
+      "latitude": 52.046241,
+      "longitude": 4.515122,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 79,
+      "name": "Kentalis",
+      "latitude": 52.075064,
+      "longitude": 5.097302,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 80,
+      "name": "Konot",
+      "latitude": 52.306712,
+      "longitude": 6.923407,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 81,
+      "name": "LTO Nederland",
+      "latitude": 52.088277,
+      "longitude": 4.336008,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 82,
+      "name": "La Capella",
+      "latitude": 51.988879,
+      "longitude": 5.938917,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 83,
+      "name": "LandgoedLAB",
+      "latitude": 51.806154,
+      "longitude": 5.845362,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 84,
+      "name": "Landschap Erfgoed Utrecht",
+      "latitude": 52.091487,
+      "longitude": 5.190144,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 85,
+      "name": "Landschap Noord-Holland",
+      "latitude": 52.60565,
+      "longitude": 4.706953,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 86,
+      "name": "Landschap Overijssel",
+      "latitude": 52.492519,
+      "longitude": 6.20178,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 87,
+      "name": "Latent Talent",
+      "latitude": 52.130496,
+      "longitude": 5.416957,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 88,
+      "name": "Leger des Heils",
+      "latitude": 52.194142,
+      "longitude": 6.876734,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 89,
+      "name": "Lentis",
+      "latitude": 53.086456,
+      "longitude": 6.673183,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 90,
+      "name": "Leren Doen",
+      "latitude": 52.06506,
+      "longitude": 4.3206,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 91,
+      "name": "Leusden ZeT",
+      "latitude": 52.1168,
+      "longitude": 5.410184,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 92,
+      "name": "Locanza Foundation",
+      "latitude": 52.301503,
+      "longitude": 4.946547,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 93,
+      "name": "MEE & De Wering",
+      "latitude": 52.656934,
+      "longitude": 5.059994,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 94,
+      "name": "Mentaal Beter",
+      "latitude": 52.075533,
+      "longitude": 4.307137,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 95,
+      "name": "Milieucentrum Utrecht",
+      "latitude": 52.094728,
+      "longitude": 5.116911,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 96,
+      "name": "Mondriaan Fonds",
+      "latitude": 52.382992,
+      "longitude": 4.884569,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 97,
+      "name": "Monumentenwacht Groningen",
+      "latitude": 53.217016,
+      "longitude": 6.559781,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 98,
+      "name": "Mooie Woorden",
+      "latitude": 52.074039,
+      "longitude": 5.111511,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 99,
+      "name": "Museum Dorestad",
+      "latitude": 51.973275,
+      "longitude": 5.32602,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 100,
+      "name": "NACH",
+      "latitude": 52.372305,
+      "longitude": 4.878705,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 101,
+      "name": "Nationaal Comité 4 en 5 mei",
+      "latitude": 52.364155,
+      "longitude": 4.908151,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 102,
+      "name": "Nederlands Bakkerij centrum",
+      "latitude": 51.975856,
+      "longitude": 5.648553,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 103,
+      "name": "Nederlands Muziek Instituut",
+      "latitude": 52.078257,
+      "longitude": 4.317925,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 104,
+      "name": "Nederlandse Politie Sportbond",
+      "latitude": 52.055918,
+      "longitude": 5.110657,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 105,
+      "name": "Oorlogsgravenstichting",
+      "latitude": 52.086006,
+      "longitude": 4.302182,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 106,
+      "name": "Oosterlengte",
+      "latitude": 53.151836,
+      "longitude": 7.052257,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 107,
+      "name": "Parkmanagement Hoorn",
+      "latitude": 52.663495,
+      "longitude": 5.063609,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 108,
+      "name": "Pluryn",
+      "latitude": 52.088382,
+      "longitude": 5.227376,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 109,
+      "name": "Pruijck",
+      "latitude": 52.276586,
+      "longitude": 5.159269,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 110,
+      "name": "RAVON",
+      "latitude": 51.821929,
+      "longitude": 5.869137,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 111,
+      "name": "Raphaëlstichting",
+      "latitude": 52.696211,
+      "longitude": 4.696071,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 112,
+      "name": "Reddingsbrigade De Streek",
+      "latitude": 52.694096,
+      "longitude": 5.214953,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 113,
+      "name": "SBB",
+      "latitude": 52.046482,
+      "longitude": 4.479708,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 114,
+      "name": "SKLO",
+      "latitude": 53.217839,
+      "longitude": 6.552777,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 115,
+      "name": "SLAA",
+      "latitude": 52.371409,
+      "longitude": 4.931285,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 116,
+      "name": "STW",
+      "latitude": 52.075035,
+      "longitude": 5.097308,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 117,
+      "name": "SWV de Eem",
+      "latitude": 52.136881,
+      "longitude": 5.421156,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 118,
+      "name": "SamenUitBus",
+      "latitude": 51.457619,
+      "longitude": 6.05137,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 119,
+      "name": "Save The Children",
+      "latitude": 52.084714,
+      "longitude": 4.338333,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 120,
+      "name": "Schadefonds Geweldsmisdrijven",
+      "latitude": 52.0809,
+      "longitude": 4.309972,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 121,
+      "name": "Sint's Pietengedoe",
+      "latitude": 51.635456,
+      "longitude": 4.47209,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 122,
+      "name": "Sintvoorieder1",
+      "latitude": 52.089411,
+      "longitude": 4.369043,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 123,
+      "name": "Slachtofferhulp Nederland",
+      "latitude": 52.080823,
+      "longitude": 5.09366,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 124,
+      "name": "Society First",
+      "latitude": 52.660802,
+      "longitude": 5.064476,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 125,
+      "name": "Sorgucular Derneği",
+      "latitude": 52.072068,
+      "longitude": 4.282806,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 126,
+      "name": "Stichitng Zeeuwse Meesters",
+      "latitude": 51.492022,
+      "longitude": 3.615721,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 127,
+      "name": "Stichting 't Oude Kinderboek",
+      "latitude": 52.161649,
+      "longitude": 6.415094,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 128,
+      "name": "Stichting AAP",
+      "latitude": 52.342397,
+      "longitude": 5.266412,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 129,
+      "name": "Stichting ATR-x Syndroom Nederland",
+      "latitude": 51.262929,
+      "longitude": 5.744605,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 130,
+      "name": "Stichting Accent",
+      "latitude": 51.919938,
+      "longitude": 6.58121,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 131,
+      "name": "Stichting Adamas Inloophuis",
+      "latitude": 52.265406,
+      "longitude": 4.626361,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 132,
+      "name": "Stichting Ahmadiyya Isha'at-I-Islam",
+      "latitude": 52.074432,
+      "longitude": 4.27989,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 133,
+      "name": "Stichting Aksarai 68",
+      "latitude": 52.064018,
+      "longitude": 4.311983,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 134,
+      "name": "Stichting Al Bayan",
+      "latitude": 52.070825,
+      "longitude": 4.313103,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 135,
+      "name": "Stichting Anemoon",
+      "latitude": 51.822138,
+      "longitude": 5.869178,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 136,
+      "name": "Stichting Atelier Zwolle",
+      "latitude": 52.499329,
+      "longitude": 6.129963,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 137,
+      "name": "Stichting BONT",
+      "latitude": 51.927694,
+      "longitude": 4.502118,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 138,
+      "name": "Stichting Budgetzorg",
+      "latitude": 52.044655,
+      "longitude": 4.518926,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 139,
+      "name": "Stichting Centraal Post Midden-Brabant",
+      "latitude": 51.538831,
+      "longitude": 4.989213,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 140,
+      "name": "Stichting DEN",
+      "latitude": 52.08134,
+      "longitude": 4.327477,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 141,
+      "name": "Stichting De Huiskamer 2.0",
+      "latitude": 51.892801,
+      "longitude": 4.420537,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 142,
+      "name": "Stichting De Hulk",
+      "latitude": 52.347899,
+      "longitude": 5.222899,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 143,
+      "name": "Stichting De Paardenkamp",
+      "latitude": 52.159154,
+      "longitude": 5.329779,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 144,
+      "name": "Stichting De Parel van Riel",
+      "latitude": 51.520646,
+      "longitude": 5.01291,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 145,
+      "name": "Stichting Deinum",
+      "latitude": 53.153339,
+      "longitude": 7.037156,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 146,
+      "name": "Stichting Democratie en Media",
+      "latitude": 52.37476,
+      "longitude": 4.890138,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 147,
+      "name": "Stichting Dierenhulp Dierenambulance Tiel",
+      "latitude": 51.891785,
+      "longitude": 5.428427,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 148,
+      "name": "Stichting ElaadNL",
+      "latitude": 51.96656,
+      "longitude": 5.939435,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 149,
+      "name": "Stichting Eleskirt-Horasan",
+      "latitude": 52.066376,
+      "longitude": 4.301097,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 150,
+      "name": "Stichting Enschedese Speeltuinen",
+      "latitude": 52.231275,
+      "longitude": 6.853338,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 151,
+      "name": "Stichting Exploitatie van accomodaties t.b.v. het Bibliotheekwezen",
+      "latitude": 52.197404,
+      "longitude": 5.137829,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 152,
+      "name": "Stichting GOLS Station Groenlo",
+      "latitude": 52.039702,
+      "longitude": 6.623548,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 153,
+      "name": "Stichting Gast",
+      "latitude": 51.844011,
+      "longitude": 5.865875,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 154,
+      "name": "Stichting Hexel on Wheels",
+      "latitude": 52.394192,
+      "longitude": 6.549592,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 155,
+      "name": "Stichting Icare",
+      "latitude": 52.695422,
+      "longitude": 6.201021,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 156,
+      "name": "Stichting Intermin",
+      "latitude": 52.080733,
+      "longitude": 4.318723,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 157,
+      "name": "Stichting Jachtopleidingen Nederland",
+      "latitude": 52.137314,
+      "longitude": 5.409293,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 158,
+      "name": "Stichting Jeugdbescherming Brabant",
+      "latitude": 51.54296,
+      "longitude": 5.053971,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 159,
+      "name": "Stichting Kasiman",
+      "latitude": 52.062536,
+      "longitude": 4.28461,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 160,
+      "name": "Stichting Keunstwurk",
+      "latitude": 53.196021,
+      "longitude": 5.786162,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 161,
+      "name": "Stichting Kinderoncologie Nederland",
+      "latitude": 52.047894,
+      "longitude": 4.249109,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 162,
+      "name": "Stichting Kraaybeekerhof",
+      "latitude": 52.057499,
+      "longitude": 5.277372,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 163,
+      "name": "Stichting Kruisbestuiving",
+      "latitude": 52.171988,
+      "longitude": 5.355443,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 164,
+      "name": "Stichting Kürüm",
+      "latitude": 52.066356,
+      "longitude": 4.301209,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 165,
+      "name": "Stichting Landelijk Fietsplatform",
+      "latitude": 52.151514,
+      "longitude": 5.377559,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 166,
+      "name": "Stichting Landgoed Windesheim",
+      "latitude": 52.446208,
+      "longitude": 6.125536,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 167,
+      "name": "Stichting Landschapsbeheer Gelderland",
+      "latitude": 52.00982,
+      "longitude": 5.966454,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 168,
+      "name": "Stichting Loveworld Complex",
+      "latitude": 52.077768,
+      "longitude": 4.321966,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 169,
+      "name": "Stichting MIM",
+      "latitude": 52.055476,
+      "longitude": 4.470339,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 170,
+      "name": "Stichting Monument & Materiaal",
+      "latitude": 53.218179,
+      "longitude": 6.55708,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 171,
+      "name": "Stichting Nasram",
+      "latitude": 52.068281,
+      "longitude": 4.313584,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 172,
+      "name": "Stichting Nationaal Muziekinstrumenten Fonds",
+      "latitude": 52.373726,
+      "longitude": 4.896735,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 173,
+      "name": "Stichting Nootweg Loosdrecht",
+      "latitude": 52.199547,
+      "longitude": 5.139873,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 174,
+      "name": "Stichting OKZ",
+      "latitude": 51.227711,
+      "longitude": 3.795609,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 175,
+      "name": "Stichting Oersterk",
+      "latitude": 51.895718,
+      "longitude": 6.380807,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 176,
+      "name": "Stichting Onderzoek Multinationale Ondernemingen",
+      "latitude": 52.360672,
+      "longitude": 4.906424,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 177,
+      "name": "Stichting Ouderenzorg Wilgaerden",
+      "latitude": 52.649,
+      "longitude": 5.05369,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 178,
+      "name": "Stichting Palu A S Mirahmet Köyü Dernegi",
+      "latitude": 52.066179,
+      "longitude": 4.303571,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 179,
+      "name": "Stichting Penta",
+      "latitude": 52.646764,
+      "longitude": 5.052025,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 180,
+      "name": "Stichting Piëzo",
+      "latitude": 52.055506,
+      "longitude": 4.470353,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 181,
+      "name": "Stichting Rechtswinkel Amsterdam",
+      "latitude": 52.351253,
+      "longitude": 4.889202,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 182,
+      "name": "Stichting Rural Women Foundation",
+      "latitude": 51.969005,
+      "longitude": 5.907107,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 183,
+      "name": "Stichting S.M.A.R.T.",
+      "latitude": 52.084626,
+      "longitude": 4.359341,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 184,
+      "name": "Stichting Samen Duurzaam in Beweging",
+      "latitude": 52.167283,
+      "longitude": 5.361474,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 185,
+      "name": "Stichting Sjabloom Zorg",
+      "latitude": 51.751333,
+      "longitude": 4.117887,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 186,
+      "name": "Stichting Sociaal Cultureel Centrum Nederland",
+      "latitude": 52.066125,
+      "longitude": 4.287316,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 187,
+      "name": "Stichting Speelgoedbank Heerenveen",
+      "latitude": 52.966077,
+      "longitude": 5.915055,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 188,
+      "name": "Stichting Spoedeisende Hulp Bij Kinderen",
+      "latitude": 51.520707,
+      "longitude": 5.013961,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 189,
+      "name": "Stichting Stoommachine Oisterwijk",
+      "latitude": 51.582051,
+      "longitude": 5.186366,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 190,
+      "name": "Stichting Thracië / Trakya Vakfi",
+      "latitude": 52.061499,
+      "longitude": 4.29658,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 191,
+      "name": "Stichting Tocama",
+      "latitude": 53.407685,
+      "longitude": 6.682804,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 192,
+      "name": "Stichting Vluchteling",
+      "latitude": 52.084657,
+      "longitude": 4.337936,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 193,
+      "name": "Stichting Vrienden van het Sint Pietershof",
+      "latitude": 52.643021,
+      "longitude": 5.05678,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 194,
+      "name": "Stichting Wandelnet",
+      "latitude": 52.151482,
+      "longitude": 5.377537,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 195,
+      "name": "Stichting Weerdruk",
+      "latitude": 52.368662,
+      "longitude": 4.914716,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 196,
+      "name": "Stichting Welzijn Doven Amsterdam",
+      "latitude": 52.357625,
+      "longitude": 4.895316,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 197,
+      "name": "Stichting Werkgroep Hulptransporten Oost-Europa (WHOE)",
+      "latitude": 52.224696,
+      "longitude": 5.973057,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 198,
+      "name": "Stichting Woonbelangen Weidegebied",
+      "latitude": 52.084247,
+      "longitude": 4.897747,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 199,
+      "name": "Stichting Woonin",
+      "latitude": 52.076919,
+      "longitude": 5.105547,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 200,
+      "name": "Stichting Woonzorg Nederland",
+      "latitude": 51.542526,
+      "longitude": 5.056485,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 201,
+      "name": "Stichting Zeehondencentrum Pieterburen",
+      "latitude": 53.408559,
+      "longitude": 6.198569,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 202,
+      "name": "Stichting al-Yateem",
+      "latitude": 52.041496,
+      "longitude": 4.253814,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 203,
+      "name": "Stichting de Stouwe",
+      "latitude": 52.696707,
+      "longitude": 6.206848,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 204,
+      "name": "Stichting van Lennep Staete",
+      "latitude": 52.227648,
+      "longitude": 5.166569,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 205,
+      "name": "Stichting vluchtelingenwerk",
+      "latitude": 52.337346,
+      "longitude": 5.629415,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 206,
+      "name": "Stichting welzijn Ouderen Het Bildt",
+      "latitude": 53.27521,
+      "longitude": 5.66037,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 207,
+      "name": "Stut en Steun",
+      "latitude": 53.332131,
+      "longitude": 6.739536,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 208,
+      "name": "Sultans Trail Foundation",
+      "latitude": 52.378781,
+      "longitude": 4.639903,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 209,
+      "name": "Surfers for Surfers",
+      "latitude": 52.094172,
+      "longitude": 4.257879,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 210,
+      "name": "Teansculturele Gezondheidszorg",
+      "latitude": 52.07555,
+      "longitude": 4.307125,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 211,
+      "name": "Theateralliantie",
+      "latitude": 52.386149,
+      "longitude": 4.873421,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 212,
+      "name": "Thius",
+      "latitude": 51.885665,
+      "longitude": 5.419565,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 213,
+      "name": "Todaysart",
+      "latitude": 52.079026,
+      "longitude": 4.286962,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 214,
+      "name": "Top Dutch Solar Racing",
+      "latitude": 53.247901,
+      "longitude": 6.53078,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 215,
+      "name": "Tropenbos International",
+      "latitude": 52.020779,
+      "longitude": 5.679715,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 216,
+      "name": "Turing Foundation",
+      "latitude": 52.364751,
+      "longitude": 4.894241,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 217,
+      "name": "Turkse Eenheid",
+      "latitude": 51.619856,
+      "longitude": 5.540503,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 218,
+      "name": "Utrechts Landschap",
+      "latitude": 52.130674,
+      "longitude": 5.25955,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 219,
+      "name": "VO-Raad",
+      "latitude": 52.110637,
+      "longitude": 5.126334,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 220,
+      "name": "Van Sabben Poster Auctions",
+      "latitude": 52.638885,
+      "longitude": 5.060497,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 221,
+      "name": "Veenvesters",
+      "latitude": 52.01888,
+      "longitude": 5.555031,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 222,
+      "name": "Vereniging Historisch Amstelveen",
+      "latitude": 52.280918,
+      "longitude": 4.856179,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 223,
+      "name": "Viruswaarheid",
+      "latitude": 51.943542,
+      "longitude": 4.422838,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 224,
+      "name": "Vrijwillige Brandweer Cothen",
+      "latitude": 52.005565,
+      "longitude": 5.319598,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 225,
+      "name": "WASTE Foundation",
+      "latitude": 52.081376,
+      "longitude": 4.315259,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 226,
+      "name": "Winkelcentrum Musiskwartier",
+      "latitude": 51.982051,
+      "longitude": 5.910673,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 227,
+      "name": "Woej",
+      "latitude": 52.074298,
+      "longitude": 4.374756,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 228,
+      "name": "Woonin",
+      "latitude": 51.972773,
+      "longitude": 5.346743,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 229,
+      "name": "Woonin",
+      "latitude": 51.975137,
+      "longitude": 5.342814,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 230,
+      "name": "Wooninspraak",
+      "latitude": 52.107803,
+      "longitude": 5.095565,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 231,
+      "name": "Woonzorg Nederland",
+      "latitude": 52.317557,
+      "longitude": 4.876299,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 232,
+      "name": "ZOwonen",
+      "latitude": 50.996897,
+      "longitude": 5.852082,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 233,
+      "name": "Zeemanswelvaren Amsterdam",
+      "latitude": 52.398176,
+      "longitude": 4.835771,
+      "osm_klasse": "office=foundation"
+    },
+    {
+      "id": 234,
+      "name": "Zuid-Hollands Landschap",
+      "latitude": 52.014363,
+      "longitude": 4.376285,
+      "osm_klasse": "office=foundation"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: foundation (office=foundation) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=foundation in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 234 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: foundation (office=foundation) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: foundation (office=foundation) — 234 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 234 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

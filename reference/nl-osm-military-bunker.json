@@ -1,0 +1,1269 @@
+{
+  "id": "nl-osm-military-bunker",
+  "name": "Netherlands OSM: bunker (military=bunker)",
+  "title": "Netherlands OSM: bunker (military=bunker)",
+  "description": "Named OpenStreetMap features tagged military=bunker in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 174,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "12 Man-Küverbunker 428",
+      "latitude": 51.915151,
+      "longitude": 4.075838,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 2,
+      "name": "134 Munitiebunker",
+      "latitude": 52.454263,
+      "longitude": 4.570918,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 3,
+      "name": "134 Munitiebunker",
+      "latitude": 52.455874,
+      "longitude": 4.571268,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 4,
+      "name": "Adcock 481",
+      "latitude": 51.914912,
+      "longitude": 4.080592,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 5,
+      "name": "Atoombunker",
+      "latitude": 51.917006,
+      "longitude": 4.580551,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 6,
+      "name": "Batterij Begraafplaats",
+      "latitude": 52.949159,
+      "longitude": 4.741105,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 7,
+      "name": "Bescherming Bevolking Commando Zeeland",
+      "latitude": 51.497264,
+      "longitude": 3.899739,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 8,
+      "name": "Biber bunker",
+      "latitude": 51.913083,
+      "longitude": 4.075902,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 9,
+      "name": "Bremen",
+      "latitude": 51.985818,
+      "longitude": 4.118025,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 10,
+      "name": "Brugkazemat Lent Midden",
+      "latitude": 51.85743,
+      "longitude": 5.868125,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 11,
+      "name": "Brugkazemat Lent Oost",
+      "latitude": 51.856592,
+      "longitude": 5.873342,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 12,
+      "name": "Brugkazemat Lent Zuid",
+      "latitude": 51.858092,
+      "longitude": 5.859659,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 13,
+      "name": "Brugkazemat Zwolle Midden",
+      "latitude": 52.492109,
+      "longitude": 6.054137,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 14,
+      "name": "Brugkazemat Zwolle Noord",
+      "latitude": 52.495054,
+      "longitude": 6.051936,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 15,
+      "name": "Brugkazemat Zwolle Zuid",
+      "latitude": 52.487488,
+      "longitude": 6.05802,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 16,
+      "name": "Bunker Museum (Entreebunker)",
+      "latitude": 52.455913,
+      "longitude": 4.572259,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 17,
+      "name": "Bunker R616",
+      "latitude": 52.627674,
+      "longitude": 4.739878,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 18,
+      "name": "Bunker aan de Weldammerlaan",
+      "latitude": 52.192387,
+      "longitude": 5.448395,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 19,
+      "name": "Bunker uit de Tweede Wereldoorlog",
+      "latitude": 51.25644,
+      "longitude": 3.814884,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 20,
+      "name": "Bunkermuseum Bunker 1",
+      "latitude": 51.498241,
+      "longitude": 3.490598,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 21,
+      "name": "Bunkermuseum Bunker 2",
+      "latitude": 51.497281,
+      "longitude": 3.492892,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 22,
+      "name": "Bunkers in de Tonnendunen (Atlantikwall Waddengebiet)",
+      "latitude": 53.435652,
+      "longitude": 5.624024,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 23,
+      "name": "Commandobunker",
+      "latitude": 52.308127,
+      "longitude": 6.11352,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 24,
+      "name": "De Berg",
+      "latitude": 52.181597,
+      "longitude": 4.4669,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 25,
+      "name": "De Terp",
+      "latitude": 52.317548,
+      "longitude": 6.103414,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 26,
+      "name": "Diogenesbunker II",
+      "latitude": 52.033108,
+      "longitude": 5.86492,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 27,
+      "name": "Duits/Nederlandse bunker",
+      "latitude": 52.159494,
+      "longitude": 4.382212,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 28,
+      "name": "Flak emplacement",
+      "latitude": 51.822995,
+      "longitude": 4.131677,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 29,
+      "name": "Flakstellung Buitendreef WO2",
+      "latitude": 51.426328,
+      "longitude": 4.353778,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 30,
+      "name": "Funkstelle Vermittlung 409",
+      "latitude": 51.913363,
+      "longitude": 4.076388,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 31,
+      "name": "G - kazemat",
+      "latitude": 51.824944,
+      "longitude": 5.029902,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 32,
+      "name": "G14",
+      "latitude": 53.369022,
+      "longitude": 5.231076,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 33,
+      "name": "G15",
+      "latitude": 53.369131,
+      "longitude": 5.230945,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 34,
+      "name": "G17",
+      "latitude": 53.36936,
+      "longitude": 5.230077,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 35,
+      "name": "G18",
+      "latitude": 53.369519,
+      "longitude": 5.229935,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 36,
+      "name": "G20",
+      "latitude": 53.369661,
+      "longitude": 5.22951,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 37,
+      "name": "G21",
+      "latitude": 53.369828,
+      "longitude": 5.229383,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 38,
+      "name": "G22",
+      "latitude": 53.369928,
+      "longitude": 5.229144,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 39,
+      "name": "G23",
+      "latitude": 53.37018,
+      "longitude": 5.22911,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 40,
+      "name": "G24",
+      "latitude": 53.370081,
+      "longitude": 5.229656,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 41,
+      "name": "G25",
+      "latitude": 53.369957,
+      "longitude": 5.229839,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 42,
+      "name": "G27",
+      "latitude": 53.369892,
+      "longitude": 5.229958,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 43,
+      "name": "G3",
+      "latitude": 53.368663,
+      "longitude": 5.229085,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 44,
+      "name": "G31",
+      "latitude": 53.369468,
+      "longitude": 5.230692,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 45,
+      "name": "G34",
+      "latitude": 53.369257,
+      "longitude": 5.231146,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 46,
+      "name": "G35",
+      "latitude": 53.369355,
+      "longitude": 5.231378,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 47,
+      "name": "G37",
+      "latitude": 53.369726,
+      "longitude": 5.231663,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 48,
+      "name": "G38",
+      "latitude": 53.369785,
+      "longitude": 5.231361,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 49,
+      "name": "G39",
+      "latitude": 53.369853,
+      "longitude": 5.231025,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 50,
+      "name": "G4",
+      "latitude": 53.368883,
+      "longitude": 5.228998,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 51,
+      "name": "G41",
+      "latitude": 53.369979,
+      "longitude": 5.230548,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 52,
+      "name": "G42",
+      "latitude": 53.37005,
+      "longitude": 5.230351,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 53,
+      "name": "G44",
+      "latitude": 53.370306,
+      "longitude": 5.230012,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 54,
+      "name": "G45",
+      "latitude": 53.370251,
+      "longitude": 5.229792,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 55,
+      "name": "G48",
+      "latitude": 53.370853,
+      "longitude": 5.229618,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 56,
+      "name": "G49",
+      "latitude": 53.370836,
+      "longitude": 5.229801,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 57,
+      "name": "G5",
+      "latitude": 53.368656,
+      "longitude": 5.229653,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 58,
+      "name": "G50",
+      "latitude": 53.370773,
+      "longitude": 5.22993,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 59,
+      "name": "G52",
+      "latitude": 53.370369,
+      "longitude": 5.230694,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 60,
+      "name": "G53",
+      "latitude": 53.370277,
+      "longitude": 5.230971,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 61,
+      "name": "G54",
+      "latitude": 53.370126,
+      "longitude": 5.230961,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 62,
+      "name": "G56",
+      "latitude": 53.369813,
+      "longitude": 5.231818,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 63,
+      "name": "G58",
+      "latitude": 53.369896,
+      "longitude": 5.231886,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 64,
+      "name": "G59",
+      "latitude": 53.370031,
+      "longitude": 5.231841,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 65,
+      "name": "G6",
+      "latitude": 53.368851,
+      "longitude": 5.229409,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 66,
+      "name": "G62",
+      "latitude": 53.370361,
+      "longitude": 5.232247,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 67,
+      "name": "G63",
+      "latitude": 53.370403,
+      "longitude": 5.23198,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 68,
+      "name": "G64",
+      "latitude": 53.370521,
+      "longitude": 5.231321,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 69,
+      "name": "G65",
+      "latitude": 53.370628,
+      "longitude": 5.230891,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 70,
+      "name": "G66",
+      "latitude": 53.370758,
+      "longitude": 5.23057,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 71,
+      "name": "G8",
+      "latitude": 53.368959,
+      "longitude": 5.229319,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 72,
+      "name": "G9",
+      "latitude": 53.369057,
+      "longitude": 5.22933,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 73,
+      "name": "Gebouw C",
+      "latitude": 51.866189,
+      "longitude": 5.12384,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 74,
+      "name": "Gebouw D",
+      "latitude": 51.866469,
+      "longitude": 5.124911,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 75,
+      "name": "Gebouw F",
+      "latitude": 51.866518,
+      "longitude": 5.125302,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 76,
+      "name": "Geschutskoepel WOII",
+      "latitude": 53.406662,
+      "longitude": 5.295017,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 77,
+      "name": "Gietstalen koepelkazemat",
+      "latitude": 51.44282,
+      "longitude": 3.603545,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 78,
+      "name": "Groepsschuilplaats Buitendijk 3",
+      "latitude": 51.713844,
+      "longitude": 4.585119,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 79,
+      "name": "Groepsschuilplaats Buitendijk 4",
+      "latitude": 51.715497,
+      "longitude": 4.580967,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 80,
+      "name": "Groepsschuilplaats Mariapolder 10",
+      "latitude": 51.716973,
+      "longitude": 4.601858,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 81,
+      "name": "Groepsschuilplaats Mariapolder 5",
+      "latitude": 51.724079,
+      "longitude": 4.618409,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 82,
+      "name": "Groepsschuilplaats Mariapolder 6",
+      "latitude": 51.717615,
+      "longitude": 4.605646,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 83,
+      "name": "Groepsschuilplaats Mariapolder 7",
+      "latitude": 51.717434,
+      "longitude": 4.604906,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 84,
+      "name": "Groepsschuilplaats Mariapolder 8",
+      "latitude": 51.71725,
+      "longitude": 4.604071,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 85,
+      "name": "Groepsschuilplaats Mariapolder 9",
+      "latitude": 51.717071,
+      "longitude": 4.602744,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 86,
+      "name": "Groepsschuilplaats Sassedijk 2",
+      "latitude": 51.725925,
+      "longitude": 4.603193,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 87,
+      "name": "Groepsschuilplaats Type P",
+      "latitude": 51.724949,
+      "longitude": 4.627419,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 88,
+      "name": "Groepsschuilplaats Type P Dalemse Zeiving",
+      "latitude": 51.834178,
+      "longitude": 5.028996,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 89,
+      "name": "Groepsschuilplaats Type P Dalemse Zeiving",
+      "latitude": 51.834478,
+      "longitude": 5.030913,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 90,
+      "name": "Groepsschuilplaats Type P Dalemse Zeiving",
+      "latitude": 51.837541,
+      "longitude": 5.035703,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 91,
+      "name": "Groepsschuilplaats Type P Dalemse Zeiving",
+      "latitude": 51.838988,
+      "longitude": 5.038317,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 92,
+      "name": "Hamburg",
+      "latitude": 51.984444,
+      "longitude": 4.11719,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 93,
+      "name": "Hollands Diep I",
+      "latitude": 51.722048,
+      "longitude": 4.615526,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 94,
+      "name": "IJssellinie",
+      "latitude": 52.315097,
+      "longitude": 6.110507,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 95,
+      "name": "IJssellinie kazemat",
+      "latitude": 51.980924,
+      "longitude": 5.870182,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 96,
+      "name": "IJssellinie kazemat",
+      "latitude": 51.981345,
+      "longitude": 5.868181,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 97,
+      "name": "Juttershut",
+      "latitude": 51.67484,
+      "longitude": 3.702132,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 98,
+      "name": "Kazemat",
+      "latitude": 51.092672,
+      "longitude": 5.804007,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 99,
+      "name": "Kazemat IJssellinie",
+      "latitude": 51.992364,
+      "longitude": 6.006135,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 100,
+      "name": "Kazemat S-54",
+      "latitude": 50.952244,
+      "longitude": 5.76034,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 101,
+      "name": "Keuken / Kantinebunker T40",
+      "latitude": 52.919526,
+      "longitude": 4.718548,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 102,
+      "name": "Kroontjesbunker",
+      "latitude": 52.95122,
+      "longitude": 4.72956,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 103,
+      "name": "Kunstbunker",
+      "latitude": 52.543062,
+      "longitude": 4.649761,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 104,
+      "name": "Kunstbunker Kröller-Müller",
+      "latitude": 52.100169,
+      "longitude": 5.814472,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 105,
+      "name": "LAACC-Bunker",
+      "latitude": 52.308254,
+      "longitude": 6.091035,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 106,
+      "name": "La M 07: Manschappenbunker (Hollandstellung)",
+      "latitude": 51.297818,
+      "longitude": 3.365367,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 107,
+      "name": "M 178 Vuurleidingsbunker",
+      "latitude": 52.455142,
+      "longitude": 4.570765,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 108,
+      "name": "M 272 Geschutsbunker",
+      "latitude": 52.453952,
+      "longitude": 4.570463,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 109,
+      "name": "M 272 Geschutsbunker",
+      "latitude": 52.454671,
+      "longitude": 4.570634,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 110,
+      "name": "M 272 Geschutsbunker",
+      "latitude": 52.455696,
+      "longitude": 4.570892,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 111,
+      "name": "Mammutgerät V143",
+      "latitude": 52.077707,
+      "longitude": 4.236232,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 112,
+      "name": "Marine FLA24a Flakstand",
+      "latitude": 52.453787,
+      "longitude": 4.570952,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 113,
+      "name": "Markostand",
+      "latitude": 51.988073,
+      "longitude": 4.118414,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 114,
+      "name": "Michelmannstand",
+      "latitude": 51.389764,
+      "longitude": 3.543543,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 115,
+      "name": "Munitiebunker",
+      "latitude": 52.139919,
+      "longitude": 5.266233,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 116,
+      "name": "NCO PTT/KPN Goes",
+      "latitude": 51.501815,
+      "longitude": 3.888183,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 117,
+      "name": "Nederlandse bunker",
+      "latitude": 52.159054,
+      "longitude": 4.381944,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 118,
+      "name": "Noodhospitaal bunker",
+      "latitude": 52.307515,
+      "longitude": 6.11293,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 119,
+      "name": "Oostbatterij",
+      "latitude": 53.419171,
+      "longitude": 5.417125,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 120,
+      "name": "Open bedding voor 17-cm geschut",
+      "latitude": 52.453638,
+      "longitude": 4.570216,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 121,
+      "name": "PA-B Beusdael (LD)",
+      "latitude": 50.749003,
+      "longitude": 5.901657,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 122,
+      "name": "PA-C Beusdael (LD)",
+      "latitude": 50.752867,
+      "longitude": 5.894082,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 123,
+      "name": "Prefab Bunker",
+      "latitude": 51.509115,
+      "longitude": 3.462793,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 124,
+      "name": "Regelbau 502",
+      "latitude": 51.729504,
+      "longitude": 4.630435,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 125,
+      "name": "Ringstand 070",
+      "latitude": 51.289005,
+      "longitude": 6.133429,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 126,
+      "name": "Ringstand 080",
+      "latitude": 51.285582,
+      "longitude": 6.128747,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 127,
+      "name": "Ringstand 10",
+      "latitude": 51.348689,
+      "longitude": 6.178893,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 128,
+      "name": "Ringstand 100",
+      "latitude": 51.270694,
+      "longitude": 6.118728,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 129,
+      "name": "Ringstand 110",
+      "latitude": 51.268574,
+      "longitude": 6.115487,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 130,
+      "name": "Ringstand 120",
+      "latitude": 51.265936,
+      "longitude": 6.11195,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 131,
+      "name": "Ringstand 140",
+      "latitude": 51.259957,
+      "longitude": 6.103175,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 132,
+      "name": "Ringstand 150",
+      "latitude": 51.258113,
+      "longitude": 6.100442,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 133,
+      "name": "Ringstand 160",
+      "latitude": 51.247231,
+      "longitude": 6.080608,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 134,
+      "name": "Ringstand 168",
+      "latitude": 51.227021,
+      "longitude": 6.075536,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 135,
+      "name": "Ringstand 205",
+      "latitude": 51.198387,
+      "longitude": 6.071246,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 136,
+      "name": "Ringstand 210",
+      "latitude": 51.195199,
+      "longitude": 6.071638,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 137,
+      "name": "Ringstand 50",
+      "latitude": 51.305937,
+      "longitude": 6.143624,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 138,
+      "name": "Ringstand 58C",
+      "latitude": 51.72834,
+      "longitude": 4.628723,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 139,
+      "name": "Ringstand 58c (Tobruk)",
+      "latitude": 51.467431,
+      "longitude": 3.742689,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 140,
+      "name": "Ringstand 60",
+      "latitude": 51.304312,
+      "longitude": 6.140595,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 141,
+      "name": "Rita",
+      "latitude": 53.455798,
+      "longitude": 5.640738,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 142,
+      "name": "Rivierkazemat",
+      "latitude": 51.800202,
+      "longitude": 5.358273,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 143,
+      "name": "S41",
+      "latitude": 52.786455,
+      "longitude": 6.823776,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 144,
+      "name": "S41",
+      "latitude": 52.788525,
+      "longitude": 6.827044,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 145,
+      "name": "Sani bunker",
+      "latitude": 51.834789,
+      "longitude": 3.996286,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 146,
+      "name": "Sanitätsbunker",
+      "latitude": 51.914405,
+      "longitude": 4.075476,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 147,
+      "name": "Seeburg 424",
+      "latitude": 51.913481,
+      "longitude": 4.075878,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 148,
+      "name": "Shermantank",
+      "latitude": 52.310151,
+      "longitude": 6.09165,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 149,
+      "name": "Shermantank",
+      "latitude": 52.311981,
+      "longitude": 6.107731,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 150,
+      "name": "Shermantank",
+      "latitude": 52.3152,
+      "longitude": 6.110595,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 151,
+      "name": "Stützpunkt Hotzendörf Westkapelle Bunker 1",
+      "latitude": 51.526219,
+      "longitude": 3.454968,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 152,
+      "name": "Stützpunkt Hotzendörf Westkapelle Bunker 2",
+      "latitude": 51.526009,
+      "longitude": 3.454063,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 153,
+      "name": "Stützpunkt Krimhild",
+      "latitude": 51.476724,
+      "longitude": 3.598787,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 154,
+      "name": "Telefoonbunker",
+      "latitude": 52.77648,
+      "longitude": 6.242126,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 155,
+      "name": "Tobroek",
+      "latitude": 51.362297,
+      "longitude": 3.379257,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 156,
+      "name": "Valkhofbunker",
+      "latitude": 51.848089,
+      "longitude": 5.870485,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 157,
+      "name": "Vleermuisbunker",
+      "latitude": 52.160385,
+      "longitude": 4.346857,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 158,
+      "name": "Voormalige WO2-bunker Duitse leger (1942)",
+      "latitude": 52.19545,
+      "longitude": 5.146975,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 159,
+      "name": "Voormalige WO2-bunker Duitse leger (1942)",
+      "latitude": 52.195924,
+      "longitude": 5.146124,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 160,
+      "name": "Voormalige bunker van Seyss-Inquart",
+      "latitude": 52.098608,
+      "longitude": 4.33589,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 161,
+      "name": "Voormalige telefoonbunker",
+      "latitude": 52.181866,
+      "longitude": 4.485106,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 162,
+      "name": "Voorraadbunker",
+      "latitude": 52.359547,
+      "longitude": 4.559164,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 163,
+      "name": "Waarnemingspost",
+      "latitude": 52.192675,
+      "longitude": 4.402896,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 164,
+      "name": "Walvisbunker",
+      "latitude": 51.698173,
+      "longitude": 3.733042,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 165,
+      "name": "Wassermann",
+      "latitude": 53.486979,
+      "longitude": 6.181836,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 166,
+      "name": "Widerstandsnest 67 HL",
+      "latitude": 52.070818,
+      "longitude": 4.223069,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 167,
+      "name": "former bunker",
+      "latitude": 53.368039,
+      "longitude": 5.226787,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 168,
+      "name": "kazemat IX",
+      "latitude": 52.935869,
+      "longitude": 5.042251,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 169,
+      "name": "kazemat X",
+      "latitude": 52.933954,
+      "longitude": 5.044159,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 170,
+      "name": "kazemat XI",
+      "latitude": 52.934695,
+      "longitude": 5.043574,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 171,
+      "name": "kunstbunker",
+      "latitude": 52.347441,
+      "longitude": 4.562843,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 172,
+      "name": "kunstbunker",
+      "latitude": 52.348376,
+      "longitude": 4.563876,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 173,
+      "name": "l487 bertha bunker",
+      "latitude": 52.346966,
+      "longitude": 4.509209,
+      "osm_klasse": "military=bunker"
+    },
+    {
+      "id": 174,
+      "name": "nr 122 vm. mitrailleursnest",
+      "latitude": 52.344963,
+      "longitude": 4.556508,
+      "osm_klasse": "military=bunker"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: bunker (military=bunker) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged military=bunker in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 174 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: bunker (military=bunker) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: bunker (military=bunker) — 174 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 174 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

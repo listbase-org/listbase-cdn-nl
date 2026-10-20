@@ -1,0 +1,305 @@
+{
+  "id": "nl-supermarkt-ketens",
+  "name": "Supermarktketens Nederland — referentielijst",
+  "title": "Supermarktketens Nederland — referentielijst",
+  "description": "Referentielijst van de twaalf supermarktketens die in Nederland actief zijn en door checkjebon.nl worden geïndexeerd. Elk record bevat de officiële chain code (zoals gebruikt in de upstream checkjebon dataset), korte en volledige merknaam, ketentype (supermarkt, discountsupermarkt, biologische supermarkt), hoofdkantoor (stad + provincie), moederbedrijf, jaar van oprichting, homepage-URL, het product-link-template dat checkjebon gebruikt, een verwijzing naar het ketenlogo, en hoeveel artikelen checkjebon voor deze keten momenteel indexeert. De per-keten productlijsten zelf worden hier NIET gespiegeld — die hebben per-keten ToS-implicaties (o.a. AH/Jumbo no-scrape clauses) die buiten de scope van deze ketenreferentie vallen. Deze tabel bedient de ~9k SV/mo head-query \"supermarkten nederland\" plus de ranking-as / vergelijkingsqueries (\"grootste supermarkten\", \"plus supermarkten\", enz.).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "chain_code",
+      "label": "Chain Code",
+      "type": "string"
+    },
+    {
+      "key": "chain_slug",
+      "label": "Chain Slug",
+      "type": "string"
+    },
+    {
+      "key": "chain_name_short",
+      "label": "Chain Name Short",
+      "type": "string"
+    },
+    {
+      "key": "chain_name_full",
+      "label": "Chain Name Full",
+      "type": "string"
+    },
+    {
+      "key": "chain_type",
+      "label": "Chain Type",
+      "type": "string"
+    },
+    {
+      "key": "hoofdkantoor_stad",
+      "label": "Hoofdkantoor Stad",
+      "type": "string"
+    },
+    {
+      "key": "hoofdkantoor_provincie",
+      "label": "Hoofdkantoor Provincie",
+      "type": "string"
+    },
+    {
+      "key": "moederbedrijf",
+      "label": "Moederbedrijf",
+      "type": "string"
+    },
+    {
+      "key": "opgericht_jaar",
+      "label": "Opgericht Jaar",
+      "type": "number"
+    },
+    {
+      "key": "homepage_url",
+      "label": "Homepage Url",
+      "type": "string"
+    },
+    {
+      "key": "product_link_template",
+      "label": "Product Link Template",
+      "type": "string"
+    },
+    {
+      "key": "logo_url",
+      "label": "Logo Url",
+      "type": "string"
+    },
+    {
+      "key": "num_products_indexed",
+      "label": "Num Products Indexed",
+      "type": "number"
+    },
+    {
+      "key": "has_products_indexed",
+      "label": "Has Products Indexed",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "chain_code": "ah",
+      "chain_slug": "ah",
+      "chain_name_short": "AH",
+      "chain_name_full": "Albert Heijn",
+      "chain_type": "supermarkt",
+      "hoofdkantoor_stad": "Zaandam",
+      "hoofdkantoor_provincie": "Noord-Holland",
+      "moederbedrijf": "Ahold Delhaize",
+      "opgericht_jaar": 1887,
+      "homepage_url": "https://www.ah.nl",
+      "product_link_template": "https://www.ah.nl/producten/product/",
+      "logo_url": "https://static.ah.nl/ah-static/images/ah-ui-bridge-components/logo/logo-ah.svg",
+      "num_products_indexed": 16173,
+      "has_products_indexed": true
+    },
+    {
+      "id": 2,
+      "chain_code": "aldi",
+      "chain_slug": "aldi",
+      "chain_name_short": "ALDI",
+      "chain_name_full": "Aldi Nederland",
+      "chain_type": "discountsupermarkt",
+      "hoofdkantoor_stad": "Culemborg",
+      "hoofdkantoor_provincie": "Gelderland",
+      "moederbedrijf": "Aldi Nord",
+      "opgericht_jaar": 1973,
+      "homepage_url": "https://www.aldi.nl",
+      "product_link_template": "https://www.aldi.nl/producten/",
+      "logo_url": "https://s7g10.scene7.com/is/image/aldinord/ALDI_Nord_Logo_2021_sRGB-7",
+      "num_products_indexed": 1738,
+      "has_products_indexed": true
+    },
+    {
+      "id": 3,
+      "chain_code": "dekamarkt",
+      "chain_slug": "dekamarkt",
+      "chain_name_short": "DekaMarkt",
+      "chain_name_full": "DekaMarkt",
+      "chain_type": "supermarkt",
+      "hoofdkantoor_stad": "Velsen-Noord",
+      "hoofdkantoor_provincie": "Noord-Holland",
+      "moederbedrijf": "DekaMarkt B.V.",
+      "opgericht_jaar": 1947,
+      "homepage_url": "https://www.dekamarkt.nl",
+      "product_link_template": "https://www.dekamarkt.nl/boodschappen/x/x/x/",
+      "logo_url": "https://d3r3h30p75xj6a.cloudfront.net/static-images/deka/web/favicon.svg",
+      "num_products_indexed": 10728,
+      "has_products_indexed": true
+    },
+    {
+      "id": 4,
+      "chain_code": "dirk",
+      "chain_slug": "dirk",
+      "chain_name_short": "Dirk",
+      "chain_name_full": "Dirk van den Broek",
+      "chain_type": "supermarkt",
+      "hoofdkantoor_stad": "Beverwijk",
+      "hoofdkantoor_provincie": "Noord-Holland",
+      "moederbedrijf": "Detailresult Groep",
+      "opgericht_jaar": 1942,
+      "homepage_url": "https://www.dirk.nl",
+      "product_link_template": "https://www.dirk.nl/boodschappen/x/x/x/",
+      "logo_url": "https://d3r3h30p75xj6a.cloudfront.net/static-images/dirk/web/app_icon.png",
+      "num_products_indexed": 7438,
+      "has_products_indexed": true
+    },
+    {
+      "id": 5,
+      "chain_code": "ekoplaza",
+      "chain_slug": "ekoplaza",
+      "chain_name_short": "Ekoplaza",
+      "chain_name_full": "Ekoplaza",
+      "chain_type": "biologische supermarkt",
+      "hoofdkantoor_stad": "Zaandam",
+      "hoofdkantoor_provincie": "Noord-Holland",
+      "moederbedrijf": "Ekoplaza B.V.",
+      "opgericht_jaar": 1981,
+      "homepage_url": "https://www.ekoplaza.nl",
+      "product_link_template": "https://www.ekoplaza.nl/producten/product/",
+      "logo_url": "https://www.ekoplaza.nl/_nuxt/icons/icon_512x512.b09884.png",
+      "num_products_indexed": 0,
+      "has_products_indexed": false
+    },
+    {
+      "id": 6,
+      "chain_code": "hoogvliet",
+      "chain_slug": "hoogvliet",
+      "chain_name_short": "Hoogvliet",
+      "chain_name_full": "Hoogvliet",
+      "chain_type": "supermarkt",
+      "hoofdkantoor_stad": "Alphen aan den Rijn",
+      "hoofdkantoor_provincie": "Zuid-Holland",
+      "moederbedrijf": "Hoogvliet B.V.",
+      "opgericht_jaar": 1969,
+      "homepage_url": "https://www.hoogvliet.com",
+      "product_link_template": "https://www.hoogvliet.com/product/",
+      "logo_url": "https://www.hoogvliet.com/INTERSHOP/static/WFS/org-webshop-Site/-/-/nl_NL/img/smart_banner_icon.png",
+      "num_products_indexed": 7410,
+      "has_products_indexed": true
+    },
+    {
+      "id": 7,
+      "chain_code": "jumbo",
+      "chain_slug": "jumbo",
+      "chain_name_short": "Jumbo",
+      "chain_name_full": "Jumbo Supermarkten",
+      "chain_type": "supermarkt",
+      "hoofdkantoor_stad": "Veghel",
+      "hoofdkantoor_provincie": "Noord-Brabant",
+      "moederbedrijf": "Jumbo Groep Holding",
+      "opgericht_jaar": 1979,
+      "homepage_url": "https://www.jumbo.com",
+      "product_link_template": "https://www.jumbo.com/producten/",
+      "logo_url": "https://www.jumbo.com/INTERSHOP/static/WFS/Jumbo-Grocery-Site/-/-/nl_NL/images/favicon.ico",
+      "num_products_indexed": 17739,
+      "has_products_indexed": true
+    },
+    {
+      "id": 8,
+      "chain_code": "lidl",
+      "chain_slug": "lidl",
+      "chain_name_short": "Lidl (via boodschaapje.nl)",
+      "chain_name_full": "Lidl Nederland",
+      "chain_type": "discountsupermarkt",
+      "hoofdkantoor_stad": "Huizen",
+      "hoofdkantoor_provincie": "Noord-Holland",
+      "moederbedrijf": "Schwarz-Gruppe",
+      "opgericht_jaar": 1997,
+      "homepage_url": "https://boodschaapje.nl",
+      "product_link_template": "https://boodschaapje.nl/product/",
+      "logo_url": "https://www.lidl.nl/static/assets/1f8d040c-8532-4af5-9c99-7a59545365de.svg",
+      "num_products_indexed": 20207,
+      "has_products_indexed": true
+    },
+    {
+      "id": 9,
+      "chain_code": "plus",
+      "chain_slug": "plus",
+      "chain_name_short": "PLUS",
+      "chain_name_full": "PLUS",
+      "chain_type": "supermarkt",
+      "hoofdkantoor_stad": "Utrecht",
+      "hoofdkantoor_provincie": "Utrecht",
+      "moederbedrijf": "PLUS Holding",
+      "opgericht_jaar": 1979,
+      "homepage_url": "https://www.plus.nl",
+      "product_link_template": "https://www.plus.nl/product/",
+      "logo_url": "https://play-lh.googleusercontent.com/oIetxLUcZLIA_VrAGWmpLrBy6UHs0bAJNESA3IOg2nNGoq4zHSrUbEdj6fDOZk7NaPw",
+      "num_products_indexed": 16129,
+      "has_products_indexed": true
+    },
+    {
+      "id": 10,
+      "chain_code": "poiesz",
+      "chain_slug": "poiesz",
+      "chain_name_short": "Poiesz",
+      "chain_name_full": "Poiesz Supermarkten",
+      "chain_type": "supermarkt",
+      "hoofdkantoor_stad": "Sneek",
+      "hoofdkantoor_provincie": "Friesland",
+      "moederbedrijf": "Poiesz B.V.",
+      "opgericht_jaar": 1923,
+      "homepage_url": "https://webwinkel.poiesz-supermarkten.nl",
+      "product_link_template": "https://webwinkel.poiesz-supermarkten.nl/boodschappen/producten/",
+      "logo_url": "https://webwinkel.poiesz-supermarkten.nl/apple-touch-icon.png",
+      "num_products_indexed": 1865,
+      "has_products_indexed": true
+    },
+    {
+      "id": 11,
+      "chain_code": "spar",
+      "chain_slug": "spar",
+      "chain_name_short": "SPAR",
+      "chain_name_full": "Spar Nederland",
+      "chain_type": "supermarkt",
+      "hoofdkantoor_stad": "Waalwijk",
+      "hoofdkantoor_provincie": "Noord-Brabant",
+      "moederbedrijf": "SPAR Holding",
+      "opgericht_jaar": 1932,
+      "homepage_url": "https://www.spar.nl",
+      "product_link_template": "https://www.spar.nl/",
+      "logo_url": "https://www.spar.nl/Content/img/favicon/android-icon-192x192.png",
+      "num_products_indexed": 7716,
+      "has_products_indexed": true
+    },
+    {
+      "id": 12,
+      "chain_code": "vomar",
+      "chain_slug": "vomar",
+      "chain_name_short": "Vomar",
+      "chain_name_full": "Vomar Voordeelmarkt",
+      "chain_type": "supermarkt",
+      "hoofdkantoor_stad": "IJmuiden",
+      "hoofdkantoor_provincie": "Noord-Holland",
+      "moederbedrijf": "Vomar B.V.",
+      "opgericht_jaar": 1929,
+      "homepage_url": "https://www.vomar.nl",
+      "product_link_template": "https://www.vomar.nl/producten/",
+      "logo_url": "https://www.vomar.nl/apple-touch-icon.png",
+      "num_products_indexed": 894,
+      "has_products_indexed": true
+    }
+  ],
+  "meta": {
+    "title": "Supermarktketens Nederland — referentielijst - Gratis downloaden",
+    "description": "Referentielijst van de twaalf supermarktketens die in Nederland actief zijn en door checkjebon.nl worden geïndexeerd. Elk record bevat de officiële chain code (zoals gebruikt in de upstream checkjebon dataset), korte en volledige merknaam, ketentype (supermarkt, discountsupermarkt, biologische supermarkt), hoofdkantoor (stad + provincie), moederbedrijf, jaar van oprichting, homepage-URL, het product-link-template dat checkjebon gebruikt, een verwijzing naar het ketenlogo, en hoeveel artikelen checkjebon voor deze keten momenteel indexeert. De per-keten productlijsten zelf worden hier NIET gespiegeld — die hebben per-keten ToS-implicaties (o.a. AH/Jumbo no-scrape clauses) die buiten de scope van deze ketenreferentie vallen. Deze tabel bedient de ~9k SV/mo head-query \"supermarkten nederland\" plus de ranking-as / vergelijkingsqueries (\"grootste supermarkten\", \"plus supermarkten\", enz.). Bevat 12 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Supermarktketens Nederland — referentielijst | ListBase",
+    "seo_description": "Downloaden Supermarktketens Nederland — referentielijst — 12 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 12 records / 15 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

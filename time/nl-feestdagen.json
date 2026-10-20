@@ -1,0 +1,380 @@
+{
+  "id": "nl-feestdagen",
+  "name": "Feestdagen en gedenkdagen in Nederland",
+  "title": "Feestdagen en gedenkdagen in Nederland",
+  "description": "Officiële feestdagen, vrije dagen, christelijke hoogtijdagen en nationale gedenkdagen van het Koninkrijk der Nederlanden — onder andere Koningsdag, Bevrijdingsdag, Pasen, Pinksteren en Kerstmis. Bewegelijke feestdagen (Pasen, Hemelvaart, Pinksteren) worden berekend volgens de gregoriaanse paasdatum. Bron: commenthol/date-holidays (Wikipedia, CC-BY-SA-3.0).",
+  "category": "time",
+  "source": "https://github.com/commenthol/date-holidays",
+  "source_url": "https://github.com/commenthol/date-holidays",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "rule",
+      "label": "Rule",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "reference",
+      "label": "Reference",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "string"
+    },
+    {
+      "key": "substitute",
+      "label": "Substitute",
+      "type": "boolean"
+    },
+    {
+      "key": "disable",
+      "label": "Disable",
+      "type": "string"
+    },
+    {
+      "key": "enable",
+      "label": "Enable",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "rule": "01-01",
+      "name_native": "Nieuwjaar",
+      "name_en": "New Year's Day",
+      "type": "public",
+      "reference": "01-01",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 2,
+      "rule": "easter -2",
+      "name_native": "Goede Vrijdag",
+      "name_en": "Good Friday",
+      "type": "school",
+      "reference": "easter -2",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 3,
+      "rule": "easter",
+      "name_native": "Pasen",
+      "name_en": "Easter Sunday",
+      "type": "public",
+      "reference": "easter",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 4,
+      "rule": "easter 1",
+      "name_native": "Tweede paasdag",
+      "name_en": "Easter Monday",
+      "type": "public",
+      "reference": "easter 1",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 5,
+      "rule": "04-27 if sunday then previous saturday since 2014",
+      "name_native": "Koningsdag",
+      "name_en": "King's Day",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 6,
+      "rule": "04-30 if sunday then next monday since 1949 and prior to 1980",
+      "name_native": "Koninginnedag",
+      "name_en": "Queen's Day",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 7,
+      "rule": "04-30 if sunday then previous saturday since 1980 and prior to 2014",
+      "name_native": "Koninginnedag",
+      "name_en": "Queen's Day",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 8,
+      "rule": "05-04",
+      "name_native": "Nationale Dodenherdenking",
+      "name_en": "Remembrance of the Dead",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 9,
+      "rule": "05-05",
+      "name_native": "Bevrijdingsdag",
+      "name_en": "Liberation Day",
+      "type": "school",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 10,
+      "rule": "2nd sunday in May",
+      "name_native": "Moederdag",
+      "name_en": "Mother's Day",
+      "type": "observance",
+      "reference": "Mothers Day",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 11,
+      "rule": "easter 39",
+      "name_native": "Hemelvaartsdag",
+      "name_en": "Ascension Day",
+      "type": "public",
+      "reference": "easter 39",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 12,
+      "rule": "easter 49",
+      "name_native": "Pinksteren",
+      "name_en": "Pentecost",
+      "type": "public",
+      "reference": "easter 49",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 13,
+      "rule": "easter 50",
+      "name_native": "Tweede pinksterdag",
+      "name_en": "Whit Monday",
+      "type": "public",
+      "reference": "easter 50",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 14,
+      "rule": "3rd sunday in June",
+      "name_native": "Vaderdag",
+      "name_en": "Father's Day",
+      "type": "observance",
+      "reference": "Fathers Day",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 15,
+      "rule": "08-31 since 1885 and prior to 1891",
+      "name_native": "Prinsessedag",
+      "name_en": "Princess Day",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 16,
+      "rule": "08-31 since 1891 and prior to 1949",
+      "name_native": "Koninginnedag",
+      "name_en": "Queen's Day",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 17,
+      "rule": "3rd tuesday in September",
+      "name_native": "Prinsjesdag",
+      "name_en": "Prince's Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 18,
+      "rule": "11-11",
+      "name_native": "Sint-Maarten",
+      "name_en": "Saint Martin",
+      "type": "observance",
+      "reference": "11-11",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 19,
+      "rule": "12-05",
+      "name_native": "Sinterklaasavond",
+      "name_en": "St Nicholas' Eve",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 20,
+      "rule": "12-15",
+      "name_native": "Koninkrijksdag",
+      "name_en": "Kingdom Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 21,
+      "rule": "12-25",
+      "name_native": "Kerstmis",
+      "name_en": "Christmas Day",
+      "type": "public",
+      "reference": "12-25",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 22,
+      "rule": "12-26",
+      "name_native": "Tweede kerstdag",
+      "name_en": "Boxing Day",
+      "type": "public",
+      "reference": "12-26",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 23,
+      "rule": "12-31",
+      "name_native": "Oudejaarsavond",
+      "name_en": "New Year's Eve",
+      "type": "bank",
+      "reference": "12-31",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    }
+  ],
+  "meta": {
+    "title": "Feestdagen en gedenkdagen in Nederland - Gratis downloaden",
+    "description": "Officiële feestdagen, vrije dagen, christelijke hoogtijdagen en nationale gedenkdagen van het Koninkrijk der Nederlanden — onder andere Koningsdag, Bevrijdingsdag, Pasen, Pinksteren en Kerstmis. Bewegelijke feestdagen (Pasen, Hemelvaart, Pinksteren) worden berekend volgens de gregoriaanse paasdatum. Bron: commenthol/date-holidays (Wikipedia, CC-BY-SA-3.0). Bevat 23 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Feestdagen en gedenkdagen in Nederland | ListBase",
+    "seo_description": "Downloaden Feestdagen en gedenkdagen in Nederland — 23 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 23 records / 11 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: https://github.com/commenthol/date-holidays"
+    ]
+  }
+}

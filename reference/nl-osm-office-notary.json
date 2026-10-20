@@ -1,0 +1,1402 @@
+{
+  "id": "nl-osm-office-notary",
+  "name": "Netherlands OSM: notary (office=notary)",
+  "title": "Netherlands OSM: notary (office=notary)",
+  "description": "Named OpenStreetMap features tagged office=notary in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 193,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "026 Notariaat",
+      "latitude": 51.985361,
+      "longitude": 5.906466,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 2,
+      "name": "ACCORDO",
+      "latitude": 52.195506,
+      "longitude": 5.390721,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 3,
+      "name": "Aa en Hunze Notariaat",
+      "latitude": 53.007508,
+      "longitude": 6.764121,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 4,
+      "name": "Acosti Notariskantoor B.V.",
+      "latitude": 51.985534,
+      "longitude": 5.847556,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 5,
+      "name": "Actus Notarissen",
+      "latitude": 52.655008,
+      "longitude": 5.065686,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 6,
+      "name": "Alsea",
+      "latitude": 51.327662,
+      "longitude": 3.495908,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 7,
+      "name": "Alsema Van Duin",
+      "latitude": 52.647058,
+      "longitude": 5.051775,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 8,
+      "name": "Amba Schreus",
+      "latitude": 52.504963,
+      "longitude": 4.957464,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 9,
+      "name": "Ambachtse notaris",
+      "latitude": 51.853405,
+      "longitude": 4.649383,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 10,
+      "name": "Ammerlaan Legal B.V.",
+      "latitude": 51.497452,
+      "longitude": 3.891275,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 11,
+      "name": "AndriessenZonnevylle Notarissen",
+      "latitude": 51.649552,
+      "longitude": 3.922626,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 12,
+      "name": "Axent Notarissen",
+      "latitude": 51.334315,
+      "longitude": 3.836309,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 13,
+      "name": "Bakker & Neve",
+      "latitude": 52.15348,
+      "longitude": 4.525286,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 14,
+      "name": "Batenburg",
+      "latitude": 52.364278,
+      "longitude": 4.620027,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 15,
+      "name": "Batenburg Notarissen",
+      "latitude": 52.483927,
+      "longitude": 4.643465,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 16,
+      "name": "Beens Notariaat",
+      "latitude": 52.148949,
+      "longitude": 5.369845,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 17,
+      "name": "Bentum Nijboer Notaris",
+      "latitude": 52.519206,
+      "longitude": 6.42273,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 18,
+      "name": "Beunk",
+      "latitude": 52.265747,
+      "longitude": 6.769879,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 19,
+      "name": "Boom Notariaat",
+      "latitude": 52.123775,
+      "longitude": 4.443603,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 20,
+      "name": "Bouwman",
+      "latitude": 51.443283,
+      "longitude": 3.576315,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 21,
+      "name": "Broekema Notaris",
+      "latitude": 53.192726,
+      "longitude": 6.568765,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 22,
+      "name": "Brouwers notariskantoor",
+      "latitude": 52.150801,
+      "longitude": 5.383428,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 23,
+      "name": "Bruggink & Van Beek Notarissen",
+      "latitude": 51.806144,
+      "longitude": 5.727662,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 24,
+      "name": "Caminada Notarissen",
+      "latitude": 52.05456,
+      "longitude": 4.34038,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 25,
+      "name": "Coops Rouweler",
+      "latitude": 52.14099,
+      "longitude": 6.191421,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 26,
+      "name": "DKT Notarissen",
+      "latitude": 51.538801,
+      "longitude": 5.046216,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 27,
+      "name": "DWR Notarissen",
+      "latitude": 52.137155,
+      "longitude": 6.21763,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 28,
+      "name": "Daad Notarissen Druten",
+      "latitude": 51.891097,
+      "longitude": 5.609275,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 29,
+      "name": "Daamen De Kort van Tuijl Notarissen",
+      "latitude": 51.585311,
+      "longitude": 4.922052,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 30,
+      "name": "De Jong",
+      "latitude": 52.512188,
+      "longitude": 6.097851,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 31,
+      "name": "De Kerf & van Sprankg",
+      "latitude": 51.559914,
+      "longitude": 5.084505,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 32,
+      "name": "De Kiewit Buijsman Wientjes Notarissen",
+      "latitude": 52.428953,
+      "longitude": 4.643957,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 33,
+      "name": "De Kroon",
+      "latitude": 52.048285,
+      "longitude": 6.102447,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 34,
+      "name": "De Notarissen",
+      "latitude": 51.99334,
+      "longitude": 5.098642,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 35,
+      "name": "De Notarissen Van Naam",
+      "latitude": 52.216749,
+      "longitude": 5.962653,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 36,
+      "name": "De Notariswinkel",
+      "latitude": 51.463735,
+      "longitude": 3.601448,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 37,
+      "name": "De Ridder",
+      "latitude": 51.935026,
+      "longitude": 4.786449,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 38,
+      "name": "De Wit en Dijkstra",
+      "latitude": 53.031433,
+      "longitude": 5.656399,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 39,
+      "name": "De Zeeuwse Alliantie",
+      "latitude": 51.491442,
+      "longitude": 3.616926,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 40,
+      "name": "De Zeeuwse Alliantie",
+      "latitude": 51.499827,
+      "longitude": 3.89069,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 41,
+      "name": "De Zeeuwse Alliantie",
+      "latitude": 51.501721,
+      "longitude": 3.613179,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 42,
+      "name": "Den Hartog Heuff Notarissen",
+      "latitude": 51.98874,
+      "longitude": 5.93491,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 43,
+      "name": "Doorn Jacobs Notarissen",
+      "latitude": 52.299651,
+      "longitude": 5.631353,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 44,
+      "name": "Ellents Lentze",
+      "latitude": 52.083614,
+      "longitude": 4.307677,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 45,
+      "name": "Elzerman",
+      "latitude": 52.507501,
+      "longitude": 6.080421,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 46,
+      "name": "Emmius Notarissen",
+      "latitude": 53.323812,
+      "longitude": 6.862361,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 47,
+      "name": "Emmius Notarissen",
+      "latitude": 53.327021,
+      "longitude": 6.907064,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 48,
+      "name": "Endendijk Koene",
+      "latitude": 52.414153,
+      "longitude": 6.629461,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 49,
+      "name": "Engelen",
+      "latitude": 52.951429,
+      "longitude": 6.449506,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 50,
+      "name": "Feijen&De Vries",
+      "latitude": 52.385885,
+      "longitude": 6.036024,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 51,
+      "name": "GRM Expertises",
+      "latitude": 51.528848,
+      "longitude": 4.452984,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 52,
+      "name": "Glas & Mulder",
+      "latitude": 52.955814,
+      "longitude": 4.75527,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 53,
+      "name": "Govers Spil Notarisen",
+      "latitude": 51.907235,
+      "longitude": 4.496488,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 54,
+      "name": "Grijmans Dierckxsens",
+      "latitude": 52.088606,
+      "longitude": 4.336685,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 55,
+      "name": "Heemskerk & Feijen notarissen",
+      "latitude": 52.054178,
+      "longitude": 4.238933,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 56,
+      "name": "Heemstra & Roest Notariaat",
+      "latitude": 51.325565,
+      "longitude": 3.486975,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 57,
+      "name": "Heijkants & notaris Maevis B.V",
+      "latitude": 51.644969,
+      "longitude": 4.860497,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 58,
+      "name": "Hermus Noratis",
+      "latitude": 51.512936,
+      "longitude": 5.494095,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 59,
+      "name": "Herwig",
+      "latitude": 51.445055,
+      "longitude": 3.571982,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 60,
+      "name": "Het Notarieel",
+      "latitude": 52.510924,
+      "longitude": 6.089374,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 61,
+      "name": "Heuvelrug Notarissen",
+      "latitude": 52.050186,
+      "longitude": 5.287138,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 62,
+      "name": "Hoekstra",
+      "latitude": 52.502248,
+      "longitude": 6.083972,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 63,
+      "name": "Hoekstra & Partners",
+      "latitude": 52.090599,
+      "longitude": 5.149417,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 64,
+      "name": "Hoekstra & Partners",
+      "latitude": 53.195391,
+      "longitude": 5.798337,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 65,
+      "name": "Hoekstra & Partners Notarissen",
+      "latitude": 51.542622,
+      "longitude": 5.057698,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 66,
+      "name": "Hoffspoor",
+      "latitude": 51.638327,
+      "longitude": 5.348758,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 67,
+      "name": "Hofsteenge & Wesseling",
+      "latitude": 52.22376,
+      "longitude": 6.889422,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 68,
+      "name": "Huijbregts Notarissen",
+      "latitude": 51.68328,
+      "longitude": 5.321366,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 69,
+      "name": "Huitsing & Poort Notariaat en Mediation",
+      "latitude": 53.407916,
+      "longitude": 6.669271,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 70,
+      "name": "Huizinga De Vries Notarissen",
+      "latitude": 53.164136,
+      "longitude": 6.388501,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 71,
+      "name": "JHD Notarissen",
+      "latitude": 52.057887,
+      "longitude": 4.4859,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 72,
+      "name": "JUST Notarissen",
+      "latitude": 52.044387,
+      "longitude": 4.483063,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 73,
+      "name": "Kammeraad & Strijk",
+      "latitude": 51.852499,
+      "longitude": 4.323414,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 74,
+      "name": "Karel van de Kamp",
+      "latitude": 51.987777,
+      "longitude": 5.929029,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 75,
+      "name": "Klaassen Notarissen",
+      "latitude": 51.648708,
+      "longitude": 3.922875,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 76,
+      "name": "Knook & Schot",
+      "latitude": 51.531832,
+      "longitude": 4.221935,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 77,
+      "name": "Koch en Compaijen",
+      "latitude": 52.108342,
+      "longitude": 5.086374,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 78,
+      "name": "Kramers en Wienen notarissen",
+      "latitude": 52.018585,
+      "longitude": 4.433657,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 79,
+      "name": "Krans Notarissen",
+      "latitude": 52.375232,
+      "longitude": 4.626976,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 80,
+      "name": "Lexis Notarissen",
+      "latitude": 52.763691,
+      "longitude": 6.356135,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 81,
+      "name": "Libertas Notariaat & Mediation",
+      "latitude": 51.967135,
+      "longitude": 5.668171,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 82,
+      "name": "Ligne Netwerk Notarissen",
+      "latitude": 51.527935,
+      "longitude": 4.277382,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 83,
+      "name": "Ligne Netwerk Notarissen",
+      "latitude": 51.585488,
+      "longitude": 4.463574,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 84,
+      "name": "Ligne Netwerk Notarissen",
+      "latitude": 51.58803,
+      "longitude": 4.318738,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 85,
+      "name": "Linde Notarissen",
+      "latitude": 52.605888,
+      "longitude": 6.467124,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 86,
+      "name": "Maes",
+      "latitude": 51.909222,
+      "longitude": 4.351436,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 87,
+      "name": "Masmeijer Notariaat",
+      "latitude": 51.997262,
+      "longitude": 5.675661,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 88,
+      "name": "MeerVaart Notarissen",
+      "latitude": 52.270608,
+      "longitude": 4.628427,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 89,
+      "name": "Megchelsen & Haksteen",
+      "latitude": 52.446268,
+      "longitude": 5.840818,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 90,
+      "name": "Meijer Notarissen",
+      "latitude": 52.363918,
+      "longitude": 4.897532,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 91,
+      "name": "Meijling & Sarneel",
+      "latitude": 51.47322,
+      "longitude": 3.816412,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 92,
+      "name": "Meijling & Sarneel",
+      "latitude": 51.485779,
+      "longitude": 3.956746,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 93,
+      "name": "Molenaar & Van der Kuijp",
+      "latitude": 51.74134,
+      "longitude": 4.557368,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 94,
+      "name": "Moulijn Netwerk Notarissen",
+      "latitude": 52.273454,
+      "longitude": 5.243004,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 95,
+      "name": "Mr. R.M. Dom",
+      "latitude": 52.067232,
+      "longitude": 4.360327,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 96,
+      "name": "NOTARISWEESP Van Elten van de Griend",
+      "latitude": 52.30476,
+      "longitude": 5.037644,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 97,
+      "name": "Nonhebel",
+      "latitude": 51.814651,
+      "longitude": 4.660982,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 98,
+      "name": "Notariaat Duiven Westervoort",
+      "latitude": 51.949647,
+      "longitude": 6.025484,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 99,
+      "name": "Notariaat Eemmeer",
+      "latitude": 52.243594,
+      "longitude": 5.375608,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 100,
+      "name": "Notariaat Pas",
+      "latitude": 50.940109,
+      "longitude": 5.793501,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 101,
+      "name": "Notariaat Salland",
+      "latitude": 52.385974,
+      "longitude": 6.272706,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 102,
+      "name": "Notariaat Ter Apel",
+      "latitude": 52.875239,
+      "longitude": 7.063209,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 103,
+      "name": "Notariaat Westerwolde",
+      "latitude": 53.068402,
+      "longitude": 7.074059,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 104,
+      "name": "Notariaat Wijdemeren mr. S. Kreugel B.V.",
+      "latitude": 52.206694,
+      "longitude": 5.14058,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 105,
+      "name": "Notariaat Winschoten Kruize Rolfers",
+      "latitude": 53.140116,
+      "longitude": 7.037702,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 106,
+      "name": "Notariaat Zuidlaren",
+      "latitude": 53.092211,
+      "longitude": 6.682778,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 107,
+      "name": "Notaris Appel",
+      "latitude": 52.671281,
+      "longitude": 4.900735,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 108,
+      "name": "Notaris Huitsing",
+      "latitude": 53.345188,
+      "longitude": 6.642152,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 109,
+      "name": "Notaris Stolker",
+      "latitude": 51.281644,
+      "longitude": 4.050608,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 110,
+      "name": "Notariskantoor Beugelink Kluitenberg",
+      "latitude": 53.280233,
+      "longitude": 6.14834,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 111,
+      "name": "Notariskantoor Blankestijn",
+      "latitude": 52.004422,
+      "longitude": 6.351963,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 112,
+      "name": "Notariskantoor Blankestijn",
+      "latitude": 52.104006,
+      "longitude": 6.316767,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 113,
+      "name": "Notariskantoor Broekmans",
+      "latitude": 51.427031,
+      "longitude": 5.443712,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 114,
+      "name": "Notariskantoor Brouns",
+      "latitude": 53.241866,
+      "longitude": 5.892203,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 115,
+      "name": "Notariskantoor Cuijk",
+      "latitude": 51.731969,
+      "longitude": 5.864491,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 116,
+      "name": "Notariskantoor Mirjam Bos",
+      "latitude": 53.093849,
+      "longitude": 5.834431,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 117,
+      "name": "Notariskantoor Perlot Apeldoorn",
+      "latitude": 52.220068,
+      "longitude": 5.95965,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 118,
+      "name": "Notariskantoor Rang",
+      "latitude": 51.929288,
+      "longitude": 5.712894,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 119,
+      "name": "Notariskantoor Roerdalen",
+      "latitude": 51.140145,
+      "longitude": 5.998965,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 120,
+      "name": "Notariskantoor Ten Brinke",
+      "latitude": 52.492345,
+      "longitude": 4.763475,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 121,
+      "name": "Notariskantoor Terheijden",
+      "latitude": 51.643232,
+      "longitude": 4.752186,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 122,
+      "name": "Notariskantoor Tesink - Van Dooren",
+      "latitude": 52.220466,
+      "longitude": 5.957769,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 123,
+      "name": "Notariskantoor Van Limburg Stirum",
+      "latitude": 52.229124,
+      "longitude": 5.165532,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 124,
+      "name": "Notariskantoor Weggemans",
+      "latitude": 52.874043,
+      "longitude": 7.062049,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 125,
+      "name": "Notariskantoor Zondervan",
+      "latitude": 51.79721,
+      "longitude": 5.256969,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 126,
+      "name": "Notariskantoor de Kroon",
+      "latitude": 51.996091,
+      "longitude": 5.972509,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 127,
+      "name": "Notariskantoor mr. Adam Elzinga",
+      "latitude": 52.991685,
+      "longitude": 6.557372,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 128,
+      "name": "Notariskantoor van Goethem",
+      "latitude": 51.275946,
+      "longitude": 4.040622,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 129,
+      "name": "Notariskantoor van Pelt",
+      "latitude": 52.993945,
+      "longitude": 6.565752,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 130,
+      "name": "Notarispost Ommen",
+      "latitude": 52.518761,
+      "longitude": 6.423955,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 131,
+      "name": "Notarispraktijk Van Dongen",
+      "latitude": 51.501052,
+      "longitude": 3.618293,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 132,
+      "name": "NotuBiz",
+      "latitude": 51.914795,
+      "longitude": 4.532428,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 133,
+      "name": "Offereins",
+      "latitude": 51.642989,
+      "longitude": 4.854731,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 134,
+      "name": "Ohmann Notariaat",
+      "latitude": 52.142,
+      "longitude": 4.395259,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 135,
+      "name": "Ottens Vallei Notaris.nl",
+      "latitude": 52.022961,
+      "longitude": 5.553281,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 136,
+      "name": "Ouwerkerk notariaat",
+      "latitude": 51.854302,
+      "longitude": 4.303193,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 137,
+      "name": "PPH Notarissen",
+      "latitude": 51.73488,
+      "longitude": 5.526767,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 138,
+      "name": "Ploeg notariaat",
+      "latitude": 52.354355,
+      "longitude": 4.880967,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 139,
+      "name": "Poppinghaus",
+      "latitude": 52.260509,
+      "longitude": 7.008308,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 140,
+      "name": "Quadrant Notarissen",
+      "latitude": 52.084955,
+      "longitude": 4.302734,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 141,
+      "name": "RensenSiemerink Netwerk Notarissen",
+      "latitude": 51.926235,
+      "longitude": 6.584077,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 142,
+      "name": "RijksBredius Notarissen",
+      "latitude": 52.278301,
+      "longitude": 5.162584,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 143,
+      "name": "Rijnvis Notaris",
+      "latitude": 51.915657,
+      "longitude": 4.589782,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 144,
+      "name": "Sauer & Oonk",
+      "latitude": 51.447819,
+      "longitude": 3.59403,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 145,
+      "name": "Sauer & Oonk",
+      "latitude": 51.449404,
+      "longitude": 3.588001,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 146,
+      "name": "Sauer & Oonk",
+      "latitude": 51.496519,
+      "longitude": 3.894889,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 147,
+      "name": "Schaap Advocaten Notarissen",
+      "latitude": 51.908065,
+      "longitude": 4.473398,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 148,
+      "name": "Scholten en Wilmink",
+      "latitude": 52.726471,
+      "longitude": 6.477258,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 149,
+      "name": "Schot van Loon Notariaat",
+      "latitude": 52.397376,
+      "longitude": 4.940848,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 150,
+      "name": "Schretlen Notaris",
+      "latitude": 51.443278,
+      "longitude": 5.617145,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 151,
+      "name": "Schäfer",
+      "latitude": 51.438507,
+      "longitude": 5.489169,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 152,
+      "name": "Schäfer",
+      "latitude": 51.474095,
+      "longitude": 5.547898,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 153,
+      "name": "Sekuar Notarissen",
+      "latitude": 53.184035,
+      "longitude": 6.165867,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 154,
+      "name": "Seydlitz Notarissen",
+      "latitude": 51.570248,
+      "longitude": 4.792955,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 155,
+      "name": "Slaghekke notariaat",
+      "latitude": 52.241992,
+      "longitude": 6.105349,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 156,
+      "name": "Smit & Moormann notariaat",
+      "latitude": 51.96744,
+      "longitude": 5.670141,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 157,
+      "name": "Spek & Van den Beld",
+      "latitude": 52.131695,
+      "longitude": 5.427334,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 158,
+      "name": "Spier & Hazenberg",
+      "latitude": 52.35857,
+      "longitude": 4.898742,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 159,
+      "name": "Ten Hoor",
+      "latitude": 52.428966,
+      "longitude": 4.914001,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 160,
+      "name": "Ter Braak Willemsen",
+      "latitude": 52.364981,
+      "longitude": 6.462627,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 161,
+      "name": "Tijdhof, Daverschot, De Jong Posthumus",
+      "latitude": 52.994334,
+      "longitude": 6.565525,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 162,
+      "name": "Tijdhof, Daverschot, De Jong Posthumus Notarissen",
+      "latitude": 52.731704,
+      "longitude": 6.475816,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 163,
+      "name": "Tijdhof, Daverschot, De Jong Posthumus Notarissen",
+      "latitude": 52.771252,
+      "longitude": 6.900273,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 164,
+      "name": "Tisjaan",
+      "latitude": 51.366642,
+      "longitude": 6.152576,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 165,
+      "name": "Van Buttingha Wichers Notarissen",
+      "latitude": 52.088322,
+      "longitude": 4.312852,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 166,
+      "name": "Van Ee & De Jonge",
+      "latitude": 52.088008,
+      "longitude": 5.117182,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 167,
+      "name": "Van Gastel",
+      "latitude": 51.916829,
+      "longitude": 4.333026,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 168,
+      "name": "Van Goor Schuurman notarissen",
+      "latitude": 52.355447,
+      "longitude": 6.604716,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 169,
+      "name": "Van Hecke Houben Notarissen",
+      "latitude": 51.197852,
+      "longitude": 5.990568,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 170,
+      "name": "Van Hengstum & Stolp Netwerk",
+      "latitude": 52.227648,
+      "longitude": 5.1718,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 171,
+      "name": "Van Kreij notariskantoor",
+      "latitude": 51.537757,
+      "longitude": 4.461736,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 172,
+      "name": "Van Kruijsdijk Notarissen",
+      "latitude": 51.619283,
+      "longitude": 5.431762,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 173,
+      "name": "Van Putten Van Apeldoorn notarissen",
+      "latitude": 51.967136,
+      "longitude": 5.68015,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 174,
+      "name": "Van Solkema Notaris Harmelen",
+      "latitude": 52.090896,
+      "longitude": 4.964813,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 175,
+      "name": "Van Weeghel Doppenberg Kamps Notarissen",
+      "latitude": 51.967275,
+      "longitude": 6.285559,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 176,
+      "name": "Van der Laan",
+      "latitude": 52.44661,
+      "longitude": 5.896774,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 177,
+      "name": "Van der Meulen, Kock & Ubachs Notarissen",
+      "latitude": 52.03898,
+      "longitude": 4.645136,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 178,
+      "name": "Vechtstede",
+      "latitude": 52.505015,
+      "longitude": 6.260534,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 179,
+      "name": "Vechtstede",
+      "latitude": 52.51099,
+      "longitude": 6.085627,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 180,
+      "name": "Veldkamp & Prins Notarissen",
+      "latitude": 52.760413,
+      "longitude": 6.715701,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 181,
+      "name": "Veldkamp & Prins Notarissen",
+      "latitude": 52.788109,
+      "longitude": 6.890695,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 182,
+      "name": "Veldkamp & Prins Notarissen",
+      "latitude": 52.858969,
+      "longitude": 6.519512,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 183,
+      "name": "Veldkamp & Prins Notarissen",
+      "latitude": 52.925692,
+      "longitude": 6.794772,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 184,
+      "name": "Vendu Notarishuis",
+      "latitude": 51.92206,
+      "longitude": 4.492674,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 185,
+      "name": "Verhaegen & Peijnenburg",
+      "latitude": 51.322492,
+      "longitude": 3.616598,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 186,
+      "name": "Verhagen Netwerk Notarissen",
+      "latitude": 51.431708,
+      "longitude": 5.483424,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 187,
+      "name": "Verhees Notarissen",
+      "latitude": 52.190528,
+      "longitude": 4.424338,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 188,
+      "name": "Verhoeks",
+      "latitude": 52.956129,
+      "longitude": 4.756962,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 189,
+      "name": "Wilbrink & Den Otter",
+      "latitude": 52.268216,
+      "longitude": 6.796443,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 190,
+      "name": "Wouters Netwerk Notarissen",
+      "latitude": 53.106133,
+      "longitude": 6.872115,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 191,
+      "name": "Zaannotarissen",
+      "latitude": 52.490426,
+      "longitude": 4.795014,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 192,
+      "name": "Zwart & Partners Notarissen",
+      "latitude": 52.076468,
+      "longitude": 4.39439,
+      "osm_klasse": "office=notary"
+    },
+    {
+      "id": 193,
+      "name": "mr. M.J. Moeskops",
+      "latitude": 52.654979,
+      "longitude": 5.065754,
+      "osm_klasse": "office=notary"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: notary (office=notary) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=notary in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 193 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: notary (office=notary) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: notary (office=notary) — 193 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 193 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

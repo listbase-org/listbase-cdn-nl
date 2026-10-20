@@ -1,0 +1,4139 @@
+{
+  "id": "nl-osm-office-it",
+  "name": "Netherlands OSM: it (office=it)",
+  "title": "Netherlands OSM: it (office=it)",
+  "description": "Named OpenStreetMap features tagged office=it in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 584,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "2GO Software",
+      "latitude": 52.328622,
+      "longitude": 6.652178,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 2,
+      "name": "2makeITwork",
+      "latitude": 51.902539,
+      "longitude": 4.458993,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 3,
+      "name": "3BM IT-Solutions B.V.",
+      "latitude": 51.529115,
+      "longitude": 4.455211,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 4,
+      "name": "3WT ICT Solutions",
+      "latitude": 52.25528,
+      "longitude": 4.635691,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 5,
+      "name": "AAD Automatisering",
+      "latitude": 51.887862,
+      "longitude": 4.677462,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 6,
+      "name": "ABN AMRO IT Services",
+      "latitude": 52.312636,
+      "longitude": 4.873539,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 7,
+      "name": "AFAS Software",
+      "latitude": 52.141946,
+      "longitude": 5.423593,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 8,
+      "name": "AJS Advies",
+      "latitude": 52.488216,
+      "longitude": 4.743572,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 9,
+      "name": "AKSI Automatisering",
+      "latitude": 53.169365,
+      "longitude": 6.589592,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 10,
+      "name": "ALL IT Solutions",
+      "latitude": 52.951808,
+      "longitude": 6.461522,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 11,
+      "name": "AT Computing",
+      "latitude": 51.995817,
+      "longitude": 5.960604,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 12,
+      "name": "AVS Advocatenkantoor",
+      "latitude": 50.844841,
+      "longitude": 5.704507,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 13,
+      "name": "Acadon",
+      "latitude": 51.314077,
+      "longitude": 5.342744,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 14,
+      "name": "Aces Direct",
+      "latitude": 51.536073,
+      "longitude": 5.044846,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 15,
+      "name": "Acknowledge Dynamics",
+      "latitude": 51.487251,
+      "longitude": 3.872614,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 16,
+      "name": "Acrus IT",
+      "latitude": 51.578321,
+      "longitude": 4.456426,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 17,
+      "name": "Actemium",
+      "latitude": 51.825147,
+      "longitude": 5.782818,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 18,
+      "name": "ActiveVideo",
+      "latitude": 52.237726,
+      "longitude": 5.171084,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 19,
+      "name": "Adamant",
+      "latitude": 52.711459,
+      "longitude": 5.77663,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 20,
+      "name": "Adfinis",
+      "latitude": 52.264047,
+      "longitude": 6.781311,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 21,
+      "name": "Agro IT",
+      "latitude": 52.127947,
+      "longitude": 5.565573,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 22,
+      "name": "Akyla",
+      "latitude": 52.222066,
+      "longitude": 6.881086,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 23,
+      "name": "Alea Clinical Services",
+      "latitude": 52.278599,
+      "longitude": 4.972899,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 24,
+      "name": "Alexion Software",
+      "latitude": 53.216518,
+      "longitude": 6.537983,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 25,
+      "name": "AlienTrick",
+      "latitude": 52.282748,
+      "longitude": 6.847982,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 26,
+      "name": "Alion",
+      "latitude": 52.007179,
+      "longitude": 4.360788,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 27,
+      "name": "AlisQI",
+      "latitude": 52.091961,
+      "longitude": 4.996769,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 28,
+      "name": "Andes",
+      "latitude": 51.444388,
+      "longitude": 5.474188,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 29,
+      "name": "Arcus-IT",
+      "latitude": 53.033812,
+      "longitude": 5.640587,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 30,
+      "name": "Argos Cyber Security Assessment",
+      "latitude": 51.523749,
+      "longitude": 5.010919,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 31,
+      "name": "Arno's Computer Service",
+      "latitude": 51.473049,
+      "longitude": 3.588003,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 32,
+      "name": "Around Media",
+      "latitude": 51.330284,
+      "longitude": 3.836706,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 33,
+      "name": "Assai",
+      "latitude": 51.947873,
+      "longitude": 5.227254,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 34,
+      "name": "Assetmaps B.V.",
+      "latitude": 52.145832,
+      "longitude": 5.352324,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 35,
+      "name": "Atlassian BV",
+      "latitude": 52.373533,
+      "longitude": 4.888533,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 36,
+      "name": "Atrici B.V.",
+      "latitude": 52.075096,
+      "longitude": 5.092501,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 37,
+      "name": "Attached",
+      "latitude": 52.042144,
+      "longitude": 5.097041,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 38,
+      "name": "Automatiserings Service Mierlo",
+      "latitude": 51.447693,
+      "longitude": 5.62712,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 39,
+      "name": "Auxzenze",
+      "latitude": 52.1544,
+      "longitude": 6.200043,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 40,
+      "name": "Avetica B.V.",
+      "latitude": 51.793062,
+      "longitude": 4.551818,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 41,
+      "name": "B.o.s.s.",
+      "latitude": 52.256385,
+      "longitude": 4.626702,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 42,
+      "name": "BK IT Solutions",
+      "latitude": 51.923425,
+      "longitude": 4.564662,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 43,
+      "name": "BTTR",
+      "latitude": 52.036196,
+      "longitude": 5.576131,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 44,
+      "name": "Bakker & Spees",
+      "latitude": 52.361751,
+      "longitude": 4.90421,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 45,
+      "name": "Balans Automatisering",
+      "latitude": 52.23346,
+      "longitude": 5.366402,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 46,
+      "name": "Banyan Studio",
+      "latitude": 52.363048,
+      "longitude": 4.883044,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 47,
+      "name": "Bartels Datastore",
+      "latitude": 52.510228,
+      "longitude": 5.006798,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 48,
+      "name": "Batenburg Magion",
+      "latitude": 52.065124,
+      "longitude": 4.384229,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 49,
+      "name": "Be Informed",
+      "latitude": 52.190041,
+      "longitude": 5.943034,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 50,
+      "name": "BeeOne",
+      "latitude": 50.96217,
+      "longitude": 5.820302,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 51,
+      "name": "Bewise Solutions",
+      "latitude": 51.686397,
+      "longitude": 5.301285,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 52,
+      "name": "Bince",
+      "latitude": 53.031051,
+      "longitude": 6.5777,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 53,
+      "name": "Blackip",
+      "latitude": 52.064306,
+      "longitude": 4.38951,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 54,
+      "name": "Bol ICT",
+      "latitude": 53.238797,
+      "longitude": 6.631844,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 55,
+      "name": "Booking.com",
+      "latitude": 52.365443,
+      "longitude": 4.898208,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 56,
+      "name": "Boone IT",
+      "latitude": 52.130255,
+      "longitude": 5.566731,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 57,
+      "name": "Bosch ICT",
+      "latitude": 52.360276,
+      "longitude": 6.375995,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 58,
+      "name": "Brickmedia",
+      "latitude": 52.090944,
+      "longitude": 4.304673,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 59,
+      "name": "Brthrs",
+      "latitude": 52.09545,
+      "longitude": 5.123265,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 60,
+      "name": "Buijs ICT",
+      "latitude": 51.426162,
+      "longitude": 5.384175,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 61,
+      "name": "Butterstreet 21",
+      "latitude": 53.237206,
+      "longitude": 6.589176,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 62,
+      "name": "Byte",
+      "latitude": 52.384286,
+      "longitude": 4.868743,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 63,
+      "name": "CAB holland",
+      "latitude": 51.841472,
+      "longitude": 5.009905,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 64,
+      "name": "CBYTE Digital",
+      "latitude": 51.696271,
+      "longitude": 5.293762,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 65,
+      "name": "CGI",
+      "latitude": 51.953335,
+      "longitude": 4.558691,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 66,
+      "name": "CNOC",
+      "latitude": 52.011268,
+      "longitude": 4.361696,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 67,
+      "name": "CNS-IT",
+      "latitude": 51.946163,
+      "longitude": 6.27878,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 68,
+      "name": "CREON Control Room Solutions",
+      "latitude": 51.54244,
+      "longitude": 5.061421,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 69,
+      "name": "CS Telecom & IT",
+      "latitude": 51.653919,
+      "longitude": 3.923784,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 70,
+      "name": "Camas IT",
+      "latitude": 52.337412,
+      "longitude": 5.632062,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 71,
+      "name": "Capisoft",
+      "latitude": 52.333583,
+      "longitude": 4.864029,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 72,
+      "name": "Capisoft",
+      "latitude": 52.37146,
+      "longitude": 4.892556,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 73,
+      "name": "CaptureTech",
+      "latitude": 52.254928,
+      "longitude": 4.632061,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 74,
+      "name": "CeilBit",
+      "latitude": 52.33345,
+      "longitude": 4.864179,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 75,
+      "name": "Centobytes Informatisering",
+      "latitude": 51.919642,
+      "longitude": 4.51405,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 76,
+      "name": "Centurus IT",
+      "latitude": 51.546599,
+      "longitude": 5.089223,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 77,
+      "name": "Certified Secure",
+      "latitude": 52.070588,
+      "longitude": 4.3973,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 78,
+      "name": "Chipsoft",
+      "latitude": 52.730916,
+      "longitude": 6.470835,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 79,
+      "name": "CipherMail B.V.",
+      "latitude": 52.363108,
+      "longitude": 4.862002,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 80,
+      "name": "Cisco",
+      "latitude": 52.303338,
+      "longitude": 4.953212,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 81,
+      "name": "Civity",
+      "latitude": 52.104377,
+      "longitude": 5.259797,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 82,
+      "name": "ClickHouse BV",
+      "latitude": 52.365149,
+      "longitude": 4.89907,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 83,
+      "name": "CoDesk",
+      "latitude": 52.125092,
+      "longitude": 5.146337,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 84,
+      "name": "Codepress",
+      "latitude": 52.160822,
+      "longitude": 5.378443,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 85,
+      "name": "Cofano Software Solutions B.V.",
+      "latitude": 51.808407,
+      "longitude": 4.665451,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 86,
+      "name": "Cofano Software Solutions B.V.",
+      "latitude": 52.239215,
+      "longitude": 6.842454,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 87,
+      "name": "Colijn IT",
+      "latitude": 51.489078,
+      "longitude": 3.875606,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 88,
+      "name": "Collabite B.V.",
+      "latitude": 52.087819,
+      "longitude": 4.736467,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 89,
+      "name": "Colohouse",
+      "latitude": 52.064647,
+      "longitude": 4.386932,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 90,
+      "name": "Comino",
+      "latitude": 52.991876,
+      "longitude": 5.553216,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 91,
+      "name": "Commpro",
+      "latitude": 51.844369,
+      "longitude": 4.895507,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 92,
+      "name": "ComplexPC",
+      "latitude": 52.56827,
+      "longitude": 6.618486,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 93,
+      "name": "Compudac Solutions",
+      "latitude": 51.973735,
+      "longitude": 6.272715,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 94,
+      "name": "Compumatica secure networks B.V.",
+      "latitude": 51.647198,
+      "longitude": 5.646183,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 95,
+      "name": "Computer Products Professional Benelux",
+      "latitude": 51.803515,
+      "longitude": 4.557377,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 96,
+      "name": "Computerhulp Direct",
+      "latitude": 52.668958,
+      "longitude": 4.811729,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 97,
+      "name": "Conclusion Confidential",
+      "latitude": 52.194146,
+      "longitude": 5.934777,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 98,
+      "name": "Control F5",
+      "latitude": 52.102922,
+      "longitude": 5.078633,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 99,
+      "name": "Cosix Automatisering",
+      "latitude": 52.258427,
+      "longitude": 6.823109,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 100,
+      "name": "Cotive",
+      "latitude": 52.705738,
+      "longitude": 6.924121,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 101,
+      "name": "Covadis",
+      "latitude": 51.944298,
+      "longitude": 6.285493,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 102,
+      "name": "Covadis",
+      "latitude": 51.955128,
+      "longitude": 5.870075,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 103,
+      "name": "Creative Coding Utrecht",
+      "latitude": 52.1047,
+      "longitude": 5.086118,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 104,
+      "name": "Creative Creation",
+      "latitude": 51.610809,
+      "longitude": 5.475151,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 105,
+      "name": "Crooijmans ICT",
+      "latitude": 51.437351,
+      "longitude": 5.429427,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 106,
+      "name": "Cross Internet",
+      "latitude": 51.284221,
+      "longitude": 5.750341,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 107,
+      "name": "Cryptomaan",
+      "latitude": 51.842844,
+      "longitude": 5.860861,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 108,
+      "name": "Curry Promotions '86",
+      "latitude": 52.007991,
+      "longitude": 4.350849,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 109,
+      "name": "CvE Solutions",
+      "latitude": 53.026939,
+      "longitude": 6.569067,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 110,
+      "name": "Cybox internet&communicatie",
+      "latitude": 51.647545,
+      "longitude": 5.939343,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 111,
+      "name": "Cyso Group B.V.",
+      "latitude": 52.638252,
+      "longitude": 4.736002,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 112,
+      "name": "DCE solutions",
+      "latitude": 52.009569,
+      "longitude": 4.361294,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 113,
+      "name": "DMG",
+      "latitude": 52.120995,
+      "longitude": 5.422276,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 114,
+      "name": "DMWS",
+      "latitude": 51.438163,
+      "longitude": 5.471274,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 115,
+      "name": "DRM ICT Solutions",
+      "latitude": 52.957071,
+      "longitude": 4.776424,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 116,
+      "name": "DXC Technology Nederland",
+      "latitude": 52.048576,
+      "longitude": 4.351168,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 117,
+      "name": "Dacom",
+      "latitude": 53.173359,
+      "longitude": 6.591098,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 118,
+      "name": "Darvis Agile DevOps",
+      "latitude": 52.895136,
+      "longitude": 4.754525,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 119,
+      "name": "Dashed",
+      "latitude": 51.825191,
+      "longitude": 5.77832,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 120,
+      "name": "Data Access Europe",
+      "latitude": 52.261435,
+      "longitude": 6.788272,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 121,
+      "name": "Data Recovery Nederland",
+      "latitude": 51.671468,
+      "longitude": 5.607328,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 122,
+      "name": "DataByte",
+      "latitude": 51.982476,
+      "longitude": 4.45295,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 123,
+      "name": "Datanextgroup",
+      "latitude": 53.193778,
+      "longitude": 6.58171,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 124,
+      "name": "Dataplace Amsterdam",
+      "latitude": 52.290378,
+      "longitude": 4.687072,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 125,
+      "name": "DatuX",
+      "latitude": 52.794288,
+      "longitude": 6.903079,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 126,
+      "name": "De Heer Medicom",
+      "latitude": 51.035525,
+      "longitude": 5.804126,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 127,
+      "name": "De Linie ICT",
+      "latitude": 51.677508,
+      "longitude": 4.786623,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 128,
+      "name": "De Websmid",
+      "latitude": 52.515197,
+      "longitude": 6.096682,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 129,
+      "name": "Decorsign",
+      "latitude": 52.078766,
+      "longitude": 6.455025,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 130,
+      "name": "Decos",
+      "latitude": 52.215132,
+      "longitude": 4.427605,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 131,
+      "name": "Defacto Software",
+      "latitude": 53.212198,
+      "longitude": 6.572369,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 132,
+      "name": "Detron",
+      "latitude": 52.12909,
+      "longitude": 5.567499,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 133,
+      "name": "Diasoft",
+      "latitude": 52.119756,
+      "longitude": 5.420981,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 134,
+      "name": "DigiSolve Mijn ICT",
+      "latitude": 51.465505,
+      "longitude": 5.676219,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 135,
+      "name": "Digidom",
+      "latitude": 51.734898,
+      "longitude": 5.139147,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 136,
+      "name": "Digistrava",
+      "latitude": 51.286109,
+      "longitude": 3.758573,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 137,
+      "name": "Digital Power",
+      "latitude": 51.690274,
+      "longitude": 5.295652,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 138,
+      "name": "Digiworks",
+      "latitude": 52.434232,
+      "longitude": 6.236355,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 139,
+      "name": "DocUnited",
+      "latitude": 52.208928,
+      "longitude": 4.439513,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 140,
+      "name": "DomainMasters",
+      "latitude": 52.013963,
+      "longitude": 4.350404,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 141,
+      "name": "Duidluck",
+      "latitude": 52.516393,
+      "longitude": 6.051471,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 142,
+      "name": "Dustin",
+      "latitude": 53.201282,
+      "longitude": 6.512897,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 143,
+      "name": "Dutch Blue B.V.",
+      "latitude": 51.768911,
+      "longitude": 4.642225,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 144,
+      "name": "Dutchworld",
+      "latitude": 52.160927,
+      "longitude": 5.378497,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 145,
+      "name": "Dynateq",
+      "latitude": 52.599935,
+      "longitude": 6.457914,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 146,
+      "name": "ECI",
+      "latitude": 52.143378,
+      "longitude": 5.419437,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 147,
+      "name": "ESET Nederland",
+      "latitude": 51.824471,
+      "longitude": 4.802543,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 148,
+      "name": "Eager",
+      "latitude": 52.16141,
+      "longitude": 5.379659,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 149,
+      "name": "Educator",
+      "latitude": 52.508425,
+      "longitude": 6.066935,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 150,
+      "name": "El Niño",
+      "latitude": 52.217021,
+      "longitude": 6.895659,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 151,
+      "name": "Elementon",
+      "latitude": 52.278978,
+      "longitude": 6.14839,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 152,
+      "name": "Elevate",
+      "latitude": 52.385719,
+      "longitude": 4.925797,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 153,
+      "name": "Elgentos",
+      "latitude": 53.206394,
+      "longitude": 6.57399,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 154,
+      "name": "Emit IT",
+      "latitude": 52.793394,
+      "longitude": 6.903437,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 155,
+      "name": "Emma Solutions ICT B.V.",
+      "latitude": 51.677323,
+      "longitude": 5.292091,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 156,
+      "name": "Encis ICT",
+      "latitude": 52.639692,
+      "longitude": 5.058345,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 157,
+      "name": "Enrise",
+      "latitude": 52.191928,
+      "longitude": 5.40742,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 158,
+      "name": "Everdune",
+      "latitude": 51.574126,
+      "longitude": 4.783847,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 159,
+      "name": "Exact",
+      "latitude": 51.443267,
+      "longitude": 5.475415,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 160,
+      "name": "Exact",
+      "latitude": 51.990339,
+      "longitude": 4.389862,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 161,
+      "name": "Exact",
+      "latitude": 52.06848,
+      "longitude": 5.079394,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 162,
+      "name": "Exact",
+      "latitude": 52.509726,
+      "longitude": 6.126231,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 163,
+      "name": "Exact",
+      "latitude": 53.1982,
+      "longitude": 5.791866,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 164,
+      "name": "FMO Solutions",
+      "latitude": 52.371711,
+      "longitude": 4.915907,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 165,
+      "name": "Facilities Management Activities",
+      "latitude": 52.051732,
+      "longitude": 5.111482,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 166,
+      "name": "Fadiro",
+      "latitude": 52.525554,
+      "longitude": 6.104184,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 167,
+      "name": "Finly",
+      "latitude": 52.161182,
+      "longitude": 5.379506,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 168,
+      "name": "First Element",
+      "latitude": 51.998874,
+      "longitude": 4.390203,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 169,
+      "name": "Flerque",
+      "latitude": 52.059135,
+      "longitude": 4.342958,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 170,
+      "name": "Flexcom",
+      "latitude": 52.032255,
+      "longitude": 4.650199,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 171,
+      "name": "Flexxis Kappersoftware",
+      "latitude": 52.114648,
+      "longitude": 6.220341,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 172,
+      "name": "Flitsmeister B.V.",
+      "latitude": 52.039335,
+      "longitude": 5.55051,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 173,
+      "name": "Floris de Boer SEO",
+      "latitude": 52.647075,
+      "longitude": 4.808362,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 174,
+      "name": "Florisoft",
+      "latitude": 52.185194,
+      "longitude": 4.448154,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 175,
+      "name": "Flusso",
+      "latitude": 52.118285,
+      "longitude": 5.42195,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 176,
+      "name": "Fourtop ICT B.V.",
+      "latitude": 51.850203,
+      "longitude": 4.656535,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 177,
+      "name": "Fox-IT",
+      "latitude": 52.035744,
+      "longitude": 4.326515,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 178,
+      "name": "Friesland_it",
+      "latitude": 53.198013,
+      "longitude": 5.636409,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 179,
+      "name": "Frontvision",
+      "latitude": 52.514777,
+      "longitude": 6.120521,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 180,
+      "name": "Future Insight",
+      "latitude": 52.509031,
+      "longitude": 6.068874,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 181,
+      "name": "GX Software",
+      "latitude": 51.826045,
+      "longitude": 5.797151,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 182,
+      "name": "Gemairo",
+      "latitude": 52.330893,
+      "longitude": 4.632946,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 183,
+      "name": "GemeenteOplossingen",
+      "latitude": 53.246732,
+      "longitude": 6.573572,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 184,
+      "name": "Genius ICT",
+      "latitude": 51.686227,
+      "longitude": 5.301501,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 185,
+      "name": "GeoCat",
+      "latitude": 51.999375,
+      "longitude": 5.673677,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 186,
+      "name": "Geotrack Telematics B.V.",
+      "latitude": 52.964069,
+      "longitude": 5.890973,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 187,
+      "name": "GewoonWiFi",
+      "latitude": 51.559462,
+      "longitude": 5.453781,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 188,
+      "name": "Gladior",
+      "latitude": 52.219557,
+      "longitude": 6.895775,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 189,
+      "name": "Go Advised IT BV",
+      "latitude": 51.94736,
+      "longitude": 4.864677,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 190,
+      "name": "GorillaIT",
+      "latitude": 51.986715,
+      "longitude": 5.961512,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 191,
+      "name": "Grand Ave",
+      "latitude": 51.497861,
+      "longitude": 3.887924,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 192,
+      "name": "Graphisoft",
+      "latitude": 52.072857,
+      "longitude": 5.044849,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 193,
+      "name": "Guapa",
+      "latitude": 52.517868,
+      "longitude": 6.083225,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 194,
+      "name": "Guardey",
+      "latitude": 51.897417,
+      "longitude": 4.540568,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 195,
+      "name": "HS Business",
+      "latitude": 51.250487,
+      "longitude": 5.694057,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 196,
+      "name": "Hallo",
+      "latitude": 51.576363,
+      "longitude": 4.994032,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 197,
+      "name": "Harbers ICT",
+      "latitude": 51.997319,
+      "longitude": 6.578133,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 198,
+      "name": "Heibel",
+      "latitude": 53.18169,
+      "longitude": 6.164146,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 199,
+      "name": "Helden in IT",
+      "latitude": 52.645525,
+      "longitude": 5.10105,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 200,
+      "name": "Heutink ICT",
+      "latitude": 52.285364,
+      "longitude": 6.767132,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 201,
+      "name": "Hewlett Packard Enterprise Nederland",
+      "latitude": 52.301271,
+      "longitude": 4.869409,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 202,
+      "name": "Horizon-IT Solutions",
+      "latitude": 51.526648,
+      "longitude": 5.076779,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 203,
+      "name": "HostFact",
+      "latitude": 51.35796,
+      "longitude": 5.309621,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 204,
+      "name": "Hulst",
+      "latitude": 52.51906,
+      "longitude": 6.073469,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 205,
+      "name": "HumanByte",
+      "latitude": 52.538213,
+      "longitude": 6.109341,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 206,
+      "name": "I.T.S.",
+      "latitude": 52.078556,
+      "longitude": 4.394332,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 207,
+      "name": "IBM",
+      "latitude": 52.346482,
+      "longitude": 5.182768,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 208,
+      "name": "IBM CIC",
+      "latitude": 53.215445,
+      "longitude": 6.570399,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 209,
+      "name": "ICT Automatisering",
+      "latitude": 51.835586,
+      "longitude": 4.939134,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 210,
+      "name": "ICT Automatisering",
+      "latitude": 53.196475,
+      "longitude": 6.53237,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 211,
+      "name": "ICT Barendrecht",
+      "latitude": 51.850561,
+      "longitude": 4.509089,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 212,
+      "name": "ICT Bergen op Zoom",
+      "latitude": 51.498359,
+      "longitude": 4.304826,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 213,
+      "name": "ICT Netherlands",
+      "latitude": 52.239908,
+      "longitude": 6.188015,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 214,
+      "name": "ICT van Gils",
+      "latitude": 51.502679,
+      "longitude": 4.865814,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 215,
+      "name": "ICTwello",
+      "latitude": 52.235093,
+      "longitude": 6.091282,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 216,
+      "name": "ICTzaak",
+      "latitude": 52.00783,
+      "longitude": 5.562925,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 217,
+      "name": "IDgis BV",
+      "latitude": 52.309657,
+      "longitude": 6.52009,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 218,
+      "name": "IMPLI-CIT IT Support Services",
+      "latitude": 52.388983,
+      "longitude": 4.660728,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 219,
+      "name": "INVINITIV",
+      "latitude": 52.28982,
+      "longitude": 6.779094,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 220,
+      "name": "ISO Groep",
+      "latitude": 51.828636,
+      "longitude": 5.208931,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 221,
+      "name": "IT Lions",
+      "latitude": 52.995309,
+      "longitude": 6.532146,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 222,
+      "name": "IT aanspreekpunt",
+      "latitude": 52.226337,
+      "longitude": 6.957385,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 223,
+      "name": "ITB2",
+      "latitude": 52.200456,
+      "longitude": 6.025896,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 224,
+      "name": "ITControl",
+      "latitude": 52.208883,
+      "longitude": 4.440952,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 225,
+      "name": "ITvitae",
+      "latitude": 52.145373,
+      "longitude": 5.352276,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 226,
+      "name": "IURO",
+      "latitude": 52.354424,
+      "longitude": 4.889381,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 227,
+      "name": "IXON Cloud",
+      "latitude": 51.662655,
+      "longitude": 5.938004,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 228,
+      "name": "Ictivity",
+      "latitude": 51.431396,
+      "longitude": 5.430805,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 229,
+      "name": "Ilionx",
+      "latitude": 52.066042,
+      "longitude": 5.080064,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 230,
+      "name": "Imexfa",
+      "latitude": 51.68655,
+      "longitude": 5.305448,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 231,
+      "name": "InQuisitive",
+      "latitude": 52.161433,
+      "longitude": 5.379564,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 232,
+      "name": "InTraffic B.V.",
+      "latitude": 52.048516,
+      "longitude": 5.091479,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 233,
+      "name": "Indenty",
+      "latitude": 52.219497,
+      "longitude": 6.895523,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 234,
+      "name": "Indito",
+      "latitude": 52.242319,
+      "longitude": 6.181716,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 235,
+      "name": "Info Support",
+      "latitude": 52.040885,
+      "longitude": 5.534912,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 236,
+      "name": "Infor",
+      "latitude": 52.167247,
+      "longitude": 5.599431,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 237,
+      "name": "Informatel",
+      "latitude": 52.064758,
+      "longitude": 4.386774,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 238,
+      "name": "Informatics",
+      "latitude": 52.04877,
+      "longitude": 4.641374,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 239,
+      "name": "Infracom",
+      "latitude": 52.513816,
+      "longitude": 6.068695,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 240,
+      "name": "InnerBalloons Consulting BV",
+      "latitude": 52.160127,
+      "longitude": 4.484706,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 241,
+      "name": "Inspiro",
+      "latitude": 51.954484,
+      "longitude": 5.870328,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 242,
+      "name": "IntelliMagic",
+      "latitude": 52.158548,
+      "longitude": 4.487169,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 243,
+      "name": "Intercept",
+      "latitude": 52.509243,
+      "longitude": 6.068561,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 244,
+      "name": "Internetburo Akire",
+      "latitude": 51.954814,
+      "longitude": 4.568475,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 245,
+      "name": "Intero Integrity Services",
+      "latitude": 51.886113,
+      "longitude": 5.248227,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 246,
+      "name": "Into the Source",
+      "latitude": 52.520655,
+      "longitude": 6.118764,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 247,
+      "name": "Invantive",
+      "latitude": 52.351776,
+      "longitude": 5.691039,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 248,
+      "name": "Isatis Group",
+      "latitude": 51.841868,
+      "longitude": 5.858028,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 249,
+      "name": "JPS Media",
+      "latitude": 51.82508,
+      "longitude": 5.810229,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 250,
+      "name": "Jambo",
+      "latitude": 51.825136,
+      "longitude": 5.810621,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 251,
+      "name": "Jewel",
+      "latitude": 51.977051,
+      "longitude": 5.645371,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 252,
+      "name": "Jexia",
+      "latitude": 52.202734,
+      "longitude": 5.94857,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 253,
+      "name": "Just Internet",
+      "latitude": 52.389116,
+      "longitude": 4.66735,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 254,
+      "name": "K1 Concept",
+      "latitude": 52.19753,
+      "longitude": 5.383336,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 255,
+      "name": "K3 Software",
+      "latitude": 52.261501,
+      "longitude": 6.788872,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 256,
+      "name": "KJ Software",
+      "latitude": 51.619436,
+      "longitude": 5.529944,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 257,
+      "name": "KOSdata",
+      "latitude": 52.982261,
+      "longitude": 6.308405,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 258,
+      "name": "Kaios.AI",
+      "latitude": 53.29255,
+      "longitude": 6.597709,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 259,
+      "name": "Kei Media",
+      "latitude": 53.165073,
+      "longitude": 6.380481,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 260,
+      "name": "Keizer Karel",
+      "latitude": 51.841771,
+      "longitude": 5.857935,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 261,
+      "name": "Kembit",
+      "latitude": 51.413888,
+      "longitude": 5.458872,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 262,
+      "name": "Kenny-IT",
+      "latitude": 51.917792,
+      "longitude": 4.618215,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 263,
+      "name": "Kenny-IT",
+      "latitude": 51.934379,
+      "longitude": 4.632917,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 264,
+      "name": "Kick-ICT",
+      "latitude": 52.063541,
+      "longitude": 4.386538,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 265,
+      "name": "Kinwell",
+      "latitude": 53.182954,
+      "longitude": 6.370832,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 266,
+      "name": "Klippa",
+      "latitude": 53.194129,
+      "longitude": 6.555999,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 267,
+      "name": "Knooppunt",
+      "latitude": 52.943599,
+      "longitude": 6.037701,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 268,
+      "name": "Knooppunt intermedia",
+      "latitude": 52.954624,
+      "longitude": 5.928531,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 269,
+      "name": "Korton Group",
+      "latitude": 52.252636,
+      "longitude": 4.634662,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 270,
+      "name": "Lagarde",
+      "latitude": 52.167148,
+      "longitude": 5.598932,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 271,
+      "name": "Landstra & de Groot",
+      "latitude": 53.320389,
+      "longitude": 6.860921,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 272,
+      "name": "Lasent",
+      "latitude": 52.509012,
+      "longitude": 5.005175,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 273,
+      "name": "Learning Heroes",
+      "latitude": 52.162361,
+      "longitude": 5.375131,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 274,
+      "name": "Levi9",
+      "latitude": 52.368021,
+      "longitude": 4.905872,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 275,
+      "name": "Libelnet",
+      "latitude": 51.358728,
+      "longitude": 6.053146,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 276,
+      "name": "Limpenshost",
+      "latitude": 50.900283,
+      "longitude": 5.728493,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 277,
+      "name": "Linfosys",
+      "latitude": 51.511904,
+      "longitude": 5.053839,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 278,
+      "name": "Linku",
+      "latitude": 51.843548,
+      "longitude": 5.870937,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 279,
+      "name": "Lionhead",
+      "latitude": 52.398764,
+      "longitude": 4.658548,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 280,
+      "name": "Logistiek Zonder Papier",
+      "latitude": 52.504767,
+      "longitude": 4.955854,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 281,
+      "name": "Logitech",
+      "latitude": 51.825427,
+      "longitude": 5.790467,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 282,
+      "name": "Logres",
+      "latitude": 52.127294,
+      "longitude": 5.568266,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 283,
+      "name": "Lucas IT",
+      "latitude": 52.373041,
+      "longitude": 6.764498,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 284,
+      "name": "Lyfter",
+      "latitude": 51.586825,
+      "longitude": 4.319531,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 285,
+      "name": "M.w.w.S. Internetdiensten",
+      "latitude": 51.367849,
+      "longitude": 5.261329,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 286,
+      "name": "MC Systems",
+      "latitude": 52.510699,
+      "longitude": 5.006448,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 287,
+      "name": "MCC Automatisering",
+      "latitude": 52.186054,
+      "longitude": 5.603747,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 288,
+      "name": "MCX Administration Services B.V.",
+      "latitude": 52.21555,
+      "longitude": 5.975061,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 289,
+      "name": "MDL Online",
+      "latitude": 52.642099,
+      "longitude": 5.05434,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 290,
+      "name": "MKB ICT Service",
+      "latitude": 51.437872,
+      "longitude": 6.038841,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 291,
+      "name": "MaZet",
+      "latitude": 51.83648,
+      "longitude": 5.849295,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 292,
+      "name": "Manders Automatisering en Advies",
+      "latitude": 51.557668,
+      "longitude": 5.690625,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 293,
+      "name": "MarkYourMedia",
+      "latitude": 52.257678,
+      "longitude": 6.801144,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 294,
+      "name": "Markus Websites",
+      "latitude": 51.686464,
+      "longitude": 5.85905,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 295,
+      "name": "Marloc Computing",
+      "latitude": 51.956297,
+      "longitude": 6.27837,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 296,
+      "name": "Masters of Media",
+      "latitude": 52.514129,
+      "longitude": 6.074099,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 297,
+      "name": "Maten ICT",
+      "latitude": 53.175689,
+      "longitude": 6.180735,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 298,
+      "name": "Maxone Webdesign",
+      "latitude": 52.044323,
+      "longitude": 4.32916,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 299,
+      "name": "MeAR Media",
+      "latitude": 53.202597,
+      "longitude": 5.799354,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 300,
+      "name": "Meant2b",
+      "latitude": 52.051629,
+      "longitude": 5.110879,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 301,
+      "name": "Media & Zo",
+      "latitude": 51.814148,
+      "longitude": 4.66426,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 302,
+      "name": "MediaTrend B.V.",
+      "latitude": 52.648077,
+      "longitude": 4.788492,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 303,
+      "name": "Merkator",
+      "latitude": 53.204746,
+      "longitude": 6.556113,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 304,
+      "name": "Merkator BV",
+      "latitude": 51.795455,
+      "longitude": 5.250295,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 305,
+      "name": "Merkus Automatisering",
+      "latitude": 53.289847,
+      "longitude": 6.153552,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 306,
+      "name": "Metaregistrar",
+      "latitude": 52.016493,
+      "longitude": 4.712822,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 307,
+      "name": "Metis IT",
+      "latitude": 51.863646,
+      "longitude": 4.462675,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 308,
+      "name": "Metricks",
+      "latitude": 52.511191,
+      "longitude": 6.088963,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 309,
+      "name": "Mi2 BV",
+      "latitude": 51.983676,
+      "longitude": 6.035912,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 310,
+      "name": "Micro Focus Nederland",
+      "latitude": 52.070177,
+      "longitude": 5.07415,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 311,
+      "name": "Mijndomein.nl",
+      "latitude": 52.478182,
+      "longitude": 5.501548,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 312,
+      "name": "Mike van der Klij WebDesign",
+      "latitude": 51.883935,
+      "longitude": 5.296496,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 313,
+      "name": "Mikrotrain",
+      "latitude": 52.514829,
+      "longitude": 6.120474,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 314,
+      "name": "Momo Medical",
+      "latitude": 51.991887,
+      "longitude": 4.38943,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 315,
+      "name": "Mosadex E-Health",
+      "latitude": 51.841951,
+      "longitude": 5.85757,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 316,
+      "name": "Move4Mobile",
+      "latitude": 52.500927,
+      "longitude": 6.100123,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 317,
+      "name": "Moyosa Media",
+      "latitude": 53.20531,
+      "longitude": 6.591159,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 318,
+      "name": "Mprise",
+      "latitude": 52.036429,
+      "longitude": 5.57704,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 319,
+      "name": "My Brain",
+      "latitude": 52.145593,
+      "longitude": 5.048575,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 320,
+      "name": "My.com BV",
+      "latitude": 52.336525,
+      "longitude": 4.88544,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 321,
+      "name": "MyPoi World B.V.",
+      "latitude": 52.263162,
+      "longitude": 6.783778,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 322,
+      "name": "Myhosting",
+      "latitude": 52.348678,
+      "longitude": 5.225608,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 323,
+      "name": "N1 Solutions B.V.",
+      "latitude": 51.504225,
+      "longitude": 3.891859,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 324,
+      "name": "NAVARA Driebergen",
+      "latitude": 52.046832,
+      "longitude": 5.296504,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 325,
+      "name": "NCIM Groep",
+      "latitude": 52.065046,
+      "longitude": 4.384138,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 326,
+      "name": "Neacon",
+      "latitude": 51.192533,
+      "longitude": 6.013736,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 327,
+      "name": "NedCAD",
+      "latitude": 52.983719,
+      "longitude": 5.452303,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 328,
+      "name": "Nedap Healthcare",
+      "latitude": 52.036498,
+      "longitude": 6.626487,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 329,
+      "name": "Nederdesign",
+      "latitude": 51.22727,
+      "longitude": 3.798545,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 330,
+      "name": "Nedfinity",
+      "latitude": 52.517857,
+      "longitude": 6.056963,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 331,
+      "name": "Nemesys ICT Groep B.V.",
+      "latitude": 51.813946,
+      "longitude": 4.415136,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 332,
+      "name": "Net4It",
+      "latitude": 52.504024,
+      "longitude": 4.95533,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 333,
+      "name": "Network Company",
+      "latitude": 52.676195,
+      "longitude": 4.801747,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 334,
+      "name": "Network Team Leusden",
+      "latitude": 52.120749,
+      "longitude": 5.422193,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 335,
+      "name": "New Nexus",
+      "latitude": 53.172763,
+      "longitude": 6.589978,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 336,
+      "name": "NewHeap",
+      "latitude": 52.510676,
+      "longitude": 6.089127,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 337,
+      "name": "Newminds",
+      "latitude": 52.26115,
+      "longitude": 6.790057,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 338,
+      "name": "Next Buzz",
+      "latitude": 52.160706,
+      "longitude": 5.378385,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 339,
+      "name": "Nmbrs",
+      "latitude": 52.38806,
+      "longitude": 4.825247,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 340,
+      "name": "NoHeroes",
+      "latitude": 52.333454,
+      "longitude": 4.864442,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 341,
+      "name": "Novaware",
+      "latitude": 52.512676,
+      "longitude": 6.072306,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 342,
+      "name": "NovioQ",
+      "latitude": 51.839192,
+      "longitude": 5.853118,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 343,
+      "name": "Nétive VMS B.V.",
+      "latitude": 52.027607,
+      "longitude": 4.355277,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 344,
+      "name": "OBI",
+      "latitude": 51.442771,
+      "longitude": 5.504045,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 345,
+      "name": "OGD Amsterdam",
+      "latitude": 52.364282,
+      "longitude": 4.886081,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 346,
+      "name": "OGD Delft",
+      "latitude": 51.990321,
+      "longitude": 4.373576,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 347,
+      "name": "OGD Eindhoven",
+      "latitude": 51.438127,
+      "longitude": 5.479834,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 348,
+      "name": "OGD Enschede",
+      "latitude": 52.220839,
+      "longitude": 6.89192,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 349,
+      "name": "ONTZ",
+      "latitude": 52.213935,
+      "longitude": 5.147448,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 350,
+      "name": "OVSoftware B.V.",
+      "latitude": 52.07969,
+      "longitude": 4.337012,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 351,
+      "name": "OVSoftware B.V.",
+      "latitude": 52.210093,
+      "longitude": 5.961389,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 352,
+      "name": "OVSoftware B.V.",
+      "latitude": 52.240345,
+      "longitude": 6.839758,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 353,
+      "name": "Office Extensions",
+      "latitude": 52.179621,
+      "longitude": 5.374208,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 354,
+      "name": "Office IT",
+      "latitude": 53.034673,
+      "longitude": 5.633445,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 355,
+      "name": "Oldenburger Automatisering",
+      "latitude": 53.107722,
+      "longitude": 5.586947,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 356,
+      "name": "Omnia Connect",
+      "latitude": 52.140169,
+      "longitude": 5.419156,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 357,
+      "name": "Onetrail BV",
+      "latitude": 52.104386,
+      "longitude": 5.259789,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 358,
+      "name": "Oostsoft",
+      "latitude": 53.30039,
+      "longitude": 6.598416,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 359,
+      "name": "Open Line Eindhoven",
+      "latitude": 51.436487,
+      "longitude": 5.427239,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 360,
+      "name": "Open Line Landgraaf",
+      "latitude": 50.892092,
+      "longitude": 6.027906,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 361,
+      "name": "Open Line Maastricht",
+      "latitude": 50.93029,
+      "longitude": 5.780497,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 362,
+      "name": "Opinity B.V.",
+      "latitude": 51.958231,
+      "longitude": 4.577488,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 363,
+      "name": "Opinity B.V.",
+      "latitude": 52.50832,
+      "longitude": 6.123926,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 364,
+      "name": "Optimo",
+      "latitude": 52.160948,
+      "longitude": 5.380831,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 365,
+      "name": "Ordina Groningen",
+      "latitude": 53.210505,
+      "longitude": 6.584252,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 366,
+      "name": "Orion4u",
+      "latitude": 52.15114,
+      "longitude": 5.391672,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 367,
+      "name": "Orisha Commerce",
+      "latitude": 52.232762,
+      "longitude": 5.467187,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 368,
+      "name": "Orisha Commerce",
+      "latitude": 52.517411,
+      "longitude": 6.062935,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 369,
+      "name": "Ovendo",
+      "latitude": 52.144708,
+      "longitude": 4.661486,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 370,
+      "name": "Oxaigen",
+      "latitude": 52.333452,
+      "longitude": 4.864222,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 371,
+      "name": "Oxions Solutions",
+      "latitude": 53.083034,
+      "longitude": 6.252881,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 372,
+      "name": "PC Service Utrecht",
+      "latitude": 52.053062,
+      "longitude": 5.241886,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 373,
+      "name": "PHAST Consultancy",
+      "latitude": 52.208943,
+      "longitude": 5.965379,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 374,
+      "name": "PM Networking",
+      "latitude": 52.511291,
+      "longitude": 5.004151,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 375,
+      "name": "PasVision",
+      "latitude": 52.114128,
+      "longitude": 5.423132,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 376,
+      "name": "Patchman",
+      "latitude": 52.240535,
+      "longitude": 6.841963,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 377,
+      "name": "Pelican ICT",
+      "latitude": 52.349579,
+      "longitude": 5.226292,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 378,
+      "name": "Perfect Web Team",
+      "latitude": 52.345354,
+      "longitude": 5.178644,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 379,
+      "name": "Perfection Automatiseringen & VeeMee & Go Lapland & WYT",
+      "latitude": 51.531299,
+      "longitude": 5.051143,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 380,
+      "name": "Pinado",
+      "latitude": 52.120984,
+      "longitude": 5.422392,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 381,
+      "name": "Pixelzebra",
+      "latitude": 52.05159,
+      "longitude": 4.411345,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 382,
+      "name": "Planon Group",
+      "latitude": 51.823678,
+      "longitude": 5.785617,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 383,
+      "name": "Pocket-IT",
+      "latitude": 51.599538,
+      "longitude": 4.808285,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 384,
+      "name": "Polteq Test Services",
+      "latitude": 52.177407,
+      "longitude": 5.410419,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 385,
+      "name": "Praesent Webdesign",
+      "latitude": 52.722261,
+      "longitude": 6.455882,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 386,
+      "name": "Previder",
+      "latitude": 50.93122,
+      "longitude": 5.781331,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 387,
+      "name": "Previder",
+      "latitude": 51.576887,
+      "longitude": 4.936851,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 388,
+      "name": "Previder",
+      "latitude": 51.980862,
+      "longitude": 5.094187,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 389,
+      "name": "Previder",
+      "latitude": 52.28532,
+      "longitude": 6.767014,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 390,
+      "name": "ProActive Software",
+      "latitude": 52.372856,
+      "longitude": 4.653015,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 391,
+      "name": "ProGenia",
+      "latitude": 52.063535,
+      "longitude": 4.531554,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 392,
+      "name": "ProSigma",
+      "latitude": 52.032396,
+      "longitude": 4.651799,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 393,
+      "name": "Probatius",
+      "latitude": 52.032328,
+      "longitude": 4.651655,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 394,
+      "name": "ProcesPartners B.V.",
+      "latitude": 51.897244,
+      "longitude": 5.907566,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 395,
+      "name": "Progression IT",
+      "latitude": 51.331404,
+      "longitude": 3.832627,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 396,
+      "name": "Prometheus Informatics B.V.",
+      "latitude": 52.039465,
+      "longitude": 5.550003,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 397,
+      "name": "Prosilic",
+      "latitude": 50.896757,
+      "longitude": 6.065451,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 398,
+      "name": "Prosoft ICT",
+      "latitude": 53.182007,
+      "longitude": 5.460584,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 399,
+      "name": "Provided Managed Services",
+      "latitude": 50.929938,
+      "longitude": 5.781067,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 400,
+      "name": "Proxy Services",
+      "latitude": 51.94841,
+      "longitude": 4.413504,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 401,
+      "name": "Q42",
+      "latitude": 52.390172,
+      "longitude": 4.888047,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 402,
+      "name": "Qiss-IT",
+      "latitude": 52.064423,
+      "longitude": 4.383151,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 403,
+      "name": "Qonvoy",
+      "latitude": 53.219763,
+      "longitude": 6.558753,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 404,
+      "name": "Qware ICT",
+      "latitude": 51.781862,
+      "longitude": 4.633325,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 405,
+      "name": "RDSec B.V.",
+      "latitude": 51.815786,
+      "longitude": 4.52687,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 406,
+      "name": "RPO ICT Solutions",
+      "latitude": 51.870316,
+      "longitude": 4.551669,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 407,
+      "name": "RTP Europe",
+      "latitude": 51.803468,
+      "longitude": 4.5573,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 408,
+      "name": "RYSST Utrecht",
+      "latitude": 52.135266,
+      "longitude": 5.030405,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 409,
+      "name": "RYSST Zwolle",
+      "latitude": 52.510858,
+      "longitude": 6.124668,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 410,
+      "name": "Real Time Software Solutions",
+      "latitude": 52.226493,
+      "longitude": 5.170415,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 411,
+      "name": "Rebel:it",
+      "latitude": 51.716346,
+      "longitude": 5.334495,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 412,
+      "name": "RebelWeb",
+      "latitude": 51.997005,
+      "longitude": 4.382322,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 413,
+      "name": "Revee Creative",
+      "latitude": 52.06289,
+      "longitude": 5.107943,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 414,
+      "name": "Ricoh Document Center Haaglanden",
+      "latitude": 52.208867,
+      "longitude": 4.439374,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 415,
+      "name": "Roland van Ipenburg",
+      "latitude": 52.127091,
+      "longitude": 5.209583,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 416,
+      "name": "RoutIT",
+      "latitude": 52.024954,
+      "longitude": 5.617192,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 417,
+      "name": "Rowica Services",
+      "latitude": 51.934093,
+      "longitude": 4.400004,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 418,
+      "name": "Rubicon B.V.",
+      "latitude": 51.981081,
+      "longitude": 5.093384,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 419,
+      "name": "SAM Office",
+      "latitude": 51.457324,
+      "longitude": 6.051076,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 420,
+      "name": "SCCT B.V.",
+      "latitude": 52.076237,
+      "longitude": 4.395477,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 421,
+      "name": "SDB zorgt",
+      "latitude": 52.014668,
+      "longitude": 5.063504,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 422,
+      "name": "SIDN",
+      "latitude": 51.977167,
+      "longitude": 5.969171,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 423,
+      "name": "SURF",
+      "latitude": 52.088954,
+      "longitude": 5.113087,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 424,
+      "name": "Saleswizard.nl",
+      "latitude": 51.981563,
+      "longitude": 5.913297,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 425,
+      "name": "Samin ICT & Sound",
+      "latitude": 52.20628,
+      "longitude": 5.139813,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 426,
+      "name": "Sansys Inc.",
+      "latitude": 52.823045,
+      "longitude": 5.976909,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 427,
+      "name": "Savvii",
+      "latitude": 51.82574,
+      "longitude": 5.790732,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 428,
+      "name": "Sebastix",
+      "latitude": 51.583347,
+      "longitude": 4.580214,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 429,
+      "name": "Sentinel Software Development",
+      "latitude": 51.850156,
+      "longitude": 4.656251,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 430,
+      "name": "Sentyron",
+      "latitude": 52.013495,
+      "longitude": 4.377368,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 431,
+      "name": "Seven Stars",
+      "latitude": 52.509206,
+      "longitude": 6.084457,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 432,
+      "name": "Shadowstyle",
+      "latitude": 51.931044,
+      "longitude": 6.114046,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 433,
+      "name": "Shore 24",
+      "latitude": 51.943853,
+      "longitude": 6.458658,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 434,
+      "name": "Signify EMC Lab",
+      "latitude": 51.413037,
+      "longitude": 5.453556,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 435,
+      "name": "Siip",
+      "latitude": 52.511172,
+      "longitude": 6.088995,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 436,
+      "name": "Simac",
+      "latitude": 52.025458,
+      "longitude": 5.616626,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 437,
+      "name": "Simacan",
+      "latitude": 52.152463,
+      "longitude": 5.372045,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 438,
+      "name": "Skotty",
+      "latitude": 51.448549,
+      "longitude": 5.457999,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 439,
+      "name": "Skrepr",
+      "latitude": 52.650405,
+      "longitude": 5.628244,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 440,
+      "name": "Smart ICT",
+      "latitude": 52.05205,
+      "longitude": 4.345631,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 441,
+      "name": "Smart Site",
+      "latitude": 53.248691,
+      "longitude": 6.601018,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 442,
+      "name": "SmartCity.Builders",
+      "latitude": 52.141428,
+      "longitude": 6.196095,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 443,
+      "name": "SnelStart",
+      "latitude": 52.645439,
+      "longitude": 4.729153,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 444,
+      "name": "Soft-Solutions BV",
+      "latitude": 51.263571,
+      "longitude": 5.907117,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 445,
+      "name": "Softmedia",
+      "latitude": 51.436489,
+      "longitude": 5.490826,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 446,
+      "name": "Softpak BV",
+      "latitude": 51.879029,
+      "longitude": 4.624232,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 447,
+      "name": "Sogelink",
+      "latitude": 52.092948,
+      "longitude": 5.108497,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 448,
+      "name": "Sogeti",
+      "latitude": 50.82723,
+      "longitude": 6.01872,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 449,
+      "name": "Sogeti",
+      "latitude": 51.433709,
+      "longitude": 5.452413,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 450,
+      "name": "Sogeti",
+      "latitude": 51.913166,
+      "longitude": 4.538293,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 451,
+      "name": "Sogeti",
+      "latitude": 51.984691,
+      "longitude": 5.10535,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 452,
+      "name": "Sogeti",
+      "latitude": 52.100212,
+      "longitude": 5.064778,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 453,
+      "name": "Sogeti",
+      "latitude": 53.189343,
+      "longitude": 6.549523,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 454,
+      "name": "Solid FX",
+      "latitude": 52.504739,
+      "longitude": 4.955916,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 455,
+      "name": "Soluso",
+      "latitude": 51.824302,
+      "longitude": 5.780707,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 456,
+      "name": "Sopra Steria",
+      "latitude": 52.057603,
+      "longitude": 5.111033,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 457,
+      "name": "Sparklet",
+      "latitude": 52.134465,
+      "longitude": 5.548497,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 458,
+      "name": "Spete.nl",
+      "latitude": 51.82512,
+      "longitude": 5.810527,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 459,
+      "name": "Spot ICT",
+      "latitude": 52.514834,
+      "longitude": 4.99572,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 460,
+      "name": "Spring Team ICT",
+      "latitude": 52.168129,
+      "longitude": 5.349126,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 461,
+      "name": "StackSecure BV",
+      "latitude": 51.474115,
+      "longitude": 5.500999,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 462,
+      "name": "Stans-IT",
+      "latitude": 51.587297,
+      "longitude": 5.316956,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 463,
+      "name": "Steentjes ICT",
+      "latitude": 51.997753,
+      "longitude": 6.579103,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 464,
+      "name": "Sterc",
+      "latitude": 53.183362,
+      "longitude": 6.167146,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 465,
+      "name": "Stream High Performance Computing",
+      "latitude": 52.355755,
+      "longitude": 4.841363,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 466,
+      "name": "Studio Tijdgat",
+      "latitude": 52.171829,
+      "longitude": 5.003517,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 467,
+      "name": "SupportXpert B.V.",
+      "latitude": 52.329954,
+      "longitude": 5.244242,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 468,
+      "name": "SurfRight / Hitman Pro",
+      "latitude": 52.261594,
+      "longitude": 6.788886,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 469,
+      "name": "Synlogic",
+      "latitude": 52.518295,
+      "longitude": 6.057772,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 470,
+      "name": "Synopsys",
+      "latitude": 51.414057,
+      "longitude": 5.458812,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 471,
+      "name": "Syntec-IT",
+      "latitude": 51.562753,
+      "longitude": 4.621671,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 472,
+      "name": "Syntrophos",
+      "latitude": 51.848552,
+      "longitude": 4.328172,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 473,
+      "name": "T-Systems Nederland",
+      "latitude": 52.070355,
+      "longitude": 5.07442,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 474,
+      "name": "T:MEBLOCKR B.V.",
+      "latitude": 51.814878,
+      "longitude": 4.41593,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 475,
+      "name": "TSTC",
+      "latitude": 52.038983,
+      "longitude": 5.555273,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 476,
+      "name": "TWS Networks",
+      "latitude": 52.226119,
+      "longitude": 6.086313,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 477,
+      "name": "Tacs Informatisering",
+      "latitude": 52.213736,
+      "longitude": 5.145183,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 478,
+      "name": "Team Rockstars IT",
+      "latitude": 51.685509,
+      "longitude": 5.29248,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 479,
+      "name": "Techni Team ICT B.V.",
+      "latitude": 52.038804,
+      "longitude": 5.539395,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 480,
+      "name": "Technoberg IT Services",
+      "latitude": 52.514576,
+      "longitude": 5.00646,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 481,
+      "name": "Tehabo",
+      "latitude": 52.184668,
+      "longitude": 5.99492,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 482,
+      "name": "TendenZ IT",
+      "latitude": 52.993146,
+      "longitude": 6.518597,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 483,
+      "name": "Tensing B.V.",
+      "latitude": 51.80055,
+      "longitude": 5.242549,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 484,
+      "name": "Teqram",
+      "latitude": 52.514606,
+      "longitude": 6.050688,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 485,
+      "name": "TerraIndex",
+      "latitude": 52.003854,
+      "longitude": 4.358982,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 486,
+      "name": "The Imagineers",
+      "latitude": 53.025011,
+      "longitude": 5.674173,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 487,
+      "name": "Theiner ICT",
+      "latitude": 51.601871,
+      "longitude": 5.52372,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 488,
+      "name": "Thinkwise",
+      "latitude": 52.208366,
+      "longitude": 5.979448,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 489,
+      "name": "Three Ships enterprises BV",
+      "latitude": 51.955859,
+      "longitude": 4.455314,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 490,
+      "name": "Time2Impress",
+      "latitude": 52.519708,
+      "longitude": 6.120791,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 491,
+      "name": "TimeTell",
+      "latitude": 52.07453,
+      "longitude": 4.352142,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 492,
+      "name": "Titana Automatisering",
+      "latitude": 52.385864,
+      "longitude": 5.230181,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 493,
+      "name": "Tom's Computerhulp",
+      "latitude": 51.636163,
+      "longitude": 4.85594,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 494,
+      "name": "Topicus",
+      "latitude": 52.255719,
+      "longitude": 6.160999,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 495,
+      "name": "Topicus",
+      "latitude": 52.256015,
+      "longitude": 6.160242,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 496,
+      "name": "Topicus",
+      "latitude": 52.256558,
+      "longitude": 6.161727,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 497,
+      "name": "Tranquility B.V.",
+      "latitude": 52.409857,
+      "longitude": 5.294135,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 498,
+      "name": "Trendwerk",
+      "latitude": 52.231562,
+      "longitude": 6.893623,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 499,
+      "name": "Trinos",
+      "latitude": 51.826331,
+      "longitude": 5.781764,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 500,
+      "name": "True B.V.",
+      "latitude": 52.30541,
+      "longitude": 4.932256,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 501,
+      "name": "TrueData",
+      "latitude": 52.359148,
+      "longitude": 4.939979,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 502,
+      "name": "Turnn",
+      "latitude": 52.048309,
+      "longitude": 5.090692,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 503,
+      "name": "Tweede golf",
+      "latitude": 51.838771,
+      "longitude": 5.852955,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 504,
+      "name": "Two Kings",
+      "latitude": 52.081559,
+      "longitude": 4.292311,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 505,
+      "name": "Two-iT",
+      "latitude": 51.443388,
+      "longitude": 5.608694,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 506,
+      "name": "Ultraware",
+      "latitude": 52.993379,
+      "longitude": 6.529618,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 507,
+      "name": "Unica ICT",
+      "latitude": 52.236294,
+      "longitude": 6.189297,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 508,
+      "name": "Unit4",
+      "latitude": 51.827935,
+      "longitude": 4.779489,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 509,
+      "name": "Unit4 Business Software B.V.",
+      "latitude": 52.29008,
+      "longitude": 6.779892,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 510,
+      "name": "VAA Data Works",
+      "latitude": 51.71877,
+      "longitude": 5.347113,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 511,
+      "name": "VIP Internet",
+      "latitude": 52.717872,
+      "longitude": 6.200116,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 512,
+      "name": "VMware",
+      "latitude": 52.071776,
+      "longitude": 5.077367,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 513,
+      "name": "Valleiweb",
+      "latitude": 52.077633,
+      "longitude": 5.433532,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 514,
+      "name": "Van Staalduinen Automatisering",
+      "latitude": 53.026928,
+      "longitude": 6.569026,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 515,
+      "name": "Van der Molen Transport",
+      "latitude": 53.153207,
+      "longitude": 6.366682,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 516,
+      "name": "Vanenburg Software",
+      "latitude": 52.271305,
+      "longitude": 5.565344,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 517,
+      "name": "VeCoZo",
+      "latitude": 51.543036,
+      "longitude": 5.06027,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 518,
+      "name": "Verbruggen automatisering",
+      "latitude": 51.954884,
+      "longitude": 5.239675,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 519,
+      "name": "Versio",
+      "latitude": 51.454506,
+      "longitude": 3.592322,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 520,
+      "name": "Veul-IT",
+      "latitude": 52.835323,
+      "longitude": 4.75169,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 521,
+      "name": "ViaData Automatisering",
+      "latitude": 52.964245,
+      "longitude": 5.890094,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 522,
+      "name": "Vicus",
+      "latitude": 52.171688,
+      "longitude": 5.354277,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 523,
+      "name": "Vindicta",
+      "latitude": 52.167339,
+      "longitude": 5.365192,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 524,
+      "name": "Visio",
+      "latitude": 52.112668,
+      "longitude": 5.057796,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 525,
+      "name": "Visma Idella",
+      "latitude": 52.173889,
+      "longitude": 5.408914,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 526,
+      "name": "Visolity",
+      "latitude": 52.778708,
+      "longitude": 6.943407,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 527,
+      "name": "Vollegrond",
+      "latitude": 52.325655,
+      "longitude": 5.618153,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 528,
+      "name": "Vuursteen",
+      "latitude": 51.594038,
+      "longitude": 4.779277,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 529,
+      "name": "WAES",
+      "latitude": 51.449348,
+      "longitude": 5.452643,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 530,
+      "name": "WEBPLAYS",
+      "latitude": 51.694147,
+      "longitude": 5.088407,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 531,
+      "name": "WEM",
+      "latitude": 52.306563,
+      "longitude": 4.948702,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 532,
+      "name": "WeDevelop",
+      "latitude": 52.215452,
+      "longitude": 5.956524,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 533,
+      "name": "WeFact",
+      "latitude": 51.357973,
+      "longitude": 5.309573,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 534,
+      "name": "Web2B1",
+      "latitude": 50.852252,
+      "longitude": 6.063752,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 535,
+      "name": "WebBrein",
+      "latitude": 52.224006,
+      "longitude": 6.869568,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 536,
+      "name": "WebNL",
+      "latitude": 51.813159,
+      "longitude": 4.024763,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 537,
+      "name": "Webba",
+      "latitude": 52.732101,
+      "longitude": 6.483705,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 538,
+      "name": "Webeasy B.V.",
+      "latitude": 51.826963,
+      "longitude": 4.795701,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 539,
+      "name": "Webkracht",
+      "latitude": 51.559489,
+      "longitude": 5.089575,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 540,
+      "name": "Webleads B.V.",
+      "latitude": 52.151225,
+      "longitude": 5.65884,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 541,
+      "name": "Webmoments",
+      "latitude": 52.129258,
+      "longitude": 6.605284,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 542,
+      "name": "Webspek",
+      "latitude": 53.27433,
+      "longitude": 6.233725,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 543,
+      "name": "White Bream",
+      "latitude": 51.823947,
+      "longitude": 4.431725,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 544,
+      "name": "Wij doen dingen",
+      "latitude": 51.686526,
+      "longitude": 5.305549,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 545,
+      "name": "WijZijnDe.IT",
+      "latitude": 52.033031,
+      "longitude": 4.236904,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 546,
+      "name": "WijhelpenMKB",
+      "latitude": 51.694498,
+      "longitude": 4.941725,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 547,
+      "name": "Working Spirit",
+      "latitude": 52.236236,
+      "longitude": 6.189178,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 548,
+      "name": "Worth Systems",
+      "latitude": 52.052033,
+      "longitude": 4.345582,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 549,
+      "name": "Wux",
+      "latitude": 51.730423,
+      "longitude": 5.865947,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 550,
+      "name": "X-Systems",
+      "latitude": 52.079031,
+      "longitude": 4.341301,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 551,
+      "name": "XINRAM Multimediaspecialist",
+      "latitude": 52.06917,
+      "longitude": 4.258704,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 552,
+      "name": "XPERT in Control",
+      "latitude": 52.320099,
+      "longitude": 6.500964,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 553,
+      "name": "Xantion B.V.",
+      "latitude": 52.029747,
+      "longitude": 5.60459,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 554,
+      "name": "Xebia",
+      "latitude": 52.211754,
+      "longitude": 5.184259,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 555,
+      "name": "Xibis",
+      "latitude": 52.167414,
+      "longitude": 5.600745,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 556,
+      "name": "Ximedes",
+      "latitude": 52.387222,
+      "longitude": 4.652509,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 557,
+      "name": "Xpletus",
+      "latitude": 52.042149,
+      "longitude": 5.096955,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 558,
+      "name": "Yiore Internet & Marketing",
+      "latitude": 53.203938,
+      "longitude": 6.556772,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 559,
+      "name": "Yourhosting",
+      "latitude": 52.509238,
+      "longitude": 6.068405,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 560,
+      "name": "YouthCommerce",
+      "latitude": 51.939113,
+      "longitude": 6.471713,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 561,
+      "name": "Zafrira",
+      "latitude": 51.502662,
+      "longitude": 5.406641,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 562,
+      "name": "ZiuZ",
+      "latitude": 53.00556,
+      "longitude": 6.06373,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 563,
+      "name": "Zorg op Orde",
+      "latitude": 52.006523,
+      "longitude": 4.361045,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 564,
+      "name": "Zwagerman IT",
+      "latitude": 52.744695,
+      "longitude": 5.251559,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 565,
+      "name": "e-Active",
+      "latitude": 52.510802,
+      "longitude": 6.089625,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 566,
+      "name": "eDifference",
+      "latitude": 52.134468,
+      "longitude": 5.548212,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 567,
+      "name": "estrategy",
+      "latitude": 51.503585,
+      "longitude": 3.885489,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 568,
+      "name": "growteq",
+      "latitude": 51.875365,
+      "longitude": 4.617126,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 569,
+      "name": "i8",
+      "latitude": 51.618813,
+      "longitude": 5.434569,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 570,
+      "name": "iO Campus Amsterdam",
+      "latitude": 52.331355,
+      "longitude": 4.92335,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 571,
+      "name": "iO Campus Den Bosch",
+      "latitude": 51.683755,
+      "longitude": 5.289098,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 572,
+      "name": "iO Campus Eindhoven",
+      "latitude": 51.451803,
+      "longitude": 5.463297,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 573,
+      "name": "iO Campus Rotterdam",
+      "latitude": 51.918754,
+      "longitude": 4.487852,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 574,
+      "name": "iTraction",
+      "latitude": 52.34557,
+      "longitude": 5.179566,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 575,
+      "name": "iidesk.com",
+      "latitude": 52.009579,
+      "longitude": 4.359199,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 576,
+      "name": "ilionx",
+      "latitude": 51.713481,
+      "longitude": 5.337581,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 577,
+      "name": "jWorks",
+      "latitude": 52.381555,
+      "longitude": 5.199482,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 578,
+      "name": "myBrand Apeldoorn",
+      "latitude": 52.227127,
+      "longitude": 5.91442,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 579,
+      "name": "qPoly",
+      "latitude": 53.247169,
+      "longitude": 6.575195,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 580,
+      "name": "qumbaqa",
+      "latitude": 51.736961,
+      "longitude": 5.282921,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 581,
+      "name": "tableaux",
+      "latitude": 51.378283,
+      "longitude": 5.578493,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 582,
+      "name": "team.blue",
+      "latitude": 52.163148,
+      "longitude": 4.476428,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 583,
+      "name": "thx2hns | Hanshelptnu.nl",
+      "latitude": 52.244794,
+      "longitude": 4.604967,
+      "osm_klasse": "office=it"
+    },
+    {
+      "id": 584,
+      "name": "web2work",
+      "latitude": 52.285401,
+      "longitude": 6.76725,
+      "osm_klasse": "office=it"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: it (office=it) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=it in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 584 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: it (office=it) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: it (office=it) — 584 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 584 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

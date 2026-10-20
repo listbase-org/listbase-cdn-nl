@@ -1,0 +1,1395 @@
+{
+  "id": "nl-osm-shop-paint",
+  "name": "Netherlands OSM: paint (shop=paint)",
+  "title": "Netherlands OSM: paint (shop=paint)",
+  "description": "Named OpenStreetMap features tagged shop=paint in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 192,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Kwetternest",
+      "latitude": 53.296351,
+      "longitude": 5.072013,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 2,
+      "name": "'t Verfuus",
+      "latitude": 51.264995,
+      "longitude": 3.907643,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 3,
+      "name": "A.J. Coatings",
+      "latitude": 52.047767,
+      "longitude": 5.57447,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 4,
+      "name": "AC Verf, Kleur & Interieur",
+      "latitude": 51.944252,
+      "longitude": 5.219301,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 5,
+      "name": "Airbrush Service Almere",
+      "latitude": 52.36459,
+      "longitude": 5.186435,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 6,
+      "name": "Artifac",
+      "latitude": 52.079273,
+      "longitude": 4.302117,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 7,
+      "name": "Autolak-Online",
+      "latitude": 51.432319,
+      "longitude": 4.104855,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 8,
+      "name": "Bevela",
+      "latitude": 52.073712,
+      "longitude": 5.120716,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 9,
+      "name": "Bierens",
+      "latitude": 52.080856,
+      "longitude": 4.289422,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 10,
+      "name": "Boerman",
+      "latitude": 52.059959,
+      "longitude": 4.332798,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 11,
+      "name": "Brillux",
+      "latitude": 52.211819,
+      "longitude": 6.884859,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 12,
+      "name": "Broers Verf&Behang",
+      "latitude": 51.331372,
+      "longitude": 3.826383,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 13,
+      "name": "ColVitro Glasgranulaat",
+      "latitude": 51.506906,
+      "longitude": 5.05296,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 14,
+      "name": "Colora",
+      "latitude": 51.652147,
+      "longitude": 5.641448,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 15,
+      "name": "Colora",
+      "latitude": 51.676909,
+      "longitude": 5.057335,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 16,
+      "name": "Colora",
+      "latitude": 51.813241,
+      "longitude": 5.750273,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 17,
+      "name": "Colorstore.nl",
+      "latitude": 51.972042,
+      "longitude": 5.664098,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 18,
+      "name": "DHZ Vloercoatings",
+      "latitude": 53.25778,
+      "longitude": 6.141451,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 19,
+      "name": "De Beer Verf",
+      "latitude": 51.38568,
+      "longitude": 6.184464,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 20,
+      "name": "De Boer Autolakken",
+      "latitude": 52.058327,
+      "longitude": 4.302733,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 21,
+      "name": "De Boer Verf",
+      "latitude": 53.029713,
+      "longitude": 5.656973,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 22,
+      "name": "De Gouden Schilder",
+      "latitude": 52.061392,
+      "longitude": 4.333096,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 23,
+      "name": "De Grote Schuur",
+      "latitude": 52.45794,
+      "longitude": 5.948845,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 24,
+      "name": "De Kleurenwaaier",
+      "latitude": 52.058215,
+      "longitude": 5.403671,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 25,
+      "name": "De Kwast",
+      "latitude": 51.686845,
+      "longitude": 5.299983,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 26,
+      "name": "De Laat",
+      "latitude": 51.465599,
+      "longitude": 5.248553,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 27,
+      "name": "De Luifel Verf & Wand",
+      "latitude": 52.698736,
+      "longitude": 5.233255,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 28,
+      "name": "De Ridder Verfproducten",
+      "latitude": 52.105188,
+      "longitude": 5.081307,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 29,
+      "name": "De Vaal",
+      "latitude": 52.165442,
+      "longitude": 5.370442,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 30,
+      "name": "De Verfboer",
+      "latitude": 52.977403,
+      "longitude": 6.085285,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 31,
+      "name": "De Verfkampioen",
+      "latitude": 51.571912,
+      "longitude": 5.089583,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 32,
+      "name": "De Verfkampioen Leenderweg",
+      "latitude": 51.420725,
+      "longitude": 5.495551,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 33,
+      "name": "De Verfzaak",
+      "latitude": 51.326608,
+      "longitude": 5.984318,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 34,
+      "name": "De Verfzaak",
+      "latitude": 51.348907,
+      "longitude": 5.445535,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 35,
+      "name": "De Verfzaak",
+      "latitude": 51.386308,
+      "longitude": 6.178363,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 36,
+      "name": "De Verfzaak",
+      "latitude": 51.43673,
+      "longitude": 5.494069,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 37,
+      "name": "De Verfzaak",
+      "latitude": 51.756111,
+      "longitude": 5.55454,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 38,
+      "name": "De Verfzaak",
+      "latitude": 52.151078,
+      "longitude": 6.191913,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 39,
+      "name": "De Voordeelmarkt",
+      "latitude": 52.151125,
+      "longitude": 6.195597,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 40,
+      "name": "De Voordeelmarkt",
+      "latitude": 52.211914,
+      "longitude": 5.98416,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 41,
+      "name": "De Voordeelmarkt",
+      "latitude": 52.358018,
+      "longitude": 6.490672,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 42,
+      "name": "De Voordeelmarkt",
+      "latitude": 52.360458,
+      "longitude": 6.506017,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 43,
+      "name": "De Voordeelmarkt Nijmegen",
+      "latitude": 51.812624,
+      "longitude": 5.84627,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 44,
+      "name": "De Zwart Schildersbedrijf",
+      "latitude": 53.291224,
+      "longitude": 5.977799,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 45,
+      "name": "Deco Home",
+      "latitude": 52.787965,
+      "longitude": 4.802114,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 46,
+      "name": "Deco Home Lammers",
+      "latitude": 52.042472,
+      "longitude": 6.611029,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 47,
+      "name": "Deco Home Van Essen",
+      "latitude": 52.637964,
+      "longitude": 6.223973,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 48,
+      "name": "Decohome Delmte",
+      "latitude": 52.438613,
+      "longitude": 6.234803,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 49,
+      "name": "Decokay",
+      "latitude": 52.126555,
+      "longitude": 4.651456,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 50,
+      "name": "Decokay",
+      "latitude": 52.605385,
+      "longitude": 6.458028,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 51,
+      "name": "Decokay",
+      "latitude": 53.146377,
+      "longitude": 6.430801,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 52,
+      "name": "Decokay Dooijewaard",
+      "latitude": 52.299217,
+      "longitude": 5.613627,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 53,
+      "name": "Decokay Oost",
+      "latitude": 53.011634,
+      "longitude": 6.574576,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 54,
+      "name": "Decokay Van de Wouw",
+      "latitude": 51.520675,
+      "longitude": 5.072135,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 55,
+      "name": "Delta Paints",
+      "latitude": 51.49143,
+      "longitude": 3.884356,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 56,
+      "name": "Dingemanse & v/d Ploeg",
+      "latitude": 51.490683,
+      "longitude": 3.880311,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 57,
+      "name": "Dingemanse & v/d Ploeg Verfgroothandel voor Zuid-West Nederland",
+      "latitude": 51.47282,
+      "longitude": 3.59079,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 58,
+      "name": "Discount-Inn",
+      "latitude": 52.274144,
+      "longitude": 6.792652,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 59,
+      "name": "Dols Storms De Verfzaak",
+      "latitude": 50.850457,
+      "longitude": 5.726712,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 60,
+      "name": "Draaijer",
+      "latitude": 52.240337,
+      "longitude": 6.106113,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 61,
+      "name": "Duste",
+      "latitude": 51.333838,
+      "longitude": 3.496867,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 62,
+      "name": "Engels",
+      "latitude": 52.369037,
+      "longitude": 4.879423,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 63,
+      "name": "Engels",
+      "latitude": 52.378982,
+      "longitude": 4.872579,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 64,
+      "name": "Feenstra",
+      "latitude": 52.298526,
+      "longitude": 5.6183,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 65,
+      "name": "Felix van der Putten",
+      "latitude": 51.710321,
+      "longitude": 5.334437,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 66,
+      "name": "Felix van der Putten Verf BV",
+      "latitude": 51.192604,
+      "longitude": 6.018848,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 67,
+      "name": "Felix van der Putten verf",
+      "latitude": 51.386105,
+      "longitude": 6.184562,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 68,
+      "name": "Fransen Groep",
+      "latitude": 52.321026,
+      "longitude": 6.927153,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 69,
+      "name": "Friesche Olie- en Verfhandel",
+      "latitude": 53.193568,
+      "longitude": 5.846844,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 70,
+      "name": "Geluk in een Potje",
+      "latitude": 51.657688,
+      "longitude": 5.617437,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 71,
+      "name": "Gerstaecker",
+      "latitude": 52.369116,
+      "longitude": 4.871137,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 72,
+      "name": "Gervedink Nijhuis",
+      "latitude": 52.282998,
+      "longitude": 6.419495,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 73,
+      "name": "Goedman Artsupplies",
+      "latitude": 52.081946,
+      "longitude": 4.293261,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 74,
+      "name": "Goudverf.com",
+      "latitude": 51.482206,
+      "longitude": 4.051172,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 75,
+      "name": "Greenpaints",
+      "latitude": 52.292522,
+      "longitude": 6.561277,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 76,
+      "name": "Guldie Colorstore.nl",
+      "latitude": 52.128585,
+      "longitude": 5.564646,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 77,
+      "name": "Habeco",
+      "latitude": 52.709936,
+      "longitude": 6.195573,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 78,
+      "name": "Hagemans Verf",
+      "latitude": 51.838774,
+      "longitude": 5.816464,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 79,
+      "name": "Hansen-Molenaar",
+      "latitude": 52.03744,
+      "longitude": 5.092933,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 80,
+      "name": "Harmsen Vakschilders",
+      "latitude": 52.041644,
+      "longitude": 6.310664,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 81,
+      "name": "Hempel Verf",
+      "latitude": 51.851047,
+      "longitude": 4.326495,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 82,
+      "name": "Henxs Montana Amsterdam",
+      "latitude": 52.369812,
+      "longitude": 4.90066,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 83,
+      "name": "Herfst en Helder",
+      "latitude": 51.970542,
+      "longitude": 5.669166,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 84,
+      "name": "Hoefakker Verf en Glas",
+      "latitude": 51.998762,
+      "longitude": 5.67443,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 85,
+      "name": "Hoogterp Verf",
+      "latitude": 53.257717,
+      "longitude": 6.141267,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 86,
+      "name": "Jan Bosch Verf Behang en Glas",
+      "latitude": 52.115054,
+      "longitude": 6.522621,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 87,
+      "name": "Jansen Kleur&Wonen",
+      "latitude": 51.35769,
+      "longitude": 5.30961,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 88,
+      "name": "Keizer, KijkopKleur",
+      "latitude": 52.190294,
+      "longitude": 5.381876,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 89,
+      "name": "Kesler",
+      "latitude": 52.090776,
+      "longitude": 5.133714,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 90,
+      "name": "Keukens-Spuiten",
+      "latitude": 51.542023,
+      "longitude": 4.449,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 91,
+      "name": "Krekels verf",
+      "latitude": 51.367408,
+      "longitude": 5.220152,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 92,
+      "name": "Kunstschildersmaterialen Martin Brinkhuis",
+      "latitude": 52.265142,
+      "longitude": 6.789955,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 93,
+      "name": "Kwarts & Co",
+      "latitude": 50.815168,
+      "longitude": 5.893215,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 94,
+      "name": "Lab Colour the World",
+      "latitude": 52.274654,
+      "longitude": 5.171006,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 95,
+      "name": "Labrie verfspeciaalzaak",
+      "latitude": 52.143069,
+      "longitude": 5.379962,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 96,
+      "name": "Lemmen parket",
+      "latitude": 51.346405,
+      "longitude": 5.881946,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 97,
+      "name": "Lemmens Verf, Advies & Wonen",
+      "latitude": 51.371134,
+      "longitude": 5.250385,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 98,
+      "name": "Luiten vvz",
+      "latitude": 51.473528,
+      "longitude": 3.595625,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 99,
+      "name": "Maartens Verf",
+      "latitude": 52.396664,
+      "longitude": 4.628219,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 100,
+      "name": "Mast",
+      "latitude": 53.362132,
+      "longitude": 5.216178,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 101,
+      "name": "Max Meyer",
+      "latitude": 52.058935,
+      "longitude": 4.301673,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 102,
+      "name": "Mega Paintdiscount",
+      "latitude": 52.943598,
+      "longitude": 4.742166,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 103,
+      "name": "Michiels Verf & Wonen",
+      "latitude": 51.364849,
+      "longitude": 5.162176,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 104,
+      "name": "Mink Verf en Behang",
+      "latitude": 51.551743,
+      "longitude": 5.06515,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 105,
+      "name": "Mooij Verf",
+      "latitude": 52.504359,
+      "longitude": 4.783706,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 106,
+      "name": "Mooij Verf",
+      "latitude": 52.943632,
+      "longitude": 4.774893,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 107,
+      "name": "Motshagen glas en verf",
+      "latitude": 52.30386,
+      "longitude": 5.147619,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 108,
+      "name": "Nation of Imitation - House of Bendhor Le Fay",
+      "latitude": 52.081457,
+      "longitude": 4.29254,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 109,
+      "name": "Nieuwenhuis Verf Delft",
+      "latitude": 51.984713,
+      "longitude": 4.342085,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 110,
+      "name": "Nirwi's",
+      "latitude": 53.257502,
+      "longitude": 6.140619,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 111,
+      "name": "Olijslager",
+      "latitude": 53.194919,
+      "longitude": 5.764247,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 112,
+      "name": "Olijslager Verf",
+      "latitude": 53.035359,
+      "longitude": 5.628535,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 113,
+      "name": "Onlineverf.nl De Vakman",
+      "latitude": 52.089438,
+      "longitude": 5.136185,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 114,
+      "name": "Otto van Iersel",
+      "latitude": 51.652912,
+      "longitude": 5.289267,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 115,
+      "name": "P.D.L Finishing",
+      "latitude": 51.949075,
+      "longitude": 5.282441,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 116,
+      "name": "PPG Coatings",
+      "latitude": 52.668261,
+      "longitude": 5.060336,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 117,
+      "name": "Pekago Covering Technology",
+      "latitude": 51.513862,
+      "longitude": 5.052606,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 118,
+      "name": "Pelgrim",
+      "latitude": 51.959556,
+      "longitude": 5.979389,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 119,
+      "name": "Peter Hoevenaars",
+      "latitude": 51.413301,
+      "longitude": 5.407713,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 120,
+      "name": "Peter Van Ginkel Kunstenaarsbenodigdheden",
+      "latitude": 50.850876,
+      "longitude": 5.68787,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 121,
+      "name": "Phoenix Verf- & Glasspecialisten",
+      "latitude": 52.355909,
+      "longitude": 4.892383,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 122,
+      "name": "Phoenix Verf- en Glasspecialisten",
+      "latitude": 52.301045,
+      "longitude": 5.241553,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 123,
+      "name": "Pijenborg Verf",
+      "latitude": 51.574211,
+      "longitude": 5.081531,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 124,
+      "name": "Poell De Verfzaak",
+      "latitude": 51.248168,
+      "longitude": 5.730259,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 125,
+      "name": "Polyshop",
+      "latitude": 52.454138,
+      "longitude": 4.812403,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 126,
+      "name": "Poulisse",
+      "latitude": 51.770616,
+      "longitude": 5.315874,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 127,
+      "name": "R. Nijhuis Schilderwerken",
+      "latitude": 52.38454,
+      "longitude": 7.012632,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 128,
+      "name": "Re-Finish",
+      "latitude": 52.424405,
+      "longitude": 4.95258,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 129,
+      "name": "Rigo Verfcentrum BV",
+      "latitude": 52.463249,
+      "longitude": 4.625249,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 130,
+      "name": "Rigo Verffabriek",
+      "latitude": 52.452999,
+      "longitude": 4.59007,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 131,
+      "name": "Ruiter Verf",
+      "latitude": 53.215242,
+      "longitude": 6.556267,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 132,
+      "name": "Schildersbedrijf G van Gerven",
+      "latitude": 51.415743,
+      "longitude": 5.548148,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 133,
+      "name": "Schildersbedrijf Karst Beens",
+      "latitude": 52.590806,
+      "longitude": 6.090265,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 134,
+      "name": "Schildersbedrijf Visser",
+      "latitude": 53.441037,
+      "longitude": 5.638326,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 135,
+      "name": "Schildersbedrijf v. Koppen",
+      "latitude": 51.809573,
+      "longitude": 3.936038,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 136,
+      "name": "Schildersbedrijf van Harberden V.O.F.",
+      "latitude": 52.194806,
+      "longitude": 4.897977,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 137,
+      "name": "Sigma Coatings",
+      "latitude": 52.063782,
+      "longitude": 5.112217,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 138,
+      "name": "Sigma Service Center",
+      "latitude": 52.427743,
+      "longitude": 4.810893,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 139,
+      "name": "Sigma Service Center",
+      "latitude": 52.647806,
+      "longitude": 4.786166,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 140,
+      "name": "Sigma Service Center Heerenveen",
+      "latitude": 52.964616,
+      "longitude": 5.891143,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 141,
+      "name": "Sikkens Center",
+      "latitude": 51.946911,
+      "longitude": 5.882525,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 142,
+      "name": "Sikkens Center",
+      "latitude": 52.19599,
+      "longitude": 5.389892,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 143,
+      "name": "Sikkens Center",
+      "latitude": 52.209835,
+      "longitude": 4.439209,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 144,
+      "name": "Sikkens Center Heerenveen",
+      "latitude": 52.964357,
+      "longitude": 5.893045,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 145,
+      "name": "Simonis Verf",
+      "latitude": 51.871372,
+      "longitude": 4.533277,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 146,
+      "name": "Simons",
+      "latitude": 51.861788,
+      "longitude": 6.489765,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 147,
+      "name": "Tapijtcentrum Nederland",
+      "latitude": 51.382932,
+      "longitude": 6.184002,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 148,
+      "name": "Ten Napel Exclusive Paints & Wallpapers",
+      "latitude": 52.662311,
+      "longitude": 5.607235,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 149,
+      "name": "Terpen Tijn 4art",
+      "latitude": 52.156753,
+      "longitude": 4.494453,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 150,
+      "name": "The Color Store",
+      "latitude": 51.48508,
+      "longitude": 5.427807,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 151,
+      "name": "Theuws voor verf en wonen",
+      "latitude": 51.525523,
+      "longitude": 5.972504,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 152,
+      "name": "Ton van Veghel",
+      "latitude": 51.695275,
+      "longitude": 5.177688,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 153,
+      "name": "Troost Verf Behang",
+      "latitude": 51.992177,
+      "longitude": 4.474543,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 154,
+      "name": "Van De Kerkhof",
+      "latitude": 51.445154,
+      "longitude": 4.93892,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 155,
+      "name": "Van Delst",
+      "latitude": 51.605212,
+      "longitude": 5.671477,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 156,
+      "name": "Van Dijken",
+      "latitude": 53.225245,
+      "longitude": 6.562024,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 157,
+      "name": "Van Gemert Schilders B.V.",
+      "latitude": 51.791218,
+      "longitude": 4.664475,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 158,
+      "name": "Van Kesteren Schilders",
+      "latitude": 52.219568,
+      "longitude": 4.479018,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 159,
+      "name": "Van Laar verfhandel",
+      "latitude": 52.082646,
+      "longitude": 4.395108,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 160,
+      "name": "Van Lier Woondecor",
+      "latitude": 51.619426,
+      "longitude": 5.43426,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 161,
+      "name": "Van Malestijn",
+      "latitude": 52.187703,
+      "longitude": 5.6111,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 162,
+      "name": "Van Veen",
+      "latitude": 52.593684,
+      "longitude": 6.256068,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 163,
+      "name": "Van Wijk Verf",
+      "latitude": 51.848649,
+      "longitude": 5.830552,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 164,
+      "name": "Van der Plas",
+      "latitude": 52.892033,
+      "longitude": 4.806789,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 165,
+      "name": "Van der Wallen",
+      "latitude": 52.079842,
+      "longitude": 4.267902,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 166,
+      "name": "Veho Verf",
+      "latitude": 51.423388,
+      "longitude": 4.109275,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 167,
+      "name": "Verf Amsterdam",
+      "latitude": 52.367006,
+      "longitude": 4.935138,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 168,
+      "name": "Verf De Jonge",
+      "latitude": 51.516729,
+      "longitude": 3.510959,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 169,
+      "name": "Verf en Behang Boxmeer",
+      "latitude": 51.646514,
+      "longitude": 5.951451,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 170,
+      "name": "Verf van der Feer",
+      "latitude": 52.700653,
+      "longitude": 6.180634,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 171,
+      "name": "Verf van der Feer",
+      "latitude": 52.943863,
+      "longitude": 4.774258,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 172,
+      "name": "Verf- en behangspeciaalzaak Marco van den Berg",
+      "latitude": 51.582034,
+      "longitude": 5.201793,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 173,
+      "name": "VerfHuis Dieren",
+      "latitude": 52.050737,
+      "longitude": 6.100149,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 174,
+      "name": "Verfhuis Bodegraven",
+      "latitude": 52.084389,
+      "longitude": 4.746458,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 175,
+      "name": "Verfhuis Frank Scheffer",
+      "latitude": 52.150503,
+      "longitude": 4.488792,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 176,
+      "name": "Verfhuys Etten-Leur",
+      "latitude": 51.580737,
+      "longitude": 4.643417,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 177,
+      "name": "Verfspot Vossenberg",
+      "latitude": 53.206261,
+      "longitude": 5.776202,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 178,
+      "name": "Verfvakcentrum",
+      "latitude": 51.917928,
+      "longitude": 4.394419,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 179,
+      "name": "Verfwinkel Henk Natte",
+      "latitude": 52.014105,
+      "longitude": 4.709148,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 180,
+      "name": "Verfwinkel W. Verbeek Jr.",
+      "latitude": 52.011168,
+      "longitude": 4.362241,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 181,
+      "name": "Verfzaak Bolsward",
+      "latitude": 53.062461,
+      "longitude": 5.521823,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 182,
+      "name": "Visser & Zn",
+      "latitude": 52.047391,
+      "longitude": 4.641438,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 183,
+      "name": "Vissers",
+      "latitude": 51.556252,
+      "longitude": 6.093741,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 184,
+      "name": "Voorham Verf & Woonprofessional",
+      "latitude": 52.14548,
+      "longitude": 4.399132,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 185,
+      "name": "Walgaard",
+      "latitude": 51.857043,
+      "longitude": 4.390046,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 186,
+      "name": "Wemekamp's schildersbedrijf",
+      "latitude": 52.464378,
+      "longitude": 6.491569,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 187,
+      "name": "Westerbeek",
+      "latitude": 52.674561,
+      "longitude": 6.429807,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 188,
+      "name": "Wiegman",
+      "latitude": 52.999384,
+      "longitude": 6.761674,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 189,
+      "name": "Wim van Hulst",
+      "latitude": 51.86319,
+      "longitude": 5.769614,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 190,
+      "name": "Zuider glas & verfhandel",
+      "latitude": 51.54488,
+      "longitude": 4.466935,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 191,
+      "name": "thuisin Van Brederode",
+      "latitude": 52.9435,
+      "longitude": 4.770658,
+      "osm_klasse": "shop=paint"
+    },
+    {
+      "id": 192,
+      "name": "van Borselen",
+      "latitude": 52.158801,
+      "longitude": 4.496061,
+      "osm_klasse": "shop=paint"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: paint (shop=paint) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=paint in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 192 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: paint (shop=paint) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: paint (shop=paint) — 192 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 192 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

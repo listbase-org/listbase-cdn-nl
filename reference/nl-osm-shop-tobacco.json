@@ -1,0 +1,2235 @@
+{
+  "id": "nl-osm-shop-tobacco",
+  "name": "Netherlands OSM: tobacco (shop=tobacco)",
+  "title": "Netherlands OSM: tobacco (shop=tobacco)",
+  "description": "Named OpenStreetMap features tagged shop=tobacco in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 312,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Haasje",
+      "latitude": 52.213372,
+      "longitude": 5.167702,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 2,
+      "name": "'t Hoekje",
+      "latitude": 51.930063,
+      "longitude": 4.491023,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 3,
+      "name": "'t Rokertje",
+      "latitude": 52.391948,
+      "longitude": 4.640445,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 4,
+      "name": "A.S.K.",
+      "latitude": 52.359531,
+      "longitude": 4.859945,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 5,
+      "name": "All-in-One Shop",
+      "latitude": 51.689589,
+      "longitude": 5.315704,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 6,
+      "name": "Als vanouds",
+      "latitude": 52.16041,
+      "longitude": 5.363382,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 7,
+      "name": "Ambacht Sigaar",
+      "latitude": 52.071093,
+      "longitude": 4.312436,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 8,
+      "name": "Amsterdam Pipe Shop",
+      "latitude": 52.364144,
+      "longitude": 4.885314,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 9,
+      "name": "Baksi",
+      "latitude": 52.068417,
+      "longitude": 4.293655,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 10,
+      "name": "Bell O Bell",
+      "latitude": 52.354485,
+      "longitude": 4.888441,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 11,
+      "name": "Bijsmans",
+      "latitude": 50.882884,
+      "longitude": 5.92695,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 12,
+      "name": "Bram Tobacco Shop",
+      "latitude": 52.072224,
+      "longitude": 4.319792,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 13,
+      "name": "Busch",
+      "latitude": 52.161212,
+      "longitude": 4.49075,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 14,
+      "name": "CIGO Angelslo",
+      "latitude": 52.779714,
+      "longitude": 6.922539,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 15,
+      "name": "CIGO Kroeze",
+      "latitude": 52.239574,
+      "longitude": 6.893086,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 16,
+      "name": "CIGO de Thij",
+      "latitude": 52.314646,
+      "longitude": 6.906434,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 17,
+      "name": "COCO",
+      "latitude": 52.383696,
+      "longitude": 4.885194,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 18,
+      "name": "Carla's Van Zijderveld",
+      "latitude": 52.066702,
+      "longitude": 4.245777,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 19,
+      "name": "Chicha",
+      "latitude": 51.535792,
+      "longitude": 4.462832,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 20,
+      "name": "Cigaragua",
+      "latitude": 52.357801,
+      "longitude": 4.878539,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 21,
+      "name": "Cigo",
+      "latitude": 51.918476,
+      "longitude": 4.460738,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 22,
+      "name": "Cigo",
+      "latitude": 52.044161,
+      "longitude": 5.67099,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 23,
+      "name": "Cigo",
+      "latitude": 52.511272,
+      "longitude": 4.670283,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 24,
+      "name": "Cigo Ganzenpoort Cigars",
+      "latitude": 52.322878,
+      "longitude": 4.972622,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 25,
+      "name": "Cigo Plantage",
+      "latitude": 52.489355,
+      "longitude": 4.650444,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 26,
+      "name": "Cigo Postkantoor Hasselo",
+      "latitude": 52.283915,
+      "longitude": 6.828547,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 27,
+      "name": "Cigo Smit",
+      "latitude": 52.49926,
+      "longitude": 4.812553,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 28,
+      "name": "Cityphone & Tobacco",
+      "latitude": 52.376095,
+      "longitude": 4.895522,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 29,
+      "name": "Coffee Shop Checkpoint",
+      "latitude": 51.905838,
+      "longitude": 4.444845,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 30,
+      "name": "Coffeeshop Charlois",
+      "latitude": 51.89214,
+      "longitude": 4.480841,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 31,
+      "name": "Coffeeshop Maashaven",
+      "latitude": 51.896187,
+      "longitude": 4.491322,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 32,
+      "name": "Coffeeshop New York",
+      "latitude": 51.902073,
+      "longitude": 4.502743,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 33,
+      "name": "Coffeeshop Ras-Elma",
+      "latitude": 51.906975,
+      "longitude": 4.508412,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 34,
+      "name": "Coffeeshop Regine",
+      "latitude": 52.381525,
+      "longitude": 4.631806,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 35,
+      "name": "D.G. van Vreumingen",
+      "latitude": 52.010883,
+      "longitude": 4.710252,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 36,
+      "name": "DTC Tabaksspeciaalzaak",
+      "latitude": 52.159725,
+      "longitude": 4.487743,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 37,
+      "name": "Damp-e Zeist",
+      "latitude": 52.088345,
+      "longitude": 5.247809,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 38,
+      "name": "Dampwinkeltje",
+      "latitude": 52.497945,
+      "longitude": 4.767796,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 39,
+      "name": "De Beek Tabakshop",
+      "latitude": 52.073774,
+      "longitude": 4.281705,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 40,
+      "name": "De Blok",
+      "latitude": 51.823049,
+      "longitude": 4.651645,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 41,
+      "name": "De Geluksspecialist",
+      "latitude": 51.728979,
+      "longitude": 5.880261,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 42,
+      "name": "De Graaff",
+      "latitude": 52.082798,
+      "longitude": 4.305134,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 43,
+      "name": "De GrassPriet coffeeshop",
+      "latitude": 51.897399,
+      "longitude": 4.511519,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 44,
+      "name": "De Jongens",
+      "latitude": 52.076772,
+      "longitude": 4.310377,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 45,
+      "name": "De Kempenier",
+      "latitude": 51.177153,
+      "longitude": 6.00478,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 46,
+      "name": "De Kinker",
+      "latitude": 52.364518,
+      "longitude": 4.861007,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 47,
+      "name": "De Koning Tabakshop",
+      "latitude": 52.070918,
+      "longitude": 4.312597,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 48,
+      "name": "De Lesseps",
+      "latitude": 52.112027,
+      "longitude": 5.085627,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 49,
+      "name": "De Oude Leeuw",
+      "latitude": 52.057187,
+      "longitude": 4.338045,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 50,
+      "name": "De Oude Tijd",
+      "latitude": 52.093516,
+      "longitude": 5.120438,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 51,
+      "name": "De Pijpelaar",
+      "latitude": 52.300553,
+      "longitude": 6.75666,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 52,
+      "name": "De Schans",
+      "latitude": 52.37908,
+      "longitude": 4.879343,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 53,
+      "name": "De Steentil",
+      "latitude": 53.2165,
+      "longitude": 6.572415,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 54,
+      "name": "De Tabakker Rien en Hanneke",
+      "latitude": 52.324864,
+      "longitude": 4.86794,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 55,
+      "name": "De Tabakspeciaalzaak",
+      "latitude": 52.413265,
+      "longitude": 4.890347,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 56,
+      "name": "De Tol Tabakshop",
+      "latitude": 52.356999,
+      "longitude": 4.913912,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 57,
+      "name": "De Valkenier",
+      "latitude": 52.078604,
+      "longitude": 4.275702,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 58,
+      "name": "De Walnoot",
+      "latitude": 52.060624,
+      "longitude": 4.254749,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 59,
+      "name": "De Zandpoort",
+      "latitude": 51.952806,
+      "longitude": 5.228813,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 60,
+      "name": "De sigarenboer",
+      "latitude": 51.905916,
+      "longitude": 4.505206,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 61,
+      "name": "Dillen",
+      "latitude": 51.418733,
+      "longitude": 5.408145,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 62,
+      "name": "Dreverman",
+      "latitude": 51.440079,
+      "longitude": 5.618441,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 63,
+      "name": "Duo shop",
+      "latitude": 51.18107,
+      "longitude": 5.726986,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 64,
+      "name": "EMC Tabakshop",
+      "latitude": 52.065708,
+      "longitude": 4.30589,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 65,
+      "name": "ESmoking Benelux",
+      "latitude": 50.968469,
+      "longitude": 5.766229,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 66,
+      "name": "Egbert Broers",
+      "latitude": 52.630919,
+      "longitude": 4.750677,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 67,
+      "name": "Egbert Broers",
+      "latitude": 52.642549,
+      "longitude": 5.057001,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 68,
+      "name": "Eland",
+      "latitude": 52.369239,
+      "longitude": 4.878994,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 69,
+      "name": "Futuresmoke",
+      "latitude": 50.969852,
+      "longitude": 5.830696,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 70,
+      "name": "G. Bes",
+      "latitude": 52.617735,
+      "longitude": 4.621962,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 71,
+      "name": "Gemak & tabakshop",
+      "latitude": 52.257156,
+      "longitude": 6.165217,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 72,
+      "name": "GemakshoekNulvier",
+      "latitude": 52.359079,
+      "longitude": 6.640561,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 73,
+      "name": "Gemakshop Ypenburg",
+      "latitude": 52.041784,
+      "longitude": 4.36931,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 74,
+      "name": "Glory Shop",
+      "latitude": 52.100533,
+      "longitude": 5.100006,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 75,
+      "name": "Gogun & Son",
+      "latitude": 52.363609,
+      "longitude": 4.936577,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 76,
+      "name": "Golden Sky",
+      "latitude": 52.070924,
+      "longitude": 4.284413,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 77,
+      "name": "Grow garden",
+      "latitude": 53.218415,
+      "longitude": 6.574615,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 78,
+      "name": "H&H tabakshop",
+      "latitude": 52.360909,
+      "longitude": 4.865352,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 79,
+      "name": "Hajenius",
+      "latitude": 52.369653,
+      "longitude": 4.891933,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 80,
+      "name": "Hans van Werven",
+      "latitude": 52.215034,
+      "longitude": 5.964284,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 81,
+      "name": "Harman",
+      "latitude": 52.071081,
+      "longitude": 4.319942,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 82,
+      "name": "Hartman",
+      "latitude": 52.365591,
+      "longitude": 4.885464,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 83,
+      "name": "Hartman Cigars & More",
+      "latitude": 52.347309,
+      "longitude": 4.876689,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 84,
+      "name": "Havana House",
+      "latitude": 52.383521,
+      "longitude": 4.635679,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 85,
+      "name": "Het Dampertje",
+      "latitude": 52.547212,
+      "longitude": 4.664043,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 86,
+      "name": "Het Moortje",
+      "latitude": 52.018261,
+      "longitude": 4.432871,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 87,
+      "name": "Het Valutahuis",
+      "latitude": 52.204166,
+      "longitude": 4.395417,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 88,
+      "name": "Iqos Store",
+      "latitude": 52.370256,
+      "longitude": 4.885558,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 89,
+      "name": "James Bonsack",
+      "latitude": 53.21826,
+      "longitude": 6.569538,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 90,
+      "name": "Jan Mees",
+      "latitude": 51.687907,
+      "longitude": 5.303766,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 91,
+      "name": "Jansen-Quicken",
+      "latitude": 51.192764,
+      "longitude": 5.990878,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 92,
+      "name": "Jenny's Tabak & Gemakswinkel",
+      "latitude": 52.357023,
+      "longitude": 5.15393,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 93,
+      "name": "John de Bruin Speciaalzaak",
+      "latitude": 52.259076,
+      "longitude": 4.553429,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 94,
+      "name": "Joop van Ravenstein",
+      "latitude": 51.698714,
+      "longitude": 5.312518,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 95,
+      "name": "Jumbo Gemakswinkel",
+      "latitude": 52.08876,
+      "longitude": 4.386208,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 96,
+      "name": "K2",
+      "latitude": 52.075043,
+      "longitude": 4.313973,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 97,
+      "name": "Kinker",
+      "latitude": 52.364787,
+      "longitude": 4.862164,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 98,
+      "name": "Kiosk Roelandschap",
+      "latitude": 51.984811,
+      "longitude": 5.914152,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 99,
+      "name": "Ko Jager Cigars and Interior",
+      "latitude": 52.260447,
+      "longitude": 5.606894,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 100,
+      "name": "Koffeeshop Sahara",
+      "latitude": 51.905296,
+      "longitude": 4.445803,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 101,
+      "name": "La Casa del Habano",
+      "latitude": 52.080611,
+      "longitude": 4.309721,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 102,
+      "name": "La Casa del Habano",
+      "latitude": 52.36834,
+      "longitude": 5.217493,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 103,
+      "name": "La Kraft",
+      "latitude": 50.848807,
+      "longitude": 5.689349,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 104,
+      "name": "La Kraft",
+      "latitude": 50.849428,
+      "longitude": 5.700652,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 105,
+      "name": "La Palma",
+      "latitude": 51.917009,
+      "longitude": 4.452843,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 106,
+      "name": "Lasourire",
+      "latitude": 52.349662,
+      "longitude": 4.786327,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 107,
+      "name": "Le Cigar",
+      "latitude": 52.103426,
+      "longitude": 4.27909,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 108,
+      "name": "Lectuur Actueel",
+      "latitude": 50.882489,
+      "longitude": 5.673585,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 109,
+      "name": "Leentfaar",
+      "latitude": 51.931364,
+      "longitude": 4.466531,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 110,
+      "name": "Lensen",
+      "latitude": 51.369926,
+      "longitude": 6.169208,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 111,
+      "name": "Liberty",
+      "latitude": 52.369341,
+      "longitude": 5.215972,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 112,
+      "name": "Liesbeth de Vries",
+      "latitude": 52.085264,
+      "longitude": 4.747034,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 113,
+      "name": "M.A. van den Broek",
+      "latitude": 51.594411,
+      "longitude": 4.779219,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 114,
+      "name": "M.D.A. Selhorst h.o.d.n. Daily Shop Wassenaar",
+      "latitude": 52.142558,
+      "longitude": 4.395525,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 115,
+      "name": "MH Shop",
+      "latitude": 52.227259,
+      "longitude": 5.182617,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 116,
+      "name": "Marnix",
+      "latitude": 52.374063,
+      "longitude": 4.876511,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 117,
+      "name": "Miami coffeeshop",
+      "latitude": 51.910639,
+      "longitude": 4.454479,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 118,
+      "name": "Mozaiek",
+      "latitude": 51.897636,
+      "longitude": 4.509774,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 119,
+      "name": "Multi Tabac Corner",
+      "latitude": 51.912159,
+      "longitude": 4.437215,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 120,
+      "name": "Neuman Tabakszaak",
+      "latitude": 52.939186,
+      "longitude": 4.740531,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 121,
+      "name": "Nono's",
+      "latitude": 51.915385,
+      "longitude": 4.466003,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 122,
+      "name": "Oosterhoff",
+      "latitude": 52.214052,
+      "longitude": 5.959169,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 123,
+      "name": "PMP Star",
+      "latitude": 52.362092,
+      "longitude": 4.853591,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 124,
+      "name": "Paris / Tabakshop",
+      "latitude": 51.544196,
+      "longitude": 4.474216,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 125,
+      "name": "Pecis",
+      "latitude": 51.917443,
+      "longitude": 4.417201,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 126,
+      "name": "Peter van der Kamp",
+      "latitude": 53.194446,
+      "longitude": 5.798778,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 127,
+      "name": "Point fumee",
+      "latitude": 52.393489,
+      "longitude": 5.27992,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 128,
+      "name": "Privet",
+      "latitude": 52.494189,
+      "longitude": 4.677553,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 129,
+      "name": "Psp Tabakszaak",
+      "latitude": 52.377941,
+      "longitude": 4.819615,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 130,
+      "name": "Puff Store",
+      "latitude": 51.92754,
+      "longitude": 4.508869,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 131,
+      "name": "RIO Tabak & Gifts",
+      "latitude": 52.067718,
+      "longitude": 4.299971,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 132,
+      "name": "Rokade",
+      "latitude": 51.658751,
+      "longitude": 5.617765,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 133,
+      "name": "Rokerscentrum Boulogne",
+      "latitude": 51.819602,
+      "longitude": 4.642679,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 134,
+      "name": "Rokerspaleis W J Lensen Sigarenmagazijn",
+      "latitude": 51.843498,
+      "longitude": 5.860955,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 135,
+      "name": "Rokersspeciaalzaak Siemelink",
+      "latitude": 51.995724,
+      "longitude": 5.97127,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 136,
+      "name": "Ruwaard van Putten",
+      "latitude": 51.846116,
+      "longitude": 4.333813,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 137,
+      "name": "Sam Tabak & Souvenirs",
+      "latitude": 52.371499,
+      "longitude": 4.898801,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 138,
+      "name": "Sensemillia",
+      "latitude": 52.360244,
+      "longitude": 4.807924,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 139,
+      "name": "Sigarenboer Katendrecht",
+      "latitude": 51.90029,
+      "longitude": 4.482379,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 140,
+      "name": "Sigarenhandel J. de Haas & Zn",
+      "latitude": 52.256549,
+      "longitude": 5.223452,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 141,
+      "name": "Sigarenhandel Piet van Kuyk",
+      "latitude": 51.435438,
+      "longitude": 5.473274,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 142,
+      "name": "Sigarenmagazijn",
+      "latitude": 51.760031,
+      "longitude": 4.163569,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 143,
+      "name": "Sigarenmagazijn \"De Sport\"",
+      "latitude": 52.061448,
+      "longitude": 4.328465,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 144,
+      "name": "Sigarenmagazijn \"abtsweg\"",
+      "latitude": 51.936406,
+      "longitude": 4.4375,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 145,
+      "name": "Sigarenmagazijn Bom",
+      "latitude": 52.374213,
+      "longitude": 4.893663,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 146,
+      "name": "Sigarenmagazijn Bom 9",
+      "latitude": 52.372142,
+      "longitude": 4.895799,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 147,
+      "name": "Sigarenmagazijn Dimmedaal",
+      "latitude": 51.959443,
+      "longitude": 6.296092,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 148,
+      "name": "Sigarenmagazijn Driessen",
+      "latitude": 50.947193,
+      "longitude": 5.775041,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 149,
+      "name": "Sigarenmagazijn E. Reekers",
+      "latitude": 53.19893,
+      "longitude": 5.792399,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 150,
+      "name": "Sigarenmagazijn Elisa",
+      "latitude": 52.068122,
+      "longitude": 4.301132,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 151,
+      "name": "Sigarenmagazijn Simons",
+      "latitude": 52.373535,
+      "longitude": 4.900021,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 152,
+      "name": "Sigarenpeciaalzaak C. Habraken",
+      "latitude": 51.396476,
+      "longitude": 5.472822,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 153,
+      "name": "Sigarenspeciaalzaak Ted Bogers Tabac & Gifts",
+      "latitude": 51.810034,
+      "longitude": 4.683985,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 154,
+      "name": "Sigarenwinkel M. Bagci",
+      "latitude": 52.070115,
+      "longitude": 4.286743,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 155,
+      "name": "Sigarenzaak P.J.G. Meertens",
+      "latitude": 50.865233,
+      "longitude": 6.066121,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 156,
+      "name": "Sigma Succes",
+      "latitude": 52.268874,
+      "longitude": 5.167678,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 157,
+      "name": "Sijpie",
+      "latitude": 53.358771,
+      "longitude": 5.215326,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 158,
+      "name": "Sipma",
+      "latitude": 53.032589,
+      "longitude": 5.660866,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 159,
+      "name": "Sisha Shop Delft",
+      "latitude": 52.020504,
+      "longitude": 4.350141,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 160,
+      "name": "Smaakgilde Alkmaar",
+      "latitude": 52.645398,
+      "longitude": 4.749166,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 161,
+      "name": "Smaakgilde Winkelwaard",
+      "latitude": 52.645666,
+      "longitude": 4.759644,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 162,
+      "name": "Smoke",
+      "latitude": 53.221626,
+      "longitude": 6.565768,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 163,
+      "name": "Smoke Supply",
+      "latitude": 51.933821,
+      "longitude": 4.476181,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 164,
+      "name": "Smokey Blue",
+      "latitude": 53.212977,
+      "longitude": 6.555917,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 165,
+      "name": "Smookie Tabak Shop",
+      "latitude": 51.884818,
+      "longitude": 4.50976,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 166,
+      "name": "Souveniertje",
+      "latitude": 52.10244,
+      "longitude": 5.096699,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 167,
+      "name": "Spot Harderwijk",
+      "latitude": 52.336493,
+      "longitude": 5.607881,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 168,
+      "name": "Spot Schootenplaza",
+      "latitude": 52.935948,
+      "longitude": 4.771019,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 169,
+      "name": "Steen",
+      "latitude": 52.157036,
+      "longitude": 5.392734,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 170,
+      "name": "Tabac & Gifts",
+      "latitude": 51.88131,
+      "longitude": 4.543662,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 171,
+      "name": "Tabac & Gifts",
+      "latitude": 51.996355,
+      "longitude": 4.353203,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 172,
+      "name": "Tabac & Gifts",
+      "latitude": 51.999435,
+      "longitude": 5.674741,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 173,
+      "name": "Tabac & Gifts",
+      "latitude": 52.113699,
+      "longitude": 5.112945,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 174,
+      "name": "Tabac & Gifts BriSi",
+      "latitude": 51.910364,
+      "longitude": 4.444238,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 175,
+      "name": "Tabac & Gifts G. Sentel",
+      "latitude": 52.055676,
+      "longitude": 4.49841,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 176,
+      "name": "Tabac & Gifts Patrick",
+      "latitude": 52.063457,
+      "longitude": 4.288416,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 177,
+      "name": "Tabac & Gifts Poortugaal",
+      "latitude": 51.856871,
+      "longitude": 4.390318,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 178,
+      "name": "Tabacconist G. van Vliet",
+      "latitude": 52.08752,
+      "longitude": 4.884004,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 179,
+      "name": "Tabak & Gemak",
+      "latitude": 52.220898,
+      "longitude": 6.898117,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 180,
+      "name": "Tabak & Gemakszaak",
+      "latitude": 52.356341,
+      "longitude": 4.791828,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 181,
+      "name": "Tabak & Gift 020",
+      "latitude": 52.355819,
+      "longitude": 4.900246,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 182,
+      "name": "Tabak & Go",
+      "latitude": 51.917559,
+      "longitude": 4.474834,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 183,
+      "name": "Tabak & More",
+      "latitude": 52.013305,
+      "longitude": 4.358452,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 184,
+      "name": "Tabak De Pijp",
+      "latitude": 52.352556,
+      "longitude": 4.890616,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 185,
+      "name": "Tabak en gemak 't fer",
+      "latitude": 51.696086,
+      "longitude": 4.873278,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 186,
+      "name": "Tabak- & Vapeshop Van Wou",
+      "latitude": 52.356849,
+      "longitude": 4.899524,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 187,
+      "name": "Tabak- en Lectuurshop Hoekstra",
+      "latitude": 53.280482,
+      "longitude": 6.153655,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 188,
+      "name": "Tabakado",
+      "latitude": 51.416137,
+      "longitude": 5.491711,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 189,
+      "name": "Tabaks speciaalzaak Van Vuure",
+      "latitude": 52.061014,
+      "longitude": 4.486849,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 190,
+      "name": "Tabaks- en gemakswinkel Margits",
+      "latitude": 52.636155,
+      "longitude": 4.775019,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 191,
+      "name": "Tabakshoekje",
+      "latitude": 51.442191,
+      "longitude": 4.933764,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 192,
+      "name": "Tabakshop",
+      "latitude": 51.899815,
+      "longitude": 4.497911,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 193,
+      "name": "Tabakshop",
+      "latitude": 52.143727,
+      "longitude": 5.381181,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 194,
+      "name": "Tabakshop",
+      "latitude": 52.393577,
+      "longitude": 4.641606,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 195,
+      "name": "Tabakshop & Belhuis Lombardijen",
+      "latitude": 51.872975,
+      "longitude": 4.521227,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 196,
+      "name": "Tabakshop Banaantje",
+      "latitude": 52.019379,
+      "longitude": 4.297274,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 197,
+      "name": "Tabakshop Binnenhof",
+      "latitude": 51.960546,
+      "longitude": 4.534351,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 198,
+      "name": "Tabakshop Bruin",
+      "latitude": 52.076271,
+      "longitude": 4.263514,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 199,
+      "name": "Tabakshop De Jonge-van de Vusse",
+      "latitude": 52.360912,
+      "longitude": 4.928384,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 200,
+      "name": "Tabakshop Dekker",
+      "latitude": 52.770964,
+      "longitude": 5.107111,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 201,
+      "name": "Tabakshop Eland",
+      "latitude": 52.08066,
+      "longitude": 4.29677,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 202,
+      "name": "Tabakshop Jacqueline",
+      "latitude": 52.362675,
+      "longitude": 4.926664,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 203,
+      "name": "Tabakshop Java",
+      "latitude": 52.363867,
+      "longitude": 4.934634,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 204,
+      "name": "Tabakshop Korenbloem",
+      "latitude": 52.665987,
+      "longitude": 5.047747,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 205,
+      "name": "Tabakshop Laak",
+      "latitude": 52.058545,
+      "longitude": 4.322612,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 206,
+      "name": "Tabakshop Linnaeus",
+      "latitude": 52.359953,
+      "longitude": 4.925745,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 207,
+      "name": "Tabakshop Mensink",
+      "latitude": 52.529003,
+      "longitude": 6.102346,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 208,
+      "name": "Tabakshop Oost",
+      "latitude": 51.922868,
+      "longitude": 4.498384,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 209,
+      "name": "Tabakshop Oostpoort",
+      "latitude": 52.011515,
+      "longitude": 4.369377,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 210,
+      "name": "Tabakshop Oudedijk",
+      "latitude": 51.92529,
+      "longitude": 4.51328,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 211,
+      "name": "Tabakshop Petra",
+      "latitude": 52.36464,
+      "longitude": 4.648615,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 212,
+      "name": "Tabakshop Plata",
+      "latitude": 51.874069,
+      "longitude": 4.586409,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 213,
+      "name": "Tabakshop Schiermonnikoog",
+      "latitude": 53.477524,
+      "longitude": 6.161031,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 214,
+      "name": "Tabakshop Sjakie",
+      "latitude": 51.928638,
+      "longitude": 4.489774,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 215,
+      "name": "Tabakshop Slinge",
+      "latitude": 51.874346,
+      "longitude": 4.496264,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 216,
+      "name": "Tabakshop Spangen",
+      "latitude": 51.917625,
+      "longitude": 4.431824,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 217,
+      "name": "Tabakshop Spijk",
+      "latitude": 51.858443,
+      "longitude": 4.318874,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 218,
+      "name": "Tabakshop Stipt",
+      "latitude": 52.055907,
+      "longitude": 4.316519,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 219,
+      "name": "Tabakshop Thomas a Kempis",
+      "latitude": 52.515618,
+      "longitude": 6.103669,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 220,
+      "name": "Tabakshop Tuindorp",
+      "latitude": 52.950231,
+      "longitude": 4.759505,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 221,
+      "name": "Tabakshop Vivant",
+      "latitude": 52.639171,
+      "longitude": 5.037024,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 222,
+      "name": "Tabakshop W. Koopman",
+      "latitude": 52.715806,
+      "longitude": 6.484276,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 223,
+      "name": "Tabakshop West",
+      "latitude": 51.912566,
+      "longitude": 4.567397,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 224,
+      "name": "Tabakshop Ylona",
+      "latitude": 52.028508,
+      "longitude": 4.314709,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 225,
+      "name": "Tabakshop Zwaanshals",
+      "latitude": 51.93259,
+      "longitude": 4.485816,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 226,
+      "name": "Tabakshop kreek",
+      "latitude": 51.885344,
+      "longitude": 4.53689,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 227,
+      "name": "Tabakspeciaalzaak",
+      "latitude": 51.450807,
+      "longitude": 5.465066,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 228,
+      "name": "Tabakspeciaalzaak",
+      "latitude": 51.564546,
+      "longitude": 5.091285,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 229,
+      "name": "Tabakspeciaalzaak 't Bastion",
+      "latitude": 51.13127,
+      "longitude": 5.84668,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 230,
+      "name": "Tabakspeciaalzaak Akkerhof",
+      "latitude": 51.833492,
+      "longitude": 4.320848,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 231,
+      "name": "Tabakspeciaalzaak Bo",
+      "latitude": 52.092024,
+      "longitude": 4.357661,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 232,
+      "name": "Tabakspeciaalzaak Bram",
+      "latitude": 52.044452,
+      "longitude": 4.391147,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 233,
+      "name": "Tabakspeciaalzaak De Fahrenheit",
+      "latitude": 52.077363,
+      "longitude": 4.270796,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 234,
+      "name": "Tabakspeciaalzaak De Keuvel",
+      "latitude": 52.235005,
+      "longitude": 4.446607,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 235,
+      "name": "Tabakspeciaalzaak Den Haag",
+      "latitude": 52.075996,
+      "longitude": 4.281163,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 236,
+      "name": "Tabakspeciaalzaak Dommelen",
+      "latitude": 51.355853,
+      "longitude": 5.431231,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 237,
+      "name": "Tabakspeciaalzaak Ebbeling",
+      "latitude": 52.378375,
+      "longitude": 4.662188,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 238,
+      "name": "Tabakspeciaalzaak Funcke",
+      "latitude": 51.686085,
+      "longitude": 5.13345,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 239,
+      "name": "Tabakspeciaalzaak M. Tromp",
+      "latitude": 52.448152,
+      "longitude": 4.637163,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 240,
+      "name": "Tabakspeciaalzaak Paijmans",
+      "latitude": 51.5806,
+      "longitude": 5.193538,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 241,
+      "name": "Tabakspeciaalzaak Suri",
+      "latitude": 52.358135,
+      "longitude": 4.854584,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 242,
+      "name": "Tabakspeciaalzaak Th. van der Veeken",
+      "latitude": 51.278554,
+      "longitude": 4.050868,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 243,
+      "name": "Tabakspeciaalzaak Van Hartingsveldt",
+      "latitude": 52.355373,
+      "longitude": 4.893338,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 244,
+      "name": "Tabakspeciaalzaak Van Vuure",
+      "latitude": 52.939197,
+      "longitude": 4.740462,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 245,
+      "name": "Tabakspeciaalzaak Van Vuuren",
+      "latitude": 52.494947,
+      "longitude": 4.786111,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 246,
+      "name": "Tabakspeciaalzaak Voorstreek",
+      "latitude": 53.20537,
+      "longitude": 5.801352,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 247,
+      "name": "Tabakspeciaalzaak Wirdumerdyk",
+      "latitude": 53.199655,
+      "longitude": 5.796736,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 248,
+      "name": "Tabakspeciaalzaak Zuid-West",
+      "latitude": 52.147112,
+      "longitude": 4.477436,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 249,
+      "name": "Tabakspeciaalzaak de Amsterdamse",
+      "latitude": 52.101529,
+      "longitude": 5.098963,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 250,
+      "name": "Tabaksshop 2000",
+      "latitude": 52.060314,
+      "longitude": 4.334747,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 251,
+      "name": "Tabaksspeciaalzaak",
+      "latitude": 52.072091,
+      "longitude": 5.124864,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 252,
+      "name": "Tabaksspeciaalzaak Bergschenhoek",
+      "latitude": 51.98852,
+      "longitude": 4.50165,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 253,
+      "name": "Tabaksspeciaalzaak Foreest",
+      "latitude": 52.013135,
+      "longitude": 4.336606,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 254,
+      "name": "Tabaksspeciaalzaak Leeuwarden",
+      "latitude": 53.20485,
+      "longitude": 5.813552,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 255,
+      "name": "Tabaksspeciaalzaak Nieuwegein",
+      "latitude": 52.038041,
+      "longitude": 5.088931,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 256,
+      "name": "Tabaksspeciaalzaak P.A. Weterings",
+      "latitude": 52.162275,
+      "longitude": 5.399314,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 257,
+      "name": "Tabaksspeciaalzaak Spekle",
+      "latitude": 52.00156,
+      "longitude": 5.941676,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 258,
+      "name": "Tabaksspeciaalzaak Twijnstraat",
+      "latitude": 52.083151,
+      "longitude": 5.123327,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 259,
+      "name": "Tabakswinkel \"Op de Hoek\"",
+      "latitude": 51.911796,
+      "longitude": 4.333921,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 260,
+      "name": "Tabakswinkel Brabant",
+      "latitude": 51.694935,
+      "longitude": 5.218533,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 261,
+      "name": "Tabakszaak Koster",
+      "latitude": 52.391462,
+      "longitude": 4.944467,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 262,
+      "name": "Tabakszaak Prins Hendrik",
+      "latitude": 52.080738,
+      "longitude": 4.290858,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 263,
+      "name": "Tabakszaak de Leyens",
+      "latitude": 52.071709,
+      "longitude": 4.494375,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 264,
+      "name": "Tabakszaak en Postzegelhandel Markthof",
+      "latitude": 52.076422,
+      "longitude": 4.315049,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 265,
+      "name": "Tabaktief",
+      "latitude": 51.920457,
+      "longitude": 4.481531,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 266,
+      "name": "Tabakzaak Simone",
+      "latitude": 51.98905,
+      "longitude": 5.921997,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 267,
+      "name": "Tabatief van de Graaf",
+      "latitude": 52.698041,
+      "longitude": 6.192462,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 268,
+      "name": "Techador Goedkoop",
+      "latitude": 52.27955,
+      "longitude": 4.862194,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 269,
+      "name": "Techador Tabakszaak Akyol",
+      "latitude": 52.067583,
+      "longitude": 4.311454,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 270,
+      "name": "Texaco Smit",
+      "latitude": 52.260193,
+      "longitude": 7.00686,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 271,
+      "name": "The City",
+      "latitude": 52.078837,
+      "longitude": 4.318287,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 272,
+      "name": "The Shisha Company",
+      "latitude": 51.694108,
+      "longitude": 5.268544,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 273,
+      "name": "Tito Tobacco",
+      "latitude": 52.38056,
+      "longitude": 4.891165,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 274,
+      "name": "Tobacco Shop Atlantic",
+      "latitude": 52.352221,
+      "longitude": 4.884206,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 275,
+      "name": "Tobacconist Jan van Roessel",
+      "latitude": 51.618356,
+      "longitude": 5.43462,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 276,
+      "name": "Totaal Gemak",
+      "latitude": 51.912103,
+      "longitude": 4.465861,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 277,
+      "name": "UNO",
+      "latitude": 51.55608,
+      "longitude": 5.091346,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 278,
+      "name": "UNO",
+      "latitude": 51.556672,
+      "longitude": 5.086935,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 279,
+      "name": "V.o.f. Crulan Tabakspeciaalzaak",
+      "latitude": 52.059505,
+      "longitude": 4.265115,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 280,
+      "name": "VIP's Tabak Corner",
+      "latitude": 52.044559,
+      "longitude": 4.256246,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 281,
+      "name": "Van Daatselaar",
+      "latitude": 52.082115,
+      "longitude": 5.415549,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 282,
+      "name": "Van Dalen Cigar Boutique",
+      "latitude": 51.689018,
+      "longitude": 5.304808,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 283,
+      "name": "Van Dalen Cigars",
+      "latitude": 51.923793,
+      "longitude": 4.487309,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 284,
+      "name": "Van Dalen Cigars",
+      "latitude": 53.218344,
+      "longitude": 6.566141,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 285,
+      "name": "Van Lookeren",
+      "latitude": 52.331167,
+      "longitude": 4.877466,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 286,
+      "name": "Van Orsouw",
+      "latitude": 51.758085,
+      "longitude": 5.537985,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 287,
+      "name": "Van Renssen",
+      "latitude": 52.012931,
+      "longitude": 4.359819,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 288,
+      "name": "Van Tricht Sigarenmagazijn",
+      "latitude": 52.141108,
+      "longitude": 5.039556,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 289,
+      "name": "Van Verseveld",
+      "latitude": 50.971485,
+      "longitude": 5.829031,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 290,
+      "name": "Van Vuure",
+      "latitude": 53.217088,
+      "longitude": 6.563338,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 291,
+      "name": "Van Vuure tabakspeciaalzaak",
+      "latitude": 52.075468,
+      "longitude": 4.357761,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 292,
+      "name": "Van de Loosdrecht genietend roken sinds 1932",
+      "latitude": 52.026788,
+      "longitude": 5.556005,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 293,
+      "name": "Vape & Tabak Shop Terneuzen",
+      "latitude": 51.337742,
+      "longitude": 3.829216,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 294,
+      "name": "Vivant",
+      "latitude": 52.120615,
+      "longitude": 5.110114,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 295,
+      "name": "Vivant - Verheijen",
+      "latitude": 52.089572,
+      "longitude": 5.13585,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 296,
+      "name": "Vivant Hein de Jong",
+      "latitude": 52.642444,
+      "longitude": 5.055109,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 297,
+      "name": "Vivant Tabakshop",
+      "latitude": 52.697635,
+      "longitude": 5.234694,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 298,
+      "name": "Vivant Valentino",
+      "latitude": 52.374625,
+      "longitude": 4.860055,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 299,
+      "name": "Vivant frank Evers",
+      "latitude": 52.294615,
+      "longitude": 4.580545,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 300,
+      "name": "Vivánt",
+      "latitude": 52.301734,
+      "longitude": 4.694256,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 301,
+      "name": "Vivánt Nancy",
+      "latitude": 52.356946,
+      "longitude": 4.898362,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 302,
+      "name": "Volado",
+      "latitude": 51.661521,
+      "longitude": 5.030916,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 303,
+      "name": "Volado",
+      "latitude": 52.210381,
+      "longitude": 6.862463,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 304,
+      "name": "Volado",
+      "latitude": 52.342597,
+      "longitude": 4.963763,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 305,
+      "name": "Volado",
+      "latitude": 52.451303,
+      "longitude": 5.853065,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 306,
+      "name": "Volado",
+      "latitude": 52.503775,
+      "longitude": 6.104842,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 307,
+      "name": "Wilke Tabak",
+      "latitude": 51.980842,
+      "longitude": 5.909965,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 308,
+      "name": "Wilmer",
+      "latitude": 52.010833,
+      "longitude": 4.357854,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 309,
+      "name": "XeDa",
+      "latitude": 51.813346,
+      "longitude": 4.663465,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 310,
+      "name": "Yankee",
+      "latitude": 51.918712,
+      "longitude": 4.462296,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 311,
+      "name": "Ze Zeppe",
+      "latitude": 52.011319,
+      "longitude": 4.351629,
+      "osm_klasse": "shop=tobacco"
+    },
+    {
+      "id": 312,
+      "name": "volado",
+      "latitude": 51.440815,
+      "longitude": 5.4538,
+      "osm_klasse": "shop=tobacco"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: tobacco (shop=tobacco) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged shop=tobacco in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 312 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: tobacco (shop=tobacco) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: tobacco (shop=tobacco) — 312 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 312 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

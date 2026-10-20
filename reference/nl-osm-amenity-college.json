@@ -1,0 +1,3698 @@
+{
+  "id": "nl-osm-amenity-college",
+  "name": "Netherlands OSM: college (amenity=college)",
+  "title": "Netherlands OSM: college (amenity=college)",
+  "description": "Named OpenStreetMap features tagged amenity=college in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 521,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "ACTA",
+      "latitude": 52.336312,
+      "longitude": 4.860883,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 2,
+      "name": "AOC Oost",
+      "latitude": 52.107804,
+      "longitude": 6.512891,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 3,
+      "name": "ATO opleidingen",
+      "latitude": 52.477209,
+      "longitude": 4.621072,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 4,
+      "name": "Academie van Bouwkunst",
+      "latitude": 52.367565,
+      "longitude": 4.903428,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 5,
+      "name": "Academie voor Ambulancezorg",
+      "latitude": 52.33153,
+      "longitude": 5.645407,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 6,
+      "name": "Academie voor Theater en Dans",
+      "latitude": 52.369605,
+      "longitude": 4.901658,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 7,
+      "name": "Accent Praktijkonderwijs Delfshaven",
+      "latitude": 51.903204,
+      "longitude": 4.446959,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 8,
+      "name": "Adelbert College",
+      "latitude": 52.147845,
+      "longitude": 4.418606,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 9,
+      "name": "Aeres MBO 1&2",
+      "latitude": 53.187828,
+      "longitude": 5.798322,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 10,
+      "name": "Aeres MBO 3&4",
+      "latitude": 53.1939,
+      "longitude": 5.805714,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 11,
+      "name": "Aeres MBO Barneveld",
+      "latitude": 52.143241,
+      "longitude": 5.601311,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 12,
+      "name": "Aeres VMBO",
+      "latitude": 53.194028,
+      "longitude": 5.806791,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 13,
+      "name": "Aeres VMBO Almere",
+      "latitude": 52.347516,
+      "longitude": 5.165972,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 14,
+      "name": "Albeda - Locatie Thorbeckelaan",
+      "latitude": 51.847759,
+      "longitude": 4.335523,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 15,
+      "name": "Albeda College",
+      "latitude": 51.879771,
+      "longitude": 4.537658,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 16,
+      "name": "Albeda College",
+      "latitude": 51.926498,
+      "longitude": 4.474318,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 17,
+      "name": "Albeda College",
+      "latitude": 51.927805,
+      "longitude": 4.464537,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 18,
+      "name": "Albeda Zorgcollege",
+      "latitude": 51.84531,
+      "longitude": 4.395882,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 19,
+      "name": "Albeda college",
+      "latitude": 51.903349,
+      "longitude": 4.509667,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 20,
+      "name": "Albeda college, locatie Sportlaan",
+      "latitude": 51.887781,
+      "longitude": 4.535399,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 21,
+      "name": "Alberdingk Thijm-College",
+      "latitude": 52.214057,
+      "longitude": 5.185519,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 22,
+      "name": "Alfa College - Regionaal Techniek Centrum",
+      "latitude": 52.576259,
+      "longitude": 6.626599,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 23,
+      "name": "Alfa-college",
+      "latitude": 52.576136,
+      "longitude": 6.623223,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 24,
+      "name": "Alfa-college",
+      "latitude": 52.738739,
+      "longitude": 6.471647,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 25,
+      "name": "Alfa-college",
+      "latitude": 52.98398,
+      "longitude": 6.536087,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 26,
+      "name": "Alfa-college",
+      "latitude": 53.207049,
+      "longitude": 6.590405,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 27,
+      "name": "Alfa-college",
+      "latitude": 53.213909,
+      "longitude": 6.548804,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 28,
+      "name": "Alfa-college",
+      "latitude": 53.235459,
+      "longitude": 6.606867,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 29,
+      "name": "Alfa-college",
+      "latitude": 53.238129,
+      "longitude": 6.596345,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 30,
+      "name": "Alfa-college Sportcentrum",
+      "latitude": 53.238168,
+      "longitude": 6.592308,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 31,
+      "name": "Alliance Française de La Haye",
+      "latitude": 52.084951,
+      "longitude": 4.33052,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 32,
+      "name": "Almere College",
+      "latitude": 52.556767,
+      "longitude": 5.896705,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 33,
+      "name": "American School of The Hague",
+      "latitude": 52.146771,
+      "longitude": 4.42383,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 34,
+      "name": "Amstel Academie",
+      "latitude": 52.334556,
+      "longitude": 4.864868,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 35,
+      "name": "Amstelcampus",
+      "latitude": 52.358921,
+      "longitude": 4.907802,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 36,
+      "name": "Amsterdam Business School",
+      "latitude": 52.365107,
+      "longitude": 4.911718,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 37,
+      "name": "Amsterdam Film School",
+      "latitude": 52.367399,
+      "longitude": 4.887734,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 38,
+      "name": "Art of Colors Makeup Artist School",
+      "latitude": 52.3682,
+      "longitude": 4.887929,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 39,
+      "name": "ArtEZ University of the Arts",
+      "latitude": 51.983721,
+      "longitude": 5.89502,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 40,
+      "name": "ArtEz",
+      "latitude": 52.221987,
+      "longitude": 6.89643,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 41,
+      "name": "Associate Degrees Academie",
+      "latitude": 51.528918,
+      "longitude": 4.454169,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 42,
+      "name": "Atelier Hella De Boo",
+      "latitude": 51.945528,
+      "longitude": 4.470076,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 43,
+      "name": "Auris College",
+      "latitude": 52.148979,
+      "longitude": 4.473362,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 44,
+      "name": "Automotive College",
+      "latitude": 52.03992,
+      "longitude": 5.107215,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 45,
+      "name": "Avans",
+      "latitude": 51.694013,
+      "longitude": 5.293352,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 46,
+      "name": "BOVO",
+      "latitude": 52.453465,
+      "longitude": 6.578814,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 47,
+      "name": "Bartiméus College",
+      "latitude": 52.083959,
+      "longitude": 5.229764,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 48,
+      "name": "Beeckestijn",
+      "latitude": 52.13103,
+      "longitude": 5.391226,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 49,
+      "name": "Benno Premselahuis",
+      "latitude": 52.359882,
+      "longitude": 4.909639,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 50,
+      "name": "Beroepscampus",
+      "latitude": 51.751515,
+      "longitude": 4.158425,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 51,
+      "name": "Beroepscollege Parkstad Limburg Locatie Herle",
+      "latitude": 50.899641,
+      "longitude": 5.978348,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 52,
+      "name": "Beroepsonderwijs aan Zee",
+      "latitude": 52.940736,
+      "longitude": 4.750936,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 53,
+      "name": "Bonaventura College",
+      "latitude": 52.154911,
+      "longitude": 4.507916,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 54,
+      "name": "Bouw & Infra Alfa College",
+      "latitude": 53.215183,
+      "longitude": 6.53747,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 55,
+      "name": "Bouw- en Inframensen ZHZ",
+      "latitude": 51.786822,
+      "longitude": 4.651102,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 56,
+      "name": "Bouwmensen Rivierengebied",
+      "latitude": 51.875276,
+      "longitude": 5.312111,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 57,
+      "name": "Bouwmensen Zaandam",
+      "latitude": 52.459395,
+      "longitude": 4.816559,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 58,
+      "name": "Business & Administration College",
+      "latitude": 52.072806,
+      "longitude": 5.094903,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 59,
+      "name": "CEC De Binding",
+      "latitude": 52.686692,
+      "longitude": 4.801154,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 60,
+      "name": "CSG Selion",
+      "latitude": 53.21718,
+      "longitude": 6.527877,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 61,
+      "name": "CSW Bestevaer",
+      "latitude": 51.462065,
+      "longitude": 3.579494,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 62,
+      "name": "Campus Winschoten",
+      "latitude": 53.138049,
+      "longitude": 7.039501,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 63,
+      "name": "Carmel College",
+      "latitude": 52.779063,
+      "longitude": 6.926957,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 64,
+      "name": "Carolus Clusius College",
+      "latitude": 52.510688,
+      "longitude": 6.076523,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 65,
+      "name": "Centre for Sports & Education",
+      "latitude": 52.518301,
+      "longitude": 6.119957,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 66,
+      "name": "Cheider",
+      "latitude": 52.326698,
+      "longitude": 4.878707,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 67,
+      "name": "Cibap",
+      "latitude": 52.520682,
+      "longitude": 6.089261,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 68,
+      "name": "Codam Coding College",
+      "latitude": 52.374534,
+      "longitude": 4.915559,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 69,
+      "name": "College Hageveld",
+      "latitude": 52.348174,
+      "longitude": 4.633047,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 70,
+      "name": "Conservatorium van Utrecht",
+      "latitude": 52.089474,
+      "longitude": 5.117218,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 71,
+      "name": "Coornhert Lyceum",
+      "latitude": 52.362569,
+      "longitude": 4.613761,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 72,
+      "name": "Corlaer College",
+      "latitude": 52.211382,
+      "longitude": 5.465399,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 73,
+      "name": "Cornerstone Centre for Intercultural Studies",
+      "latitude": 51.672555,
+      "longitude": 5.942005,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 74,
+      "name": "Curio",
+      "latitude": 51.536351,
+      "longitude": 4.450831,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 75,
+      "name": "Curio De Rotonde",
+      "latitude": 51.572389,
+      "longitude": 4.792596,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 76,
+      "name": "Curio MBO",
+      "latitude": 51.533986,
+      "longitude": 4.471585,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 77,
+      "name": "Curio Techniek en Technologie",
+      "latitude": 51.606254,
+      "longitude": 4.778056,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 78,
+      "name": "Da Vinci College Gorinchem",
+      "latitude": 51.848312,
+      "longitude": 4.966736,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 79,
+      "name": "Da Vinci College Patersweg",
+      "latitude": 51.79777,
+      "longitude": 4.666257,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 80,
+      "name": "Dalton Rotterdam Palmentuin",
+      "latitude": 51.888923,
+      "longitude": 4.548834,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 81,
+      "name": "De Ateliers",
+      "latitude": 52.357685,
+      "longitude": 4.894654,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 82,
+      "name": "De Delta",
+      "latitude": 52.155142,
+      "longitude": 4.476801,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 83,
+      "name": "De Duurzaamheidsfabriek",
+      "latitude": 51.797469,
+      "longitude": 4.679749,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 84,
+      "name": "De Hartenlust",
+      "latitude": 52.402743,
+      "longitude": 4.622125,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 85,
+      "name": "De Polsstok",
+      "latitude": 52.671018,
+      "longitude": 4.826737,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 86,
+      "name": "De Rooi Pannen",
+      "latitude": 51.456399,
+      "longitude": 5.475844,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 87,
+      "name": "De Rooi Pannen",
+      "latitude": 51.569653,
+      "longitude": 5.063602,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 88,
+      "name": "De Spinaker",
+      "latitude": 52.953122,
+      "longitude": 4.75235,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 89,
+      "name": "De Vrije School Den Haag",
+      "latitude": 52.099096,
+      "longitude": 4.30972,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 90,
+      "name": "Deltion College",
+      "latitude": 52.52087,
+      "longitude": 6.082813,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 91,
+      "name": "Den Hulster",
+      "latitude": 51.356177,
+      "longitude": 6.163705,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 92,
+      "name": "Dollard College PRO",
+      "latitude": 53.151461,
+      "longitude": 7.023428,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 93,
+      "name": "Drenthe College",
+      "latitude": 52.69032,
+      "longitude": 6.200888,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 94,
+      "name": "Drenthe College",
+      "latitude": 52.697689,
+      "longitude": 6.194212,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 95,
+      "name": "Drenthe College",
+      "latitude": 52.777645,
+      "longitude": 6.916367,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 96,
+      "name": "Drenthe College",
+      "latitude": 52.96356,
+      "longitude": 6.534736,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 97,
+      "name": "Drenthe College",
+      "latitude": 52.999781,
+      "longitude": 6.569632,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 98,
+      "name": "Drenthe College",
+      "latitude": 53.026016,
+      "longitude": 6.569686,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 99,
+      "name": "Drenthe College (Anna Paulownalaan)",
+      "latitude": 52.778758,
+      "longitude": 6.902281,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 100,
+      "name": "Drenthe College (Atlantis)",
+      "latitude": 52.77665,
+      "longitude": 6.913932,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 101,
+      "name": "Drenthe College (Ubbekingecamp)",
+      "latitude": 52.780773,
+      "longitude": 6.926113,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 102,
+      "name": "Drenthe College (Van Schaikweg 94)",
+      "latitude": 52.778134,
+      "longitude": 6.913162,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 103,
+      "name": "Drone Flight Academy",
+      "latitude": 52.172906,
+      "longitude": 4.416859,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 104,
+      "name": "Dulon College",
+      "latitude": 52.02047,
+      "longitude": 5.662448,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 105,
+      "name": "Educatie en Inburgering",
+      "latitude": 51.57705,
+      "longitude": 5.100026,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 106,
+      "name": "Eerste Christelijk Lyceum (ECL)",
+      "latitude": 52.37525,
+      "longitude": 4.621301,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 107,
+      "name": "Emelwerda College",
+      "latitude": 52.71575,
+      "longitude": 5.74906,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 108,
+      "name": "Erasmiaans Gymnasium",
+      "latitude": 51.912256,
+      "longitude": 4.468167,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 109,
+      "name": "Esdal Vakcollege",
+      "latitude": 52.784813,
+      "longitude": 6.90962,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 110,
+      "name": "Euro College",
+      "latitude": 51.916958,
+      "longitude": 4.47531,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 111,
+      "name": "Evolon",
+      "latitude": 51.945252,
+      "longitude": 6.22719,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 112,
+      "name": "Factorium",
+      "latitude": 51.553581,
+      "longitude": 5.087172,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 113,
+      "name": "Faculteit Communicatie en Journalistiek (HU)",
+      "latitude": 52.081913,
+      "longitude": 5.1761,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 114,
+      "name": "Faculteit Economie & Management (HU)",
+      "latitude": 52.084045,
+      "longitude": 5.170185,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 115,
+      "name": "Faculteit Educatie (HU)",
+      "latitude": 52.084207,
+      "longitude": 5.167561,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 116,
+      "name": "Faculteit Gezondheidszorg (HU)",
+      "latitude": 52.082055,
+      "longitude": 5.175928,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 117,
+      "name": "Fioretti College Hillegom",
+      "latitude": 52.295362,
+      "longitude": 4.577464,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 118,
+      "name": "Fioretti College Lisse",
+      "latitude": 52.263361,
+      "longitude": 4.567495,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 119,
+      "name": "Firda Campus",
+      "latitude": 53.189321,
+      "longitude": 5.783846,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 120,
+      "name": "Firda Espelerlaan",
+      "latitude": 52.7173,
+      "longitude": 5.748903,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 121,
+      "name": "Flair Scholing",
+      "latitude": 52.731921,
+      "longitude": 6.451986,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 122,
+      "name": "Flair Scholing",
+      "latitude": 52.755194,
+      "longitude": 6.874858,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 123,
+      "name": "Flair Scholing",
+      "latitude": 53.233526,
+      "longitude": 6.602429,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 124,
+      "name": "Fontys Hogeschool Automotive Campus",
+      "latitude": 51.47483,
+      "longitude": 5.622904,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 125,
+      "name": "Fotoacademie",
+      "latitude": 52.360921,
+      "longitude": 4.905497,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 126,
+      "name": "G.K. van Hogendorp",
+      "latitude": 51.911506,
+      "longitude": 4.44674,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 127,
+      "name": "Gerrit Rietveld Academie",
+      "latitude": 52.34172,
+      "longitude": 4.85972,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 128,
+      "name": "Gilde Opleidingen",
+      "latitude": 51.35737,
+      "longitude": 6.161325,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 129,
+      "name": "Gilde Opleidingen",
+      "latitude": 51.362433,
+      "longitude": 6.179751,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 130,
+      "name": "Gilde Opleidingen",
+      "latitude": 51.373759,
+      "longitude": 6.18325,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 131,
+      "name": "Gilde Opleidingen",
+      "latitude": 51.525024,
+      "longitude": 6.013836,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 132,
+      "name": "Gilde opleidingen",
+      "latitude": 51.246937,
+      "longitude": 5.713344,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 133,
+      "name": "Gildeopleidingen",
+      "latitude": 51.192411,
+      "longitude": 6.012799,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 134,
+      "name": "Globe College",
+      "latitude": 52.067402,
+      "longitude": 5.095489,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 135,
+      "name": "Graafschap College",
+      "latitude": 51.960724,
+      "longitude": 6.297165,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 136,
+      "name": "Graafschap College",
+      "latitude": 51.969796,
+      "longitude": 6.274619,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 137,
+      "name": "Graafschap College Sector Zorg & Welzijn",
+      "latitude": 51.971947,
+      "longitude": 6.270852,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 138,
+      "name": "Grafisch Lyceum Rotterdam VMBO",
+      "latitude": 51.932323,
+      "longitude": 4.461637,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 139,
+      "name": "Grafisch Lyceum Utrecht",
+      "latitude": 52.077046,
+      "longitude": 5.106418,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 140,
+      "name": "Grafisch Lyceum Utrecht",
+      "latitude": 52.078243,
+      "longitude": 5.116384,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 141,
+      "name": "Groene Hart Leerpark",
+      "latitude": 52.130966,
+      "longitude": 4.652718,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 142,
+      "name": "Groene Hart Lyceum",
+      "latitude": 52.135111,
+      "longitude": 4.658688,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 143,
+      "name": "Groene Hart Praktijkschool",
+      "latitude": 52.132051,
+      "longitude": 4.653467,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 144,
+      "name": "Groene Hart Topmavo",
+      "latitude": 52.135343,
+      "longitude": 4.659655,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 145,
+      "name": "Groenhorst College",
+      "latitude": 52.70889,
+      "longitude": 5.74254,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 146,
+      "name": "HAN Sport en Bewegen",
+      "latitude": 51.818445,
+      "longitude": 5.869591,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 147,
+      "name": "HKU Beeldende Kunst",
+      "latitude": 52.074834,
+      "longitude": 5.121319,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 148,
+      "name": "HKU Theater",
+      "latitude": 52.094259,
+      "longitude": 5.120962,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 149,
+      "name": "Haarlem College",
+      "latitude": 52.369527,
+      "longitude": 4.64929,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 150,
+      "name": "Haarlemmermeer Lyceum Zuidrand",
+      "latitude": 52.299828,
+      "longitude": 4.634242,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 151,
+      "name": "Haarlemmermeer lyceum tweetalig",
+      "latitude": 52.306637,
+      "longitude": 4.644857,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 152,
+      "name": "Haemstede-Barger Mavo (HBM)",
+      "latitude": 52.357135,
+      "longitude": 4.617113,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 153,
+      "name": "Herbert Vissers College",
+      "latitude": 52.272547,
+      "longitude": 4.63139,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 154,
+      "name": "Het Hooghuis - Locatie De Singel",
+      "latitude": 51.760592,
+      "longitude": 5.517233,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 155,
+      "name": "Het Praktijkcollege (HPC) Centrum",
+      "latitude": 51.915642,
+      "longitude": 4.464708,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 156,
+      "name": "Het Praktijkcollege (HPC) Charlois",
+      "latitude": 51.884981,
+      "longitude": 4.46611,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 157,
+      "name": "Het Praktijkcollege (HPC) Zuidwijk",
+      "latitude": 51.875417,
+      "longitude": 4.487906,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 158,
+      "name": "Het Rhedens De Tender",
+      "latitude": 52.044972,
+      "longitude": 6.097914,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 159,
+      "name": "Het Rhedens Dieren",
+      "latitude": 52.041346,
+      "longitude": 6.1019,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 160,
+      "name": "Het Rhedens de Tender",
+      "latitude": 52.04493,
+      "longitude": 6.097913,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 161,
+      "name": "Het Waterland",
+      "latitude": 52.171578,
+      "longitude": 4.487554,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 162,
+      "name": "Hogeschool Arnhem Nijmegen",
+      "latitude": 51.827083,
+      "longitude": 5.864345,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 163,
+      "name": "Hogeschool Inholland",
+      "latitude": 51.906173,
+      "longitude": 4.494728,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 164,
+      "name": "Hogeschool Inholland",
+      "latitude": 51.997216,
+      "longitude": 4.368285,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 165,
+      "name": "Hogeschool Inholland",
+      "latitude": 52.334703,
+      "longitude": 4.865033,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 166,
+      "name": "Hogeschool Rotterdam",
+      "latitude": 51.906217,
+      "longitude": 4.459544,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 167,
+      "name": "Hogeschool Rotterdam, Academieplein",
+      "latitude": 51.910192,
+      "longitude": 4.46273,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 168,
+      "name": "Hogeschool Rotterdam, Kralingse Zoom",
+      "latitude": 51.91523,
+      "longitude": 4.527817,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 169,
+      "name": "Hogeschool Rotterdam, Max Euwelaan",
+      "latitude": 51.91581,
+      "longitude": 4.529559,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 170,
+      "name": "Hogeschool Rotterdam, Museumpark",
+      "latitude": 51.912844,
+      "longitude": 4.468183,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 171,
+      "name": "Hogeschool Rotterdam, Rochussenstraat",
+      "latitude": 51.910975,
+      "longitude": 4.462919,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 172,
+      "name": "Hogeschool Rotterdam, Wijnhaven",
+      "latitude": 51.917257,
+      "longitude": 4.484211,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 173,
+      "name": "Hogeschool Utrecht",
+      "latitude": 52.087208,
+      "longitude": 5.098916,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 174,
+      "name": "Hogeschool Utrecht - Institute for ICT, FEM and FCJ",
+      "latitude": 52.084056,
+      "longitude": 5.175684,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 175,
+      "name": "Hogeschool Utrecht afdeling Maatschappelijke dienstverlening",
+      "latitude": 52.084401,
+      "longitude": 5.173735,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 176,
+      "name": "Hogeschool van Amsterdam",
+      "latitude": 52.33723,
+      "longitude": 4.928597,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 177,
+      "name": "Hogeschool voor de Kunsten Utrecht",
+      "latitude": 52.101853,
+      "longitude": 5.10691,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 178,
+      "name": "Hoofdvaart College",
+      "latitude": 52.307967,
+      "longitude": 4.682406,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 179,
+      "name": "Hoornbeeck College",
+      "latitude": 52.230583,
+      "longitude": 5.969674,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 180,
+      "name": "Hoornbeeck College Gouda",
+      "latitude": 52.017125,
+      "longitude": 4.684356,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 181,
+      "name": "Horeca & Toerisme College ROC Midden Nederland",
+      "latitude": 52.040406,
+      "longitude": 5.098744,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 182,
+      "name": "Hotel Management School Maastricht",
+      "latitude": 50.86843,
+      "longitude": 5.70984,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 183,
+      "name": "Huygens College (locatie Umbriëllaan)",
+      "latitude": 52.670883,
+      "longitude": 4.82645,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 184,
+      "name": "HvA",
+      "latitude": 52.315478,
+      "longitude": 4.947387,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 185,
+      "name": "IVA Driebergen",
+      "latitude": 52.049611,
+      "longitude": 5.287694,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 186,
+      "name": "Ichthus Lyceum",
+      "latitude": 52.443338,
+      "longitude": 4.635808,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 187,
+      "name": "International Academy for Sportscience",
+      "latitude": 51.605958,
+      "longitude": 5.870435,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 188,
+      "name": "International Institute of Social Studies",
+      "latitude": 52.084022,
+      "longitude": 4.303351,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 189,
+      "name": "International School Haarlem (middelbaar)",
+      "latitude": 52.404216,
+      "longitude": 4.635955,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 190,
+      "name": "Jacobus Fruytier",
+      "latitude": 52.312304,
+      "longitude": 6.496782,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 191,
+      "name": "Jacobus Fruytier scholengemeenschap",
+      "latitude": 52.254462,
+      "longitude": 5.778385,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 192,
+      "name": "Johan Cruijff College",
+      "latitude": 51.534198,
+      "longitude": 4.472098,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 193,
+      "name": "Johan de Witt",
+      "latitude": 52.070494,
+      "longitude": 4.308538,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 194,
+      "name": "Junior College",
+      "latitude": 52.891578,
+      "longitude": 4.757665,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 195,
+      "name": "Kairos Tienercollege",
+      "latitude": 52.39043,
+      "longitude": 4.925828,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 196,
+      "name": "Katholieke Scholengemeenschap Hoofddorp (KSH)",
+      "latitude": 52.304409,
+      "longitude": 4.666302,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 197,
+      "name": "Kellebeek College",
+      "latitude": 51.602491,
+      "longitude": 4.788937,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 198,
+      "name": "Kempenhorst College",
+      "latitude": 51.497282,
+      "longitude": 5.314397,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 199,
+      "name": "Kentalis College Arnhem",
+      "latitude": 51.983815,
+      "longitude": 5.945916,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 200,
+      "name": "Kentalis College Utrecht (vastgoed gemeente)",
+      "latitude": 52.069673,
+      "longitude": 5.128201,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 201,
+      "name": "Kentalis College Zwolle",
+      "latitude": 52.511722,
+      "longitude": 6.067699,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 202,
+      "name": "Kentalis Compas College",
+      "latitude": 51.76032,
+      "longitude": 5.517528,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 203,
+      "name": "Kentalis Guyotschool VSO Vries",
+      "latitude": 53.085376,
+      "longitude": 6.580444,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 204,
+      "name": "Kentalis Maatman College",
+      "latitude": 52.233026,
+      "longitude": 6.877606,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 205,
+      "name": "Kentalis Onderwijs Zoetermeer",
+      "latitude": 52.061684,
+      "longitude": 4.465326,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 206,
+      "name": "Kentalis Signis Amsterdam vso voor jongeren met cmb",
+      "latitude": 52.375499,
+      "longitude": 4.829692,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 207,
+      "name": "Koetsier-Montaignehuis",
+      "latitude": 52.360039,
+      "longitude": 4.91175,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 208,
+      "name": "Koning Willem I College",
+      "latitude": 51.683878,
+      "longitude": 5.286687,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 209,
+      "name": "Koning Willem I College",
+      "latitude": 51.687584,
+      "longitude": 5.274291,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 210,
+      "name": "Koning Willem I College",
+      "latitude": 51.690598,
+      "longitude": 5.286196,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 211,
+      "name": "Koning Willem II College",
+      "latitude": 51.541659,
+      "longitude": 5.083561,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 212,
+      "name": "Koninklijke Visio Onderwijs Amsterdam",
+      "latitude": 52.383767,
+      "longitude": 4.827374,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 213,
+      "name": "Koninklijke Visio Onderwijs Grave",
+      "latitude": 51.75554,
+      "longitude": 5.744225,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 214,
+      "name": "KonnecteD",
+      "latitude": 52.251297,
+      "longitude": 6.178619,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 215,
+      "name": "Kunstacademie Foudgumse school",
+      "latitude": 53.34438,
+      "longitude": 5.960705,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 216,
+      "name": "Kunstacademie Friesland",
+      "latitude": 53.21621,
+      "longitude": 5.827118,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 217,
+      "name": "LOC@ mbo",
+      "latitude": 51.821159,
+      "longitude": 4.640951,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 218,
+      "name": "Landstede",
+      "latitude": 52.394583,
+      "longitude": 6.267174,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 219,
+      "name": "Landstede",
+      "latitude": 52.520763,
+      "longitude": 6.121907,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 220,
+      "name": "Landstede Gezond & Wel",
+      "latitude": 52.515144,
+      "longitude": 6.125457,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 221,
+      "name": "Landstede Het Perron",
+      "latitude": 52.533227,
+      "longitude": 5.724274,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 222,
+      "name": "Landstede Kranenburg Veilig & Beschermd",
+      "latitude": 52.335254,
+      "longitude": 5.626822,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 223,
+      "name": "Landstede MBO",
+      "latitude": 52.50392,
+      "longitude": 6.113768,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 224,
+      "name": "Landstede MBO",
+      "latitude": 52.505996,
+      "longitude": 6.105696,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 225,
+      "name": "Landstede MBO",
+      "latitude": 52.517152,
+      "longitude": 6.121872,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 226,
+      "name": "Landstede MBO",
+      "latitude": 52.522475,
+      "longitude": 6.124118,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 227,
+      "name": "Landstede MBO Sport & Bewegen",
+      "latitude": 52.342637,
+      "longitude": 5.627437,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 228,
+      "name": "Lasschool Nieuwegein",
+      "latitude": 52.028265,
+      "longitude": 5.104123,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 229,
+      "name": "Leerpark Arnhem",
+      "latitude": 51.984102,
+      "longitude": 5.945642,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 230,
+      "name": "Leeuwenburg",
+      "latitude": 52.345711,
+      "longitude": 4.916181,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 231,
+      "name": "Leidse Instrumentmakersschool",
+      "latitude": 52.167607,
+      "longitude": 4.457661,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 232,
+      "name": "Lentiz Cursus & Consult",
+      "latitude": 51.993251,
+      "longitude": 4.226242,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 233,
+      "name": "Liemerscollege",
+      "latitude": 51.936032,
+      "longitude": 6.072494,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 234,
+      "name": "Limes",
+      "latitude": 52.195909,
+      "longitude": 4.416558,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 235,
+      "name": "Linie College",
+      "latitude": 52.950574,
+      "longitude": 4.754784,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 236,
+      "name": "Luchtvaart, recreatie & toerisme",
+      "latitude": 52.161335,
+      "longitude": 5.378813,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 237,
+      "name": "Luzac",
+      "latitude": 52.082797,
+      "longitude": 4.306411,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 238,
+      "name": "Lyceum aan Zee",
+      "latitude": 52.940194,
+      "longitude": 4.754794,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 239,
+      "name": "Lyceum voor Beeldende Vormgeving",
+      "latitude": 51.904664,
+      "longitude": 4.456927,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 240,
+      "name": "Lycée français Vincent Van Gogh",
+      "latitude": 52.102245,
+      "longitude": 4.279767,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 241,
+      "name": "MBO Barendrecht",
+      "latitude": 51.854235,
+      "longitude": 4.556363,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 242,
+      "name": "MBO College Almere",
+      "latitude": 52.392437,
+      "longitude": 5.277025,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 243,
+      "name": "MBO College Hilversum",
+      "latitude": 52.215326,
+      "longitude": 5.188116,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 244,
+      "name": "MBO College Lelystad",
+      "latitude": 52.512102,
+      "longitude": 5.477739,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 245,
+      "name": "MBO College Poort",
+      "latitude": 52.342139,
+      "longitude": 5.152785,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 246,
+      "name": "MBO College Zuidoost",
+      "latitude": 52.316281,
+      "longitude": 4.949126,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 247,
+      "name": "MBO Maasland",
+      "latitude": 51.939974,
+      "longitude": 4.276981,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 248,
+      "name": "MBO Middelharnis",
+      "latitude": 51.751571,
+      "longitude": 4.159178,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 249,
+      "name": "MBO Oostland",
+      "latitude": 51.999695,
+      "longitude": 4.539813,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 250,
+      "name": "MBO Rijnland",
+      "latitude": 52.060672,
+      "longitude": 4.50238,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 251,
+      "name": "MBO Rijnland",
+      "latitude": 52.13338,
+      "longitude": 4.657489,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 252,
+      "name": "MBO Rijnland",
+      "latitude": 52.146481,
+      "longitude": 4.49259,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 253,
+      "name": "MBO Rijnland",
+      "latitude": 52.159444,
+      "longitude": 4.464785,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 254,
+      "name": "MBO Rijnland",
+      "latitude": 52.15987,
+      "longitude": 4.460968,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 255,
+      "name": "MBO Rijnland",
+      "latitude": 52.160152,
+      "longitude": 4.487623,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 256,
+      "name": "MBO Techniek & Innovatie",
+      "latitude": 52.341805,
+      "longitude": 5.624039,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 257,
+      "name": "MBO Utrecht",
+      "latitude": 52.064278,
+      "longitude": 5.101192,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 258,
+      "name": "MBO Utrecht",
+      "latitude": 52.125968,
+      "longitude": 5.085213,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 259,
+      "name": "MBO Westland",
+      "latitude": 51.992718,
+      "longitude": 4.225949,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 260,
+      "name": "MBORijnland",
+      "latitude": 52.026971,
+      "longitude": 4.714887,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 261,
+      "name": "MET Praktijkonderwijs Waalwijk",
+      "latitude": 51.673997,
+      "longitude": 5.048712,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 262,
+      "name": "MHBO Academie voor Economie en Ondernemen",
+      "latitude": 52.064521,
+      "longitude": 5.102389,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 263,
+      "name": "MSO",
+      "latitude": 53.199368,
+      "longitude": 6.606692,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 264,
+      "name": "MSO/OBM",
+      "latitude": 53.199492,
+      "longitude": 6.606582,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 265,
+      "name": "Marianum",
+      "latitude": 51.982086,
+      "longitude": 6.571637,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 266,
+      "name": "Maritiem en Logistiek College De Ruyter",
+      "latitude": 51.44492,
+      "longitude": 3.566536,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 267,
+      "name": "Maritieme Academie Harlingen",
+      "latitude": 53.171621,
+      "longitude": 5.43011,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 268,
+      "name": "Marne College",
+      "latitude": 53.067191,
+      "longitude": 5.518975,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 269,
+      "name": "Marnix Academie (Pabo)",
+      "latitude": 52.103595,
+      "longitude": 5.133422,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 270,
+      "name": "Meertens Instituut",
+      "latitude": 52.370578,
+      "longitude": 4.896596,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 271,
+      "name": "Metzo College",
+      "latitude": 51.970892,
+      "longitude": 6.276167,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 272,
+      "name": "Mgr. Frencken College",
+      "latitude": 51.634684,
+      "longitude": 4.858665,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 273,
+      "name": "Mijnschool voor Praktijkonderwijs",
+      "latitude": 52.343887,
+      "longitude": 5.617173,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 274,
+      "name": "Minkema College",
+      "latitude": 52.084567,
+      "longitude": 4.896778,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 275,
+      "name": "Montessori College Aerdenhout",
+      "latitude": 52.359947,
+      "longitude": 4.598804,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 276,
+      "name": "NBCD-School",
+      "latitude": 52.96376,
+      "longitude": 4.799227,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 277,
+      "name": "NCVB Bedrijfsopleidingen",
+      "latitude": 51.573061,
+      "longitude": 5.079072,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 278,
+      "name": "NJMT - Nationaal Jeugd Musical Theater",
+      "latitude": 52.360174,
+      "longitude": 4.856225,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 279,
+      "name": "NOVI Hogeschool",
+      "latitude": 52.090743,
+      "longitude": 5.147327,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 280,
+      "name": "Nederlands Instituut Publieke Veiligheid",
+      "latitude": 52.028631,
+      "longitude": 5.870218,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 281,
+      "name": "Nederlands Wijnbouwcentrum",
+      "latitude": 51.768233,
+      "longitude": 5.934534,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 282,
+      "name": "Nimeto",
+      "latitude": 52.100687,
+      "longitude": 5.141346,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 283,
+      "name": "Noorderpoort",
+      "latitude": 53.109136,
+      "longitude": 6.875592,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 284,
+      "name": "Noorderpoort",
+      "latitude": 53.198046,
+      "longitude": 6.57234,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 285,
+      "name": "Noorderpoort",
+      "latitude": 53.217661,
+      "longitude": 6.555727,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 286,
+      "name": "Noorderpoort",
+      "latitude": 53.218098,
+      "longitude": 6.528161,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 287,
+      "name": "Noorderpoort",
+      "latitude": 53.327317,
+      "longitude": 6.926834,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 288,
+      "name": "Noorderpoort Bornholmstraat",
+      "latitude": 53.210584,
+      "longitude": 6.594828,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 289,
+      "name": "Noorderpoort College",
+      "latitude": 53.209513,
+      "longitude": 6.586115,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 290,
+      "name": "Noorderpoort College Euroborg",
+      "latitude": 53.206409,
+      "longitude": 6.592735,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 291,
+      "name": "Noorderpoort Energy & Maritime",
+      "latitude": 53.32732,
+      "longitude": 6.926833,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 292,
+      "name": "Noorderpoort Fotografieopleiding",
+      "latitude": 53.21152,
+      "longitude": 6.555491,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 293,
+      "name": "Noorderpoort Procestechniek",
+      "latitude": 53.244579,
+      "longitude": 6.5316,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 294,
+      "name": "Noorderpoort Technologie & ICT",
+      "latitude": 53.203454,
+      "longitude": 6.561854,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 295,
+      "name": "Nordwin College",
+      "latitude": 52.961951,
+      "longitude": 5.939454,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 296,
+      "name": "Nova College",
+      "latitude": 52.279759,
+      "longitude": 4.841308,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 297,
+      "name": "Nova College",
+      "latitude": 52.387423,
+      "longitude": 4.617374,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 298,
+      "name": "Nova College",
+      "latitude": 52.392409,
+      "longitude": 4.626518,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 299,
+      "name": "OSG Hugo de Groot",
+      "latitude": 51.887039,
+      "longitude": 4.469629,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 300,
+      "name": "Oost ter Hout",
+      "latitude": 52.367791,
+      "longitude": 4.634919,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 301,
+      "name": "Open Universiteit (Amsterdam)",
+      "latitude": 52.341686,
+      "longitude": 4.857211,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 302,
+      "name": "Open Universiteit Nederland",
+      "latitude": 51.594861,
+      "longitude": 4.783933,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 303,
+      "name": "Opleidinginstituut Zorg & Welzijn",
+      "latitude": 52.334462,
+      "longitude": 4.864871,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 304,
+      "name": "Opleidingscentrum Gelderpoort",
+      "latitude": 52.46468,
+      "longitude": 6.075617,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 305,
+      "name": "Ortho Pedagogisch Didactisch Centrum",
+      "latitude": 52.386666,
+      "longitude": 5.24591,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 306,
+      "name": "Penta College De Eilanden",
+      "latitude": 51.849374,
+      "longitude": 4.312855,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 307,
+      "name": "Pieter Groen College",
+      "latitude": 52.206329,
+      "longitude": 4.427802,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 308,
+      "name": "Politieacademie",
+      "latitude": 51.949817,
+      "longitude": 4.548462,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 309,
+      "name": "Politieacademie Apeldoorn Seminarielaan",
+      "latitude": 52.189544,
+      "longitude": 5.955342,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 310,
+      "name": "Politieacademie Concernlocatie",
+      "latitude": 52.188008,
+      "longitude": 5.958764,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 311,
+      "name": "Politieacademie Eindhoven",
+      "latitude": 51.47429,
+      "longitude": 5.456509,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 312,
+      "name": "Politieacademie Ossendrecht",
+      "latitude": 51.38252,
+      "longitude": 4.362077,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 313,
+      "name": "Pontem College 2",
+      "latitude": 51.82275,
+      "longitude": 5.843829,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 314,
+      "name": "Praktijkschool De Linie",
+      "latitude": 52.302425,
+      "longitude": 4.686735,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 315,
+      "name": "Praktijkschool De Linie (bovenbouw)",
+      "latitude": 52.30131,
+      "longitude": 4.678162,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 316,
+      "name": "Praktijkschool De Pijler",
+      "latitude": 52.937595,
+      "longitude": 4.7548,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 317,
+      "name": "Praktijkschool Hulst",
+      "latitude": 51.283601,
+      "longitude": 4.060825,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 318,
+      "name": "Praktijkschool Uithoorn",
+      "latitude": 52.249569,
+      "longitude": 4.818008,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 319,
+      "name": "Prinsentuin College",
+      "latitude": 51.600247,
+      "longitude": 4.803296,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 320,
+      "name": "Prinsentuin van Cooth",
+      "latitude": 51.580398,
+      "longitude": 4.753618,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 321,
+      "name": "Pro Assen",
+      "latitude": 53.008898,
+      "longitude": 6.551748,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 322,
+      "name": "Pro College",
+      "latitude": 51.830883,
+      "longitude": 5.824394,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 323,
+      "name": "Pro Emmen",
+      "latitude": 52.776744,
+      "longitude": 6.944931,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 324,
+      "name": "Prof Dr Gunningschool",
+      "latitude": 52.407468,
+      "longitude": 4.643276,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 325,
+      "name": "QT Time",
+      "latitude": 52.017483,
+      "longitude": 5.102774,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 326,
+      "name": "RDM Campus",
+      "latitude": 51.898394,
+      "longitude": 4.419572,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 327,
+      "name": "REA College",
+      "latitude": 53.190574,
+      "longitude": 6.546516,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 328,
+      "name": "ROC",
+      "latitude": 51.466739,
+      "longitude": 5.494744,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 329,
+      "name": "ROC A12",
+      "latitude": 52.018544,
+      "longitude": 5.66608,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 330,
+      "name": "ROC A12",
+      "latitude": 52.021702,
+      "longitude": 5.662255,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 331,
+      "name": "ROC Alfa College",
+      "latitude": 52.735574,
+      "longitude": 6.483078,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 332,
+      "name": "ROC Aventus",
+      "latitude": 52.144085,
+      "longitude": 6.192745,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 333,
+      "name": "ROC Aventus",
+      "latitude": 52.253802,
+      "longitude": 6.169548,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 334,
+      "name": "ROC Da Vinci College",
+      "latitude": 51.797861,
+      "longitude": 4.67942,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 335,
+      "name": "ROC Horizon College Purmerend",
+      "latitude": 52.520554,
+      "longitude": 4.963827,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 336,
+      "name": "ROC Midden Nederland",
+      "latitude": 52.078914,
+      "longitude": 5.119002,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 337,
+      "name": "ROC Midden Nederland",
+      "latitude": 52.11954,
+      "longitude": 5.121238,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 338,
+      "name": "ROC Midden Nederland - VAVO Lyceum",
+      "latitude": 52.065198,
+      "longitude": 5.138927,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 339,
+      "name": "ROC Midden Nederland - Veiligheid en Defensie College",
+      "latitude": 52.046036,
+      "longitude": 5.075153,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 340,
+      "name": "ROC Midden Nederland Bouw & Interieur College",
+      "latitude": 52.043887,
+      "longitude": 5.094957,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 341,
+      "name": "ROC Midden Nederland ICT College",
+      "latitude": 52.044319,
+      "longitude": 5.093989,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 342,
+      "name": "ROC Midden Nederland Welzijn College",
+      "latitude": 52.121096,
+      "longitude": 5.117901,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 343,
+      "name": "ROC Mondriaan",
+      "latitude": 51.996054,
+      "longitude": 4.36448,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 344,
+      "name": "ROC Mondriaan",
+      "latitude": 52.023502,
+      "longitude": 4.350015,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 345,
+      "name": "ROC Mondriaan",
+      "latitude": 52.044354,
+      "longitude": 4.250116,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 346,
+      "name": "ROC Mondriaan",
+      "latitude": 52.053184,
+      "longitude": 4.26814,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 347,
+      "name": "ROC Mondriaan",
+      "latitude": 52.056391,
+      "longitude": 4.288616,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 348,
+      "name": "ROC Mondriaan",
+      "latitude": 52.06382,
+      "longitude": 4.40006,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 349,
+      "name": "ROC Mondriaan",
+      "latitude": 52.066671,
+      "longitude": 4.320011,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 350,
+      "name": "ROC Mondriaan",
+      "latitude": 52.067716,
+      "longitude": 4.31986,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 351,
+      "name": "ROC Mondriaan",
+      "latitude": 52.069889,
+      "longitude": 4.390548,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 352,
+      "name": "ROC Mondriaan",
+      "latitude": 52.073032,
+      "longitude": 4.306193,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 353,
+      "name": "ROC Mondriaan",
+      "latitude": 52.083783,
+      "longitude": 4.329835,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 354,
+      "name": "ROC Mondriaan",
+      "latitude": 52.085154,
+      "longitude": 4.332187,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 355,
+      "name": "ROC Mondriaan",
+      "latitude": 52.085901,
+      "longitude": 4.334124,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 356,
+      "name": "ROC Mondriaan",
+      "latitude": 52.086597,
+      "longitude": 4.333875,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 357,
+      "name": "ROC Mondriaan",
+      "latitude": 52.16102,
+      "longitude": 4.472901,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 358,
+      "name": "ROC Nijmegen",
+      "latitude": 51.843501,
+      "longitude": 5.825744,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 359,
+      "name": "ROC Nijmegen Locatie Marterstraat",
+      "latitude": 51.828522,
+      "longitude": 5.852019,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 360,
+      "name": "ROC Rijn IJssel",
+      "latitude": 51.996194,
+      "longitude": 5.891359,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 361,
+      "name": "ROC Rijn IJssel (administratie & ondernemerschap)",
+      "latitude": 51.983617,
+      "longitude": 5.956779,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 362,
+      "name": "ROC Rivor",
+      "latitude": 51.886155,
+      "longitude": 5.413304,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 363,
+      "name": "ROC Rivor",
+      "latitude": 51.890304,
+      "longitude": 5.43162,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 364,
+      "name": "ROC Scalda",
+      "latitude": 51.480044,
+      "longitude": 3.634501,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 365,
+      "name": "ROC van Flevoland",
+      "latitude": 52.392554,
+      "longitude": 5.278376,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 366,
+      "name": "ROC van Twente",
+      "latitude": 52.154934,
+      "longitude": 6.745669,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 367,
+      "name": "ROC van Twente",
+      "latitude": 52.23686,
+      "longitude": 6.838506,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 368,
+      "name": "ROC van Twente",
+      "latitude": 52.341785,
+      "longitude": 6.640269,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 369,
+      "name": "ROC van Twente",
+      "latitude": 52.357334,
+      "longitude": 6.466233,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 370,
+      "name": "ROC van Twente",
+      "latitude": 52.576014,
+      "longitude": 6.624129,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 371,
+      "name": "ROC van Twente locatie Wethouder Beversstraat",
+      "latitude": 52.20711,
+      "longitude": 6.887888,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 372,
+      "name": "ROCvA MBO College Airport",
+      "latitude": 52.294227,
+      "longitude": 4.683482,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 373,
+      "name": "Railcenter",
+      "latitude": 52.156453,
+      "longitude": 5.365959,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 374,
+      "name": "Regina Coeli Taleninstituut",
+      "latitude": 51.651255,
+      "longitude": 5.27844,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 375,
+      "name": "Regius College",
+      "latitude": 52.783346,
+      "longitude": 4.796175,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 376,
+      "name": "Regius College",
+      "latitude": 52.784285,
+      "longitude": 4.794406,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 377,
+      "name": "Rijn IJssel",
+      "latitude": 51.986796,
+      "longitude": 5.742192,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 378,
+      "name": "Rijn IJssel CIOS",
+      "latitude": 52.004311,
+      "longitude": 5.929072,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 379,
+      "name": "Rijn IJssel Vakschool Wageningen",
+      "latitude": 51.969282,
+      "longitude": 5.654472,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 380,
+      "name": "Rijn IJssel – ENKA-campus",
+      "latitude": 51.987408,
+      "longitude": 5.931037,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 381,
+      "name": "RijnIJssel Retail Leerlab",
+      "latitude": 51.982795,
+      "longitude": 5.909554,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 382,
+      "name": "Rijnlands Lyceum Sassenheim",
+      "latitude": 52.217913,
+      "longitude": 4.516338,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 383,
+      "name": "Rijnlands Lyceum Wassenaar",
+      "latitude": 52.132429,
+      "longitude": 4.389346,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 384,
+      "name": "Roelof van Echten",
+      "latitude": 52.736227,
+      "longitude": 6.481295,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 385,
+      "name": "Rubinstein-Akademie",
+      "latitude": 50.768726,
+      "longitude": 6.025086,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 386,
+      "name": "SAE Institute Amsterdam",
+      "latitude": 52.385339,
+      "longitude": 4.928839,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 387,
+      "name": "SIDH (Sekolah Indonesia Den Haag)",
+      "latitude": 52.114127,
+      "longitude": 4.374126,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 388,
+      "name": "SKVR",
+      "latitude": 51.921604,
+      "longitude": 4.477123,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 389,
+      "name": "SMEOT",
+      "latitude": 52.263722,
+      "longitude": 6.816626,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 390,
+      "name": "SOMA Bedrijfsopleidingen",
+      "latitude": 52.333271,
+      "longitude": 5.646099,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 391,
+      "name": "SOMA College - Vakopleiding voor de Infra",
+      "latitude": 52.333616,
+      "longitude": 5.645461,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 392,
+      "name": "SVO vakopleiding",
+      "latitude": 52.526904,
+      "longitude": 6.105609,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 393,
+      "name": "SVPO Hurdegaryp",
+      "latitude": 53.217599,
+      "longitude": 5.93155,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 394,
+      "name": "Savantis",
+      "latitude": 52.039134,
+      "longitude": 4.645882,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 395,
+      "name": "Saxion: Edith Stein",
+      "latitude": 52.220098,
+      "longitude": 6.888675,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 396,
+      "name": "Saxion: Epy Drost",
+      "latitude": 52.219598,
+      "longitude": 6.889411,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 397,
+      "name": "Scala College - Onderbouwhuis",
+      "latitude": 52.138995,
+      "longitude": 4.671906,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 398,
+      "name": "Scala College - VMBO en Havo",
+      "latitude": 52.142643,
+      "longitude": 4.678447,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 399,
+      "name": "Scala College - VWO",
+      "latitude": 52.128158,
+      "longitude": 4.655158,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 400,
+      "name": "Scalda",
+      "latitude": 51.287157,
+      "longitude": 4.066441,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 401,
+      "name": "Scalda",
+      "latitude": 51.310254,
+      "longitude": 3.85761,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 402,
+      "name": "Scalda",
+      "latitude": 51.448717,
+      "longitude": 3.570511,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 403,
+      "name": "Scalda",
+      "latitude": 51.451502,
+      "longitude": 3.589487,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 404,
+      "name": "Scalda",
+      "latitude": 51.495859,
+      "longitude": 3.894048,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 405,
+      "name": "Scalda",
+      "latitude": 51.53223,
+      "longitude": 4.205257,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 406,
+      "name": "Scalda Groen College",
+      "latitude": 51.496665,
+      "longitude": 3.891099,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 407,
+      "name": "Scheepvaart- en Transportcollege",
+      "latitude": 51.901795,
+      "longitude": 4.461197,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 408,
+      "name": "Scheldemond College",
+      "latitude": 51.46345,
+      "longitude": 3.580652,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 409,
+      "name": "School voor Autotechniek en Mobiliteit",
+      "latitude": 52.043898,
+      "longitude": 4.249311,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 410,
+      "name": "School voor Orde en Veiligheid",
+      "latitude": 51.57705,
+      "longitude": 5.100801,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 411,
+      "name": "Schoonhovens College",
+      "latitude": 51.95145,
+      "longitude": 4.844897,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 412,
+      "name": "Simon van Hasselt",
+      "latitude": 53.218739,
+      "longitude": 6.528382,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 413,
+      "name": "Sint Lucas",
+      "latitude": 51.586472,
+      "longitude": 5.32648,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 414,
+      "name": "Sint-Maartenscollege",
+      "latitude": 50.850448,
+      "longitude": 5.708187,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 415,
+      "name": "Spaarne College",
+      "latitude": 52.395087,
+      "longitude": 4.624696,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 416,
+      "name": "StartCollege VAVO",
+      "latitude": 52.340247,
+      "longitude": 5.618191,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 417,
+      "name": "Stedelijk Gymnasium",
+      "latitude": 51.690547,
+      "longitude": 5.289226,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 418,
+      "name": "Stedelijk Gymnasium (Athena)",
+      "latitude": 52.152508,
+      "longitude": 4.50607,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 419,
+      "name": "Stedelijk Gymnasium Haarlem",
+      "latitude": 52.381186,
+      "longitude": 4.633509,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 420,
+      "name": "Stedelijk Gymnasium Haarlem",
+      "latitude": 52.381743,
+      "longitude": 4.633702,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 421,
+      "name": "Stedelijk Gymnasium Nijmegen",
+      "latitude": 51.846892,
+      "longitude": 5.855398,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 422,
+      "name": "Stedelijk Lyceum Zwering",
+      "latitude": 52.211254,
+      "longitude": 6.859178,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 423,
+      "name": "Stella Maris College",
+      "latitude": 50.873521,
+      "longitude": 5.825946,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 424,
+      "name": "Summa Automotive",
+      "latitude": 51.420421,
+      "longitude": 5.432164,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 425,
+      "name": "Summa Business",
+      "latitude": 51.474541,
+      "longitude": 5.446136,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 426,
+      "name": "Summa College",
+      "latitude": 51.435149,
+      "longitude": 5.46254,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 427,
+      "name": "Summa College",
+      "latitude": 51.466491,
+      "longitude": 5.495439,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 428,
+      "name": "Summa College",
+      "latitude": 51.466599,
+      "longitude": 5.496397,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 429,
+      "name": "Summa College Automotive",
+      "latitude": 51.474752,
+      "longitude": 5.622051,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 430,
+      "name": "Summa Sport",
+      "latitude": 51.478006,
+      "longitude": 5.454987,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 431,
+      "name": "THIM Hogeschool",
+      "latitude": 52.035843,
+      "longitude": 5.108301,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 432,
+      "name": "Talland College",
+      "latitude": 52.670529,
+      "longitude": 4.827865,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 433,
+      "name": "Talland College Alkmaar",
+      "latitude": 52.640079,
+      "longitude": 4.743138,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 434,
+      "name": "Talland College Jufferstraat",
+      "latitude": 52.459403,
+      "longitude": 4.815998,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 435,
+      "name": "Tata Training Center",
+      "latitude": 52.475882,
+      "longitude": 4.633832,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 436,
+      "name": "Techniek College Rotterdam",
+      "latitude": 51.884581,
+      "longitude": 4.495893,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 437,
+      "name": "Technova College",
+      "latitude": 52.021756,
+      "longitude": 5.661971,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 438,
+      "name": "Tender College",
+      "latitude": 52.452444,
+      "longitude": 4.601073,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 439,
+      "name": "Ter AA",
+      "latitude": 51.447709,
+      "longitude": 5.632023,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 440,
+      "name": "Ter AA",
+      "latitude": 51.451905,
+      "longitude": 5.805411,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 441,
+      "name": "Ter AA",
+      "latitude": 51.477243,
+      "longitude": 5.627676,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 442,
+      "name": "Ter AA",
+      "latitude": 51.477289,
+      "longitude": 5.625072,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 443,
+      "name": "Ter AA",
+      "latitude": 51.486377,
+      "longitude": 5.658009,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 444,
+      "name": "Ter AA",
+      "latitude": 51.493728,
+      "longitude": 5.669251,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 445,
+      "name": "Terra Assen",
+      "latitude": 52.989255,
+      "longitude": 6.58292,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 446,
+      "name": "Terra MBO",
+      "latitude": 53.202723,
+      "longitude": 6.573595,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 447,
+      "name": "Terra MBO Meppel",
+      "latitude": 52.682502,
+      "longitude": 6.191572,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 448,
+      "name": "Terra VO Oldekerk",
+      "latitude": 53.218175,
+      "longitude": 6.341184,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 449,
+      "name": "Terra Vo Wolvega",
+      "latitude": 52.869685,
+      "longitude": 5.987667,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 450,
+      "name": "TerraNext",
+      "latitude": 53.139785,
+      "longitude": 6.569615,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 451,
+      "name": "Teylingen College KTS",
+      "latitude": 52.220228,
+      "longitude": 4.475758,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 452,
+      "name": "The International Butler Academy",
+      "latitude": 50.833688,
+      "longitude": 5.993969,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 453,
+      "name": "Theater Babel Rotterdam",
+      "latitude": 51.914842,
+      "longitude": 4.476356,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 454,
+      "name": "Thorbecke SG",
+      "latitude": 52.500951,
+      "longitude": 6.115672,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 455,
+      "name": "Thorbecke locatie VMBO-pro",
+      "latitude": 52.51214,
+      "longitude": 6.06865,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 456,
+      "name": "Tio",
+      "latitude": 52.260573,
+      "longitude": 6.782601,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 457,
+      "name": "Trinitas College - Johannes Bosco",
+      "latitude": 52.674851,
+      "longitude": 4.836203,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 458,
+      "name": "Tyndale Theological Seminary",
+      "latitude": 52.332275,
+      "longitude": 4.793428,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 459,
+      "name": "Uiterlijke Verzorging",
+      "latitude": 52.161214,
+      "longitude": 5.378638,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 460,
+      "name": "Universiteit voor Humanistiek",
+      "latitude": 52.091795,
+      "longitude": 5.125644,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 461,
+      "name": "Utrechtse ZorgAcademie & Academie voor Welzijn",
+      "latitude": 52.064238,
+      "longitude": 5.101579,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 462,
+      "name": "VAVO Lyceum van Twente",
+      "latitude": 52.220312,
+      "longitude": 6.88904,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 463,
+      "name": "VISTA College Campus Valkenburgerweg",
+      "latitude": 50.87977,
+      "longitude": 5.957045,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 464,
+      "name": "VISTA College Schandelermolenweg",
+      "latitude": 50.894569,
+      "longitude": 5.98558,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 465,
+      "name": "VMBO Melanchthon Mathenesse",
+      "latitude": 51.917651,
+      "longitude": 4.427234,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 466,
+      "name": "Vakcollege Maarsbergen",
+      "latitude": 52.038945,
+      "longitude": 5.418165,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 467,
+      "name": "Vakcollege Noordoostpolder",
+      "latitude": 52.715256,
+      "longitude": 5.748309,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 468,
+      "name": "Vakcollege Rijnmond",
+      "latitude": 52.195754,
+      "longitude": 4.417415,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 469,
+      "name": "Vakcollege Thamen",
+      "latitude": 52.243302,
+      "longitude": 4.819152,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 470,
+      "name": "Vakcollege de Hef",
+      "latitude": 51.897521,
+      "longitude": 4.503439,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 471,
+      "name": "Veiligheidscentrum Zeeland",
+      "latitude": 51.444136,
+      "longitude": 3.602741,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 472,
+      "name": "VierTaal College Amsterdam",
+      "latitude": 52.383959,
+      "longitude": 4.827776,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 473,
+      "name": "VierTaal College Schagen",
+      "latitude": 52.78705,
+      "longitude": 4.8093,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 474,
+      "name": "Villa Serphos",
+      "latitude": 52.22024,
+      "longitude": 6.888553,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 475,
+      "name": "Visio Onderwijs Haren",
+      "latitude": 53.164533,
+      "longitude": 6.612238,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 476,
+      "name": "Visser 't Hooft",
+      "latitude": 52.193402,
+      "longitude": 4.444766,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 477,
+      "name": "Vlietland College",
+      "latitude": 52.138748,
+      "longitude": 4.474009,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 478,
+      "name": "Volksuniversiteit Utrecht",
+      "latitude": 52.088508,
+      "longitude": 5.124401,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 479,
+      "name": "Vonk",
+      "latitude": 52.673074,
+      "longitude": 4.833014,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 480,
+      "name": "Vonk",
+      "latitude": 52.952047,
+      "longitude": 4.75274,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 481,
+      "name": "Vonk (ROC Kop van Noord-Holland)",
+      "latitude": 52.952445,
+      "longitude": 4.76321,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 482,
+      "name": "Vonk - ROC Kop van Noord-Holland",
+      "latitude": 52.932809,
+      "longitude": 4.75072,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 483,
+      "name": "Wellantcollege Gouda MBO",
+      "latitude": 52.019291,
+      "longitude": 4.702917,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 484,
+      "name": "Willem de Zwijger College",
+      "latitude": 51.832896,
+      "longitude": 4.683807,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 485,
+      "name": "Wim Gertenbach College",
+      "latitude": 52.368613,
+      "longitude": 4.543298,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 486,
+      "name": "Windesheim",
+      "latitude": 52.371506,
+      "longitude": 5.218999,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 487,
+      "name": "Wittenborg",
+      "latitude": 52.211008,
+      "longitude": 5.959674,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 488,
+      "name": "World Music and Dance Centre",
+      "latitude": 51.906664,
+      "longitude": 4.459345,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 489,
+      "name": "X11",
+      "latitude": 52.079017,
+      "longitude": 5.097522,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 490,
+      "name": "X11 Media en Vormgeving",
+      "latitude": 52.077538,
+      "longitude": 5.117375,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 491,
+      "name": "Yonder",
+      "latitude": 51.539982,
+      "longitude": 5.075182,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 492,
+      "name": "Yonder",
+      "latitude": 51.540006,
+      "longitude": 5.078246,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 493,
+      "name": "Yonder",
+      "latitude": 51.553984,
+      "longitude": 5.054803,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 494,
+      "name": "Yonder",
+      "latitude": 51.55846,
+      "longitude": 5.058821,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 495,
+      "name": "Yonder",
+      "latitude": 51.55919,
+      "longitude": 5.06209,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 496,
+      "name": "Yonder",
+      "latitude": 51.565866,
+      "longitude": 5.060224,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 497,
+      "name": "Yonder",
+      "latitude": 51.572095,
+      "longitude": 5.078695,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 498,
+      "name": "Yonder",
+      "latitude": 51.577219,
+      "longitude": 5.100329,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 499,
+      "name": "Yuverta",
+      "latitude": 52.040876,
+      "longitude": 5.160542,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 500,
+      "name": "Yuverta MBO Boxtel",
+      "latitude": 51.584885,
+      "longitude": 5.309504,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 501,
+      "name": "Yuverta MBO Den Bosch",
+      "latitude": 51.686034,
+      "longitude": 5.283446,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 502,
+      "name": "Yuverta MBO Dordrecht",
+      "latitude": 51.805448,
+      "longitude": 4.703576,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 503,
+      "name": "Yuverta MBO Geldermalsen",
+      "latitude": 51.878524,
+      "longitude": 5.271138,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 504,
+      "name": "Yuverta MBO Gorinchem",
+      "latitude": 51.848218,
+      "longitude": 4.967549,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 505,
+      "name": "Yuverta chr. vmbo Rijnsburg",
+      "latitude": 52.189937,
+      "longitude": 4.433869,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 506,
+      "name": "Yuverta mbo",
+      "latitude": 52.261459,
+      "longitude": 4.764851,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 507,
+      "name": "Yuverta mbo Amsterdam",
+      "latitude": 52.350072,
+      "longitude": 4.795154,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 508,
+      "name": "Yuverta mbo Rijswijk",
+      "latitude": 52.046487,
+      "longitude": 4.314615,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 509,
+      "name": "Yuverta vmbo en mbo Houten",
+      "latitude": 52.039337,
+      "longitude": 5.162502,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 510,
+      "name": "Zadkine",
+      "latitude": 51.950752,
+      "longitude": 4.551148,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 511,
+      "name": "Zadkine Vakschool Schoonhoven",
+      "latitude": 51.95054,
+      "longitude": 4.846601,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 512,
+      "name": "Zadkine college",
+      "latitude": 51.952358,
+      "longitude": 4.553514,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 513,
+      "name": "Zone College (AOC Oost)",
+      "latitude": 51.953069,
+      "longitude": 6.301784,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 514,
+      "name": "Zone.college",
+      "latitude": 52.253284,
+      "longitude": 6.168871,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 515,
+      "name": "Zuyd Hogeschool",
+      "latitude": 50.854144,
+      "longitude": 5.672133,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 516,
+      "name": "Zuyderzee College",
+      "latitude": 52.704244,
+      "longitude": 5.755226,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 517,
+      "name": "mboRijnland",
+      "latitude": 52.093978,
+      "longitude": 4.392208,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 518,
+      "name": "mboRijnland Bouwacademie",
+      "latitude": 52.036654,
+      "longitude": 4.650871,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 519,
+      "name": "mboRijnland Leiden Zernikedreef",
+      "latitude": 52.166999,
+      "longitude": 4.47191,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 520,
+      "name": "mboRijnland Woerden",
+      "latitude": 52.079699,
+      "longitude": 4.894395,
+      "osm_klasse": "amenity=college"
+    },
+    {
+      "id": 521,
+      "name": "vellesan-college",
+      "latitude": 52.44521,
+      "longitude": 4.634955,
+      "osm_klasse": "amenity=college"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: college (amenity=college) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged amenity=college in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 521 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: college (amenity=college) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: college (amenity=college) — 521 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 521 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

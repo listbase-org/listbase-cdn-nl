@@ -1,0 +1,4587 @@
+{
+  "id": "nl-osm-office-government",
+  "name": "Netherlands OSM: government (office=government)",
+  "title": "Netherlands OSM: government (office=government)",
+  "description": "Named OpenStreetMap features tagged office=government in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 648,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "43 Geneeskundige Compagnie",
+      "latitude": 52.794242,
+      "longitude": 6.20372,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 2,
+      "name": "AFAC",
+      "latitude": 52.505761,
+      "longitude": 6.093894,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 3,
+      "name": "Aanmeldcentrum Immigratie- en naturalisatiedienst",
+      "latitude": 51.923746,
+      "longitude": 6.065771,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 4,
+      "name": "Aanmeldcentrum Ter Apel",
+      "latitude": 52.885563,
+      "longitude": 7.036424,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 5,
+      "name": "Administratiekantoor Adbeco",
+      "latitude": 52.381657,
+      "longitude": 5.197581,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 6,
+      "name": "Afdeling Archeologie & Natuur- En Milieu-educatie, Dienst Stadsbeheer, Gemeente Den Haag",
+      "latitude": 52.082228,
+      "longitude": 4.293798,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 7,
+      "name": "Afdeling Online",
+      "latitude": 51.47555,
+      "longitude": 5.645311,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 8,
+      "name": "Afdeling Werk en Inkomen",
+      "latitude": 52.075257,
+      "longitude": 4.361245,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 9,
+      "name": "Afvalinzameling",
+      "latitude": 52.035079,
+      "longitude": 4.505232,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 10,
+      "name": "Afvalscheidingsstation De Stits",
+      "latitude": 52.090739,
+      "longitude": 5.00311,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 11,
+      "name": "Agentschap Maritieme Dienstverlening en Kust",
+      "latitude": 51.444302,
+      "longitude": 3.593514,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 12,
+      "name": "Airport Coordination Netherlands",
+      "latitude": 52.306063,
+      "longitude": 4.752992,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 13,
+      "name": "Algemene Inlichtingen- en Veiligheidsdienst",
+      "latitude": 52.063202,
+      "longitude": 4.488014,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 14,
+      "name": "Algemene Rekenkamer",
+      "latitude": 52.082059,
+      "longitude": 4.310264,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 15,
+      "name": "Alro Heerlen",
+      "latitude": 50.847264,
+      "longitude": 6.00943,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 16,
+      "name": "Ambtshuis",
+      "latitude": 51.919377,
+      "longitude": 5.849653,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 17,
+      "name": "Amicaal",
+      "latitude": 52.204605,
+      "longitude": 5.94921,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 18,
+      "name": "Asielzoekerscentrum (locatie infobalie)",
+      "latitude": 52.08368,
+      "longitude": 5.083683,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 19,
+      "name": "Autoriteit Consument & Markt",
+      "latitude": 52.080628,
+      "longitude": 4.320662,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 20,
+      "name": "Autoriteit Financiële Markten",
+      "latitude": 52.360356,
+      "longitude": 4.890652,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 21,
+      "name": "Autoriteit Persoonsgegevens",
+      "latitude": 52.081464,
+      "longitude": 4.310813,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 22,
+      "name": "Bedrijfsgebouw gemeente Beverwijk",
+      "latitude": 52.483258,
+      "longitude": 4.667431,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 23,
+      "name": "Beheerscommissie Goede Rede",
+      "latitude": 52.335941,
+      "longitude": 5.220875,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 24,
+      "name": "Beheerskantoor Staatsbosbeheer & Natuurmonumenten Maashorst",
+      "latitude": 51.7292,
+      "longitude": 5.581206,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 25,
+      "name": "Belastingdienst",
+      "latitude": 50.852217,
+      "longitude": 5.661394,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 26,
+      "name": "Belastingdienst",
+      "latitude": 51.907505,
+      "longitude": 4.494119,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 27,
+      "name": "Belastingdienst",
+      "latitude": 52.079347,
+      "longitude": 4.336015,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 28,
+      "name": "Belastingdienst",
+      "latitude": 52.210024,
+      "longitude": 5.969976,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 29,
+      "name": "Belastingdienst",
+      "latitude": 52.223377,
+      "longitude": 6.888702,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 30,
+      "name": "Belastingdienst",
+      "latitude": 52.261727,
+      "longitude": 6.802104,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 31,
+      "name": "Belastingdienst",
+      "latitude": 52.293011,
+      "longitude": 4.706074,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 32,
+      "name": "Belastingdienst",
+      "latitude": 52.357536,
+      "longitude": 6.656442,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 33,
+      "name": "Belastingdienst",
+      "latitude": 52.377189,
+      "longitude": 5.214393,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 34,
+      "name": "Belastingdienst",
+      "latitude": 52.387172,
+      "longitude": 4.843212,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 35,
+      "name": "Belastingdienst",
+      "latitude": 53.206112,
+      "longitude": 6.57925,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 36,
+      "name": "Belastingdienst (Kantoor Doetinchem)",
+      "latitude": 51.957663,
+      "longitude": 6.294566,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 37,
+      "name": "Belastingdienst Hoorn",
+      "latitude": 52.654244,
+      "longitude": 5.065255,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 38,
+      "name": "Belastingdienst Quintax Locatie",
+      "latitude": 52.177906,
+      "longitude": 5.960555,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 39,
+      "name": "Belastingdienst Toeslagen",
+      "latitude": 52.07856,
+      "longitude": 4.340019,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 40,
+      "name": "Belastingdienst Zwolle",
+      "latitude": 52.516776,
+      "longitude": 6.098793,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 41,
+      "name": "Benelux Office for Intellectual Property",
+      "latitude": 52.090085,
+      "longitude": 4.364661,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 42,
+      "name": "Bevolkingsonderzoek Zuid-West",
+      "latitude": 52.075542,
+      "longitude": 4.307168,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 43,
+      "name": "Bij12",
+      "latitude": 52.093083,
+      "longitude": 5.108901,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 44,
+      "name": "Blauwe huis (kantoor)",
+      "latitude": 52.070253,
+      "longitude": 5.105707,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 45,
+      "name": "Bo-Ex",
+      "latitude": 52.070276,
+      "longitude": 5.094114,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 46,
+      "name": "Brabant Bereikbaar",
+      "latitude": 51.58095,
+      "longitude": 5.187079,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 47,
+      "name": "Buitendienst Ommen",
+      "latitude": 52.526305,
+      "longitude": 6.425026,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 48,
+      "name": "Buitensport Gemeente Den Haag",
+      "latitude": 52.045433,
+      "longitude": 4.252418,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 49,
+      "name": "Bureau Integriteit Amersfoort",
+      "latitude": 52.171028,
+      "longitude": 5.421306,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 50,
+      "name": "Bureau Jeugdzorg Flevoland",
+      "latitude": 52.377299,
+      "longitude": 5.242175,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 51,
+      "name": "Buurt Service Team",
+      "latitude": 52.074368,
+      "longitude": 4.310139,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 52,
+      "name": "Buurtcentrum De Wieken",
+      "latitude": 52.39722,
+      "longitude": 5.274824,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 53,
+      "name": "Buurtteam Bijlmer-Oost",
+      "latitude": 52.314912,
+      "longitude": 4.974629,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 54,
+      "name": "Buurtteam Dichters- en Rivierenwijk (vastgoed gemeente)",
+      "latitude": 52.076334,
+      "longitude": 5.115267,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 55,
+      "name": "Buurtteam Lunetten",
+      "latitude": 52.064281,
+      "longitude": 5.135655,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 56,
+      "name": "Buurtteam Oost",
+      "latitude": 52.095324,
+      "longitude": 5.133839,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 57,
+      "name": "Buurtteam Overvecht Centrum",
+      "latitude": 52.115192,
+      "longitude": 5.110486,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 58,
+      "name": "Buurtteam Overvecht Kaap Hoorndreef",
+      "latitude": 52.11516,
+      "longitude": 5.106619,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 59,
+      "name": "Buurtteam Vleuten",
+      "latitude": 52.106424,
+      "longitude": 5.013643,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 60,
+      "name": "Buurtteam West",
+      "latitude": 52.090186,
+      "longitude": 5.095456,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 61,
+      "name": "CBR",
+      "latitude": 51.850526,
+      "longitude": 4.308975,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 62,
+      "name": "CBR",
+      "latitude": 52.145315,
+      "longitude": 5.417534,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 63,
+      "name": "CBR",
+      "latitude": 52.988582,
+      "longitude": 6.569042,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 64,
+      "name": "CBR",
+      "latitude": 53.206345,
+      "longitude": 5.761179,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 65,
+      "name": "CBR",
+      "latitude": 53.215704,
+      "longitude": 6.536973,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 66,
+      "name": "CBR Eindhoven",
+      "latitude": 51.423178,
+      "longitude": 5.42969,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 67,
+      "name": "CBR Examencentrum",
+      "latitude": 51.949948,
+      "longitude": 5.884438,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 68,
+      "name": "CBR Examencentrum",
+      "latitude": 52.242262,
+      "longitude": 6.193807,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 69,
+      "name": "CBR Examencentrum Dordrecht",
+      "latitude": 51.796317,
+      "longitude": 4.71574,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 70,
+      "name": "CIBG",
+      "latitude": 52.080588,
+      "longitude": 4.321692,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 71,
+      "name": "COA Regiokantoor Noord",
+      "latitude": 52.883659,
+      "longitude": 7.03083,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 72,
+      "name": "Caparis",
+      "latitude": 53.10919,
+      "longitude": 6.134164,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 73,
+      "name": "Centraal Bureau Rijvaardigheidsbewijzen",
+      "latitude": 51.822826,
+      "longitude": 5.782604,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 74,
+      "name": "Centraal Bureau Rijvaardigheidsbewijzen",
+      "latitude": 52.123323,
+      "longitude": 5.086578,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 75,
+      "name": "Centraal Bureau Rijvaardigheidsbewijzen",
+      "latitude": 52.193678,
+      "longitude": 4.735202,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 76,
+      "name": "Centraal Bureau voor de Statistiek",
+      "latitude": 52.065926,
+      "longitude": 4.40042,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 77,
+      "name": "Centraal Bureau voor de Statistiek (CBS)",
+      "latitude": 50.893472,
+      "longitude": 5.967903,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 78,
+      "name": "Centraal Justitieel Incassobureau",
+      "latitude": 53.19929,
+      "longitude": 5.775631,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 79,
+      "name": "Centraal Orgaan opvang asielzoekers",
+      "latitude": 52.08012,
+      "longitude": 4.323212,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 80,
+      "name": "Centraal Planbureau",
+      "latitude": 52.085137,
+      "longitude": 4.328025,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 81,
+      "name": "Centraal Tuchtcollege voor de Gezondheidszorg",
+      "latitude": 52.081959,
+      "longitude": 4.330054,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 82,
+      "name": "Centrale Meldpost IJsselmeergebied",
+      "latitude": 52.527003,
+      "longitude": 5.434323,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 83,
+      "name": "Centrum Jeugd & Gezin Centrum",
+      "latitude": 52.074465,
+      "longitude": 4.310738,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 84,
+      "name": "Centrum Jeugd en Gezin",
+      "latitude": 52.118338,
+      "longitude": 4.495808,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 85,
+      "name": "Centrum Jeugd en Gezin Scheveningen",
+      "latitude": 52.081309,
+      "longitude": 4.264307,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 86,
+      "name": "Centrum voor Jeugd & Gezin",
+      "latitude": 52.241961,
+      "longitude": 4.446918,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 87,
+      "name": "Centrum voor Maatschappelijke Deelneming",
+      "latitude": 51.438945,
+      "longitude": 5.619378,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 88,
+      "name": "Coa",
+      "latitude": 52.033933,
+      "longitude": 4.314543,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 89,
+      "name": "CollectieCentrum Nederland",
+      "latitude": 52.19322,
+      "longitude": 5.438059,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 90,
+      "name": "Compagniehuis",
+      "latitude": 52.726524,
+      "longitude": 6.475985,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 91,
+      "name": "DJI Dienst Vervoer en Ondersteuning Locatie Zoetermeer",
+      "latitude": 52.034715,
+      "longitude": 4.500807,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 92,
+      "name": "DOVA",
+      "latitude": 52.090161,
+      "longitude": 5.106537,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 93,
+      "name": "DataLab Amsterdam",
+      "latitude": 52.363066,
+      "longitude": 4.907206,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 94,
+      "name": "De Boerderij",
+      "latitude": 52.757362,
+      "longitude": 6.874326,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 95,
+      "name": "Defensie Ondersteuningscommando",
+      "latitude": 52.519657,
+      "longitude": 6.110413,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 96,
+      "name": "Depot Gevonden Voorwerpen",
+      "latitude": 52.129575,
+      "longitude": 5.08745,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 97,
+      "name": "Dienst Dommelvallei",
+      "latitude": 51.443759,
+      "longitude": 5.620532,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 98,
+      "name": "Dienst Geestelijke Verzorging Den Haag",
+      "latitude": 52.084598,
+      "longitude": 4.327674,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 99,
+      "name": "Dienst Justitiële Inrichtingen",
+      "latitude": 52.078973,
+      "longitude": 4.321859,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 100,
+      "name": "Dienst Publiek en Communicatie",
+      "latitude": 52.079202,
+      "longitude": 4.310277,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 101,
+      "name": "Dienst Stadsbeheer, Haags Veegbedrijf",
+      "latitude": 52.071045,
+      "longitude": 4.32834,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 102,
+      "name": "Dienst Terugkeer en Vertrek",
+      "latitude": 52.080173,
+      "longitude": 4.32332,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 103,
+      "name": "Dienst Uitvoering Onderwijs",
+      "latitude": 52.085566,
+      "longitude": 5.115961,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 104,
+      "name": "Dienst Uitvoering Onderwijs",
+      "latitude": 52.331703,
+      "longitude": 4.915528,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 105,
+      "name": "Dienst Uitvoering Onderwijs",
+      "latitude": 53.205645,
+      "longitude": 6.579378,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 106,
+      "name": "Dienst Uitvoering Onderwijs - Toets- en examencentrum",
+      "latitude": 51.419086,
+      "longitude": 5.442939,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 107,
+      "name": "Dienst der Hydrografie",
+      "latitude": 52.103308,
+      "longitude": 4.311192,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 108,
+      "name": "DienstenCentrum Human Resources",
+      "latitude": 52.238052,
+      "longitude": 6.838913,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 109,
+      "name": "Directiekeet",
+      "latitude": 52.65316,
+      "longitude": 5.636802,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 110,
+      "name": "Doc-Direkt",
+      "latitude": 52.078596,
+      "longitude": 4.339976,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 111,
+      "name": "Domeinen Roerende Zaken Hoogeveen",
+      "latitude": 52.737056,
+      "longitude": 6.519188,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 112,
+      "name": "Dopak",
+      "latitude": 52.544133,
+      "longitude": 5.529283,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 113,
+      "name": "Douane",
+      "latitude": 50.920355,
+      "longitude": 5.773234,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 114,
+      "name": "Douane",
+      "latitude": 51.39606,
+      "longitude": 6.084929,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 115,
+      "name": "Douane",
+      "latitude": 51.458331,
+      "longitude": 5.392015,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 116,
+      "name": "Douane",
+      "latitude": 51.470568,
+      "longitude": 3.681085,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 117,
+      "name": "Douane",
+      "latitude": 51.674922,
+      "longitude": 4.606978,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 118,
+      "name": "Douane",
+      "latitude": 51.8752,
+      "longitude": 4.432577,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 119,
+      "name": "Douane",
+      "latitude": 51.947399,
+      "longitude": 4.018612,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 120,
+      "name": "Douane",
+      "latitude": 51.950559,
+      "longitude": 4.443304,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 121,
+      "name": "Douane",
+      "latitude": 51.963578,
+      "longitude": 6.023868,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 122,
+      "name": "Douane",
+      "latitude": 52.303393,
+      "longitude": 4.748831,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 123,
+      "name": "Douane",
+      "latitude": 52.31431,
+      "longitude": 7.04337,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 124,
+      "name": "Douane",
+      "latitude": 52.388258,
+      "longitude": 4.843413,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 125,
+      "name": "Douane",
+      "latitude": 53.12924,
+      "longitude": 6.586791,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 126,
+      "name": "Douane",
+      "latitude": 53.206058,
+      "longitude": 6.579047,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 127,
+      "name": "Douane",
+      "latitude": 53.447452,
+      "longitude": 6.818486,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 128,
+      "name": "Douane Post Oliphantweg",
+      "latitude": 51.868579,
+      "longitude": 4.260493,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 129,
+      "name": "Douane Schiphol Cargo Joint Inspection Center (JIC)",
+      "latitude": 52.291217,
+      "longitude": 4.758742,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 130,
+      "name": "Duits-Nederlandse Handelskamer",
+      "latitude": 52.089779,
+      "longitude": 4.306136,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 131,
+      "name": "Eems Dollard Regio (EDR)",
+      "latitude": 53.179294,
+      "longitude": 7.215804,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 132,
+      "name": "Eerste Kamer der Staaten-Generaal",
+      "latitude": 52.082958,
+      "longitude": 4.312032,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 133,
+      "name": "Eerste Kamer der Staten-Generaal",
+      "latitude": 52.083608,
+      "longitude": 4.311218,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 134,
+      "name": "Energiehuiskamer",
+      "latitude": 52.173708,
+      "longitude": 5.389315,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 135,
+      "name": "Energy cave",
+      "latitude": 52.037258,
+      "longitude": 4.326534,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 136,
+      "name": "Euregio",
+      "latitude": 52.215446,
+      "longitude": 6.981975,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 137,
+      "name": "Eurojust",
+      "latitude": 52.093599,
+      "longitude": 4.285688,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 138,
+      "name": "European Air Transport Command",
+      "latitude": 51.448228,
+      "longitude": 5.39149,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 139,
+      "name": "European Medicines Agency",
+      "latitude": 52.337248,
+      "longitude": 4.886219,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 140,
+      "name": "Europol",
+      "latitude": 52.092908,
+      "longitude": 4.281262,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 141,
+      "name": "Europol",
+      "latitude": 52.094255,
+      "longitude": 4.285952,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 142,
+      "name": "Expertise Centrum Leiderschap Defensie",
+      "latitude": 51.584996,
+      "longitude": 4.791042,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 143,
+      "name": "FBE Zeeland",
+      "latitude": 51.507592,
+      "longitude": 3.876561,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 144,
+      "name": "Faculteit Militaire Wetenschappen - Breda",
+      "latitude": 51.583708,
+      "longitude": 4.793832,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 145,
+      "name": "Faculteit Militaire Wetenschappen - Den Helder",
+      "latitude": 52.961269,
+      "longitude": 4.773482,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 146,
+      "name": "Fietsdepot",
+      "latitude": 51.604075,
+      "longitude": 4.769499,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 147,
+      "name": "Fietsdepot AFAC",
+      "latitude": 53.218736,
+      "longitude": 6.527486,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 148,
+      "name": "Fietsendepot",
+      "latitude": 52.129597,
+      "longitude": 5.087452,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 149,
+      "name": "Fontaine Administratiekantoor",
+      "latitude": 52.286196,
+      "longitude": 4.803812,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 150,
+      "name": "Forum Standaardisatie",
+      "latitude": 52.07846,
+      "longitude": 4.340147,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 151,
+      "name": "Functioneel Parket",
+      "latitude": 52.383993,
+      "longitude": 4.895278,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 152,
+      "name": "GGD",
+      "latitude": 51.910678,
+      "longitude": 4.481469,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 153,
+      "name": "GGD",
+      "latitude": 52.114075,
+      "longitude": 5.111957,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 154,
+      "name": "GGD",
+      "latitude": 53.220167,
+      "longitude": 6.577308,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 155,
+      "name": "GGD Consultatiebureau",
+      "latitude": 52.522055,
+      "longitude": 6.085247,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 156,
+      "name": "GGD Fryslân",
+      "latitude": 53.198083,
+      "longitude": 5.777291,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 157,
+      "name": "GGD Hart van Brabant",
+      "latitude": 51.679564,
+      "longitude": 5.33268,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 158,
+      "name": "GGD Hart voor Brabant",
+      "latitude": 51.655585,
+      "longitude": 5.626019,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 159,
+      "name": "GGD IJsselland",
+      "latitude": 52.507709,
+      "longitude": 6.093328,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 160,
+      "name": "GGD Nieuwegein",
+      "latitude": 52.029295,
+      "longitude": 5.083435,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 161,
+      "name": "Gebouw Werk en Inkomen",
+      "latitude": 52.645515,
+      "longitude": 5.045923,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 162,
+      "name": "Gemeente Achtkarspelen",
+      "latitude": 53.18,
+      "longitude": 6.160985,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 163,
+      "name": "Gemeente Amsterdam afdeling Parkeergebouwen en Service & Techniek",
+      "latitude": 52.329245,
+      "longitude": 4.922221,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 164,
+      "name": "Gemeente Den Helder",
+      "latitude": 52.959047,
+      "longitude": 4.771396,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 165,
+      "name": "Gemeente Dijk en Waard",
+      "latitude": 52.686749,
+      "longitude": 4.801125,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 166,
+      "name": "Gemeente Ede - Balie Publiekszaken",
+      "latitude": 52.045899,
+      "longitude": 5.673368,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 167,
+      "name": "Gemeente Heerlen",
+      "latitude": 50.886819,
+      "longitude": 5.983772,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 168,
+      "name": "Gemeente Het Hogeland",
+      "latitude": 53.410388,
+      "longitude": 6.675682,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 169,
+      "name": "Gemeente Katwijk",
+      "latitude": 52.192682,
+      "longitude": 4.425072,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 170,
+      "name": "Gemeente Nijkerk",
+      "latitude": 52.227409,
+      "longitude": 5.482356,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 171,
+      "name": "Gemeente Rotterdam",
+      "latitude": 51.906618,
+      "longitude": 4.488492,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 172,
+      "name": "Gemeente Rotterdam - Stadsbeheer",
+      "latitude": 51.872904,
+      "longitude": 4.376131,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 173,
+      "name": "Gemeente Rotterdam - Stadsbeheer",
+      "latitude": 51.930009,
+      "longitude": 4.437969,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 174,
+      "name": "Gemeente Tiel",
+      "latitude": 51.8868,
+      "longitude": 5.434426,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 175,
+      "name": "Gemeente Wijkpost Oost",
+      "latitude": 53.237488,
+      "longitude": 6.600308,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 176,
+      "name": "Gemeente Zeist gemeentewerf",
+      "latitude": 52.102587,
+      "longitude": 5.251488,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 177,
+      "name": "Gemeente Zutphen",
+      "latitude": 52.135553,
+      "longitude": 6.197275,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 178,
+      "name": "Gemeentekantoor",
+      "latitude": 51.989874,
+      "longitude": 4.219565,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 179,
+      "name": "Gemeentekantoor Geleenbeeklaan",
+      "latitude": 50.975752,
+      "longitude": 5.848308,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 180,
+      "name": "Gemeentekantoor Groot Ammers",
+      "latitude": 51.925974,
+      "longitude": 4.821313,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 181,
+      "name": "Gemeentekantoor Rijksweg Zuid",
+      "latitude": 50.997102,
+      "longitude": 5.861341,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 182,
+      "name": "Gemeentekantoor begraafplaats",
+      "latitude": 50.994367,
+      "longitude": 5.881183,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 183,
+      "name": "Gemeentelijk depot voor archeologie",
+      "latitude": 51.836246,
+      "longitude": 4.97895,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 184,
+      "name": "Gemeentelijke Ombudsman",
+      "latitude": 52.076204,
+      "longitude": 4.316319,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 185,
+      "name": "Gemeentewerf",
+      "latitude": 51.795776,
+      "longitude": 5.198426,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 186,
+      "name": "Gemeentewerf",
+      "latitude": 51.887448,
+      "longitude": 5.297633,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 187,
+      "name": "Gemeentewerf Aalten",
+      "latitude": 51.91319,
+      "longitude": 6.570646,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 188,
+      "name": "Gemeentewerf Ambachtsweg",
+      "latitude": 52.942071,
+      "longitude": 4.782019,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 189,
+      "name": "Gemeentewerf Harderwijk",
+      "latitude": 52.337381,
+      "longitude": 5.62817,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 190,
+      "name": "Gemeentewerf Heerenveen",
+      "latitude": 52.967755,
+      "longitude": 5.940396,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 191,
+      "name": "Gemeentewerf Hoeksche Waard",
+      "latitude": 51.801788,
+      "longitude": 4.517814,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 192,
+      "name": "Gemeentewerf Nieuwkoop",
+      "latitude": 52.184738,
+      "longitude": 4.753552,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 193,
+      "name": "Gemeentewerf gemeente Druten",
+      "latitude": 51.885391,
+      "longitude": 5.612685,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 194,
+      "name": "Gemeentewerken Smallingerland",
+      "latitude": 53.106077,
+      "longitude": 6.06231,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 195,
+      "name": "Gemeentewerkplaats",
+      "latitude": 51.790612,
+      "longitude": 4.312073,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 196,
+      "name": "Gemeentewinkel",
+      "latitude": 51.279424,
+      "longitude": 4.053755,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 197,
+      "name": "Gotische Zaal",
+      "latitude": 52.081668,
+      "longitude": 4.307715,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 198,
+      "name": "Groene Metropoolregio Arnhem-Nijmegen",
+      "latitude": 51.914231,
+      "longitude": 5.860772,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 199,
+      "name": "Groene werkruimte",
+      "latitude": 52.07029,
+      "longitude": 5.106078,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 200,
+      "name": "Haags Werk Bedrijf",
+      "latitude": 52.070307,
+      "longitude": 4.301424,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 201,
+      "name": "Haagse Conferentie voor Internationaal Privaatrecht",
+      "latitude": 52.093693,
+      "longitude": 4.282741,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 202,
+      "name": "Haagse Straat Organisatie",
+      "latitude": 52.07337,
+      "longitude": 4.267611,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 203,
+      "name": "Haagse Straat Organisatie",
+      "latitude": 52.080065,
+      "longitude": 4.301625,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 204,
+      "name": "Havenkantoor",
+      "latitude": 52.074903,
+      "longitude": 4.318876,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 205,
+      "name": "Havenkantoor",
+      "latitude": 53.038897,
+      "longitude": 4.852062,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 206,
+      "name": "Het Gegevenshuis",
+      "latitude": 50.896702,
+      "longitude": 6.014737,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 207,
+      "name": "Het Weerderhuys",
+      "latitude": 51.351047,
+      "longitude": 5.460653,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 208,
+      "name": "High Commissioner on National Minorities of the OSCE",
+      "latitude": 52.084261,
+      "longitude": 4.316452,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 209,
+      "name": "Hoge Raad van Adel",
+      "latitude": 52.085915,
+      "longitude": 4.308806,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 210,
+      "name": "Hoofdkantoor UWV",
+      "latitude": 52.390313,
+      "longitude": 4.840319,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 211,
+      "name": "Hoogheemraadschap De Stichtse Rijnlanden",
+      "latitude": 52.026255,
+      "longitude": 5.176185,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 212,
+      "name": "Hoogheemraadschap Hollands Noorderkwartier",
+      "latitude": 52.667456,
+      "longitude": 4.822363,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 213,
+      "name": "Hoogheemraadschap van Delfland",
+      "latitude": 52.011562,
+      "longitude": 4.354402,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 214,
+      "name": "Hoogheemraadschap van Rijnland",
+      "latitude": 52.16461,
+      "longitude": 4.465661,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 215,
+      "name": "Hoogheemraadschap van Schieland en de Krimpenerwaard",
+      "latitude": 51.919886,
+      "longitude": 4.504726,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 216,
+      "name": "Hou van je huis",
+      "latitude": 52.08495,
+      "longitude": 4.312527,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 217,
+      "name": "IND desk Amsterdam",
+      "latitude": 52.356079,
+      "longitude": 4.833065,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 218,
+      "name": "IND-loket Den Bosch",
+      "latitude": 51.689007,
+      "longitude": 5.291811,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 219,
+      "name": "Immigratie- en Naturalilsatiedienst",
+      "latitude": 52.08007,
+      "longitude": 4.32311,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 220,
+      "name": "Immigratie- en Naturalisatiedienst (IND)",
+      "latitude": 52.50278,
+      "longitude": 6.080858,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 221,
+      "name": "In Amsterdam",
+      "latitude": 52.340146,
+      "longitude": 4.872331,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 222,
+      "name": "Informatievoorziening Openbaar Ministerie",
+      "latitude": 52.06415,
+      "longitude": 5.08297,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 223,
+      "name": "Inspectie Justitie en Veiligheid",
+      "latitude": 52.081282,
+      "longitude": 4.310502,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 224,
+      "name": "Inspectie van het Onderwijs",
+      "latitude": 51.560001,
+      "longitude": 5.083466,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 225,
+      "name": "Inspectie van het Onderwijs",
+      "latitude": 52.063075,
+      "longitude": 4.486293,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 226,
+      "name": "Inspectie van het Onderwijs",
+      "latitude": 52.09546,
+      "longitude": 5.113809,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 227,
+      "name": "Inspectie voor de Gezondheidszorg",
+      "latitude": 52.078632,
+      "longitude": 4.339933,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 228,
+      "name": "Instituut Defensie Leergangen",
+      "latitude": 51.584663,
+      "longitude": 4.790511,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 229,
+      "name": "Instituut Mijnbouwschade Groningen",
+      "latitude": 53.211069,
+      "longitude": 6.560334,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 230,
+      "name": "International Pharmaceutical Federation",
+      "latitude": 52.087128,
+      "longitude": 4.286583,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 231,
+      "name": "Interprovinciaal Overleg",
+      "latitude": 52.081023,
+      "longitude": 4.320077,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 232,
+      "name": "JWF kazerne gebouw 22",
+      "latitude": 52.993376,
+      "longitude": 6.538238,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 233,
+      "name": "Jeugdbescherming Gelderland",
+      "latitude": 51.825968,
+      "longitude": 5.797363,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 234,
+      "name": "Justis",
+      "latitude": 52.078906,
+      "longitude": 4.321946,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 235,
+      "name": "Justitiële Informatiedienst locatie Zutphen",
+      "latitude": 52.13543,
+      "longitude": 6.197449,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 236,
+      "name": "Kabinet van de Koning",
+      "latitude": 52.080788,
+      "longitude": 4.314373,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 237,
+      "name": "Kadaster",
+      "latitude": 51.4441,
+      "longitude": 5.479504,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 238,
+      "name": "Kadaster",
+      "latitude": 51.952679,
+      "longitude": 5.873327,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 239,
+      "name": "Kadaster",
+      "latitude": 51.95283,
+      "longitude": 4.559399,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 240,
+      "name": "Kadaster",
+      "latitude": 52.179718,
+      "longitude": 5.960267,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 241,
+      "name": "Kadaster",
+      "latitude": 52.211734,
+      "longitude": 5.962442,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 242,
+      "name": "Kadaster",
+      "latitude": 52.387347,
+      "longitude": 4.83506,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 243,
+      "name": "Kadaster",
+      "latitude": 52.502788,
+      "longitude": 6.093002,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 244,
+      "name": "Kadaster",
+      "latitude": 53.212221,
+      "longitude": 6.560895,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 245,
+      "name": "Kamer van Koophandel",
+      "latitude": 51.197867,
+      "longitude": 5.991164,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 246,
+      "name": "Kamer van Koophandel",
+      "latitude": 51.445898,
+      "longitude": 5.48181,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 247,
+      "name": "Kamer van Koophandel",
+      "latitude": 51.497531,
+      "longitude": 3.623989,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 248,
+      "name": "Kamer van Koophandel",
+      "latitude": 51.594459,
+      "longitude": 4.785009,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 249,
+      "name": "Kamer van Koophandel",
+      "latitude": 51.679713,
+      "longitude": 5.332669,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 250,
+      "name": "Kamer van Koophandel",
+      "latitude": 51.91803,
+      "longitude": 4.484231,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 251,
+      "name": "Kamer van Koophandel",
+      "latitude": 51.959887,
+      "longitude": 5.893227,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 252,
+      "name": "Kamer van Koophandel",
+      "latitude": 52.021562,
+      "longitude": 4.690256,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 253,
+      "name": "Kamer van Koophandel",
+      "latitude": 52.081592,
+      "longitude": 4.889968,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 254,
+      "name": "Kamer van Koophandel",
+      "latitude": 52.086979,
+      "longitude": 4.314006,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 255,
+      "name": "Kamer van Koophandel",
+      "latitude": 52.095778,
+      "longitude": 5.11363,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 256,
+      "name": "Kamer van Koophandel",
+      "latitude": 52.213201,
+      "longitude": 6.000517,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 257,
+      "name": "Kamer van Koophandel",
+      "latitude": 52.213217,
+      "longitude": 6.889538,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 258,
+      "name": "Kamer van Koophandel",
+      "latitude": 52.37148,
+      "longitude": 5.221603,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 259,
+      "name": "Kamer van Koophandel",
+      "latitude": 52.38241,
+      "longitude": 4.894571,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 260,
+      "name": "Kamer van Koophandel",
+      "latitude": 52.505997,
+      "longitude": 6.091319,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 261,
+      "name": "Kamer van Koophandel",
+      "latitude": 52.645561,
+      "longitude": 4.729163,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 262,
+      "name": "Kamer van Koophandel",
+      "latitude": 53.198198,
+      "longitude": 5.78913,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 263,
+      "name": "Kamer van Koophandel",
+      "latitude": 53.202859,
+      "longitude": 6.553656,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 264,
+      "name": "Kansspelautoriteit",
+      "latitude": 52.0824,
+      "longitude": 4.324996,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 265,
+      "name": "Kantoor Begraafplaats Bergklooster",
+      "latitude": 52.535017,
+      "longitude": 6.130622,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 266,
+      "name": "Kantoor Bootverhuur Lelystad",
+      "latitude": 52.38361,
+      "longitude": 5.221652,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 267,
+      "name": "Kantoor Nagel",
+      "latitude": 52.383568,
+      "longitude": 5.221621,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 268,
+      "name": "Kantoor/werkplaats",
+      "latitude": 52.107631,
+      "longitude": 5.098505,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 269,
+      "name": "Kantoorcomplex Koninklijke Landmacht",
+      "latitude": 52.991308,
+      "longitude": 6.545416,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 270,
+      "name": "Kennis- en Exploitatiecentrum voor Officiële Overheidspublicaties",
+      "latitude": 52.078488,
+      "longitude": 4.340103,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 271,
+      "name": "Kennispunt Twente",
+      "latitude": 52.218999,
+      "longitude": 6.891282,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 272,
+      "name": "Kiesraad",
+      "latitude": 52.080632,
+      "longitude": 4.320574,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 273,
+      "name": "Kiltunnel",
+      "latitude": 51.772904,
+      "longitude": 4.638558,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 274,
+      "name": "Koninklijk Paleis Noordeinde",
+      "latitude": 52.081005,
+      "longitude": 4.306671,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 275,
+      "name": "Koninklijke Militaire Academie",
+      "latitude": 51.592674,
+      "longitude": 4.772047,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 276,
+      "name": "Landelijk Parket",
+      "latitude": 51.690541,
+      "longitude": 5.292395,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 277,
+      "name": "Landelijk Parket",
+      "latitude": 51.90653,
+      "longitude": 4.49372,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 278,
+      "name": "Landelijk Parket",
+      "latitude": 52.062708,
+      "longitude": 4.489696,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 279,
+      "name": "Landelijk Parket",
+      "latitude": 52.384033,
+      "longitude": 4.895242,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 280,
+      "name": "Landelijk Parket",
+      "latitude": 52.510269,
+      "longitude": 6.101246,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 281,
+      "name": "Landelijke Bedrijfvoering Openbaar Ministerie",
+      "latitude": 52.064076,
+      "longitude": 5.082908,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 282,
+      "name": "Landelijke Bedrijfvoering Openbaar Ministerie",
+      "latitude": 52.082048,
+      "longitude": 4.328472,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 283,
+      "name": "Landelijke Meldkamer Samenwerking",
+      "latitude": 52.106214,
+      "longitude": 5.255995,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 284,
+      "name": "Logius",
+      "latitude": 52.078668,
+      "longitude": 4.33989,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 285,
+      "name": "MKNN",
+      "latitude": 53.111759,
+      "longitude": 6.133934,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 286,
+      "name": "Maes Beheer",
+      "latitude": 51.360203,
+      "longitude": 4.392734,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 287,
+      "name": "Marktkantoor",
+      "latitude": 53.216486,
+      "longitude": 6.563311,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 288,
+      "name": "Marktmeester",
+      "latitude": 52.36629,
+      "longitude": 4.867455,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 289,
+      "name": "Metro en Tram",
+      "latitude": 52.329961,
+      "longitude": 4.931732,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 290,
+      "name": "Metropoolregio Amsterdam",
+      "latitude": 52.401586,
+      "longitude": 4.933032,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 291,
+      "name": "Metropoolregio Eindhoven",
+      "latitude": 51.440899,
+      "longitude": 5.481715,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 292,
+      "name": "Metropoolregio Rotterdam Den Haag",
+      "latitude": 51.919996,
+      "longitude": 4.471394,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 293,
+      "name": "Metropoolregio Utrecht",
+      "latitude": 52.089882,
+      "longitude": 5.112202,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 294,
+      "name": "Milieumeetdienst Provincie Limburg",
+      "latitude": 50.998842,
+      "longitude": 5.842114,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 295,
+      "name": "Ministerie van Algemene Zaken",
+      "latitude": 52.079161,
+      "longitude": 4.310293,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 296,
+      "name": "Ministerie van Algemene Zaken",
+      "latitude": 52.083336,
+      "longitude": 4.328195,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 297,
+      "name": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "latitude": 52.07907,
+      "longitude": 4.321851,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 298,
+      "name": "Ministerie van Buitenlandse Zaken",
+      "latitude": 52.079959,
+      "longitude": 4.322884,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 299,
+      "name": "Ministerie van Defensie",
+      "latitude": 52.079223,
+      "longitude": 4.315839,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 300,
+      "name": "Ministerie van Defensie",
+      "latitude": 52.796481,
+      "longitude": 6.207675,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 301,
+      "name": "Ministerie van Economische Zaken en Klimaat",
+      "latitude": 52.083635,
+      "longitude": 4.32784,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 302,
+      "name": "Ministerie van Financiën",
+      "latitude": 52.082517,
+      "longitude": 4.317167,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 303,
+      "name": "Ministerie van Financiën",
+      "latitude": 52.517317,
+      "longitude": 6.099622,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 304,
+      "name": "Ministerie van Infrastructuur en Waterstaat",
+      "latitude": 52.080017,
+      "longitude": 4.323002,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 305,
+      "name": "Ministerie van Justitie en Veiligheid",
+      "latitude": 52.07904,
+      "longitude": 4.321772,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 306,
+      "name": "Ministerie van Landbouw, Natuur en Voedselkwaliteit",
+      "latitude": 52.083448,
+      "longitude": 4.328057,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 307,
+      "name": "Ministerie van Onderwijs, Cultuur en Wetenschap",
+      "latitude": 52.080961,
+      "longitude": 4.322381,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 308,
+      "name": "Ministerie van Sociale Zaken en Werkgelegenheid",
+      "latitude": 52.079974,
+      "longitude": 4.320668,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 309,
+      "name": "Ministerie van Volksgezondheid, Welzijn en Sport",
+      "latitude": 52.080129,
+      "longitude": 4.321011,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 310,
+      "name": "Ministerie van de Vlaamse Gemeenschap",
+      "latitude": 51.440472,
+      "longitude": 3.572362,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 311,
+      "name": "Movement Coordination Centre Europe",
+      "latitude": 51.449062,
+      "longitude": 5.391901,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 312,
+      "name": "Nationaal Coördinator Groningen (NCG)",
+      "latitude": 53.213575,
+      "longitude": 6.555578,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 313,
+      "name": "Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen Kinderen",
+      "latitude": 52.079006,
+      "longitude": 4.321816,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 314,
+      "name": "Nationale Ombudsman",
+      "latitude": 52.085634,
+      "longitude": 4.331311,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 315,
+      "name": "Nederlands Forensisch Instituut",
+      "latitude": 52.045055,
+      "longitude": 4.358362,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 316,
+      "name": "Nederlands Instituut voor Forensische Psychiatrie en Psychologie",
+      "latitude": 51.690691,
+      "longitude": 5.291723,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 317,
+      "name": "Nederlands Instituut voor Forensische Psychiatrie en Psychologie",
+      "latitude": 52.083018,
+      "longitude": 4.307248,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 318,
+      "name": "Nederlands Instituut voor Forensische Psychiatrie en Psychologie",
+      "latitude": 52.086298,
+      "longitude": 5.114252,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 319,
+      "name": "Nederlands Instituut voor Forensische Psychiatrie en Psychologie",
+      "latitude": 52.354994,
+      "longitude": 4.862509,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 320,
+      "name": "Nederlands Instituut voor Militaire Historie",
+      "latitude": 52.1047,
+      "longitude": 4.313837,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 321,
+      "name": "Nederlandse Taalunie",
+      "latitude": 52.082615,
+      "longitude": 4.307323,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 322,
+      "name": "Nederlandse Voedel- en Warenautoriteit",
+      "latitude": 51.44458,
+      "longitude": 3.593524,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 323,
+      "name": "Nederlandse Voedsel en Warenautoriteit",
+      "latitude": 52.086903,
+      "longitude": 5.116677,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 324,
+      "name": "Nederlandse Voedsel- en Warenautoriteit",
+      "latitude": 51.814146,
+      "longitude": 4.641599,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 325,
+      "name": "Nederlandse Voedsel- en Warenautoriteit",
+      "latitude": 51.974874,
+      "longitude": 5.675275,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 326,
+      "name": "Nederlandse Voedsel- en Warenautoriteit",
+      "latitude": 52.040292,
+      "longitude": 5.566425,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 327,
+      "name": "Nederlandse Voedsel- en Warenautoriteit (NVWA)",
+      "latitude": 53.213638,
+      "longitude": 6.555586,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 328,
+      "name": "Nederlandse Zorgautoriteit",
+      "latitude": 52.091355,
+      "longitude": 5.149209,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 329,
+      "name": "Netherlands Space Office",
+      "latitude": 52.081587,
+      "longitude": 4.334106,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 330,
+      "name": "Noord-Hollands Archief",
+      "latitude": 52.374867,
+      "longitude": 4.634226,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 331,
+      "name": "Noord-Hollands Archief",
+      "latitude": 52.38317,
+      "longitude": 4.638016,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 332,
+      "name": "ODC-Noord",
+      "latitude": 53.211769,
+      "longitude": 6.559454,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 333,
+      "name": "OV-Bureau Groningen Drenthe",
+      "latitude": 52.988366,
+      "longitude": 6.569161,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 334,
+      "name": "Omgevingsdienst Brabant Noord",
+      "latitude": 51.701287,
+      "longitude": 5.331268,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 335,
+      "name": "Omgevingsdienst IJmond",
+      "latitude": 52.478017,
+      "longitude": 4.653982,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 336,
+      "name": "Omgevingsdienst Noord-Holland Noord",
+      "latitude": 52.645558,
+      "longitude": 5.046125,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 337,
+      "name": "Omgevingsdienst Regio Nijmegen",
+      "latitude": 51.844517,
+      "longitude": 5.866792,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 338,
+      "name": "Omgevingsdienst Zuidoost-Brabant",
+      "latitude": 51.435583,
+      "longitude": 5.478972,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 339,
+      "name": "Omthuis",
+      "latitude": 52.140506,
+      "longitude": 5.425229,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 340,
+      "name": "Onderzoeksraad voor Veiligheid",
+      "latitude": 52.081725,
+      "longitude": 4.310945,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 341,
+      "name": "OpenIJ",
+      "latitude": 52.468445,
+      "longitude": 4.609348,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 342,
+      "name": "Openbaar Ministerie",
+      "latitude": 50.848125,
+      "longitude": 5.670316,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 343,
+      "name": "Openbaar Ministerie",
+      "latitude": 51.59569,
+      "longitude": 4.772023,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 344,
+      "name": "Openbaar Ministerie",
+      "latitude": 51.690582,
+      "longitude": 5.292159,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 345,
+      "name": "Openbaar Ministerie",
+      "latitude": 51.90732,
+      "longitude": 4.492152,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 346,
+      "name": "Openbaar Ministerie",
+      "latitude": 51.977381,
+      "longitude": 5.912871,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 347,
+      "name": "Openbaar Ministerie",
+      "latitude": 52.081846,
+      "longitude": 4.330169,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 348,
+      "name": "Openbaar Ministerie",
+      "latitude": 52.084893,
+      "longitude": 5.116193,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 349,
+      "name": "Openbaar Ministerie",
+      "latitude": 52.380966,
+      "longitude": 4.639257,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 350,
+      "name": "Openbaar Ministerie",
+      "latitude": 52.384066,
+      "longitude": 4.895215,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 351,
+      "name": "Openbaar Ministerie",
+      "latitude": 52.508325,
+      "longitude": 5.471003,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 352,
+      "name": "Openbaar Ministerie",
+      "latitude": 53.188121,
+      "longitude": 6.545672,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 353,
+      "name": "Opleidingsinstituut Den Haag",
+      "latitude": 52.091136,
+      "longitude": 4.31185,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 354,
+      "name": "Opvanglocatie Ter Apel",
+      "latitude": 52.884056,
+      "longitude": 7.036647,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 355,
+      "name": "Organisatie en Personeel Rijk",
+      "latitude": 52.515231,
+      "longitude": 6.122837,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 356,
+      "name": "Ouder Kind Centrum",
+      "latitude": 52.294055,
+      "longitude": 4.976498,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 357,
+      "name": "Overheidsdatacenter Rijswijk",
+      "latitude": 52.038267,
+      "longitude": 4.335451,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 358,
+      "name": "P-Direkt",
+      "latitude": 52.079253,
+      "longitude": 4.338292,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 359,
+      "name": "PI Almelo - Het Huis van Herstel",
+      "latitude": 52.337905,
+      "longitude": 6.695769,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 360,
+      "name": "Paleis Noordeinde",
+      "latitude": 52.081304,
+      "longitude": 4.30656,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 361,
+      "name": "Parket-Generaal",
+      "latitude": 52.081994,
+      "longitude": 4.328364,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 362,
+      "name": "Planbureau voor de Leefomgeving",
+      "latitude": 52.085053,
+      "longitude": 4.32838,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 363,
+      "name": "Politie Diensten Centrum Zwolle",
+      "latitude": 52.503183,
+      "longitude": 6.086416,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 364,
+      "name": "Politie Utrecht Ketenbeslaghuis",
+      "latitude": 52.10661,
+      "longitude": 5.080779,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 365,
+      "name": "Port of Rotterdam",
+      "latitude": 51.904751,
+      "longitude": 4.4844,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 366,
+      "name": "Projectbureau Binnenstad Terneuzen",
+      "latitude": 51.33572,
+      "longitude": 3.827468,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 367,
+      "name": "Projectenhuis Soesterkwartier en Langs Eem en Spoor",
+      "latitude": 52.160005,
+      "longitude": 5.365868,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 368,
+      "name": "Projectmanagementbureau",
+      "latitude": 52.36282,
+      "longitude": 4.906673,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 369,
+      "name": "Projectteam Zeeburgereiland",
+      "latitude": 52.379116,
+      "longitude": 4.959173,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 370,
+      "name": "Provincie Drenthe",
+      "latitude": 52.98567,
+      "longitude": 6.538857,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 371,
+      "name": "Provincie Flevoland",
+      "latitude": 52.506646,
+      "longitude": 5.47151,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 372,
+      "name": "Provincie Gelderland",
+      "latitude": 51.977266,
+      "longitude": 5.909866,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 373,
+      "name": "Provincie Groningen",
+      "latitude": 53.219896,
+      "longitude": 6.57063,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 374,
+      "name": "Provincie Limburg",
+      "latitude": 50.838986,
+      "longitude": 5.702122,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 375,
+      "name": "Provincie Noord-Brabant",
+      "latitude": 51.678092,
+      "longitude": 5.330025,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 376,
+      "name": "Provincie Noord-Holland",
+      "latitude": 52.372037,
+      "longitude": 4.630409,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 377,
+      "name": "Provincie Overijssel",
+      "latitude": 52.509611,
+      "longitude": 6.104196,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 378,
+      "name": "Provincie Zeeland",
+      "latitude": 51.500536,
+      "longitude": 3.615379,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 379,
+      "name": "Provincie Zuid-Holland",
+      "latitude": 52.080656,
+      "longitude": 4.400544,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 380,
+      "name": "Provincie Zuid-Holland",
+      "latitude": 52.086423,
+      "longitude": 4.316032,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 381,
+      "name": "Provinciehuis Groningen",
+      "latitude": 53.219812,
+      "longitude": 6.569814,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 382,
+      "name": "Provinciehuis Utrecht",
+      "latitude": 52.09458,
+      "longitude": 5.153205,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 383,
+      "name": "Provinciekantoor Noord-Holland",
+      "latitude": 52.375029,
+      "longitude": 4.630963,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 384,
+      "name": "Provinsje Fryslân",
+      "latitude": 53.201246,
+      "longitude": 5.799948,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 385,
+      "name": "Publieke werken",
+      "latitude": 50.888904,
+      "longitude": 5.995612,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 386,
+      "name": "Publiekslocatie Centrum",
+      "latitude": 51.922943,
+      "longitude": 4.48037,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 387,
+      "name": "RAADhuis",
+      "latitude": 51.618895,
+      "longitude": 5.43518,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 388,
+      "name": "RDW",
+      "latitude": 51.704562,
+      "longitude": 5.263312,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 389,
+      "name": "RDW",
+      "latitude": 52.064394,
+      "longitude": 4.496578,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 390,
+      "name": "RDW ICT",
+      "latitude": 53.196697,
+      "longitude": 6.529804,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 391,
+      "name": "Raad van State",
+      "latitude": 52.081441,
+      "longitude": 4.308787,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 392,
+      "name": "Raad van State",
+      "latitude": 52.08294,
+      "longitude": 4.307585,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 393,
+      "name": "Raad voor de Kinderbescherming",
+      "latitude": 51.919501,
+      "longitude": 4.477396,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 394,
+      "name": "Raad voor de Kinderbescherming",
+      "latitude": 52.078872,
+      "longitude": 4.321989,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 395,
+      "name": "Raad voor de Kinderbescherming",
+      "latitude": 52.085481,
+      "longitude": 5.099405,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 396,
+      "name": "Raad voor de Kinderbescherming",
+      "latitude": 53.20015,
+      "longitude": 5.776514,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 397,
+      "name": "Raad voor de Kinderbescherming",
+      "latitude": 53.21131,
+      "longitude": 6.560582,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 398,
+      "name": "Raad voor de Rechtspraak",
+      "latitude": 52.080455,
+      "longitude": 4.309982,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 399,
+      "name": "Raad voor de leefomgeving en infrastructuur",
+      "latitude": 52.085273,
+      "longitude": 4.328387,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 400,
+      "name": "Raad voor het Openbaar Bestuur",
+      "latitude": 52.082596,
+      "longitude": 4.317346,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 401,
+      "name": "Reclassering Nederland",
+      "latitude": 51.980664,
+      "longitude": 5.903853,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 402,
+      "name": "Regieorganisatie GLB",
+      "latitude": 52.086107,
+      "longitude": 5.100135,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 403,
+      "name": "Regionaal Platform Arbeidsmarktbeleid Haaglanden",
+      "latitude": 52.075268,
+      "longitude": 4.361259,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 404,
+      "name": "Regionaal Tuchtcollege voor de Gezondheidszorg",
+      "latitude": 52.081903,
+      "longitude": 4.330116,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 405,
+      "name": "Rekenkamer Gemeente Rotterdam",
+      "latitude": 51.921808,
+      "longitude": 4.482063,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 406,
+      "name": "Rentree Reïntegratie",
+      "latitude": 52.648518,
+      "longitude": 5.051881,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 407,
+      "name": "Rijks Inspectie Terminal",
+      "latitude": 51.948445,
+      "longitude": 4.017713,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 408,
+      "name": "Rijksacademie voor Financiën, Economie en Bedrijfsvoering",
+      "latitude": 52.086193,
+      "longitude": 4.301362,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 409,
+      "name": "Rijksdienst voor Identiteitsgegevens",
+      "latitude": 52.079032,
+      "longitude": 4.321911,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 410,
+      "name": "Rijksdienst voor Ondernemend Nederland (RVO)",
+      "latitude": 52.081827,
+      "longitude": 4.333309,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 411,
+      "name": "Rijksdienst voor Ondernemend Nederland (RVO)",
+      "latitude": 52.502047,
+      "longitude": 6.096406,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 412,
+      "name": "Rijksdienst voor het Cultureel Erfgoed",
+      "latitude": 52.038387,
+      "longitude": 4.333465,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 413,
+      "name": "Rijkshub Assen",
+      "latitude": 52.990643,
+      "longitude": 6.569476,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 414,
+      "name": "Rijksinspectie Digitale Infrastructuur",
+      "latitude": 53.212064,
+      "longitude": 6.561125,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 415,
+      "name": "Rijksinstituut voor Volksgezondheid En Milieu",
+      "latitude": 52.036114,
+      "longitude": 4.497482,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 416,
+      "name": "Rijksinstituut voor Volksgezondheid en Milieu",
+      "latitude": 52.118652,
+      "longitude": 5.189081,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 417,
+      "name": "Rijkskantoor de Knoop",
+      "latitude": 52.08708,
+      "longitude": 5.107906,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 418,
+      "name": "Rijksrederij",
+      "latitude": 51.444838,
+      "longitude": 3.593528,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 419,
+      "name": "Rijksvastgoedbedrijf",
+      "latitude": 52.082676,
+      "longitude": 4.317528,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 420,
+      "name": "Rijkswaterstaat",
+      "latitude": 50.844684,
+      "longitude": 5.702908,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 421,
+      "name": "Rijkswaterstaat",
+      "latitude": 51.976518,
+      "longitude": 5.915361,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 422,
+      "name": "Rijkswaterstaat",
+      "latitude": 52.05852,
+      "longitude": 5.101935,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 423,
+      "name": "Rijkswaterstaat",
+      "latitude": 52.265416,
+      "longitude": 6.758588,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 424,
+      "name": "Rijkswaterstaat",
+      "latitude": 52.306932,
+      "longitude": 4.930745,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 425,
+      "name": "Rijkswaterstaat",
+      "latitude": 52.362659,
+      "longitude": 4.652366,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 426,
+      "name": "Rijkswaterstaat",
+      "latitude": 52.462967,
+      "longitude": 4.597277,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 427,
+      "name": "Rijkswaterstaat",
+      "latitude": 52.518715,
+      "longitude": 5.484401,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 428,
+      "name": "Rijkswaterstaat",
+      "latitude": 52.530479,
+      "longitude": 6.151184,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 429,
+      "name": "Rijkswaterstaat",
+      "latitude": 52.995668,
+      "longitude": 6.523421,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 430,
+      "name": "Rijkswaterstaat",
+      "latitude": 53.091805,
+      "longitude": 5.825035,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 431,
+      "name": "Rijkswaterstaat",
+      "latitude": 53.196894,
+      "longitude": 5.78761,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 432,
+      "name": "Rijkswaterstaat Centrale Informatievoorziening",
+      "latitude": 51.985177,
+      "longitude": 4.345531,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 433,
+      "name": "Rijkswaterstaat Eindhoven",
+      "latitude": 51.405016,
+      "longitude": 5.564036,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 434,
+      "name": "Rijkswaterstaat Steunpunt N11",
+      "latitude": 52.139724,
+      "longitude": 4.507152,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 435,
+      "name": "Rijkswaterstaat Verkeerspost Nijmegen",
+      "latitude": 51.862374,
+      "longitude": 5.827922,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 436,
+      "name": "Rijkswaterstaat Zee en Delta",
+      "latitude": 51.333089,
+      "longitude": 3.826421,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 437,
+      "name": "Rijkswaterstaat Zee en Delta",
+      "latitude": 51.493889,
+      "longitude": 3.61149,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 438,
+      "name": "Rijkswaterstaat Zee en Delta",
+      "latitude": 51.502012,
+      "longitude": 3.880967,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 439,
+      "name": "Rijkswaterstaat Zee en Delta, locatie Rijswijk",
+      "latitude": 52.036058,
+      "longitude": 4.326032,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 440,
+      "name": "Rijkswaterstaat steunpunt Breda",
+      "latitude": 51.563915,
+      "longitude": 4.745137,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 441,
+      "name": "Rijkswaterstraat Zuid-Holland Wegdistrict Haaglanden",
+      "latitude": 52.071563,
+      "longitude": 4.399045,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 442,
+      "name": "Rijswijk Wonen",
+      "latitude": 52.03692,
+      "longitude": 4.324419,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 443,
+      "name": "Rotterdam Expat Centre",
+      "latitude": 51.91897,
+      "longitude": 4.481961,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 444,
+      "name": "SSC-ICT Haaglanden",
+      "latitude": 52.088022,
+      "longitude": 4.315197,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 445,
+      "name": "SVHW",
+      "latitude": 51.76585,
+      "longitude": 4.442791,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 446,
+      "name": "Sabewa Zeeland",
+      "latitude": 51.33296,
+      "longitude": 3.826271,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 447,
+      "name": "SamenTwente",
+      "latitude": 52.218658,
+      "longitude": 6.891013,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 448,
+      "name": "Servicecentrum Leidschendam",
+      "latitude": 52.085154,
+      "longitude": 4.393758,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 449,
+      "name": "Servicepunt Alkmaar-Noord",
+      "latitude": 52.653514,
+      "longitude": 4.758969,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 450,
+      "name": "Servicepunt Eijsden",
+      "latitude": 50.77758,
+      "longitude": 5.711189,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 451,
+      "name": "Servicepunt Graft",
+      "latitude": 52.559915,
+      "longitude": 4.83991,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 452,
+      "name": "Servicepunt Schermerhorn",
+      "latitude": 52.600051,
+      "longitude": 4.890661,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 453,
+      "name": "Servicepunt XL",
+      "latitude": 52.063275,
+      "longitude": 4.403861,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 454,
+      "name": "Shared Service Center DJI",
+      "latitude": 52.084448,
+      "longitude": 4.327478,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 455,
+      "name": "Shared Service Center DJI Locatie Veenhuizen",
+      "latitude": 53.019657,
+      "longitude": 6.422391,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 456,
+      "name": "Shared Service Center ICT",
+      "latitude": 52.024808,
+      "longitude": 4.680238,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 457,
+      "name": "Shell Building",
+      "latitude": 52.041064,
+      "longitude": 4.340448,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 458,
+      "name": "Sociaal Economische Raad",
+      "latitude": 52.085797,
+      "longitude": 4.329956,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 459,
+      "name": "Sociaal Plein",
+      "latitude": 52.22553,
+      "longitude": 5.182085,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 460,
+      "name": "Sociaal Wijkteam Oost",
+      "latitude": 52.52238,
+      "longitude": 6.111607,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 461,
+      "name": "Sociaal en Cultureel Planbureau",
+      "latitude": 52.084913,
+      "longitude": 4.328157,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 462,
+      "name": "Sociale Dienst",
+      "latitude": 51.8112,
+      "longitude": 4.662302,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 463,
+      "name": "Sociale Dienst Drechtsteden",
+      "latitude": 51.811706,
+      "longitude": 4.662512,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 464,
+      "name": "Sociale Verzekeringsbank",
+      "latitude": 51.824411,
+      "longitude": 5.792519,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 465,
+      "name": "Sociale Verzekeringsbank",
+      "latitude": 51.905571,
+      "longitude": 4.496047,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 466,
+      "name": "Sociale Verzekeringsbank",
+      "latitude": 52.300356,
+      "longitude": 4.868593,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 467,
+      "name": "Sociale Verzekeringsbank",
+      "latitude": 53.211319,
+      "longitude": 6.55961,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 468,
+      "name": "Sociale Zaken en Werk",
+      "latitude": 53.205281,
+      "longitude": 6.585826,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 469,
+      "name": "Sportpark Voorland",
+      "latitude": 52.349957,
+      "longitude": 4.94753,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 470,
+      "name": "Sportparkbeheer",
+      "latitude": 52.339407,
+      "longitude": 4.931708,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 471,
+      "name": "Staatsbosbeheer Westvoorden",
+      "latitude": 52.084665,
+      "longitude": 4.323941,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 472,
+      "name": "Stadsbeheer",
+      "latitude": 52.078052,
+      "longitude": 4.394765,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 473,
+      "name": "Stadsbeheer",
+      "latitude": 52.094546,
+      "longitude": 4.40323,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 474,
+      "name": "Stadsbeheer Gemeente Leidschendam-Voorburg",
+      "latitude": 52.070581,
+      "longitude": 4.363427,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 475,
+      "name": "Stadsbeheer Gemeente Nijmegen",
+      "latitude": 51.817781,
+      "longitude": 5.81794,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 476,
+      "name": "Stadsdeelraad Almere-Buiten",
+      "latitude": 52.393889,
+      "longitude": 5.278531,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 477,
+      "name": "Stadskantoor",
+      "latitude": 52.059527,
+      "longitude": 4.306248,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 478,
+      "name": "Stadskantoor Zwolle",
+      "latitude": 52.503084,
+      "longitude": 6.090924,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 479,
+      "name": "Stadsloket Zuid",
+      "latitude": 52.340401,
+      "longitude": 4.89393,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 480,
+      "name": "Stadsreiniging Almere",
+      "latitude": 52.346943,
+      "longitude": 5.221552,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 481,
+      "name": "Staf Commandant der Koninklijke Marechaussee",
+      "latitude": 52.07846,
+      "longitude": 4.31699,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 482,
+      "name": "Steunpunt Beukers",
+      "latitude": 52.663807,
+      "longitude": 6.102654,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 483,
+      "name": "Steunpunt Raalte Prov. Overijssel",
+      "latitude": 52.365287,
+      "longitude": 6.263588,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 484,
+      "name": "Steunpunt Rijkswaterstaat",
+      "latitude": 52.656439,
+      "longitude": 6.198216,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 485,
+      "name": "Steunpunt Rijkswaterstaat",
+      "latitude": 53.109995,
+      "longitude": 6.13305,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 486,
+      "name": "Steunpunt Rogat",
+      "latitude": 52.68929,
+      "longitude": 6.259388,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 487,
+      "name": "Stichting Ouderenvervoer Amsterdam Nieuw-West",
+      "latitude": 52.358012,
+      "longitude": 4.795005,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 488,
+      "name": "Stip",
+      "latitude": 52.394889,
+      "longitude": 6.044672,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 489,
+      "name": "Stoppelenburg",
+      "latitude": 52.008647,
+      "longitude": 4.712,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 490,
+      "name": "Stroomopwaarts MVS",
+      "latitude": 51.909752,
+      "longitude": 4.410461,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 491,
+      "name": "Stroop Mediation Arbeidszaken",
+      "latitude": 51.419764,
+      "longitude": 4.323844,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 492,
+      "name": "TalenCentrum Defensie",
+      "latitude": 51.584617,
+      "longitude": 4.789379,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 493,
+      "name": "Terminal Noord",
+      "latitude": 52.078663,
+      "longitude": 4.322988,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 494,
+      "name": "Terminal Zuid",
+      "latitude": 52.077418,
+      "longitude": 4.320352,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 495,
+      "name": "Toezicht en Handhaving Kampen",
+      "latitude": 52.557058,
+      "longitude": 5.918221,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 496,
+      "name": "Trends, Onderzoek en Statistiek",
+      "latitude": 52.080812,
+      "longitude": 5.149361,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 497,
+      "name": "Tweede Kamer Dienst Automatisering",
+      "latitude": 52.080796,
+      "longitude": 4.315613,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 498,
+      "name": "Tweede Kamer der Staten-Generaal",
+      "latitude": 52.08043,
+      "longitude": 4.316207,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 499,
+      "name": "Tweede Kamer der Staten-Generaal",
+      "latitude": 52.082882,
+      "longitude": 4.326417,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 500,
+      "name": "UVW",
+      "latitude": 52.067455,
+      "longitude": 4.320998,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 501,
+      "name": "UWV",
+      "latitude": 50.889961,
+      "longitude": 5.973827,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 502,
+      "name": "UWV",
+      "latitude": 51.444831,
+      "longitude": 5.472079,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 503,
+      "name": "UWV",
+      "latitude": 51.500212,
+      "longitude": 3.889171,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 504,
+      "name": "UWV",
+      "latitude": 51.589236,
+      "longitude": 4.786486,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 505,
+      "name": "UWV",
+      "latitude": 51.687528,
+      "longitude": 5.291261,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 506,
+      "name": "UWV",
+      "latitude": 51.806218,
+      "longitude": 4.671994,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 507,
+      "name": "UWV",
+      "latitude": 51.818696,
+      "longitude": 5.81858,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 508,
+      "name": "UWV",
+      "latitude": 51.824406,
+      "longitude": 5.792442,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 509,
+      "name": "UWV",
+      "latitude": 51.959586,
+      "longitude": 5.89946,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 510,
+      "name": "UWV",
+      "latitude": 52.064638,
+      "longitude": 4.320613,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 511,
+      "name": "UWV",
+      "latitude": 52.075286,
+      "longitude": 4.3612,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 512,
+      "name": "UWV",
+      "latitude": 52.081345,
+      "longitude": 5.093274,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 513,
+      "name": "UWV",
+      "latitude": 52.154145,
+      "longitude": 5.383388,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 514,
+      "name": "UWV",
+      "latitude": 52.163585,
+      "longitude": 4.476734,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 515,
+      "name": "UWV",
+      "latitude": 52.262673,
+      "longitude": 6.789431,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 516,
+      "name": "UWV",
+      "latitude": 52.383397,
+      "longitude": 4.628939,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 517,
+      "name": "UWV",
+      "latitude": 52.503048,
+      "longitude": 6.088493,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 518,
+      "name": "UWV",
+      "latitude": 52.637606,
+      "longitude": 4.735355,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 519,
+      "name": "UWV",
+      "latitude": 52.791252,
+      "longitude": 6.899338,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 520,
+      "name": "UWV",
+      "latitude": 52.992759,
+      "longitude": 6.567954,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 521,
+      "name": "UWV",
+      "latitude": 53.196745,
+      "longitude": 5.793906,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 522,
+      "name": "UWV Amsterdam",
+      "latitude": 52.356899,
+      "longitude": 4.841174,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 523,
+      "name": "UWV Groningen",
+      "latitude": 53.211163,
+      "longitude": 6.567128,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 524,
+      "name": "UWV Tilburg",
+      "latitude": 51.561707,
+      "longitude": 5.078276,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 525,
+      "name": "UWV Werkbedrijf",
+      "latitude": 51.954934,
+      "longitude": 6.302082,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 526,
+      "name": "UWV Werkbedrijf",
+      "latitude": 52.080904,
+      "longitude": 5.093705,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 527,
+      "name": "UWV Werkplein",
+      "latitude": 52.213714,
+      "longitude": 6.001127,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 528,
+      "name": "UWV werkplein",
+      "latitude": 50.891795,
+      "longitude": 5.974428,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 529,
+      "name": "UWV werkplein",
+      "latitude": 51.360867,
+      "longitude": 5.20781,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 530,
+      "name": "UWV werkplein",
+      "latitude": 51.444736,
+      "longitude": 5.473241,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 531,
+      "name": "UWV werkplein",
+      "latitude": 51.472341,
+      "longitude": 5.668025,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 532,
+      "name": "UWV werkplein",
+      "latitude": 51.888137,
+      "longitude": 4.547856,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 533,
+      "name": "UWV werkplein",
+      "latitude": 51.978124,
+      "longitude": 5.916381,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 534,
+      "name": "UWV werkplein",
+      "latitude": 52.018046,
+      "longitude": 4.70732,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 535,
+      "name": "UWV werkplein",
+      "latitude": 52.045995,
+      "longitude": 5.672769,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 536,
+      "name": "UWV werkplein",
+      "latitude": 52.223036,
+      "longitude": 6.891814,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 537,
+      "name": "UWV werkplein",
+      "latitude": 52.503793,
+      "longitude": 6.086705,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 538,
+      "name": "UWV werkplein",
+      "latitude": 53.205205,
+      "longitude": 6.586149,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 539,
+      "name": "Uitvoeringsinstituut Werknemersverzekeringen",
+      "latitude": 51.197911,
+      "longitude": 5.985464,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 540,
+      "name": "Uitvoeringsorganisatie Bedrijsvoering Rijk",
+      "latitude": 52.078524,
+      "longitude": 4.340062,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 541,
+      "name": "Unie van Waterschappen",
+      "latitude": 52.088662,
+      "longitude": 4.314041,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 542,
+      "name": "Veiligheids- en Gezondheidsregio Gelderland-Midden",
+      "latitude": 52.008885,
+      "longitude": 5.915344,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 543,
+      "name": "Veiligheidsregio Brabant-Noord",
+      "latitude": 51.691635,
+      "longitude": 5.277818,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 544,
+      "name": "Veiligheidsregio Fryslân",
+      "latitude": 53.198098,
+      "longitude": 5.77705,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 545,
+      "name": "Veiligheidsregio Gelderland-Zuid",
+      "latitude": 51.828696,
+      "longitude": 5.867644,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 546,
+      "name": "Veiligheidsregio Groningen",
+      "latitude": 53.21876,
+      "longitude": 6.589448,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 547,
+      "name": "Veiligheidsregio Kennemerland",
+      "latitude": 52.38628,
+      "longitude": 4.616592,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 548,
+      "name": "Veiligheidsregio Limburg-Noord",
+      "latitude": 51.389775,
+      "longitude": 6.175956,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 549,
+      "name": "Veiligheidsregio Noord-Holland Noord",
+      "latitude": 52.645575,
+      "longitude": 4.770834,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 550,
+      "name": "Veiligheidsregio Zaanstreek-Waterland",
+      "latitude": 52.454659,
+      "longitude": 4.822881,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 551,
+      "name": "Veiligheidsregio Zuid-Holland Zuid",
+      "latitude": 51.798114,
+      "longitude": 4.682679,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 552,
+      "name": "Vereniging van Nederlandse Gemeenten",
+      "latitude": 52.087056,
+      "longitude": 4.30758,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 553,
+      "name": "Vergader- en Congrescentrum / Gemeentelijk vastgoed",
+      "latitude": 52.361803,
+      "longitude": 4.906471,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 554,
+      "name": "Vergader- en Congrescentrum / RvE vastgoed",
+      "latitude": 52.361333,
+      "longitude": 4.906135,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 555,
+      "name": "Verkeerscentrale Noordwest-Nederland",
+      "latitude": 52.456902,
+      "longitude": 4.668163,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 556,
+      "name": "Verkeerscentrale Zuid-West Nederland",
+      "latitude": 51.867316,
+      "longitude": 4.438391,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 557,
+      "name": "Verkeerspost Hansweert",
+      "latitude": 51.440444,
+      "longitude": 4.015435,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 558,
+      "name": "Verkeerspost Schellingwoude",
+      "latitude": 52.379928,
+      "longitude": 4.959073,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 559,
+      "name": "Verkeerspost Wemeldinge",
+      "latitude": 51.517611,
+      "longitude": 4.016987,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 560,
+      "name": "Vraagwijzer",
+      "latitude": 51.58714,
+      "longitude": 4.315135,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 561,
+      "name": "Waterbedrijf Groningen",
+      "latitude": 53.154814,
+      "longitude": 6.409536,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 562,
+      "name": "Watermanagementcentrum Nederland",
+      "latitude": 52.518625,
+      "longitude": 5.483738,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 563,
+      "name": "Waterschap Aa en Maas",
+      "latitude": 51.677104,
+      "longitude": 5.334807,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 564,
+      "name": "Waterschap Amstel, Gooi en Vecht",
+      "latitude": 52.340049,
+      "longitude": 4.917502,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 565,
+      "name": "Waterschap Brabantse Delta",
+      "latitude": 51.561569,
+      "longitude": 4.783876,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 566,
+      "name": "Waterschap De Dommel",
+      "latitude": 51.600542,
+      "longitude": 5.323088,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 567,
+      "name": "Waterschap Drents Overijsselse Delta",
+      "latitude": 52.506956,
+      "longitude": 6.125404,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 568,
+      "name": "Waterschap Hollandse Delta",
+      "latitude": 51.864513,
+      "longitude": 4.557392,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 569,
+      "name": "Waterschap Hunze en Aa's",
+      "latitude": 53.104409,
+      "longitude": 6.865266,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 570,
+      "name": "Waterschap Limburg",
+      "latitude": 51.015543,
+      "longitude": 5.860163,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 571,
+      "name": "Waterschap Limburg",
+      "latitude": 51.191179,
+      "longitude": 5.995622,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 572,
+      "name": "Waterschap Limburg Horst",
+      "latitude": 51.445169,
+      "longitude": 6.060751,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 573,
+      "name": "Waterschap Noorderzijlvest",
+      "latitude": 53.237028,
+      "longitude": 6.600503,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 574,
+      "name": "Waterschap Rijn en IJssel",
+      "latitude": 51.964329,
+      "longitude": 6.26938,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 575,
+      "name": "Waterschap Rivierenland",
+      "latitude": 51.898496,
+      "longitude": 5.436972,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 576,
+      "name": "Waterschap Scheldestromen",
+      "latitude": 51.332819,
+      "longitude": 3.826109,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 577,
+      "name": "Waterschap Scheldestromen",
+      "latitude": 51.496523,
+      "longitude": 3.621005,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 578,
+      "name": "Waterschap Vallei en Veluwe",
+      "latitude": 52.238123,
+      "longitude": 5.978664,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 579,
+      "name": "Waterschap Vechtstromen",
+      "latitude": 52.343555,
+      "longitude": 6.638284,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 580,
+      "name": "Waterschap Zuiderzeeland",
+      "latitude": 52.507294,
+      "longitude": 5.479743,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 581,
+      "name": "Weesperstaete",
+      "latitude": 52.36156,
+      "longitude": 4.906937,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 582,
+      "name": "Welzijnshuis",
+      "latitude": 51.472044,
+      "longitude": 3.821324,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 583,
+      "name": "Werkbedrijf Rijk van Nijmegen",
+      "latitude": 51.821816,
+      "longitude": 5.817358,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 584,
+      "name": "Werkcentrum Fryslân",
+      "latitude": 53.196876,
+      "longitude": 5.795104,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 585,
+      "name": "Werkcentrum VeluweStedendriehoek",
+      "latitude": 52.213719,
+      "longitude": 6.001221,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 586,
+      "name": "Werkplaats Gemeente Reimerswaal",
+      "latitude": 51.49584,
+      "longitude": 4.045013,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 587,
+      "name": "Werkplein",
+      "latitude": 51.999187,
+      "longitude": 4.210379,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 588,
+      "name": "Werkplein Corbulo",
+      "latitude": 52.075275,
+      "longitude": 4.361225,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 589,
+      "name": "Werkplein Haaglanden",
+      "latitude": 52.050866,
+      "longitude": 4.255346,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 590,
+      "name": "Werkplein Zuid-Holland Centraal",
+      "latitude": 52.060239,
+      "longitude": 4.493535,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 591,
+      "name": "Wetenschappelijk Bureau Openbaar Ministerie",
+      "latitude": 52.082098,
+      "longitude": 4.328583,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 592,
+      "name": "Wetenschappelijk Onderzoek- en Documentatiecentrum",
+      "latitude": 52.078839,
+      "longitude": 4.322032,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 593,
+      "name": "Wetenschappelijke Raad voor het Regeringsbeleid",
+      "latitude": 52.079183,
+      "longitude": 4.310375,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 594,
+      "name": "Wetterskip Fryslân",
+      "latitude": 53.204699,
+      "longitude": 5.76863,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 595,
+      "name": "Wijkaccomidatie 't Kloostertje",
+      "latitude": 51.900891,
+      "longitude": 4.502795,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 596,
+      "name": "Wijkbeheer Bierum",
+      "latitude": 53.38104,
+      "longitude": 6.857025,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 597,
+      "name": "Wijkbeheer Born",
+      "latitude": 51.035982,
+      "longitude": 5.80691,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 598,
+      "name": "Wijkbeheer Geleen",
+      "latitude": 50.971062,
+      "longitude": 5.822137,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 599,
+      "name": "Wijkbeheer Sittard",
+      "latitude": 50.999397,
+      "longitude": 5.844855,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 600,
+      "name": "Wijkbureau Oost en Noordoost",
+      "latitude": 52.096046,
+      "longitude": 5.13875,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 601,
+      "name": "Wijkbureau West",
+      "latitude": 52.087995,
+      "longitude": 5.090058,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 602,
+      "name": "Wijkbureau West",
+      "latitude": 52.089601,
+      "longitude": 5.10775,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 603,
+      "name": "Wijkbureau Zuid",
+      "latitude": 52.065819,
+      "longitude": 5.120159,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 604,
+      "name": "Wijkhub Afrikaanderwijk",
+      "latitude": 51.900908,
+      "longitude": 4.502619,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 605,
+      "name": "Wijkhub Agniesebuurt-Provenierswijk",
+      "latitude": 51.92978,
+      "longitude": 4.477275,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 606,
+      "name": "Wijkhub Beverwaard",
+      "latitude": 51.892191,
+      "longitude": 4.568866,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 607,
+      "name": "Wijkhub Blijdorp, Bergpolder en Liskwartier",
+      "latitude": 51.937974,
+      "longitude": 4.477293,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 608,
+      "name": "Wijkhub Bloemhof",
+      "latitude": 51.893198,
+      "longitude": 4.501109,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 609,
+      "name": "Wijkhub Bospolder-Tussendijken",
+      "latitude": 51.912866,
+      "longitude": 4.441743,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 610,
+      "name": "Wijkhub Carnisse",
+      "latitude": 51.891473,
+      "longitude": 4.477819,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 611,
+      "name": "Wijkhub Centrum",
+      "latitude": 51.922515,
+      "longitude": 4.481693,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 612,
+      "name": "Wijkhub Crooswijk",
+      "latitude": 51.930568,
+      "longitude": 4.496863,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 613,
+      "name": "Wijkhub Delfshaven-Schiemond",
+      "latitude": 51.90501,
+      "longitude": 4.458053,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 614,
+      "name": "Wijkhub Entrepot-Noordereiland",
+      "latitude": 51.904634,
+      "longitude": 4.508188,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 615,
+      "name": "Wijkhub Feijenoord",
+      "latitude": 51.908776,
+      "longitude": 4.506406,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 616,
+      "name": "Wijkhub Heijplaat",
+      "latitude": 51.89277,
+      "longitude": 4.420559,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 617,
+      "name": "Wijkhub Het Lage Land, Prinsenland en 's-Gravenland",
+      "latitude": 51.940628,
+      "longitude": 4.54776,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 618,
+      "name": "Wijkhub Hillegersberg",
+      "latitude": 51.961397,
+      "longitude": 4.490096,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 619,
+      "name": "Wijkhub Hillesluis",
+      "latitude": 51.894074,
+      "longitude": 4.51085,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 620,
+      "name": "Wijkhub Hoek van Holland",
+      "latitude": 51.977378,
+      "longitude": 4.130387,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 621,
+      "name": "Wijkhub Hoogvliet",
+      "latitude": 51.865535,
+      "longitude": 4.356201,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 622,
+      "name": "Wijkhub Katendrecht-Wilhelminapier",
+      "latitude": 51.90002,
+      "longitude": 4.479913,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 623,
+      "name": "Wijkhub Kralingen",
+      "latitude": 51.925171,
+      "longitude": 4.499665,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 624,
+      "name": "Wijkhub Kralingseveer",
+      "latitude": 51.910796,
+      "longitude": 4.554666,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 625,
+      "name": "Wijkhub Lombardijen",
+      "latitude": 51.874499,
+      "longitude": 4.525496,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 626,
+      "name": "Wijkhub Mathenesse",
+      "latitude": 51.917405,
+      "longitude": 4.417831,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 627,
+      "name": "Wijkhub Nieuwe Westen-Middelland",
+      "latitude": 51.916483,
+      "longitude": 4.445664,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 628,
+      "name": "Wijkhub Ommoord",
+      "latitude": 51.961144,
+      "longitude": 4.543685,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 629,
+      "name": "Wijkhub Oosterflank",
+      "latitude": 51.947895,
+      "longitude": 4.55698,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 630,
+      "name": "Wijkhub Oud-Charlois en Wielewaal",
+      "latitude": 51.891384,
+      "longitude": 4.470298,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 631,
+      "name": "Wijkhub Oude Noorden",
+      "latitude": 51.9375,
+      "longitude": 4.482798,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 632,
+      "name": "Wijkhub Oude Westen",
+      "latitude": 51.919466,
+      "longitude": 4.468229,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 633,
+      "name": "Wijkhub Overschie",
+      "latitude": 51.936577,
+      "longitude": 4.437304,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 634,
+      "name": "Wijkhub Pendrecht Zuidwijk",
+      "latitude": 51.874345,
+      "longitude": 4.484375,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 635,
+      "name": "Wijkhub Pernis",
+      "latitude": 51.888037,
+      "longitude": 4.386974,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 636,
+      "name": "Wijkhub Rozenburg",
+      "latitude": 51.904855,
+      "longitude": 4.246867,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 637,
+      "name": "Wijkhub Schiebroek",
+      "latitude": 51.959487,
+      "longitude": 4.471018,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 638,
+      "name": "Wijkhub Spaanse Polder",
+      "latitude": 51.925392,
+      "longitude": 4.414188,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 639,
+      "name": "Wijkhub Spangen",
+      "latitude": 51.916561,
+      "longitude": 4.431409,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 640,
+      "name": "Wijkhub Vreewijk",
+      "latitude": 51.888565,
+      "longitude": 4.496564,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 641,
+      "name": "Wijkhub Zevenkamp",
+      "latitude": 51.964051,
+      "longitude": 4.573189,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 642,
+      "name": "Wijklocatie De Flier",
+      "latitude": 52.207879,
+      "longitude": 5.459762,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 643,
+      "name": "Wijkpost Seghwaert Noordhove",
+      "latitude": 52.065403,
+      "longitude": 4.521746,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 644,
+      "name": "Wijkservicecentrum Zuid-West",
+      "latitude": 52.07315,
+      "longitude": 5.095398,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 645,
+      "name": "WoonFriesland",
+      "latitude": 53.092181,
+      "longitude": 5.824781,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 646,
+      "name": "Woonhuis",
+      "latitude": 52.089451,
+      "longitude": 5.126013,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 647,
+      "name": "Zollamt Schwanenhaus",
+      "latitude": 51.34102,
+      "longitude": 6.193892,
+      "osm_klasse": "office=government"
+    },
+    {
+      "id": 648,
+      "name": "Zorginstituut Nederland",
+      "latitude": 52.329678,
+      "longitude": 4.95962,
+      "osm_klasse": "office=government"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: government (office=government) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=government in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 648 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: government (office=government) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: government (office=government) — 648 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 648 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}

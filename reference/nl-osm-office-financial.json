@@ -1,0 +1,1409 @@
+{
+  "id": "nl-osm-office-financial",
+  "name": "Netherlands OSM: financial (office=financial)",
+  "title": "Netherlands OSM: financial (office=financial)",
+  "description": "Named OpenStreetMap features tagged office=financial in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 194,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "osm_klasse",
+      "label": "Osm Klasse",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "'t Zeeuwse Hypotheek Huys",
+      "latitude": 51.493116,
+      "longitude": 4.045682,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 2,
+      "name": "'t Zeeuwse Hypotheek Huys",
+      "latitude": 51.499155,
+      "longitude": 3.889353,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 3,
+      "name": "A-Krediet",
+      "latitude": 52.007392,
+      "longitude": 5.673758,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 4,
+      "name": "ABN AMRO",
+      "latitude": 52.29647,
+      "longitude": 4.871307,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 5,
+      "name": "AFIA",
+      "latitude": 52.057882,
+      "longitude": 4.303273,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 6,
+      "name": "Aame",
+      "latitude": 52.014502,
+      "longitude": 4.37549,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 7,
+      "name": "Accon avm accountants",
+      "latitude": 52.291927,
+      "longitude": 4.843287,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 8,
+      "name": "Adfisea Doornbos",
+      "latitude": 53.407582,
+      "longitude": 6.675556,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 9,
+      "name": "Adiba",
+      "latitude": 52.515214,
+      "longitude": 6.117252,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 10,
+      "name": "Administratie & Advies Zoetermeer",
+      "latitude": 52.058494,
+      "longitude": 4.486286,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 11,
+      "name": "Administratiekantoor De Arbeid",
+      "latitude": 52.069908,
+      "longitude": 4.275357,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 12,
+      "name": "Administratiekantoor Van Kleef",
+      "latitude": 52.075582,
+      "longitude": 4.269031,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 13,
+      "name": "All for Finance",
+      "latitude": 52.319243,
+      "longitude": 4.857658,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 14,
+      "name": "Almass Administratie en Bewindvoering",
+      "latitude": 51.730364,
+      "longitude": 5.865744,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 15,
+      "name": "AlpInvest",
+      "latitude": 52.335864,
+      "longitude": 4.853506,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 16,
+      "name": "Alpina",
+      "latitude": 52.137334,
+      "longitude": 5.421348,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 17,
+      "name": "Alpina",
+      "latitude": 52.357326,
+      "longitude": 6.472174,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 18,
+      "name": "BBMC",
+      "latitude": 52.043855,
+      "longitude": 4.396768,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 19,
+      "name": "BNG Bank",
+      "latitude": 52.089756,
+      "longitude": 4.365712,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 20,
+      "name": "BTCDirect",
+      "latitude": 51.824459,
+      "longitude": 5.782682,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 21,
+      "name": "BUX",
+      "latitude": 52.360205,
+      "longitude": 4.901397,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 22,
+      "name": "Bay finance",
+      "latitude": 51.928429,
+      "longitude": 4.473099,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 23,
+      "name": "Best Living",
+      "latitude": 52.086297,
+      "longitude": 6.156217,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 24,
+      "name": "Bijsterbosch",
+      "latitude": 52.624694,
+      "longitude": 6.039964,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 25,
+      "name": "BitKassa",
+      "latitude": 51.983874,
+      "longitude": 5.910822,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 26,
+      "name": "Boekhoud- en administratiekantoor den Hartigh",
+      "latitude": 51.931349,
+      "longitude": 5.711515,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 27,
+      "name": "Boga Administratiekantoor",
+      "latitude": 51.986042,
+      "longitude": 5.913577,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 28,
+      "name": "Bontjes",
+      "latitude": 52.503902,
+      "longitude": 4.95814,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 29,
+      "name": "Brouwer de Koning Advies",
+      "latitude": 51.716654,
+      "longitude": 4.28075,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 30,
+      "name": "Burgers Accountants en Adviseurs",
+      "latitude": 52.140471,
+      "longitude": 5.589058,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 31,
+      "name": "Buro SEB",
+      "latitude": 52.159771,
+      "longitude": 4.484628,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 32,
+      "name": "Café Groningen",
+      "latitude": 52.090546,
+      "longitude": 4.270932,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 33,
+      "name": "Captive Finance",
+      "latitude": 52.131428,
+      "longitude": 5.428989,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 34,
+      "name": "Cebest B.V.",
+      "latitude": 52.270059,
+      "longitude": 5.212724,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 35,
+      "name": "Centaur",
+      "latitude": 52.513263,
+      "longitude": 6.089553,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 36,
+      "name": "Continental Realty",
+      "latitude": 52.076267,
+      "longitude": 4.39551,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 37,
+      "name": "Coöperatie Univé U.A. (Hoofdkantoor)",
+      "latitude": 53.010745,
+      "longitude": 6.570661,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 38,
+      "name": "Credion",
+      "latitude": 52.589118,
+      "longitude": 6.283654,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 39,
+      "name": "DJF Pensioenfiscalisten",
+      "latitude": 52.509293,
+      "longitude": 6.085175,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 40,
+      "name": "DRN Administratie",
+      "latitude": 52.060356,
+      "longitude": 4.310553,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 41,
+      "name": "Da Vinci Trading",
+      "latitude": 52.337481,
+      "longitude": 4.865511,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 42,
+      "name": "Davvero Accountants",
+      "latitude": 52.268254,
+      "longitude": 4.751405,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 43,
+      "name": "De Boer",
+      "latitude": 52.420635,
+      "longitude": 5.822046,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 44,
+      "name": "De Hooge Waerder",
+      "latitude": 52.47835,
+      "longitude": 4.651172,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 45,
+      "name": "De Hypotheek Shop",
+      "latitude": 52.503229,
+      "longitude": 4.962354,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 46,
+      "name": "De Hypotheekshop",
+      "latitude": 51.822264,
+      "longitude": 4.650126,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 47,
+      "name": "De Hypotheekshop",
+      "latitude": 51.873983,
+      "longitude": 4.493351,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 48,
+      "name": "De Hypotheekshop",
+      "latitude": 51.967857,
+      "longitude": 6.284864,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 49,
+      "name": "De Hypotheekshop",
+      "latitude": 52.23487,
+      "longitude": 5.95809,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 50,
+      "name": "De Hypotheekshop",
+      "latitude": 52.391071,
+      "longitude": 4.943242,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 51,
+      "name": "De Hypotheekshop",
+      "latitude": 52.478941,
+      "longitude": 4.655181,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 52,
+      "name": "De Hypotheekshop",
+      "latitude": 52.547165,
+      "longitude": 4.663699,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 53,
+      "name": "De Hypotheker",
+      "latitude": 51.576172,
+      "longitude": 4.994795,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 54,
+      "name": "De Hypotheker",
+      "latitude": 51.964451,
+      "longitude": 6.28664,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 55,
+      "name": "De Hypothekershop",
+      "latitude": 51.803678,
+      "longitude": 4.717995,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 56,
+      "name": "De Kruijff Financiele Diensten",
+      "latitude": 52.182267,
+      "longitude": 5.943149,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 57,
+      "name": "De Nieuwe Maas",
+      "latitude": 51.907083,
+      "longitude": 4.496874,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 58,
+      "name": "De Waal & Steenks",
+      "latitude": 52.022205,
+      "longitude": 4.170904,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 59,
+      "name": "Drecht Capital",
+      "latitude": 51.813685,
+      "longitude": 4.65934,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 60,
+      "name": "Drent&Bosker Administratiekantoor",
+      "latitude": 53.332823,
+      "longitude": 6.925623,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 61,
+      "name": "Eilers & Danieli",
+      "latitude": 52.209744,
+      "longitude": 6.894918,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 62,
+      "name": "Ernest Financiële Diensten",
+      "latitude": 52.503884,
+      "longitude": 4.958208,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 63,
+      "name": "Erwin Otten Advies",
+      "latitude": 52.435576,
+      "longitude": 6.233271,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 64,
+      "name": "Esdoorngroep",
+      "latitude": 52.385624,
+      "longitude": 6.450849,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 65,
+      "name": "Factura B.V.",
+      "latitude": 52.226547,
+      "longitude": 5.178932,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 66,
+      "name": "Fihansieel",
+      "latitude": 51.823638,
+      "longitude": 4.651797,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 67,
+      "name": "Financieel Centrum Kollum",
+      "latitude": 53.280324,
+      "longitude": 6.15101,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 68,
+      "name": "Financiële Inloopzaak",
+      "latitude": 52.995221,
+      "longitude": 6.563892,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 69,
+      "name": "Finans World",
+      "latitude": 51.546573,
+      "longitude": 5.089278,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 70,
+      "name": "Finovion",
+      "latitude": 52.018633,
+      "longitude": 4.428406,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 71,
+      "name": "Flow Traders",
+      "latitude": 52.371201,
+      "longitude": 4.927734,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 72,
+      "name": "Freek",
+      "latitude": 51.421881,
+      "longitude": 5.48529,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 73,
+      "name": "Freek Hypotheek",
+      "latitude": 51.658463,
+      "longitude": 5.617618,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 74,
+      "name": "Fusis Holding B.V.",
+      "latitude": 52.212589,
+      "longitude": 5.147285,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 75,
+      "name": "GGN",
+      "latitude": 52.51448,
+      "longitude": 6.122718,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 76,
+      "name": "GeldXpert",
+      "latitude": 52.483086,
+      "longitude": 4.659779,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 77,
+      "name": "Geldloket",
+      "latitude": 52.155237,
+      "longitude": 5.382485,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 78,
+      "name": "Global HK Finance",
+      "latitude": 51.730384,
+      "longitude": 5.865744,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 79,
+      "name": "Groep Kennemerwaert Accountants",
+      "latitude": 52.508268,
+      "longitude": 4.670174,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 80,
+      "name": "HAL Investments",
+      "latitude": 51.922453,
+      "longitude": 4.471584,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 81,
+      "name": "HAL Investments",
+      "latitude": 52.3085,
+      "longitude": 4.759344,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 82,
+      "name": "HSG",
+      "latitude": 52.291004,
+      "longitude": 5.792158,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 83,
+      "name": "Handelsbanken",
+      "latitude": 52.387658,
+      "longitude": 4.632652,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 84,
+      "name": "Handelsbanken",
+      "latitude": 52.506296,
+      "longitude": 6.091921,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 85,
+      "name": "Heeres Assurantiën",
+      "latitude": 52.503799,
+      "longitude": 4.95805,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 86,
+      "name": "Heideweg",
+      "latitude": 51.442838,
+      "longitude": 5.50414,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 87,
+      "name": "Heideweg",
+      "latitude": 51.726828,
+      "longitude": 5.434752,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 88,
+      "name": "Human Invest B.V.",
+      "latitude": 52.213968,
+      "longitude": 5.145601,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 89,
+      "name": "Hypotheek House Medemblik",
+      "latitude": 52.771126,
+      "longitude": 5.107391,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 90,
+      "name": "Hypotheek Visie",
+      "latitude": 52.091852,
+      "longitude": 5.131386,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 91,
+      "name": "Hypotheek Visie",
+      "latitude": 52.225876,
+      "longitude": 5.170788,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 92,
+      "name": "Hypotheek Visie",
+      "latitude": 52.267073,
+      "longitude": 6.791197,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 93,
+      "name": "Hypotheek Visie",
+      "latitude": 52.506877,
+      "longitude": 4.654042,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 94,
+      "name": "Hypotheek Visie Zwolle",
+      "latitude": 52.513281,
+      "longitude": 6.08947,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 95,
+      "name": "HypotheekVisie",
+      "latitude": 52.64156,
+      "longitude": 5.060296,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 96,
+      "name": "Hypotheekshop",
+      "latitude": 51.809378,
+      "longitude": 4.668404,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 97,
+      "name": "Hypotheekshop",
+      "latitude": 52.251926,
+      "longitude": 6.164683,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 98,
+      "name": "Hypotheekshop",
+      "latitude": 52.512692,
+      "longitude": 6.086568,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 99,
+      "name": "Hypotheekshop",
+      "latitude": 52.533991,
+      "longitude": 6.057086,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 100,
+      "name": "Hypotheekvisie Veenendaal",
+      "latitude": 52.028432,
+      "longitude": 5.559983,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 101,
+      "name": "Hyppe.nl",
+      "latitude": 52.225531,
+      "longitude": 5.171127,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 102,
+      "name": "Independer",
+      "latitude": 52.234099,
+      "longitude": 5.175139,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 103,
+      "name": "Instituut Gak",
+      "latitude": 52.226992,
+      "longitude": 5.167853,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 104,
+      "name": "Interim Direct Incasso & Debiteurenbeheer",
+      "latitude": 52.058529,
+      "longitude": 4.389984,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 105,
+      "name": "Jansen Van Den Berg Investments BV",
+      "latitude": 51.965712,
+      "longitude": 5.662406,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 106,
+      "name": "Juno Investment Partners",
+      "latitude": 52.082436,
+      "longitude": 4.311057,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 107,
+      "name": "Kasparov",
+      "latitude": 51.584476,
+      "longitude": 4.785107,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 108,
+      "name": "Kempen & Co",
+      "latitude": 52.340185,
+      "longitude": 4.876218,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 109,
+      "name": "Knab",
+      "latitude": 52.339942,
+      "longitude": 4.823963,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 110,
+      "name": "Kok & Heijkamp",
+      "latitude": 52.414133,
+      "longitude": 5.885336,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 111,
+      "name": "Kort + Partners",
+      "latitude": 52.331942,
+      "longitude": 4.885529,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 112,
+      "name": "Kottmann & Co",
+      "latitude": 52.319191,
+      "longitude": 4.857617,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 113,
+      "name": "Krooneman",
+      "latitude": 52.415427,
+      "longitude": 5.884329,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 114,
+      "name": "Kurek Administratieve Diensten",
+      "latitude": 52.080193,
+      "longitude": 4.353921,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 115,
+      "name": "Kwakkenbos Bewindvoeringen",
+      "latitude": 51.487494,
+      "longitude": 3.872635,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 116,
+      "name": "Lamond",
+      "latitude": 52.326633,
+      "longitude": 5.531943,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 117,
+      "name": "Lightning Checkout",
+      "latitude": 51.47582,
+      "longitude": 5.443148,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 118,
+      "name": "Louwers Advies",
+      "latitude": 52.053783,
+      "longitude": 4.498117,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 119,
+      "name": "Matcorp Investments",
+      "latitude": 52.291976,
+      "longitude": 4.706571,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 120,
+      "name": "Meijer CnF",
+      "latitude": 52.331931,
+      "longitude": 4.887326,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 121,
+      "name": "Midden Nederland Hypotheken",
+      "latitude": 52.139601,
+      "longitude": 5.589429,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 122,
+      "name": "Monique Morel",
+      "latitude": 52.212449,
+      "longitude": 5.14678,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 123,
+      "name": "Mulders",
+      "latitude": 52.589171,
+      "longitude": 6.283871,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 124,
+      "name": "NIB Group",
+      "latitude": 52.504101,
+      "longitude": 4.958433,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 125,
+      "name": "Notaris Schaap",
+      "latitude": 52.331169,
+      "longitude": 5.54159,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 126,
+      "name": "Notarissen 'Forum'",
+      "latitude": 53.170022,
+      "longitude": 6.606384,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 127,
+      "name": "P & W Assurantiën B.V.",
+      "latitude": 52.695511,
+      "longitude": 6.206381,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 128,
+      "name": "PBB Zijlstra",
+      "latitude": 52.449286,
+      "longitude": 4.808789,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 129,
+      "name": "Paap verzekeringen & financieringen",
+      "latitude": 52.456893,
+      "longitude": 4.607385,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 130,
+      "name": "Palime",
+      "latitude": 52.062867,
+      "longitude": 4.300151,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 131,
+      "name": "Polisdesk",
+      "latitude": 52.017896,
+      "longitude": 4.364094,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 132,
+      "name": "Pro Finans",
+      "latitude": 52.053071,
+      "longitude": 4.288821,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 133,
+      "name": "Qpensioen",
+      "latitude": 52.206518,
+      "longitude": 5.121518,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 134,
+      "name": "R.F. Drenth Beheer B.V.",
+      "latitude": 52.031594,
+      "longitude": 5.53354,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 135,
+      "name": "RLC BV",
+      "latitude": 51.647467,
+      "longitude": 4.613285,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 136,
+      "name": "Rabobank",
+      "latitude": 52.115385,
+      "longitude": 5.053,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 137,
+      "name": "Rabobank",
+      "latitude": 53.18291,
+      "longitude": 6.167202,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 138,
+      "name": "RegioBank Raadschelders en Zn.",
+      "latitude": 52.234132,
+      "longitude": 4.749948,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 139,
+      "name": "Rendabel",
+      "latitude": 52.047694,
+      "longitude": 4.504994,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 140,
+      "name": "Rentmeesterskanstoor 't Schoutenhuis",
+      "latitude": 52.082456,
+      "longitude": 5.413373,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 141,
+      "name": "S & K Risicobeheer en Financiële Planning",
+      "latitude": 52.924344,
+      "longitude": 6.792312,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 142,
+      "name": "SSH Hypotheken",
+      "latitude": 51.910563,
+      "longitude": 4.341517,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 143,
+      "name": "SVV Administratiekantoor",
+      "latitude": 52.05795,
+      "longitude": 4.302652,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 144,
+      "name": "Salario",
+      "latitude": 52.221094,
+      "longitude": 5.953535,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 145,
+      "name": "Scaldis Invest",
+      "latitude": 51.815804,
+      "longitude": 4.662371,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 146,
+      "name": "Schot",
+      "latitude": 52.141414,
+      "longitude": 6.192036,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 147,
+      "name": "Snijder Incasso en Gerechtsdeurwaarders",
+      "latitude": 52.478344,
+      "longitude": 4.659032,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 148,
+      "name": "Sproch",
+      "latitude": 52.072575,
+      "longitude": 4.310816,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 149,
+      "name": "Stroop Advies",
+      "latitude": 51.532712,
+      "longitude": 4.460745,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 150,
+      "name": "Super Garant",
+      "latitude": 52.090567,
+      "longitude": 4.405708,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 151,
+      "name": "Svenska Handelsbanken",
+      "latitude": 52.082478,
+      "longitude": 4.311195,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 152,
+      "name": "Swiss Re Life & Health Nederland",
+      "latitude": 52.317694,
+      "longitude": 4.872808,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 153,
+      "name": "TKP",
+      "latitude": 53.211371,
+      "longitude": 6.586491,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 154,
+      "name": "Tamek",
+      "latitude": 52.510093,
+      "longitude": 6.086918,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 155,
+      "name": "Taxand Nederland",
+      "latitude": 52.335352,
+      "longitude": 4.853718,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 156,
+      "name": "Tools4Treasury",
+      "latitude": 51.522999,
+      "longitude": 4.44783,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 157,
+      "name": "Trifin Adviesgroep",
+      "latitude": 52.261225,
+      "longitude": 6.789426,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 158,
+      "name": "Trots! Hypotheken",
+      "latitude": 52.600524,
+      "longitude": 4.701014,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 159,
+      "name": "Ultimoo Incasso",
+      "latitude": 52.076297,
+      "longitude": 4.894408,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 160,
+      "name": "Uysal Administratie / Konsar BV",
+      "latitude": 52.063182,
+      "longitude": 4.294989,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 161,
+      "name": "VK Administratie",
+      "latitude": 52.063978,
+      "longitude": 4.532224,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 162,
+      "name": "Vaart Adviseurs & Accountants",
+      "latitude": 51.258908,
+      "longitude": 5.701113,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 163,
+      "name": "Vallei en Heuvelrug",
+      "latitude": 52.13137,
+      "longitude": 5.426518,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 164,
+      "name": "Van Amsterdam",
+      "latitude": 52.547036,
+      "longitude": 4.664084,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 165,
+      "name": "Van Bruggen Adviesgroep",
+      "latitude": 51.835653,
+      "longitude": 4.132189,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 166,
+      "name": "Van Bruggen Adviesgroep",
+      "latitude": 52.32149,
+      "longitude": 4.857757,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 167,
+      "name": "Van Klompenburg en Bonestroo",
+      "latitude": 52.446529,
+      "longitude": 5.896926,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 168,
+      "name": "Van Lanschot",
+      "latitude": 52.387859,
+      "longitude": 4.633053,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 169,
+      "name": "Van Loon",
+      "latitude": 52.154808,
+      "longitude": 4.493446,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 170,
+      "name": "Van den Haspel & De Vries",
+      "latitude": 51.907647,
+      "longitude": 4.495501,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 171,
+      "name": "Van der Bergh & Partners",
+      "latitude": 51.914533,
+      "longitude": 4.475655,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 172,
+      "name": "Van der Eerden Hypotheken",
+      "latitude": 52.391684,
+      "longitude": 4.630947,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 173,
+      "name": "Van der Plas Makelaardij B.V.",
+      "latitude": 51.643105,
+      "longitude": 4.855344,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 174,
+      "name": "Veldsink Advies",
+      "latitude": 51.473897,
+      "longitude": 5.547585,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 175,
+      "name": "Veldsink – Bultman & Hartholt",
+      "latitude": 52.443401,
+      "longitude": 5.844472,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 176,
+      "name": "Veldsink – Bultman & Hartholt",
+      "latitude": 52.47487,
+      "longitude": 6.068184,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 177,
+      "name": "Velocity Capital",
+      "latitude": 52.275803,
+      "longitude": 5.154477,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 178,
+      "name": "Veni Enschede",
+      "latitude": 52.21987,
+      "longitude": 6.893741,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 179,
+      "name": "Vereniging van Effectenbezitters",
+      "latitude": 52.083428,
+      "longitude": 4.306357,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 180,
+      "name": "Vesting Finance",
+      "latitude": 52.366019,
+      "longitude": 5.185743,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 181,
+      "name": "Vinvest B.V.",
+      "latitude": 52.265062,
+      "longitude": 5.211278,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 182,
+      "name": "Voor Financieel Advies",
+      "latitude": 52.77395,
+      "longitude": 6.801834,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 183,
+      "name": "Wadinko",
+      "latitude": 52.506372,
+      "longitude": 6.091106,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 184,
+      "name": "Waterline Capital",
+      "latitude": 52.387817,
+      "longitude": 4.633441,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 185,
+      "name": "Welboren Financieel Advies",
+      "latitude": 52.529225,
+      "longitude": 4.714152,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 186,
+      "name": "Weleven Beheer B.V.",
+      "latitude": 52.227657,
+      "longitude": 5.171672,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 187,
+      "name": "Westeinder",
+      "latitude": 52.057879,
+      "longitude": 4.487002,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 188,
+      "name": "Wiggers van Meggelen gerechtsdeurwaarders",
+      "latitude": 52.113648,
+      "longitude": 6.218479,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 189,
+      "name": "Wij Financiële Diensten",
+      "latitude": 52.429226,
+      "longitude": 4.912734,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 190,
+      "name": "Your Anchor",
+      "latitude": 51.887848,
+      "longitude": 4.385584,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 191,
+      "name": "Zuiderhuis",
+      "latitude": 51.258957,
+      "longitude": 5.701052,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 192,
+      "name": "Zuidstad",
+      "latitude": 51.873619,
+      "longitude": 4.485196,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 193,
+      "name": "a.s.r.",
+      "latitude": 52.093147,
+      "longitude": 5.154092,
+      "osm_klasse": "office=financial"
+    },
+    {
+      "id": 194,
+      "name": "van Bruggen",
+      "latitude": 52.151165,
+      "longitude": 5.382907,
+      "osm_klasse": "office=financial"
+    }
+  ],
+  "meta": {
+    "title": "Netherlands OSM: financial (office=financial) - Gratis downloaden",
+    "description": "Named OpenStreetMap features tagged office=financial in the Netherlands, derived from the EU-POIS/NL quadkey-tiled POI export (zoom 12). Named features only; filtered to the European Netherlands bounding box (lat 50.7-53.62, lon 3.3-7.25) to exclude cross-border tile bleed; deduplicated on (name, coordinates rounded to ~100 m); coordinates to 6 dp (WGS84); sorted by name. The source ships only name and coordinates - no administrative attribute - so no province or gemeente split is possible without inference, and none was made. Native Dutch names preserved (ensure_ascii=False). Bevat 194 records. Downloaden in Excel, CSV, PDF formaat.",
+    "seo_title": "Netherlands OSM: financial (office=financial) | ListBase",
+    "seo_description": "Downloaden Netherlands OSM: financial (office=financial) — 194 records. Beschikbaar in Excel, CSV, PDF formaat.",
+    "key_takeaways": [
+      "Bevat 194 records / 5 velden",
+      "Gratis downloaden in Excel, CSV en PDF formaat",
+      "Gegevensbron: open data"
+    ]
+  }
+}
