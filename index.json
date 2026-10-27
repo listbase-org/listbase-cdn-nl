@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:32:48.115Z",
-  "total_datasets": 486,
-  "total_records": 971382,
+  "generated": "2026-10-27T02:32:50.765Z",
+  "total_datasets": 487,
+  "total_records": 971425,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -6066,6 +6066,31 @@
         "xlsx": {
           "name": "nl-klinieken_NL.xlsx",
           "size": 24505
+        }
+      }
+    },
+    {
+      "id": "nl-ministers-van-volksgezondheid",
+      "name": "Nederlandse ministers van Volksgezondheid",
+      "category": "health",
+      "record_count": 43,
+      "columns": [
+        "kabinet",
+        "periode",
+        "minister",
+        "partij"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_ministers_van_Volksgezondheid,_Welzijn_en_Sport",
+      "updated": "2026-10",
+      "size": 7682,
+      "files": {
+        "csv": {
+          "name": "nl-ministers-van-volksgezondheid_NL.csv",
+          "size": 2415
+        },
+        "xlsx": {
+          "name": "nl-ministers-van-volksgezondheid_NL.xlsx",
+          "size": 8345
         }
       }
     },
