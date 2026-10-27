@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:33:16.384Z",
-  "total_datasets": 497,
-  "total_records": 972002,
+  "generated": "2026-10-27T02:33:19.072Z",
+  "total_datasets": 498,
+  "total_records": 972077,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -6564,6 +6564,31 @@
         "xlsx": {
           "name": "nl-tweede-kamerverkiezingen-2025-uitslag_NL.xlsx",
           "size": 8547
+        }
+      }
+    },
+    {
+      "id": "nl-voorzitters-tweede-kamer",
+      "name": "Voorzitters van de Tweede Kamer",
+      "category": "politics",
+      "record_count": 75,
+      "columns": [
+        "periode",
+        "voorzitter",
+        "partij",
+        "termijn"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_voorzitters_van_de_Tweede_Kamer",
+      "updated": "2026-10",
+      "size": 13348,
+      "files": {
+        "csv": {
+          "name": "nl-voorzitters-tweede-kamer_NL.csv",
+          "size": 5448
+        },
+        "xlsx": {
+          "name": "nl-voorzitters-tweede-kamer_NL.xlsx",
+          "size": 10126
         }
       }
     },
