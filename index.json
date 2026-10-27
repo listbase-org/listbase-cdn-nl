@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:32:32.911Z",
-  "total_datasets": 480,
-  "total_records": 971092,
+  "generated": "2026-10-27T02:32:35.318Z",
+  "total_datasets": 481,
+  "total_records": 971105,
   "categories": [
     {
       "id": "culture",
@@ -39,6 +39,10 @@
     {
       "id": "health",
       "dataset_count": 5
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "language",
@@ -6002,6 +6006,30 @@
         "xlsx": {
           "name": "nl-tandartsen_NL.xlsx",
           "size": 63719
+        }
+      }
+    },
+    {
+      "id": "nl-koningen-der-nederlanden",
+      "name": "Koningen der Nederlanden",
+      "category": "history",
+      "record_count": 13,
+      "columns": [
+        "koning",
+        "regeerperiode",
+        "dynastie"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_koningen_der_Nederlanden",
+      "updated": "2026-10",
+      "size": 3720,
+      "files": {
+        "csv": {
+          "name": "nl-koningen-der-nederlanden_NL.csv",
+          "size": 1409
+        },
+        "xlsx": {
+          "name": "nl-koningen-der-nederlanden_NL.xlsx",
+          "size": 7259
         }
       }
     },
