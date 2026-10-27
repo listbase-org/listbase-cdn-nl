@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:32:50.765Z",
-  "total_datasets": 487,
-  "total_records": 971425,
+  "generated": "2026-10-27T02:32:53.185Z",
+  "total_datasets": 488,
+  "total_records": 971445,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -12388,6 +12388,31 @@
         "xlsx": {
           "name": "nl-dierenartsen_NL.xlsx",
           "size": 27727
+        }
+      }
+    },
+    {
+      "id": "nl-nobelprijswinnaars",
+      "name": "Nederlandse Nobelprijswinnaars",
+      "category": "science",
+      "record_count": 20,
+      "columns": [
+        "jaar",
+        "prijs",
+        "naam",
+        "toelichting"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_Nobelprijswinnaars",
+      "updated": "2026-10",
+      "size": 6495,
+      "files": {
+        "csv": {
+          "name": "nl-nobelprijswinnaars_NL.csv",
+          "size": 3484
+        },
+        "xlsx": {
+          "name": "nl-nobelprijswinnaars_NL.xlsx",
+          "size": 8714
         }
       }
     },
