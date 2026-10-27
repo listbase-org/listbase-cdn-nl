@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:33:03.411Z",
-  "total_datasets": 492,
-  "total_records": 971629,
+  "generated": "2026-10-27T02:33:05.936Z",
+  "total_datasets": 493,
+  "total_records": 971742,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -12544,6 +12544,31 @@
         "xlsx": {
           "name": "nl-osm-amenity-parking-space_NL.xlsx",
           "size": 22984
+        }
+      }
+    },
+    {
+      "id": "nl-spinozapremie-laureaten",
+      "name": "Spinozapremie — laureaten",
+      "category": "science",
+      "record_count": 113,
+      "columns": [
+        "jaar",
+        "naam",
+        "vakgebied",
+        "universiteit"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Spinozapremie",
+      "updated": "2026-10",
+      "size": 19523,
+      "files": {
+        "csv": {
+          "name": "nl-spinozapremie-laureaten_NL.csv",
+          "size": 8711
+        },
+        "xlsx": {
+          "name": "nl-spinozapremie-laureaten_NL.xlsx",
+          "size": 11455
         }
       }
     },
