@@ -1,9 +1,13 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:32:35.318Z",
-  "total_datasets": 481,
-  "total_records": 971105,
+  "generated": "2026-10-27T02:32:37.961Z",
+  "total_datasets": 482,
+  "total_records": 971132,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 10
@@ -98,6 +102,45 @@
     }
   ],
   "datasets": [
+    {
+      "id": "nl-landbouwtelling-nederland-per-jaar",
+      "name": "Landbouwtelling Nederland per jaar (2000–2026)",
+      "category": "agriculture",
+      "record_count": 27,
+      "columns": [
+        "jaar",
+        "landbouwbedrijven",
+        "cultuurgrond_are",
+        "akkerbouw_are",
+        "tuinbouw_open_grond_are",
+        "tuinbouw_onder_glas_are",
+        "grasland_groenvoeder_are",
+        "aardappelen_are",
+        "granen_are",
+        "uien_are",
+        "bloembollen_are",
+        "rundvee",
+        "melk_en_kalfkoeien",
+        "schapen",
+        "geiten",
+        "paarden_en_pony",
+        "varkens",
+        "kippen"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/80780ned/table",
+      "updated": "2026-10",
+      "size": 19053,
+      "files": {
+        "csv": {
+          "name": "nl-landbouwtelling-nederland-per-jaar_NL.csv",
+          "size": 5163
+        },
+        "xlsx": {
+          "name": "nl-landbouwtelling-nederland-per-jaar_NL.xlsx",
+          "size": 10818
+        }
+      }
+    },
     {
       "id": "nl-bioscopen",
       "name": "Cinemas in the Netherlands",
