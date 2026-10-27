@@ -1,12 +1,12 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:32:37.961Z",
-  "total_datasets": 482,
-  "total_records": 971132,
+  "generated": "2026-10-27T02:32:40.451Z",
+  "total_datasets": 483,
+  "total_records": 971144,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -138,6 +138,46 @@
         "xlsx": {
           "name": "nl-landbouwtelling-nederland-per-jaar_NL.xlsx",
           "size": 10818
+        }
+      }
+    },
+    {
+      "id": "nl-landbouwtelling-provincies-2025",
+      "name": "Landbouwtelling per provincie (2025)",
+      "category": "agriculture",
+      "record_count": 12,
+      "columns": [
+        "provincie",
+        "jaar",
+        "landbouwbedrijven",
+        "cultuurgrond_are",
+        "akkerbouw_are",
+        "tuinbouw_open_grond_are",
+        "tuinbouw_onder_glas_are",
+        "grasland_groenvoeder_are",
+        "aardappelen_are",
+        "granen_are",
+        "uien_are",
+        "bloembollen_are",
+        "rundvee",
+        "melk_en_kalfkoeien",
+        "schapen",
+        "geiten",
+        "paarden_en_pony",
+        "varkens",
+        "kippen"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/80780ned/table",
+      "updated": "2026-10",
+      "size": 10311,
+      "files": {
+        "csv": {
+          "name": "nl-landbouwtelling-provincies-2025_NL.csv",
+          "size": 2350
+        },
+        "xlsx": {
+          "name": "nl-landbouwtelling-provincies-2025_NL.xlsx",
+          "size": 8700
         }
       }
     },

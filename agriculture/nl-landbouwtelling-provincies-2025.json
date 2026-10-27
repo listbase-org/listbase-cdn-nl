@@ -1,0 +1,373 @@
+{
+  "id": "nl-landbouwtelling-provincies-2025",
+  "name": "Landbouwtelling per provincie (2025)",
+  "title": "Landbouwtelling per provincie (2025)",
+  "description": "Landbouwbedrijven, oppervlakte gewassen en aantal landbouwhuisdieren per provincie in 2025. Bron: CBS (tabel 80780ned).",
+  "category": "agriculture",
+  "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/80780ned/table",
+  "source_url": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/80780ned/table",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "provincie",
+      "label": "Provincie",
+      "type": "string"
+    },
+    {
+      "key": "jaar",
+      "label": "Jaar",
+      "type": "number"
+    },
+    {
+      "key": "landbouwbedrijven",
+      "label": "Landbouwbedrijven",
+      "type": "number"
+    },
+    {
+      "key": "cultuurgrond_are",
+      "label": "Cultuurgrond Are",
+      "type": "number"
+    },
+    {
+      "key": "akkerbouw_are",
+      "label": "Akkerbouw Are",
+      "type": "number"
+    },
+    {
+      "key": "tuinbouw_open_grond_are",
+      "label": "Tuinbouw Open Grond Are",
+      "type": "number"
+    },
+    {
+      "key": "tuinbouw_onder_glas_are",
+      "label": "Tuinbouw Onder Glas Are",
+      "type": "number"
+    },
+    {
+      "key": "grasland_groenvoeder_are",
+      "label": "Grasland Groenvoeder Are",
+      "type": "number"
+    },
+    {
+      "key": "aardappelen_are",
+      "label": "Aardappelen Are",
+      "type": "number"
+    },
+    {
+      "key": "granen_are",
+      "label": "Granen Are",
+      "type": "number"
+    },
+    {
+      "key": "uien_are",
+      "label": "Uien Are",
+      "type": "number"
+    },
+    {
+      "key": "bloembollen_are",
+      "label": "Bloembollen Are",
+      "type": "number"
+    },
+    {
+      "key": "rundvee",
+      "label": "Rundvee",
+      "type": "number"
+    },
+    {
+      "key": "melk_en_kalfkoeien",
+      "label": "Melk En Kalfkoeien",
+      "type": "number"
+    },
+    {
+      "key": "schapen",
+      "label": "Schapen",
+      "type": "number"
+    },
+    {
+      "key": "geiten",
+      "label": "Geiten",
+      "type": "number"
+    },
+    {
+      "key": "paarden_en_pony",
+      "label": "Paarden En Pony",
+      "type": "number"
+    },
+    {
+      "key": "varkens",
+      "label": "Varkens",
+      "type": "number"
+    },
+    {
+      "key": "kippen",
+      "label": "Kippen",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "provincie": "Groningen",
+      "jaar": 2025,
+      "landbouwbedrijven": 2367,
+      "cultuurgrond_are": 15814356,
+      "akkerbouw_are": 8354067,
+      "tuinbouw_open_grond_are": 120834,
+      "tuinbouw_onder_glas_are": 5734,
+      "grasland_groenvoeder_are": 7333721,
+      "aardappelen_are": 2366826,
+      "granen_are": 3223640,
+      "uien_are": 487129,
+      "bloembollen_are": 38910,
+      "rundvee": 192421,
+      "melk_en_kalfkoeien": 100220,
+      "schapen": 60836,
+      "geiten": 11356,
+      "paarden_en_pony": 4084,
+      "varkens": 123574,
+      "kippen": 4299041
+    },
+    {
+      "provincie": "Fryslân",
+      "jaar": 2025,
+      "landbouwbedrijven": 3969,
+      "cultuurgrond_are": 22483741,
+      "akkerbouw_are": 2315082,
+      "tuinbouw_open_grond_are": 167032,
+      "tuinbouw_onder_glas_are": 8150,
+      "grasland_groenvoeder_are": 19993477,
+      "aardappelen_are": 906545,
+      "granen_are": 601376,
+      "uien_are": 173572,
+      "bloembollen_are": 64743,
+      "rundvee": 516049,
+      "melk_en_kalfkoeien": 289678,
+      "schapen": 101468,
+      "geiten": 28529,
+      "paarden_en_pony": 10803,
+      "varkens": 126221,
+      "kippen": 5719696
+    },
+    {
+      "provincie": "Drenthe",
+      "jaar": 2025,
+      "landbouwbedrijven": 2611,
+      "cultuurgrond_are": 14720511,
+      "akkerbouw_are": 6248486,
+      "tuinbouw_open_grond_are": 320988,
+      "tuinbouw_onder_glas_are": 14824,
+      "grasland_groenvoeder_are": 8136213,
+      "aardappelen_are": 2662531,
+      "granen_are": 1328805,
+      "uien_are": 410443,
+      "bloembollen_are": 220229,
+      "rundvee": 216734,
+      "melk_en_kalfkoeien": 102180,
+      "schapen": 38332,
+      "geiten": 26568,
+      "paarden_en_pony": 5612,
+      "varkens": 168640,
+      "kippen": 7328154
+    },
+    {
+      "provincie": "Overijssel",
+      "jaar": 2025,
+      "landbouwbedrijven": 6258,
+      "cultuurgrond_are": 19552480,
+      "akkerbouw_are": 2083670,
+      "tuinbouw_open_grond_are": 223625,
+      "tuinbouw_onder_glas_are": 15765,
+      "grasland_groenvoeder_are": 17229420,
+      "aardappelen_are": 821279,
+      "granen_are": 628728,
+      "uien_are": 113699,
+      "bloembollen_are": 100381,
+      "rundvee": 594730,
+      "melk_en_kalfkoeien": 248146,
+      "schapen": 57590,
+      "geiten": 94956,
+      "paarden_en_pony": 10878,
+      "varkens": 1310434,
+      "kippen": 10378973
+    },
+    {
+      "provincie": "Flevoland",
+      "jaar": 2025,
+      "landbouwbedrijven": 1578,
+      "cultuurgrond_are": 8799400,
+      "akkerbouw_are": 6072708,
+      "tuinbouw_open_grond_are": 808285,
+      "tuinbouw_onder_glas_are": 42548,
+      "grasland_groenvoeder_are": 1875859,
+      "aardappelen_are": 1849487,
+      "granen_are": 1425735,
+      "uien_are": 941440,
+      "bloembollen_are": 434437,
+      "rundvee": 61643,
+      "melk_en_kalfkoeien": 33839,
+      "schapen": 8220,
+      "geiten": 8684,
+      "paarden_en_pony": 1583,
+      "varkens": 85245,
+      "kippen": 2669636
+    },
+    {
+      "provincie": "Gelderland",
+      "jaar": 2025,
+      "landbouwbedrijven": 8232,
+      "cultuurgrond_are": 22204679,
+      "akkerbouw_are": 2762115,
+      "tuinbouw_open_grond_are": 977128,
+      "tuinbouw_onder_glas_are": 70011,
+      "grasland_groenvoeder_are": 18395425,
+      "aardappelen_are": 676128,
+      "granen_are": 1198643,
+      "uien_are": 124238,
+      "bloembollen_are": 14687,
+      "rundvee": 837525,
+      "melk_en_kalfkoeien": 220960,
+      "schapen": 92593,
+      "geiten": 153508,
+      "paarden_en_pony": 18597,
+      "varkens": 1504903,
+      "kippen": 16210112
+    },
+    {
+      "provincie": "Utrecht",
+      "jaar": 2025,
+      "landbouwbedrijven": 2207,
+      "cultuurgrond_are": 7047039,
+      "akkerbouw_are": 186358,
+      "tuinbouw_open_grond_are": 249465,
+      "tuinbouw_onder_glas_are": 8201,
+      "grasland_groenvoeder_are": 6603015,
+      "aardappelen_are": 14909,
+      "granen_are": 91555,
+      "uien_are": 52,
+      "bloembollen_are": 432,
+      "rundvee": 202145,
+      "melk_en_kalfkoeien": 92444,
+      "schapen": 33273,
+      "geiten": 36046,
+      "paarden_en_pony": 6502,
+      "varkens": 232912,
+      "kippen": 2287057
+    },
+    {
+      "provincie": "Noord-Holland",
+      "jaar": 2025,
+      "landbouwbedrijven": 3211,
+      "cultuurgrond_are": 12508294,
+      "akkerbouw_are": 2988424,
+      "tuinbouw_open_grond_are": 2004761,
+      "tuinbouw_onder_glas_are": 101810,
+      "grasland_groenvoeder_are": 7413299,
+      "aardappelen_are": 923889,
+      "granen_are": 847161,
+      "uien_are": 220565,
+      "bloembollen_are": 1263035,
+      "rundvee": 145405,
+      "melk_en_kalfkoeien": 85541,
+      "schapen": 88837,
+      "geiten": 19463,
+      "paarden_en_pony": 7444,
+      "varkens": 17528,
+      "kippen": 1063019
+    },
+    {
+      "provincie": "Zuid-Holland",
+      "jaar": 2025,
+      "landbouwbedrijven": 4060,
+      "cultuurgrond_are": 11630941,
+      "akkerbouw_are": 3485012,
+      "tuinbouw_open_grond_are": 729383,
+      "tuinbouw_onder_glas_are": 473159,
+      "grasland_groenvoeder_are": 6943387,
+      "aardappelen_are": 996046,
+      "granen_are": 1131338,
+      "uien_are": 340518,
+      "bloembollen_are": 331261,
+      "rundvee": 154718,
+      "melk_en_kalfkoeien": 89617,
+      "schapen": 72463,
+      "geiten": 19711,
+      "paarden_en_pony": 8067,
+      "varkens": 116644,
+      "kippen": 489828
+    },
+    {
+      "provincie": "Zeeland",
+      "jaar": 2025,
+      "landbouwbedrijven": 2634,
+      "cultuurgrond_are": 11854746,
+      "akkerbouw_are": 8370420,
+      "tuinbouw_open_grond_are": 656566,
+      "tuinbouw_onder_glas_are": 29666,
+      "grasland_groenvoeder_are": 2798094,
+      "aardappelen_are": 1994099,
+      "granen_are": 2953310,
+      "uien_are": 555083,
+      "bloembollen_are": 37215,
+      "rundvee": 49608,
+      "melk_en_kalfkoeien": 21965,
+      "schapen": 31688,
+      "geiten": 5119,
+      "paarden_en_pony": 2789,
+      "varkens": 58989,
+      "kippen": 1971590
+    },
+    {
+      "provincie": "Noord-Brabant",
+      "jaar": 2025,
+      "landbouwbedrijven": 8606,
+      "cultuurgrond_are": 23282656,
+      "akkerbouw_are": 7575561,
+      "tuinbouw_open_grond_are": 1748808,
+      "tuinbouw_onder_glas_are": 147034,
+      "grasland_groenvoeder_are": 13811253,
+      "aardappelen_are": 2339037,
+      "granen_are": 1718988,
+      "uien_are": 670552,
+      "bloembollen_are": 108135,
+      "rundvee": 560555,
+      "melk_en_kalfkoeien": 201118,
+      "schapen": 64363,
+      "geiten": 176954,
+      "paarden_en_pony": 18515,
+      "varkens": 4720400,
+      "kippen": 21555353
+    },
+    {
+      "provincie": "Limburg",
+      "jaar": 2025,
+      "landbouwbedrijven": 3344,
+      "cultuurgrond_are": 9476933,
+      "akkerbouw_are": 4011138,
+      "tuinbouw_open_grond_are": 1143748,
+      "tuinbouw_onder_glas_are": 85992,
+      "grasland_groenvoeder_are": 4236055,
+      "aardappelen_are": 823420,
+      "granen_are": 1377638,
+      "uien_are": 192934,
+      "bloembollen_are": 117134,
+      "rundvee": 112263,
+      "melk_en_kalfkoeien": 41129,
+      "schapen": 26358,
+      "geiten": 47124,
+      "paarden_en_pony": 8463,
+      "varkens": 1300099,
+      "kippen": 13749241
+    }
+  ],
+  "meta": {
+    "title": "Landbouwtelling per provincie (2025) - Free Download",
+    "description": "Landbouwbedrijven, oppervlakte gewassen en aantal landbouwhuisdieren per provincie in 2025. Bron: CBS (tabel 80780ned). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Landbouwtelling per provincie (2025) | ListBase",
+    "seo_description": "Download Landbouwtelling per provincie (2025) — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 19 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://opendata.cbs.nl/statline/#/CBS/nl/dataset/80780ned/table"
+    ]
+  }
+}
