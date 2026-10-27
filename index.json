@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:32:45.464Z",
-  "total_datasets": 485,
-  "total_records": 971275,
+  "generated": "2026-10-27T02:32:48.115Z",
+  "total_datasets": 486,
+  "total_records": 971382,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -6188,6 +6188,32 @@
         "xlsx": {
           "name": "nl-belgische-ministers-van-justitie_NL.xlsx",
           "size": 12099
+        }
+      }
+    },
+    {
+      "id": "nl-ministers-van-justitie",
+      "name": "Nederlandse ministers van Justitie",
+      "category": "law",
+      "record_count": 107,
+      "columns": [
+        "periode",
+        "minister",
+        "partij",
+        "kabinet",
+        "benoeming_en_ontslag"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_ministers_van_Justitie",
+      "updated": "2026-10",
+      "size": 25552,
+      "files": {
+        "csv": {
+          "name": "nl-ministers-van-justitie_NL.csv",
+          "size": 11585
+        },
+        "xlsx": {
+          "name": "nl-ministers-van-justitie_NL.xlsx",
+          "size": 12447
         }
       }
     },
