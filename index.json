@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:32:42.929Z",
-  "total_datasets": 484,
-  "total_records": 971177,
+  "generated": "2026-10-27T02:32:45.464Z",
+  "total_datasets": 485,
+  "total_records": 971275,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 35
+      "dataset_count": 36
     },
     {
       "id": "food",
@@ -3706,6 +3706,31 @@
         "xlsx": {
           "name": "nl-maastricht-banken_NL.xlsx",
           "size": 7031
+        }
+      }
+    },
+    {
+      "id": "nl-ministers-van-financien",
+      "name": "Nederlandse ministers van Financiën",
+      "category": "finance",
+      "record_count": 98,
+      "columns": [
+        "kabinet",
+        "periode",
+        "minister",
+        "partij"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_ministers_van_Financiën",
+      "updated": "2026-10",
+      "size": 16674,
+      "files": {
+        "csv": {
+          "name": "nl-ministers-van-financien_NL.csv",
+          "size": 6916
+        },
+        "xlsx": {
+          "name": "nl-ministers-van-financien_NL.xlsx",
+          "size": 10525
         }
       }
     },
