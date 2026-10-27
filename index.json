@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:32:30.472Z",
-  "total_datasets": 479,
-  "total_records": 971026,
+  "generated": "2026-10-27T02:32:32.911Z",
+  "total_datasets": 480,
+  "total_records": 971092,
   "categories": [
     {
       "id": "culture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -6052,6 +6052,34 @@
         "xlsx": {
           "name": "nl-belgische-ministers-van-justitie_NL.xlsx",
           "size": 12099
+        }
+      }
+    },
+    {
+      "id": "nl-eurovisiesongfestival",
+      "name": "Nederland op het Eurovisiesongfestival",
+      "category": "music",
+      "record_count": 66,
+      "columns": [
+        "jaar",
+        "artiest",
+        "titel",
+        "finale_plaats",
+        "finale_punten",
+        "semi_plaats",
+        "taal"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Nederland_op_het_Eurovisiesongfestival",
+      "updated": "2026-10",
+      "size": 15272,
+      "files": {
+        "csv": {
+          "name": "nl-eurovisiesongfestival_NL.csv",
+          "size": 4242
+        },
+        "xlsx": {
+          "name": "nl-eurovisiesongfestival_NL.xlsx",
+          "size": 10256
         }
       }
     },
