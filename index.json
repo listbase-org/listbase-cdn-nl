@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:33:08.553Z",
-  "total_datasets": 494,
-  "total_records": 971898,
+  "generated": "2026-10-27T02:33:11.220Z",
+  "total_datasets": 495,
+  "total_records": 971932,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -6478,6 +6478,36 @@
         "xlsx": {
           "name": "nl-premiers-van-belgie_NL.xlsx",
           "size": 10819
+        }
+      }
+    },
+    {
+      "id": "nl-tweede-kamerverkiezingen-2023-uitslag",
+      "name": "Tweede Kamerverkiezingen 2023 — uitslag",
+      "category": "politics",
+      "record_count": 34,
+      "columns": [
+        "partij",
+        "stemmen_2021",
+        "procent_2021",
+        "zetels_2021",
+        "stemmen_2023",
+        "procent_2023",
+        "zetels_2023",
+        "verschil_procentpunt",
+        "verschil_zetels"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Tweede_Kamerverkiezingen_2023",
+      "updated": "2026-10",
+      "size": 11532,
+      "files": {
+        "csv": {
+          "name": "nl-tweede-kamerverkiezingen-2023-uitslag_NL.csv",
+          "size": 2395
+        },
+        "xlsx": {
+          "name": "nl-tweede-kamerverkiezingen-2023-uitslag_NL.xlsx",
+          "size": 8771
         }
       }
     },
