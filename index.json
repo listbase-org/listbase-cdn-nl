@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:32:53.185Z",
-  "total_datasets": 488,
-  "total_records": 971445,
+  "generated": "2026-10-27T02:32:55.759Z",
+  "total_datasets": 489,
+  "total_records": 971505,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -6163,6 +6163,33 @@
         "xlsx": {
           "name": "nl-koningen-der-nederlanden_NL.xlsx",
           "size": 7259
+        }
+      }
+    },
+    {
+      "id": "nl-oorlogen-van-nederland",
+      "name": "Oorlogen van Nederland",
+      "category": "history",
+      "record_count": 60,
+      "columns": [
+        "begin",
+        "eind",
+        "conflict",
+        "partij_1",
+        "partij_2",
+        "uitkomst"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_oorlogen_van_Nederland",
+      "updated": "2026-10",
+      "size": 23790,
+      "files": {
+        "csv": {
+          "name": "nl-oorlogen-van-nederland_NL.csv",
+          "size": 15042
+        },
+        "xlsx": {
+          "name": "nl-oorlogen-van-nederland_NL.xlsx",
+          "size": 13091
         }
       }
     },
