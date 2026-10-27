@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:32:22.900Z",
-  "total_datasets": 476,
-  "total_records": 970687,
+  "generated": "2026-10-27T02:32:25.641Z",
+  "total_datasets": 477,
+  "total_records": 970731,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -929,6 +929,31 @@
         "xlsx": {
           "name": "nl-aex-fondsen_NL.xlsx",
           "size": 7821
+        }
+      }
+    },
+    {
+      "id": "nl-aex-jaarkoersen",
+      "name": "AEX-index — jaarlijkse slotkoersen en rendement",
+      "category": "economy",
+      "record_count": 44,
+      "columns": [
+        "datum",
+        "koers",
+        "jaarrendement",
+        "cumulatief"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/AEX",
+      "updated": "2026-10",
+      "size": 6892,
+      "files": {
+        "csv": {
+          "name": "nl-aex-jaarkoersen_NL.csv",
+          "size": 1605
+        },
+        "xlsx": {
+          "name": "nl-aex-jaarkoersen_NL.xlsx",
+          "size": 8230
         }
       }
     },
