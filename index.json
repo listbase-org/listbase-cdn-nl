@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:33:11.220Z",
-  "total_datasets": 495,
-  "total_records": 971932,
+  "generated": "2026-10-27T02:33:13.695Z",
+  "total_datasets": 496,
+  "total_records": 971961,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -6508,6 +6508,36 @@
         "xlsx": {
           "name": "nl-tweede-kamerverkiezingen-2023-uitslag_NL.xlsx",
           "size": 8771
+        }
+      }
+    },
+    {
+      "id": "nl-tweede-kamerverkiezingen-2025-uitslag",
+      "name": "Tweede Kamerverkiezingen 2025 — uitslag",
+      "category": "politics",
+      "record_count": 29,
+      "columns": [
+        "partij",
+        "stemmen_2023",
+        "procent_2023",
+        "zetels_2023",
+        "stemmen_2025",
+        "procent_2025",
+        "zetels_2025",
+        "verschil_procentpunt",
+        "verschil_zetels"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Tweede_Kamerverkiezingen_2025",
+      "updated": "2026-10",
+      "size": 10111,
+      "files": {
+        "csv": {
+          "name": "nl-tweede-kamerverkiezingen-2025-uitslag_NL.csv",
+          "size": 2070
+        },
+        "xlsx": {
+          "name": "nl-tweede-kamerverkiezingen-2025-uitslag_NL.xlsx",
+          "size": 8547
         }
       }
     },
