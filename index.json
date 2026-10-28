@@ -1,12 +1,12 @@
 {
   "lang": "nl",
-  "generated": "2026-10-28T02:26:00.729Z",
-  "total_datasets": 499,
-  "total_records": 972161,
+  "generated": "2026-10-28T02:26:03.281Z",
+  "total_datasets": 500,
+  "total_records": 972212,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -178,6 +178,31 @@
         "xlsx": {
           "name": "nl-landbouwtelling-provincies-2025_NL.xlsx",
           "size": 8700
+        }
+      }
+    },
+    {
+      "id": "nl-ministers-van-landbouw",
+      "name": "Nederlandse ministers van Landbouw",
+      "category": "agriculture",
+      "record_count": 51,
+      "columns": [
+        "cabinet",
+        "period",
+        "minister",
+        "office"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_ministers_van_Landbouw,_Visserij,_Voedselzekerheid_en_Natuur",
+      "updated": "2026-10",
+      "size": 11522,
+      "files": {
+        "csv": {
+          "name": "nl-ministers-van-landbouw_NL.csv",
+          "size": 5605
+        },
+        "xlsx": {
+          "name": "nl-ministers-van-landbouw_NL.xlsx",
+          "size": 9026
         }
       }
     },
