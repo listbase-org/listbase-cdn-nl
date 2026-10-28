@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-27T02:33:19.072Z",
-  "total_datasets": 498,
-  "total_records": 972077,
+  "generated": "2026-10-28T02:26:00.729Z",
+  "total_datasets": 499,
+  "total_records": 972161,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -1049,6 +1049,32 @@
         "xlsx": {
           "name": "nl-aex-jaarkoersen_NL.xlsx",
           "size": 8230
+        }
+      }
+    },
+    {
+      "id": "nl-ministers-van-economische-zaken",
+      "name": "Nederlandse ministers van Economische Zaken",
+      "category": "economy",
+      "record_count": 84,
+      "columns": [
+        "cabinet",
+        "period",
+        "minister",
+        "party",
+        "office"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_ministers_van_Economische_Zaken_en_Klimaat",
+      "updated": "2026-10",
+      "size": 18897,
+      "files": {
+        "csv": {
+          "name": "nl-ministers-van-economische-zaken_NL.csv",
+          "size": 8793
+        },
+        "xlsx": {
+          "name": "nl-ministers-van-economische-zaken_NL.xlsx",
+          "size": 10424
         }
       }
     },
