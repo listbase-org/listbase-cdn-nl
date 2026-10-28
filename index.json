@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-28T02:26:03.281Z",
-  "total_datasets": 500,
-  "total_records": 972212,
+  "generated": "2026-10-28T02:26:05.956Z",
+  "total_datasets": 501,
+  "total_records": 972238,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -3037,6 +3037,33 @@
         "xlsx": {
           "name": "nl-nachtclubs_NL.xlsx",
           "size": 13126
+        }
+      }
+    },
+    {
+      "id": "nl-succesvolste-nederlandse-films",
+      "name": "Succesvolste Nederlandse films",
+      "category": "entertainment",
+      "record_count": 26,
+      "columns": [
+        "rank",
+        "year",
+        "title",
+        "director",
+        "visitors",
+        "language"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_succesvolste_Nederlandse_films",
+      "updated": "2026-10",
+      "size": 6406,
+      "files": {
+        "csv": {
+          "name": "nl-succesvolste-nederlandse-films_NL.csv",
+          "size": 1898
+        },
+        "xlsx": {
+          "name": "nl-succesvolste-nederlandse-films_NL.xlsx",
+          "size": 8067
         }
       }
     },
