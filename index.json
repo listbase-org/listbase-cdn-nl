@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-28T02:26:05.956Z",
-  "total_datasets": 501,
-  "total_records": 972238,
+  "generated": "2026-10-28T02:26:08.332Z",
+  "total_datasets": 502,
+  "total_records": 972379,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "time",
@@ -13255,6 +13255,29 @@
         "xlsx": {
           "name": "nl-osm-shop-sports_NL.xlsx",
           "size": 32634
+        }
+      }
+    },
+    {
+      "id": "nl-netnummers",
+      "name": "Nederlandse netnummers",
+      "category": "tech",
+      "record_count": 141,
+      "columns": [
+        "area_code",
+        "places"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_netnummers",
+      "updated": "2026-10",
+      "size": 36821,
+      "files": {
+        "csv": {
+          "name": "nl-netnummers_NL.csv",
+          "size": 28667
+        },
+        "xlsx": {
+          "name": "nl-netnummers_NL.xlsx",
+          "size": 21182
         }
       }
     },
