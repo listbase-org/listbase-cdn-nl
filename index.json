@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-29T02:16:51.722Z",
-  "total_datasets": 503,
-  "total_records": 972425,
+  "generated": "2026-10-29T02:16:54.572Z",
+  "total_datasets": 504,
+  "total_records": 972716,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -6317,6 +6317,30 @@
         "xlsx": {
           "name": "nl-oorlogen-van-nederland_NL.xlsx",
           "size": 13091
+        }
+      }
+    },
+    {
+      "id": "nl-rampen-in-nederland",
+      "name": "Rampen in Nederland",
+      "category": "history",
+      "record_count": 291,
+      "columns": [
+        "year",
+        "period",
+        "description"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_rampen_in_Nederland",
+      "updated": "2026-10",
+      "size": 116247,
+      "files": {
+        "csv": {
+          "name": "nl-rampen-in-nederland_NL.csv",
+          "size": 96247
+        },
+        "xlsx": {
+          "name": "nl-rampen-in-nederland_NL.xlsx",
+          "size": 42558
         }
       }
     },
