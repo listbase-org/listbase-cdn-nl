@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-29T02:16:57.056Z",
-  "total_datasets": 505,
-  "total_records": 972727,
+  "generated": "2026-10-29T02:16:59.425Z",
+  "total_datasets": 506,
+  "total_records": 972737,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -6390,6 +6390,35 @@
         "xlsx": {
           "name": "nl-talen_NL.xlsx",
           "size": 18887
+        }
+      }
+    },
+    {
+      "id": "nl-thuistaal-per-regio",
+      "name": "Thuistaal in Nederland per regio en stedelijkheid",
+      "category": "language",
+      "record_count": 10,
+      "columns": [
+        "group",
+        "category",
+        "dutch_pct",
+        "frisian_pct",
+        "low_saxon_pct",
+        "limburgish_pct",
+        "dialect_pct",
+        "other_language_pct"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Nederlandse_dialecten",
+      "updated": "2026-10",
+      "size": 4557,
+      "files": {
+        "csv": {
+          "name": "nl-thuistaal-per-regio_NL.csv",
+          "size": 809
+        },
+        "xlsx": {
+          "name": "nl-thuistaal-per-regio_NL.xlsx",
+          "size": 7318
         }
       }
     },
