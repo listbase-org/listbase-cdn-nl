@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-29T02:16:54.572Z",
-  "total_datasets": 504,
-  "total_records": 972716,
+  "generated": "2026-10-29T02:16:57.056Z",
+  "total_datasets": 505,
+  "total_records": 972727,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -6468,6 +6468,29 @@
         "xlsx": {
           "name": "nl-presidenten-hoge-raad_NL.xlsx",
           "size": 8756
+        }
+      }
+    },
+    {
+      "id": "nl-rechtbanken",
+      "name": "Rechtbanken in Nederland",
+      "category": "law",
+      "record_count": 11,
+      "columns": [
+        "court",
+        "arrondissement"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_rechtbanken_in_Nederland",
+      "updated": "2026-10",
+      "size": 2263,
+      "files": {
+        "csv": {
+          "name": "nl-rechtbanken_NL.csv",
+          "size": 461
+        },
+        "xlsx": {
+          "name": "nl-rechtbanken_NL.xlsx",
+          "size": 6949
         }
       }
     },
