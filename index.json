@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-28T02:26:08.332Z",
-  "total_datasets": 502,
-  "total_records": 972379,
+  "generated": "2026-10-29T02:16:51.722Z",
+  "total_datasets": 503,
+  "total_records": 972425,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -3013,6 +3013,30 @@
         "xlsx": {
           "name": "nl-boekwinkels_NL.xlsx",
           "size": 38669
+        }
+      }
+    },
+    {
+      "id": "nl-gouden-kalf-beste-film",
+      "name": "Gouden Kalf voor beste film",
+      "category": "entertainment",
+      "record_count": 46,
+      "columns": [
+        "year",
+        "film",
+        "producers"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Gouden_Kalf_(filmprijs)",
+      "updated": "2026-10",
+      "size": 6703,
+      "files": {
+        "csv": {
+          "name": "nl-gouden-kalf-beste-film_NL.csv",
+          "size": 2524
+        },
+        "xlsx": {
+          "name": "nl-gouden-kalf-beste-film_NL.xlsx",
+          "size": 8659
         }
       }
     },
