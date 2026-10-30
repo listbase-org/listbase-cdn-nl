@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-30T02:19:51.760Z",
-  "total_datasets": 512,
-  "total_records": 973242,
+  "generated": "2026-10-30T02:19:58.959Z",
+  "total_datasets": 513,
+  "total_records": 973390,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -6496,6 +6496,32 @@
         "xlsx": {
           "name": "nl-thuistaal-per-regio_NL.xlsx",
           "size": 7318
+        }
+      }
+    },
+    {
+      "id": "nl-woord-van-het-jaar",
+      "name": "Woord van het jaar (Nederland en België)",
+      "category": "language",
+      "record_count": 148,
+      "columns": [
+        "jaar",
+        "verkiezing",
+        "volgorde",
+        "woord",
+        "percentage_stemmen"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Woord_van_het_jaar",
+      "updated": "2026-10",
+      "size": 29982,
+      "files": {
+        "csv": {
+          "name": "nl-woord-van-het-jaar_NL.csv",
+          "size": 12495
+        },
+        "xlsx": {
+          "name": "nl-woord-van-het-jaar_NL.xlsx",
+          "size": 11306
         }
       }
     },
