@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-30T02:19:34.625Z",
-  "total_datasets": 510,
-  "total_records": 973164,
+  "generated": "2026-10-30T02:19:43.250Z",
+  "total_datasets": 511,
+  "total_records": 973229,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -13039,6 +13039,32 @@
         "xlsx": {
           "name": "nl-politiebureaus_NL.xlsx",
           "size": 20520
+        }
+      }
+    },
+    {
+      "id": "nl-vakbonden",
+      "name": "Vakbonden in Nederland",
+      "category": "society",
+      "record_count": 65,
+      "columns": [
+        "vakbond",
+        "koepel",
+        "opgericht",
+        "sector",
+        "leden"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_vakbonden_in_Nederland",
+      "updated": "2026-10",
+      "size": 12040,
+      "files": {
+        "csv": {
+          "name": "nl-vakbonden_NL.csv",
+          "size": 4062
+        },
+        "xlsx": {
+          "name": "nl-vakbonden_NL.xlsx",
+          "size": 9616
         }
       }
     },
