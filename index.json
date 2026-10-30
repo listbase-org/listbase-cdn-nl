@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-30T02:19:26.956Z",
-  "total_datasets": 509,
-  "total_records": 973137,
+  "generated": "2026-10-30T02:19:34.625Z",
+  "total_datasets": 510,
+  "total_records": 973164,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -6624,6 +6624,34 @@
         "xlsx": {
           "name": "nl-osm-shop-music_NL.xlsx",
           "size": 14867
+        }
+      }
+    },
+    {
+      "id": "nl-top-2000-top-3-per-jaar",
+      "name": "NPO Radio 2 Top 2000 — top 3 per jaar",
+      "category": "music",
+      "record_count": 27,
+      "columns": [
+        "jaar",
+        "positie_1",
+        "positie_2",
+        "positie_3",
+        "hoogste_nieuwe_binnenkomer",
+        "grootste_stijger",
+        "grootste_daler"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/NPO_Radio_2_Top_2000",
+      "updated": "2026-10",
+      "size": 12032,
+      "files": {
+        "csv": {
+          "name": "nl-top-2000-top-3-per-jaar_NL.csv",
+          "size": 5491
+        },
+        "xlsx": {
+          "name": "nl-top-2000-top-3-per-jaar_NL.xlsx",
+          "size": 9508
         }
       }
     },
