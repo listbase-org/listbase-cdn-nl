@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-30T02:19:43.250Z",
-  "total_datasets": 511,
-  "total_records": 973229,
+  "generated": "2026-10-30T02:19:51.760Z",
+  "total_datasets": 512,
+  "total_records": 973242,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -1126,6 +1126,33 @@
         "xlsx": {
           "name": "nl-osm-office-employment-agency_NL.xlsx",
           "size": 29434
+        }
+      }
+    },
+    {
+      "id": "nl-wisselkoersen-gulden",
+      "name": "Historische wisselkoersen van de Nederlandse gulden",
+      "category": "economy",
+      "record_count": 13,
+      "columns": [
+        "jaar",
+        "usd",
+        "gbp",
+        "ff_100",
+        "dm_100",
+        "zwf_100"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Nederlandse_gulden",
+      "updated": "2026-10",
+      "size": 3681,
+      "files": {
+        "csv": {
+          "name": "nl-wisselkoersen-gulden_NL.csv",
+          "size": 633
+        },
+        "xlsx": {
+          "name": "nl-wisselkoersen-gulden_NL.xlsx",
+          "size": 7212
         }
       }
     },
