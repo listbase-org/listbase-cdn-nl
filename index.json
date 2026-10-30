@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-29T02:17:01.794Z",
-  "total_datasets": 507,
-  "total_records": 972758,
+  "generated": "2026-10-30T02:19:19.585Z",
+  "total_datasets": 508,
+  "total_records": 973019,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -13381,6 +13381,31 @@
         "xlsx": {
           "name": "nl-osm-shop-sports_NL.xlsx",
           "size": 32634
+        }
+      }
+    },
+    {
+      "id": "nl-computerspellen-ontwikkeld-in-nederland",
+      "name": "Computerspellen ontwikkeld in Nederland",
+      "category": "tech",
+      "record_count": 261,
+      "columns": [
+        "titel",
+        "platform",
+        "jaar",
+        "ontwikkelaar"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_computerspellen_ontwikkeld_in_Nederland",
+      "updated": "2026-10",
+      "size": 39532,
+      "files": {
+        "csv": {
+          "name": "nl-computerspellen-ontwikkeld-in-nederland_NL.csv",
+          "size": 15749
+        },
+        "xlsx": {
+          "name": "nl-computerspellen-ontwikkeld-in-nederland_NL.xlsx",
+          "size": 16361
         }
       }
     },
