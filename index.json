@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-10-30T02:19:58.959Z",
-  "total_datasets": 513,
-  "total_records": 973390,
+  "generated": "2026-11-02T02:25:08.353Z",
+  "total_datasets": 514,
+  "total_records": 975437,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -6444,6 +6444,29 @@
         "xlsx": {
           "name": "nl-voorzitters-ministerraad_NL.xlsx",
           "size": 8923
+        }
+      }
+    },
+    {
+      "id": "nl-afkortingen",
+      "name": "Afkortingen in het Nederlands",
+      "category": "language",
+      "record_count": 2047,
+      "columns": [
+        "afkorting",
+        "betekenis"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_afkortingen_in_het_Nederlands",
+      "updated": "2026-11",
+      "size": 197490,
+      "files": {
+        "csv": {
+          "name": "nl-afkortingen_NL.csv",
+          "size": 89713
+        },
+        "xlsx": {
+          "name": "nl-afkortingen_NL.xlsx",
+          "size": 70736
         }
       }
     },
