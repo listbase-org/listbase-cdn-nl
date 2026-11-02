@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-02T02:25:29.062Z",
-  "total_datasets": 517,
-  "total_records": 976578,
+  "generated": "2026-11-02T02:25:36.437Z",
+  "total_datasets": 518,
+  "total_records": 977001,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "society",
@@ -13063,6 +13063,31 @@
         "xlsx": {
           "name": "nl-osm-amenity-parking-space_NL.xlsx",
           "size": 22984
+        }
+      }
+    },
+    {
+      "id": "nl-planetoiden-nederlandse-namen",
+      "name": "Planetoïden met aan Nederland verbonden namen",
+      "category": "science",
+      "record_count": 423,
+      "columns": [
+        "nummer_en_naam",
+        "ontdekt",
+        "ontdekkers",
+        "vernoeming"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_planetoïden_met_aan_Nederland_verbonden_namen",
+      "updated": "2026-11",
+      "size": 91537,
+      "files": {
+        "csv": {
+          "name": "nl-planetoiden-nederlandse-namen_NL.csv",
+          "size": 48765
+        },
+        "xlsx": {
+          "name": "nl-planetoiden-nederlandse-namen_NL.xlsx",
+          "size": 31445
         }
       }
     },
