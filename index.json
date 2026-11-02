@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-02T02:25:08.353Z",
-  "total_datasets": 514,
-  "total_records": 975437,
+  "generated": "2026-11-02T02:25:15.073Z",
+  "total_datasets": 515,
+  "total_records": 975584,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -6674,6 +6674,29 @@
         "xlsx": {
           "name": "nl-eurovisiesongfestival_NL.xlsx",
           "size": 10256
+        }
+      }
+    },
+    {
+      "id": "nl-muziekfestivals",
+      "name": "Nederlandse muziekfestivals",
+      "category": "music",
+      "record_count": 147,
+      "columns": [
+        "festival",
+        "plaats"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_muziekfestivals",
+      "updated": "2026-11",
+      "size": 12910,
+      "files": {
+        "csv": {
+          "name": "nl-muziekfestivals_NL.csv",
+          "size": 4524
+        },
+        "xlsx": {
+          "name": "nl-muziekfestivals_NL.xlsx",
+          "size": 10535
         }
       }
     },
