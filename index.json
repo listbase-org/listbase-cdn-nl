@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-02T02:25:15.073Z",
-  "total_datasets": 515,
-  "total_records": 975584,
+  "generated": "2026-11-02T02:25:21.688Z",
+  "total_datasets": 516,
+  "total_records": 976364,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -13606,6 +13606,33 @@
         "xlsx": {
           "name": "nl-netnummers_NL.xlsx",
           "size": 21182
+        }
+      }
+    },
+    {
+      "id": "nl-omroepzendmasten",
+      "name": "Omroepzendmasten en FM-zenders in Nederland",
+      "category": "tech",
+      "record_count": 780,
+      "columns": [
+        "provincie",
+        "gemeente",
+        "locatie",
+        "frequentie_mhz",
+        "zender",
+        "coordinaten"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_omroepzendmasten_in_Nederland",
+      "updated": "2026-11",
+      "size": 276116,
+      "files": {
+        "csv": {
+          "name": "nl-omroepzendmasten_NL.csv",
+          "size": 170581
+        },
+        "xlsx": {
+          "name": "nl-omroepzendmasten_NL.xlsx",
+          "size": 55968
         }
       }
     },
