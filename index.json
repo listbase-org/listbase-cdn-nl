@@ -1,12 +1,12 @@
 {
   "lang": "nl",
-  "generated": "2026-11-02T02:25:36.437Z",
-  "total_datasets": 518,
-  "total_records": 977001,
+  "generated": "2026-11-03T02:27:22.603Z",
+  "total_datasets": 519,
+  "total_records": 977059,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -102,6 +102,36 @@
     }
   ],
   "datasets": [
+    {
+      "id": "nl-aardappelmeelfabrieken",
+      "name": "Nederlandse aardappelmeelfabrieken",
+      "category": "agriculture",
+      "record_count": 58,
+      "columns": [
+        "naam",
+        "plaats",
+        "begin",
+        "eind",
+        "sloop",
+        "derivaten",
+        "opgericht_als",
+        "opmerkingen",
+        "provincie"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_aardappelmeelfabrieken",
+      "updated": "2026-11",
+      "size": 33272,
+      "files": {
+        "csv": {
+          "name": "nl-aardappelmeelfabrieken_NL.csv",
+          "size": 21290
+        },
+        "xlsx": {
+          "name": "nl-aardappelmeelfabrieken_NL.xlsx",
+          "size": 15818
+        }
+      }
+    },
     {
       "id": "nl-landbouwtelling-nederland-per-jaar",
       "name": "Landbouwtelling Nederland per jaar (2000–2026)",
