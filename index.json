@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-03T02:27:37.284Z",
-  "total_datasets": 521,
-  "total_records": 977227,
+  "generated": "2026-11-03T02:27:44.076Z",
+  "total_datasets": 522,
+  "total_records": 977313,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -6373,6 +6373,31 @@
         "xlsx": {
           "name": "nl-tandartsen_NL.xlsx",
           "size": 63719
+        }
+      }
+    },
+    {
+      "id": "nl-anti-joodse-maatregelen",
+      "name": "Anti-Joodse maatregelen in Nederland (1940–1944)",
+      "category": "history",
+      "record_count": 86,
+      "columns": [
+        "datum",
+        "jaar",
+        "maand",
+        "maatregel"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_anti-Joodse_maatregelen_in_Nederland",
+      "updated": "2026-11",
+      "size": 20971,
+      "files": {
+        "csv": {
+          "name": "nl-anti-joodse-maatregelen_NL.csv",
+          "size": 12646
+        },
+        "xlsx": {
+          "name": "nl-anti-joodse-maatregelen_NL.xlsx",
+          "size": 12694
         }
       }
     },
