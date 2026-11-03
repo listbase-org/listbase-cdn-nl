@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-03T02:27:22.603Z",
-  "total_datasets": 519,
-  "total_records": 977059,
+  "generated": "2026-11-03T02:27:29.900Z",
+  "total_datasets": 520,
+  "total_records": 977166,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -6834,6 +6834,33 @@
         "xlsx": {
           "name": "nl-top-40-nummer-1-hits-2023-2025_NL.xlsx",
           "size": 11626
+        }
+      }
+    },
+    {
+      "id": "nl-afgetreden-bewindslieden",
+      "name": "Afgetreden bewindslieden in Nederland",
+      "category": "politics",
+      "record_count": 107,
+      "columns": [
+        "kabinet",
+        "naam",
+        "functie",
+        "partij",
+        "datum_aftreden",
+        "reden"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_afgetreden_bewindslieden_in_Nederland",
+      "updated": "2026-11",
+      "size": 25490,
+      "files": {
+        "csv": {
+          "name": "nl-afgetreden-bewindslieden_NL.csv",
+          "size": 10724
+        },
+        "xlsx": {
+          "name": "nl-afgetreden-bewindslieden_NL.xlsx",
+          "size": 12139
         }
       }
     },
