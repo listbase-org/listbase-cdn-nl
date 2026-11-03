@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-03T02:27:44.076Z",
-  "total_datasets": 522,
-  "total_records": 977313,
+  "generated": "2026-11-03T02:27:50.898Z",
+  "total_datasets": 523,
+  "total_records": 977361,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 1
+      "dataset_count": 2
     }
   ],
   "datasets": [
@@ -15910,6 +15910,32 @@
         "xlsx": {
           "name": "nl-anglo-amerikaanse-maateenheden_NL.xlsx",
           "size": 16714
+        }
+      }
+    },
+    {
+      "id": "nl-baksteenformaten",
+      "name": "Baksteenformaten in Nederland en België",
+      "category": "units",
+      "record_count": 48,
+      "columns": [
+        "formaat",
+        "lengte_mm",
+        "breedte_mm",
+        "hoogte_mm",
+        "land"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_baksteenformaten",
+      "updated": "2026-11",
+      "size": 8501,
+      "files": {
+        "csv": {
+          "name": "nl-baksteenformaten_NL.csv",
+          "size": 2074
+        },
+        "xlsx": {
+          "name": "nl-baksteenformaten_NL.xlsx",
+          "size": 8304
         }
       }
     }
