@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-03T02:27:29.900Z",
-  "total_datasets": 520,
-  "total_records": 977166,
+  "generated": "2026-11-03T02:27:37.284Z",
+  "total_datasets": 521,
+  "total_records": 977227,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "music",
@@ -6601,6 +6601,29 @@
         "xlsx": {
           "name": "nl-woord-van-het-jaar_NL.xlsx",
           "size": 11306
+        }
+      }
+    },
+    {
+      "id": "nl-afkortingen-rechtspraak",
+      "name": "Afkortingen in de Nederlandse rechtspraak",
+      "category": "law",
+      "record_count": 61,
+      "columns": [
+        "afkorting",
+        "betekenis"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_afkortingen_in_de_rechtspraak_in_Nederland",
+      "updated": "2026-11",
+      "size": 6777,
+      "files": {
+        "csv": {
+          "name": "nl-afkortingen-rechtspraak_NL.csv",
+          "size": 2194
+        },
+        "xlsx": {
+          "name": "nl-afkortingen-rechtspraak_NL.xlsx",
+          "size": 8487
         }
       }
     },
