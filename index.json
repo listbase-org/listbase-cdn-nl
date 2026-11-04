@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-04T02:19:47.463Z",
-  "total_datasets": 525,
-  "total_records": 977550,
+  "generated": "2026-11-04T02:19:54.561Z",
+  "total_datasets": 526,
+  "total_records": 977854,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -13242,6 +13242,33 @@
         "xlsx": {
           "name": "nl-spinozapremie-laureaten_NL.xlsx",
           "size": 11455
+        }
+      }
+    },
+    {
+      "id": "nl-carnavalsverenigingen-limburg",
+      "name": "Carnavalsverenigingen in Limburg",
+      "category": "society",
+      "record_count": 304,
+      "columns": [
+        "type",
+        "vereniging",
+        "plaats",
+        "gemeente",
+        "opgericht",
+        "opgeheven"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_carnavalsverenigingen_in_Limburg",
+      "updated": "2026-11",
+      "size": 57210,
+      "files": {
+        "csv": {
+          "name": "nl-carnavalsverenigingen-limburg_NL.csv",
+          "size": 17706
+        },
+        "xlsx": {
+          "name": "nl-carnavalsverenigingen-limburg_NL.xlsx",
+          "size": 19382
         }
       }
     },
