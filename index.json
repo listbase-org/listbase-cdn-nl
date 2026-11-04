@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-04T02:20:01.322Z",
-  "total_datasets": 527,
-  "total_records": 978307,
+  "generated": "2026-11-04T02:20:08.986Z",
+  "total_datasets": 528,
+  "total_records": 978866,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -6624,6 +6624,30 @@
         "xlsx": {
           "name": "nl-thuistaal-per-regio_NL.xlsx",
           "size": 7318
+        }
+      }
+    },
+    {
+      "id": "nl-versteende-uitdrukkingen-naamval",
+      "name": "Nederlandse versteende uitdrukkingen met een naamval",
+      "category": "language",
+      "record_count": 559,
+      "columns": [
+        "trefwoord",
+        "uitdrukking",
+        "bijzonderheden"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_versteende_uitdrukkingen_met_een_naamval",
+      "updated": "2026-11",
+      "size": 66795,
+      "files": {
+        "csv": {
+          "name": "nl-versteende-uitdrukkingen-naamval_NL.csv",
+          "size": 20865
+        },
+        "xlsx": {
+          "name": "nl-versteende-uitdrukkingen-naamval_NL.xlsx",
+          "size": 21115
         }
       }
     },
