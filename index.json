@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-03T02:27:59.394Z",
-  "total_datasets": 524,
-  "total_records": 977449,
+  "generated": "2026-11-04T02:19:47.463Z",
+  "total_datasets": 525,
+  "total_records": 977550,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "time",
@@ -13738,6 +13738,34 @@
         "xlsx": {
           "name": "nl-osm-shop-sports_NL.xlsx",
           "size": 32634
+        }
+      }
+    },
+    {
+      "id": "nl-amateurrelaiszenders",
+      "name": "Amateurrelaiszenders in Nederland",
+      "category": "tech",
+      "record_count": 101,
+      "columns": [
+        "roepletters",
+        "plaats",
+        "type",
+        "uitgang_mhz",
+        "ingang_mhz",
+        "qth_locator",
+        "ctcss_hz"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_amateurrelaiszenders_in_Nederland",
+      "updated": "2026-11",
+      "size": 24863,
+      "files": {
+        "csv": {
+          "name": "nl-amateurrelaiszenders_NL.csv",
+          "size": 7815
+        },
+        "xlsx": {
+          "name": "nl-amateurrelaiszenders_NL.xlsx",
+          "size": 11725
         }
       }
     },
