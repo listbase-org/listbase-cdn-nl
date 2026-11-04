@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-04T02:19:54.561Z",
-  "total_datasets": 526,
-  "total_records": 977854,
+  "generated": "2026-11-04T02:20:01.322Z",
+  "total_datasets": 527,
+  "total_records": 978307,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -6548,6 +6548,30 @@
         "xlsx": {
           "name": "nl-afkortingen_NL.xlsx",
           "size": 70736
+        }
+      }
+    },
+    {
+      "id": "nl-spreekwoorden",
+      "name": "Nederlandse spreekwoorden en hun betekenis",
+      "category": "language",
+      "record_count": 453,
+      "columns": [
+        "spreekwoord",
+        "betekenis",
+        "trefwoord"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_spreekwoorden",
+      "updated": "2026-11",
+      "size": 87667,
+      "files": {
+        "csv": {
+          "name": "nl-spreekwoorden_NL.csv",
+          "size": 52681
+        },
+        "xlsx": {
+          "name": "nl-spreekwoorden_NL.xlsx",
+          "size": 33441
         }
       }
     },
