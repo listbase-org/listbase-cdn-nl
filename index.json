@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-06T02:32:52.629Z",
-  "total_datasets": 530,
-  "total_records": 979131,
+  "generated": "2026-11-06T02:33:00.991Z",
+  "total_datasets": 531,
+  "total_records": 979184,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "environment",
@@ -3142,6 +3142,31 @@
         "xlsx": {
           "name": "nl-producties-stage-entertainment_NL.xlsx",
           "size": 12009
+        }
+      }
+    },
+    {
+      "id": "nl-radiozenders",
+      "name": "Radiozenders in Nederland",
+      "category": "entertainment",
+      "record_count": 53,
+      "columns": [
+        "zender",
+        "mediabedrijf",
+        "opmerking_of_regio",
+        "groep"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_radiozenders_in_Nederland",
+      "updated": "2026-11",
+      "size": 12046,
+      "files": {
+        "csv": {
+          "name": "nl-radiozenders_NL.csv",
+          "size": 5413
+        },
+        "xlsx": {
+          "name": "nl-radiozenders_NL.xlsx",
+          "size": 8868
         }
       }
     },
