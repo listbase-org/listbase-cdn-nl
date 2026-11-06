@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-06T02:33:00.991Z",
-  "total_datasets": 531,
-  "total_records": 979184,
+  "generated": "2026-11-06T02:33:09.296Z",
+  "total_datasets": 532,
+  "total_records": 979297,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "tech",
@@ -13444,6 +13444,34 @@
         "xlsx": {
           "name": "nl-vakbonden_NL.xlsx",
           "size": 9616
+        }
+      }
+    },
+    {
+      "id": "nl-betaaldvoetbalclubs",
+      "name": "Betaaldvoetbalclubs in Nederland",
+      "category": "sports",
+      "record_count": 113,
+      "columns": [
+        "team",
+        "stad",
+        "provincie",
+        "stadion",
+        "capaciteit",
+        "intrede",
+        "uittrede"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_betaaldvoetbalclubs_in_Nederland",
+      "updated": "2026-11",
+      "size": 25137,
+      "files": {
+        "csv": {
+          "name": "nl-betaaldvoetbalclubs_NL.csv",
+          "size": 8264
+        },
+        "xlsx": {
+          "name": "nl-betaaldvoetbalclubs_NL.xlsx",
+          "size": 12254
         }
       }
     },
