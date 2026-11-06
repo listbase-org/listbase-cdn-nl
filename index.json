@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-06T02:33:19.264Z",
-  "total_datasets": 533,
-  "total_records": 979328,
+  "generated": "2026-11-06T02:33:29.233Z",
+  "total_datasets": 534,
+  "total_records": 979358,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 34
+      "dataset_count": 35
     },
     {
       "id": "units",
@@ -14859,6 +14859,30 @@
         "xlsx": {
           "name": "nl-drenthe-unlocode_NL.xlsx",
           "size": 14826
+        }
+      }
+    },
+    {
+      "id": "nl-drukste-spoorwegstations",
+      "name": "Drukste spoorwegstations van Nederland",
+      "category": "transport",
+      "record_count": 30,
+      "columns": [
+        "station",
+        "plaats",
+        "passagiers"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_drukste_spoorwegstations_van_Nederland",
+      "updated": "2026-11",
+      "size": 4521,
+      "files": {
+        "csv": {
+          "name": "nl-drukste-spoorwegstations_NL.csv",
+          "size": 1090
+        },
+        "xlsx": {
+          "name": "nl-drukste-spoorwegstations_NL.xlsx",
+          "size": 7562
         }
       }
     },
