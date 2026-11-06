@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-04T02:20:08.986Z",
-  "total_datasets": 528,
-  "total_records": 978866,
+  "generated": "2026-11-06T02:32:42.053Z",
+  "total_datasets": 529,
+  "total_records": 979051,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 2
+      "dataset_count": 3
     }
   ],
   "datasets": [
@@ -16063,6 +16063,34 @@
         "xlsx": {
           "name": "nl-baksteenformaten_NL.xlsx",
           "size": 8304
+        }
+      }
+    },
+    {
+      "id": "nl-maateenheden",
+      "name": "Maateenheden (CLDR Nederlands)",
+      "category": "units",
+      "record_count": 185,
+      "columns": [
+        "unit_code",
+        "categorie",
+        "naam",
+        "enkelvoud",
+        "meervoud",
+        "kort",
+        "smal"
+      ],
+      "source": "https://github.com/unicode-org/cldr",
+      "updated": "2026-11",
+      "size": 44392,
+      "files": {
+        "csv": {
+          "name": "nl-maateenheden_NL.csv",
+          "size": 17634
+        },
+        "xlsx": {
+          "name": "nl-maateenheden_NL.xlsx",
+          "size": 15285
         }
       }
     }
