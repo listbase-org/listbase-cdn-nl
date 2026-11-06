@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-06T02:33:38.011Z",
-  "total_datasets": 535,
-  "total_records": 979844,
+  "generated": "2026-11-06T02:33:49.065Z",
+  "total_datasets": 536,
+  "total_records": 979967,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 53
+      "dataset_count": 54
     },
     {
       "id": "entertainment",
@@ -1809,6 +1809,31 @@
         "xlsx": {
           "name": "nl-het-gooi-en-vechtstreek-corop-basisscholen_NL.xlsx",
           "size": 16287
+        }
+      }
+    },
+    {
+      "id": "nl-hogeronderwijsinstellingen",
+      "name": "Hogeronderwijsinstellingen in Nederland",
+      "category": "education",
+      "record_count": 123,
+      "columns": [
+        "naam",
+        "plaats",
+        "provincie",
+        "type"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_hogeronderwijsinstellingen_in_Nederland",
+      "updated": "2026-11",
+      "size": 20244,
+      "files": {
+        "csv": {
+          "name": "nl-hogeronderwijsinstellingen_NL.csv",
+          "size": 8913
+        },
+        "xlsx": {
+          "name": "nl-hogeronderwijsinstellingen_NL.xlsx",
+          "size": 10897
         }
       }
     },
