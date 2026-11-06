@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-06T02:33:09.296Z",
-  "total_datasets": 532,
-  "total_records": 979297,
+  "generated": "2026-11-06T02:33:19.264Z",
+  "total_datasets": 533,
+  "total_records": 979328,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "economy",
@@ -233,6 +233,32 @@
         "xlsx": {
           "name": "nl-ministers-van-landbouw_NL.xlsx",
           "size": 9026
+        }
+      }
+    },
+    {
+      "id": "nl-best-bezochte-musea",
+      "name": "Best bezochte musea in Nederland",
+      "category": "culture",
+      "record_count": 31,
+      "columns": [
+        "volgorde",
+        "museum",
+        "stad",
+        "bezoekers",
+        "jaar"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_best_bezochte_musea_in_Nederland",
+      "updated": "2026-11",
+      "size": 6112,
+      "files": {
+        "csv": {
+          "name": "nl-best-bezochte-musea_NL.csv",
+          "size": 1706
+        },
+        "xlsx": {
+          "name": "nl-best-bezochte-musea_NL.xlsx",
+          "size": 7979
         }
       }
     },
