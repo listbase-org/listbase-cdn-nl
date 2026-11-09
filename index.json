@@ -1,12 +1,12 @@
 {
   "lang": "nl",
-  "generated": "2026-11-09T02:32:34.777Z",
-  "total_datasets": 539,
-  "total_records": 980206,
+  "generated": "2026-11-09T02:32:42.127Z",
+  "total_datasets": 540,
+  "total_records": 980273,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -233,6 +233,29 @@
         "xlsx": {
           "name": "nl-ministers-van-landbouw_NL.xlsx",
           "size": 9026
+        }
+      }
+    },
+    {
+      "id": "nl-zeldzame-huisdierrassen",
+      "name": "Zeldzame Nederlandse huisdierrassen",
+      "category": "agriculture",
+      "record_count": 67,
+      "columns": [
+        "ras",
+        "diersoort"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_zeldzame_huisdierrassen",
+      "updated": "2026-11",
+      "size": 6594,
+      "files": {
+        "csv": {
+          "name": "nl-zeldzame-huisdierrassen_NL.csv",
+          "size": 2050
+        },
+        "xlsx": {
+          "name": "nl-zeldzame-huisdierrassen_NL.xlsx",
+          "size": 8083
         }
       }
     },
