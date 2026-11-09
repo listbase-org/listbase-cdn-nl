@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-06T02:33:49.065Z",
-  "total_datasets": 536,
-  "total_records": 979967,
+  "generated": "2026-11-09T02:32:20.831Z",
+  "total_datasets": 537,
+  "total_records": 980004,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -6902,6 +6902,30 @@
         "xlsx": {
           "name": "nl-rechtbanken_NL.xlsx",
           "size": 6949
+        }
+      }
+    },
+    {
+      "id": "nl-beroepsorkesten",
+      "name": "Nederlandse beroepsorkesten",
+      "category": "music",
+      "record_count": 37,
+      "columns": [
+        "orkest",
+        "plaats",
+        "opgeheven"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_beroepsorkesten",
+      "updated": "2026-11",
+      "size": 5789,
+      "files": {
+        "csv": {
+          "name": "nl-beroepsorkesten_NL.csv",
+          "size": 1913
+        },
+        "xlsx": {
+          "name": "nl-beroepsorkesten_NL.xlsx",
+          "size": 8024
         }
       }
     },
