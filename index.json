@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-09T02:32:20.831Z",
-  "total_datasets": 537,
-  "total_records": 980004,
+  "generated": "2026-11-09T02:32:27.524Z",
+  "total_datasets": 538,
+  "total_records": 980179,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -6828,6 +6828,32 @@
         "xlsx": {
           "name": "nl-belgische-ministers-van-justitie_NL.xlsx",
           "size": 12099
+        }
+      }
+    },
+    {
+      "id": "nl-levenslang-veroordeelden",
+      "name": "Tot levenslang veroordeelden in Nederland",
+      "category": "law",
+      "record_count": 175,
+      "columns": [
+        "jaar",
+        "naam",
+        "info",
+        "periode",
+        "uitspraak"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_tot_levenslang_veroordeelden_in_Nederland",
+      "updated": "2026-11",
+      "size": 88589,
+      "files": {
+        "csv": {
+          "name": "nl-levenslang-veroordeelden_NL.csv",
+          "size": 70210
+        },
+        "xlsx": {
+          "name": "nl-levenslang-veroordeelden_NL.xlsx",
+          "size": 30446
         }
       }
     },
