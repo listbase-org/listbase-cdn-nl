@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-09T02:32:42.127Z",
-  "total_datasets": 540,
-  "total_records": 980273,
+  "generated": "2026-11-10T02:27:41.631Z",
+  "total_datasets": 541,
+  "total_records": 980470,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -13522,6 +13522,31 @@
         "xlsx": {
           "name": "nl-carnavalsverenigingen-limburg_NL.xlsx",
           "size": 19382
+        }
+      }
+    },
+    {
+      "id": "nl-hofjes",
+      "name": "Hofjes in Nederland",
+      "category": "society",
+      "record_count": 197,
+      "columns": [
+        "name",
+        "place",
+        "founded",
+        "houses"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_hofjes_in_Nederland",
+      "updated": "2026-11",
+      "size": 25568,
+      "files": {
+        "csv": {
+          "name": "nl-hofjes_NL.csv",
+          "size": 9041
+        },
+        "xlsx": {
+          "name": "nl-hofjes_NL.xlsx",
+          "size": 13836
         }
       }
     },
