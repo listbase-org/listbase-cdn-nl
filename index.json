@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-10T02:27:41.631Z",
-  "total_datasets": 541,
-  "total_records": 980470,
+  "generated": "2026-11-10T02:27:49.515Z",
+  "total_datasets": 542,
+  "total_records": 980676,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -13623,6 +13623,35 @@
         "xlsx": {
           "name": "nl-politiebureaus_NL.xlsx",
           "size": 20520
+        }
+      }
+    },
+    {
+      "id": "nl-studentenverenigingen",
+      "name": "Studentenverenigingen in Nederland",
+      "category": "society",
+      "record_count": 206,
+      "columns": [
+        "name",
+        "city",
+        "founded",
+        "status",
+        "institution",
+        "umbrella",
+        "members",
+        "type"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_studentengezelligheidsverenigingen_in_Nederland",
+      "updated": "2026-11",
+      "size": 67338,
+      "files": {
+        "csv": {
+          "name": "nl-studentenverenigingen_NL.csv",
+          "size": 34494
+        },
+        "xlsx": {
+          "name": "nl-studentenverenigingen_NL.xlsx",
+          "size": 19642
         }
       }
     },
