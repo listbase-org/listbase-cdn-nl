@@ -1,12 +1,12 @@
 {
   "lang": "nl",
-  "generated": "2026-11-10T02:27:49.515Z",
-  "total_datasets": 542,
-  "total_records": 980676,
+  "generated": "2026-11-10T02:27:57.310Z",
+  "total_datasets": 543,
+  "total_records": 980714,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -233,6 +233,31 @@
         "xlsx": {
           "name": "nl-ministers-van-landbouw_NL.xlsx",
           "size": 9026
+        }
+      }
+    },
+    {
+      "id": "nl-suikerfabrieken",
+      "name": "Bietsuikerfabrieken in Nederland",
+      "category": "agriculture",
+      "record_count": 38,
+      "columns": [
+        "place",
+        "company",
+        "period",
+        "notes"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_suikerfabrieken_in_Nederland",
+      "updated": "2026-11",
+      "size": 9936,
+      "files": {
+        "csv": {
+          "name": "nl-suikerfabrieken_NL.csv",
+          "size": 5379
+        },
+        "xlsx": {
+          "name": "nl-suikerfabrieken_NL.xlsx",
+          "size": 9461
         }
       }
     },
