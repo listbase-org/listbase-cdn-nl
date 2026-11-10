@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-10T02:27:57.310Z",
-  "total_datasets": 543,
-  "total_records": 980714,
+  "generated": "2026-11-10T02:28:06.086Z",
+  "total_datasets": 544,
+  "total_records": 980747,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -14254,6 +14254,35 @@
         "xlsx": {
           "name": "nl-osm-amenity-ferry-terminal_NL.xlsx",
           "size": 22017
+        }
+      }
+    },
+    {
+      "id": "nl-waterkrachtcentrales",
+      "name": "Waterkrachtcentrales in Nederland",
+      "category": "tech",
+      "record_count": 33,
+      "columns": [
+        "operator",
+        "plant",
+        "place",
+        "notes",
+        "technology",
+        "capacity_kw",
+        "in_service",
+        "out_of_service"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_waterkrachtcentrales_in_Nederland",
+      "updated": "2026-11",
+      "size": 10819,
+      "files": {
+        "csv": {
+          "name": "nl-waterkrachtcentrales_NL.csv",
+          "size": 3517
+        },
+        "xlsx": {
+          "name": "nl-waterkrachtcentrales_NL.xlsx",
+          "size": 8971
         }
       }
     },

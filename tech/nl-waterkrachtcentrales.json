@@ -1,0 +1,396 @@
+{
+  "id": "nl-waterkrachtcentrales",
+  "name": "Waterkrachtcentrales in Nederland",
+  "title": "Waterkrachtcentrales in Nederland",
+  "description": "Waterkrachtcentrales in Nederland: producent, plaats, turbinetechniek, nominaal elektrisch vermogen (kW) en jaren in/uit bedrijf.",
+  "category": "tech",
+  "source": "https://nl.wikipedia.org/wiki/Lijst_van_waterkrachtcentrales_in_Nederland",
+  "source_url": "https://nl.wikipedia.org/wiki/Lijst_van_waterkrachtcentrales_in_Nederland",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "plant",
+      "label": "Plant",
+      "type": "string"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "capacity_kw",
+      "label": "Capacity Kw",
+      "type": "number"
+    },
+    {
+      "key": "in_service",
+      "label": "In Service",
+      "type": "number"
+    },
+    {
+      "key": "out_of_service",
+      "label": "Out Of Service",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "operator": "Vattenfall",
+      "plant": "Stuw- en sluizencomplex Hagestein",
+      "place": "Hagestein",
+      "notes": "Stilgelegd in 2005",
+      "technology": "Kaplanturbine",
+      "capacity_kw": 1800,
+      "in_service": 1958,
+      "out_of_service": 2005
+    },
+    {
+      "operator": "Vattenfall",
+      "plant": "Waterkrachtcentrale Maurik",
+      "place": "Maurik / Amerongen",
+      "notes": "",
+      "technology": "Kaplanturbine",
+      "capacity_kw": 10000,
+      "in_service": 1988,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Vattenfall",
+      "plant": "Maas, Lith",
+      "place": "Alphen / Lith",
+      "notes": "",
+      "technology": "Kaplanturbine",
+      "capacity_kw": 14000,
+      "in_service": 1990,
+      "out_of_service": ""
+    },
+    {
+      "operator": "RWE",
+      "plant": "Maas, Linne",
+      "place": "Linne",
+      "notes": "",
+      "technology": "Kaplanturbine",
+      "capacity_kw": 11000,
+      "in_service": 1989,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Tocardo",
+      "plant": "Oosterscheldekering",
+      "place": "Kamperland",
+      "notes": "Getijdencentrale Oosterschelde",
+      "technology": "Vrije propellerturbine",
+      "capacity_kw": 1250,
+      "in_service": 2015,
+      "out_of_service": 2023
+    },
+    {
+      "operator": "Dommelstroom",
+      "plant": "De Dommel",
+      "place": "Sint-Michielsgestel",
+      "notes": "eerste coöperatieve waterkrachtcentrale van Nederland",
+      "technology": "Vijzelturbine",
+      "capacity_kw": 120,
+      "in_service": 2016,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Nederstroom",
+      "plant": "ECI-centrale",
+      "place": "Roermond",
+      "notes": "Gerestaureerd in 2000",
+      "technology": "Francisturbine",
+      "capacity_kw": 250,
+      "in_service": 1920,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Rijkswaterstaat",
+      "plant": "Waterkrachtcentrale Roeven",
+      "place": "Roeven",
+      "notes": "Gerestaureerd in 1993. Stilgelegd 2019",
+      "technology": "Francisturbine",
+      "capacity_kw": 30,
+      "in_service": 1919,
+      "out_of_service": 2019
+    },
+    {
+      "operator": "Essent",
+      "plant": "Stuw de Haandrik",
+      "place": "Gramsbergen",
+      "notes": "Stilgelegd in 2013",
+      "technology": "Kaplanturbine",
+      "capacity_kw": 110,
+      "in_service": 1988,
+      "out_of_service": 2013
+    },
+    {
+      "operator": "Vallei en Veluwe",
+      "plant": "Stuw Hezenberg",
+      "place": "Hattem",
+      "notes": "",
+      "technology": "Vijzelturbine",
+      "capacity_kw": 28,
+      "in_service": 2011,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Privé",
+      "plant": "Groote Molen",
+      "place": "Meerssen",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Francisturbine",
+      "capacity_kw": 55,
+      "in_service": 1985,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Privé",
+      "plant": "Volmolen (Waalre)",
+      "place": "Waalre",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Onderslagmolen",
+      "capacity_kw": 28,
+      "in_service": 2000,
+      "out_of_service": ""
+    },
+    {
+      "operator": "St. J. Kritzraedt",
+      "plant": "Ophovenermolen",
+      "place": "Ophoven",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Middenslagmolen",
+      "capacity_kw": 19,
+      "in_service": 2003,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Privé",
+      "plant": "Molen van Otten",
+      "place": "Wijlre",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Onderslagmolen",
+      "capacity_kw": 18,
+      "in_service": 1981,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Privé",
+      "plant": "Neubourger Molen",
+      "place": "Gulpen",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Middenslagmolen",
+      "capacity_kw": 9,
+      "in_service": 1985,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Natuurmonumenten",
+      "plant": "Watermolen van Hackfort",
+      "place": "Vorden",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "onderslagmolen",
+      "capacity_kw": 5,
+      "in_service": 1998,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Geldersch Landschap",
+      "plant": "Watermolen van Staverden",
+      "place": "Staverden",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Bovenslagmolen",
+      "capacity_kw": 4,
+      "in_service": 2000,
+      "out_of_service": 2009
+    },
+    {
+      "operator": "Privé",
+      "plant": "Sint-Elisabethsmolen",
+      "place": "Nunhem",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Middenslagmolen",
+      "capacity_kw": 5,
+      "in_service": 2015,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Privé",
+      "plant": "Schouwsmolen",
+      "place": "Ittervoort",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Onderslagmolen",
+      "capacity_kw": 1,
+      "in_service": 2016,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Privé",
+      "plant": "Commandeursmolen",
+      "place": "Mechelen",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Francisturbine",
+      "capacity_kw": 24,
+      "in_service": 1989,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Natuurmonumenten",
+      "plant": "Volmolen (Epen)",
+      "place": "Epen",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Middenslagmolen",
+      "capacity_kw": 8,
+      "in_service": 2009,
+      "out_of_service": 2019
+    },
+    {
+      "operator": "Privé",
+      "plant": "Millenermolen",
+      "place": "Nieuwstadt",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Francisturbine",
+      "capacity_kw": 12,
+      "in_service": 2004,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Vallei en Veluwe",
+      "plant": "Stuw Asschat",
+      "place": "Leusden",
+      "notes": "EQA Box met waterrad",
+      "technology": "Bovenslagmolen",
+      "capacity_kw": 8,
+      "in_service": 2018,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Privé",
+      "plant": "Hooydonkse Watermolen",
+      "place": "Nederwetten",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Onderslagmolen",
+      "capacity_kw": 5,
+      "in_service": 2009,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Greenchoice",
+      "plant": "Molenstuw Hooydonk",
+      "place": "Nederwetten",
+      "notes": "Stuw van Hooydonkse watermolen",
+      "technology": "Vijzelturbine",
+      "capacity_kw": 18.5,
+      "in_service": 2005,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Hilverstroom",
+      "plant": "Pomphuis Sluis Haghorst",
+      "place": "Hilvarenbeek",
+      "notes": "Omgebouwde waterpomp",
+      "technology": "Schroefpomp",
+      "capacity_kw": 12,
+      "in_service": 2015,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Rijkswaterstaat",
+      "plant": "Sluis III Wilhelminakanaal",
+      "place": "Tilburg",
+      "notes": "Waterkracht & gemaal combi",
+      "technology": "Vijzelturbine",
+      "capacity_kw": 355,
+      "in_service": 2020,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Privé",
+      "plant": "Slottermolen",
+      "place": "Grubbenvorst",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Middenslagmolen",
+      "capacity_kw": 8,
+      "in_service": 1966,
+      "out_of_service": ""
+    },
+    {
+      "operator": "VMI Holland BV",
+      "plant": "De Zuukermolen",
+      "place": "Zuuk",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Bovenslagmolen",
+      "capacity_kw": 2,
+      "in_service": 2012,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Privé",
+      "plant": "Spoordonkse Watermolen",
+      "place": "Spoordonk",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Onderslagmolen",
+      "capacity_kw": 2,
+      "in_service": 2012,
+      "out_of_service": ""
+    },
+    {
+      "operator": "Privé",
+      "plant": "De Hamermolen",
+      "place": "Ugchelen",
+      "notes": "Omgebouwde Watermolen",
+      "technology": "Bovenslagmolen",
+      "capacity_kw": 1,
+      "in_service": 2009,
+      "out_of_service": ""
+    },
+    {
+      "operator": "ASR Vastgoed",
+      "plant": "Watermolen van Hattem-Molecaten",
+      "place": "Hattem",
+      "notes": "Stroomvoorziening kasteel Molecaten (1918-1940)",
+      "technology": "Bovenslagmolen",
+      "capacity_kw": 2,
+      "in_service": 1918,
+      "out_of_service": 1940
+    },
+    {
+      "operator": "Coöperatie Duurzaam Singraven",
+      "plant": "Landgoed Singraven",
+      "place": "Denekamp",
+      "notes": "Waterkrachtcentrale in rivier de Dinkel",
+      "technology": "Vijzelturbine",
+      "capacity_kw": 55,
+      "in_service": 2021,
+      "out_of_service": ""
+    }
+  ],
+  "meta": {
+    "title": "Waterkrachtcentrales in Nederland - Free Download",
+    "description": "Waterkrachtcentrales in Nederland: producent, plaats, turbinetechniek, nominaal elektrisch vermogen (kW) en jaren in/uit bedrijf. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Waterkrachtcentrales in Nederland | ListBase",
+    "seo_description": "Download Waterkrachtcentrales in Nederland — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://nl.wikipedia.org/wiki/Lijst_van_waterkrachtcentrales_in_Nederland"
+    ]
+  }
+}
