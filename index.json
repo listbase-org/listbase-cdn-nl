@@ -1,12 +1,12 @@
 {
   "lang": "nl",
-  "generated": "2026-11-11T02:14:33.556Z",
-  "total_datasets": 545,
-  "total_records": 981169,
+  "generated": "2026-11-11T02:14:42.132Z",
+  "total_datasets": 546,
+  "total_records": 981190,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -233,6 +233,29 @@
         "xlsx": {
           "name": "nl-ministers-van-landbouw_NL.xlsx",
           "size": 9026
+        }
+      }
+    },
+    {
+      "id": "nl-nederlandse-appelrassen",
+      "name": "Nederlandse appelrassen",
+      "category": "agriculture",
+      "record_count": 21,
+      "columns": [
+        "name",
+        "first_mentioned"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_appelrassen",
+      "updated": "2026-11",
+      "size": 2884,
+      "files": {
+        "csv": {
+          "name": "nl-nederlandse-appelrassen_NL.csv",
+          "size": 524
+        },
+        "xlsx": {
+          "name": "nl-nederlandse-appelrassen_NL.xlsx",
+          "size": 7222
         }
       }
     },
