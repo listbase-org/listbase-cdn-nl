@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-11T02:14:42.132Z",
-  "total_datasets": 546,
-  "total_records": 981190,
+  "generated": "2026-11-11T02:14:49.947Z",
+  "total_datasets": 547,
+  "total_records": 981224,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "geography",
@@ -4682,6 +4682,29 @@
         "xlsx": {
           "name": "nl-groenteboeren_NL.xlsx",
           "size": 23730
+        }
+      }
+    },
+    {
+      "id": "nl-nederlandse-kazen",
+      "name": "Nederlandse kazen",
+      "category": "food",
+      "record_count": 34,
+      "columns": [
+        "name",
+        "group"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_kazen",
+      "updated": "2026-11",
+      "size": 3559,
+      "files": {
+        "csv": {
+          "name": "nl-nederlandse-kazen_NL.csv",
+          "size": 937
+        },
+        "xlsx": {
+          "name": "nl-nederlandse-kazen_NL.xlsx",
+          "size": 7333
         }
       }
     },
