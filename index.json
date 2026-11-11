@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-10T02:28:06.086Z",
-  "total_datasets": 544,
-  "total_records": 980747,
+  "generated": "2026-11-11T02:14:33.556Z",
+  "total_datasets": 545,
+  "total_records": 981169,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -7187,6 +7187,32 @@
         "xlsx": {
           "name": "nl-afgetreden-bewindslieden_NL.xlsx",
           "size": 12139
+        }
+      }
+    },
+    {
+      "id": "nl-burgemeesters-2025-2029",
+      "name": "Burgemeesters van Nederlandse gemeenten (2025–2029)",
+      "category": "politics",
+      "record_count": 422,
+      "columns": [
+        "municipality",
+        "mayor",
+        "party",
+        "appointed",
+        "resigned_2025_2029"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_burgemeesters_van_gemeenten_in_Nederland_in_de_periode_2025-2029",
+      "updated": "2026-11",
+      "size": 75623,
+      "files": {
+        "csv": {
+          "name": "nl-burgemeesters-2025-2029_NL.csv",
+          "size": 24805
+        },
+        "xlsx": {
+          "name": "nl-burgemeesters-2025-2029_NL.xlsx",
+          "size": 24639
         }
       }
     },
