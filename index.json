@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-12T02:05:48.483Z",
-  "total_datasets": 548,
-  "total_records": 981471,
+  "generated": "2026-11-12T02:05:57.031Z",
+  "total_datasets": 549,
+  "total_records": 981566,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -6675,6 +6675,29 @@
         "xlsx": {
           "name": "nl-oorlogen-van-nederland_NL.xlsx",
           "size": 13091
+        }
+      }
+    },
+    {
+      "id": "nl-oude-muntsoorten",
+      "name": "Oude muntsoorten in de Lage Landen",
+      "category": "history",
+      "record_count": 95,
+      "columns": [
+        "name",
+        "description"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_oude_muntsoorten_in_de_Lage_Landen",
+      "updated": "2026-11",
+      "size": 7589,
+      "files": {
+        "csv": {
+          "name": "nl-oude-muntsoorten_NL.csv",
+          "size": 1604
+        },
+        "xlsx": {
+          "name": "nl-oude-muntsoorten_NL.xlsx",
+          "size": 8423
         }
       }
     },
