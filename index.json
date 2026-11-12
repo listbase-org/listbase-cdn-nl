@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-12T02:06:13.931Z",
-  "total_datasets": 551,
-  "total_records": 981858,
+  "generated": "2026-11-12T02:06:21.919Z",
+  "total_datasets": 552,
+  "total_records": 981931,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -6622,6 +6622,37 @@
         "xlsx": {
           "name": "nl-voormalige-ziekenhuizen_NL.xlsx",
           "size": 12258
+        }
+      }
+    },
+    {
+      "id": "nl-ziekenhuizen-kerncijfers",
+      "name": "Nederlandse ziekenhuizen: bedden, poliklinische bezoeken en HSMR (2018)",
+      "category": "health",
+      "record_count": 73,
+      "columns": [
+        "hospital",
+        "abbreviation",
+        "group",
+        "city",
+        "province",
+        "type",
+        "first_outpatient_visits_2018",
+        "beds_2018",
+        "hsmr_2018",
+        "rav_region"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_ziekenhuizen",
+      "updated": "2026-11",
+      "size": 25591,
+      "files": {
+        "csv": {
+          "name": "nl-ziekenhuizen-kerncijfers_NL.csv",
+          "size": 7801
+        },
+        "xlsx": {
+          "name": "nl-ziekenhuizen-kerncijfers_NL.xlsx",
+          "size": 12019
         }
       }
     },
