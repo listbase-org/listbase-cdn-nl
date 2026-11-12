@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-11T02:14:49.947Z",
-  "total_datasets": 547,
-  "total_records": 981224,
+  "generated": "2026-11-12T02:05:48.483Z",
+  "total_datasets": 548,
+  "total_records": 981471,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 35
+      "dataset_count": 36
     },
     {
       "id": "units",
@@ -15537,6 +15537,33 @@
         "xlsx": {
           "name": "nl-groningen-unlocode_NL.xlsx",
           "size": 17204
+        }
+      }
+    },
+    {
+      "id": "nl-havencodes-vissersschepen",
+      "name": "Nederlandse havencodes (vissersschepen)",
+      "category": "transport",
+      "record_count": 247,
+      "columns": [
+        "code",
+        "home_port",
+        "abbreviation_of",
+        "province",
+        "in_use",
+        "remarks"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_havencodes",
+      "updated": "2026-11",
+      "size": 46805,
+      "files": {
+        "csv": {
+          "name": "nl-havencodes-vissersschepen_NL.csv",
+          "size": 13716
+        },
+        "xlsx": {
+          "name": "nl-havencodes-vissersschepen_NL.xlsx",
+          "size": 15457
         }
       }
     },
