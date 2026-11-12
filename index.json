@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-12T02:06:05.512Z",
-  "total_datasets": 550,
-  "total_records": 981647,
+  "generated": "2026-11-12T02:06:13.931Z",
+  "total_datasets": 551,
+  "total_records": 981858,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -6599,6 +6599,29 @@
         "xlsx": {
           "name": "nl-tandartsen_NL.xlsx",
           "size": 63719
+        }
+      }
+    },
+    {
+      "id": "nl-voormalige-ziekenhuizen",
+      "name": "Voormalige ziekenhuizen in Nederland",
+      "category": "health",
+      "record_count": 211,
+      "columns": [
+        "name",
+        "city"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_voormalige_ziekenhuizen_in_Nederland",
+      "updated": "2026-11",
+      "size": 19537,
+      "files": {
+        "csv": {
+          "name": "nl-voormalige-ziekenhuizen_NL.csv",
+          "size": 9352
+        },
+        "xlsx": {
+          "name": "nl-voormalige-ziekenhuizen_NL.xlsx",
+          "size": 12258
         }
       }
     },
