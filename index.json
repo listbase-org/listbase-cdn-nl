@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-13T02:35:44.454Z",
-  "total_datasets": 553,
-  "total_records": 981954,
+  "generated": "2026-11-13T02:35:52.777Z",
+  "total_datasets": 554,
+  "total_records": 981967,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 5
+      "dataset_count": 6
     }
   ],
   "datasets": [
@@ -16709,6 +16709,35 @@
         "xlsx": {
           "name": "nl-nederlands-metriek-stelsel-1816_NL.xlsx",
           "size": 7672
+        }
+      }
+    },
+    {
+      "id": "nl-schaal-van-beaufort-knmi",
+      "name": "Schaal van Beaufort (KNMI-benamingen)",
+      "category": "units",
+      "record_count": 13,
+      "columns": [
+        "force",
+        "knmi_name",
+        "maritime_name",
+        "speed_ms",
+        "speed_kmh",
+        "speed_kt",
+        "effect_on_land",
+        "effect_at_sea"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Schaal_van_Beaufort",
+      "updated": "2026-11",
+      "size": 6982,
+      "files": {
+        "csv": {
+          "name": "nl-schaal-van-beaufort-knmi_NL.csv",
+          "size": 2737
+        },
+        "xlsx": {
+          "name": "nl-schaal-van-beaufort-knmi_NL.xlsx",
+          "size": 8519
         }
       }
     }

@@ -1,0 +1,196 @@
+{
+  "id": "nl-schaal-van-beaufort-knmi",
+  "name": "Schaal van Beaufort (KNMI-benamingen)",
+  "title": "Schaal van Beaufort (KNMI-benamingen)",
+  "description": "Windkracht 0 tot 12 op de schaal van Beaufort met de KNMI-benaming, de benaming in de zeevaart, windsnelheid in m/s, km/h en knopen en de uitwerking boven land en zee.",
+  "category": "units",
+  "source": "https://nl.wikipedia.org/wiki/Schaal_van_Beaufort",
+  "source_url": "https://nl.wikipedia.org/wiki/Schaal_van_Beaufort",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "force",
+      "label": "Force",
+      "type": "number"
+    },
+    {
+      "key": "knmi_name",
+      "label": "Knmi Name",
+      "type": "string"
+    },
+    {
+      "key": "maritime_name",
+      "label": "Maritime Name",
+      "type": "string"
+    },
+    {
+      "key": "speed_ms",
+      "label": "Speed Ms",
+      "type": "string"
+    },
+    {
+      "key": "speed_kmh",
+      "label": "Speed Kmh",
+      "type": "string"
+    },
+    {
+      "key": "speed_kt",
+      "label": "Speed Kt",
+      "type": "string"
+    },
+    {
+      "key": "effect_on_land",
+      "label": "Effect On Land",
+      "type": "string"
+    },
+    {
+      "key": "effect_at_sea",
+      "label": "Effect At Sea",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "force": 0,
+      "knmi_name": "stil",
+      "maritime_name": "windstil",
+      "speed_ms": "0 - 0,2",
+      "speed_kmh": "0 - 1",
+      "speed_kt": "0 - 1",
+      "effect_on_land": "rook stijgt recht of bijna recht omhoog",
+      "effect_at_sea": "spiegelglad"
+    },
+    {
+      "force": 1,
+      "knmi_name": "zeer zwak",
+      "maritime_name": "flauw en stil",
+      "speed_ms": "0,3 - 1,5",
+      "speed_kmh": "1 - 5",
+      "speed_kt": "1 - 3",
+      "effect_on_land": "windrichting goed af te leiden uit rookpluimen",
+      "effect_at_sea": "kleine golfjes, geschubd oppervlak"
+    },
+    {
+      "force": 2,
+      "knmi_name": "zwak",
+      "maritime_name": "flauwe koelte",
+      "speed_ms": "1,6 - 3,3",
+      "speed_kmh": "6 - 11",
+      "speed_kt": "4 - 6",
+      "effect_on_land": "wind voelbaar in gezicht, weerhanen tonen nu juiste richting, blad ritselt, vlag beweegt",
+      "effect_at_sea": "kleine, korte golven"
+    },
+    {
+      "force": 3,
+      "knmi_name": "vrij matig",
+      "maritime_name": "lichte koelte",
+      "speed_ms": "3,4 - 5,4",
+      "speed_kmh": "12 - 19",
+      "speed_kt": "7 - 10",
+      "effect_on_land": "opwaaiend stof, vlaggen wapperen, bladeren bewegen steeds",
+      "effect_at_sea": "kleine golven breken, schuimkopjes"
+    },
+    {
+      "force": 4,
+      "knmi_name": "matig",
+      "maritime_name": "matige koelte",
+      "speed_ms": "5,5 - 7,9",
+      "speed_kmh": "20 - 28",
+      "speed_kt": "11 - 16",
+      "effect_on_land": "papier waait op, takken bewegen, haar raakt verward, kleding flappert, geen last van muggen meer",
+      "effect_at_sea": "golven iets langer, veel schuimkoppen"
+    },
+    {
+      "force": 5,
+      "knmi_name": "vrij krachtig",
+      "maritime_name": "frisse bries",
+      "speed_ms": "8,0 - 10,7",
+      "speed_kmh": "29 - 38",
+      "speed_kt": "17 - 21",
+      "effect_on_land": "bladeren van bomen ruisen, kleine bomen bewegen, gekuifde golven op meren en kanalen, vuilnisbakken waaien om, containers kunnen niet worden afgezet op terminals",
+      "effect_at_sea": "matige golven, aanschietende zee (overal schuimkoppen, af en toe opwaaiend schuim)"
+    },
+    {
+      "force": 6,
+      "knmi_name": "krachtig",
+      "maritime_name": "stijve bries",
+      "speed_ms": "10,8 - 13,8",
+      "speed_kmh": "39 - 49",
+      "speed_kt": "22 - 27",
+      "effect_on_land": "dikke takken bewegen, problemen met paraplu's, hoeden waaien af",
+      "effect_at_sea": "grotere golven, schuimplekken, vrij veel opwaaiend schuim"
+    },
+    {
+      "force": 7,
+      "knmi_name": "hard",
+      "maritime_name": "harde wind",
+      "speed_ms": "13,9 - 17,1",
+      "speed_kmh": "50 - 61",
+      "speed_kt": "28 - 33",
+      "effect_on_land": "hele bomen bewegen, vlaggen staan strak, het is lastig tegen de wind in te lopen of te fietsen",
+      "effect_at_sea": "golven worden hoger, beginnende schuimstrepen"
+    },
+    {
+      "force": 8,
+      "knmi_name": "stormachtig",
+      "maritime_name": "",
+      "speed_ms": "17,2 - 20,7",
+      "speed_kmh": "62 - 74",
+      "speed_kt": "34 - 40",
+      "effect_on_land": "twijgen breken van bomen, voortbewegen zeer moeilijk",
+      "effect_at_sea": "matig hoge golven, schuimstrepen"
+    },
+    {
+      "force": 9,
+      "knmi_name": "storm",
+      "maritime_name": "",
+      "speed_ms": "20,8 - 24,4",
+      "speed_kmh": "75 - 88",
+      "speed_kt": "41 - 47",
+      "effect_on_land": "schoorsteenkappen, antennes en dakpannen waaien weg, kinderen moeten moeite doen om te blijven staan, takken breken af, alleen zwaluwen en eenden vliegen nog",
+      "effect_at_sea": "hoge golven, rollers, zicht wordt slechter door schuimvlagen"
+    },
+    {
+      "force": 10,
+      "knmi_name": "zware storm",
+      "maritime_name": "",
+      "speed_ms": "24,5 - 28,4",
+      "speed_kmh": "89 - 102",
+      "speed_kt": "48 - 55",
+      "effect_on_land": "aanzienlijke schade aan gebouwen, volwassenen hebben veel moeite om te blijven staan, bomen raken ontworteld, vogels blijven aan de grond",
+      "effect_at_sea": "zeer hoge golven, zee wordt wit van het schuim, overslaande rollers, verminderd zicht"
+    },
+    {
+      "force": 11,
+      "knmi_name": "zeer zware storm/ orkaanachtig",
+      "maritime_name": "",
+      "speed_ms": "28,5 - 32,6",
+      "speed_kmh": "103 - 117",
+      "speed_kt": "56 - 63",
+      "effect_on_land": "flinke schade aan bossen",
+      "effect_at_sea": "extreem hoge golven, zee geheel bedekt met schuim, sterk verminderd zicht"
+    },
+    {
+      "force": 12,
+      "knmi_name": "orkaan",
+      "maritime_name": "",
+      "speed_ms": ">32,7",
+      "speed_kmh": ">117",
+      "speed_kt": ">63",
+      "effect_on_land": "veel wordt vernield, schuttingen waaien om, veel dakpannen waaien van het dak, wegen liggen vol met bladeren, lantaarnpalen schudden",
+      "effect_at_sea": "lucht is vol met verwaaid water en schuim, zee volkomen wit, vrijwel geen zicht meer"
+    }
+  ],
+  "meta": {
+    "title": "Schaal van Beaufort (KNMI-benamingen) - Free Download",
+    "description": "Windkracht 0 tot 12 op de schaal van Beaufort met de KNMI-benaming, de benaming in de zeevaart, windsnelheid in m/s, km/h en knopen en de uitwerking boven land en zee. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Schaal van Beaufort (KNMI-benamingen) | ListBase",
+    "seo_description": "Download Schaal van Beaufort (KNMI-benamingen) — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://nl.wikipedia.org/wiki/Schaal_van_Beaufort"
+    ]
+  }
+}
