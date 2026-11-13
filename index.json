@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-13T02:35:52.777Z",
-  "total_datasets": 554,
-  "total_records": 981967,
+  "generated": "2026-11-13T02:36:01.444Z",
+  "total_datasets": 555,
+  "total_records": 982006,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "geography",
@@ -4634,6 +4634,36 @@
         "xlsx": {
           "name": "nl-bakkerijen_NL.xlsx",
           "size": 86359
+        }
+      }
+    },
+    {
+      "id": "nl-beschermde-oorsprongsbenamingen-eu",
+      "name": "Nederlandse beschermde oorsprongsbenamingen en geografische aanduidingen (EU)",
+      "category": "food",
+      "record_count": 39,
+      "columns": [
+        "name",
+        "other_names",
+        "gi_type",
+        "product_type",
+        "status",
+        "file_number",
+        "application_date",
+        "registration_date",
+        "cn_code"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 13996,
+      "files": {
+        "csv": {
+          "name": "nl-beschermde-oorsprongsbenamingen-eu_NL.csv",
+          "size": 3766
+        },
+        "xlsx": {
+          "name": "nl-beschermde-oorsprongsbenamingen-eu_NL.xlsx",
+          "size": 9174
         }
       }
     },
