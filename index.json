@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-14T02:10:09.547Z",
-  "total_datasets": 556,
-  "total_records": 982081,
+  "generated": "2026-11-14T02:10:17.768Z",
+  "total_datasets": 557,
+  "total_records": 982144,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -1201,6 +1201,30 @@
         "xlsx": {
           "name": "nl-aex-jaarkoersen_NL.xlsx",
           "size": 8230
+        }
+      }
+    },
+    {
+      "id": "nl-inflatie-per-jaar-cpi",
+      "name": "Inflatie in Nederland per jaar (CPI) sinds 1963",
+      "category": "economy",
+      "record_count": 63,
+      "columns": [
+        "jaar",
+        "inflatie_pct",
+        "inflatie_afgeleid_pct"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70936ned/table",
+      "updated": "2026-11",
+      "size": 7575,
+      "files": {
+        "csv": {
+          "name": "nl-inflatie-per-jaar-cpi_NL.csv",
+          "size": 1140
+        },
+        "xlsx": {
+          "name": "nl-inflatie-per-jaar-cpi_NL.xlsx",
+          "size": 7755
         }
       }
     },
