@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-14T02:10:17.768Z",
-  "total_datasets": 557,
-  "total_records": 982144,
+  "generated": "2026-11-14T02:10:26.040Z",
+  "total_datasets": 558,
+  "total_records": 982191,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -6929,6 +6929,29 @@
         "xlsx": {
           "name": "nl-spreekwoorden_NL.xlsx",
           "size": 33441
+        }
+      }
+    },
+    {
+      "id": "nl-surinaams-nederlandse-woorden",
+      "name": "Surinaams-Nederlandse woorden",
+      "category": "language",
+      "record_count": 47,
+      "columns": [
+        "surinaams",
+        "algemeen_nederlands"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_verschillen_tussen_het_Nederlands_in_België,_Nederland_en_Suriname",
+      "updated": "2026-11",
+      "size": 5822,
+      "files": {
+        "csv": {
+          "name": "nl-surinaams-nederlandse-woorden_NL.csv",
+          "size": 1355
+        },
+        "xlsx": {
+          "name": "nl-surinaams-nederlandse-woorden_NL.xlsx",
+          "size": 7990
         }
       }
     },
