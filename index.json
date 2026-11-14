@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-13T02:36:01.444Z",
-  "total_datasets": 555,
-  "total_records": 982006,
+  "generated": "2026-11-14T02:10:09.547Z",
+  "total_datasets": 556,
+  "total_records": 982081,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -7057,6 +7057,34 @@
         "xlsx": {
           "name": "nl-belgische-ministers-van-justitie_NL.xlsx",
           "size": 12099
+        }
+      }
+    },
+    {
+      "id": "nl-geregistreerde-criminaliteit-soort-misdrijf-2025",
+      "name": "Geregistreerde criminaliteit per soort misdrijf (2025)",
+      "category": "law",
+      "record_count": 75,
+      "columns": [
+        "code",
+        "soort_misdrijf",
+        "geregistreerde_misdrijven",
+        "per_1000_inwoners",
+        "opgehelderd",
+        "opgehelderd_pct",
+        "registraties_verdachten"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table",
+      "updated": "2026-11",
+      "size": 20941,
+      "files": {
+        "csv": {
+          "name": "nl-geregistreerde-criminaliteit-soort-misdrijf-2025_NL.csv",
+          "size": 4764
+        },
+        "xlsx": {
+          "name": "nl-geregistreerde-criminaliteit-soort-misdrijf-2025_NL.xlsx",
+          "size": 10608
         }
       }
     },

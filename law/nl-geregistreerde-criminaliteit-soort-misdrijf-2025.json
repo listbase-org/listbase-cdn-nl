@@ -1,0 +1,736 @@
+{
+  "id": "nl-geregistreerde-criminaliteit-soort-misdrijf-2025",
+  "name": "Geregistreerde criminaliteit per soort misdrijf (2025)",
+  "title": "Geregistreerde criminaliteit per soort misdrijf (2025)",
+  "description": "Door de politie geregistreerde misdrijven in Nederland in 2025 per soort misdrijf, met aantal per 1000 inwoners, opgehelderde misdrijven en registraties van verdachten (CBS).",
+  "category": "law",
+  "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table",
+  "source_url": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table",
+  "updated": "2026-11",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "soort_misdrijf",
+      "label": "Soort Misdrijf",
+      "type": "string"
+    },
+    {
+      "key": "geregistreerde_misdrijven",
+      "label": "Geregistreerde Misdrijven",
+      "type": "number"
+    },
+    {
+      "key": "per_1000_inwoners",
+      "label": "Per 1000 Inwoners",
+      "type": "number"
+    },
+    {
+      "key": "opgehelderd",
+      "label": "Opgehelderd",
+      "type": "number"
+    },
+    {
+      "key": "opgehelderd_pct",
+      "label": "Opgehelderd Pct",
+      "type": "number"
+    },
+    {
+      "key": "registraties_verdachten",
+      "label": "Registraties Verdachten",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "",
+      "soort_misdrijf": "Misdrijven, totaal",
+      "geregistreerde_misdrijven": 816210,
+      "per_1000_inwoners": 45.2,
+      "opgehelderd": 180085,
+      "opgehelderd_pct": 22.1,
+      "registraties_verdachten": 252000
+    },
+    {
+      "code": "1",
+      "soort_misdrijf": "Vermogensmisdrijven",
+      "geregistreerde_misdrijven": 451740,
+      "per_1000_inwoners": 25,
+      "opgehelderd": 45810,
+      "opgehelderd_pct": 10.1,
+      "registraties_verdachten": 75255
+    },
+    {
+      "code": "11",
+      "soort_misdrijf": "Diefstal/verduistering en inbraak",
+      "geregistreerde_misdrijven": 354475,
+      "per_1000_inwoners": 19.6,
+      "opgehelderd": 36925,
+      "opgehelderd_pct": 10.4,
+      "registraties_verdachten": 52835
+    },
+    {
+      "code": "111",
+      "soort_misdrijf": "Diefstal en inbraak met geweld",
+      "geregistreerde_misdrijven": 6400,
+      "per_1000_inwoners": 0.4,
+      "opgehelderd": 1765,
+      "opgehelderd_pct": 27.6,
+      "registraties_verdachten": 4090
+    },
+    {
+      "code": "112",
+      "soort_misdrijf": "Diefstal en inbraak zonder geweld",
+      "geregistreerde_misdrijven": 348080,
+      "per_1000_inwoners": 19.3,
+      "opgehelderd": 35160,
+      "opgehelderd_pct": 10.1,
+      "registraties_verdachten": 48745
+    },
+    {
+      "code": "12",
+      "soort_misdrijf": "Bedrog",
+      "geregistreerde_misdrijven": 53115,
+      "per_1000_inwoners": 2.9,
+      "opgehelderd": 1795,
+      "opgehelderd_pct": 3.4,
+      "registraties_verdachten": 7970
+    },
+    {
+      "code": "121",
+      "soort_misdrijf": "Oplichting",
+      "geregistreerde_misdrijven": 41580,
+      "per_1000_inwoners": 2.3,
+      "opgehelderd": 1280,
+      "opgehelderd_pct": 3.1,
+      "registraties_verdachten": 6415
+    },
+    {
+      "code": "122",
+      "soort_misdrijf": "Flessentrekkerij",
+      "geregistreerde_misdrijven": 5,
+      "per_1000_inwoners": "",
+      "opgehelderd": 5,
+      "opgehelderd_pct": 100,
+      "registraties_verdachten": 5
+    },
+    {
+      "code": "123",
+      "soort_misdrijf": "Bedrog (overig)",
+      "geregistreerde_misdrijven": 11535,
+      "per_1000_inwoners": 0.6,
+      "opgehelderd": 515,
+      "opgehelderd_pct": 4.5,
+      "registraties_verdachten": 1555
+    },
+    {
+      "code": "13",
+      "soort_misdrijf": "Valsheidsmisdrijven",
+      "geregistreerde_misdrijven": 34505,
+      "per_1000_inwoners": 1.9,
+      "opgehelderd": 2485,
+      "opgehelderd_pct": 7.2,
+      "registraties_verdachten": 5300
+    },
+    {
+      "code": "131",
+      "soort_misdrijf": "Muntmisdrijf",
+      "geregistreerde_misdrijven": 325,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 110,
+      "opgehelderd_pct": 33.7,
+      "registraties_verdachten": 190
+    },
+    {
+      "code": "132",
+      "soort_misdrijf": "Valsheid in zegels en merken",
+      "geregistreerde_misdrijven": 185,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 60,
+      "opgehelderd_pct": 33.9,
+      "registraties_verdachten": 160
+    },
+    {
+      "code": "133",
+      "soort_misdrijf": "Valsheid in geschriften",
+      "geregistreerde_misdrijven": 33995,
+      "per_1000_inwoners": 1.9,
+      "opgehelderd": 2310,
+      "opgehelderd_pct": 6.8,
+      "registraties_verdachten": 4945
+    },
+    {
+      "code": "14",
+      "soort_misdrijf": "Heling",
+      "geregistreerde_misdrijven": 6160,
+      "per_1000_inwoners": 0.3,
+      "opgehelderd": 3845,
+      "opgehelderd_pct": 62.4,
+      "registraties_verdachten": 7065
+    },
+    {
+      "code": "15",
+      "soort_misdrijf": "Afpersing en afdreiging",
+      "geregistreerde_misdrijven": 2165,
+      "per_1000_inwoners": 0.1,
+      "opgehelderd": 220,
+      "opgehelderd_pct": 10.1,
+      "registraties_verdachten": 515
+    },
+    {
+      "code": "16",
+      "soort_misdrijf": "Bankbreuk",
+      "geregistreerde_misdrijven": 80,
+      "per_1000_inwoners": "",
+      "opgehelderd": 5,
+      "opgehelderd_pct": 7.5,
+      "registraties_verdachten": 40
+    },
+    {
+      "code": "17",
+      "soort_misdrijf": "Witwassen",
+      "geregistreerde_misdrijven": 1240,
+      "per_1000_inwoners": 0.1,
+      "opgehelderd": 535,
+      "opgehelderd_pct": 43,
+      "registraties_verdachten": 1525
+    },
+    {
+      "code": "18",
+      "soort_misdrijf": "Vermogensmisdrijf (overig)",
+      "geregistreerde_misdrijven": 0,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 0,
+      "opgehelderd_pct": 0,
+      "registraties_verdachten": 0
+    },
+    {
+      "code": "2",
+      "soort_misdrijf": "Vernielingen,misdropenborde/gezag",
+      "geregistreerde_misdrijven": 103530,
+      "per_1000_inwoners": 5.7,
+      "opgehelderd": 22490,
+      "opgehelderd_pct": 21.7,
+      "registraties_verdachten": 34880
+    },
+    {
+      "code": "21",
+      "soort_misdrijf": "Vernieling en beschadiging",
+      "geregistreerde_misdrijven": 71355,
+      "per_1000_inwoners": 4,
+      "opgehelderd": 7475,
+      "opgehelderd_pct": 10.5,
+      "registraties_verdachten": 12255
+    },
+    {
+      "code": "211",
+      "soort_misdrijf": "Vernieling aan auto",
+      "geregistreerde_misdrijven": 28785,
+      "per_1000_inwoners": 1.6,
+      "opgehelderd": 1910,
+      "opgehelderd_pct": 6.6,
+      "registraties_verdachten": 3215
+    },
+    {
+      "code": "212",
+      "soort_misdrijf": "Vernieling aan openbaar gebouw",
+      "geregistreerde_misdrijven": 1310,
+      "per_1000_inwoners": 0.1,
+      "opgehelderd": 425,
+      "opgehelderd_pct": 32.5,
+      "registraties_verdachten": 650
+    },
+    {
+      "code": "213",
+      "soort_misdrijf": "Vernieling middel openb vervoer",
+      "geregistreerde_misdrijven": 845,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 75,
+      "opgehelderd_pct": 8.9,
+      "registraties_verdachten": 205
+    },
+    {
+      "code": "215",
+      "soort_misdrijf": "Vernieling, beschadiging (overig)",
+      "geregistreerde_misdrijven": 40415,
+      "per_1000_inwoners": 2.2,
+      "opgehelderd": 5065,
+      "opgehelderd_pct": 12.5,
+      "registraties_verdachten": 8190
+    },
+    {
+      "code": "22",
+      "soort_misdrijf": "Openbare orde misdrijf",
+      "geregistreerde_misdrijven": 17255,
+      "per_1000_inwoners": 1,
+      "opgehelderd": 5735,
+      "opgehelderd_pct": 33.2,
+      "registraties_verdachten": 11850
+    },
+    {
+      "code": "221",
+      "soort_misdrijf": "Openlijke geweldpleging",
+      "geregistreerde_misdrijven": 4855,
+      "per_1000_inwoners": 0.3,
+      "opgehelderd": 1585,
+      "opgehelderd_pct": 32.7,
+      "registraties_verdachten": 5950
+    },
+    {
+      "code": "2211",
+      "soort_misdrijf": "Openlijk geweld tegen persoon",
+      "geregistreerde_misdrijven": 4500,
+      "per_1000_inwoners": 0.2,
+      "opgehelderd": 1420,
+      "opgehelderd_pct": 31.5,
+      "registraties_verdachten": 5375
+    },
+    {
+      "code": "2212",
+      "soort_misdrijf": "Openlijke geweld tegen goed",
+      "geregistreerde_misdrijven": 355,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 170,
+      "opgehelderd_pct": 47.2,
+      "registraties_verdachten": 575
+    },
+    {
+      "code": "222",
+      "soort_misdrijf": "Huisvredebreuk",
+      "geregistreerde_misdrijven": 4350,
+      "per_1000_inwoners": 0.2,
+      "opgehelderd": 2675,
+      "opgehelderd_pct": 61.5,
+      "registraties_verdachten": 3610
+    },
+    {
+      "code": "223",
+      "soort_misdrijf": "Lokaalvredebreuk",
+      "geregistreerde_misdrijven": 330,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 195,
+      "opgehelderd_pct": 58.4,
+      "registraties_verdachten": 275
+    },
+    {
+      "code": "224",
+      "soort_misdrijf": "Computervredebreuk",
+      "geregistreerde_misdrijven": 5845,
+      "per_1000_inwoners": 0.3,
+      "opgehelderd": 235,
+      "opgehelderd_pct": 4,
+      "registraties_verdachten": 455
+    },
+    {
+      "code": "225",
+      "soort_misdrijf": "Discriminatie",
+      "geregistreerde_misdrijven": 610,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 145,
+      "opgehelderd_pct": 23.9,
+      "registraties_verdachten": 255
+    },
+    {
+      "code": "226",
+      "soort_misdrijf": "Openbare orde misdrijf (overig)",
+      "geregistreerde_misdrijven": 1255,
+      "per_1000_inwoners": 0.1,
+      "opgehelderd": 900,
+      "opgehelderd_pct": 71.6,
+      "registraties_verdachten": 1300
+    },
+    {
+      "code": "23",
+      "soort_misdrijf": "Brandstichting / ontploffing",
+      "geregistreerde_misdrijven": 5585,
+      "per_1000_inwoners": 0.3,
+      "opgehelderd": 745,
+      "opgehelderd_pct": 13.4,
+      "registraties_verdachten": 1855
+    },
+    {
+      "code": "24",
+      "soort_misdrijf": "Openbaar gezag misdrijf",
+      "geregistreerde_misdrijven": 9335,
+      "per_1000_inwoners": 0.5,
+      "opgehelderd": 8535,
+      "opgehelderd_pct": 91.4,
+      "registraties_verdachten": 8915
+    },
+    {
+      "code": "241",
+      "soort_misdrijf": "Niet opvolgen van ambtelijk bevel",
+      "geregistreerde_misdrijven": 4900,
+      "per_1000_inwoners": 0.3,
+      "opgehelderd": 4790,
+      "opgehelderd_pct": 97.8,
+      "registraties_verdachten": 4885
+    },
+    {
+      "code": "242",
+      "soort_misdrijf": "Wederspannigheid",
+      "geregistreerde_misdrijven": 2880,
+      "per_1000_inwoners": 0.2,
+      "opgehelderd": 2840,
+      "opgehelderd_pct": 98.6,
+      "registraties_verdachten": 2875
+    },
+    {
+      "code": "243",
+      "soort_misdrijf": "Valse aangifte",
+      "geregistreerde_misdrijven": 185,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 65,
+      "opgehelderd_pct": 34.9,
+      "registraties_verdachten": 65
+    },
+    {
+      "code": "245",
+      "soort_misdrijf": "Verblijf ongewenste vreemdeling",
+      "geregistreerde_misdrijven": 170,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 140,
+      "opgehelderd_pct": 80.2,
+      "registraties_verdachten": 165
+    },
+    {
+      "code": "246",
+      "soort_misdrijf": "Openbaar gezag misdrijf (overig)",
+      "geregistreerde_misdrijven": 1200,
+      "per_1000_inwoners": 0.1,
+      "opgehelderd": 700,
+      "opgehelderd_pct": 58.5,
+      "registraties_verdachten": 930
+    },
+    {
+      "code": "3",
+      "soort_misdrijf": "Gewelds- en seksuele misdrijven",
+      "geregistreerde_misdrijven": 83345,
+      "per_1000_inwoners": 4.6,
+      "opgehelderd": 26580,
+      "opgehelderd_pct": 31.9,
+      "registraties_verdachten": 43700
+    },
+    {
+      "code": "31",
+      "soort_misdrijf": "Mishandeling",
+      "geregistreerde_misdrijven": 42460,
+      "per_1000_inwoners": 2.4,
+      "opgehelderd": 14400,
+      "opgehelderd_pct": 33.9,
+      "registraties_verdachten": 23535
+    },
+    {
+      "code": "32",
+      "soort_misdrijf": "Bedreiging en stalking",
+      "geregistreerde_misdrijven": 24705,
+      "per_1000_inwoners": 1.4,
+      "opgehelderd": 8615,
+      "opgehelderd_pct": 34.9,
+      "registraties_verdachten": 12615
+    },
+    {
+      "code": "321",
+      "soort_misdrijf": "Bedreiging",
+      "geregistreerde_misdrijven": 21420,
+      "per_1000_inwoners": 1.2,
+      "opgehelderd": 7110,
+      "opgehelderd_pct": 33.2,
+      "registraties_verdachten": 11110
+    },
+    {
+      "code": "322",
+      "soort_misdrijf": "Stalking",
+      "geregistreerde_misdrijven": 3285,
+      "per_1000_inwoners": 0.2,
+      "opgehelderd": 1505,
+      "opgehelderd_pct": 45.8,
+      "registraties_verdachten": 1505
+    },
+    {
+      "code": "33",
+      "soort_misdrijf": "Seksueel misdrijf",
+      "geregistreerde_misdrijven": 11120,
+      "per_1000_inwoners": 0.6,
+      "opgehelderd": 1860,
+      "opgehelderd_pct": 16.7,
+      "registraties_verdachten": 3740
+    },
+    {
+      "code": "331",
+      "soort_misdrijf": "Aanranding",
+      "geregistreerde_misdrijven": 2845,
+      "per_1000_inwoners": 0.2,
+      "opgehelderd": 505,
+      "opgehelderd_pct": 17.7,
+      "registraties_verdachten": 910
+    },
+    {
+      "code": "332",
+      "soort_misdrijf": "Verkrachting",
+      "geregistreerde_misdrijven": 2790,
+      "per_1000_inwoners": 0.2,
+      "opgehelderd": 245,
+      "opgehelderd_pct": 8.8,
+      "registraties_verdachten": 645
+    },
+    {
+      "code": "333",
+      "soort_misdrijf": "Schennis der eerbaarheid",
+      "geregistreerde_misdrijven": 1230,
+      "per_1000_inwoners": 0.1,
+      "opgehelderd": 510,
+      "opgehelderd_pct": 41.6,
+      "registraties_verdachten": 705
+    },
+    {
+      "code": "334",
+      "soort_misdrijf": "Ontucht met minderjarige",
+      "geregistreerde_misdrijven": 1865,
+      "per_1000_inwoners": 0.1,
+      "opgehelderd": 275,
+      "opgehelderd_pct": 14.8,
+      "registraties_verdachten": 630
+    },
+    {
+      "code": "335",
+      "soort_misdrijf": "Pornografie",
+      "geregistreerde_misdrijven": 560,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 115,
+      "opgehelderd_pct": 20.6,
+      "registraties_verdachten": 355
+    },
+    {
+      "code": "336",
+      "soort_misdrijf": "Ontucht met misbruik van gezag",
+      "geregistreerde_misdrijven": 100,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 0,
+      "opgehelderd_pct": 0,
+      "registraties_verdachten": 15
+    },
+    {
+      "code": "337",
+      "soort_misdrijf": "Seksueel misdrijf (overig)",
+      "geregistreerde_misdrijven": 1730,
+      "per_1000_inwoners": 0.1,
+      "opgehelderd": 205,
+      "opgehelderd_pct": 12,
+      "registraties_verdachten": 475
+    },
+    {
+      "code": "34",
+      "soort_misdrijf": "Levensmisdrijf",
+      "geregistreerde_misdrijven": 2675,
+      "per_1000_inwoners": 0.1,
+      "opgehelderd": 1245,
+      "opgehelderd_pct": 46.6,
+      "registraties_verdachten": 2665
+    },
+    {
+      "code": "35",
+      "soort_misdrijf": "Vrijheidsbeneming/gijzeling",
+      "geregistreerde_misdrijven": 520,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 175,
+      "opgehelderd_pct": 34,
+      "registraties_verdachten": 480
+    },
+    {
+      "code": "36",
+      "soort_misdrijf": "Mensenhandel en 244 mensensmokkel",
+      "geregistreerde_misdrijven": 765,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 95,
+      "opgehelderd_pct": 12.6,
+      "registraties_verdachten": 245
+    },
+    {
+      "code": "37",
+      "soort_misdrijf": "Geweldsmisdrijf (overig)",
+      "geregistreerde_misdrijven": 1105,
+      "per_1000_inwoners": 0.1,
+      "opgehelderd": 190,
+      "opgehelderd_pct": 17,
+      "registraties_verdachten": 420
+    },
+    {
+      "code": "4",
+      "soort_misdrijf": "Misdrijven WvSr (overig)",
+      "geregistreerde_misdrijven": 10990,
+      "per_1000_inwoners": 0.6,
+      "opgehelderd": 5410,
+      "opgehelderd_pct": 49.2,
+      "registraties_verdachten": 7585
+    },
+    {
+      "code": "5",
+      "soort_misdrijf": "Verkeersmisdrijven",
+      "geregistreerde_misdrijven": 139175,
+      "per_1000_inwoners": 7.7,
+      "opgehelderd": 64505,
+      "opgehelderd_pct": 46.3,
+      "registraties_verdachten": 60565
+    },
+    {
+      "code": "51",
+      "soort_misdrijf": "Verlaten plaats ongeval",
+      "geregistreerde_misdrijven": 72845,
+      "per_1000_inwoners": 4,
+      "opgehelderd": 2185,
+      "opgehelderd_pct": 3,
+      "registraties_verdachten": 2185
+    },
+    {
+      "code": "52",
+      "soort_misdrijf": "Rijden onder invloed",
+      "geregistreerde_misdrijven": 46820,
+      "per_1000_inwoners": 2.6,
+      "opgehelderd": 44040,
+      "opgehelderd_pct": 94.1,
+      "registraties_verdachten": 39455
+    },
+    {
+      "code": "53",
+      "soort_misdrijf": "Rijden tijdens ontzegging besturen",
+      "geregistreerde_misdrijven": 10340,
+      "per_1000_inwoners": 0.6,
+      "opgehelderd": 10340,
+      "opgehelderd_pct": 100,
+      "registraties_verdachten": 10170
+    },
+    {
+      "code": "54",
+      "soort_misdrijf": "Rijden tijdens rijverbod",
+      "geregistreerde_misdrijven": 430,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 430,
+      "opgehelderd_pct": 100,
+      "registraties_verdachten": 420
+    },
+    {
+      "code": "55",
+      "soort_misdrijf": "Voeren vals kenteken",
+      "geregistreerde_misdrijven": 1085,
+      "per_1000_inwoners": 0.1,
+      "opgehelderd": 610,
+      "opgehelderd_pct": 56.5,
+      "registraties_verdachten": 900
+    },
+    {
+      "code": "56",
+      "soort_misdrijf": "Joyriding",
+      "geregistreerde_misdrijven": 285,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 145,
+      "opgehelderd_pct": 50.7,
+      "registraties_verdachten": 160
+    },
+    {
+      "code": "57",
+      "soort_misdrijf": "Weigeren blaastest/bloedonderzoek ed",
+      "geregistreerde_misdrijven": 3025,
+      "per_1000_inwoners": 0.2,
+      "opgehelderd": 3025,
+      "opgehelderd_pct": 100,
+      "registraties_verdachten": 3005
+    },
+    {
+      "code": "58",
+      "soort_misdrijf": "Verkeersmisdrijf (overig)",
+      "geregistreerde_misdrijven": 4340,
+      "per_1000_inwoners": 0.2,
+      "opgehelderd": 3730,
+      "opgehelderd_pct": 85.9,
+      "registraties_verdachten": 4270
+    },
+    {
+      "code": "6",
+      "soort_misdrijf": "Drugsmisdrijven",
+      "geregistreerde_misdrijven": 16115,
+      "per_1000_inwoners": 0.9,
+      "opgehelderd": 8765,
+      "opgehelderd_pct": 54.4,
+      "registraties_verdachten": 18770
+    },
+    {
+      "code": "61",
+      "soort_misdrijf": "Harddrugs",
+      "geregistreerde_misdrijven": 9125,
+      "per_1000_inwoners": 0.5,
+      "opgehelderd": 4815,
+      "opgehelderd_pct": 52.7,
+      "registraties_verdachten": 10570
+    },
+    {
+      "code": "62",
+      "soort_misdrijf": "Softdrugs",
+      "geregistreerde_misdrijven": 6790,
+      "per_1000_inwoners": 0.4,
+      "opgehelderd": 3845,
+      "opgehelderd_pct": 56.6,
+      "registraties_verdachten": 7940
+    },
+    {
+      "code": "",
+      "soort_misdrijf": "6.3 Drugsmisdrijf (overig)",
+      "geregistreerde_misdrijven": 200,
+      "per_1000_inwoners": 0,
+      "opgehelderd": 110,
+      "opgehelderd_pct": 54.5,
+      "registraties_verdachten": 260
+    },
+    {
+      "code": "7",
+      "soort_misdrijf": "Vuurwapenmisdrijven",
+      "geregistreerde_misdrijven": 8005,
+      "per_1000_inwoners": 0.4,
+      "opgehelderd": 4950,
+      "opgehelderd_pct": 61.9,
+      "registraties_verdachten": 8585
+    },
+    {
+      "code": "9",
+      "soort_misdrijf": "Misdrijven overige wetten",
+      "geregistreerde_misdrijven": 3310,
+      "per_1000_inwoners": 0.2,
+      "opgehelderd": 1570,
+      "opgehelderd_pct": 47.5,
+      "registraties_verdachten": 2660
+    },
+    {
+      "code": "91",
+      "soort_misdrijf": "Militaire misdrijven",
+      "geregistreerde_misdrijven": 20,
+      "per_1000_inwoners": "",
+      "opgehelderd": 10,
+      "opgehelderd_pct": 57.9,
+      "registraties_verdachten": 10
+    },
+    {
+      "code": "92",
+      "soort_misdrijf": "Misdrijven (overig)",
+      "geregistreerde_misdrijven": 3290,
+      "per_1000_inwoners": 0.2,
+      "opgehelderd": 1560,
+      "opgehelderd_pct": 47.4,
+      "registraties_verdachten": 2650
+    }
+  ],
+  "meta": {
+    "title": "Geregistreerde criminaliteit per soort misdrijf (2025) - Free Download",
+    "description": "Door de politie geregistreerde misdrijven in Nederland in 2025 per soort misdrijf, met aantal per 1000 inwoners, opgehelderde misdrijven en registraties van verdachten (CBS). Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Geregistreerde criminaliteit per soort misdrijf (2025) | ListBase",
+    "seo_description": "Download Geregistreerde criminaliteit per soort misdrijf (2025) — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table"
+    ]
+  }
+}
