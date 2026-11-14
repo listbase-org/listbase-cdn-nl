@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-14T02:10:26.040Z",
-  "total_datasets": 558,
-  "total_records": 982191,
+  "generated": "2026-11-14T02:10:34.659Z",
+  "total_datasets": 559,
+  "total_records": 982322,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -7054,6 +7054,30 @@
         "xlsx": {
           "name": "nl-woord-van-het-jaar_NL.xlsx",
           "size": 11306
+        }
+      }
+    },
+    {
+      "id": "nl-woordverschillen-vlaanderen-nederland-suriname",
+      "name": "Woordverschillen tussen Vlaanderen, Nederland en Suriname",
+      "category": "language",
+      "record_count": 131,
+      "columns": [
+        "vlaanderen",
+        "nederland",
+        "suriname"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_verschillen_tussen_het_Nederlands_in_België,_Nederland_en_Suriname",
+      "updated": "2026-11",
+      "size": 18477,
+      "files": {
+        "csv": {
+          "name": "nl-woordverschillen-vlaanderen-nederland-suriname_NL.csv",
+          "size": 7241
+        },
+        "xlsx": {
+          "name": "nl-woordverschillen-vlaanderen-nederland-suriname_NL.xlsx",
+          "size": 11710
         }
       }
     },
