@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-15T02:14:10.682Z",
-  "total_datasets": 560,
-  "total_records": 982529,
+  "generated": "2026-11-15T02:14:19.884Z",
+  "total_datasets": 561,
+  "total_records": 982584,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -6732,6 +6732,35 @@
         "xlsx": {
           "name": "nl-anti-joodse-maatregelen_NL.xlsx",
           "size": 12694
+        }
+      }
+    },
+    {
+      "id": "nl-hunebedden",
+      "name": "Hunebedden in Nederland",
+      "category": "history",
+      "record_count": 55,
+      "columns": [
+        "number",
+        "place",
+        "province",
+        "rijksmonument",
+        "type",
+        "length_m",
+        "width_m",
+        "notes"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_hunebedden_in_Nederland",
+      "updated": "2026-11",
+      "size": 15426,
+      "files": {
+        "csv": {
+          "name": "nl-hunebedden_NL.csv",
+          "size": 5233
+        },
+        "xlsx": {
+          "name": "nl-hunebedden_NL.xlsx",
+          "size": 10285
         }
       }
     },
