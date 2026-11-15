@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-14T02:10:34.659Z",
-  "total_datasets": 559,
-  "total_records": 982322,
+  "generated": "2026-11-15T02:14:10.682Z",
+  "total_datasets": 560,
+  "total_records": 982529,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -7256,6 +7256,35 @@
         "xlsx": {
           "name": "nl-rechtbanken_NL.xlsx",
           "size": 6949
+        }
+      }
+    },
+    {
+      "id": "nl-beiaarden",
+      "name": "Beiaarden in Nederland",
+      "category": "music",
+      "record_count": 207,
+      "columns": [
+        "province",
+        "building",
+        "address",
+        "year_built",
+        "bellfounder",
+        "bells",
+        "carillonneur",
+        "notes"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_beiaarden_in_Nederland",
+      "updated": "2026-11",
+      "size": 72063,
+      "files": {
+        "csv": {
+          "name": "nl-beiaarden_NL.csv",
+          "size": 36245
+        },
+        "xlsx": {
+          "name": "nl-beiaarden_NL.xlsx",
+          "size": 25051
         }
       }
     },
