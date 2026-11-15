@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-15T02:14:19.884Z",
-  "total_datasets": 561,
-  "total_records": 982584,
+  "generated": "2026-11-15T02:14:28.033Z",
+  "total_datasets": 562,
+  "total_records": 982667,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "time",
@@ -14644,6 +14644,38 @@
         "xlsx": {
           "name": "nl-waterkrachtcentrales_NL.xlsx",
           "size": 8971
+        }
+      }
+    },
+    {
+      "id": "nl-windmolenparken-noordzee",
+      "name": "Windmolenparken in de Noordzee",
+      "category": "tech",
+      "record_count": 83,
+      "columns": [
+        "wind_farm",
+        "country",
+        "status",
+        "turbines",
+        "turbine_capacity_mw",
+        "total_capacity_mw",
+        "avg_annual_output_gwh",
+        "year",
+        "depth_m",
+        "distance_to_coast_km",
+        "operator"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_windmolenparken_in_de_Noordzee",
+      "updated": "2026-11",
+      "size": 31003,
+      "files": {
+        "csv": {
+          "name": "nl-windmolenparken-noordzee_NL.csv",
+          "size": 7842
+        },
+        "xlsx": {
+          "name": "nl-windmolenparken-noordzee_NL.xlsx",
+          "size": 12123
         }
       }
     },
