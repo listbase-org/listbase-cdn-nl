@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-16T02:17:56.549Z",
-  "total_datasets": 565,
-  "total_records": 983293,
+  "generated": "2026-11-16T02:18:04.749Z",
+  "total_datasets": 566,
+  "total_records": 983332,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -13958,6 +13958,34 @@
         "xlsx": {
           "name": "nl-tropische-dagen_NL.xlsx",
           "size": 18642
+        }
+      }
+    },
+    {
+      "id": "nl-warmste-en-koudste-temperatuur-per-jaar",
+      "name": "Hoogste en laagste temperatuur in Nederland per jaar",
+      "category": "science",
+      "record_count": 39,
+      "columns": [
+        "year",
+        "warmest_c",
+        "warmest_date",
+        "warmest_station",
+        "coldest_c",
+        "coldest_date",
+        "coldest_station"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_weerrecords",
+      "updated": "2026-11",
+      "size": 10780,
+      "files": {
+        "csv": {
+          "name": "nl-warmste-en-koudste-temperatuur-per-jaar_NL.csv",
+          "size": 2741
+        },
+        "xlsx": {
+          "name": "nl-warmste-en-koudste-temperatuur-per-jaar_NL.xlsx",
+          "size": 8650
         }
       }
     },
