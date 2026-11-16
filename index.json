@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-15T02:14:28.033Z",
-  "total_datasets": 562,
-  "total_records": 982667,
+  "generated": "2026-11-16T02:17:39.492Z",
+  "total_datasets": 563,
+  "total_records": 982876,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "finance",
@@ -3396,6 +3396,32 @@
         "xlsx": {
           "name": "nl-succesvolste-nederlandse-films_NL.xlsx",
           "size": 8067
+        }
+      }
+    },
+    {
+      "id": "nl-boomsoorten",
+      "name": "Boomsoorten in Nederland",
+      "category": "environment",
+      "record_count": 209,
+      "columns": [
+        "dutch_name",
+        "botanical_name",
+        "family",
+        "family_dutch",
+        "occurrence"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_boomsoorten_in_Nederland",
+      "updated": "2026-11",
+      "size": 42723,
+      "files": {
+        "csv": {
+          "name": "nl-boomsoorten_NL.csv",
+          "size": 16261
+        },
+        "xlsx": {
+          "name": "nl-boomsoorten_NL.xlsx",
+          "size": 14701
         }
       }
     },
