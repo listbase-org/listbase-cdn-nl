@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-16T02:17:47.609Z",
-  "total_datasets": 564,
-  "total_records": 982894,
+  "generated": "2026-11-16T02:17:56.549Z",
+  "total_datasets": 565,
+  "total_records": 983293,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -13932,6 +13932,32 @@
         "xlsx": {
           "name": "nl-stevinpremie-laureaten_NL.xlsx",
           "size": 7617
+        }
+      }
+    },
+    {
+      "id": "nl-tropische-dagen",
+      "name": "Tropische dagen in Nederland (sinds 1997)",
+      "category": "science",
+      "record_count": 399,
+      "columns": [
+        "date",
+        "max_temp_c",
+        "stations",
+        "official_tropical_day",
+        "de_bilt_temp_c"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_tropische_dagen_in_Nederland",
+      "updated": "2026-11",
+      "size": 68568,
+      "files": {
+        "csv": {
+          "name": "nl-tropische-dagen_NL.csv",
+          "size": 18883
+        },
+        "xlsx": {
+          "name": "nl-tropische-dagen_NL.xlsx",
+          "size": 18642
         }
       }
     },
