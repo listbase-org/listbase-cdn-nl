@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-16T02:18:04.749Z",
-  "total_datasets": 566,
-  "total_records": 983332,
+  "generated": "2026-11-16T02:18:13.761Z",
+  "total_datasets": 567,
+  "total_records": 983389,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "society",
@@ -13986,6 +13986,30 @@
         "xlsx": {
           "name": "nl-warmste-en-koudste-temperatuur-per-jaar_NL.xlsx",
           "size": 8650
+        }
+      }
+    },
+    {
+      "id": "nl-zwaarste-aardbevingen",
+      "name": "Zwaarste aardbevingen in Nederland",
+      "category": "science",
+      "record_count": 57,
+      "columns": [
+        "magnitude",
+        "date",
+        "epicentre"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_zwaarste_aardbevingen_in_Nederland",
+      "updated": "2026-11",
+      "size": 7078,
+      "files": {
+        "csv": {
+          "name": "nl-zwaarste-aardbevingen_NL.csv",
+          "size": 1782
+        },
+        "xlsx": {
+          "name": "nl-zwaarste-aardbevingen_NL.xlsx",
+          "size": 8290
         }
       }
     },
