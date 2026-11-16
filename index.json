@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-16T02:17:39.492Z",
-  "total_datasets": 563,
-  "total_records": 982876,
+  "generated": "2026-11-16T02:17:47.609Z",
+  "total_datasets": 564,
+  "total_records": 982894,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -13907,6 +13907,31 @@
         "xlsx": {
           "name": "nl-spinozapremie-laureaten_NL.xlsx",
           "size": 11455
+        }
+      }
+    },
+    {
+      "id": "nl-stevinpremie-laureaten",
+      "name": "Stevinpremie — laureaten",
+      "category": "science",
+      "record_count": 18,
+      "columns": [
+        "year",
+        "name",
+        "field",
+        "institution"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Stevinpremie",
+      "updated": "2026-11",
+      "size": 4092,
+      "files": {
+        "csv": {
+          "name": "nl-stevinpremie-laureaten_NL.csv",
+          "size": 1225
+        },
+        "xlsx": {
+          "name": "nl-stevinpremie-laureaten_NL.xlsx",
+          "size": 7617
         }
       }
     },
