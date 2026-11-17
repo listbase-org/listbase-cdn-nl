@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-17T02:28:27.199Z",
-  "total_datasets": 569,
-  "total_records": 983984,
+  "generated": "2026-11-17T02:28:40.346Z",
+  "total_datasets": 570,
+  "total_records": 984005,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -7288,6 +7288,34 @@
         "xlsx": {
           "name": "nl-presidenten-hoge-raad_NL.xlsx",
           "size": 8756
+        }
+      }
+    },
+    {
+      "id": "nl-procureurs-generaal-hoge-raad",
+      "name": "Procureurs-generaal bij de Hoge Raad der Nederlanden",
+      "category": "law",
+      "record_count": 21,
+      "columns": [
+        "term",
+        "name",
+        "born",
+        "died",
+        "appointed",
+        "dismissed",
+        "previous_positions"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_procureurs-generaal_bij_de_Hoge_Raad_der_Nederlanden",
+      "updated": "2026-11",
+      "size": 7357,
+      "files": {
+        "csv": {
+          "name": "nl-procureurs-generaal-hoge-raad_NL.csv",
+          "size": 2425
+        },
+        "xlsx": {
+          "name": "nl-procureurs-generaal-hoge-raad_NL.xlsx",
+          "size": 8238
         }
       }
     },
