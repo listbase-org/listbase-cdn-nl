@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-17T02:28:40.346Z",
-  "total_datasets": 570,
-  "total_records": 984005,
+  "generated": "2026-11-17T02:28:51.326Z",
+  "total_datasets": 571,
+  "total_records": 984027,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "music",
@@ -7339,6 +7339,31 @@
         "xlsx": {
           "name": "nl-rechtbanken_NL.xlsx",
           "size": 6949
+        }
+      }
+    },
+    {
+      "id": "nl-vicepresidenten-raad-van-state",
+      "name": "Vicepresidenten van de Raad van State",
+      "category": "law",
+      "record_count": 22,
+      "columns": [
+        "period",
+        "name",
+        "political_affiliation",
+        "background"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_vice-presidenten_van_de_Raad_van_State_(Nederland)",
+      "updated": "2026-11",
+      "size": 5733,
+      "files": {
+        "csv": {
+          "name": "nl-vicepresidenten-raad-van-state_NL.csv",
+          "size": 1964
+        },
+        "xlsx": {
+          "name": "nl-vicepresidenten-raad-van-state_NL.xlsx",
+          "size": 8082
         }
       }
     },
