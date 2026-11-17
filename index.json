@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-16T02:18:13.761Z",
-  "total_datasets": 567,
-  "total_records": 983389,
+  "generated": "2026-11-17T02:28:18.548Z",
+  "total_datasets": 568,
+  "total_records": 983954,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -14010,6 +14010,40 @@
         "xlsx": {
           "name": "nl-zwaarste-aardbevingen_NL.xlsx",
           "size": 8290
+        }
+      }
+    },
+    {
+      "id": "nl-belgische-gemeenten-inwoners",
+      "name": "Belgische gemeenten naar inwonertal (1846–2026)",
+      "category": "society",
+      "record_count": 565,
+      "columns": [
+        "rank",
+        "municipality",
+        "sub_municipalities",
+        "pop_1846",
+        "pop_1900",
+        "pop_1947",
+        "pop_2000",
+        "pop_2026",
+        "area_km2",
+        "density_per_km2",
+        "welfare_index_2023",
+        "median_income_index_2023",
+        "province_or_region"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Tabel_van_Belgische_gemeenten",
+      "updated": "2026-11",
+      "size": 223801,
+      "files": {
+        "csv": {
+          "name": "nl-belgische-gemeenten-inwoners_NL.csv",
+          "size": 57377
+        },
+        "xlsx": {
+          "name": "nl-belgische-gemeenten-inwoners_NL.xlsx",
+          "size": 50578
         }
       }
     },
