@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-18T02:36:03.041Z",
-  "total_datasets": 572,
-  "total_records": 984086,
+  "generated": "2026-11-18T02:36:11.422Z",
+  "total_datasets": 573,
+  "total_records": 984136,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "environment",
@@ -3252,6 +3252,31 @@
         "xlsx": {
           "name": "nl-achtbanen_NL.xlsx",
           "size": 11926
+        }
+      }
+    },
+    {
+      "id": "nl-bestbezochte-films-aller-tijden",
+      "name": "Bestbezochte films in de Nederlandse bioscopen aller tijden",
+      "category": "entertainment",
+      "record_count": 50,
+      "columns": [
+        "rank",
+        "film",
+        "year_in_netherlands",
+        "visitors"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_bestbezochte_films_in_Nederland",
+      "updated": "2026-11",
+      "size": 8106,
+      "files": {
+        "csv": {
+          "name": "nl-bestbezochte-films-aller-tijden_NL.csv",
+          "size": 2119
+        },
+        "xlsx": {
+          "name": "nl-bestbezochte-films-aller-tijden_NL.xlsx",
+          "size": 8470
         }
       }
     },
