@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-17T02:28:51.326Z",
-  "total_datasets": 571,
-  "total_records": 984027,
+  "generated": "2026-11-18T02:36:03.041Z",
+  "total_datasets": 572,
+  "total_records": 984086,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -3220,6 +3220,38 @@
         "xlsx": {
           "name": "nl-zuidwest-overijssel-corop-basisscholen_NL.xlsx",
           "size": 14380
+        }
+      }
+    },
+    {
+      "id": "nl-achtbanen",
+      "name": "Achtbanen in Nederland",
+      "category": "entertainment",
+      "record_count": 59,
+      "columns": [
+        "name",
+        "park",
+        "type",
+        "manufacturer",
+        "model",
+        "year",
+        "height",
+        "max_speed",
+        "length",
+        "ride_time",
+        "inversions"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_achtbanen_in_Nederland",
+      "updated": "2026-11",
+      "size": 22400,
+      "files": {
+        "csv": {
+          "name": "nl-achtbanen_NL.csv",
+          "size": 8185
+        },
+        "xlsx": {
+          "name": "nl-achtbanen_NL.xlsx",
+          "size": 11926
         }
       }
     },
