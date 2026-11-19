@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-19T02:20:29.897Z",
-  "total_datasets": 574,
-  "total_records": 984160,
+  "generated": "2026-11-19T02:20:38.706Z",
+  "total_datasets": 575,
+  "total_records": 984194,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -7498,6 +7498,32 @@
         "xlsx": {
           "name": "nl-beroepsorkesten_NL.xlsx",
           "size": 8024
+        }
+      }
+    },
+    {
+      "id": "nl-edison-oeuvreprijs-winnaars",
+      "name": "Edison Oeuvreprijs — winnaars per jaar",
+      "category": "music",
+      "record_count": 34,
+      "columns": [
+        "year",
+        "pop",
+        "jazz_world",
+        "classical",
+        "kleinkunst"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Edison_(muziekprijs)",
+      "updated": "2026-11",
+      "size": 7245,
+      "files": {
+        "csv": {
+          "name": "nl-edison-oeuvreprijs-winnaars_NL.csv",
+          "size": 2224
+        },
+        "xlsx": {
+          "name": "nl-edison-oeuvreprijs-winnaars_NL.xlsx",
+          "size": 8675
         }
       }
     },
