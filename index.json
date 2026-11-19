@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-18T02:36:11.422Z",
-  "total_datasets": 573,
-  "total_records": 984136,
+  "generated": "2026-11-19T02:20:29.897Z",
+  "total_datasets": 574,
+  "total_records": 984160,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -1305,6 +1305,30 @@
         "xlsx": {
           "name": "nl-strokartonfabrieken_NL.xlsx",
           "size": 14423
+        }
+      }
+    },
+    {
+      "id": "nl-wettelijk-minimumloon-bedragen",
+      "name": "Wettelijk minimumloon in Nederland (2013–2026)",
+      "category": "economy",
+      "record_count": 24,
+      "columns": [
+        "effective_date",
+        "gross_amount_eur",
+        "per"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Minimumloon",
+      "updated": "2026-11",
+      "size": 4179,
+      "files": {
+        "csv": {
+          "name": "nl-wettelijk-minimumloon-bedragen_NL.csv",
+          "size": 795
+        },
+        "xlsx": {
+          "name": "nl-wettelijk-minimumloon-bedragen_NL.xlsx",
+          "size": 7258
         }
       }
     },
