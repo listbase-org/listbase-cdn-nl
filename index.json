@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-20T02:15:59.457Z",
-  "total_datasets": 578,
-  "total_records": 984951,
+  "generated": "2026-11-20T02:17:13.810Z",
+  "total_datasets": 579,
+  "total_records": 985005,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "time",
@@ -14940,6 +14940,38 @@
         "xlsx": {
           "name": "nl-computerspellen-ontwikkeld-in-nederland_NL.xlsx",
           "size": 16361
+        }
+      }
+    },
+    {
+      "id": "nl-ict-en-ai-gebruik-bedrijven-per-bedrijfstak-2025",
+      "name": "ICT- en AI-gebruik bij bedrijven per bedrijfstak (2025)",
+      "category": "tech",
+      "record_count": 54,
+      "columns": [
+        "bedrijfstak",
+        "personeel_met_internet_pct",
+        "telewerk_pct",
+        "internet_1gbit_of_sneller_pct",
+        "website_pct",
+        "sociale_media_pct",
+        "erp_software_pct",
+        "crm_software_pct",
+        "clouddiensten_pct",
+        "ai_gebruikt_pct",
+        "multifactorauthenticatie_pct"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/86120NED",
+      "updated": "2026-11",
+      "size": 24057,
+      "files": {
+        "csv": {
+          "name": "nl-ict-en-ai-gebruik-bedrijven-per-bedrijfstak-2025_NL.csv",
+          "size": 4664
+        },
+        "xlsx": {
+          "name": "nl-ict-en-ai-gebruik-bedrijven-per-bedrijfstak-2025_NL.xlsx",
+          "size": 10549
         }
       }
     },
