@@ -1,12 +1,12 @@
 {
   "lang": "nl",
-  "generated": "2026-11-20T02:15:50.282Z",
-  "total_datasets": 577,
-  "total_records": 984643,
+  "generated": "2026-11-20T02:15:59.457Z",
+  "total_datasets": 578,
+  "total_records": 984951,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -155,6 +155,32 @@
         "xlsx": {
           "name": "nl-akkerbouwgewassen-oogst-2025_NL.xlsx",
           "size": 7836
+        }
+      }
+    },
+    {
+      "id": "nl-appel-en-perenrassen-oogst-per-jaar",
+      "name": "Oogst en teeltoppervlakte van appel- en perenrassen per jaar (1997–2026)",
+      "category": "agriculture",
+      "record_count": 308,
+      "columns": [
+        "jaar",
+        "ras",
+        "fruitsoort",
+        "oogst_mln_kg",
+        "teeltoppervlakte_ha"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84499NED",
+      "updated": "2026-11",
+      "size": 49563,
+      "files": {
+        "csv": {
+          "name": "nl-appel-en-perenrassen-oogst-per-jaar_NL.csv",
+          "size": 14062
+        },
+        "xlsx": {
+          "name": "nl-appel-en-perenrassen-oogst-per-jaar_NL.xlsx",
+          "size": 14257
         }
       }
     },
