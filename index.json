@@ -1,12 +1,12 @@
 {
   "lang": "nl",
-  "generated": "2026-11-19T02:20:46.933Z",
-  "total_datasets": 576,
-  "total_records": 984617,
+  "generated": "2026-11-20T02:15:50.282Z",
+  "total_datasets": 577,
+  "total_records": 984643,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -129,6 +129,32 @@
         "xlsx": {
           "name": "nl-aardappelmeelfabrieken_NL.xlsx",
           "size": 15818
+        }
+      }
+    },
+    {
+      "id": "nl-akkerbouwgewassen-oogst-2025",
+      "name": "Akkerbouwgewassen in Nederland: oppervlakte en oogst (2025)",
+      "category": "agriculture",
+      "record_count": 26,
+      "columns": [
+        "gewas",
+        "beteelde_oppervlakte_ha",
+        "geoogste_oppervlakte_ha",
+        "opbrengst_per_ha_ton",
+        "totale_opbrengst_ton"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/85636NED",
+      "updated": "2026-11",
+      "size": 7149,
+      "files": {
+        "csv": {
+          "name": "nl-akkerbouwgewassen-oogst-2025_NL.csv",
+          "size": 1345
+        },
+        "xlsx": {
+          "name": "nl-akkerbouwgewassen-oogst-2025_NL.xlsx",
+          "size": 7836
         }
       }
     },
