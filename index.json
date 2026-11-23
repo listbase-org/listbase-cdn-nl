@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-20T02:17:13.810Z",
-  "total_datasets": 579,
-  "total_records": 985005,
+  "generated": "2026-11-23T02:18:36.815Z",
+  "total_datasets": 580,
+  "total_records": 985081,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -14309,6 +14309,37 @@
         "xlsx": {
           "name": "nl-carnavalsverenigingen-limburg_NL.xlsx",
           "size": 19382
+        }
+      }
+    },
+    {
+      "id": "nl-geboorten-kerncijfers-per-jaar",
+      "name": "Geboorten in Nederland per jaar: kerncijfers (1950–2025)",
+      "category": "society",
+      "record_count": 76,
+      "columns": [
+        "jaar",
+        "levend_geboren_kinderen",
+        "geboorten_per_1000_inwoners",
+        "jongens",
+        "meisjes",
+        "gemiddeld_kindertal_per_vrouw",
+        "gem_leeftijd_moeder_eerste_kind",
+        "moeder_niet_gehuwd",
+        "tweelinggeboorten",
+        "drie_of_meerlinggeboorten"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/85722NED/table",
+      "updated": "2026-11",
+      "size": 30367,
+      "files": {
+        "csv": {
+          "name": "nl-geboorten-kerncijfers-per-jaar_NL.csv",
+          "size": 5837
+        },
+        "xlsx": {
+          "name": "nl-geboorten-kerncijfers-per-jaar_NL.xlsx",
+          "size": 11322
         }
       }
     },
