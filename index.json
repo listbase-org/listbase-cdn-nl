@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-23T02:18:46.675Z",
-  "total_datasets": 581,
-  "total_records": 985106,
+  "generated": "2026-11-23T02:18:54.715Z",
+  "total_datasets": 582,
+  "total_records": 985182,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -6788,6 +6788,40 @@
         "xlsx": {
           "name": "nl-opticiens_NL.xlsx",
           "size": 55231
+        }
+      }
+    },
+    {
+      "id": "nl-overledenen-naar-doodsoorzaak-per-jaar",
+      "name": "Overledenen naar belangrijkste doodsoorzaken per jaar (1950–2025)",
+      "category": "health",
+      "record_count": 76,
+      "columns": [
+        "jaar",
+        "totaal_overledenen",
+        "kanker",
+        "hart_en_vaatziekten",
+        "psychische_stoornissen_incl_dementie",
+        "ziekten_zenuwstelsel",
+        "ziekten_ademhalingsorganen",
+        "endocriene_en_stofwisselingsziekten",
+        "ziekten_spijsverteringsorganen",
+        "infectieziekten",
+        "ongevallen",
+        "vervoersongevallen",
+        "zelfdoding"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7052_95/table",
+      "updated": "2026-11",
+      "size": 38745,
+      "files": {
+        "csv": {
+          "name": "nl-overledenen-naar-doodsoorzaak-per-jaar_NL.csv",
+          "size": 7434
+        },
+        "xlsx": {
+          "name": "nl-overledenen-naar-doodsoorzaak-per-jaar_NL.xlsx",
+          "size": 12767
         }
       }
     },
