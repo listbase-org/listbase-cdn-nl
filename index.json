@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-23T02:18:36.815Z",
-  "total_datasets": 580,
-  "total_records": 985081,
+  "generated": "2026-11-23T02:18:46.675Z",
+  "total_datasets": 581,
+  "total_records": 985106,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -14365,6 +14365,38 @@
         "xlsx": {
           "name": "nl-hofjes_NL.xlsx",
           "size": 13836
+        }
+      }
+    },
+    {
+      "id": "nl-huwelijken-en-partnerschappen-per-jaar",
+      "name": "Huwelijken en geregistreerde partnerschappen per jaar (2001–2025)",
+      "category": "society",
+      "record_count": 25,
+      "columns": [
+        "jaar",
+        "huwelijkssluitingen",
+        "huwelijkssluitingen_per_1000_inwoners",
+        "tussen_man_en_vrouw",
+        "tussen_mannen",
+        "tussen_vrouwen",
+        "gem_leeftijd_man",
+        "gem_leeftijd_vrouw",
+        "gem_leeftijd_ongehuwde_man_eerste_huwelijk",
+        "gem_leeftijd_ongehuwde_vrouw_eerste_huwelijk",
+        "partnerschapsregistraties"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37772ned/table",
+      "updated": "2026-11",
+      "size": 13957,
+      "files": {
+        "csv": {
+          "name": "nl-huwelijken-en-partnerschappen-per-jaar_NL.csv",
+          "size": 2178
+        },
+        "xlsx": {
+          "name": "nl-huwelijken-en-partnerschappen-per-jaar_NL.xlsx",
+          "size": 8455
         }
       }
     },
