@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-24T02:08:55.482Z",
-  "total_datasets": 583,
-  "total_records": 985218,
+  "generated": "2026-11-24T02:09:04.132Z",
+  "total_datasets": 584,
+  "total_records": 985244,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "economy",
@@ -1116,6 +1116,40 @@
         "xlsx": {
           "name": "nl-osm-shop-art_NL.xlsx",
           "size": 22543
+        }
+      }
+    },
+    {
+      "id": "nl-podiumkunsten-voorstellingen-en-bezoeken-per-jaar",
+      "name": "Podiumkunsten: voorstellingen en bezoeken per jaar (1999–2024)",
+      "category": "culture",
+      "record_count": 26,
+      "columns": [
+        "jaar",
+        "voorstellingen_totaal",
+        "theatervoorstellingen",
+        "muziekvoorstellingen",
+        "dansvoorstellingen",
+        "muziektheatervoorstellingen",
+        "cabaret_en_kleinkunstvoorstellingen",
+        "bezoeken_totaal_x1000",
+        "bezoeken_theater_x1000",
+        "bezoeken_muziek_x1000",
+        "bezoeken_dans_x1000",
+        "bezoeken_muziektheater_x1000",
+        "bezoeken_cabaret_x1000"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70077NED/table",
+      "updated": "2026-11",
+      "size": 16070,
+      "files": {
+        "csv": {
+          "name": "nl-podiumkunsten-voorstellingen-en-bezoeken-per-jaar_NL.csv",
+          "size": 2753
+        },
+        "xlsx": {
+          "name": "nl-podiumkunsten-voorstellingen-en-bezoeken-per-jaar_NL.xlsx",
+          "size": 8946
         }
       }
     },
