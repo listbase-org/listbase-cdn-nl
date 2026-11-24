@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-23T02:18:54.715Z",
-  "total_datasets": 582,
-  "total_records": 985182,
+  "generated": "2026-11-24T02:08:55.482Z",
+  "total_datasets": 583,
+  "total_records": 985218,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "time",
@@ -15037,6 +15037,35 @@
         "xlsx": {
           "name": "nl-computerspellen-ontwikkeld-in-nederland_NL.xlsx",
           "size": 16361
+        }
+      }
+    },
+    {
+      "id": "nl-hernieuwbare-elektriciteitsproductie-per-bron-per-jaar",
+      "name": "Hernieuwbare elektriciteitsproductie per bron per jaar (1990–2025)",
+      "category": "tech",
+      "record_count": 36,
+      "columns": [
+        "jaar",
+        "totaal_hernieuwbaar_mln_kwh",
+        "aandeel_hernieuwbaar_pct_verbruik",
+        "waterkracht_mln_kwh",
+        "wind_op_land_mln_kwh",
+        "wind_op_zee_mln_kwh",
+        "zonnestroom_mln_kwh",
+        "biomassa_mln_kwh"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82610NED/table",
+      "updated": "2026-11",
+      "size": 13256,
+      "files": {
+        "csv": {
+          "name": "nl-hernieuwbare-elektriciteitsproductie-per-bron-per-jaar_NL.csv",
+          "size": 2027
+        },
+        "xlsx": {
+          "name": "nl-hernieuwbare-elektriciteitsproductie-per-bron-per-jaar_NL.xlsx",
+          "size": 8490
         }
       }
     },
