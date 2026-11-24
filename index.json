@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-24T02:09:04.132Z",
-  "total_datasets": 584,
-  "total_records": 985244,
+  "generated": "2026-11-24T02:09:13.357Z",
+  "total_datasets": 585,
+  "total_records": 985289,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -1391,6 +1391,32 @@
         "xlsx": {
           "name": "nl-strokartonfabrieken_NL.xlsx",
           "size": 14423
+        }
+      }
+    },
+    {
+      "id": "nl-uitgesproken-faillissementen-per-jaar",
+      "name": "Uitgesproken faillissementen per jaar (1981–2025)",
+      "category": "economy",
+      "record_count": 45,
+      "columns": [
+        "jaar",
+        "totaal",
+        "natuurlijke_personen_zonder_eenmanszaak",
+        "eenmanszaken",
+        "bedrijven_en_instellingen"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82242NED/table",
+      "updated": "2026-11",
+      "size": 10004,
+      "files": {
+        "csv": {
+          "name": "nl-uitgesproken-faillissementen-per-jaar_NL.csv",
+          "size": 1641
+        },
+        "xlsx": {
+          "name": "nl-uitgesproken-faillissementen-per-jaar_NL.xlsx",
+          "size": 8141
         }
       }
     },
