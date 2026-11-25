@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-25T02:21:46.384Z",
-  "total_datasets": 586,
-  "total_records": 985384,
+  "generated": "2026-11-25T02:21:55.736Z",
+  "total_datasets": 587,
+  "total_records": 985494,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "economy",
@@ -1090,6 +1090,36 @@
         "xlsx": {
           "name": "nl-musea_NL.xlsx",
           "size": 44263
+        }
+      }
+    },
+    {
+      "id": "nl-openbare-bibliotheken-1914-2025",
+      "name": "Openbare bibliotheken in Nederland: vestigingen, leden en uitleningen (1914–2025)",
+      "category": "culture",
+      "record_count": 110,
+      "columns": [
+        "jaar",
+        "bibliotheekorganisaties",
+        "vestigingen",
+        "leden_x1000",
+        "collectie_totaal_x1000",
+        "collectie_boeken_x1000",
+        "uitleningen_totaal_x1000",
+        "uitleningen_boeken_x1000",
+        "overheidsuitgaven_mln_euro"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82469NED/table",
+      "updated": "2026-11",
+      "size": 37953,
+      "files": {
+        "csv": {
+          "name": "nl-openbare-bibliotheken-1914-2025_NL.csv",
+          "size": 6610
+        },
+        "xlsx": {
+          "name": "nl-openbare-bibliotheken-1914-2025_NL.xlsx",
+          "size": 12089
         }
       }
     },
