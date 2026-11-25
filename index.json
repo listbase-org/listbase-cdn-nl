@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-25T02:21:55.736Z",
-  "total_datasets": 587,
-  "total_records": 985494,
+  "generated": "2026-11-25T02:22:04.546Z",
+  "total_datasets": 588,
+  "total_records": 985555,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 7
+      "dataset_count": 8
     }
   ],
   "datasets": [
@@ -17629,6 +17629,32 @@
         "xlsx": {
           "name": "nl-nederlands-metriek-stelsel-1816_NL.xlsx",
           "size": 7672
+        }
+      }
+    },
+    {
+      "id": "nl-oude-papierformaten-nederland-belgie",
+      "name": "Oude Nederlandse en Belgische papierformaten",
+      "category": "units",
+      "record_count": 61,
+      "columns": [
+        "naam",
+        "breedte_mm",
+        "hoogte_mm",
+        "afmeting_mm",
+        "land"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Papierformaat",
+      "updated": "2026-11",
+      "size": 11125,
+      "files": {
+        "csv": {
+          "name": "nl-oude-papierformaten-nederland-belgie_NL.csv",
+          "size": 3285
+        },
+        "xlsx": {
+          "name": "nl-oude-papierformaten-nederland-belgie_NL.xlsx",
+          "size": 8957
         }
       }
     },
