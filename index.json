@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-24T02:09:13.357Z",
-  "total_datasets": 585,
-  "total_records": 985289,
+  "generated": "2026-11-25T02:21:46.384Z",
+  "total_datasets": 586,
+  "total_records": 985384,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -7187,6 +7187,32 @@
         "xlsx": {
           "name": "nl-afkortingen_NL.xlsx",
           "size": 70736
+        }
+      }
+    },
+    {
+      "id": "nl-namen-grote-getallen-machten-van-tien",
+      "name": "Namen van grote getallen (machten van tien) in het Nederlands",
+      "category": "language",
+      "record_count": 95,
+      "columns": [
+        "naam",
+        "macht_van_tien",
+        "schrijfwijze",
+        "latijnse_stam",
+        "betekenis_stam"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_machten_van_tien",
+      "updated": "2026-11",
+      "size": 18766,
+      "files": {
+        "csv": {
+          "name": "nl-namen-grote-getallen-machten-van-tien_NL.csv",
+          "size": 5302
+        },
+        "xlsx": {
+          "name": "nl-namen-grote-getallen-machten-van-tien_NL.xlsx",
+          "size": 10153
         }
       }
     },
