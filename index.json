@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-26T02:17:54.718Z",
-  "total_datasets": 590,
-  "total_records": 986008,
+  "generated": "2026-11-26T02:18:03.175Z",
+  "total_datasets": 591,
+  "total_records": 986125,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "language",
@@ -7194,6 +7194,32 @@
         "xlsx": {
           "name": "nl-rampen-in-nederland_NL.xlsx",
           "size": 42558
+        }
+      }
+    },
+    {
+      "id": "nl-verdronken-dorpen-zeeland",
+      "name": "Verdronken dorpen in Zeeland",
+      "category": "history",
+      "record_count": 117,
+      "columns": [
+        "nr",
+        "plaatsnaam",
+        "alternatieve_naam",
+        "verdronken",
+        "jaar_verdronken"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_verdronken_dorpen_in_Zeeland",
+      "updated": "2026-11",
+      "size": 20693,
+      "files": {
+        "csv": {
+          "name": "nl-verdronken-dorpen-zeeland_NL.csv",
+          "size": 5167
+        },
+        "xlsx": {
+          "name": "nl-verdronken-dorpen-zeeland_NL.xlsx",
+          "size": 11133
         }
       }
     },
