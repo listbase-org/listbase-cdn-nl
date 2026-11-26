@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-25T02:22:04.546Z",
-  "total_datasets": 588,
-  "total_records": 985555,
+  "generated": "2026-11-26T02:17:45.649Z",
+  "total_datasets": 589,
+  "total_records": 985825,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -7015,6 +7015,32 @@
         "xlsx": {
           "name": "nl-anti-joodse-maatregelen_NL.xlsx",
           "size": 12694
+        }
+      }
+    },
+    {
+      "id": "nl-gevechten-tachtigjarige-oorlog",
+      "name": "Veldslagen, belegeringen en gevechten in de Tachtigjarige Oorlog (1566–1648)",
+      "category": "history",
+      "record_count": 270,
+      "columns": [
+        "gevecht",
+        "staatse_zijde",
+        "spaanse_zijde",
+        "datum",
+        "periode"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Lijst_van_gevechten_in_de_Tachtigjarige_Oorlog",
+      "updated": "2026-11",
+      "size": 68563,
+      "files": {
+        "csv": {
+          "name": "nl-gevechten-tachtigjarige-oorlog_NL.csv",
+          "size": 36266
+        },
+        "xlsx": {
+          "name": "nl-gevechten-tachtigjarige-oorlog_NL.xlsx",
+          "size": 17767
         }
       }
     },
