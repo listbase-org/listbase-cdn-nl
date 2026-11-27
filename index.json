@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-26T02:18:03.175Z",
-  "total_datasets": 591,
-  "total_records": 986125,
+  "generated": "2026-11-27T02:28:47.193Z",
+  "total_datasets": 592,
+  "total_records": 986147,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "reference",
@@ -7986,6 +7986,30 @@
         "xlsx": {
           "name": "nl-burgemeesters-2025-2029_NL.xlsx",
           "size": 24639
+        }
+      }
+    },
+    {
+      "id": "nl-gemeenteraadsverkiezingen-2026-landelijke-uitslag",
+      "name": "Gemeenteraadsverkiezingen 2026: landelijke uitslag per partij",
+      "category": "politics",
+      "record_count": 22,
+      "columns": [
+        "partij",
+        "percentage_stemmen",
+        "zetels"
+      ],
+      "source": "https://nl.wikipedia.org/wiki/Nederlandse_gemeenteraadsverkiezingen_2026",
+      "updated": "2026-11",
+      "size": 3816,
+      "files": {
+        "csv": {
+          "name": "nl-gemeenteraadsverkiezingen-2026-landelijke-uitslag_NL.csv",
+          "size": 483
+        },
+        "xlsx": {
+          "name": "nl-gemeenteraadsverkiezingen-2026-landelijke-uitslag_NL.xlsx",
+          "size": 7250
         }
       }
     },
