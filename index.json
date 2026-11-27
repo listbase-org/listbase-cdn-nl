@@ -1,8 +1,8 @@
 {
   "lang": "nl",
-  "generated": "2026-11-27T02:28:47.193Z",
-  "total_datasets": 592,
-  "total_records": 986147,
+  "generated": "2026-11-27T02:28:55.681Z",
+  "total_datasets": 593,
+  "total_records": 986190,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "history",
@@ -6781,6 +6781,34 @@
         "xlsx": {
           "name": "nl-drogisterijen_NL.xlsx",
           "size": 55909
+        }
+      }
+    },
+    {
+      "id": "nl-gezonde-levensverwachting-bij-geboorte-per-jaar",
+      "name": "Gezonde levensverwachting bij geboorte per jaar (1983–2025)",
+      "category": "health",
+      "record_count": 43,
+      "columns": [
+        "jaar",
+        "levensverwachting_mannen",
+        "in_goed_ervaren_gezondheid_mannen",
+        "zonder_matige_of_ernstige_beperking_mannen",
+        "levensverwachting_vrouwen",
+        "in_goed_ervaren_gezondheid_vrouwen",
+        "zonder_matige_of_ernstige_beperking_vrouwen"
+      ],
+      "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/71950ned/table",
+      "updated": "2026-11",
+      "size": 16682,
+      "files": {
+        "csv": {
+          "name": "nl-gezonde-levensverwachting-bij-geboorte-per-jaar_NL.csv",
+          "size": 2378
+        },
+        "xlsx": {
+          "name": "nl-gezonde-levensverwachting-bij-geboorte-per-jaar_NL.xlsx",
+          "size": 8529
         }
       }
     },
